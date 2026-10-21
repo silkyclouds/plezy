@@ -1429,6 +1429,7 @@ class _Translations$navigation$fr extends Translations$navigation$en {
 
 	// Translations
 	@override String get libraries => 'Bibliothèques';
+	@override String get replay => 'Replay';
 	@override String get downloads => 'Téléchargements';
 	@override String get liveTv => 'TV en direct';
 	@override String get explore => 'Explorer';
@@ -4179,6 +4180,7 @@ extension on TranslationsFr {
 			'licenses.licenseNumber' => ({required Object number}) => 'Licence ${number}',
 			'licenses.licensesCount' => ({required Object count}) => '${count} licences',
 			'navigation.libraries' => 'Bibliothèques',
+			'navigation.replay' => 'Replay',
 			'navigation.downloads' => 'Téléchargements',
 			'navigation.liveTv' => 'TV en direct',
 			'navigation.explore' => 'Explorer',
@@ -4562,9 +4564,9 @@ extension on TranslationsFr {
 			'downloads.customAmount' => 'Quantité personnalisée...',
 			'downloads.includeSpecials' => 'Inclure les spéciaux',
 			'downloads.howManyEpisodes' => 'Combien d\'épisodes ?',
-			'downloads.invalidEpisodeCount' => 'Saisissez un nombre d\'épisodes valide.',
 			_ => null,
 		} ?? switch (path) {
+			'downloads.invalidEpisodeCount' => 'Saisissez un nombre d\'épisodes valide.',
 			'downloads.keepSynced' => 'Garder synchronisé',
 			'downloads.downloadOnce' => 'Télécharger une fois',
 			'downloads.keepNUnwatched' => ({required Object count}) => 'Garder ${count} non vus',

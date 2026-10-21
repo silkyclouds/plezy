@@ -6,7 +6,7 @@ import '../i18n/strings.g.dart';
 import '../utils/platform_detector.dart';
 
 /// Navigation tab identifiers
-enum NavigationTabId { discover, explore, libraries, liveTv, search, downloads, settings }
+enum NavigationTabId { discover, explore, libraries, replay, liveTv, search, downloads, settings }
 
 /// Represents a navigation tab with its configuration
 class NavigationTab {
@@ -45,11 +45,13 @@ class NavigationTab {
     required bool isOffline,
     bool hasLiveTv = false,
     bool hasExplore = false,
+    bool hasReplay = false,
   }) {
     return allNavigationTabs.where((tab) {
       if (isOffline && tab.onlineOnly) return false;
       if (tab.id == NavigationTabId.liveTv && !hasLiveTv) return false;
       if (tab.id == NavigationTabId.explore && !hasExplore) return false;
+      if (tab.id == NavigationTabId.replay && !hasReplay) return false;
       if (tab.id == NavigationTabId.downloads && PlatformDetector.isAppleTV()) return false;
       return true;
     }).toList();
@@ -64,9 +66,15 @@ class NavigationTab {
     required bool isOffline,
     required bool hasLiveTv,
     bool hasExplore = false,
+    bool hasReplay = false,
     required NavigationTabId? preferredStartup,
   }) {
-    final tabs = getVisibleTabs(isOffline: isOffline, hasLiveTv: hasLiveTv, hasExplore: hasExplore);
+    final tabs = getVisibleTabs(
+      isOffline: isOffline,
+      hasLiveTv: hasLiveTv,
+      hasExplore: hasExplore,
+      hasReplay: hasReplay,
+    );
     if (isOffline && tabs.any((t) => t.id == NavigationTabId.downloads)) {
       return NavigationTabId.downloads;
     }
@@ -82,6 +90,7 @@ String _getHomeLabel() => t.common.home;
 String _getExploreLabel() => t.navigation.explore;
 String _getLibrariesLabel() => t.navigation.libraries;
 String _getLiveTvLabel() => t.navigation.liveTv;
+String _getReplayLabel() => t.navigation.replay;
 String _getSearchLabel() => t.common.search;
 String _getDownloadsLabel() => t.navigation.downloads;
 String _getSettingsLabel() => t.common.settings;
@@ -95,6 +104,7 @@ const allNavigationTabs = [
     icon: Symbols.video_library_rounded,
     getLabel: _getLibrariesLabel,
   ),
+  NavigationTab(id: NavigationTabId.replay, onlineOnly: true, icon: Symbols.tv_gen_rounded, getLabel: _getReplayLabel),
   NavigationTab(id: NavigationTabId.liveTv, onlineOnly: true, icon: Symbols.live_tv_rounded, getLabel: _getLiveTvLabel),
   NavigationTab(
     id: NavigationTabId.explore,

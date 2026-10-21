@@ -69,6 +69,7 @@ import 'discover_screen.dart';
 import 'explore_screen.dart';
 import 'libraries/library_quick_picker_sheet.dart';
 import 'libraries/libraries_screen.dart';
+import 'libraries/library_scope.dart';
 import 'livetv/live_tv_screen.dart';
 import 'search_screen.dart';
 import 'downloads/downloads_screen.dart';
@@ -415,6 +416,8 @@ class _MainScreenState extends State<MainScreen>
   RouteObserver<PageRoute<dynamic>>? _profileRouteObserver;
   bool _lastHasLiveTv = false;
   bool _lastHasExplore = false;
+  bool _lastHasReplay = false;
+  LibrariesProvider? _librariesForReplay;
 
   /// Whether a reconnection attempt is in progress
   bool _isReconnecting = false;
@@ -539,6 +542,11 @@ class _MainScreenState extends State<MainScreen>
       _lastHasExplore = context.read<CatalogSourcesProvider>().hasAnySource && _showExploreTabSetting;
     } catch (_) {
       _lastHasExplore = false;
+    }
+    try {
+      _lastHasReplay = context.read<LibrariesProvider>().libraries.any((library) => library.backend.isReplay);
+    } catch (_) {
+      _lastHasReplay = false;
     }
     // Re-evaluate Explore tab visibility when the appearance toggle flips
     // mid-session; the catalog-sources listener covers source changes.
@@ -995,6 +1003,14 @@ class _MainScreenState extends State<MainScreen>
       _catalogSourcesProvider!.addListener(_handleCatalogSourcesChanged);
     }
 
+    // The Catch-up TV tab exists while a catch-up channel is among the loaded libraries.
+    final libraries = context.read<LibrariesProvider>();
+    if (libraries != _librariesForReplay) {
+      _librariesForReplay?.removeListener(_handleReplayLibrariesChanged);
+      _librariesForReplay = libraries;
+      _librariesForReplay!.addListener(_handleReplayLibrariesChanged);
+    }
+
     // Wire up Companion Remote command routing (host devices only, once)
     if (!_companionRemoteSetup && PlatformDetector.shouldActAsRemoteHost(context)) {
       _companionRemoteSetup = true;
@@ -1084,6 +1100,7 @@ class _MainScreenState extends State<MainScreen>
     _offlineModeProvider?.removeListener(_handleOfflineStatusChanged);
     _multiServerProvider?.removeListener(_handleLiveTvChanged);
     _catalogSourcesProvider?.removeListener(_handleCatalogSourcesChanged);
+    _librariesForReplay?.removeListener(_handleReplayLibrariesChanged);
     _showExploreTabListenable?.removeListener(_handleCatalogSourcesChanged);
     if (_bindingSettleListener != null) {
       _activeProfileForListener?.removeListener(_bindingSettleListener!);
@@ -1246,6 +1263,7 @@ class _MainScreenState extends State<MainScreen>
         onLibraryOrderChanged: _onLibraryOrderChanged,
         onLibrarySelected: _handleLibrariesScreenSelected,
       ),
+      NavigationTabId.replay => LibrariesScreen(key: _screenKeys[tab], scope: LibraryScope.replay),
       NavigationTabId.liveTv => LiveTvScreen(key: _screenKeys[tab]),
       NavigationTabId.search => SearchScreen(key: _screenKeys[tab]),
       NavigationTabId.downloads => DownloadsScreen(key: _screenKeys[tab]),
@@ -1265,6 +1283,7 @@ class _MainScreenState extends State<MainScreen>
     isOffline: isOffline,
     hasLiveTv: _hasLiveTv,
     hasExplore: _lastHasExplore,
+    hasReplay: _lastHasReplay,
     preferredStartup: SettingsService.instanceOrNull?.read(SettingsService.startupSection),
   );
 
@@ -1344,6 +1363,14 @@ class _MainScreenState extends State<MainScreen>
   }
 
   bool get _showExploreTabSetting => SettingsService.instanceOrNull?.read(SettingsService.showExploreTab) ?? true;
+
+  void _handleReplayLibrariesChanged() {
+    final hasReplay = _librariesForReplay?.libraries.any((library) => library.backend.isReplay) ?? false;
+    if (hasReplay == _lastHasReplay) return;
+    _lastHasReplay = hasReplay;
+
+    _handleTabAvailabilityChanged();
+  }
 
   void _handleCatalogSourcesChanged() {
     final hasExplore = (_catalogSourcesProvider?.hasAnySource ?? false) && _showExploreTabSetting;
@@ -1938,7 +1965,12 @@ class _MainScreenState extends State<MainScreen>
   bool get _hasLiveTv => _lastHasLiveTv;
 
   List<NavigationTab> _getVisibleTabs(bool isOffline) {
-    return NavigationTab.getVisibleTabs(isOffline: isOffline, hasLiveTv: _hasLiveTv, hasExplore: _lastHasExplore);
+    return NavigationTab.getVisibleTabs(
+      isOffline: isOffline,
+      hasLiveTv: _hasLiveTv,
+      hasExplore: _lastHasExplore,
+      hasReplay: _lastHasReplay,
+    );
   }
 
   List<NavigationTab> _getBottomNavigationTabs(BuildContext context) {

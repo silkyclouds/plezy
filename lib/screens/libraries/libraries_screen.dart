@@ -29,6 +29,7 @@ import '../../mixins/refreshable.dart';
 import '../../i18n/strings.g.dart';
 import 'library_server_label.dart';
 import 'state_messages.dart';
+import 'library_scope.dart';
 import 'tabs/library_browse_tab.dart';
 import 'tabs/library_recommended_tab.dart';
 import 'tabs/library_collections_tab.dart';
@@ -46,7 +47,15 @@ class LibrariesScreen extends StatefulWidget {
   final VoidCallback? onLibraryOrderChanged;
   final ValueChanged<String>? onLibrarySelected;
 
-  const LibrariesScreen({super.key, this.onLibraryOrderChanged, this.onLibrarySelected});
+  /// Which libraries this screen lists.
+  final LibraryScope scope;
+
+  const LibrariesScreen({
+    super.key,
+    this.onLibraryOrderChanged,
+    this.onLibrarySelected,
+    this.scope = LibraryScope.media,
+  });
 
   @override
   State<LibrariesScreen> createState() => _LibrariesScreenState();
@@ -166,7 +175,7 @@ class _LibrariesScreenState extends State<LibrariesScreen>
     final hiddenLibrariesProvider = context.read<HiddenLibrariesProvider>();
     await hiddenLibrariesProvider.ensureInitialized();
     if (!mounted || _selectedLibraryGlobalKey != null) return;
-    final allLibraries = librariesProvider.libraries;
+    final allLibraries = widget.scope.filter(librariesProvider.libraries);
 
     if (allLibraries.isEmpty) {
       // No libraries available yet
@@ -763,7 +772,7 @@ class _LibrariesScreenState extends State<LibrariesScreen>
 
   Widget _buildContent(BuildContext context, bool groupByServerSetting) {
     final librariesProvider = context.watch<LibrariesProvider>();
-    final allLibraries = librariesProvider.libraries;
+    final allLibraries = widget.scope.filter(librariesProvider.libraries);
     final isLoadingLibraries = librariesProvider.isLoading;
     final librariesErrorMessage = librariesProvider.errorMessage;
 

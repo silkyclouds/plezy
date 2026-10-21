@@ -1426,6 +1426,7 @@
   },
   "navigation": {
     "libraries": "Libraries",
+    "replay": "Catch-up TV",
     "downloads": "Downloads",
     "liveTv": "Live TV",
     "explore": "Explore"

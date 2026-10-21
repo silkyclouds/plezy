@@ -3753,6 +3753,9 @@ class Translations$navigation$en {
 	/// en: 'Libraries'
 	String get libraries => 'Libraries';
 
+	/// en: 'Catch-up TV'
+	String get replay => 'Catch-up TV';
+
 	/// en: 'Downloads'
 	String get downloads => 'Downloads';
 
@@ -9422,6 +9425,7 @@ extension on Translations {
 			'licenses.licenseNumber' => ({required Object number}) => 'License ${number}',
 			'licenses.licensesCount' => ({required Object count}) => '${count} licenses',
 			'navigation.libraries' => 'Libraries',
+			'navigation.replay' => 'Catch-up TV',
 			'navigation.downloads' => 'Downloads',
 			'navigation.liveTv' => 'Live TV',
 			'navigation.explore' => 'Explore',
@@ -9655,9 +9659,9 @@ extension on Translations {
 			'liveTv.recordSettings.keepUpTo' => 'Episodes to keep',
 			'liveTv.recordSettings.keepUpToHint' => '0 keeps every episode',
 			'liveTv.startingInMinutes' => ({required Object minutes}) => 'Starting in ${minutes} min',
-			'liveTv.dayAtTime' => ({required Object day, required Object time}) => '${day} at ${time}',
 			_ => null,
 		} ?? switch (path) {
+			'liveTv.dayAtTime' => ({required Object day, required Object time}) => '${day} at ${time}',
 			'liveTv.invalidPlaybackData' => ({required Object product}) => '${product} returned invalid Live TV playback data',
 			'liveTv.failedToStartChannel' => 'Could not start the live channel',
 			'liveTv.failedToBuildStreamUrl' => 'Could not build the stream URL',
@@ -10169,9 +10173,9 @@ extension on Translations {
 			'performanceOverlay.decoderSoftware' => 'Software',
 			'performanceOverlay.decoderHardware' => 'Hardware',
 			'performanceOverlay.tunnelingActive' => 'Active',
-			'performanceOverlay.dvRpuFailed' => ({required Object converted, required Object failures}) => '${converted} (${failures} failed)',
 			_ => null,
 		} ?? switch (path) {
+			'performanceOverlay.dvRpuFailed' => ({required Object converted, required Object failures}) => '${converted} (${failures} failed)',
 			'externalPlayer.title' => 'External Player',
 			'externalPlayer.useExternalPlayer' => 'Use External Player',
 			'externalPlayer.useExternalPlayerDescription' => 'Open videos in another app',

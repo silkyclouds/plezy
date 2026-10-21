@@ -1426,6 +1426,7 @@
   },
   "navigation": {
     "libraries": "Bibliothèques",
+    "replay": "Replay",
     "downloads": "Téléchargements",
     "liveTv": "TV en direct",
     "explore": "Explorer"

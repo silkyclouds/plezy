@@ -95,14 +95,6 @@ class _AddReplayScreenState extends State<AddReplayScreen> {
           padding: const EdgeInsets.all(16),
           sliver: SliverList(
             delegate: SliverChildListDelegate([
-              Text(t.addServer.catchUpTvSources, style: Theme.of(context).textTheme.titleMedium),
-              for (final id in replaySourceIds)
-                CheckboxListTile(
-                  value: _selected.contains(id),
-                  title: Text(replaySourceName(id)),
-                  onChanged: (on) => setState(() => on == true ? _selected.add(id) : _selected.remove(id)),
-                ),
-              const SizedBox(height: 16),
               FocusableButton(
                 autofocus: true,
                 onPressed: _saving || _selected.isEmpty ? null : _add,
@@ -112,6 +104,14 @@ class _AddReplayScreenState extends State<AddReplayScreen> {
                 ),
               ),
               if (_selected.isEmpty) Text(t.addServer.catchUpTvNoSource),
+              const SizedBox(height: 16),
+              Text(t.addServer.catchUpTvSources, style: Theme.of(context).textTheme.titleMedium),
+              for (final id in replaySourceIds)
+                CheckboxListTile(
+                  value: _selected.contains(id),
+                  title: Text(replaySourceName(id)),
+                  onChanged: (on) => setState(() => on == true ? _selected.add(id) : _selected.remove(id)),
+                ),
             ]),
           ),
         ),

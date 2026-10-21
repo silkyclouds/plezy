@@ -468,6 +468,7 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
 
   static const _kHome = 'home';
   static const _kExplore = 'explore';
+  static const _kReplay = 'replay';
   static const _kNowPlaying = 'nowPlaying';
   static const _kLibraries = 'libraries';
   static const _kSearch = 'search';
@@ -626,6 +627,8 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
         return _kHome;
       case NavigationTabId.explore:
         return _kExplore;
+      case NavigationTabId.replay:
+        return _kReplay;
       case NavigationTabId.libraries:
         final libKey = widget.selectedLibraryKey;
         if (libKey != null && _librariesExpanded) {
@@ -677,11 +680,13 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
     required bool hasLiveTv,
     required bool hasNowPlaying,
     required bool hasExplore,
+    required bool hasReplay,
   }) {
     return {
       _kHome,
       if (hasNowPlaying) _kNowPlaying,
       _kLibraries,
+      if (hasReplay) _kReplay,
       if (hasExplore) _kExplore,
       _kSearch,
       if (_showDownloads) _kDownloads,
@@ -758,6 +763,7 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
     required bool hasLiveTv,
     required bool hasNowPlaying,
     required bool hasExplore,
+    required bool hasReplay,
     required bool isCollapsed,
   }) {
     return [
@@ -776,6 +782,7 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
             if (_hiddenLibrariesExpanded) ..._focusKeysForLibraryRows(hiddenRows),
           ],
         ],
+        if (hasReplay) _kReplay,
         if (hasLiveTv) 'liveTv',
         if (hasExplore) _kExplore,
         _kSearch,
@@ -864,7 +871,12 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
     final hiddenLibrariesProvider = context.watch<HiddenLibrariesProvider>();
     final hiddenKeys = hiddenLibrariesProvider.hiddenLibraryKeys;
 
-    final allLibraries = librariesProvider.libraries;
+    // Catch-up TV channels have their own destination instead of crowding the library list.
+    final allLibraries = [
+      for (final library in librariesProvider.libraries)
+        if (!library.backend.isReplay) library,
+    ];
+    final hasReplay = librariesProvider.libraries.any((library) => library.backend.isReplay);
     final visibleLibraries = <MediaLibrary>[];
     final hiddenLibraries = <MediaLibrary>[];
     final serverIds = <String>{};
@@ -927,6 +939,7 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
             hasLiveTv: hasLiveTv,
             hasNowPlaying: nowPlayingTrack != null,
             hasExplore: hasExplore,
+            hasReplay: hasReplay,
           ),
         );
         final focusOrder = _buildFocusOrder(
@@ -936,6 +949,7 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
           hasLiveTv: hasLiveTv,
           hasNowPlaying: nowPlayingTrack != null,
           hasExplore: hasExplore,
+          hasReplay: hasReplay,
           isCollapsed: isCollapsed,
         );
         _debugAssertUniqueFocusOrder(focusOrder);
@@ -1045,6 +1059,18 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
                                         isCollapsed: isCollapsed,
                                       ),
                                       const SizedBox(height: _itemGap),
+                                      if (hasReplay) ...[
+                                        _buildNavItem(
+                                          icon: Symbols.tv_gen_rounded,
+                                          selectedIcon: Symbols.tv_gen_rounded,
+                                          label: Translations.of(context).navigation.replay,
+                                          isSelected: widget.selectedTab == NavigationTabId.replay,
+                                          onTap: () => widget.onDestinationSelected(NavigationTabId.replay),
+                                          focusNode: _focusTracker.get(_kReplay),
+                                          isCollapsed: isCollapsed,
+                                        ),
+                                        const SizedBox(height: _itemGap),
+                                      ],
                                       if (context.watch<MultiServerProvider>().hasLiveTv) ...[
                                         _buildNavItem(
                                           icon: Symbols.live_tv_rounded,
