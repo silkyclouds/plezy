@@ -25,7 +25,9 @@ class BackendBadge extends StatelessWidget {
       MediaBackend.plex => 'assets/plex_chevron.svg',
       MediaBackend.jellyfin => 'assets/jellyfin_icon.svg',
       MediaBackend.emby => 'assets/emby_icon.svg',
+      MediaBackend.replay => null,
     };
+    if (asset == null) return Icon(Icons.live_tv_rounded, size: size, color: tint);
     return SvgPicture.asset(
       asset,
       width: size,

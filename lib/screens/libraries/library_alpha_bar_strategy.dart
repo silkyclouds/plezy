@@ -68,6 +68,7 @@ abstract class LibraryAlphaBarStrategy {
         isShared: isShared,
       ),
       MediaBackend.jellyfin || MediaBackend.emby => const MediaBrowserAlphaBarStrategy(),
+      MediaBackend.replay => const HiddenAlphaBarStrategy(),
     };
   }
 }
@@ -214,4 +215,38 @@ class MediaBrowserAlphaBarStrategy implements LibraryAlphaBarStrategy {
     final next = (currentMediaBrowserPrefix == letter) ? null : letter;
     onMediaBrowserPrefixChange(next);
   }
+}
+
+/// Strategy for backends whose libraries are not alphabetical lists (catch-up TV): the bar never shows.
+class HiddenAlphaBarStrategy implements LibraryAlphaBarStrategy {
+  const HiddenAlphaBarStrategy();
+
+  @override
+  bool shouldShow({
+    required int totalItemCount,
+    required int loadedCharacterCount,
+    required String? sortKey,
+    required bool isFolderGrouping,
+    required String? mediaBrowserAlphaPrefix,
+    required bool isPhone,
+  }) => false;
+
+  @override
+  Future<({List<LibraryFirstCharacter> chars, AlphaJumpHelper helper})> loadCharacters({
+    required Map<String, dynamic> filters,
+    required int? typeId,
+    required bool descending,
+  }) async => (chars: const <LibraryFirstCharacter>[], helper: AlphaJumpHelper(const [], descending: descending));
+
+  @override
+  String currentLetter(int index, AlphaJumpHelper helper, {String? mediaBrowserAlphaPrefix}) => '';
+
+  @override
+  void onLetterPressed(
+    int targetIndex,
+    AlphaJumpHelper helper, {
+    required String? currentMediaBrowserPrefix,
+    required void Function(int index) onPlexJump,
+    required void Function(String? nextPrefix) onMediaBrowserPrefixChange,
+  }) {}
 }

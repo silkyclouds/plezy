@@ -9,18 +9,21 @@ import 'media_browser_dialect.dart';
 enum MediaBackend {
   plex,
   jellyfin,
-  emby;
+  emby,
+  replay;
 
   String get id => switch (this) {
     MediaBackend.plex => 'plex',
     MediaBackend.jellyfin => 'jellyfin',
     MediaBackend.emby => 'emby',
+    MediaBackend.replay => 'replay',
   };
 
   static MediaBackend fromId(String id) => switch (id) {
     'plex' => MediaBackend.plex,
     'jellyfin' => MediaBackend.jellyfin,
     'emby' => MediaBackend.emby,
+    'replay' => MediaBackend.replay,
     _ => throw ArgumentError('Unknown MediaBackend id: $id'),
   };
 
@@ -31,12 +34,13 @@ enum MediaBackend {
   ///   surfaces corrupted cache rows or schema drift instead of silently
   ///   misclassifying Jellyfin items as Plex.
   static MediaBackend fromString(String? id) {
-    if (id != null && id != 'plex' && id != 'jellyfin' && id != 'emby') {
+    if (id != null && id != 'plex' && id != 'jellyfin' && id != 'emby' && id != 'replay') {
       appLogger.w('Unknown MediaBackend id "$id"; defaulting to plex');
     }
     return switch (id) {
       'jellyfin' => MediaBackend.jellyfin,
       'emby' => MediaBackend.emby,
+      'replay' => MediaBackend.replay,
       _ => MediaBackend.plex,
     };
   }
@@ -47,10 +51,15 @@ enum MediaBackend {
   /// of comparing against [MediaBackend.jellyfin].
   bool get usesMediaBrowserApi => dialect != null;
 
-  /// The MediaBrowser dialect this backend speaks, or `null` for Plex.
+  /// True for the built-in catch-up TV backend, which has no server and no
+  /// account: its catalogue comes from the broadcasters' public sites.
+  bool get isReplay => this == MediaBackend.replay;
+
+  /// The MediaBrowser dialect this backend speaks, or `null` for Plex and replay.
   MediaBrowserDialect? get dialect => switch (this) {
     MediaBackend.plex => null,
     MediaBackend.jellyfin => MediaBrowserDialect.jellyfin,
     MediaBackend.emby => MediaBrowserDialect.emby,
+    MediaBackend.replay => null,
   };
 }

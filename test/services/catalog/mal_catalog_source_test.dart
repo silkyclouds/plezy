@@ -112,6 +112,7 @@ Future<void> _expectNativeLibraryMatch(
     MediaBackend.plex => testPlexClient(handler: respond),
     MediaBackend.jellyfin => testJellyfinClient(handler: respond),
     MediaBackend.emby => testEmbyClient(handler: respond),
+    MediaBackend.replay => fail('The replay backend has no HTTP server to fake'),
   };
   final manager = MultiServerManager()..debugRegisterClientForTesting(client);
   final multiServer = MultiServerProvider(manager, DataAggregationService(manager));

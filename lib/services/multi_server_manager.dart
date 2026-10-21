@@ -810,6 +810,9 @@ class MultiServerManager {
     return bound;
   }
 
+  /// Add the built-in catch-up TV backend for a profile. Returns true when the client is registered and healthy.
+  Future<bool> addReplayConnection(ReplayConnection connection) async => false;
+
   /// Add a MediaBrowser server backed by an authenticated
   /// [JellyfinConnection]. Returns true on success.
   ///

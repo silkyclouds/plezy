@@ -72,6 +72,7 @@ AccountPreferenceResolution resolveAccountPreferenceAccounts({
         row: row,
         connection: connection,
       ),
+      ReplayConnection() => null,
       null => null,
     };
     if (account == null) continue;

@@ -502,6 +502,8 @@ class ActiveProfileBinder {
           expected.addAll(plexMembership(account));
         case JellyfinConnection(:final serverMachineId):
           expected.add(serverMachineId);
+        case ReplayConnection(:final id):
+          expected.add(id);
         case null:
           break;
       }
@@ -655,6 +657,9 @@ class ActiveProfileBinder {
         case JellyfinConnection():
           expected.add(conn.serverMachineId);
           futures.add(_bindMediaBrowser(conn, profileId: profile.id, generation: generation));
+        case ReplayConnection():
+          expected.add(conn.id);
+          futures.add(_bindReplay(conn, profileId: profile.id, generation: generation));
       }
     }
     final results = await Future.wait(futures);
@@ -1194,6 +1199,18 @@ class ActiveProfileBinder {
       return _ProfileBindResult.visible({conn.serverMachineId});
     }
     return _ProfileBindResult(visibleServerIds: const {}, expectedServerIds: {conn.serverMachineId});
+  }
+
+  Future<_ProfileBindResult> _bindReplay(
+    ReplayConnection conn, {
+    required String profileId,
+    required int generation,
+  }) async {
+    final ok = await serverManager.addReplayConnection(conn);
+    if (!_isCurrentBind(profileId, generation) || !ok) {
+      return _ProfileBindResult(visibleServerIds: const {}, expectedServerIds: {conn.id});
+    }
+    return _ProfileBindResult.visible({conn.id});
   }
 
   bool _isCurrentBind(String profileId, int generation) {

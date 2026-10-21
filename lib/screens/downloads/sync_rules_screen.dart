@@ -174,6 +174,8 @@ class _SyncRuleTileState extends State<_SyncRuleTile> {
           if (serverMachineId == rule.serverId && serverName.isNotEmpty) {
             return _RuleServerInfo(label: serverName, isKnown: true);
           }
+        case ReplayConnection(:final id, :final displayLabel):
+          if (id == rule.serverId) return _RuleServerInfo(label: displayLabel, isKnown: true);
       }
     }
 

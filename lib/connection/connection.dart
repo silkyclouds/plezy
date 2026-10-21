@@ -365,3 +365,68 @@ class JellyfinConnection extends Connection {
     return tag == null || tag.isEmpty ? null : tag;
   }
 }
+
+/// The built-in catch-up TV backend. There is no server and no account: the connection only records which
+/// broadcasters the user wants to see and a few per-broadcaster preferences.
+class ReplayConnection extends Connection {
+  /// Every replay connection shares this id, so a profile owns at most one.
+  static const singletonId = 'replay';
+
+  @override
+  final String id;
+
+  @override
+  final DateTime createdAt;
+
+  @override
+  final DateTime? lastAuthenticatedAt;
+
+  /// Provider ids of the broadcasters shown in the app, in display order.
+  final List<String> enabledSources;
+
+  ReplayConnection({
+    this.id = singletonId,
+    required List<String> enabledSources,
+    required this.createdAt,
+    this.lastAuthenticatedAt,
+  }) : enabledSources = List.unmodifiable(enabledSources);
+
+  @override
+  MediaBackend get kind => MediaBackend.replay;
+
+  @override
+  String get displayName => 'Catch-up TV';
+
+  @override
+  String get displayLabel => displayName;
+
+  @override
+  String? get displaySubtitle => enabledSources.length == 1 ? '1 broadcaster' : '${enabledSources.length} broadcasters';
+
+  ReplayConnection copyWith({List<String>? enabledSources}) {
+    return ReplayConnection(
+      id: id,
+      enabledSources: enabledSources ?? this.enabledSources,
+      createdAt: createdAt,
+      lastAuthenticatedAt: lastAuthenticatedAt,
+    );
+  }
+
+  @override
+  Map<String, Object?> toConfigJson() => {'enabledSources': enabledSources};
+
+  factory ReplayConnection.fromConfigJson({
+    required String id,
+    required Map<String, Object?> json,
+    required DateTime createdAt,
+    DateTime? lastAuthenticatedAt,
+  }) {
+    final sources = json['enabledSources'];
+    return ReplayConnection(
+      id: id,
+      enabledSources: sources is List ? sources.whereType<String>().toList() : const [],
+      createdAt: createdAt,
+      lastAuthenticatedAt: lastAuthenticatedAt,
+    );
+  }
+}

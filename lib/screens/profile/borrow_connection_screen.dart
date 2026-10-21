@@ -254,6 +254,8 @@ class _BorrowConnectionScreenState extends State<BorrowConnectionScreen> {
           await _borrowPlex(cand);
         case JellyfinConnection():
           await _borrowJellyfin(cand);
+        case ReplayConnection():
+          break;
       }
     } catch (e, st) {
       // Without this, a throw from the verify/borrow steps (network, DB)
