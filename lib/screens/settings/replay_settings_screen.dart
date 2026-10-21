@@ -23,7 +23,7 @@ import '../../widgets/app_icon.dart';
 import '../../widgets/focused_scroll_scaffold.dart';
 import '../../widgets/focusable_list_tile.dart';
 import '../../widgets/settings_section.dart';
-import 'add_replay_screen.dart';
+import 'replay_connection_setup.dart';
 
 /// Chooses which broadcasters catch-up TV shows and signs the user in to the ones that have accounts.
 class ReplaySettingsScreen extends StatefulWidget {
@@ -40,12 +40,20 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
   @override
   void initState() {
     super.initState();
-    unawaited(_load());
+    unawaited(_load(createIfMissing: true));
   }
 
-  Future<void> _load() async {
-    final connection = await context.read<ConnectionRegistry>().get(ReplayConnection.singletonId);
+  /// Loads the connection; the first visit creates it with every broadcaster enabled, so there is
+  /// no separate "add" step between the settings entry and the broadcaster list.
+  Future<void> _load({bool createIfMissing = false}) async {
+    var connection = await context.read<ConnectionRegistry>().get(ReplayConnection.singletonId);
     if (!mounted) return;
+    if (connection is! ReplayConnection && createIfMissing) {
+      if (await addReplayConnection(context) && mounted) {
+        connection = await context.read<ConnectionRegistry>().get(ReplayConnection.singletonId);
+      }
+      if (!mounted) return;
+    }
     setState(() {
       _connection = connection is ReplayConnection ? connection : null;
       _loaded = true;
@@ -121,6 +129,11 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
       slivers: [
         SliverList(
           delegate: SliverChildListDelegate([
+            if (!_loaded)
+              const Padding(
+                padding: EdgeInsets.all(32),
+                child: Center(child: CircularProgressIndicator()),
+              ),
             if (_loaded && connection == null) _notAdded(context) else if (connection != null) _sources(connection),
             const SizedBox(height: 24),
           ]),
@@ -146,8 +159,7 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
   );
 
   Future<void> _openAdd() async {
-    final added = await Navigator.push<bool>(context, MaterialPageRoute(builder: (_) => const AddReplayScreen()));
-    if (added == true && mounted) await _load();
+    if (await addReplayConnection(context) && mounted) await _load();
   }
 
   Widget _sources(ReplayConnection connection) {
