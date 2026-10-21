@@ -11,7 +11,6 @@ import '../../media/media_server_client.dart';
 import '../../media/media_sort.dart';
 import '../../media/media_source_info.dart';
 import '../../media/artist_discography.dart';
-import '../../media/playback_report_metadata.dart';
 import '../../services/scrub_preview_source.dart';
 import '../../utils/external_ids.dart';
 import '../../utils/media_server_http_client.dart' show AbortController;
@@ -87,12 +86,6 @@ mixin ReplayUnsupportedOperations on MediaServerClient {
   @override
   Future<MediaPersonDetails> fetchPersonDetails(String personId, {AbortController? abort}) async =>
       MediaPersonDetails.empty;
-
-  @override
-  Future<void> markWatched(MediaItem item) async {}
-
-  @override
-  Future<void> markUnwatched(MediaItem item) async {}
 
   @override
   Future<void> removeFromContinueWatching(MediaItem item) async =>
@@ -232,48 +225,5 @@ mixin ReplayUnsupportedOperations on MediaServerClient {
   }) async => null;
 
   @override
-  double get watchedThreshold => 0.9;
-
-  @override
   bool get marksWatchedOnPlaybackStopped => false;
-
-  @override
-  Future<void> reportPlaybackStarted({
-    required String itemId,
-    required Duration position,
-    Duration? duration,
-    String? playSessionId,
-    String? playMethod,
-    String? liveStreamId,
-    String? mediaSourceId,
-    int? audioStreamIndex,
-    int? subtitleStreamIndex,
-  }) async {}
-
-  @override
-  Future<void> reportPlaybackProgress({
-    required String itemId,
-    required Duration position,
-    required Duration duration,
-    bool isPaused = false,
-    String? playSessionId,
-    String? playMethod,
-    String? liveStreamId,
-    String? mediaSourceId,
-    int? audioStreamIndex,
-    int? subtitleStreamIndex,
-  }) async {}
-
-  @override
-  Future<void> reportPlaybackStopped({
-    required String itemId,
-    required Duration position,
-    Duration? duration,
-    String? playSessionId,
-    String? liveStreamId,
-    String? mediaSourceId,
-    int? audioStreamIndex,
-    int? subtitleStreamIndex,
-    PlaybackReportMetadata report = const PlaybackReportMetadata.live(),
-  }) async {}
 }

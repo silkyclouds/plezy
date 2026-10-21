@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:uuid/uuid.dart';
 
 import '../../connection/connection.dart';
 import '../../focus/focusable_button.dart';
@@ -10,6 +11,7 @@ import '../../profiles/profile.dart';
 import '../../profiles/profile_connection.dart';
 import '../../replay/provider/replay_provider_registry.dart';
 import '../../widgets/focused_scroll_scaffold.dart';
+import '../profile/profile_switch_screen.dart';
 import 'connection_persistence.dart';
 
 /// Adds the built-in catch-up TV connection to a profile. It has no server and no account, so the
@@ -29,8 +31,10 @@ class _AddReplayScreenState extends State<AddReplayScreen> {
 
   Future<void> _add() async {
     final active = context.read<ActiveProfileProvider>();
-    final profile = widget.targetProfile ?? active.active;
-    if (profile == null) return;
+    await active.initialize();
+    if (!mounted) return;
+    final profile = await _profileToBind(active);
+    if (profile == null || !mounted) return;
     setState(() => _saving = true);
     final now = DateTime.now();
     final connection = ReplayConnection(
@@ -45,15 +49,41 @@ class _AddReplayScreenState extends State<AddReplayScreen> {
       context: context,
       connection: connection,
       bindToProfile: ProfileConnection(
-        profileId: profile.id,
+        profileId: profile.profile.id,
         connectionId: connection.id,
         userIdentifier: ReplayConnection.singletonId,
         tokenAcquiredAt: now,
       ),
+      firstRunProfile: profile.isNew ? profile.profile : null,
     );
     if (!mounted) return;
-    if (profile.id == active.activeId) await context.read<ActiveProfileBinder>().rebindIfActive(profile.id);
+    if (!profile.isNew && profile.profile.id == active.activeId) {
+      await context.read<ActiveProfileBinder>().rebindIfActive(profile.profile.id);
+    }
     if (mounted) Navigator.of(context).pop(true);
+  }
+
+  /// The profile that receives the connection: the target, the active one, a pick from the existing
+  /// profiles, or a new local profile on first run.
+  Future<({Profile profile, bool isNew})?> _profileToBind(ActiveProfileProvider active) async {
+    final target = widget.targetProfile ?? active.active;
+    if (target != null) return (profile: target, isNew: false);
+    if (active.profiles.isEmpty) {
+      final now = DateTime.now();
+      final created = Profile.local(
+        id: 'local-${const Uuid().v4()}',
+        displayName: t.addServer.catchUpTvTitle,
+        sortOrder: now.millisecondsSinceEpoch,
+        createdAt: now,
+      );
+      return (profile: created, isNew: true);
+    }
+    await Navigator.of(
+      context,
+      rootNavigator: true,
+    ).push<bool>(MaterialPageRoute(builder: (_) => const ProfileSwitchScreen(requireSelection: true)));
+    final picked = active.active;
+    return picked == null ? null : (profile: picked, isNew: false);
   }
 
   @override

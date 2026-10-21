@@ -8,6 +8,7 @@ import '../../media/media_hub.dart';
 import '../../media/media_item.dart';
 import '../../media/media_kind.dart';
 import '../../media/media_library.dart';
+import '../../media/playback_report_metadata.dart';
 import '../../media/media_server_client.dart';
 import '../../media/server_capabilities.dart';
 import '../../services/api_cache.dart';
@@ -22,6 +23,7 @@ import 'replay_api_cache.dart';
 import 'replay_live_tv.dart';
 import 'replay_playback_builder.dart';
 import 'replay_unsupported_operations.dart';
+import 'replay_watch_store.dart';
 
 /// [MediaServerClient] over the public catch-up sites of several broadcasters.
 ///
@@ -33,6 +35,8 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   final MediaServerHttpClient _http;
   final Object _sessionId = Object();
   final ReplayPlaybackBuilder _playbackBuilder = const ReplayPlaybackBuilder();
+  final Map<String, MediaItem> _playing = {};
+  late final ReplayWatchStore _watch = ReplayWatchStore(ReplayApiCache.instance, serverId);
   bool _offline = false;
 
   ReplayClient._(this.connection, this._providers, this._http);
@@ -113,7 +117,8 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     if (provider == null) return const LibraryPage(items: [], totalCount: 0);
     final size = provider.source.listingPageSize;
     final page = await provider.listing(replayAllBrowseId, page: query.offset ~/ size);
-    return LibraryPage(items: _mapper(provider).items(page.titles), totalCount: page.totalCount, offset: query.offset);
+    final items = await _watch.apply(_mapper(provider).items(page.titles));
+    return LibraryPage(items: items, totalCount: page.totalCount, offset: query.offset);
   }
 
   @override
@@ -121,7 +126,8 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     final target = _resolve(id);
     if (target == null) return null;
     final title = await target.$1.title(target.$2);
-    return title == null ? null : _mapper(target.$1).item(title);
+    if (title == null) return null;
+    return (await _watch.apply([_mapper(target.$1).item(title)])).single;
   }
 
   @override
@@ -134,7 +140,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   Future<List<MediaItem>> fetchChildren(String parentId) async {
     final target = _resolve(parentId);
     if (target == null) return const [];
-    return _mapper(target.$1).items(await target.$1.children(target.$2));
+    return _watch.apply(_mapper(target.$1).items(await target.$1.children(target.$2)));
   }
 
   @override
@@ -165,7 +171,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
         episodes.add(child);
       }
     }
-    return _mapper(target.$1).items(episodes);
+    return _watch.apply(_mapper(target.$1).items(episodes));
   }
 
   @override
@@ -182,12 +188,18 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     final perSource = await Future.wait([
       for (final provider in sources) provider.search(query).then((titles) => _mapper(provider).items(titles)),
     ]);
-    return [for (final items in perSource) ...items].take(limit).toList(growable: false);
+    final found = [for (final items in perSource) ...items].take(limit).toList(growable: false);
+    return _watch.apply(found);
   }
 
   @override
-  Future<List<MediaItem>> fetchContinueWatching({int? count = 20, Set<String> excludedLibraryIds = const {}}) async =>
-      const [];
+  Future<List<MediaItem>> fetchContinueWatching({int? count = 20, Set<String> excludedLibraryIds = const {}}) async {
+    final items = await _watch.inProgress(limit: count);
+    return [
+      for (final item in items)
+        if (!excludedLibraryIds.contains(item.libraryId)) item,
+    ];
+  }
 
   @override
   Future<List<MediaHub>> fetchGlobalHubs({
@@ -211,13 +223,26 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
       final rails = await provider.home();
       return [
         for (final rail in rails)
-          if (rail.titles.isNotEmpty) _mapper(provider).hub(rail),
+          if (rail.titles.isNotEmpty) await _stampedHub(_mapper(provider).hub(rail)),
       ];
     } on Object {
       diagnostics?.recordFailure(StateError('home rails failed for $libraryId'));
       rethrow;
     }
   }
+
+  Future<MediaHub> _stampedHub(MediaHub hub) async => MediaHub(
+    id: hub.id,
+    identifier: hub.identifier,
+    title: hub.title,
+    type: hub.type,
+    items: await _watch.apply(hub.items),
+    size: hub.size,
+    more: hub.more,
+    libraryId: hub.libraryId,
+    serverId: hub.serverId,
+    serverName: hub.serverName,
+  );
 
   @override
   Future<List<MediaItem>> fetchMoreHubItems(String hubId, {int? limit}) async => const [];
@@ -257,7 +282,64 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
       throw const PlaybackException('Unknown catch-up TV item', reason: PlaybackFailureReason.noPlayableSource);
     }
     final playback = await target.$1.playback(target.$2);
-    return _playbackBuilder.build(options.metadata, playback, options.selectedMediaIndex);
+    final result = _playbackBuilder.build(options.metadata, playback, options.selectedMediaIndex);
+    _playing[options.metadata.id] = options.metadata;
+    return result;
+  }
+
+  @override
+  double get watchedThreshold => _watch.watchedThreshold;
+
+  @override
+  Future<void> markWatched(MediaItem item) => _watch.markWatched(item);
+
+  @override
+  Future<void> markUnwatched(MediaItem item) => _watch.markUnwatched(item);
+
+  @override
+  Future<void> reportPlaybackStarted({
+    required String itemId,
+    required Duration position,
+    Duration? duration,
+    String? playSessionId,
+    String? playMethod,
+    String? liveStreamId,
+    String? mediaSourceId,
+    int? audioStreamIndex,
+    int? subtitleStreamIndex,
+  }) => _recordProgress(itemId, position, duration);
+
+  @override
+  Future<void> reportPlaybackProgress({
+    required String itemId,
+    required Duration position,
+    required Duration duration,
+    bool isPaused = false,
+    String? playSessionId,
+    String? playMethod,
+    String? liveStreamId,
+    String? mediaSourceId,
+    int? audioStreamIndex,
+    int? subtitleStreamIndex,
+  }) => _recordProgress(itemId, position, duration);
+
+  @override
+  Future<void> reportPlaybackStopped({
+    required String itemId,
+    required Duration position,
+    Duration? duration,
+    String? playSessionId,
+    String? liveStreamId,
+    String? mediaSourceId,
+    int? audioStreamIndex,
+    int? subtitleStreamIndex,
+    PlaybackReportMetadata report = const PlaybackReportMetadata.live(),
+  }) => _recordProgress(itemId, position, duration);
+
+  Future<void> _recordProgress(String itemId, Duration position, Duration? duration) async {
+    final item = _playing[itemId];
+    if (item == null) return;
+    await _watch.recordProgress(item, position: position, duration: duration);
   }
 
   @override

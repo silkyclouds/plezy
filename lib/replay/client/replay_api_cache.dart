@@ -1,5 +1,7 @@
 import 'dart:convert';
 
+import 'package:drift/drift.dart';
+
 import '../../database/app_database.dart';
 import '../../media/ids.dart';
 import '../../media/media_backend.dart';
@@ -51,6 +53,28 @@ class ReplayApiCache extends ApiCache {
     json['viewOffsetMs'] = isWatched ? null : viewOffsetMs ?? 0;
     if (lastViewedAt != null) json['lastViewedAt'] = lastViewedAt;
     await put(serverId, _endpoint(itemId), json);
+  }
+
+  static String _stateEndpoint(String itemId) => '/replay/state/$itemId';
+
+  Future<Map<String, dynamic>?> getState(ServerId serverId, String itemId) => get(serverId, _stateEndpoint(itemId));
+
+  Future<void> putState(ServerId serverId, String itemId, Map<String, dynamic> state) =>
+      put(serverId, _stateEndpoint(itemId), state);
+
+  /// Every stored viewing state of [serverId], with its item id.
+  Future<List<({String itemId, Map<String, dynamic> state})>> listStates(ServerId serverId) async {
+    final prefix = '$serverId:/replay/state/';
+    final rows = await (database.select(database.apiCache)..where((t) => t.cacheKey.like('$prefix%'))).get();
+    final out = <({String itemId, Map<String, dynamic> state})>[];
+    for (final row in rows) {
+      try {
+        out.add((itemId: row.cacheKey.substring(prefix.length), state: jsonDecode(row.data) as Map<String, dynamic>));
+      } on FormatException {
+        continue;
+      }
+    }
+    return out;
   }
 
   @override
