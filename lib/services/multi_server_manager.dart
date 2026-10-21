@@ -9,6 +9,7 @@ import 'package:flutter/foundation.dart';
 import '../connection/connection.dart';
 import '../i18n/app_locale_utils.dart';
 import '../media/media_server_client.dart';
+import '../replay/client/replay_client.dart';
 import '../exceptions/media_server_exceptions.dart';
 
 import 'connectivity_probe.dart';
@@ -810,8 +811,22 @@ class MultiServerManager {
     return bound;
   }
 
-  /// Add the built-in catch-up TV backend for a profile. Returns true when the client is registered and healthy.
-  Future<bool> addReplayConnection(ReplayConnection connection) async => false;
+  /// Registers the built-in catch-up TV backend. It has no server to reach, so a client for the same
+  /// set of sources is kept as is, and a changed set replaces it.
+  Future<bool> addReplayConnection(ReplayConnection connection) async {
+    final existing = _clients[connection.id];
+    if (existing is ReplayClient &&
+        setEquals(existing.connection.enabledSources.toSet(), connection.enabledSources.toSet())) {
+      _applyHealth(ServerId(connection.id), HealthStatus.online);
+      return true;
+    }
+    final client = ReplayClient(connection);
+    _clients[connection.id] = client;
+    if (existing != null) unawaited(_closeClientGracefully(existing));
+    _applyHealth(ServerId(connection.id), HealthStatus.online);
+    appLogger.i('Added catch-up TV with sources: ${connection.enabledSources.join(', ')}');
+    return true;
+  }
 
   /// Add a MediaBrowser server backed by an authenticated
   /// [JellyfinConnection]. Returns true on success.

@@ -5,6 +5,12 @@ import 'replay_provider.dart';
 /// Source ids the app knows how to build, in the order they are offered to the user.
 const replaySourceIds = ['arte'];
 
+/// Display name of a source id, for pickers shown before any provider exists.
+String replaySourceName(String id) => switch (id) {
+  'arte' => 'ARTE',
+  _ => id,
+};
+
 /// Builds the providers for the sources a connection enables. Unknown ids are skipped.
 Map<String, ReplayProvider> buildReplayProviders(Iterable<String> enabledSources, MediaServerHttpClient http) {
   final providers = <String, ReplayProvider>{};

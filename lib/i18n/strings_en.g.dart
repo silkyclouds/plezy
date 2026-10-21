@@ -6000,6 +6000,24 @@ class Translations$addServer$en {
 	/// en: 'Add connection'
 	String get addConnectionTitle => 'Add connection';
 
+	/// en: 'Catch-up TV'
+	String get catchUpTvCard => 'Catch-up TV';
+
+	/// en: 'Replays from francophone broadcasters. No account needed.'
+	String get catchUpTvCardSubtitle => 'Replays from francophone broadcasters. No account needed.';
+
+	/// en: 'Catch-up TV'
+	String get catchUpTvTitle => 'Catch-up TV';
+
+	/// en: 'Broadcasters'
+	String get catchUpTvSources => 'Broadcasters';
+
+	/// en: 'Add catch-up TV'
+	String get catchUpTvAdd => 'Add catch-up TV';
+
+	/// en: 'Pick at least one broadcaster.'
+	String get catchUpTvNoSource => 'Pick at least one broadcaster.';
+
 	/// en: 'Add to ${name}'
 	String addConnectionTitleScoped({required Object name}) => 'Add to ${name}';
 
@@ -10302,6 +10320,12 @@ extension on Translations {
 			'addServer.failedToRegisterAccount' => ({required Object error}) => 'Failed to register account: ${error}',
 			'addServer.enterMediaBrowserUrlError' => ({required Object product}) => 'Enter your ${product} server URL',
 			'addServer.addConnectionTitle' => 'Add connection',
+			'addServer.catchUpTvCard' => 'Catch-up TV',
+			'addServer.catchUpTvCardSubtitle' => 'Replays from francophone broadcasters. No account needed.',
+			'addServer.catchUpTvTitle' => 'Catch-up TV',
+			'addServer.catchUpTvSources' => 'Broadcasters',
+			'addServer.catchUpTvAdd' => 'Add catch-up TV',
+			'addServer.catchUpTvNoSource' => 'Pick at least one broadcaster.',
 			'addServer.addConnectionTitleScoped' => ({required Object name}) => 'Add to ${name}',
 			'addServer.signInWithPlexCard' => 'Sign in with Plex',
 			'addServer.signInWithPlexCardSubtitle' => 'Authorize this device. Shared servers are added.',

@@ -2214,6 +2214,12 @@ class _Translations$addServer$fr extends Translations$addServer$en {
 	@override String failedToRegisterAccount({required Object error}) => 'Échec de l\'enregistrement du compte : ${error}';
 	@override String enterMediaBrowserUrlError({required Object product}) => 'Saisissez l\'URL de votre serveur ${product}';
 	@override String get addConnectionTitle => 'Ajouter une connexion';
+	@override String get catchUpTvCard => 'Télé de rattrapage';
+	@override String get catchUpTvCardSubtitle => 'Les replays des chaînes francophones. Aucun compte nécessaire.';
+	@override String get catchUpTvTitle => 'Télé de rattrapage';
+	@override String get catchUpTvSources => 'Chaînes';
+	@override String get catchUpTvAdd => 'Ajouter la télé de rattrapage';
+	@override String get catchUpTvNoSource => 'Choisissez au moins une chaîne.';
 	@override String addConnectionTitleScoped({required Object name}) => 'Ajouter à ${name}';
 	@override String get signInWithPlexCard => 'Se connecter avec Plex';
 	@override String get signInWithPlexCardSubtitle => 'Autorisez cet appareil. Les serveurs partagés sont ajoutés.';
@@ -4976,6 +4982,12 @@ extension on TranslationsFr {
 			'addServer.failedToRegisterAccount' => ({required Object error}) => 'Échec de l\'enregistrement du compte : ${error}',
 			'addServer.enterMediaBrowserUrlError' => ({required Object product}) => 'Saisissez l\'URL de votre serveur ${product}',
 			'addServer.addConnectionTitle' => 'Ajouter une connexion',
+			'addServer.catchUpTvCard' => 'Télé de rattrapage',
+			'addServer.catchUpTvCardSubtitle' => 'Les replays des chaînes francophones. Aucun compte nécessaire.',
+			'addServer.catchUpTvTitle' => 'Télé de rattrapage',
+			'addServer.catchUpTvSources' => 'Chaînes',
+			'addServer.catchUpTvAdd' => 'Ajouter la télé de rattrapage',
+			'addServer.catchUpTvNoSource' => 'Choisissez au moins une chaîne.',
 			'addServer.addConnectionTitleScoped' => ({required Object name}) => 'Ajouter à ${name}',
 			'addServer.signInWithPlexCard' => 'Se connecter avec Plex',
 			'addServer.signInWithPlexCardSubtitle' => 'Autorisez cet appareil. Les serveurs partagés sont ajoutés.',

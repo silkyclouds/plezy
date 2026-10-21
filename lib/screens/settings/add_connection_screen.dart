@@ -13,6 +13,7 @@ import '../../widgets/focused_scroll_scaffold.dart';
 import '../profile/borrow_connection_screen.dart';
 import 'add_jellyfin_screen.dart';
 import 'add_plex_account_screen.dart';
+import 'add_replay_screen.dart';
 
 /// Picker shown when the user taps "Add connection".
 ///
@@ -62,6 +63,12 @@ class AddConnectionScreen extends StatelessWidget {
               )
             : t.addServer.connectToMediaBrowserCardSubtitle,
         builder: (_) => AddJellyfinScreen(targetProfile: targetProfile, dialect: embyDialect),
+      ),
+      _BackendOption(
+        backend: MediaBackend.replay,
+        title: t.addServer.catchUpTvCard,
+        subtitle: t.addServer.catchUpTvCardSubtitle,
+        builder: (_) => AddReplayScreen(targetProfile: targetProfile),
       ),
       if (scoped)
         _BackendOption(
