@@ -61,7 +61,6 @@ import 'logs_screen.dart';
 import 'playback_settings_screen.dart';
 import '../profile/profile_switch_screen.dart';
 import 'replay_settings_screen.dart';
-import 'voice_search_settings_screen.dart';
 import 'services_settings_screen.dart';
 import 'settings_utils.dart';
 import 'supporter_settings_tile.dart';
@@ -106,7 +105,6 @@ class _SettingsScreenState extends State<SettingsScreen> with FocusableTab, Moun
   static const _kManageLibraries = 'manage_libraries';
   static const _kServices = 'services';
   static const _kReplay = 'replay';
-  static const _kVoiceSearch = 'voice_search';
   static const _kDownloadLocation = 'download_location';
   static const _kDownloadOnWifiOnly = 'download_on_wifi_only';
   static const _kAutoRemoveWatchedDownloads = 'auto_remove_watched_downloads';
@@ -222,7 +220,6 @@ class _SettingsScreenState extends State<SettingsScreen> with FocusableTab, Moun
                     if (hasLibraries) _buildManageLibrariesTile(sheetContext),
                     _buildServicesTile(),
                     _buildReplayTile(),
-                    _buildVoiceSearchTile(),
                   ],
                 ),
 
@@ -324,16 +321,6 @@ class _SettingsScreenState extends State<SettingsScreen> with FocusableTab, Moun
       title: t.libraries.manageLibraries,
       subtitle: t.settings.manageLibrariesDescription,
       onTap: () => showLibraryManagementSheet(context),
-    );
-  }
-
-  Widget _buildVoiceSearchTile() {
-    return SettingNavigationTile(
-      focusNode: _focusTracker.get(_kVoiceSearch),
-      icon: Symbols.mic_rounded,
-      title: t.voiceSearch.title,
-      subtitle: t.voiceSearch.description,
-      destinationBuilder: (_) => const VoiceSearchSettingsScreen(),
     );
   }
 

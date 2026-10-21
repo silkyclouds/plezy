@@ -5,7 +5,6 @@ import '../focus/focusable_button.dart';
 import '../focus/focusable_text_field.dart';
 import 'app_icon.dart';
 import 'pill_input_decoration.dart';
-import 'voice_search_button.dart';
 
 /// The pill search field the search screens put above their results, with the
 /// clear affordance that appears once there is text: RIGHT out of the field
@@ -46,13 +45,10 @@ class SearchInputField extends StatefulWidget {
 
 class _SearchInputFieldState extends State<SearchInputField> {
   late final FocusNode _clearFocusNode = FocusNode(debugLabel: '${widget.debugLabel}.clear');
-  late final FocusNode _micFocusNode = FocusNode(debugLabel: '${widget.debugLabel}.mic');
-  bool _hasMic = false;
 
   @override
   void dispose() {
     _clearFocusNode.dispose();
-    _micFocusNode.dispose();
     super.dispose();
   }
 
@@ -61,19 +57,9 @@ class _SearchInputFieldState extends State<SearchInputField> {
     widget.focusNode.requestFocus();
   }
 
-  void _applyTranscript(String text) {
-    widget.controller.value = TextEditingValue(
-      text: text,
-      selection: TextSelection.collapsed(offset: text.length),
-    );
-    widget.onEditingComplete?.call();
-    widget.focusNode.requestFocus();
-  }
-
   @override
   Widget build(BuildContext context) {
     final hasText = widget.controller.text.isNotEmpty;
-    final trailingButtons = (hasText ? 1 : 0) + (_hasMic ? 1 : 0);
     return Padding(
       padding: const EdgeInsets.only(left: 16, right: 16, bottom: 16),
       child: Stack(
@@ -85,11 +71,7 @@ class _SearchInputFieldState extends State<SearchInputField> {
             tvTextInputController: widget.tvTextInputController,
             textInputAction: TextInputAction.search,
             onNavigateLeft: widget.onNavigateLeft,
-            onNavigateRight: _hasMic
-                ? _micFocusNode.requestFocus
-                : hasText
-                ? _clearFocusNode.requestFocus
-                : null,
+            onNavigateRight: hasText ? _clearFocusNode.requestFocus : null,
             onNavigateDown: widget.onNavigateDown,
             onEditingComplete: widget.onEditingComplete,
             onBack: widget.onBack,
@@ -97,33 +79,18 @@ class _SearchInputFieldState extends State<SearchInputField> {
               context,
               hintText: widget.hintText,
               prefixIcon: const AppIcon(Symbols.search_rounded, fill: 1),
-              suffixIcon: trailingButtons > 0 ? SizedBox(width: 48.0 * trailingButtons) : null,
+              suffixIcon: hasText ? const SizedBox(width: 48) : null,
             ),
           ),
-          Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              VoiceSearchButton(
-                focusNode: _micFocusNode,
-                onTranscript: _applyTranscript,
-                onAvailabilityChanged: (available) {
-                  if (mounted && available != _hasMic) setState(() => _hasMic = available);
-                },
-                onNavigateLeft: widget.focusNode.requestFocus,
-                onNavigateRight: hasText ? _clearFocusNode.requestFocus : null,
-                onNavigateDown: widget.onNavigateDown,
-              ),
-              if (hasText)
-                FocusableButton(
-                  focusNode: _clearFocusNode,
-                  onPressed: _clearSearch,
-                  onNavigateLeft: _hasMic ? _micFocusNode.requestFocus : widget.focusNode.requestFocus,
-                  onNavigateDown: widget.onNavigateDown,
-                  autoScroll: false,
-                  child: IconButton(icon: const AppIcon(Symbols.clear_rounded, fill: 1), onPressed: _clearSearch),
-                ),
-            ],
-          ),
+          if (hasText)
+            FocusableButton(
+              focusNode: _clearFocusNode,
+              onPressed: _clearSearch,
+              onNavigateLeft: widget.focusNode.requestFocus,
+              onNavigateDown: widget.onNavigateDown,
+              autoScroll: false,
+              child: IconButton(icon: const AppIcon(Symbols.clear_rounded, fill: 1), onPressed: _clearSearch),
+            ),
         ],
       ),
     );
