@@ -1,0 +1,6 @@
+{
+  "errorCode": 403048,
+  "errorMessage": "Rate limit exceeded",
+  "statusCode": 403,
+  "statusReason": "Forbidden"
+}

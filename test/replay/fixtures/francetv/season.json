@@ -1,0 +1,523 @@
+{
+ "label": "Un si grand soleil - Saison 8",
+ "item": {
+  "id": 71823,
+  "label": "Un si grand soleil - Saison 8",
+  "description": "",
+  "type": "program",
+  "program_path": "france-3_un-si-grand-soleil_saison-8",
+  "link": {
+   "url": "/apps/program/meta/france-3_un-si-grand-soleil_saison-8?platform=apps",
+   "type": "tab"
+  },
+  "color": null,
+  "sound": null,
+  "headline_title": null,
+  "images": [],
+  "integral_counter": 25,
+  "ads_blocked": false,
+  "broadcast_box": null,
+  "recommendation": false,
+  "partner": null,
+  "sponsored": false,
+  "channel": "france-3",
+  "age_min": null,
+  "age_max": null,
+  "saison": "8",
+  "call_to_action": null,
+  "call_to_action_url": null,
+  "synopsis": null,
+  "label_edito": null,
+  "downloadable": false,
+  "casting": "",
+  "characters": "",
+  "director": "",
+  "scenarists": "",
+  "palmares": "",
+  "production_countries": "France",
+  "number_of_episodes": null,
+  "number_of_seasons": null,
+  "categories": [],
+  "sub_categories": [],
+  "category": null,
+  "podcast_url": null,
+  "offer": "francetv",
+  "sort_seasons": "asc",
+  "sort_episodes": "episode:asc"
+ },
+ "collections": [
+  {
+   "type": "playlist_video",
+   "items": [
+    {
+     "id": 8824329,
+     "title": "Épisode du lundi 21 septembre 2026",
+     "label_edito": null,
+     "type": "integrale",
+     "headline_title": null,
+     "season": 8,
+     "episode": 2014,
+     "description": "Tandis que Janet tente d'alerter Elisabeth, Saskia, de son côté, se confie à Laurine à propos de Boris.",
+     "broadcast_begin_date": 1790016600,
+     "broadcast_end_date": 1790017927,
+     "begin_date": 1789704000,
+     "end_date": 1792619940,
+     "duration": 1327,
+     "rating_csa": "Tous publics",
+     "si_id": "ca33fd55-2cf7-4e6d-a578-cb4a95876f4b",
+     "downloadable": true,
+     "episode_title": "S8 E2014 - Épisode du lundi 21 septembre 2026",
+     "program": {
+      "id": 7011,
+      "label": "Un si grand soleil",
+      "description": "",
+      "type": "program",
+      "program_path": "france-3_un-si-grand-soleil",
+      "link": {
+       "url": "/apps/program/meta/france-3_un-si-grand-soleil?platform=apps",
+       "type": "tab"
+      },
+      "color": null,
+      "sound": null,
+      "headline_title": null,
+      "images": [
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/1X8E13Kl32Ifw7EkYmXi62CavqM/400x0/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:800": "https://medias.france.tv/p1lZO2oYHqdzEpqDrWG0Dx4NXfg/800x450/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:1024": "https://medias.france.tv/6fcQYYeuux1FGHPJEOh0TfPhrH0/1024x576/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:2500": "https://medias.france.tv/HlXhyVqRTC2YIcit31I8FkfgFu0/2500x1406/filters:quality(85)/s/k/h/phpoa0hks.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/D-jKiW7IHD35tr40LLwF1MOaS-Y/400x533/filters:quality(85)/9/s/i/phpdvvis9.jpg",
+         "w:800": "https://medias.france.tv/lCFcI05hLWS7-E-8cV9j05ImeaQ/800x1066/filters:quality(85)/9/s/i/phpdvvis9.jpg",
+         "w:1024": "https://medias.france.tv/oB8mIPy7ECix8-97J5RaPkLaUl8/1024x1365/filters:quality(85)/9/s/i/phpdvvis9.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 32,
+      "ads_blocked": false,
+      "broadcast_box": null,
+      "recommendation": true,
+      "partner": null,
+      "sponsored": false,
+      "channel": "france-3",
+      "age_min": null,
+      "age_max": null,
+      "saison": null,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": "Eve s’investit dans des cours en prison. Secrètement elle passe un marché avec une détenue, Alice Lombard pour obtenir des informations sur Nathalie Gimenez, qu’elle tient pour responsable de la mort de son fils ELiott. Le deal : Eve aidera Alice à s’évader si cette dernière supprime Nathalie Gimenez. Mais après la mort de Gimenez, l'évasion d'ALice tourne mal et Claire est gravement blessée. Alice disparaît, Eve est rongée par la culpabilité. Claire s'en sort finalement mais Manu comprend qu'Eve était derrière cette affaire. Il ne la dénonce pas. de son côté, Eve commence à penser que Gimenez était innocente et soupçonne Boris et Muriel d'être liés à la mort d'ELiott.",
+      "label_edito": null,
+      "casting": "Mélanie Maudran, Moïse Santamaria, Yvon Back, Tonya Kinzinger, Frédéric van den Driessche, Chrystelle Labaude, Emma Colberti, Benjamin Bourgois, Marie-Gaëlle Cals, Fabrice Deville, Aurore Delplace, Nadia Fossier, Jérémie Covillault, Sophie Letellier…",
+      "characters": null,
+      "director": " Olivier Szulzynger, Eline Le Fur, Cristina Arellano, Stéphanie Tchou-Cotta",
+      "scenarists": null,
+      "palmares": null,
+      "production_countries": "",
+      "number_of_episodes": null,
+      "number_of_seasons": null,
+      "categories": [],
+      "sub_categories": [],
+      "category": null,
+      "podcast_url": null,
+      "offer": "francetv",
+      "sort_seasons": null,
+      "sort_episodes": null
+     },
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/7WnvZAP125kkHviIZ0s0Nwij0RI/265x265/filters:quality(85)/1/l/g/phpcxmgl1.jpg",
+        "w:300": "https://medias.france.tv/7aGAkPFZsHTsBRkkiNg5oEkJk1w/300x300/filters:quality(85)/1/l/g/phpcxmgl1.jpg",
+        "w:400": "https://medias.france.tv/YYdn02jYYZg6yiV7MUKsJ6I-Img/400x400/filters:quality(85)/1/l/g/phpcxmgl1.jpg",
+        "w:800": "https://medias.france.tv/dVO_I85JeDbTpHUIOrykk8HOd_c/800x800/filters:quality(85)/1/l/g/phpcxmgl1.jpg",
+        "w:1024": "https://medias.france.tv/DOwcLDdyYBchof9YNm5FpBo_D-o/1024x1024/filters:quality(85)/1/l/g/phpcxmgl1.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/x7iXQ-AE-xQsF4oV0LP_DlAtg8s/400x0/filters:quality(85)/q/m/c/phphjtcmq.jpg",
+        "w:800": "https://medias.france.tv/P2Zl8uOeAcDlHFSeXb6SELpYT1M/800x450/filters:quality(85)/q/m/c/phphjtcmq.jpg",
+        "w:1024": "https://medias.france.tv/f5EdoAI_uelQIyirldQmi3flcgk/1024x576/filters:quality(85)/q/m/c/phphjtcmq.jpg",
+        "w:2500": "https://medias.france.tv/EIBFTR4Q50zE4Ufefwz82IreF5o/2500x1406/filters:quality(85)/q/m/c/phphjtcmq.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/RAIk2kd2IXGkg0H6DI2vUWe6kIY/400x533/filters:quality(85)/7/u/f/php5rlfu7.jpg",
+        "w:800": "https://medias.france.tv/ixMzQSPT2zVkoMJjBkrGLADa81I/800x1066/filters:quality(85)/7/u/f/php5rlfu7.jpg",
+        "w:1024": "https://medias.france.tv/HYQO1pYOxKyeDvgTxys7FykXShg/1024x1365/filters:quality(85)/7/u/f/php5rlfu7.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "channel": {
+      "id": 2,
+      "label": "France 3",
+      "type": "channel",
+      "channel_path": "france-3",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/3fpmXQzb4iphwCl94K2V0No8yjQ/265x265/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:300": "https://medias.france.tv/cOjy14IPRR8pVFtSWDzqeWcRu4E/300x300/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:400": "https://medias.france.tv/2cSonvrdpEyEdrJ-mpSlq6VRyQo/400x400/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:800": "https://medias.france.tv/PekMEGDvtLU8qsRG9kDw5OR0FO4/800x800/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:1024": "https://medias.france.tv/NWfPxUBSnv8Ue7IOuf4MeuBaD-M/1024x1024/filters:quality(85)/i/v/v/phpjxpvvi.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/PRwqs0bqVvfMHzrMDhs5re6i8R0/400x0/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:800": "https://medias.france.tv/4O4LBuEBQeW0cTy3R-Dz7D2zSac/800x450/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:1024": "https://medias.france.tv/9fJX_LZWMyGoqJzn2YR1QH-95zM/1024x576/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:2500": "https://medias.france.tv/u0aZaQpBCk0r6Epv5K22QVCEgxA/2500x1406/filters:quality(85)/v/7/h/phpde4h7v.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/91DEQWJj0g52OJ16YKTU2TwjrDo/400x533/filters:quality(85)/f/y/y/phpsiyyyf.jpg",
+         "w:800": "https://medias.france.tv/qE_WHoaau7KV6fiDlekSmwUnBAQ/800x1066/filters:quality(85)/f/y/y/phpsiyyyf.jpg",
+         "w:1024": "https://medias.france.tv/17R7Rc-tHfJs5uVbix70YOVfWB4/1024x1365/filters:quality(85)/f/y/y/phpsiyyyf.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "si_id": "29bdf749-7082-4426-a4f3-595cc436aa0d",
+      "channel_url": "france-3",
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "offer": "france-3"
+     },
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 0,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     "event": null,
+     "partner": null,
+     "ads_blocked": false,
+     "sponsored": false,
+     "is_live": false,
+     "is_published": true,
+     "production_year": null,
+     "is_audio_descripted": false,
+     "is_multi_lingual": false,
+     "casting": "Mélanie Maudran, Moïse Santamaria, Yvon Back, Tonya Kinzinger, Frédéric Van den Driessche, Chrystelle Labaude, Emma Colberti, Benjamin Bourgois",
+     "director": null,
+     "producer": null,
+     "presenter": null,
+     "characters": "Claire Estrela, Manu Léoni, Clément Becker, Janet, Alain Alphand, Elisabeth Bastide, Eve, Alexandre Lévy",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": true,
+     "login": true,
+     "broadcast_channel": "france-3",
+     "medium_description": null,
+     "production_company": "France 2 (FR2) / France TV Studio / Epeios Productions",
+     "production_countries": "France",
+     "production_language": "Français",
+     "palmares": "",
+     "creator": "",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "",
+     "reviewers": "",
+     "upcoming_live": false,
+     "intro": null,
+     "text": null,
+     "reading_time": null,
+     "offer": "francetv",
+     "format": "landscape"
+    },
+    {
+     "id": 8824326,
+     "title": "Épisode du mardi 22 septembre 2026",
+     "label_edito": null,
+     "type": "integrale",
+     "headline_title": null,
+     "season": 8,
+     "episode": 2015,
+     "description": "Alors que le secret de Boris et Muriel les ronge de plus en plus, de son côté, Florent assume son choix malgré les retombées pour ses proches.",
+     "broadcast_begin_date": 1790103000,
+     "broadcast_end_date": 1790104329,
+     "begin_date": 1789704000,
+     "end_date": 1792706340,
+     "duration": 1329,
+     "rating_csa": "Tous publics",
+     "si_id": "4e8358d0-af04-4e4a-a62e-0f40485923b2",
+     "downloadable": true,
+     "episode_title": "S8 E2015 - Épisode du mardi 22 septembre 2026",
+     "program": {
+      "id": 7011,
+      "label": "Un si grand soleil",
+      "description": "",
+      "type": "program",
+      "program_path": "france-3_un-si-grand-soleil",
+      "link": {
+       "url": "/apps/program/meta/france-3_un-si-grand-soleil?platform=apps",
+       "type": "tab"
+      },
+      "color": null,
+      "sound": null,
+      "headline_title": null,
+      "images": [
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/1X8E13Kl32Ifw7EkYmXi62CavqM/400x0/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:800": "https://medias.france.tv/p1lZO2oYHqdzEpqDrWG0Dx4NXfg/800x450/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:1024": "https://medias.france.tv/6fcQYYeuux1FGHPJEOh0TfPhrH0/1024x576/filters:quality(85)/s/k/h/phpoa0hks.jpg",
+         "w:2500": "https://medias.france.tv/HlXhyVqRTC2YIcit31I8FkfgFu0/2500x1406/filters:quality(85)/s/k/h/phpoa0hks.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/D-jKiW7IHD35tr40LLwF1MOaS-Y/400x533/filters:quality(85)/9/s/i/phpdvvis9.jpg",
+         "w:800": "https://medias.france.tv/lCFcI05hLWS7-E-8cV9j05ImeaQ/800x1066/filters:quality(85)/9/s/i/phpdvvis9.jpg",
+         "w:1024": "https://medias.france.tv/oB8mIPy7ECix8-97J5RaPkLaUl8/1024x1365/filters:quality(85)/9/s/i/phpdvvis9.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 32,
+      "ads_blocked": false,
+      "broadcast_box": null,
+      "recommendation": true,
+      "partner": null,
+      "sponsored": false,
+      "channel": "france-3",
+      "age_min": null,
+      "age_max": null,
+      "saison": null,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": "Eve s’investit dans des cours en prison. Secrètement elle passe un marché avec une détenue, Alice Lombard pour obtenir des informations sur Nathalie Gimenez, qu’elle tient pour responsable de la mort de son fils ELiott. Le deal : Eve aidera Alice à s’évader si cette dernière supprime Nathalie Gimenez. Mais après la mort de Gimenez, l'évasion d'ALice tourne mal et Claire est gravement blessée. Alice disparaît, Eve est rongée par la culpabilité. Claire s'en sort finalement mais Manu comprend qu'Eve était derrière cette affaire. Il ne la dénonce pas. de son côté, Eve commence à penser que Gimenez était innocente et soupçonne Boris et Muriel d'être liés à la mort d'ELiott.",
+      "label_edito": null,
+      "casting": "Mélanie Maudran, Moïse Santamaria, Yvon Back, Tonya Kinzinger, Frédéric van den Driessche, Chrystelle Labaude, Emma Colberti, Benjamin Bourgois, Marie-Gaëlle Cals, Fabrice Deville, Aurore Delplace, Nadia Fossier, Jérémie Covillault, Sophie Letellier…",
+      "characters": null,
+      "director": " Olivier Szulzynger, Eline Le Fur, Cristina Arellano, Stéphanie Tchou-Cotta",
+      "scenarists": null,
+      "palmares": null,
+      "production_countries": "",
+      "number_of_episodes": null,
+      "number_of_seasons": null,
+      "categories": [],
+      "sub_categories": [],
+      "category": null,
+      "podcast_url": null,
+      "offer": "francetv",
+      "sort_seasons": null,
+      "sort_episodes": null
+     },
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/_ZmJqc8Bm3uFvKLS2EcwJWold3g/265x265/filters:quality(85)/o/h/e/php04seho.jpg",
+        "w:300": "https://medias.france.tv/1cOHmzYCP-RV5t71iMbnQC2MzGM/300x300/filters:quality(85)/o/h/e/php04seho.jpg",
+        "w:400": "https://medias.france.tv/_-Q5DRlM6AlsSLPGBG7E8bdpsBE/400x400/filters:quality(85)/o/h/e/php04seho.jpg",
+        "w:800": "https://medias.france.tv/enqL1gticEYshQ2ox8T2tGgXidE/800x800/filters:quality(85)/o/h/e/php04seho.jpg",
+        "w:1024": "https://medias.france.tv/GZyqtuQRQ-7u8RIlTHqcgtfoEzM/1024x1024/filters:quality(85)/o/h/e/php04seho.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/4qvz47W4YcecmGAviLWP651QNss/400x0/filters:quality(85)/g/t/j/phpnehjtg.jpg",
+        "w:800": "https://medias.france.tv/vekXgHP3A7iWHlCUik1Q8EME3sE/800x450/filters:quality(85)/g/t/j/phpnehjtg.jpg",
+        "w:1024": "https://medias.france.tv/I35YS7ek4IBevQ8O_aY22dDGd6g/1024x576/filters:quality(85)/g/t/j/phpnehjtg.jpg",
+        "w:2500": "https://medias.france.tv/zRC6R2tJeQP1eZG8m2WaplQ9Iac/2500x1406/filters:quality(85)/g/t/j/phpnehjtg.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/NHTxfFFdBOGDA70Ze9bKNYZQwEM/400x533/filters:quality(85)/z/v/d/phpxy5dvz.jpg",
+        "w:800": "https://medias.france.tv/GDIONa8TWEgsfb3SHEDxQ4KVDas/800x1066/filters:quality(85)/z/v/d/phpxy5dvz.jpg",
+        "w:1024": "https://medias.france.tv/F1hc5uGTmKtL3E9LJqJyLjRi3Mc/1024x1365/filters:quality(85)/z/v/d/phpxy5dvz.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "channel": {
+      "id": 2,
+      "label": "France 3",
+      "type": "channel",
+      "channel_path": "france-3",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/3fpmXQzb4iphwCl94K2V0No8yjQ/265x265/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:300": "https://medias.france.tv/cOjy14IPRR8pVFtSWDzqeWcRu4E/300x300/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:400": "https://medias.france.tv/2cSonvrdpEyEdrJ-mpSlq6VRyQo/400x400/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:800": "https://medias.france.tv/PekMEGDvtLU8qsRG9kDw5OR0FO4/800x800/filters:quality(85)/i/v/v/phpjxpvvi.png",
+         "w:1024": "https://medias.france.tv/NWfPxUBSnv8Ue7IOuf4MeuBaD-M/1024x1024/filters:quality(85)/i/v/v/phpjxpvvi.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/PRwqs0bqVvfMHzrMDhs5re6i8R0/400x0/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:800": "https://medias.france.tv/4O4LBuEBQeW0cTy3R-Dz7D2zSac/800x450/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:1024": "https://medias.france.tv/9fJX_LZWMyGoqJzn2YR1QH-95zM/1024x576/filters:quality(85)/v/7/h/phpde4h7v.jpg",
+         "w:2500": "https://medias.france.tv/u0aZaQpBCk0r6Epv5K22QVCEgxA/2500x1406/filters:quality(85)/v/7/h/phpde4h7v.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/91DEQWJj0g52OJ16YKTU2TwjrDo/400x533/filters:quality(85)/f/y/y/phpsiyyyf.jpg",
+         "w:800": "https://medias.france.tv/qE_WHoaau7KV6fiDlekSmwUnBAQ/800x1066/filters:quality(85)/f/y/y/phpsiyyyf.jpg",
+         "w:1024": "https://medias.france.tv/17R7Rc-tHfJs5uVbix70YOVfWB4/1024x1365/filters:quality(85)/f/y/y/phpsiyyyf.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "si_id": "29bdf749-7082-4426-a4f3-595cc436aa0d",
+      "channel_url": "france-3",
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "offer": "france-3"
+     },
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 0,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     "event": null,
+     "partner": null,
+     "ads_blocked": false,
+     "sponsored": false,
+     "is_live": false,
+     "is_published": true,
+     "production_year": null,
+     "is_audio_descripted": false,
+     "is_multi_lingual": false,
+     "casting": "Mélanie Maudran, Moïse Santamaria, Yvon Back, Tonya Kinzinger, Frédéric Van den Driessche, Chrystelle Labaude, Emma Colberti, Benjamin Bourgois",
+     "director": null,
+     "producer": null,
+     "presenter": null,
+     "characters": "Claire Estrela, Manu Léoni, Clément Becker, Janet, Alain Alphand, Elisabeth Bastide, Eve, Alexandre Lévy",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": true,
+     "login": true,
+     "broadcast_channel": "france-3",
+     "medium_description": null,
+     "production_company": "France 2 (FR2) / France TV Studio / Epeios Productions",
+     "production_countries": "France",
+     "production_language": "Français",
+     "palmares": "",
+     "creator": "",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "",
+     "reviewers": "",
+     "upcoming_live": false,
+     "intro": null,
+     "text": null,
+     "reading_time": null,
+     "offer": "francetv",
+     "format": "landscape"
+    }
+   ],
+   "label": "Les émissions"
+  }
+ ],
+ "actions": [
+  {
+   "label": "voir le premier épisode disponible",
+   "id": 8824329,
+   "episode_title": "S8 E2014 - Épisode du lundi 21 septembre 2026",
+   "duration": 1327,
+   "type": "replay"
+  }
+ ]
+}

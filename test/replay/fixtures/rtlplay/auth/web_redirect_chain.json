@@ -1,0 +1,14 @@
+{
+  "connexion": {
+    "status": 307,
+    "location": "https://sso.rtl.be/oidc/connect/authorize?redirect_uri=https%3A%2F%2Fwww.rtlplay.be%2Frtlplay%2Fapi%2Fauth%2Fcallback%2Frtlplay&scope=openid+email+profile&audience=https%253A%252F%252Flfvp-api.dpgmedia.net&code_challenge=Uke8NMMjPkRbKl6ws0Edzry5QSu4IFOB9O3xgVwxY7Q&code_challenge_method=S256&client_id=lfvp-private&response_type=code"
+  },
+  "authorize": {
+    "status": 302,
+    "location": "https://sso.rtl.be/oidc/account/login?ReturnUrl=%2Foidc%2Fconnect%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.rtlplay.be%252Frtlplay%252Fapi%252Fauth%252Fcallback%252Frtlplay%26scope%3Dopenid%2520email%2520profile%26audience%3Dhttps%25253A%25252F%25252Flfvp-api.dpgmedia.net%26code_challenge%3DUke8NMMjPkRbKl6ws0Edzry5QSu4IFOB9O3xgVwxY7Q%26code_challenge_method%3DS256%26client_id%3Dlfvp-private%26response_type%3Dcode"
+  },
+  "login": {
+    "status": 302,
+    "location": "https://sso.rtl.be/?oidc_callback=%2Foidc%2Fconnect%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.rtlplay.be%252Frtlplay%252Fapi%252Fauth%252Fcallback%252Frtlplay%26scope%3Dopenid%2520email%2520profile%26audience%3Dhttps%25253A%25252F%25252Flfvp-api.dpgmedia.net%26code_challenge%3DUke8NMMjPkRbKl6ws0Edzry5QSu4IFOB9O3xgVwxY7Q%26code_challenge_method%3DS256%26client_id%3Dlfvp-private%26response_type%3Dcode&oidc_redirect=https%3A%2F%2Fsso.rtl.be%2Foidc%2Faccount%2Fauthenticate&required_newsletters=rtlplay,promosrtl&walls=profile,verify&created_by=rtlplay-web&brand=RTL%20Play&support_email=hello@rtlplay.be&verify_from=2024-08-28#/continue"
+  }
+}

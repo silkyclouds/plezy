@@ -1,0 +1,120 @@
+{
+ "showList": [
+  {
+   "id": "13426061",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:13426061",
+   "title": "Mystery Lane",
+   "description": "Il se passe d’étranges phénomènes à Londres.La star des lévriers de course s’est volatilisée de son box sécurisé de 100 pieds carrés, sans que la grille ne soit forcée. Deux pigeons ont distinctement",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/d9svn1-29108239.image/16x9",
+   "imageTitle": "Mystery Lane",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/d9svn1-29108239.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/pf1wcc-29108238.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 26,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "c09bb121-fd2d-3344-ad5b-89785e4af95b",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:c09bb121-fd2d-3344-ad5b-89785e4af95b",
+   "title": "Max et Lapin",
+   "description": "Si vous apercevez un lapin mauve dans les bras de Max, vous y verrez sans doute un doudou. Erreur ! Car Lapin est un VRAI lapin – enfin, surtout pour Max. Il est son compagnon d’aventures et de",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/5blwbq-29239838.image/16x9",
+   "imageTitle": "Max et Lapin",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/5blwbq-29239838.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/o9f71w-29239835.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 26,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "721900c7-dba3-3abf-ad83-1d38fd973aec",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:721900c7-dba3-3abf-ad83-1d38fd973aec",
+   "title": "Goat Girl",
+   "description": "GOAT GIRL est une comédie décalée mettant en scène une héroïne qui fait face à tous les obstacles en choisissant d’assumer pleinement son côté chèvre ! On y suit les aventures déjantées de Gigi, une",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/c16f551f-29359968.image/16x9",
+   "imageTitle": "Goat Girl",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/c16f551f-29359968.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/f77cb15a-29359969.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 20,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "f8f1142b-4565-3598-afe4-facee9db81ea",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:f8f1142b-4565-3598-afe4-facee9db81ea",
+   "title": "Max et les mi-chevaliers",
+   "description": "Se déroulant dans un univers médiéval fantastique, Max & les Mi-chevaliers est une série d'aventure et de comédie qui suit Max et sa bande d'amis hétéroclite dans leur quête pour sauver le royaume de",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/xqzyim-29192741.image/16x9",
+   "imageTitle": "Max et les mi-chevaliers",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/xqzyim-29192741.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/dpljpx-29192742.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 28,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

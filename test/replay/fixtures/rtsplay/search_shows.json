@@ -1,0 +1,27 @@
+{
+ "total": 4,
+ "searchTerm": "bye",
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/rts/searchResultShowList?q=bye&pageSize=2&next=2",
+ "searchResultShowList": [
+  {
+   "title": "Bye bye la Suisse",
+   "description": "Qui n'a pas rêvé un jour de tout laisser tomber et partir refaire sa vie à l'étranger ? Un rêve devenu réalité pour 4 familles suisses, dont ce feuilleton documentaire suit les péripéties dans leurs",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+   "imageTitle": "Bye bye la Suisse",
+   "id": "5921007",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:5921007"
+  },
+  {
+   "title": "Cat's Eyes",
+   "description": "Trois sœurs décident de dérober une œuvre d'art liée à la mystérieuse disparition de leur père.\n\nSaison 1 (8 épisodes) disponible en intégralité du 08 octobre au 06 novembre 2026.\nSaison 2 (8",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/420afaf7-29363417.image/16x9",
+   "imageTitle": "Cat's Eyes",
+   "id": "14979947",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:14979947"
+  }
+ ]
+}

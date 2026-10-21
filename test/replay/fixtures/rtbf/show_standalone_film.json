@@ -1,0 +1,170 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "Harceleurs - Film en streaming gratuit sur RTBF Auvio",
+   "description": "Camille, professeure de français, tente de jongler entre ses responsabilités familiales et professionnelles quand un drame frappe son collège : Dao, l'ami d'enfance de son fils, est hospitalisé après ",
+   "canonical": "https://auvio.rtbf.be/emission/harceleurs-32596",
+   "image": {
+    "url": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg",
+    "width": "1920",
+    "height": "1080"
+   }
+  },
+  "gemius": {
+   "lan": "FR",
+   "free": "",
+   "key": "home",
+   "subs": "auvio/emission/harceleurs-32596"
+  },
+  "chartbeat": {
+   "section": "Téléfilm",
+   "author": "Harceleurs"
+  },
+  "aipBlender": null,
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/emission/harceleurs-32596",
+  "onePlusX": {
+   "category_lvl1": "Films",
+   "category_lvl2": "Téléfilm",
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Films",
+   "category_level_2": "Téléfilm",
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Films",
+    "item": "https://auvio.rtbf.be/categorie/films-36"
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Téléfilm",
+    "item": "https://auvio.rtbf.be/categorie/telefilm-107"
+   },
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "name": "Harceleurs",
+    "item": "https://auvio.rtbf.be/emission/harceleurs-32596"
+   }
+  ]
+ },
+ "data": {
+  "id": "6627",
+  "pageType": "PROGRAM",
+  "content": {
+   "pageType": "PROGRAM",
+   "title": "Harceleurs",
+   "id": "32596",
+   "type": "STANDALONE",
+   "description": "Camille, professeure de français, tente de jongler entre ses responsabilités familiales et professionnelles quand un drame frappe son collège : Dao, l'ami d'enfance de son fils, est hospitalisé après une chute. Alors que la rumeur d'un harcèlement enfle, Camille se heurte au silence des élèves.",
+   "videoCount": 1,
+   "seasonCount": null,
+   "background": {
+    "xs": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg",
+    "s": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg",
+    "m": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg",
+    "l": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg",
+    "xl": "https://static-content.rtbf.be/media/program/background/68a7094cd48fabf32deef370e69dc731.jpg"
+   },
+   "logo": null,
+   "logoPartner": null,
+   "additionalLinks": [],
+   "channel": null,
+   "category": {
+    "resourceType": "CATEGORY",
+    "id": "107",
+    "label": "Téléfilm",
+    "path": "/categorie/telefilm-107",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://ds1.static.rtbf.be/default/image/180x100/default-auvio_0.jpg",
+     "s": "https://ds1.static.rtbf.be/default/image/370x208/default-auvio_0.jpg",
+     "m": "https://ds1.static.rtbf.be/default/image/770x433/default-auvio_0.jpg",
+     "l": "https://ds1.static.rtbf.be/default/image/1248x702/default-auvio_0.jpg",
+     "xl": "https://ds1.static.rtbf.be/default/image/1920x1080/default-auvio_0.jpg"
+    },
+    "logo": null
+   },
+   "media": {
+    "resourceType": "MEDIA",
+    "id": "3540042",
+    "programId": "",
+    "assetId": "3540042_6BA97Bb",
+    "path": "/media/harceleurs-virginie-ledoyen-dechire-entre-devoir-et-instinct-maternel-3540042",
+    "embedPath": "/embed/generic/content/media/3540042",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Harceleurs",
+    "subtitle": "Virginie Ledoyen déchire entre devoir et instinct maternel",
+    "description": "Camille, professeure de français, tente de jongler entre ses responsabilités familiales et professionnelles quand un drame frappe son collège : Dao, l'ami d'enfance de son fils Mathias, est hospitalisé après une chute mystérieuse. Alors que la rumeur d'un harcèlement enfle, Camille se heurte au silence des élèves et s'enfonce dans une enquête officieuse. Elle découvre que Dao a fait une tentative de suicide à la suite de la diffusion d'une vidéo humiliante. Qui a filmé ? Et surtout, est-ce que cette vidéo n'est que l'élément visible d'un harcèlement continu depuis des mois ? \nPeu à peu, les soupçons convergent vers Mathias, son propre fils. Entre instinct maternel et devoir moral, Camille prend une décision lourde de conséquences : protéger son enfant, quitte à effacer des preuves. Mais la vérité finit par éclater, bouleversant irrémédiablement leur lien et son regard sur Mathias...",
+    "publishedFrom": "2026-10-19T22:05:00+02:00",
+    "publishedTo": "2026-11-18T23:55:00+01:00",
+    "releaseDate": "19/10/26",
+    "duration": 5379,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": true,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/b/d/a/bda51a0c38c5b55152c48e27939e83c5.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/b/d/a/bda51a0c38c5b55152c48e27939e83c5.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/b/d/a/bda51a0c38c5b55152c48e27939e83c5.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/b/d/a/bda51a0c38c5b55152c48e27939e83c5.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/b/d/a/bda51a0c38c5b55152c48e27939e83c5.jpg"
+    },
+    "channelLabel": "La Une",
+    "categoryLabel": "",
+    "products": []
+   },
+   "live": null
+  },
+  "layout": "default",
+  "widgets": [
+   {
+    "type": "PROGRAM_LIST",
+    "id": "21342",
+    "title": "A découvrir aussi",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/21342?context%5BprogramId%5D=32596",
+    "locked": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "515c63f1-d63b-4ea1-a6e6-ed23bc6b5f06",
+   "slug": "jt-20h",
+   "name": "Journal de 20 heures",
+   "isFullyDigital": false,
+   "editor": "lci",
+   "mainChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "initialChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "categories": [
+    {
+     "id": "GT_INFOS_MAG_AND_SPORT",
+     "label": "Infos, Mag & Sport",
+     "main": true,
+     "slug": "infos-mag-et-sport",
+     "type": "MAIN_INFOS_MAGAZINE_SPORTS"
+    },
+    {
+     "id": "SGT_INFOS",
+     "label": "Infos",
+     "main": false,
+     "slug": "infos",
+     "type": "SUB_INFOS"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "program-card-portrait-1-2a6a1e",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/program-card-portrait-1-2a6a1e-ca2982-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/program-card-portrait-1-2a6a1e-1602aa-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "merged-background-ott-jt20h-btc-029f04-473ce3",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/merged-background-ott-jt20h-btc-029f04-473ce3-89f493-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/merged-background-ott-jt20h-btc-029f04-473ce3-30e579-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 7
+   },
+   "replayRecent": {
+    "total": 1
+   },
+   "allVideos": {
+    "total": 225
+   },
+   "allVideosRecent": {
+    "total": 16
+   },
+   "videos": {
+    "total": 7,
+    "items": [
+     {
+      "id": "3cb64702-94af-4a13-9b02-4d27128d2cef",
+      "slug": "le-jt-de-20-heures-de-tf1-du-mardi-20-octobre-2026-74277480",
+      "type": "REPLAY",
+      "rating": "CSA_ALL",
+      "date": "2026-10-20T17:57:51Z",
+      "episode": 167,
+      "season": 26,
+      "authEnabled": true,
+      "published": "2026-10-20T18:39:51Z",
+      "url": "https://www.tf1.fr/tf1/jt-20h/videos/le-jt-de-20-heures-de-tf1-du-mardi-20-octobre-2026-74277480.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 2521,
+       "remainingDays": 7,
+       "freeRemainingDays": 7
+      },
+      "decoration": {
+       "description": "« JT 20h Semaine » du mardi 20 octobre 2026. Du lundi au jeudi, \"LE 20H\" est le grand rendez-vous d’information en début de soirée présenté par Gilles Bouleau ou Jean-Baptiste Boursier, son joker. La rédaction de TF1 décrypte l'actualité française et internationale au travers de nombreux reportages, documentaires et duplex informant les Français sur les sujets sociétaux, environnementaux et économiques.",
+       "hook": "",
+       "label": "Le JT de 20 heures de TF1 du mardi 20 octobre 2026",
+       "programLabel": "Journal de 20 heures",
+       "subLabel": "du mardi 20 octobre 2026 à 19h57",
+       "images": [
+        {
+         "id": "preview_3cb64702-94af-4a13-9b02-4d27128d2cef",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/19baeea90999a2497065dd7f98b0815ad01aec13d4029654e486f2b3c7a50dde.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "program-card-landscape-2dd84a",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/program-card-landscape-2dd84a-bdbe9d-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/program-card-landscape-2dd84a-1cd02f-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "program-card-landscape-2dd84a",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/program-card-landscape-2dd84a-376a6e-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/program-card-landscape-2dd84a-a22c54-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "515c63f1-d63b-4ea1-a6e6-ed23bc6b5f06",
+       "slug": "jt-20h",
+       "name": "Journal de 20 heures",
+       "editor": "lci",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "label": "TF1",
+        "slug": "tf1"
+       },
+       "categories": [
+        {
+         "id": "GT_INFOS_MAG_AND_SPORT",
+         "main": true,
+         "slug": "infos-mag-et-sport"
+        },
+        {
+         "id": "SGT_INFOS",
+         "main": false,
+         "slug": "infos"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-le-20h-1f697d",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-le-20h-1f697d-bba6a9-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-le-20h-1f697d-d6f49c-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

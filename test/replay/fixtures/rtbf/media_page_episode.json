@@ -1,0 +1,287 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": " ",
+   "description": " ",
+   "canonical": "https://auvio.rtbf.be/media/ghosts-ghosts-s02-3507958",
+   "image": {
+    "url": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+    "width": "1200",
+    "height": "630"
+   },
+   "embedUrl": "https://auvio.rtbf.be/embed/generic/content/media/3507958",
+   "expires": "Sun, 28 Feb 2027 22:55:00 GMT"
+  },
+  "gemius": {
+   "lan": "FR",
+   "free": "",
+   "key": "ond",
+   "subs": "auvio/media/3507958",
+   "player": {
+    "channel": "auvio4",
+    "se": "Ghosts",
+    "ct": "ce",
+    "sct": "ghosts-s02-01-visite-guidee",
+    "scte": "video",
+    "st": "vid.tvi.ep.vod.free",
+    "tv": "24-TCFFL288-001-PR",
+    "series": "Ghosts",
+    "programSeason": "season 2",
+    "externalPremiereDate": "14102026",
+    "scd": "1778"
+   }
+  },
+  "chartbeat": {
+   "section": "Comédie",
+   "author": "Ghosts",
+   "title": " "
+  },
+  "aipBlender": {
+   "CMdID": "3507958",
+   "CMdCmsID": "ghosts",
+   "CMdTtl": "Ghosts S02 - 01 - Visite guidée - (1) - 14/10/2026",
+   "CLgth": 1779,
+   "CGr": "series",
+   "Cep": "1",
+   "CSsn": "2",
+   "Ccat": "séries,comédie",
+   "CDbr": "rtbf",
+   "CPdr": "",
+   "CR": "-10",
+   "CLv": 0,
+   "Ckey": [
+    ""
+   ],
+   "UPP": 1,
+   "UGDPR": 1,
+   "AdSID": "710468",
+   "AdZID": "2143938"
+  },
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/media/ghosts-ghosts-s02-3507958",
+  "onePlusX": {
+   "category_lvl1": "Séries",
+   "category_lvl2": "Comédie",
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Séries",
+   "category_level_2": "Comédie",
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Séries",
+    "item": "https://auvio.rtbf.be/categorie/series-35"
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Séries intégrales",
+    "item": "https://auvio.rtbf.be/media/ghosts-ghosts-s02-3507958"
+   }
+  ]
+ },
+ "data": {
+  "id": "7292",
+  "pageType": "MEDIA",
+  "content": {
+   "pageType": "MEDIA",
+   "title": "Ghosts S02",
+   "id": "3507958",
+   "assetId": "3507958_6BA97Bb",
+   "type": "VIDEO",
+   "subtitle": "01 - Visite guidée",
+   "description": "Suite à un message sur les réseaux sociaux, les curieux se pressent pour voir les fantômes au manoir. Mike et Alison décident de faire payer les visiteurs qui veulent les voir... Malheureusement, nos amis fantômes ont décidé de faire grève ce soir-là !",
+   "shortDescription": "",
+   "isPremium": false,
+   "publishedFrom": "2026-10-14T05:55:00+02:00",
+   "publishedTo": "2027-02-28T23:55:00+01:00",
+   "releaseDate": "14/10/26",
+   "duration": 1778,
+   "rating": "-10",
+   "minimumAge": "10",
+   "pictograms": [
+    {
+     "code": "A",
+     "label": "Angoisse"
+    }
+   ],
+   "hasAudioDescriptions": false,
+   "hasMultilingualVersions": true,
+   "hasSubtitles": true,
+   "background": {
+    "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+    "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+    "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+    "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg"
+   },
+   "logo": null,
+   "casting": [
+    {
+     "name": "Jim Howick",
+     "role": "Pat Butcher"
+    },
+    {
+     "name": "Mathew Baynton",
+     "role": "Thomas Thorne"
+    },
+    {
+     "name": "Charlotte Ritchie",
+     "role": "Alison Cooper"
+    },
+    {
+     "name": "Martha Howe-Douglas",
+     "role": "Lady Fanny Button"
+    },
+    {
+     "name": "Tom Kingsley",
+     "role": "Réalisateur"
+    },
+    {
+     "name": "Lolly Adefope",
+     "role": "Katherine 'Kitty' Higham"
+    },
+    {
+     "name": "Matthew Mulot",
+     "role": "Producteur"
+    },
+    {
+     "name": "Kiell Smith-Bynoe",
+     "role": "Mike Cooper"
+    }
+   ],
+   "products": [],
+   "program": {
+    "resourceType": "PROGRAM",
+    "id": "32284",
+    "path": "/emission/ghosts-32284",
+    "pathTitle": "",
+    "title": "Ghosts",
+    "type": "SERIE",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg"
+    },
+    "hero": null
+   },
+   "category": {
+    "resourceType": "CATEGORY",
+    "id": "106",
+    "label": "Comédie",
+    "path": "/categorie/comedie-106",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://ds1.static.rtbf.be/default/image/180x100/default-auvio_0.jpg",
+     "s": "https://ds1.static.rtbf.be/default/image/370x208/default-auvio_0.jpg",
+     "m": "https://ds1.static.rtbf.be/default/image/770x433/default-auvio_0.jpg",
+     "l": "https://ds1.static.rtbf.be/default/image/1248x702/default-auvio_0.jpg",
+     "xl": "https://ds1.static.rtbf.be/default/image/1920x1080/default-auvio_0.jpg"
+    },
+    "logo": null
+   },
+   "channel": null,
+   "tags": [],
+   "next": {
+    "resourceType": "MEDIA",
+    "id": "3507959",
+    "programId": "",
+    "assetId": "3507959_6BA97Bb",
+    "path": "/media/ghosts-s02-3507959",
+    "embedPath": "/embed/generic/content/media/3507959",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S02",
+    "subtitle": "02 - Lendemain de fête",
+    "description": "Après une nuit de fête, Alison et Mike nettoient le manoir de fond en comble car une organisatrice de mariage souhaite le visiter. Les fantômes ne font rien pour leur faciliter la tâche et sollicitent Alison pour régler leurs différends...",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1707,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/5/7/5/57540e7637fa551552da3c4862fe0764.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "",
+    "products": []
+   },
+   "previous": {
+    "resourceType": "MEDIA",
+    "id": "3507957",
+    "programId": "",
+    "assetId": "3507957_6BA97Bb",
+    "path": "/media/ghosts-s01-3507957",
+    "embedPath": "/embed/generic/content/media/3507957",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S01",
+    "subtitle": "06 - Manoir à vendre",
+    "description": "Les tâches quotidiennes et les rénovations s'enchaînent ; Alison et Mike sont épuisés et toujours sans ressources. C'est pourquoi, lorsqu'un groupe hôtelier leur propose de racheter le manoir à un très bon prix, ils envisagent sérieusement de leur céder. Une perspective qui divise les esprits...",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1724,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/0/e/f/0efa2aebd323467c3eb98354b5cae8bd.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/0/e/f/0efa2aebd323467c3eb98354b5cae8bd.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/0/e/f/0efa2aebd323467c3eb98354b5cae8bd.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/0/e/f/0efa2aebd323467c3eb98354b5cae8bd.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/0/e/f/0efa2aebd323467c3eb98354b5cae8bd.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "",
+    "products": []
+   },
+   "chapters": null
+  },
+  "layout": "default",
+  "widgets": []
+ }
+}

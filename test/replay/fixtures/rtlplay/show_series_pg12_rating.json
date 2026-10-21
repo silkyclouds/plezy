@@ -1,0 +1,309 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "2b288a1e-e56d-4b76-a4c1-2569ea49366d",
+  "info": null
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "Two Summers",
+  "imageUrl": null
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images3.persgroep.net/rcs/mX0ILmNsgAYq_9UdoI02AFbKhX0/diocontent/248640747/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images1.persgroep.net/rcs/AhqPWaWXyD-3bpV7readmU5CYps/diocontent/248640747/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images0.persgroep.net/rcs/fW1MbiWfobA0xU1oA4W-5lNeQ6U/diocontent/248640747/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images2.persgroep.net/rcs/oH3VXtaZOdlgmy2DF0czF51o5kQ/diocontent/248640747/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images1.persgroep.net/rcs/5gvHxSDMeVxOLNV7Ej7iU4tbxDs/diocontent/248636998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2021",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "1 saison",
+   "emphasized": false,
+   "accessibilityLabel": null
+  },
+  {
+   "label": "Thriller",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [
+  "PG_12"
+ ],
+ "description": "Tout commence il y a 30 ans : un groupe de jeunes gens heureux dans la vingtaine veut profiter une dernière fois de vacances fun avant que la « vie sérieuse » ne commence. Ce moment prend une tournure terrible pour le pire quand l’un d’eux meurt dans un incident tragique.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/two-summers~e6276d61-acc5-43cf-a05d-bf35fd0c81ac?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images1.persgroep.net/rcs/5gvHxSDMeVxOLNV7Ej7iU4tbxDs/diocontent/248636998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "e6276d61-acc5-43cf-a05d-bf35fd0c81ac",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Thriller",
+      "collectionId": "283a70ac-e403-415a-a4b4-f00db9b3364f"
+     }
+    ]
+   },
+   {
+    "label": "Réalisation",
+    "items": [
+     {
+      "label": "Tom Lenaerts",
+      "collectionId": null
+     },
+     {
+      "label": "Brecht Vanhoenacker",
+      "collectionId": null
+     }
+    ]
+   },
+   {
+    "label": "Rôles",
+    "items": [
+     {
+      "label": "Ann Miller",
+      "collectionId": null
+     },
+     {
+      "label": "Tom Vermeir",
+      "collectionId": null
+     },
+     {
+      "label": "Herwig Ilegems",
+      "collectionId": null
+     },
+     {
+      "label": "Koen De Bouw",
+      "collectionId": null
+     },
+     {
+      "label": "Kevin Janssens",
+      "collectionId": null
+     },
+     {
+      "label": "Ruth Becquart",
+      "collectionId": null
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "Tout commence il y a 30 ans : un groupe de jeunes gens heureux dans la vingtaine veut profiter une dernière fois de vacances fun avant que la « vie sérieuse » ne commence. Ce moment prend une tournure terrible pour le pire quand l’un d’eux meurt dans un incident tragique."
+ },
+ "seasonPicker": {
+  "selected": {
+   "episodes": [
+    {
+     "id": "2b288a1e-e56d-4b76-a4c1-2569ea49366d",
+     "title": "1. Episode 01",
+     "description": "Trente ans après leurs dernières vacances ensemble, Peter et Romée invitent leurs vieux amis sur une île privée pour célébrer le 50ème anniversaire de Romée. Le but du voyage change rapidement lorsque quelqu'un tente de faire chanter Peter avec une vidéo datant de trente ans, juste avant son arrivée. La seule chose certaine est que la personne qui le fait chanter est sur l'île.",
+     "index": 1,
+     "imageUrl": "https://images2.persgroep.net/rcs/Dawv5xtmVr7hhIZX2z8K8KxnkT8/diocontent/248638286/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2652,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "44 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "474035e0-94f5-495e-915b-7fd5cc51ffcd",
+     "title": "2. Episode 02",
+     "description": "Stef est la seule à qui Peter parle de la vidéo et du chantage, ce qui crée aussi des problèmes entre elle et Didier. La suspicion règne en maître dans le groupe. Stef veut confronter Didier avec la vidéo contre l'avis de Peter qui ne pense pas que ce soit une bonne idée. Le groupe fête l'anniversaire de Romée, mais l'ambiance est tendue.",
+     "index": 2,
+     "imageUrl": "https://images2.persgroep.net/rcs/VxVI4js9s0MUX6GlRwd0jMTL4gE/diocontent/248638135/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2763,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "46 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "aec5a01c-66e9-4abb-bd4b-248bcdab2ade",
+     "title": "3. Episode 03",
+     "description": "Le premier été : c'est le matin après les événements et les garçons ne réalisent que trop bien ce qui s'est passé la veille. Quand Sofie ne se souvient de rien, ils brûlent la cassette avec les preuves. Dans le présent, sur l'île, maintenant que Didier est également au courant de la vidéo, les trois hommes commencent à cuisiner Luk. Didier avoue à Peter et Stef qu'il a déjà rencontré Lia dix ans plus tôt...",
+     "index": 3,
+     "imageUrl": "https://images3.persgroep.net/rcs/usmomXv-CvQlKgCu1p_EIgPQlTI/diocontent/248637946/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2658,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "44 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "82986fb3-642e-4977-9cce-8f323ab652cf",
+     "title": "4. Episode 04",
+     "description": "Le premier été : le groupe décide de prendre des pilules et la soirée se transforme en fête débridée. Sofie est la dernière fille éveillée. Ce qui s'est passé dans la nuit, et qui se trouve sur la vidéo, devient vite évident. Dans le présent, après avoir vu les images, Romée confronte Peter. Aura-t-il le courage de tout lui dire ?",
+     "index": 4,
+     "imageUrl": "https://images2.persgroep.net/rcs/huCMDi5Px0vlGJtwE7Puoxqmw0s/diocontent/248765885/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2722,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "45 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "f7751765-c1f6-43e3-9b1b-97cf8a6db946",
+     "title": "5. Episode 05",
+     "description": "La confrontation entre Luk et les autres hommes ne peut plus être évitée. Apparemment, le chantage n'est pas le seul secret du groupe d'amis. Romée déconcerte la bande, et Peter en particulier, avec des nouvelles choquantes. Peter et Romée discutent de ce qui doit se passer ensuite.",
+     "index": 5,
+     "imageUrl": "https://images4.persgroep.net/rcs/FDrEE-wQTNzQLiJx1OmzhMHZi6k/diocontent/249033814/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2596,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "43 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "81f45775-0bbf-4fa9-b4af-fc152620b2d4",
+     "title": "6. Episode 06",
+     "description": "Tout s'écroule. Le groupe s'est complètement effondré, plus personne ne semble faire confiance ou soutenir qui que ce soit. Les tensions sont exacerbées, car il devient évident que personne ne quittera cette île avant que la vérité ne soit enfin révélée... Après Luk et Romée, Lia et Sofie sont également amenées devant le juge d'instruction. Que s'est-il passé d'autre sur cette île ?",
+     "index": 6,
+     "imageUrl": "https://images0.persgroep.net/rcs/cHnQxg4Dftyw0bbqdUXYYabjTL8/diocontent/249287894/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2585,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "43 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    }
+   ],
+   "index": 1,
+   "duplicateContentBanner": null
+  },
+  "indices": [
+   1
+  ]
+ },
+ "durationSeconds": null,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "#no filter",
+    "detailId": "09277faa-073d-495a-9d54-3cb5d65731ba",
+    "imageUrl": "https://images4.persgroep.net/rcs/1W-HYzZiS7mA0BRgCANx6Zml2wI/diocontent/243746402/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Silent Jill : Halloween dans le Nord-Est des États-Unis",
+    "detailId": "dc52eecd-4f29-4feb-b781-0a18a516ecc4",
+    "imageUrl": "https://images3.persgroep.net/rcs/NH8dL3pKq-JCkqXko1qfROWt6yg/diocontent/249781504/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Halloween Stories",
+    "detailId": "275f6aec-ac1b-474d-a9da-a3c6f24b56b3",
+    "imageUrl": "https://images3.persgroep.net/rcs/Z48LP4xMuM21YTPme4XHe531VUo/diocontent/249812018/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Dead of Summer - un été maudit",
+    "detailId": "e53c5f7c-dd2a-421b-98f8-a801e3532bcb",
+    "imageUrl": "https://images2.persgroep.net/rcs/ahcgWhxDEjPHJBcQlIuOGTDh9Is/diocontent/276646675/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Hantée par mon mari",
+    "detailId": "910b5a01-e0a7-4787-a7b2-f84063718a42",
+    "imageUrl": "https://images1.persgroep.net/rcs/-DMn1t2ZU-9Kodvt52J7Id2BTio/diocontent/278621977/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Défis mortels",
+    "detailId": "ab7da4bd-fa5a-4d51-9ad2-1b12b0b3733d",
+    "imageUrl": "https://images2.persgroep.net/rcs/P57wIOKAN4S-qqyWjMo19S7p-kg/diocontent/278585977/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "78cfe528-d151-43f8-86d6-f3a686fe24b5",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}

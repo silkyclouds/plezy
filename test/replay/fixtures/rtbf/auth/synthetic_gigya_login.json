@@ -1,0 +1,10 @@
+{
+ "errorCode": 0,
+ "apiVersion": 2,
+ "statusCode": 200,
+ "UID": "synthetic-uid",
+ "sessionInfo": {
+  "login_token": "st2.s.synthetic-login-token",
+  "expires_in": "31536000"
+ }
+}

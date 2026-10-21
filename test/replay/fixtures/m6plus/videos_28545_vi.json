@@ -1,0 +1,527 @@
+[
+ {
+  "id": "clip_13200303",
+  "type": "vi",
+  "title": "S1 E1 - Retour à Rosewood",
+  "description": "Un an après la disparition inexpliquée d’Alison DiLaurentis, Aria revient à Rosewood et retrouve Spencer, Hanna et Emily, dont elle s’était éloignée. Leur tentative de renouer est vite troublée par des messages signés « A », qui révèlent des secrets que seule Alison semblait connaître. Les jeunes fi",
+  "duration": 2556,
+  "publication_date": "2026-10-15 00:00:00",
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28545,
+   "code": "pretty-little-liars",
+   "title": "Pretty little liars"
+  },
+  "images": [
+   {
+    "external_key": "5028468",
+    "role": "vignette",
+    "id": 4763428
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_f75258e880640307a9ab66468bae760d_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_2eda6024235a576645692da3215b465a_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_6bc24f4aa331cfb52bbf98c1ef0549bd_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_b7e86146118d6760ac387af9d811c471_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_9474afe92aeed176e51f09bac30be320_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2556,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/9/1/2/9121ac2b227325d3cb9303f4080fec048cd622dc/static/13200303_02677576d3c77ae5305c0c01c0b8769a_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": 414.56,
+    "tc_ending_credits": 2528.12,
+    "product": {
+     "season": 1,
+     "episode": 1,
+     "season_title": "Saison 1",
+     "season_id": 25360,
+     "part_number": null,
+     "first_local_air_date": "2012-01-05 00:00:00",
+     "summary": "Un an après la disparition inexpliquée d’Alison DiLaurentis, Aria revient à Rosewood et retrouve Spencer, Hanna et Emily, dont elle s’était éloignée. Leur tentative de renouer est vite troublée par des messages signés « A », qui révèlent des secrets que seule Alison semblait connaître. Les jeunes fi"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13200271",
+  "type": "vi",
+  "title": "S1 E2 - Le secret de Jenna",
+  "description": "Les messages de « A » ramènent les quatre amies à un incident ancien impliquant Jenna Marshall, la demi-sœur de Toby. Chacune craint que les circonstances exactes de ce drame ne soient dévoilées. Alors qu’Aria tente de préserver sa relation secrète avec Ezra, Spencer, Hanna et Emily réalisent que le",
+  "duration": 2425,
+  "publication_date": "2026-10-15 00:00:00",
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28545,
+   "code": "pretty-little-liars",
+   "title": "Pretty little liars"
+  },
+  "images": [
+   {
+    "external_key": "5028844",
+    "role": "vignette",
+    "id": 4763802
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_86e642aa24eb840183aa34161db36326_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_5fbbe280e84018b2da8d94c2f87b6c66_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_f9fdc39690bf7f0fd8e9105b009c6a81_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_27aa3da963c61ad440aea1cce44ab9ef_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_c6539ff92877fc925d20c45bb2937751_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2425,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/2/6/d26050f589e0a259974e7467bba2641e2181930e/static/13200271_4ce3cb317c043d8c8fa0da72dcc05535_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": 277.24,
+    "tc_ending_credits": 2392.92,
+    "product": {
+     "season": 1,
+     "episode": 2,
+     "season_title": "Saison 1",
+     "season_id": 25360,
+     "part_number": null,
+     "first_local_air_date": "2012-01-05 00:00:00",
+     "summary": "Les messages de « A » ramènent les quatre amies à un incident ancien impliquant Jenna Marshall, la demi-sœur de Toby. Chacune craint que les circonstances exactes de ce drame ne soient dévoilées. Alors qu’Aria tente de préserver sa relation secrète avec Ezra, Spencer, Hanna et Emily réalisent que le"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13200245",
+  "type": "vi",
+  "title": "S2 E1 - Vivants ?",
+  "description": "Après la fuite d’Ian, les filles tentent de convaincre leur entourage de ce qu’elles ont vécu, sans parvenir à fournir de preuves solides. Spencer refuse d’abandonner ses soupçons, alors qu’Aria, Hanna et Emily cherchent à retrouver une existence plus stable. Mais l’accalmie est de courte durée : un",
+  "duration": 2475,
+  "publication_date": "2026-10-15 00:00:00",
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28545,
+   "code": "pretty-little-liars",
+   "title": "Pretty little liars"
+  },
+  "images": [
+   {
+    "external_key": "5028995",
+    "role": "vignette",
+    "id": 4763952
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_91005102cb99ec95dc79ac66b9583454_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_eb81e74ef7f3fba9e1dd1106ce0a0ea7_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_f420a79a3b68808de488fd87b6553eb7_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_1329a8773e90a2651fa32202f5620baf_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_568c4d5b71991dfac984514e215643c1_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2475,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/0/0/2/00253616f4e336efc61f4c0808b4e44d1cf462e3/static/13200245_e094d263364f3821633d3d30692f4444_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": 282.8,
+    "tc_ending_credits": 2442.68,
+    "product": {
+     "season": 2,
+     "episode": 1,
+     "season_title": "Saison 2",
+     "season_id": 25361,
+     "part_number": null,
+     "first_local_air_date": "2013-01-03 00:00:00",
+     "summary": "Après la fuite d’Ian, les filles tentent de convaincre leur entourage de ce qu’elles ont vécu, sans parvenir à fournir de preuves solides. Spencer refuse d’abandonner ses soupçons, alors qu’Aria, Hanna et Emily cherchent à retrouver une existence plus stable. Mais l’accalmie est de courte durée : un"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13200229",
+  "type": "vi",
+  "title": "S3 E4 - La plume est dans le sac",
+  "description": "Spencer se rend à Philadelphie afin de vérifier les déclarations de Melissa et d’éclaircir les circonstances de sa fausse grossesse. Pendant ce temps, Hanna apprend que Mona a perdu ses droits de visite, ce qui renforce ses soupçons sur les activités de Radley. Les autres filles tentent de réunir de",
+  "duration": 2538,
+  "publication_date": "2026-10-15 00:00:00",
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28545,
+   "code": "pretty-little-liars",
+   "title": "Pretty little liars"
+  },
+  "images": [
+   {
+    "external_key": "5028856",
+    "role": "vignette",
+    "id": 4763814
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_f74aff39bd0e95cf2b7ecb63d391a6f8_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_4aceca1a27998d806cce9233d8f9fa2a_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_2636844c0f11fa8c7fc64b22423adddb_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_89d2a89fcabe41a0257ffffe1e661d35_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_a66df4833f6525f405dcf139a24b92e5_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2538,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_4af4e99efe8ba88a2c1ce68d494c2f2b_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": 197.4,
+    "tc_ending_credits": 2505.56,
+    "product": {
+     "season": 3,
+     "episode": 4,
+     "season_title": "Saison 3",
+     "season_id": 25355,
+     "part_number": null,
+     "first_local_air_date": "2014-01-21 00:00:00",
+     "summary": "Spencer se rend à Philadelphie afin de vérifier les déclarations de Melissa et d’éclaircir les circonstances de sa fausse grossesse. Pendant ce temps, Hanna apprend que Mona a perdu ses droits de visite, ce qui renforce ses soupçons sur les activités de Radley. Les autres filles tentent de réunir de"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13200230",
+  "type": "vi",
+  "title": "S3 E10 - Le poids des mensonges",
+  "description": "Emily et Hanna se rendent discrètement au chalet des Kahn après avoir compris que Maya y avait peut-être séjourné. Leur exploration révèle une pièce cachée et plusieurs affaires personnelles appartenant à la jeune femme, mais elles se retrouvent rapidement piégées. Spencer enquête de son côté sur No",
+  "duration": 2528,
+  "publication_date": "2026-10-15 00:00:00",
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28545,
+   "code": "pretty-little-liars",
+   "title": "Pretty little liars"
+  },
+  "images": [
+   {
+    "external_key": "5028972",
+    "role": "vignette",
+    "id": 4763929
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_b6dfd35871f46fce47ad7361f689793c_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_1a1ff25b8311663197c7e73d720564ce_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_a51cc6b16493fdba2bf263e1ec314199_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_d59fb1ae0668ef85b1faf6cf61c2a0ba_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_7603c4391c282b5f00149d3b20b3f70d_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2528,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/8/e/8/8e8fbae4f73fdaf743211c6a762c21452510bf6b/static/13200230_427f3e296ed743106e94dc444f777837_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607681&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": 159.76,
+    "tc_ending_credits": 2495.36,
+    "product": {
+     "season": 3,
+     "episode": 10,
+     "season_title": "Saison 3",
+     "season_id": 25355,
+     "part_number": null,
+     "first_local_air_date": "2014-02-11 00:00:00",
+     "summary": "Emily et Hanna se rendent discrètement au chalet des Kahn après avoir compris que Maya y avait peut-être séjourné. Leur exploration révèle une pièce cachée et plusieurs affaires personnelles appartenant à la jeune femme, mais elles se retrouvent rapidement piégées. Spencer enquête de son côté sur No"
+    }
+   }
+  ]
+ }
+]

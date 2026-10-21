@@ -1,0 +1,118 @@
+[
+ {
+  "id": "clip_13073215",
+  "type": "vi",
+  "title": "Mon voisin nu",
+  "description": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Sauf que cet homme-là a une singularité : il vit nu.",
+  "duration": 5779,
+  "publication_date": "2024-06-24 22:44:19",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [
+   {
+    "code": "paris-premiere",
+    "description": "pp",
+    "id": 4,
+    "title": "paris-premiere",
+    "type": "content"
+   }
+  ],
+  "program": {
+   "id": 25919,
+   "code": "mon-voisin-nu",
+   "title": "Mon voisin nu"
+  },
+  "images": [
+   {
+    "external_key": "4278308",
+    "role": "vignette",
+    "id": 4021611
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": null,
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": null,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": "2024-05-25 00:00:00",
+     "summary": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Sauf que cet homme-là a une singularité : il vit nu."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13129976",
+  "type": "vi",
+  "title": "Mon voisin nu",
+  "description": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Jusque-là, tout va bien, n’importe qui peut vivre au 6e étage d'un immeuble du boulevard Montparnasse. Sauf que cet homme-là a une singularité : il vit nu. Il ne se cache pas, ne s’exhibe pas, ne tire jamais les rideaux,",
+  "duration": 5731,
+  "publication_date": "2026-09-26 22:56:34",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [
+   {
+    "code": "paris-premiere",
+    "description": "pp",
+    "id": 4,
+    "title": "paris-premiere",
+    "type": "content"
+   }
+  ],
+  "program": {
+   "id": 25919,
+   "code": "mon-voisin-nu",
+   "title": "Mon voisin nu"
+  },
+  "images": [
+   {
+    "external_key": "4637942",
+    "role": "vignette",
+    "id": 4376073
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": null,
+    "tc_opening_credits": null,
+    "tc_ending_credits": 5670.28,
+    "product": {
+     "season": null,
+     "episode": null,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": "2024-05-25 00:00:00",
+     "summary": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Sauf que cet homme-là a une singularité : il vit nu."
+    }
+   }
+  ]
+ }
+]

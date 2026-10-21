@@ -1,0 +1,220 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+   "slug": "hpi",
+   "name": "HPI",
+   "isFullyDigital": true,
+   "editor": "mytf1",
+   "mainChannel": {
+    "id": "d005401e-a079-4e13-878f-b6576387fc50",
+    "slug": "tf1-plus",
+    "label": "TF1+"
+   },
+   "initialChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "categories": [
+    {
+     "id": "GT_SERIES_AND_FICTIONS",
+     "label": "Séries & Fictions",
+     "main": true,
+     "slug": "series-et-fictions",
+     "type": "MAIN_SERIES_AND_FICTIONS"
+    },
+    {
+     "id": "SGT_SERIES",
+     "label": "Séries",
+     "main": false,
+     "slug": "series",
+     "type": "SUB_SERIES"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "program-card-portrait-hpi-s5-0e8976",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/program-card-portrait-hpi-s5-0e8976-598cad-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/program-card-portrait-hpi-s5-0e8976-2f079c-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "background-ott-015722",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-ott-015722-d1395f-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/background-ott-015722-b78bd4-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 40
+   },
+   "replayRecent": {
+    "total": 0
+   },
+   "allVideos": {
+    "total": 41
+   },
+   "allVideosRecent": {
+    "total": 0
+   },
+   "videos": {
+    "total": 40,
+    "items": [
+     {
+      "id": "9904f30b-a516-4c6d-9aee-185e442d7aba",
+      "slug": "hpi-s05-e08-supernova-15207545",
+      "type": "REPLAY",
+      "rating": "CSA_ALL",
+      "date": "2026-09-17T07:00:00Z",
+      "episode": 8,
+      "season": 5,
+      "authEnabled": true,
+      "published": "2026-09-17T07:00:00Z",
+      "url": "https://www.tf1.fr/tf1/hpi/videos/hpi-s05-e08-supernova-15207545.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 4149,
+       "remainingDays": 131,
+       "freeRemainingDays": 131
+      },
+      "decoration": {
+       "description": "Morgane affronte son oral d'entrée dans la police en narrant sa dernière enquête avec Karadec. Son récit mêle souvenirs et aventures, révélant une menace imminente. L'enjeu est double : devenir policière et sauver son partenaire. Leur relation survivra-t-elle à ces épreuves ? Le final promet une intrigue riche en émotions.",
+       "hook": "",
+       "label": "HPI - S05 E08 - Supernova",
+       "programLabel": "HPI",
+       "subLabel": "",
+       "images": [
+        {
+         "id": "preview_9904f30b-a516-4c6d-9aee-185e442d7aba",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/c79627440ba5f9ad7e38f04b7602265543f866b844dcdb323ccd1d1d9c6ae93b.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "hpi-s05-e08-supernova-ffad1d",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/hpi-s05-e08-supernova-ffad1d-b26449-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/hpi-s05-e08-supernova-ffad1d-885eb6-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "hpi-s05-e08-supernova-ffad1d",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/hpi-s05-e08-supernova-ffad1d-daeea8-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/hpi-s05-e08-supernova-ffad1d-c15a78-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+       "slug": "hpi",
+       "name": "HPI",
+       "editor": "mytf1",
+       "isFullyDigital": true,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "d005401e-a079-4e13-878f-b6576387fc50",
+        "label": "TF1+",
+        "slug": "tf1-plus"
+       },
+       "categories": [
+        {
+         "id": "GT_SERIES_AND_FICTIONS",
+         "main": true,
+         "slug": "series-et-fictions"
+        },
+        {
+         "id": "SGT_SERIES",
+         "main": false,
+         "slug": "series"
+        }
+       ],
+       "showSeasons": true,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-cb763f",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-cb763f-eb5441-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-cb763f-79fad1-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

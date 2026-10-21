@@ -1,0 +1,13 @@
+{
+ "httpCode": 403,
+ "message": "NOT_ENTITLED",
+ "actions": [
+  {
+   "type": "LOGIN",
+   "publication": {
+    "availableAt": "2026-10-14T03:55:00Z",
+    "publicationId": "3507958_belgium_6BA97Bb"
+   }
+  }
+ ]
+}

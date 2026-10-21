@@ -1,0 +1,73 @@
+{
+ "id": 28137,
+ "code": "les-1001-vies-de",
+ "title": "Les 1001 vies de…",
+ "description": "Comment sont nés les destins extraordinaires ? Fidèle à son style de confesseur, Xavier de Moulins recueille les confidences des grands témoins de l’époque. Artistes, sportifs, scientifiques… ils racontent leurs 1001 vies dans des entretiens inspirants.",
+ "summary": "",
+ "year_production": null,
+ "year_copyright": "2026",
+ "first_local_air_date": {
+  "date": null
+ },
+ "last_clip_publication": {
+  "date": "2026-10-16 15:33:55"
+ },
+ "publication_date_vi": null,
+ "program_type_wording": null,
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "podcast",
+  "id": 308,
+  "priority": 156,
+  "ucid": "9jswsggh39"
+ },
+ "count": {
+  "vi": 0,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 13,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": null,
+   "country_codes": null
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4932504",
+   "role": "vignette",
+   "id": 4669023
+  },
+  {
+   "external_key": "4932505",
+   "role": "jumbotron",
+   "id": 4669024
+  },
+  {
+   "external_key": "4932506",
+   "role": "logo",
+   "id": 4669025
+  },
+  {
+   "external_key": "4932507",
+   "role": "cover",
+   "id": 4669026
+  },
+  {
+   "external_key": "4932509",
+   "role": "portrait",
+   "id": 4669028
+  }
+ ]
+}

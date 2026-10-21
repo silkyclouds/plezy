@@ -1,0 +1,388 @@
+{
+ "label": "Séries thriller",
+ "item": {
+  "id": 49917,
+  "type": "sous_categorie",
+  "label": "Séries thriller",
+  "url_complete": "series-et-fictions_series-thriller",
+  "images": [
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/EPljATzr8OXvrBx__ZRdle22XgY/400x0/filters:quality(85)/a/v/e/php80veva.jpg",
+     "w:800": "https://medias.france.tv/yoFXPiB-X5ANu1Dl-xA4oOCPU_g/800x450/filters:quality(85)/a/v/e/php80veva.jpg",
+     "w:1024": "https://medias.france.tv/_TwBo3373zmNFLrGDP7Obopta-Q/1024x576/filters:quality(85)/a/v/e/php80veva.jpg",
+     "w:2500": "https://medias.france.tv/RR8j2SYgN-OzCYKG4WvDvPsqPvY/2500x1406/filters:quality(85)/a/v/e/php80veva.jpg"
+    },
+    "type": "vignette_16x9"
+   }
+  ],
+  "integral_counter": 0,
+  "call_to_action": "",
+  "call_to_action_url": "",
+  "synopsis": null,
+  "headline_title": null,
+  "label_edito": null,
+  "parent": {
+   "id": 49,
+   "type": "categorie",
+   "label": "séries & fictions",
+   "url_complete": "series-et-fictions"
+  }
+ },
+ "collections": [
+  {
+   "id": 18101736,
+   "type": "mise_en_avant",
+   "label": "Haletants, stressants, palpitants !",
+   "display": null,
+   "items": [
+    {
+     "type": "collection",
+     "id": 58736,
+     "label": "Thrillers",
+     "label_edito": "",
+     "description": "Tension narrative, disparition inquiétante ou faille temporelle … quelques ingrédients indispensables à une série thriller pour faire tenir en haleine jusqu’au dénouement de l’intrigue. Le plus dur est de choisir par quelle série commencer !",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/PU0wzmtRizLVhOUvru4HUPInjl8/265x265/filters:quality(85)/v/w/6/phpmt46wv.jpg",
+        "w:300": "https://medias.france.tv/ykFHC1E8O6GsdTqeRB5ace73UhE/300x300/filters:quality(85)/v/w/6/phpmt46wv.jpg",
+        "w:400": "https://medias.france.tv/l7Dd8Nk4OgEMYMlWS0TTBoLgQVk/400x400/filters:quality(85)/v/w/6/phpmt46wv.jpg",
+        "w:800": "https://medias.france.tv/q6AGl-Z8B-B7dOByhvactmZ0LCw/800x800/filters:quality(85)/v/w/6/phpmt46wv.jpg",
+        "w:1024": "https://medias.france.tv/oSHxQW67MBX9fn_MRVHBnGrp7ZI/1024x1024/filters:quality(85)/v/w/6/phpmt46wv.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/afy0PRbdVSIlO6PMAXmKw_uTbc4/400x0/filters:quality(85)/z/p/4/phpqjw4pz.jpg",
+        "w:800": "https://medias.france.tv/5PwHOmdEeMYFrCiOa_AJJH5m6V8/800x450/filters:quality(85)/z/p/4/phpqjw4pz.jpg",
+        "w:1024": "https://medias.france.tv/wONn2oliQtKC5bzFFvfLRiDypFg/1024x576/filters:quality(85)/z/p/4/phpqjw4pz.jpg",
+        "w:2500": "https://medias.france.tv/wgDaxJVuCBshz3v4XASDXihLOok/2500x1406/filters:quality(85)/z/p/4/phpqjw4pz.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/IKXD4WZKUbsFgN-waTp0rvR2YVY/400x533/filters:quality(85)/g/j/l/phpmqbljg.jpg",
+        "w:800": "https://medias.france.tv/C7QCZGHYQILrYzY_xJX_EURTzEM/800x1066/filters:quality(85)/g/j/l/phpmqbljg.jpg",
+        "w:1024": "https://medias.france.tv/GZOAmaXp1YOeiioHKkOlQoIQGkQ/1024x1365/filters:quality(85)/g/j/l/phpmqbljg.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "age_min": null,
+     "age_max": null,
+     "subtitle": "Haletants, stressants, palpitants !",
+     "headline_title": "Haletants, stressants, palpitants !",
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "class": "category"
+     },
+     "downloadable": null,
+     "collection_path": "collection_thrillers",
+     "offer": "francetv"
+    },
+    {
+     "id": 100038,
+     "label": "Sœurs",
+     "description": "Sœurs, la mini-série thriller de France TV suit Élodie et Élisabeth, deux jumelles dont l’échange de vie vire au drame. Tous les épisodes disponibles gratuitement sur France.tv. ",
+     "type": "program",
+     "program_path": "france-2_soeurs",
+     "link": {
+      "url": "/apps/program/meta/france-2_soeurs?platform=apps",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": "L'une ment, l'autre aussi !",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/AENCdChxjX1RoLLFpuU2qyd9kG8/265x265/filters:quality(85)/n/j/e/phpzykejn.jpg",
+        "w:300": "https://medias.france.tv/wQYAL_34UmXdZcJ0fpszeRxeVyQ/300x300/filters:quality(85)/n/j/e/phpzykejn.jpg",
+        "w:400": "https://medias.france.tv/fQzUCxiYS8kxvGXLPWT9rmYnbZI/400x400/filters:quality(85)/n/j/e/phpzykejn.jpg",
+        "w:800": "https://medias.france.tv/5HkghdZw1ryMNCkxMJaWOoAaGGw/800x800/filters:quality(85)/n/j/e/phpzykejn.jpg",
+        "w:1024": "https://medias.france.tv/21DzHmLMBar7IytEbrg1GSxLf0g/1024x1024/filters:quality(85)/n/j/e/phpzykejn.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg",
+        "w:800": "https://medias.france.tv/Zok8SjdsBpvWTUfdkNxSdDSsVpw/800x450/filters:quality(85)/e/1/t/phpic6t1e.jpg",
+        "w:1024": "https://medias.france.tv/Y2EeuffF2oox6jvfs6JC8hy_DWY/1024x576/filters:quality(85)/e/1/t/phpic6t1e.jpg",
+        "w:2500": "https://medias.france.tv/cKr33mt5v_4dgfItKpqiUQX3cmU/2500x1406/filters:quality(85)/e/1/t/phpic6t1e.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/mxgyiU1j0zGhHcoZF1XRGd139tA/400x533/filters:quality(85)/y/z/n/phpev9nzy.jpg",
+        "w:800": "https://medias.france.tv/xnVj3bij-KJPLh10oJF6lNZsz_k/800x1066/filters:quality(85)/y/z/n/phpev9nzy.jpg",
+        "w:1024": "https://medias.france.tv/IVMHAW3z8E3YTkxtfLC5zq8vYog/1024x1365/filters:quality(85)/y/z/n/phpev9nzy.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 4,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": null,
+     "sponsored": false,
+     "channel": "france-2",
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "L'une ment, l'autre aussi ",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": "Lola Dewaere, Nicolas Gob, Laetitia Vercken, Amaury de Crayencour, Adèle Galloy, Mathilde Weil, Jessy Salomée Ugolin, Eric Pucheu, Vincent Heneine, Jérémie Covillault",
+     "characters": null,
+     "director": "Julie Rohart",
+     "scenarists": "",
+     "palmares": "",
+     "production_countries": null,
+     "number_of_episodes": null,
+     "number_of_seasons": 1,
+     "categories": [
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49917,
+       "type": "sous_categorie",
+       "label": "Séries thriller",
+       "url_complete": "series-et-fictions/series-thriller"
+      }
+     ],
+     "category": {
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "id": 49,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "francetv",
+     "sort_seasons": null,
+     "sort_episodes": null
+    }
+   ],
+   "sponsored": false
+  },
+  {
+   "label": "Tous les programmes",
+   "type": "playlist_program",
+   "items": [
+    {
+     "id": 61994,
+     "label": "19-2",
+     "description": "Deux patrouilleurs de la police métropolitaine de Montréal sont affectés au quartier le plus chaud de la ville. Une plongée trépidante dans leur quotidien.",
+     "type": "program",
+     "program_path": "tv5-monde_19-2",
+     "link": {
+      "url": "/apps/program/meta/tv5-monde_19-2?platform=apps",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": null,
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/jtLIAphM3iSTKL3QHs1jour8sTk/400x0/filters:quality(85)/1/a/6/e357164f73ad4182b8403213f67246a1.jpg",
+        "w:800": "https://medias.france.tv/s749ytuZe8cwZnBxoryfwBOLddc/800x450/filters:quality(85)/1/a/6/e357164f73ad4182b8403213f67246a1.jpg",
+        "w:1024": "https://medias.france.tv/Ss_nUwkaMJR-z69N7mvqUuZlOuE/1024x576/filters:quality(85)/1/a/6/e357164f73ad4182b8403213f67246a1.jpg",
+        "w:2500": "https://medias.france.tv/-FmziNJCF5Y4N3DffS0AxV_FujQ/2500x1406/filters:quality(85)/1/a/6/e357164f73ad4182b8403213f67246a1.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/YmEkhfF63zpfTLoXgjRe4ra_gbc/400x533/filters:quality(85)/b/8/b/5cfa2e3d8e7c4688b10e54429d574b8b.jpg",
+        "w:800": "https://medias.france.tv/QTB-cxME4GT1vAlqRVUD-2AhqFk/800x1066/filters:quality(85)/b/8/b/5cfa2e3d8e7c4688b10e54429d574b8b.jpg",
+        "w:1024": "https://medias.france.tv/baM2OL2mXLtjShVFMOmJIycZhmg/1024x1365/filters:quality(85)/b/8/b/5cfa2e3d8e7c4688b10e54429d574b8b.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 30,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": "tv5-monde",
+     "sponsored": false,
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Deux patrouilleurs de la police métropolitaine de Montréal sont affectés au quartier le plus chaud de la ville. Une plongée trépidante dans leur quotidien.",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": "",
+     "characters": "",
+     "director": "Podz",
+     "scenarists": "",
+     "palmares": "",
+     "production_countries": "",
+     "number_of_episodes": null,
+     "number_of_seasons": null,
+     "categories": [
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49917,
+       "type": "sous_categorie",
+       "label": "Séries thriller",
+       "url_complete": "series-et-fictions_series-thriller",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "category": {
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "id": 49,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "tv5-monde",
+     "sort_seasons": "asc",
+     "sort_episodes": "episode:asc"
+    },
+    {
+     "id": 64781,
+     "label": "19-2",
+     "description": "Deux patrouilleurs de la police métropolitaine de Montréal sont affectés au quartier le plus chaud de la ville. Une plongée trépidante dans leur quotidien.",
+     "type": "program",
+     "program_path": "tv5-monde_19-2",
+     "link": {
+      "url": "/apps/program/meta/tv5-monde_19-2?platform=apps",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": null,
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/8-ZQuStJX2JJ_3XPQzrdt8lKbVI/400x0/filters:quality(85)/1/2/3/44141fe5bc834dc785044f0c270da0e41dbb140b111a23d5e9cbe00c35203321.jpg",
+        "w:800": "https://medias.france.tv/1ZFElmKpoEBPeMqhdEyCVcMACQ4/800x450/filters:quality(85)/1/2/3/44141fe5bc834dc785044f0c270da0e41dbb140b111a23d5e9cbe00c35203321.jpg",
+        "w:1024": "https://medias.france.tv/SKjPfayqSV7Uo_DYJPX76DeUJAQ/1024x576/filters:quality(85)/1/2/3/44141fe5bc834dc785044f0c270da0e41dbb140b111a23d5e9cbe00c35203321.jpg",
+        "w:2500": "https://medias.france.tv/X9cbuhoWifQslaogOIQ4thAV5dY/2500x1406/filters:quality(85)/1/2/3/44141fe5bc834dc785044f0c270da0e41dbb140b111a23d5e9cbe00c35203321.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/5_mEF7oF3jAdYVuyvgwbTIIE0So/400x533/filters:quality(85)/4/0/e/dac99664f9b6499fbba9550511f6efb89df9aca397160833140240bd7236be04.jpg",
+        "w:800": "https://medias.france.tv/tzuNcCnh60hg_UVgoIRogPu-QPM/800x1066/filters:quality(85)/4/0/e/dac99664f9b6499fbba9550511f6efb89df9aca397160833140240bd7236be04.jpg",
+        "w:1024": "https://medias.france.tv/qOyZAijt_81NVSIXLLOPruryDns/1024x1365/filters:quality(85)/4/0/e/dac99664f9b6499fbba9550511f6efb89df9aca397160833140240bd7236be04.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 13,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": "tv5-monde",
+     "sponsored": false,
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Deux patrouilleurs de la police métropolitaine de Montréal sont affectés au quartier le plus chaud de la ville. Une plongée trépidante dans leur quotidien.",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": "",
+     "characters": "",
+     "director": "Podz",
+     "scenarists": "",
+     "palmares": "",
+     "production_countries": "",
+     "number_of_episodes": null,
+     "number_of_seasons": null,
+     "categories": [
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49917,
+       "type": "sous_categorie",
+       "label": "Séries thriller",
+       "url_complete": "series-et-fictions_series-thriller",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "category": {
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "id": 49,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "tv5-monde",
+     "sort_seasons": "asc",
+     "sort_episodes": "episode:asc"
+    }
+   ]
+  }
+ ]
+}

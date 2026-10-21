@@ -1,0 +1,8 @@
+{
+ "errorCode": 0,
+ "apiVersion": 2,
+ "statusCode": 200,
+ "sessionInfo": {
+  "login_token": "st2.ffs.synthetic"
+ }
+}

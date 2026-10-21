@@ -1,0 +1,263 @@
+[
+ {
+  "id": 872,
+  "code": "top-chef",
+  "title": "Top chef",
+  "description": "Cette saison, Top Chef renverse la table et sort de ses murs. Chaque semaine, les jurés testeront les candidats dans un univers culinaire différent. Le vainqueur de Top Chef sera celui ou celle qui représentera au mieux le chef de demain, capable de se diversifier et de faire rayonner sa cuisine dans de multiples endroits et formats avec toujours la même exigence. \r\nPour cela, le concours sort les candidats de leur zone de confort et toutes les épreuves seront externalisées dans des décors exceptionnels.\r\nLes brigades disparaissent et les cinq chefs - Hélène Darroze, Stéphanie Le Quellec, Philippe Etchebest, Paul Pairet et Glenn Viel - redeviennent des jurés à part entière. Chaque candidat devra désormais affronter seul le regard du jury, défendre sa cuisine, son idée, son talent.",
+  "summary": "Cette saison, Top Chef renverse la table et sort de ses murs. Chaque semaine, les jurés testeront les candidats dans un univers culinaire et un décor différent.",
+  "year_production": "2010",
+  "year_copyright": "2010",
+  "first_local_air_date": {
+   "date": "2017-02-01 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-06-17 23:27:12"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2029-03-31 23:46:43",
+   "date_start_min": "2024-05-14 00:00:00",
+   "date_start_max": "2026-06-17 23:27:12"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "cuisine"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 208,
+   "vc": 18,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4530047",
+    "role": "mea",
+    "id": 4271111
+   },
+   {
+    "external_key": "4633138",
+    "role": "fullColorLogo",
+    "id": 4371323
+   }
+  ]
+ },
+ {
+  "id": 6286,
+  "code": "maries-au-premier-regard",
+  "title": "Mariés au premier regard",
+  "description": "Pour cette 10e saison, jamais l’amour ne triomphera autant ! Estelle Dossin et Marie Tapernoux vont plus loin afin de répondre aux espoirs de 16 nouveaux célibataires. Les expertes innovent avec un nouvel algorithme analysant l'attraction physique. Au programme également : deux mariages simultanés de deux sœurs célibataires, l'union de deux personnes s'étant probablement déjà rencontrées et un couple avec un taux de compatibilité record de 90 % !",
+  "summary": "Pour cette 10e saison, jamais l’amour ne triomphera autant ! Estelle Dossin et Marie Tapernoux vont plus loin afin de répondre aux espoirs de 16 nouveaux célibataires. Les expertes innovent avec un nouvel algorithme analysant l'attraction physique.",
+  "year_production": "2016",
+  "year_copyright": null,
+  "first_local_air_date": {
+   "date": "2017-11-13 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-07-08 23:29:39"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2029-02-12 23:29:39",
+   "date_start_min": "2026-04-01 00:00:00",
+   "date_start_max": "2026-07-08 23:29:39"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "emotion"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 153,
+   "vc": 14,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4531151",
+    "role": "mea",
+    "id": 4272200
+   },
+   {
+    "external_key": "4639795",
+    "role": "backdropTall",
+    "id": 4377917
+   }
+  ]
+ },
+ {
+  "id": 25643,
+  "code": "la-grande-semaine",
+  "title": "La grande semaine",
+  "description": "Ophélie Meunier et sa bande vous offrent une séance de rattrapage tonique et joyeuse sur tout ce qu’il s’est passé ces derniers jours ou ce qui vous attend demain. Ophélie Meunier et ses chroniqueurs reviendront tout en humeur sur l’actualité du moment avec fun et sans compromis. Ils recevront chaque semaine une personnalité, mais aussi des anonymes qui font l’actu. Phénomènes de société, tendances, évènements culturels, polémiques : ils passeront au crible toutes les actualités, même les plus folles !",
+  "summary": "Ophélie Meunier et sa bande vous offrent une séance de rattrapage tonique et joyeuse sur tout ce qu’il s’est passé ces derniers jours ou ce qui vous attend demain.",
+  "year_production": "2023",
+  "year_copyright": "2024",
+  "first_local_air_date": {
+   "date": "2024-04-20 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2025-06-21 19:42:17"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2028-06-12 19:42:17",
+   "date_start_min": "2024-10-19 18:38:35",
+   "date_start_max": "2025-06-21 19:42:17"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "magazine-dinformation"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 49,
+   "vc": 1,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4359618",
+    "role": "vignette",
+    "id": 4101938
+   },
+   {
+    "external_key": "4359619",
+    "role": "mea",
+    "id": 4101939
+   }
+  ]
+ }
+]

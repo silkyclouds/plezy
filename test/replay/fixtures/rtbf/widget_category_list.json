@@ -1,0 +1,86 @@
+{
+ "status": 200,
+ "meta": null,
+ "data": {
+  "id": "17226",
+  "type": "CATEGORY_LIST",
+  "title": "Catégories",
+  "content": [
+   {
+    "resourceType": "CATEGORY",
+    "id": "35",
+    "label": "Séries",
+    "path": "/categorie/series-35",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/6/3/6/63651c85f0658aca3bde5a8c5840fd6b.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/6/3/6/63651c85f0658aca3bde5a8c5840fd6b.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/6/3/6/63651c85f0658aca3bde5a8c5840fd6b.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/6/3/6/63651c85f0658aca3bde5a8c5840fd6b.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/6/3/6/63651c85f0658aca3bde5a8c5840fd6b.jpg"
+    },
+    "logo": null
+   },
+   {
+    "resourceType": "CATEGORY",
+    "id": "36",
+    "label": "Films",
+    "path": "/categorie/films-36",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/a/f/6/af6705cda0e8ed56cfe86bea075607dc.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/a/f/6/af6705cda0e8ed56cfe86bea075607dc.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/a/f/6/af6705cda0e8ed56cfe86bea075607dc.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/a/f/6/af6705cda0e8ed56cfe86bea075607dc.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/a/f/6/af6705cda0e8ed56cfe86bea075607dc.jpg"
+    },
+    "logo": null
+   },
+   {
+    "resourceType": "CATEGORY",
+    "id": "9",
+    "label": "Sport",
+    "path": "/categorie/sport-9",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/f/9/8/f989b88505a916c412a6f800b991b881.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/f/9/8/f989b88505a916c412a6f800b991b881.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/f/9/8/f989b88505a916c412a6f800b991b881.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/f/9/8/f989b88505a916c412a6f800b991b881.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/f/9/8/f989b88505a916c412a6f800b991b881.jpg"
+    },
+    "logo": null
+   },
+   {
+    "resourceType": "CATEGORY",
+    "id": "1",
+    "label": "Info",
+    "path": "/categorie/info-1",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/c/6/6/c66d3197e2d8bcbe80a18bb6503523d3.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/c/6/6/c66d3197e2d8bcbe80a18bb6503523d3.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/c/6/6/c66d3197e2d8bcbe80a18bb6503523d3.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/c/6/6/c66d3197e2d8bcbe80a18bb6503523d3.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/c/6/6/c66d3197e2d8bcbe80a18bb6503523d3.jpg"
+    },
+    "logo": null
+   },
+   {
+    "resourceType": "CATEGORY",
+    "id": "32",
+    "label": "Kids",
+    "path": "/kids",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/4/c/d/4cd8eb8fe44a7b635b9c8e485e341db3.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/4/c/d/4cd8eb8fe44a7b635b9c8e485e341db3.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/4/c/d/4cd8eb8fe44a7b635b9c8e485e341db3.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/4/c/d/4cd8eb8fe44a7b635b9c8e485e341db3.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/4/c/d/4cd8eb8fe44a7b635b9c8e485e341db3.jpg"
+    },
+    "logo": null
+   }
+  ]
+ }
+}

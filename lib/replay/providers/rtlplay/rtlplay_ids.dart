@@ -35,5 +35,4 @@ class RtlPlayId {
 
 ReplayRef rtlPlayRef(String native) => ReplayRef(rtlPlaySourceId, native);
 
-ReplayRef rtlPlayEpisodeRef(String programme, int season, String episode) =>
-    rtlPlayRef('$programme/$season/$episode');
+ReplayRef rtlPlayEpisodeRef(String programme, int season, String episode) => rtlPlayRef('$programme/$season/$episode');

@@ -1,0 +1,52 @@
+{
+ "media": {
+  "id": "14578369",
+  "type": "video",
+  "title": "Le JT de 20 heures de TF1 du mardi 20 octobre 2026",
+  "geoList": [
+   "BE",
+   "CH",
+   "FR",
+   "LU",
+   "US"
+  ],
+  "owner": "jt_tf1_20h",
+  "preview": "https://photos.tf1.fr/1280/720/program-card-landscape-2dd84a-971325-0@1x.jpg",
+  "sqPreview": "https://photos.tf1.fr/400/400/program-card-square-752b52-580ac4-0@1x.jpg",
+  "channel": "lci",
+  "duration": 2521,
+  "geolock": true,
+  "sb": "https://video-storyboards.tf1.fr/19baeea90999a2497065dd7f98b0815ad01aec13d4029654e486f2b3c7a50dde/lsb.vtt",
+  "syndicable": true,
+  "shortTitle": "Le 20 heures du mardi 20 octobre 2026",
+  "programName": "JT 20h Semaine",
+  "programSlug": "jt-20h",
+  "publisherSlug": "LCI",
+  "attach": "TF1"
+ },
+ "content": {
+  "title": "le-jt-de-20-heures-de-tf1-du-mardi-20-octobre-2026",
+  "emId": "2124538"
+ },
+ "delivery": {
+  "code": 200,
+  "url": "https://vod-das.cdn-0.diff.tf1.fr/<JWT>/2/USP-0x0/83/69/14578369/ssm/5dfe43a8491bc21af8e6b6935151f2bed1a837e5f2b708847b00d96361c6ddfa.ism/14578369.mpd",
+  "country": "BE",
+  "format": "dash",
+  "drm": "widevine",
+  "drm-server": "https://dgw.prod.p.tf1.fr/acquire?e=1792583212&id=14578369&pla=86400&rn=1&si=<SIGNATURE>&ssc=&ti=&tl=0&ts=&video_id=3cb64702-94af-4a13-9b02-4d27128d2cef",
+  "drms": [
+   {
+    "name": "widevine",
+    "url": "https://dgw.prod.p.tf1.fr/acquire?e=1792583212&id=14578369&pla=86400&rn=1&si=<SIGNATURE>&ssc=&ti=&tl=0&ts=&video_id=3cb64702-94af-4a13-9b02-4d27128d2cef",
+    "playbackDuration": 86400
+   },
+   {
+    "name": "playready",
+    "url": "https://dgp.prod.p.tf1.fr/acquire?e=1792583212&id=14578369&pla=86400&rn=1&si=<SIGNATURE>&ssc=&ti=&tl=0&ts=&video_id=3cb64702-94af-4a13-9b02-4d27128d2cef",
+    "playbackDuration": 86400
+   }
+  ],
+  "stream-id": "3cb64702-94af-4a13-9b02-4d27128d2cef_dash_drm_nomax"
+ }
+}

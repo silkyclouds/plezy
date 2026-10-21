@@ -1,0 +1,256 @@
+{
+ "label": "france.tv",
+ "item": {
+  "id": 9,
+  "type": "composite",
+  "label": "france.tv",
+  "url_complete": "_",
+  "images": [
+   {
+    "urls": {
+     "w:265": "https://medias.france.tv/neb678lTSzT0OJL6meFxA5KpX6E/265x265/filters:quality(85)/t/a/q/phpyamqat.jpg",
+     "w:300": "https://medias.france.tv/aXFr5HjoVTuq_uY3xpKj_j-0lxQ/300x300/filters:quality(85)/t/a/q/phpyamqat.jpg",
+     "w:400": "https://medias.france.tv/EDzlgk85nxKJcfnyYRRv5PyC_h4/400x400/filters:quality(85)/t/a/q/phpyamqat.jpg",
+     "w:800": "https://medias.france.tv/lmpuXHdwP_aW3HnTtdxMGLbIFWo/800x800/filters:quality(85)/t/a/q/phpyamqat.jpg",
+     "w:1024": "https://medias.france.tv/4vvA1FpO541LYrgn1J5DOLBHSA4/1024x1024/filters:quality(85)/t/a/q/phpyamqat.jpg"
+    },
+    "type": "carre"
+   },
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/BrULPIqt2wRs__klmcavpevSdpU/400x0/filters:quality(85)/q/b/c/php11ycbq.jpg",
+     "w:800": "https://medias.france.tv/hC4lAXoMGoCElLl4lpu6CMugeH0/800x450/filters:quality(85)/q/b/c/php11ycbq.jpg",
+     "w:1024": "https://medias.france.tv/qrg9rBFarqNS4Wl7wimElL8rgwI/1024x576/filters:quality(85)/q/b/c/php11ycbq.jpg",
+     "w:2500": "https://medias.france.tv/z7w-IqEAlQlZWj28SQ9PRtGjcp0/2500x1406/filters:quality(85)/q/b/c/php11ycbq.jpg"
+    },
+    "type": "vignette_16x9"
+   }
+  ],
+  "call_to_action": null,
+  "call_to_action_url": null,
+  "description": "Regarder la tv en direct et en streaming 24h/24 - tous les programmes de France 2, France 3, France 4, France 5, France Ô et France tv Slash en avant-première ou en replay sur france.tv",
+  "headline_title": null,
+  "label_edito": null,
+  "parent": null,
+  "category": null,
+  "sub_categories": [],
+  "offer": null
+ },
+ "collections": [
+  {
+   "id": 23613352,
+   "type": "mise_en_avant",
+   "label": "Notre sélection",
+   "display": null,
+   "items": [
+    {
+     "id": 101036,
+     "label": "Vies de famille",
+     "description": "",
+     "type": "program",
+     "program_path": "documentaires_documentaires-societe_vies-de-famille",
+     "link": {
+      "url": "/apps/program/meta/documentaires_documentaires-societe_vies-de-famille?platform=apps_tv",
+      "type": "tab"
+     },
+     "color": "#05c3ff",
+     "sound": null,
+     "headline_title": "12 familles, 12 quotidiens… et mille façons de vivre en famille",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/1KAr2OF01oz38dw7wbnMTS1r9Ow/265x265/filters:quality(85)/i/x/v/phpwhevxi.jpg",
+        "w:300": "https://medias.france.tv/T_23uOmzOkOpxwAEF5jRpEYigIw/300x300/filters:quality(85)/i/x/v/phpwhevxi.jpg",
+        "w:400": "https://medias.france.tv/-G44yoURemEyG6BriYhQ9N1dhoA/400x400/filters:quality(85)/i/x/v/phpwhevxi.jpg",
+        "w:800": "https://medias.france.tv/3z2I91Y7DUOejKRYaR8AMP21QvY/800x800/filters:quality(85)/i/x/v/phpwhevxi.jpg",
+        "w:1024": "https://medias.france.tv/yIXoI17Zg7Ycfga4LzvBIC9H2Sc/1024x1024/filters:quality(85)/i/x/v/phpwhevxi.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/kw5EejrQHh0_ZxBBWY9JpZZBnZ4/400x0/filters:quality(85)/0/n/k/php8dtkn0.jpg",
+        "w:800": "https://medias.france.tv/qyEa0m4EWsg9Vxqa2dpUVzSYPtE/800x450/filters:quality(85)/0/n/k/php8dtkn0.jpg",
+        "w:1024": "https://medias.france.tv/k0SdobRnVANnF7lQWi49HL5IQVA/1024x576/filters:quality(85)/0/n/k/php8dtkn0.jpg",
+        "w:2500": "https://medias.france.tv/rrCZ4OnYpye15_v0NlKcKCQNpug/2500x1406/filters:quality(85)/0/n/k/php8dtkn0.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/-4YgYlwx7cOBBVRAinmthZVnP94/400x533/filters:quality(85)/f/c/j/php6gvjcf.jpg",
+        "w:800": "https://medias.france.tv/TUG-5kTV870poYbKHVDsMx566eQ/800x1066/filters:quality(85)/f/c/j/php6gvjcf.jpg",
+        "w:1024": "https://medias.france.tv/f8OTT_r4YtWwUyxNmLqRm_gROII/1024x1365/filters:quality(85)/f/c/j/php6gvjcf.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 5,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": null,
+     "sponsored": false,
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Cinq nouveaux épisodes chaque vendredi, jusqu’au 18 décembre ",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": null,
+     "characters": null,
+     "director": null,
+     "scenarists": null,
+     "palmares": null,
+     "production_countries": null,
+     "number_of_episodes": null,
+     "number_of_seasons": null,
+     "categories": [
+      {
+       "id": 19,
+       "type": "categorie",
+       "label": "Documentaires",
+       "url_complete": "documentaires",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      },
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49941,
+       "type": "sous_categorie",
+       "label": "Documentaires société",
+       "url_complete": "documentaires/documentaires-societe"
+      }
+     ],
+     "category": {
+      "label": "Documentaires",
+      "url_complete": "documentaires",
+      "id": 19,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "francetv",
+     "sort_seasons": null,
+     "sort_episodes": null
+    },
+    {
+     "id": 100587,
+     "label": "La terre et le sang",
+     "description": "Retrouvez les épisodes de La terre et le sang en streaming sur France.tv. Synopsis, casting avec Thierry Neuvic, Vahina Giocante et Tcheky Karyo et infos sur la série. ",
+     "type": "program",
+     "program_path": "france-2_la-terre-et-le-sang",
+     "link": {
+      "url": "/apps/program/meta/france-2_la-terre-et-le-sang?platform=apps_tv",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": "Une histoire de vengeance sur l'île de Beauté ",
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:800": "https://medias.france.tv/Jig0ybli9IjA9WaAWEe2GAtUB9M/800x450/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:1024": "https://medias.france.tv/JgcXSuhXuRntrl5nxTyP5Osuyyo/1024x576/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:2500": "https://medias.france.tv/MeZLlT78HO44I885WKuThUTyAyQ/2500x1406/filters:quality(85)/f/t/u/phppcsutf.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/K19V-9-CL-AYlV0-YYFFuR0ym0w/400x533/filters:quality(85)/4/r/i/phppvzir4.jpg",
+        "w:800": "https://medias.france.tv/7_atx7oVsKrgiC5C4L9EUS9LnTc/800x1066/filters:quality(85)/4/r/i/phppvzir4.jpg",
+        "w:1024": "https://medias.france.tv/zFMqPs1iw1dXrxBTcjJPT6QeZ2c/1024x1365/filters:quality(85)/4/r/i/phppvzir4.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 6,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": null,
+     "sponsored": false,
+     "channel": "france-2",
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Sur l'île de Beauté, le combat d'un homme pour rompre avec un héritage tragique",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": "Thierry Neuvic, Vahina Giocante, Basile Larie, Stanley Weber, Tchéky Karyo, Jean-Philippe Ricci, Anna Filippi, Laëtitia Eïdo, Basilia Castellani, Philippe Corti",
+     "characters": null,
+     "director": "Ange Basterga",
+     "scenarists": "Emmanuelle Michaux, Ange Basterga et Pierre-Marie Mosconi ",
+     "palmares": "",
+     "production_countries": null,
+     "number_of_episodes": null,
+     "number_of_seasons": 1,
+     "categories": [
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49920,
+       "type": "sous_categorie",
+       "label": "Séries drame",
+       "url_complete": "series-et-fictions/series-drame"
+      }
+     ],
+     "category": {
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "id": 49,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "francetv",
+     "sort_seasons": null,
+     "sort_episodes": null
+    }
+   ],
+   "sponsored": false
+  },
+  {
+   "label": "Voulez-vous reprendre ?",
+   "type": "link",
+   "linkType": "seeks",
+   "link": "/apps/transactions/:userUId/seeks"
+  }
+ ]
+}

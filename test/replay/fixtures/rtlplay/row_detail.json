@@ -1,0 +1,188 @@
+{
+ "row": {
+  "rowType": "SWIMLANE_LANDSCAPE",
+  "id": "3b4949f6-773d-4a15-91b6-6c043c3e5aa3",
+  "hasDetail": true,
+  "metaData": {
+   "provider": "APP",
+   "campaignId": null
+  },
+  "title": "Séries",
+  "teasers": [
+   {
+    "title": "Magnum",
+    "titleArtImageUrl": "https://images3.persgroep.net/rcs/YuAB2jlGSXvti8xLpgZJ2kBwi5E/diocontent/278977808/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "detailId": "c933b2a1-bb86-427a-875b-16e6b5bbd1dc",
+    "imageUrl": "https://images1.persgroep.net/rcs/gz_v1A7m3jD1Iyk9hxazqSTTKg0/diocontent/278977807/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null,
+    "comingSoon": null,
+    "description": "Ancien combattant du Viêt Nam, Thomas Magnum gère le domaine hawaïen de l'écrivain Robin Masters, gagné lors d'un pari. Entre deux missions, il mène des enquêtes privées avec ses amis T.C et Rick.",
+    "trailerId": null,
+    "heroImageUrl": "https://images0.persgroep.net/rcs/Qe0pA7ltZM74N8WRcIRdY9JqIlg/diocontent/278977816/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "heroImage": {
+     "url1280": "https://images3.persgroep.net/rcs/WGa1ndKve-ASgdKWvYm7cogH6VQ/diocontent/278977816/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url1920": "https://images2.persgroep.net/rcs/qIFTpQVGxmsX0kZYPE0ev3hBmWU/diocontent/278977816/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url2560": "https://images0.persgroep.net/rcs/0d2Zm87_FtU5vKfe_9vl0tGUwdk/diocontent/278977816/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    "labels": [
+     {
+      "label": "1980",
+      "emphasized": false,
+      "accessibilityLabel": "Année de production"
+     },
+     {
+      "label": "1 saison",
+      "emphasized": false,
+      "accessibilityLabel": null
+     },
+     {
+      "label": "Nouvel épisode tous les jours de la semaine",
+      "emphasized": true,
+      "accessibilityLabel": null
+     }
+    ],
+    "premiumProductLogo": null,
+    "editorialByline": null
+   },
+   {
+    "title": "Agence tous risques",
+    "titleArtImageUrl": "https://images0.persgroep.net/rcs/P-F9t4-sWJ1Dh0ZOZ2sIOKsSgm8/diocontent/278977748/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "detailId": "bf965da2-be03-4317-96aa-b9e41bffb886",
+    "imageUrl": "https://images3.persgroep.net/rcs/izM1vMOTg9MJ0mO9q39RL2homRE/diocontent/278977751/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null,
+    "comingSoon": null,
+    "description": "L'agence tous risques est un groupe de quatre anciens soldats d'un commando d'élite, recherchés par l'armée après s'être évadés de prison, alors qu'ils avaient été condamnés à tort. Bien qu'Hannibal aime diriger les opérations, Futé est souvent à l'origine des plans de génie. Looping, un peu déjanté mais capable de piloter tout ce qui vole, apprécie particulièrement d'embêter Barracuda et ses kilos de bijous autour du cou.",
+    "trailerId": null,
+    "heroImageUrl": "https://images4.persgroep.net/rcs/e2SsZSIHp7X77IcxmFfk3hrNxIQ/diocontent/278977747/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "heroImage": {
+     "url1280": "https://images4.persgroep.net/rcs/rMzv_hKiigWgiU0fC9CbR48QSeQ/diocontent/278977747/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url1920": "https://images0.persgroep.net/rcs/2YJ0OS0GgvyB_a7oyurkKKlC3hA/diocontent/278977747/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url2560": "https://images4.persgroep.net/rcs/GhA5pwkb2L6BvMDO17jOR8s93Ig/diocontent/278977747/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    "labels": [
+     {
+      "label": "1983",
+      "emphasized": false,
+      "accessibilityLabel": "Année de production"
+     },
+     {
+      "label": "1 saison",
+      "emphasized": false,
+      "accessibilityLabel": null
+     },
+     {
+      "label": "Prochain épisode aujourd'hui",
+      "emphasized": true,
+      "accessibilityLabel": null
+     }
+    ],
+    "premiumProductLogo": null,
+    "editorialByline": null
+   },
+   {
+    "title": "Mercato",
+    "titleArtImageUrl": "https://images0.persgroep.net/rcs/nfJz_0btW64hpmDZdibpkRiqkSs/diocontent/278976972/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "detailId": "87286007-6017-4425-a6b2-14c33e34791c",
+    "imageUrl": "https://images1.persgroep.net/rcs/WCZLQDdOlVH_2uvogXlQPS_23zA/diocontent/279100026/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214277",
+    "comingSoon": null,
+    "description": "Muté à Marseille, un flic parisien très carré débarque dans une brigade qui préfère suivre son instinct. Entre caractères explosifs et méthodes peu orthodoxes, la collaboration promet des étincelles !",
+    "trailerId": null,
+    "heroImageUrl": "https://images4.persgroep.net/rcs/0oZUM0z-XvPt5Z83IOUoIehO0z8/diocontent/279100132/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "heroImage": {
+     "url1280": "https://images4.persgroep.net/rcs/KOO1vzKAQoLJWQeuiyyaqOCB5Dc/diocontent/279100132/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url1920": "https://images1.persgroep.net/rcs/oEbFONS-htFX3x0tE5zIbyZ6UJ4/diocontent/279100132/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url2560": "https://images4.persgroep.net/rcs/xIQwISZXtsLFDVvWr8gESCPvEaQ/diocontent/279100132/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    "labels": [
+     {
+      "label": "2024",
+      "emphasized": false,
+      "accessibilityLabel": "Année de production"
+     },
+     {
+      "label": "1 saison",
+      "emphasized": false,
+      "accessibilityLabel": null
+     },
+     {
+      "label": "Nouvel épisode chaque lundi",
+      "emphasized": true,
+      "accessibilityLabel": null
+     }
+    ],
+    "premiumProductLogo": null,
+    "editorialByline": null
+   },
+   {
+    "title": "Scream Queens",
+    "titleArtImageUrl": "https://images3.persgroep.net/rcs/3MKFQx9xB6y6OzbJEn5HJ65TstI/diocontent/278667306/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "detailId": "c82a36a0-b3eb-4640-8d1e-eb1ea4c27a0a",
+    "imageUrl": "https://images2.persgroep.net/rcs/FtfBEgpPE-nd5DD9-45U3mZNWQc/diocontent/278667302/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214277",
+    "comingSoon": null,
+    "description": "La sororité Kappa Kappa Tau règne sur le campus… jusqu’à ce qu’un tueur déguisé en Diable s’en prenne à ses membres une à une. Entre secrets et rivalités, les sœurs devront le démasquer avant qu’il ne soit trop tard.",
+    "trailerId": null,
+    "heroImageUrl": "https://images4.persgroep.net/rcs/KLU7hBdOW0DIAYJDsaxqt6tQ7UM/diocontent/278667296/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "heroImage": {
+     "url1280": "https://images1.persgroep.net/rcs/MyZE_edAaACZgR3IysF83fikbp8/diocontent/278667296/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url1920": "https://images4.persgroep.net/rcs/VwS7Vzvw9aX4Gh6bvjib-n5UF0c/diocontent/278667296/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url2560": "https://images0.persgroep.net/rcs/gl-JnAqPLdXJvZvNQ4XMD2I5cv8/diocontent/278667296/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    "labels": [
+     {
+      "label": "2016",
+      "emphasized": false,
+      "accessibilityLabel": "Année de production"
+     },
+     {
+      "label": "2 saisons",
+      "emphasized": false,
+      "accessibilityLabel": null
+     }
+    ],
+    "premiumProductLogo": null,
+    "editorialByline": null
+   },
+   {
+    "title": "Beauty and the Beast",
+    "titleArtImageUrl": "https://images4.persgroep.net/rcs/NxnXaxJAZZBPogOnZ1qLOTyZz6c/diocontent/278175848/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "detailId": "d00e1935-6940-473f-886c-b4121d3ed4b2",
+    "imageUrl": "https://images1.persgroep.net/rcs/tiP7F1v26f6IJqeJq9YL-hBY4do/diocontent/278175851/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null,
+    "comingSoon": null,
+    "description": "Elle est détective. Il vit caché depuis dix ans avec un terrible secret : sous la colère, il devient une créature incontrôlable. Liés par un drame du passé, ils traquent la vérité, au risque de succomber à une attirance dangereuse.",
+    "trailerId": null,
+    "heroImageUrl": "https://images0.persgroep.net/rcs/FecZSYuxbcz5Tal4KDVcHjbSzuk/diocontent/278175847/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "heroImage": {
+     "url1280": "https://images2.persgroep.net/rcs/lz8MnNR9fOugiXEYrjK8T0NBlqQ/diocontent/278175847/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url1920": "https://images4.persgroep.net/rcs/F79Tdc6mw1bRp2oKmmGYbzkEjWE/diocontent/278175847/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "url2560": "https://images1.persgroep.net/rcs/gTU6yrcdsaeCLYesw7JNp6sS1Xo/diocontent/278175847/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    "labels": [
+     {
+      "label": "2016",
+      "emphasized": false,
+      "accessibilityLabel": "Année de production"
+     },
+     {
+      "label": "4 saisons",
+      "emphasized": false,
+      "accessibilityLabel": null
+     }
+    ],
+    "premiumProductLogo": null,
+    "editorialByline": null
+   }
+  ],
+  "teaserStyle": "DEFAULT",
+  "brandingStyle": null
+ },
+ "metaData": {
+  "requestId": null,
+  "routingGroup": null,
+  "abGroup": null
+ },
+ "referencedOverlays": [],
+ "seoTitle": null
+}

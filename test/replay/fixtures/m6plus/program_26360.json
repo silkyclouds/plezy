@@ -1,0 +1,112 @@
+{
+ "id": 26360,
+ "code": "les-traitres-nouvelle-generation",
+ "title": "Les traîtres : nouvelle génération",
+ "description": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont devoir dépasser leurs limites et montrer une nouvelle facette de leur personnalité. Ils sont tous amis, leur amitié va-t-elle résister à la trahison et au jeu ? De la manipulation, du mensonge, de la sincérité, du vice, de la peur, des larmes, de la trahison… Tous les ingrédients sont réunis pour cette session de jeu que vous n’êtes pas près d’oublier !",
+ "summary": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu.",
+ "year_production": "2024",
+ "year_copyright": "2024",
+ "first_local_air_date": {
+  "date": "2024-09-27 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2024-10-01 00:00:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2027-08-18 00:00:00",
+  "date_start_min": "2024-10-01 00:00:00",
+  "date_start_max": "2024-10-01 00:00:00"
+ },
+ "program_type_wording": {
+  "code": "episode",
+  "plural": "épisodes",
+  "gender": "masculine",
+  "id": 2,
+  "singular": "épisode"
+ },
+ "neustar": {
+  "category": "divertissement"
+ },
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "m6replay",
+  "id": 1,
+  "priority": 1,
+  "ucid": "2vs9s11h7"
+ },
+ "count": {
+  "vi": 8,
+  "vc": 5,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4353151",
+   "role": "vignette",
+   "id": 4095665
+  },
+  {
+   "external_key": "4353152",
+   "role": "mea",
+   "id": 4095666
+  },
+  {
+   "external_key": "4353154",
+   "role": "logo",
+   "id": 4095668
+  },
+  {
+   "external_key": "4353155",
+   "role": "cover",
+   "id": 4095669
+  },
+  {
+   "external_key": "4353156",
+   "role": "portrait",
+   "id": 4095670
+  },
+  {
+   "external_key": "4353152",
+   "role": "jumbotron",
+   "id": 4095666
+  },
+  {
+   "external_key": "4915308",
+   "role": "box",
+   "id": 4651969
+  }
+ ]
+}

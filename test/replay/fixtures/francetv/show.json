@@ -1,0 +1,675 @@
+{
+ "label": "Dix pour Cent",
+ "item": {
+  "id": 985,
+  "label": "Dix pour Cent",
+  "description": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business, quitte à manipuler les gens du métier pour leur faire accepter leur vision.",
+  "type": "program",
+  "program_path": "france-2_dix-pour-cent",
+  "link": {
+   "url": "/apps/program/meta/france-2_dix-pour-cent?platform=apps",
+   "type": "tab"
+  },
+  "color": null,
+  "sound": null,
+  "headline_title": "On se refait la série !",
+  "images": [
+   {
+    "urls": {
+     "w:265": "https://medias.france.tv/NRKmDVEc0H9xHtE0CfS8Ggymhw8/265x265/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+     "w:300": "https://medias.france.tv/RkM1hB78hAyg2r1XLLZ9GBzWPpA/300x300/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+     "w:400": "https://medias.france.tv/_cY8NdAwRMNgQ01O1PbQPXE5t0Y/400x400/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+     "w:800": "https://medias.france.tv/P20WNM6Hzr8OX4k4Wggfbp4K51k/800x800/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+     "w:1024": "https://medias.france.tv/IKOT3gK3uX_TVduvGIq6znKQGt4/1024x1024/filters:quality(85)/1/y/z/php3f5zy1.jpg"
+    },
+    "type": "carre"
+   },
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/1JyoF6pnvzsV4cGvQNyTQB2dGDw/400x0/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+     "w:800": "https://medias.france.tv/t4NR4sjKm4DLZiGTx71yit1qGfQ/800x450/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+     "w:1024": "https://medias.france.tv/pljQ74gH8l05wj1J5tyPsCl6YKY/1024x576/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+     "w:2500": "https://medias.france.tv/ARA7d4Pvlhn9rOjOVOFknTxTf5o/2500x1406/filters:quality(85)/a/5/t/php3jvt5a.jpg"
+    },
+    "type": "vignette_16x9"
+   },
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/WqjpRMVww5JG-NopkgPjXe7JxVo/400x533/filters:quality(85)/c/h/9/phpo7m9hc.jpg",
+     "w:800": "https://medias.france.tv/lFWYT8dOaJuSmVbFMHrvgpnn_rg/800x1066/filters:quality(85)/c/h/9/phpo7m9hc.jpg",
+     "w:1024": "https://medias.france.tv/SbWFWjNbXmNDkiDuP8YlrHDq2Tg/1024x1365/filters:quality(85)/c/h/9/phpo7m9hc.jpg"
+    },
+    "type": "vignette_3x4"
+   }
+  ],
+  "integral_counter": 29,
+  "ads_blocked": false,
+  "broadcast_box": "",
+  "recommendation": true,
+  "partner": null,
+  "sponsored": false,
+  "channel": "france-2",
+  "age_min": null,
+  "age_max": null,
+  "saison": null,
+  "call_to_action": "",
+  "call_to_action_url": "",
+  "synopsis": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business.",
+  "label_edito": null,
+  "downloadable": false,
+  "casting": "Camille Cottin, Thibault de Montalembert, Grégory Montel, Liliane Rovère, Fanny Sidney, Nicolas Maury, Laure Calamy, Stéfi Celma",
+  "characters": null,
+  "director": "Antoine Garceau et Marc Fitoussi",
+  "scenarists": null,
+  "palmares": "Meilleure comédie aux International Emmy Awards 2021",
+  "production_countries": null,
+  "number_of_episodes": null,
+  "number_of_seasons": null,
+  "categories": [
+   {
+    "id": 49,
+    "type": "categorie",
+    "label": "séries & fictions",
+    "url_complete": "series-et-fictions",
+    "images": [],
+    "call_to_action": null,
+    "call_to_action_url": null,
+    "synopsis": null,
+    "headline_title": null,
+    "label_edito": null,
+    "parent": null
+   }
+  ],
+  "sub_categories": [
+   {
+    "id": 49920,
+    "type": "sous_categorie",
+    "label": "Séries drame",
+    "url_complete": "series-et-fictions_series-drame",
+    "images": [],
+    "call_to_action": null,
+    "call_to_action_url": null,
+    "synopsis": null,
+    "headline_title": null,
+    "label_edito": null,
+    "parent": null
+   }
+  ],
+  "category": {
+   "label": "séries & fictions",
+   "url_complete": "series-et-fictions",
+   "id": 49,
+   "type": "categorie"
+  },
+  "podcast_url": null,
+  "offer": "francetv",
+  "sort_seasons": "asc",
+  "sort_episodes": "episode:asc"
+ },
+ "collections": [
+  {
+   "label": "Saison 1",
+   "type": "playlist_video",
+   "items": [
+    {
+     "id": 5549793,
+     "title": "Cécile",
+     "label_edito": null,
+     "type": "integrale",
+     "headline_title": null,
+     "season": 1,
+     "episode": 1,
+     "description": "<p>Trois agents de comédiens, aux personnalités hautes en couleur et aux vies personnelles compliquées, se battent au quotidien pour trouver les meilleurs rôles pour leurs prestigieux clients. Quand Camille, la fille illégitime de l'un d'entre eux, débarque à Paris pour chercher un travail, elle est plongée dans le quotidien mouvementé de l'agence. Cécile de France est alors pressentie pour jouer ...",
+     "broadcast_begin_date": 1782734679,
+     "broadcast_end_date": 1782737976,
+     "begin_date": 1783224000,
+     "end_date": 1814392799,
+     "duration": 3297,
+     "rating_csa": "Tous publics",
+     "si_id": "cb4c5ebc-6227-45d9-834b-152beef3eae1",
+     "downloadable": true,
+     "episode_title": "S1 E1 - Cécile",
+     "program": {
+      "id": 985,
+      "label": "Dix pour Cent",
+      "description": "",
+      "type": "program",
+      "program_path": "france-2_dix-pour-cent",
+      "link": {
+       "url": "/apps/program/meta/france-2_dix-pour-cent?platform=apps",
+       "type": "tab"
+      },
+      "color": null,
+      "sound": null,
+      "headline_title": "Les vedettes ne sont pas toutes sur la pelouse",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/rtI1Jih-7hGlCyhwTOIChbnXcTg/265x265/filters:quality(85)/u/o/s/phpxbvsou.jpg",
+         "w:300": "https://medias.france.tv/pmLwH2gePuUGJG7ApJrrYLKigME/300x300/filters:quality(85)/u/o/s/phpxbvsou.jpg",
+         "w:400": "https://medias.france.tv/kAerz8-rAmHjrS0v5axpHfnkjn4/400x400/filters:quality(85)/u/o/s/phpxbvsou.jpg",
+         "w:800": "https://medias.france.tv/FTXksBGCu9IZdpgnIPZfoaFrJzU/800x800/filters:quality(85)/u/o/s/phpxbvsou.jpg",
+         "w:1024": "https://medias.france.tv/1zBhHM5jXXZ7E27UJ9bCM-2pPrI/1024x1024/filters:quality(85)/u/o/s/phpxbvsou.jpg"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/p7by0DgCdPz5d2Og8uxhNL3obPM/400x0/filters:quality(85)/p/h/y/phpdnayhp.jpg",
+         "w:800": "https://medias.france.tv/AXcoWIrpHomwGKLL3r1Jtly-VAc/800x450/filters:quality(85)/p/h/y/phpdnayhp.jpg",
+         "w:1024": "https://medias.france.tv/N0uxzDFHPZxM1dlY4_zPuEaAUJo/1024x576/filters:quality(85)/p/h/y/phpdnayhp.jpg",
+         "w:2500": "https://medias.france.tv/gKeLngXdDXYB6FNnO5StcmhTMiU/2500x1406/filters:quality(85)/p/h/y/phpdnayhp.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/ew-1Mnw7JTEEcx9zB0a-Wa88f6I/400x533/filters:quality(85)/8/x/x/phpm9axx8.jpg",
+         "w:800": "https://medias.france.tv/hEtJxKYU-gUoQzrIhhpUVUkaC08/800x1066/filters:quality(85)/8/x/x/phpm9axx8.jpg",
+         "w:1024": "https://medias.france.tv/u0Ekj-O-q14o4Ny8rK4TI9EHHCY/1024x1365/filters:quality(85)/8/x/x/phpm9axx8.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 29,
+      "ads_blocked": false,
+      "broadcast_box": null,
+      "recommendation": true,
+      "partner": null,
+      "sponsored": false,
+      "channel": "france-2",
+      "age_min": null,
+      "age_max": null,
+      "saison": null,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business.",
+      "label_edito": null,
+      "casting": "Camille Cottin, Thibault de Montalembert, Grégory Montel, Liliane Rovère, Fanny Sidney, Nicolas Maury, Laure Calamy, Stéfi Celma",
+      "characters": null,
+      "director": "Antoine Garceau et Marc Fitoussi",
+      "scenarists": null,
+      "palmares": "Meilleure comédie aux International Emmy Awards 2021",
+      "production_countries": null,
+      "number_of_episodes": null,
+      "number_of_seasons": null,
+      "categories": [],
+      "sub_categories": [],
+      "category": null,
+      "podcast_url": null,
+      "offer": "francetv",
+      "sort_seasons": null,
+      "sort_episodes": null
+     },
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/ePFfnXUPTyn-xMbGRTuLYBIqQdU/400x0/filters:quality(85)/b/1/1/9833c5c1aa114717856aa70c9c72e11b.jpg",
+        "w:800": "https://medias.france.tv/SPIOo2qAJ854D7t87wJC8PySBSQ/800x450/filters:quality(85)/b/1/1/9833c5c1aa114717856aa70c9c72e11b.jpg",
+        "w:1024": "https://medias.france.tv/lIggzdzaSjhN2FNt_YTMJ1y3Ufc/1024x576/filters:quality(85)/b/1/1/9833c5c1aa114717856aa70c9c72e11b.jpg",
+        "w:2500": "https://medias.france.tv/2pIarS6H7AmpehDSBT7maBqB2FA/2500x1406/filters:quality(85)/b/1/1/9833c5c1aa114717856aa70c9c72e11b.jpg"
+       },
+       "type": "vignette_16x9"
+      }
+     ],
+     "channel": null,
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 7481,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     "event": null,
+     "partner": null,
+     "ads_blocked": false,
+     "sponsored": false,
+     "is_live": false,
+     "is_published": true,
+     "production_year": 2015,
+     "is_audio_descripted": true,
+     "is_multi_lingual": false,
+     "casting": "Cécile de France, Camille Cottin, Thibault de Montalembert, Grégory Montel, Liliane Rovère, Fanny Sidney, Stéfi Celma, Nicolas Maury",
+     "director": "Cédric Klapisch",
+     "producer": null,
+     "presenter": null,
+     "characters": "Cécile de France, Andréa Martel, Mathias Barneville, Gabriel Sarda, Arlette Azémar, Camille Valentini, Sofia Leprince, Hervé André-Jezak",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": true,
+     "login": true,
+     "broadcast_channel": null,
+     "medium_description": "Trois agents de comédiens, aux personnalités hautes en couleur et aux vies personnelles compliquées, se battent au quotidien pour trouver les meilleurs rôles pour leurs prestigieux clients. Quand Camille, la fille illégitime de l'un d'entre eux, débarque à Paris pour chercher un travail...",
+     "production_company": "Mon Voisin Productions / Mother Production",
+     "production_countries": "France",
+     "production_language": "Français",
+     "palmares": "",
+     "creator": "Fanny Herrero",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "Nicolas Mercier, Fanny Herrero, Quoc Dang Tran, Sabrina B. Karine",
+     "reviewers": "",
+     "upcoming_live": false,
+     "intro": null,
+     "text": null,
+     "reading_time": null,
+     "offer": "francetv",
+     "format": "landscape"
+    }
+   ],
+   "item": {
+    "id": 987,
+    "label": "Dix pour Cent - Saison 1",
+    "description": "L'agence artistique ASK dispose d'un beau portefeuille d'acteurs dont elle gère les carrières. La mort brutale de son président-fondateur change la donne entre ses quatre principaux collaborateurs, Mathias, l'ambitieux, Andréa, cinéphile flamboyante, Arlette, la vétérante, et Gabriel, l'affectif. Dans chaque épisode, des acteurs jouent leur propre rôle, dans des situations comiques ou représentati...",
+    "type": "program",
+    "program_path": "france-2_dix-pour-cent_saison-1",
+    "link": {
+     "url": "/apps/program/meta/france-2_dix-pour-cent_saison-1?platform=apps",
+     "type": "tab"
+    },
+    "color": null,
+    "sound": null,
+    "headline_title": null,
+    "images": [
+     {
+      "urls": {
+       "w:265": "https://medias.france.tv/452lofyBBHBNcFrFKmuYbESYoJQ/265x265/filters:quality(85)/k/m/0/phpxqi0mk.png",
+       "w:300": "https://medias.france.tv/4Y0w1oQ4O9ZwFdIDSlbiDlGxJxE/300x300/filters:quality(85)/k/m/0/phpxqi0mk.png",
+       "w:400": "https://medias.france.tv/NB-whMvReMW7wDcVexlMjc3rCbY/400x400/filters:quality(85)/k/m/0/phpxqi0mk.png",
+       "w:800": "https://medias.france.tv/YEZVsIwreQ6h6vamMQRjqBocPoQ/800x800/filters:quality(85)/k/m/0/phpxqi0mk.png",
+       "w:1024": "https://medias.france.tv/8HGuC1omJmHTgnIfP-OtDOZL7YE/1024x1024/filters:quality(85)/k/m/0/phpxqi0mk.png"
+      },
+      "type": "carre"
+     },
+     {
+      "urls": {
+       "w:400": "https://medias.france.tv/j6wvZNVJePD-gOedxkx9_7-cPtM/400x0/filters:quality(85)/l/i/4/phpazb4il.png",
+       "w:800": "https://medias.france.tv/pkPvd-pKFlAbusotAihP7-fZNsg/800x450/filters:quality(85)/l/i/4/phpazb4il.png",
+       "w:1024": "https://medias.france.tv/KXSKdysE6wCLtDDeZEfOCiupJaw/1024x576/filters:quality(85)/l/i/4/phpazb4il.png",
+       "w:2500": "https://medias.france.tv/sjaI9aoUbWHV6mTZfIuvW8kn7yI/2500x1406/filters:quality(85)/l/i/4/phpazb4il.png"
+      },
+      "type": "vignette_16x9"
+     }
+    ],
+    "integral_counter": 6,
+    "ads_blocked": false,
+    "broadcast_box": "",
+    "recommendation": false,
+    "partner": null,
+    "sponsored": false,
+    "channel": "france-2",
+    "age_min": null,
+    "age_max": null,
+    "saison": "1",
+    "call_to_action": "",
+    "call_to_action_url": "",
+    "synopsis": "L'agence artistique ASK dispose d'un beau portefeuille d'acteurs dont elle gère les carrières. La mort brutale de son président-fondateur change la donne entre ses quatre principaux collaborateurs, Mathias, Andréa, Arlette et Gabriel.",
+    "label_edito": null,
+    "downloadable": false,
+    "casting": null,
+    "characters": null,
+    "director": null,
+    "scenarists": null,
+    "palmares": null,
+    "production_countries": null,
+    "number_of_episodes": null,
+    "number_of_seasons": null,
+    "categories": [
+     {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [],
+      "call_to_action": null,
+      "call_to_action_url": null,
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     }
+    ],
+    "sub_categories": [],
+    "category": {
+     "label": "séries & fictions",
+     "url_complete": "series-et-fictions",
+     "id": 49,
+     "type": "categorie"
+    },
+    "podcast_url": null,
+    "offer": "francetv",
+    "sort_seasons": "asc",
+    "sort_episodes": "episode:asc"
+   }
+  },
+  {
+   "label": "Saison 2",
+   "type": "playlist_video",
+   "items": [
+    {
+     "id": 5216262,
+     "title": "Virginie et Ramzy",
+     "label_edito": null,
+     "type": "integrale",
+     "headline_title": null,
+     "season": 2,
+     "episode": 1,
+     "description": "<p>Depuis que Virginie Efira s'est fait surprendre par un paparazzi dans les bras d'un «ancien ami», rien ne va plus avec Ramzy, son compagnon à la ville, qui ne veut plus la voir ni entendre parler d'elle. La promotion de la comédie romantique qu'ils viennent de tourner ensemble est, pour le coup, sérieusement compromise. Mathias, lui-même en pleine déconfiture conjugale, se retrouve tiraillé ent...",
+     "broadcast_begin_date": 1753436951,
+     "broadcast_end_date": 1753440001,
+     "begin_date": 1754971200,
+     "end_date": 1814392799,
+     "duration": 3050,
+     "rating_csa": "Tous publics",
+     "si_id": "3a07758d-518e-4150-964f-3cf0bb4f2bb6",
+     "downloadable": true,
+     "episode_title": "S2 E1 - Virginie et Ramzy",
+     "program": {
+      "id": 985,
+      "label": "Dix pour Cent",
+      "description": "",
+      "type": "program",
+      "program_path": "france-2_dix-pour-cent",
+      "link": {
+       "url": "/apps/program/meta/france-2_dix-pour-cent?platform=apps",
+       "type": "tab"
+      },
+      "color": null,
+      "sound": null,
+      "headline_title": "Ils ont 99 problèmes... et tous sont célèbres !",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/8LVQ5-7OXs9FgViiy7WphIME4HM/265x265/filters:quality(85)/u/s/x/phpgxpxsu.jpg",
+         "w:300": "https://medias.france.tv/hDe_-b8ek7u9Y1a3owBKnkmEqFM/300x300/filters:quality(85)/u/s/x/phpgxpxsu.jpg",
+         "w:400": "https://medias.france.tv/iGxXGrV18Znndp-buYZJ7087CWk/400x400/filters:quality(85)/u/s/x/phpgxpxsu.jpg",
+         "w:800": "https://medias.france.tv/Ux9dlave5Wqkwp5px-6tgcIJdWQ/800x800/filters:quality(85)/u/s/x/phpgxpxsu.jpg",
+         "w:1024": "https://medias.france.tv/g3IMH62sqX79itU95R64lfdiBus/1024x1024/filters:quality(85)/u/s/x/phpgxpxsu.jpg"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/uKli2MALOwq_w39uSu2QW-XFtWs/400x0/filters:quality(85)/e/u/h/phphg6hue.jpg",
+         "w:800": "https://medias.france.tv/G8y_-2-Z0IPULX4W9JLaYRGOxSQ/800x450/filters:quality(85)/e/u/h/phphg6hue.jpg",
+         "w:1024": "https://medias.france.tv/V3Vi7S6mos6iQmAC8fFNxN6hcsU/1024x576/filters:quality(85)/e/u/h/phphg6hue.jpg",
+         "w:2500": "https://medias.france.tv/o9wO0g-4em_bXmVUweW7Hdtypdw/2500x1406/filters:quality(85)/e/u/h/phphg6hue.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/3YqKv1saTQyqZ5xmVoxLAa3Gioc/400x533/filters:quality(85)/x/y/n/phpbucnyx.jpg",
+         "w:800": "https://medias.france.tv/dYAuUVaq2ApVkDvYlEE838X8XYc/800x1066/filters:quality(85)/x/y/n/phpbucnyx.jpg",
+         "w:1024": "https://medias.france.tv/Unc7a0w82Lh64Vf68qrroiD_Qx0/1024x1365/filters:quality(85)/x/y/n/phpbucnyx.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 29,
+      "ads_blocked": false,
+      "broadcast_box": null,
+      "recommendation": true,
+      "partner": null,
+      "sponsored": false,
+      "channel": "france-2",
+      "age_min": null,
+      "age_max": null,
+      "saison": null,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business.",
+      "label_edito": null,
+      "casting": "Camille Cottin, Thibault de Montalembert, Grégory Montel, Liliane Rovère, Fanny Sidney, Nicolas Maury, Laure Calamy, Stéfi Celma",
+      "characters": null,
+      "director": "Antoine Garceau et Marc Fitoussi",
+      "scenarists": null,
+      "palmares": "Meilleure comédie aux International Emmy Awards 2021",
+      "production_countries": null,
+      "number_of_episodes": null,
+      "number_of_seasons": null,
+      "categories": [],
+      "sub_categories": [],
+      "category": null,
+      "podcast_url": null,
+      "offer": "francetv",
+      "sort_seasons": null,
+      "sort_episodes": null
+     },
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/JzLm2LEDydwdze3UnHE63_IUQAI/400x0/filters:quality(85)/4/5/c/db76e86b6fbc44e9a7628cde70592c54.jpg",
+        "w:800": "https://medias.france.tv/lAwunV0_eokO4hiO-GCF7uqBO7Q/800x450/filters:quality(85)/4/5/c/db76e86b6fbc44e9a7628cde70592c54.jpg",
+        "w:1024": "https://medias.france.tv/iof_bek_jER3vy04PVzNolKfx08/1024x576/filters:quality(85)/4/5/c/db76e86b6fbc44e9a7628cde70592c54.jpg",
+        "w:2500": "https://medias.france.tv/1WlBL2Go_S3jPPI4Moc9Os9z0lQ/2500x1406/filters:quality(85)/4/5/c/db76e86b6fbc44e9a7628cde70592c54.jpg"
+       },
+       "type": "vignette_16x9"
+      }
+     ],
+     "channel": null,
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 7538,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     "event": null,
+     "partner": null,
+     "ads_blocked": false,
+     "sponsored": false,
+     "is_live": false,
+     "is_published": true,
+     "production_year": null,
+     "is_audio_descripted": true,
+     "is_multi_lingual": false,
+     "casting": "Virginie Efira, Ramzy Bedia, Camille Cottin, Thibault de Montalembert, Grégory Montel, Michel Drucker, Liliane Rovère, Assaad Bouab",
+     "director": null,
+     "producer": null,
+     "presenter": null,
+     "characters": "Virginie Efira, Ramzy Bedia, Andréa Martel, Mathias Barneville, Gabriel Bernard, Michel Drucker, Arlette Azémar, Hicham Janowski",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": true,
+     "login": true,
+     "broadcast_channel": null,
+     "medium_description": "Depuis que Virginie Efira s'est fait surprendre par un paparazzi dans les bras d'un \"ancien ami\", rien ne va plus avec Ramzy, son compagnon à la ville, qui ne veut plus la voir. La promotion de la comédie romantique qu'ils viennent de tourner ensemble est du coup sérieusement compromise...",
+     "production_company": "Mon Voisin Productions / Mon Voisin Productions / Mother Production / Mother Production / Ce qui me meut / Ce qui me meut / France Télévisions / France Télévisions",
+     "production_countries": "France",
+     "production_language": "Français",
+     "palmares": "",
+     "creator": "Fanny Herrero",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "Fanny Herrero, Benjamin Dupas, Sabrina B. Karine, Anaïs Carpita",
+     "reviewers": "",
+     "upcoming_live": false,
+     "intro": null,
+     "text": null,
+     "reading_time": null,
+     "offer": "francetv",
+     "format": "landscape"
+    }
+   ],
+   "item": {
+    "id": 1915,
+    "label": "Dix pour Cent - Saison 2",
+    "description": "En ce début de saison 2, l’agence n’est pas sortie de ses difficultés financières, et la situation est très préoccupante. Nos agents cherchent un sauveur... Ce sera Hicham Janowski, jeune patron millionnaire qui vient de revendre son site de rencontres, qu’Andréa convainc d’investir chez ASK. Mais derrière la success-story, il y a un homme caractériel qui ne connaît rien au métier. Le soulagement ...",
+    "type": "program",
+    "program_path": "france-2_dix-pour-cent_saison-2",
+    "link": {
+     "url": "/apps/program/meta/france-2_dix-pour-cent_saison-2?platform=apps",
+     "type": "tab"
+    },
+    "color": null,
+    "sound": null,
+    "headline_title": null,
+    "images": [
+     {
+      "urls": {
+       "w:265": "https://medias.france.tv/DCyAOgEvUUDMZoQf_14qhkj6qBA/265x265/filters:quality(85)/s/7/9/phpe4m97s.png",
+       "w:300": "https://medias.france.tv/W02iaA8GzO63rzNk82ocwcpIipE/300x300/filters:quality(85)/s/7/9/phpe4m97s.png",
+       "w:400": "https://medias.france.tv/DQfmuwZcYJx7hxCt8zVFDC3r3VM/400x400/filters:quality(85)/s/7/9/phpe4m97s.png",
+       "w:800": "https://medias.france.tv/-uE7RqBzSjkGV6-hqolmQXqtgRo/800x800/filters:quality(85)/s/7/9/phpe4m97s.png",
+       "w:1024": "https://medias.france.tv/Qtkzh4Xrj_pL4Tc0iyw30E_9P-g/1024x1024/filters:quality(85)/s/7/9/phpe4m97s.png"
+      },
+      "type": "carre"
+     },
+     {
+      "urls": {
+       "w:400": "https://medias.france.tv/5n-OXNcRFQtKvzN1wREnAQ7p3Ag/400x0/filters:quality(85)/y/e/c/phpbkjcey.png",
+       "w:800": "https://medias.france.tv/5lTSsx-kDuWoP0A2gUjYnegybi8/800x450/filters:quality(85)/y/e/c/phpbkjcey.png",
+       "w:1024": "https://medias.france.tv/rqEnxq49xPEsA2aZ4cRfOYmevXs/1024x576/filters:quality(85)/y/e/c/phpbkjcey.png",
+       "w:2500": "https://medias.france.tv/fRMB4jzsu5AI-N5D1htxCxSJC_E/2500x1406/filters:quality(85)/y/e/c/phpbkjcey.png"
+      },
+      "type": "vignette_16x9"
+     }
+    ],
+    "integral_counter": 6,
+    "ads_blocked": false,
+    "broadcast_box": "",
+    "recommendation": false,
+    "partner": null,
+    "sponsored": false,
+    "channel": "france-4",
+    "age_min": null,
+    "age_max": null,
+    "saison": "2",
+    "call_to_action": "",
+    "call_to_action_url": "",
+    "synopsis": "En ce début de saison 2, l’agence n’est pas sortie de ses difficultés financières, et la situation est très préoccupante. Nos agents cherchent un sauveur... Ce sera Hicham Janowski, jeune patron millionnaire qui vient de revendre son site de rencontres.",
+    "label_edito": null,
+    "downloadable": false,
+    "casting": null,
+    "characters": null,
+    "director": null,
+    "scenarists": null,
+    "palmares": null,
+    "production_countries": null,
+    "number_of_episodes": null,
+    "number_of_seasons": null,
+    "categories": [
+     {
+      "id": 57,
+      "type": "categorie",
+      "label": "Arts & spectacles",
+      "url_complete": "spectacles-et-culture",
+      "images": [],
+      "call_to_action": null,
+      "call_to_action_url": null,
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [],
+      "call_to_action": null,
+      "call_to_action_url": null,
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     }
+    ],
+    "sub_categories": [],
+    "category": {
+     "label": "Arts & spectacles",
+     "url_complete": "spectacles-et-culture",
+     "id": 57,
+     "type": "categorie"
+    },
+    "podcast_url": null,
+    "offer": "francetv",
+    "sort_seasons": "asc",
+    "sort_episodes": "episode:asc"
+   }
+  }
+ ],
+ "actions": [
+  {
+   "label": "voir le premier épisode disponible",
+   "id": 5549793,
+   "episode_title": "S1 E1 - Cécile",
+   "duration": 3297,
+   "type": "replay"
+  }
+ ]
+}

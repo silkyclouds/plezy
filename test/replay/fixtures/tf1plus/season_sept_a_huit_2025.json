@@ -1,0 +1,259 @@
+{
+ "data": {
+  "programBySlug": {
+   "editorialSections": [
+    {
+     "id": "871c6a3b8116d11c",
+     "listById": {
+      "hasNext": false,
+      "id": "a3d81873e520131b",
+      "items": [
+       {
+        "id": "de083777-be64-4e34-b94d-fe917791b685",
+        "image": {
+         "id": "sept-a-huit-life-du-dimanche-28-decembre-2025",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-life-du-dimanche-28-decembre-2025-fd63d5-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-life-du-dimanche-28-decembre-2025-902e33-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Sept à huit Life du dimanche 28 décembre 2025",
+          "shortLabel": "Sept à huit Life du 28 décembre 2025",
+          "summary": "Emission du 28 décembre 2025 - Retrouvez l'intégralité de Sept à Huit Life, magazine de l'information présenté par Harry Roselmack tous les dimanches soir."
+         },
+         "id": "de083777-be64-4e34-b94d-fe917791b685",
+         "playingInfos": {
+          "duration": 2881,
+          "remainingDays": 1048,
+          "freeRemainingDays": 1048
+         },
+         "program": {
+          "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "Sept à huit",
+          "slug": "sept-a-huit",
+          "isAVOD": false,
+          "mainChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "publisher": {
+           "id": "13dfd39f-9361-4b37-9600-cd47eb374514",
+           "slug": "lci"
+          },
+          "topics": [
+           "Magazines",
+           "Enquête"
+          ],
+          "typology": "Information"
+         },
+         "rating": "CSA_ALL",
+         "slug": "sept-a-huit-life-du-dimanche-28-decembre-2025-73274796"
+        }
+       },
+       {
+        "id": "c30b9ed0-b58f-4202-bb2e-3ffcdd9530bd",
+        "image": {
+         "id": "sept-a-huit-du-dimanche-28-decembre-2025",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-du-dimanche-28-decembre-2025-cb480e-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-du-dimanche-28-decembre-2025-71cae1-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Sept à huit du dimanche 28 décembre 2025",
+          "shortLabel": "Sept à huit du 28 décembre 2025",
+          "summary": "Emission du 28 décembre 2025 - Retrouvez l'intégralité de Sept à Huit, magazine de l'information présenté par Harry Roselmack tous les dimanches soir."
+         },
+         "id": "c30b9ed0-b58f-4202-bb2e-3ffcdd9530bd",
+         "playingInfos": {
+          "duration": 4200,
+          "remainingDays": 1048,
+          "freeRemainingDays": 1048
+         },
+         "program": {
+          "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "Sept à huit",
+          "slug": "sept-a-huit",
+          "isAVOD": false,
+          "mainChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "publisher": {
+           "id": "13dfd39f-9361-4b37-9600-cd47eb374514",
+           "slug": "lci"
+          },
+          "topics": [
+           "Magazines",
+           "Enquête"
+          ],
+          "typology": "Information"
+         },
+         "rating": "CSA_ALL",
+         "slug": "sept-a-huit-du-dimanche-28-decembre-2025-02264004"
+        }
+       },
+       {
+        "id": "970bf54b-5e8b-481f-add2-98f63d6d889f",
+        "image": {
+         "id": "sept-a-huit-life-du-dimanche-21-decembre-2025",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-life-du-dimanche-21-decembre-2025-7bbc58-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-life-du-dimanche-21-decembre-2025-863f91-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Sept à huit Life du dimanche 21 décembre 2025",
+          "shortLabel": "Sept à huit Life du 21 décembre 2025",
+          "summary": "Emission du 21 décembre 2025 - Retrouvez l'intégralité de Sept à Huit Life, magazine de l'information présenté par Harry Roselmack tous les dimanches soir."
+         },
+         "id": "970bf54b-5e8b-481f-add2-98f63d6d889f",
+         "playingInfos": {
+          "duration": 2926,
+          "remainingDays": 1048,
+          "freeRemainingDays": 1048
+         },
+         "program": {
+          "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "Sept à huit",
+          "slug": "sept-a-huit",
+          "isAVOD": false,
+          "mainChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "publisher": {
+           "id": "13dfd39f-9361-4b37-9600-cd47eb374514",
+           "slug": "lci"
+          },
+          "topics": [
+           "Magazines",
+           "Enquête"
+          ],
+          "typology": "Information"
+         },
+         "rating": "CSA_ALL",
+         "slug": "sept-a-huit-life-du-dimanche-21-decembre-2025-10025902"
+        }
+       },
+       {
+        "id": "709fce71-5c8a-41b6-9d00-3fce8ae652c6",
+        "image": {
+         "id": "sept-a-huit-du-dimanche-21-decembre-2025-1-812b8b",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-du-dimanche-21-decembre-2025-1-812b8b-095189-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/sept-a-huit-du-dimanche-21-decembre-2025-1-812b8b-3cff19-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Sept à huit du dimanche 21 décembre 2025",
+          "shortLabel": "Sept à huit du 21 décembre 2025",
+          "summary": "Emission du 21 décembre 2025 - Retrouvez l'intégralité de Sept à Huit, magazine de l'information présenté par Harry Roselmack tous les dimanches soir."
+         },
+         "id": "709fce71-5c8a-41b6-9d00-3fce8ae652c6",
+         "playingInfos": {
+          "duration": 4331,
+          "remainingDays": 1048,
+          "freeRemainingDays": 1048
+         },
+         "program": {
+          "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "Sept à huit",
+          "slug": "sept-a-huit",
+          "isAVOD": false,
+          "mainChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "publisher": {
+           "id": "13dfd39f-9361-4b37-9600-cd47eb374514",
+           "slug": "lci"
+          },
+          "topics": [
+           "Magazines",
+           "Enquête"
+          ],
+          "typology": "Information"
+         },
+         "rating": "CSA_ALL",
+         "slug": "sept-a-huit-du-dimanche-21-decembre-2025-06083489"
+        }
+       }
+      ],
+      "offset": 0
+     }
+    }
+   ],
+   "id": "a4335378-e5fd-4d29-b505-aadcd983366a"
+  }
+ }
+}

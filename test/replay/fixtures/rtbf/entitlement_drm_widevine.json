@@ -1,0 +1,69 @@
+{
+ "accountId": "ANONYMOUS",
+ "assetId": "3516216_6BA97Bb",
+ "audioOnly": false,
+ "bookmarks": {},
+ "cdn": {
+  "profile": "rtbf-generic-azure_westeurope",
+  "host": "primary",
+  "provider": "FASTLY"
+ },
+ "concurrentSessionsCount": 0,
+ "contractRestrictions": {
+  "airplayEnabled": true,
+  "ffEnabled": true,
+  "rwEnabled": true,
+  "timeshiftEnabled": true
+ },
+ "deviceId": "<redacted>",
+ "deviceType": "WEB",
+ "durationInMs": 1328520000,
+ "durationInMilliseconds": 1328520,
+ "formats": [
+  {
+   "drm": {
+    "com.widevine.alpha": {
+     "certificateUrl": "",
+     "licenseServerUrl": "https://exposure.api.redbee.live/v2/license/customer/RTBF/businessunit/Auvio/widevine?contentId=3516216_6BA97Bb&ls_session=<redacted-jwt>"
+    }
+   },
+   "format": "DASH",
+   "mediaLocator": "https://C9851Ec-az-westeurope-fsly.cdn.redbee.live/rtbf/auvio/assets/3516216_6BA97Bb/materials/IsSz54F5BK_6BA97Bb/vod-idx.ism/.mpd"
+  },
+  {
+   "drm": {
+    "com.widevine.alpha": {
+     "licenseServerUrl": "https://exposure.api.redbee.live/v2/license/customer/RTBF/businessunit/Auvio/widevine?contentId=3516216_6BA97Bb&ls_session=<redacted-jwt>"
+    }
+   },
+   "format": "HLS",
+   "mediaLocator": "https://C9851Ec-az-westeurope-fsly.cdn.redbee.live/rtbf/auvio/assets/3516216_6BA97Bb/materials/IsSz54F5BK_6BA97Bb/vod-idx.ism/.m3u8"
+  }
+ ],
+ "materialId": "IsSz54F5BK_6BA97Bb",
+ "materialVersion": 1,
+ "materialProfile": "default",
+ "markerCuePoints": [],
+ "playSessionId": "<redacted>",
+ "playToken": "<redacted>",
+ "playTokenExpiration": 1792655243,
+ "playTokenExpirationReason": "MAX_TIME",
+ "productId": "anonymous_product_6BA97Bb",
+ "publicationId": "3516216_belgium_6BA97Bb",
+ "sprites": [
+  {
+   "width": 160,
+   "vtt": "https://C9851Ec-az-westeurope-fsly.cdn.redbee.live/rtbf/auvio/assets/3516216_6BA97Bb/materials/IsSz54F5BK_6BA97Bb/sprites/sprite.vtt"
+  }
+ ],
+ "streamInfo": {
+  "static": true,
+  "live": false,
+  "event": false,
+  "persistent": false,
+  "ssai": false
+ },
+ "requestId": "<redacted>",
+ "userId": "<redacted>",
+ "entitleExposure": true
+}

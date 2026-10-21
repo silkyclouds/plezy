@@ -1,0 +1,7 @@
+{
+ "errorCode": 401020,
+ "errorDetails": "Captcha required",
+ "errorMessage": "Captcha required",
+ "apiVersion": 2,
+ "statusCode": 401
+}

@@ -1,0 +1,347 @@
+[
+ {
+  "id": "clip_13199038",
+  "type": "vi",
+  "title": "Première bande-annonce",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag",
+  "duration": 140,
+  "publication_date": "2026-10-05 00:01:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28525,
+   "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+   "title": "L'île des souvenirs, le 21 octobre au cinéma"
+  },
+  "images": [
+   {
+    "external_key": "5022697",
+    "role": "vignette",
+    "id": 4757869
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 140,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/2/6/326dba9067a9dac737b36e179624cfc66082a136/static/13199038_34e07684181b0ea944758d6c8677a5f4_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 140,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/2/6/326dba9067a9dac737b36e179624cfc66082a136/static/13199038_e37917996cae4219417de83f8b8083a5_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": 1,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": null,
+     "summary": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13199044",
+  "type": "vi",
+  "title": "Deuxième bande-annonce",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag",
+  "duration": 118,
+  "publication_date": "2026-10-05 00:01:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28525,
+   "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+   "title": "L'île des souvenirs, le 21 octobre au cinéma"
+  },
+  "images": [
+   {
+    "external_key": "5022699",
+    "role": "vignette",
+    "id": 4757871
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 118,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/1/b/1/1b1b0edca1c8d7fffebf9afb5c0ece79136f1c16/static/13199044_ad0618821019a979663bfb1b1d4131e9_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 118,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/1/b/1/1b1b0edca1c8d7fffebf9afb5c0ece79136f1c16/static/13199044_91ec6ba31d0654ae9de975d01564adf5_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": 2,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": null,
+     "summary": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13199045",
+  "type": "vi",
+  "title": "A travers le portail",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag",
+  "duration": 53,
+  "publication_date": "2026-10-05 00:01:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28525,
+   "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+   "title": "L'île des souvenirs, le 21 octobre au cinéma"
+  },
+  "images": [
+   {
+    "external_key": "5022700",
+    "role": "vignette",
+    "id": 4757872
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 53,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/1/9/d/19d88ef802d48527f7f4d0f1acb852fc22fb61ec/static/13199045_41c6b508f322cf5a068dfdcdb265aea6_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 53,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/1/9/d/19d88ef802d48527f7f4d0f1acb852fc22fb61ec/static/13199045_9ec8ae9974328dfbe2be5f58d6caf225_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": 3,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": null,
+     "summary": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13199047",
+  "type": "vi",
+  "title": "Trouvailles sur la plage",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag",
+  "duration": 49,
+  "publication_date": "2026-10-05 00:01:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28525,
+   "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+   "title": "L'île des souvenirs, le 21 octobre au cinéma"
+  },
+  "images": [
+   {
+    "external_key": "5022562",
+    "role": "vignette",
+    "id": 4757736
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 49,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/e/4/a/e4a8a83d51a7c4d4e40698ae722f8663a4fa16b5/static/13199047_05093cbbc476b3b1aa2e293506250a7f_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 49,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/e/4/a/e4a8a83d51a7c4d4e40698ae722f8663a4fa16b5/static/13199047_78ece45031ed890f077c03235559b482_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": 4,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": null,
+     "summary": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13199049",
+  "type": "vi",
+  "title": "Jo et Raissa rencontrent Raww",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag",
+  "duration": 42,
+  "publication_date": "2026-10-05 00:01:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 28525,
+   "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+   "title": "L'île des souvenirs, le 21 octobre au cinéma"
+  },
+  "images": [
+   {
+    "external_key": "5022701",
+    "role": "vignette",
+    "id": 4757873
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 42,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/a/0/f/a0fd42b11cc9ba57aa4fa8ae2e0318826573b15d/static/13199049_47b00aa02daa59625f3201a178fb014d_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 42,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/a/0/f/a0fd42b11cc9ba57aa4fa8ae2e0318826573b15d/static/13199049_aea42f586abf907aa91b22c124dee1b9_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607449&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": null,
+     "episode": 5,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": null,
+     "summary": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compag"
+    }
+   }
+  ]
+ }
+]

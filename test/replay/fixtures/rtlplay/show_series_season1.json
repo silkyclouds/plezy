@@ -1,0 +1,349 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "42d4c9a8-ce3f-471c-a4ae-490b3ad5a787",
+  "info": null
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "Bates Motel",
+  "imageUrl": "https://images2.persgroep.net/rcs/8ElJ_pxiALxkMmOKBWZbiZ5AloI/diocontent/277391444/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images2.persgroep.net/rcs/PAA7dsCp7Kr6yT8VrpRtqAwpoxo/diocontent/279118187/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images2.persgroep.net/rcs/bcyr4se87mA2kyE-JQhsdIQab9k/diocontent/279118187/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images4.persgroep.net/rcs/buCTg5lO3hHAgpZXvOnL_lEhlg0/diocontent/279118187/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images1.persgroep.net/rcs/BbHUDhFPO57TbTzkJ--o_30mZnM/diocontent/279118187/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images4.persgroep.net/rcs/qwPJuadaDsX6wH12IuFs9FFG7nA/diocontent/279118186/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2017",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "5 saisons",
+   "emphasized": false,
+   "accessibilityLabel": null
+  },
+  {
+   "label": "Thriller",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [],
+ "description": "Norma et son fils pensent pouvoir tout recommencer dans un motel de l’Oregon. Mais leur lien fusionnel et presque incestueux, leurs secrets et les troubles du jeune homme vont transformer leur nouveau départ en cauchemar.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/bates-motel~0fda66b9-e270-4ffd-b4ca-f0687711a7c3?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images4.persgroep.net/rcs/qwPJuadaDsX6wH12IuFs9FFG7nA/diocontent/279118186/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "0fda66b9-e270-4ffd-b4ca-f0687711a7c3",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Thriller",
+      "collectionId": "283a70ac-e403-415a-a4b4-f00db9b3364f"
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "Norma et son fils pensent pouvoir tout recommencer dans un motel de l’Oregon. Mais leur lien fusionnel et presque incestueux, leurs secrets et les troubles du jeune homme vont transformer leur nouveau départ en cauchemar."
+ },
+ "seasonPicker": {
+  "selected": {
+   "episodes": [
+    {
+     "id": "42d4c9a8-ce3f-471c-a4ae-490b3ad5a787",
+     "title": "1. La Veuve noire",
+     "description": "Six mois après la mort de son mari, Norma Bates et son fils adolescent timide, Norman, cherchent un nouveau départ à White Pine Bay, dans l'Oregon. L'arrivée d'un invité inattendu bouleverse la vie des Bates.",
+     "index": 1,
+     "imageUrl": "https://images1.persgroep.net/rcs/90C3OiQRU7ETTMn9d3W0CuNCiGw/diocontent/277505279/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2760,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "46 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "5ce1d611-9749-4340-ac6e-117af6e71f90",
+     "title": "2. Suspicions",
+     "description": "Dylan Bates, le fils aîné de Norma issu d'un précédent mariage, arrive en ville et sème la zizanie. Les Bates se retrouvent mêlés aux secrets qui entourent White Pine Bay.",
+     "index": 2,
+     "imageUrl": "https://images1.persgroep.net/rcs/6TISh0zbJv9Hh6c2LpZg6qhXLyE/diocontent/277505167/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2461,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "07a92a5d-0bba-41cf-ba14-065f1b503745",
+     "title": "3. Sueurs froides",
+     "description": "Dylan découvre que son nouveau travail est plus complexe qu'il ne le pensait, tandis qu'Emma et Norman font une découverte choquante.",
+     "index": 3,
+     "imageUrl": "https://images4.persgroep.net/rcs/FMS__FB04e7tPtkQ6nb2y8guBRw/diocontent/277505191/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2460,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "1ce8d56c-28c9-47da-8a93-5ebcd858ddc0",
+     "title": "4. L'Étau se resserre",
+     "description": "Norma doit faire face à des distractions alors que ses soupçons à l'égard de certains habitants de la ville grandissent.",
+     "index": 4,
+     "imageUrl": "https://images2.persgroep.net/rcs/zm8j8eZRMx6m8vJW_Z0J-f5g6jw/diocontent/277505184/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2475,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "93428dde-dcc0-4df3-bd6e-1a1c58863429",
+     "title": "5. Délivrance",
+     "description": "Norman attend désespérément le retour de sa mère et apprend son entrée en prison pour meurtre. Emma et Norman suivent d’autres indices, ce qui les mène à une grande découverte.",
+     "index": 5,
+     "imageUrl": "https://images1.persgroep.net/rcs/oLIMNIptM55_yipu5UyaebrDBQI/diocontent/277505522/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2454,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "40 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "a2f9fb57-fc52-4ff3-8b48-9bb951639d90",
+     "title": "6. La Peur au ventre",
+     "description": "Dylan raconte à Gil ce qui est arrivé à Ethan et trouve un nouveau partenaire, Remo. Dylan demande à Norman de venir vivre avec lui tandis que Norma avertit Emma que certaines choses valent mieux rester secrètes.",
+     "index": 6,
+     "imageUrl": "https://images3.persgroep.net/rcs/ozSjgoLJ83vvfnI89sW6fGZpOS4/diocontent/277505205/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2429,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "40 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "1fb379c5-2f14-442c-ab42-b2a4b072c2c8",
+     "title": "7. L'Homme de la chambre 9",
+     "description": "Le Bates Motel accueille son premier client. Norman découvre que les filles populaires s'accompagnent de nombreuses complications et Norma engage Emma pour travailler au motel.",
+     "index": 7,
+     "imageUrl": "https://images1.persgroep.net/rcs/iONkP0L_2kF_bGV6pzf1-Yyo_sk/diocontent/277505217/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2474,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "507ceda4-5f99-4cc4-b21b-2ef149a5a04a",
+     "title": "8. L'Art de la taxidermie",
+     "description": "Un mystérieux inconnu cause des problèmes à Norma. Dylan et Remo entreprennent un voyage en voiture qui aura des conséquences tragiques tendis que Norman se lance dans un passe-temps macabre.",
+     "index": 8,
+     "imageUrl": "https://images3.persgroep.net/rcs/C9-FJEdCA6SxykDsvUXHVISowx8/diocontent/277505541/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2460,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "47d31119-4994-4741-8e3f-4a7c8fcde6b2",
+     "title": "9. Pris à la gorge",
+     "description": "Norma appelle le shérif après la découverte d'un cadavre dans son lit. Elle est certaine qu'il a été placé là par Jake Abernathy, le client qu'elle a chassé de son motel. Elle annonce à ses fils son souhait de déménager.",
+     "index": 9,
+     "imageUrl": "https://images2.persgroep.net/rcs/ZJYeUVa_tee3rnmp6-404CSzuB4/diocontent/277505556/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2469,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "1bf8db3c-345f-47ac-956f-e7d89ddf2e6f",
+     "title": "10. L'Homme de la situation",
+     "description": "Suite aux menaces de Jake Abernathy, Norma rend visite au shérif Romero qui l'assure de sa protection. Méfiante, Norma demande à Dylan de lui fournir une arme et de l'aider à s'en servir.",
+     "index": 10,
+     "imageUrl": "https://images2.persgroep.net/rcs/OsOpgnzx_KyeBYgwD4aA-HSHsx8/diocontent/277505272/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2471,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    }
+   ],
+   "index": 1,
+   "duplicateContentBanner": null
+  },
+  "indices": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "durationSeconds": null,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "Scream Queens",
+    "detailId": "c82a36a0-b3eb-4640-8d1e-eb1ea4c27a0a",
+    "imageUrl": "https://images2.persgroep.net/rcs/FtfBEgpPE-nd5DD9-45U3mZNWQc/diocontent/278667302/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214277"
+   },
+   {
+    "title": "Dead of Summer - un été maudit",
+    "detailId": "e53c5f7c-dd2a-421b-98f8-a801e3532bcb",
+    "imageUrl": "https://images2.persgroep.net/rcs/ahcgWhxDEjPHJBcQlIuOGTDh9Is/diocontent/276646675/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "A Teacher",
+    "detailId": "c7b6ba72-bb3a-4cdd-931c-63b938a52b91",
+    "imageUrl": "https://images1.persgroep.net/rcs/BJjHQ20kavxSQlbBMo0OY1bYsK8/diocontent/278795779/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La maison au bout de la rue",
+    "detailId": "dbb0dc97-8ffe-493b-9689-91e418c95272",
+    "imageUrl": "https://images1.persgroep.net/rcs/OmrVUY_6uNb0y7XheNyOzSVFcvE/diocontent/277390998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Queen of the South - Naissance d'une reine",
+    "detailId": "dd57fd8a-d54f-4949-a2b2-ea15c3866f27",
+    "imageUrl": "https://images0.persgroep.net/rcs/xbHqMknfdAuOfH8WrRbRwJJMGxg/diocontent/277133598/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Two Summers",
+    "detailId": "e6276d61-acc5-43cf-a05d-bf35fd0c81ac",
+    "imageUrl": "https://images1.persgroep.net/rcs/5gvHxSDMeVxOLNV7Ej7iU4tbxDs/diocontent/248636998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "19bf43a2-921c-4155-8a47-1f120302c1ad",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}

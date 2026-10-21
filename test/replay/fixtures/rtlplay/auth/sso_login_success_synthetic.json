@@ -1,0 +1,1 @@
+{"httpStatusCode":200,"status":"SUCCESS","errorCode":0,"data":{"userAccount":{"session":{"encryptedToken":"synthetic-sso-token+with/chars="},"profile":{"email":"viewer@example.invalid"}}},"errorMessage":null}

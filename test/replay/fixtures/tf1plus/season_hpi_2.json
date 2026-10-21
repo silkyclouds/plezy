@@ -1,0 +1,499 @@
+{
+ "data": {
+  "programBySlug": {
+   "editorialSections": [
+    {
+     "id": "57f00c520cb1b1d0",
+     "listById": {
+      "hasNext": false,
+      "id": "611169bd645161a2",
+      "items": [
+       {
+        "id": "e7a36217-cc6a-4229-87f3-07ab281e584e",
+        "image": {
+         "id": "hpi-s02-e09-2300-calories-92828269-1714403396-e2cd59",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e09-2300-calories-92828269-1714403396-e2cd59-f7cf32-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e09-2300-calories-92828269-1714403396-e2cd59-58c9b5-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E01 - 2300 calories",
+          "shortLabel": "S02 E01 - 2300 calories",
+          "summary": "De nouveau en couple avec Ludo et avec deux salaires pour un même loyer, c’est la grande vie pour Morgane ! L’occasion de faire du shopping pour dépenser la différence en leggings léopard et autres excentricités Morganesques… Et de tomber, par hasard, sur le corps sans vie de Séverine Moutier, vendeuse de chaussures dans le centre commercial où elle faisait ses emplettes. Morgane, qui a découvert le corps, est formelle : c’est un meurtre ! Mais qu’est-ce qui a bien pu pousser quelqu’un à tuer cette commerçante sans histoire ? C’est ce que notre héroïne et la brigade vont tenter de découvrir alors que le commandant Karadec passe sous le joug d’une enquête menée par Roxane Ascher, impitoyable agente de l’IGPN.\r\r"
+         },
+         "id": "e7a36217-cc6a-4229-87f3-07ab281e584e",
+         "playingInfos": {
+          "duration": 3115,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e09-2300-calories-92828269"
+        }
+       },
+       {
+        "id": "3f1fb590-197c-4f21-bab2-5ecd15a3aff5",
+        "image": {
+         "id": "hpi-s02-e010-chelou-pas-chelou-37979953-1714403421-3375eb",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e010-chelou-pas-chelou-37979953-1714403421-3375eb-a77dc6-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e010-chelou-pas-chelou-37979953-1714403421-3375eb-a35ec2-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E02 - Chelou / Pas chelou",
+          "shortLabel": "S02 E02 - Chelou / Pas chelou",
+          "summary": "Alors qu’elle se retrouve sans toit, Morgane débarque avec toute sa famille chez Gilles. La tuile … Mais le pire est à venir, la voilà suspendue de ses fonctions ! En tout cas, le temps que Roxane finisse l’enquête interne qui la cible. Mais comment rester tranquillement à ne rien faire chez un collègue quand on est HPI, qu’on a plus de maison et que l’enquête qui se déroule sous vos yeux soulève des incohérences de plus en plus évidentes … ? Morgane le sait, ils auront besoin d’elle sur cette affaire, mais comment les aider sans éveiller les soupçons de Roxane ? "
+         },
+         "id": "3f1fb590-197c-4f21-bab2-5ecd15a3aff5",
+         "playingInfos": {
+          "duration": 3328,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e010-chelou-pas-chelou-37979953"
+        }
+       },
+       {
+        "id": "4143b901-1057-465f-ad46-2ea87ce51065",
+        "image": {
+         "id": "hpi-s02-e011-made-in-france-16138303-1714403433-4beab2",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e011-made-in-france-16138303-1714403433-4beab2-ad7fed-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e011-made-in-france-16138303-1714403433-4beab2-a290af-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E03 - Made in France",
+          "shortLabel": "S02 E03 - Made in France",
+          "summary": "Réintégrée à la brigade, Morgane doit cependant effectuer un stage auprès du Major Lenormand pour apprendre les bases du métier et la procédure : quel ennui pour notre héroïne HPI ! Ou pas… Car c’est dans le cadre de ce stage qu’elle reçoit la plainte mystérieuse d’une vieille dame, retrouvée morte quelques heures plus tard. Tout en tentant de se débarrasser de son assommant formateur, Morgane va tenter de résoudre le meurtre de cette femme qui avait annoncé sa propre mort."
+         },
+         "id": "4143b901-1057-465f-ad46-2ea87ce51065",
+         "playingInfos": {
+          "duration": 3124,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_10",
+         "slug": "hpi-s02-e011-made-in-france-16138303"
+        }
+       },
+       {
+        "id": "2c480ad5-4333-4127-9ab9-89745410c251",
+        "image": {
+         "id": "hpi-s02-e012-enfant-de-24192821-1714403465-6ceb40",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e012-enfant-de-24192821-1714403465-6ceb40-9d8443-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e012-enfant-de-24192821-1714403465-6ceb40-3edc59-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E04 - Enfant de",
+          "shortLabel": "S02 E04 - Enfant de",
+          "summary": "Le corps de Valentin Bélliard, 17 ans est retrouvé calciné dans la grange de ses parents et l’enquête semble se diriger vers un accident. Pas pour Morgane qui conclut, elle, à un meurtre. Meurtre surement lié au fait que Valentin menait une double vie : un appartement secret, une petite amie mystérieuse et un autre boulot. Que voulait cacher Valentin ? Alors que Morgane cherche une nouvelle maison avec Ludo et que la brigade est en ébullition quant à l’identité de la nouvelle petite amie de Karadec, nos enquêteurs vont devoir faire la lumière sur cette histoire. "
+         },
+         "id": "2c480ad5-4333-4127-9ab9-89745410c251",
+         "playingInfos": {
+          "duration": 2998,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e012-enfant-de-24192821"
+        }
+       },
+       {
+        "id": "3be9f71b-7542-4012-8cb0-6824f543163d",
+        "image": {
+         "id": "hpi-s02-e013-de-mille-feuk-17401544-1714397452-f75845",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e013-de-mille-feuk-17401544-1714397452-f75845-c524cd-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e013-de-mille-feuk-17401544-1714397452-f75845-7b521e-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E05 - De mille feuk",
+          "shortLabel": "S02 E05 - De mille feuk",
+          "summary": "La juge Carole Massard est retrouvée morte dans son bureau alors qu’elle s’apprêtait à rendre son verdict dans un procès d’assises. Alors que les enquêteurs partent sur la piste d’une vengeance de la part des accusés, Morgane de son côté, déprime. Cela fait des semaines que Ludo l’a quittée et pour en rajouter une couche, elle découvre que Roxane, sa pire ennemie et nouvelle petite amie de Karadec, a pris de plus en plus de place dans la vie de la brigade. Rien ne va pour la consultante qui va devoir se remotiver face à une enquête bien plus complexe qu’elle en a l’air. "
+         },
+         "id": "3be9f71b-7542-4012-8cb0-6824f543163d",
+         "playingInfos": {
+          "duration": 3340,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_10",
+         "slug": "hpi-s02-e013-de-mille-feuk-17401544"
+        }
+       },
+       {
+        "id": "f91409e2-286b-4863-a936-86a56340efb8",
+        "image": {
+         "id": "hpi-s02-e014-s-comme-italie-66659279-1714403485-ac9bcb",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e014-s-comme-italie-66659279-1714403485-ac9bcb-fe764f-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e014-s-comme-italie-66659279-1714403485-ac9bcb-54a5d3-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E06 - S comme Italie",
+          "shortLabel": "S02 E06 - S comme Italie",
+          "summary": "Après une nuit difficile, Morgane se réveille chez Karadec et au petit déjeuner, la gêne est plus que palpable… Heureusement, ils sont tous les deux appelés sur une nouvelle enquête : le corps d’un pilote de ligne a été retrouvé… Enfin, pas vraiment un pilote de ligne, un livreur de fast-food… Enfin… Un livreur de fast-food … qui cachait des liasses de billets dans son appartement…  Chelou ! Selon Morgane. Alors, qui était vraiment leur victime : un mythomane ? un arnaqueur ? Morgane et Karadec vont devoir résoudre le meurtre de ce jeune homme aux nombreux visages.  "
+         },
+         "id": "f91409e2-286b-4863-a936-86a56340efb8",
+         "playingInfos": {
+          "duration": 3326,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e014-s-comme-italie-66659279"
+        }
+       },
+       {
+        "id": "2dc3bee0-f682-41f6-ac78-8f9941f68686",
+        "image": {
+         "id": "hpi-s02-e015-55-kilos-43632892-1714403544-698421",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e015-55-kilos-43632892-1714403544-698421-700642-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e015-55-kilos-43632892-1714403544-698421-2f9c93-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E07 - 55 kilos",
+          "shortLabel": "S02 E07 - 55 kilos",
+          "summary": "Roxane et la brigade s’occupent d’organiser l’anniversaire surprise de Karadec. Compliqué pour Morgane qui vient de réaliser ses sentiments pour le Commandant. Mais leur prochaine enquête va lui permettre de se changer les idées. Car cette fois-ci ce n’est pas un corps qui est retrouvé par les enquêteurs de la brigade mais un cercueil… vide ! Le corps disparu appartient à Hélène Lecoq, une notable de la région habitant dans un manoir avec sa famille. Un délice pour Morgane qui se retrouve au milieu d’un Cluedo grandeur nature !  "
+         },
+         "id": "2dc3bee0-f682-41f6-ac78-8f9941f68686",
+         "playingInfos": {
+          "duration": 3234,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e015-55-kilos-43632892"
+        }
+       },
+       {
+        "id": "e36c1cdd-ec41-4029-ba52-5943b4177ea1",
+        "image": {
+         "id": "hpi-s02-e016-serendipity-19889837-1714403599-b4e9fe",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e016-serendipity-19889837-1714403599-b4e9fe-b6cd9a-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/hpi-s02-e016-serendipity-19889837-1714403599-b4e9fe-9136ea-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "HPI - S02 E08 - Serendipity",
+          "shortLabel": "S02 E08 - Serendipity",
+          "summary": "Roxane est dans un état critique après sa mystérieuse agression. Pour Morgane pas de doute, ça a un rapport avec la mort de Romain, dossier sur lequel l’agent de l’IGPN travaillait avant le drame. Une nouvelle fois, le passé de Morgane la rattrape et elle devra résoudre le mystère fondateur de son entrée à la DIPJ : qu’est-il vraiment arrivé à l’amour de sa vie il y a presque 20 ans ? "
+         },
+         "id": "e36c1cdd-ec41-4029-ba52-5943b4177ea1",
+         "playingInfos": {
+          "duration": 3299,
+          "remainingDays": 131,
+          "freeRemainingDays": 131
+         },
+         "program": {
+          "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73",
+          "initialChannel": {
+           "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+           "slug": "tf1"
+          },
+          "name": "HPI",
+          "slug": "hpi",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Policier",
+           "Comédie"
+          ],
+          "typology": "Série"
+         },
+         "rating": "CSA_ALL",
+         "slug": "hpi-s02-e016-serendipity-19889837"
+        }
+       }
+      ],
+      "offset": 0
+     }
+    }
+   ],
+   "id": "eb2d0114-2f6f-4f97-4011-5d3b70911b73"
+  }
+ }
+}

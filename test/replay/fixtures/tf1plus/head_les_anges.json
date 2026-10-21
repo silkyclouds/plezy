@@ -1,0 +1,220 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+   "slug": "les-anges",
+   "name": "Les Anges",
+   "isFullyDigital": true,
+   "editor": "mytf1",
+   "mainChannel": {
+    "id": "d005401e-a079-4e13-878f-b6576387fc50",
+    "slug": "tf1-plus",
+    "label": "TF1+"
+   },
+   "initialChannel": {
+    "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+    "slug": "tfx",
+    "label": "TFX"
+   },
+   "categories": [
+    {
+     "id": "GT_ENTERTAINMENT",
+     "label": "Divertissements",
+     "main": true,
+     "slug": "divertissements",
+     "type": "MAIN_ENTERTAINEMENT"
+    },
+    {
+     "id": "SGT_ENTERTAINMENT",
+     "label": "Divertissements",
+     "main": false,
+     "slug": "divertissements",
+     "type": "SUB_ENTERTAINEMENT"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "new_program-card-portrait-1-8c5dbb",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/new_program-card-portrait-1-8c5dbb-363fc0-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/new_program-card-portrait-1-8c5dbb-c8019d-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "ep40_background-tv-jpg-d54244",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/ep40_background-tv-jpg-d54244-7132d6-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/ep40_background-tv-jpg-d54244-b8af20-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 869
+   },
+   "replayRecent": {
+    "total": 0
+   },
+   "allVideos": {
+    "total": 989
+   },
+   "allVideosRecent": {
+    "total": 0
+   },
+   "videos": {
+    "total": 869,
+    "items": [
+     {
+      "id": "1fb628cc-ae41-4cab-a286-3bfe1c5dbc09",
+      "slug": "les-anges-saison-13-episode-40-du-29-mai-2026-32039008",
+      "type": "REPLAY",
+      "rating": "CSA_10",
+      "date": "2026-05-29T18:05:21Z",
+      "episode": 40,
+      "season": 13,
+      "authEnabled": true,
+      "published": "2026-05-29T18:05:21Z",
+      "url": "https://www.tf1.fr/tfx/les-anges/videos/les-anges-saison-13-episode-40-du-29-mai-2026-32039008.html",
+      "broadcastChannel": {
+       "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+       "slug": "tfx"
+      },
+      "playingInfos": {
+       "duration": 2397,
+       "remainingDays": 1315,
+       "freeRemainingDays": 1315
+      },
+      "decoration": {
+       "description": "En 2026, direction Miami pour une nouvelle aventure professionnelle. Encadrés par Isabelle Matuidi, marraine exigeante, les candidats devront sortir de leur zone de confort et relever des défis ambitieux pour développer leur projet.",
+       "hook": "",
+       "label": "Les Anges - Saison 13 Episode 40 du 29 mai 2026",
+       "programLabel": "Les Anges",
+       "subLabel": "du vendredi 29 mai 2026 à 20h05",
+       "images": [
+        {
+         "id": "preview_1fb628cc-ae41-4cab-a286-3bfe1c5dbc09",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/111e9b0461927634fe9eea6be57161bb259f3562a3c971633a3be4431a12e287.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "2118546_lesanges26_ep40_screen-baca18",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/2118546_lesanges26_ep40_screen-baca18-84e1ad-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/2118546_lesanges26_ep40_screen-baca18-e0d254-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "2118546_lesanges26_ep40_screen-baca18",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/2118546_lesanges26_ep40_screen-baca18-39e93e-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/2118546_lesanges26_ep40_screen-baca18-71c9e0-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+       "slug": "les-anges",
+       "name": "Les Anges",
+       "editor": "mytf1",
+       "isFullyDigital": true,
+       "initialChannel": {
+        "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+        "slug": "tfx",
+        "label": "TFX"
+       },
+       "mainChannel": {
+        "id": "d005401e-a079-4e13-878f-b6576387fc50",
+        "label": "TF1+",
+        "slug": "tf1-plus"
+       },
+       "categories": [
+        {
+         "id": "GT_ENTERTAINMENT",
+         "main": true,
+         "slug": "divertissements"
+        },
+        {
+         "id": "SGT_ENTERTAINMENT",
+         "main": false,
+         "slug": "divertissements"
+        }
+       ],
+       "showSeasons": true,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-2828c9",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-2828c9-a24bff-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-2828c9-19d831-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

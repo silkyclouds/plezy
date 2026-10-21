@@ -1,0 +1,17 @@
+{
+ "media": {
+  "id": "",
+  "type": "",
+  "error_code": "DELIVERY_ERROR",
+  "error_desc": "Erreur dans le delivery",
+  "syndicable": false,
+  "publisherSlug": ""
+ },
+ "delivery": {
+  "code": 404,
+  "error": "Impossible de trouver le média",
+  "country": "BE",
+  "format": "dash",
+  "stream-id": "00000000-0000-4000-8000-000000000000_dash_nodrm_nomax"
+ }
+}

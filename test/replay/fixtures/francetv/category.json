@@ -1,0 +1,471 @@
+{
+ "label": "séries & fictions",
+ "item": {
+  "id": 49,
+  "type": "categorie",
+  "label": "séries & fictions",
+  "url_complete": "series-et-fictions",
+  "images": [
+   {
+    "urls": {
+     "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+     "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+     "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+     "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+     "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+    },
+    "type": "carre"
+   },
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+     "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+     "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+     "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+    },
+    "type": "vignette_16x9"
+   },
+   {
+    "urls": {
+     "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+     "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+     "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+    },
+    "type": "vignette_3x4"
+   }
+  ],
+  "integral_counter": 0,
+  "call_to_action": "",
+  "call_to_action_url": "",
+  "synopsis": null,
+  "headline_title": null,
+  "label_edito": null,
+  "parent": null
+ },
+ "collections": [
+  {
+   "id": 23606413,
+   "type": "mise_en_avant",
+   "label": "Notre sélection",
+   "display": null,
+   "items": [
+    {
+     "id": 8920062,
+     "title": "Harceleurs",
+     "label_edito": null,
+     "type": "unitaire",
+     "headline_title": "Que faire lorsque le suspect est son propre fils ?",
+     "season": null,
+     "episode": null,
+     "description": "<p>Camille est professeure dans un collège d'une ville pavillonnaire, son fils Mathias est en 3e dans le même établissement. Des faits de harcèlement lui sont signalés et, avant qu'elle n'ait le temps d'en comprendre l'ampleur et d'agir, l'élève harcelé fait une tentative de suicide et tombe dans le coma. Les parents, les autres élèves, tout le monde est sous le choc. En attendant le verdict autou...",
+     "broadcast_begin_date": 1792609800,
+     "broadcast_end_date": 1792615178,
+     "begin_date": 1792036800,
+     "end_date": 1900960778,
+     "duration": 5378,
+     "rating_csa": "Tous publics",
+     "si_id": "08e3db78-74c3-4b24-b99c-aef89a91c7d7",
+     "downloadable": true,
+     "episode_title": "Harceleurs",
+     "program": null,
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg",
+        "w:800": "https://medias.france.tv/YCC9pZo5dSMPoLMkm563wp177_4/800x450/filters:quality(85)/w/v/c/phpdg4cvw.jpg",
+        "w:1024": "https://medias.france.tv/4pyYSP1a3pO1vUj-ORKJTftOvXU/1024x576/filters:quality(85)/w/v/c/phpdg4cvw.jpg",
+        "w:2500": "https://medias.france.tv/masri1emetQSZC8sGVHtqbQjoHU/2500x1406/filters:quality(85)/w/v/c/phpdg4cvw.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/ErAN_yhtkjpNz_n2hN57WzbEs9s/400x533/filters:quality(85)/v/x/g/phpqpngxv.jpg",
+        "w:800": "https://medias.france.tv/7M0TiuzYukLqO__I0B3UcE_XQH8/800x1066/filters:quality(85)/v/x/g/phpqpngxv.jpg",
+        "w:1024": "https://medias.france.tv/CW-it4t-aF0z8vfpqcHZYzzmnU0/1024x1365/filters:quality(85)/v/x/g/phpqpngxv.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "channel": {
+      "id": 1,
+      "label": "France 2",
+      "type": "channel",
+      "channel_path": "france-2",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/ANKNqY3gzyyG5GIAyePKRrZiMdA/265x265/filters:quality(85)/c/7/t/php6kjt7c.png",
+         "w:300": "https://medias.france.tv/Hvxatu-k_sKN-NBK-X6Hg1tjVco/300x300/filters:quality(85)/c/7/t/php6kjt7c.png",
+         "w:400": "https://medias.france.tv/v25lgE50IPcm5SkmaN7WLDiOuEo/400x400/filters:quality(85)/c/7/t/php6kjt7c.png",
+         "w:800": "https://medias.france.tv/3UhtTybWFPZvEotF2qlav8OWrW8/800x800/filters:quality(85)/c/7/t/php6kjt7c.png",
+         "w:1024": "https://medias.france.tv/6oz4Bmu7itJjIT1Mnh3asxClwPc/1024x1024/filters:quality(85)/c/7/t/php6kjt7c.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/7iMGREATX7UsKTEq35pMallmdy8/400x0/filters:quality(85)/j/k/s/phpn0qskj.jpg",
+         "w:800": "https://medias.france.tv/vDTl5ncJJEu6Jd11KR-TY4xF1fA/800x450/filters:quality(85)/j/k/s/phpn0qskj.jpg",
+         "w:1024": "https://medias.france.tv/Q-4oPgpeaL6wMcE6r6-SxXB_mnQ/1024x576/filters:quality(85)/j/k/s/phpn0qskj.jpg",
+         "w:2500": "https://medias.france.tv/SyuTNozmt9jee_kyUHzHfSbI8MI/2500x1406/filters:quality(85)/j/k/s/phpn0qskj.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/KFtHQ8BAnDpwElwFdcBvZlQ6OM0/400x533/filters:quality(85)/3/d/y/phpkiyyd3.jpg",
+         "w:800": "https://medias.france.tv/ftci3wQ-G6qjjN9c1-ToTJV4iX4/800x1066/filters:quality(85)/3/d/y/phpkiyyd3.jpg",
+         "w:1024": "https://medias.france.tv/eRwxerP2BRgddRX72HBRRZVkEwU/1024x1365/filters:quality(85)/3/d/y/phpkiyyd3.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "si_id": "006194ea-117d-4bcf-94a9-153d999c59ae",
+      "channel_url": "france-2",
+      "call_to_action": null,
+      "call_to_action_url": null,
+      "synopsis": null,
+      "offer": "france-2"
+     },
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions"
+     },
+     "event": null,
+     "partner": null,
+     "ads_blocked": false,
+     "sponsored": false,
+     "is_live": false,
+     "is_published": true,
+     "production_year": 2026,
+     "is_audio_descripted": true,
+     "is_multi_lingual": false,
+     "casting": "Virginie Ledoyen, Cyril Descours, Caroline Anglade, Honorat Bellet, Christine Brücher, Ninon Veys, Constantin Vidal, Olivia Kuy",
+     "director": "Julie Rohart",
+     "producer": null,
+     "presenter": "",
+     "characters": "Camille, Julien, Johanne, Mathias, Roseline, Lou, Théo, Amida",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": true,
+     "login": true,
+     "broadcast_channel": "france-2",
+     "medium_description": null,
+     "production_company": "Troisième Oeil Story / Imagissime",
+     "production_countries": "France",
+     "production_language": "Français",
+     "palmares": "",
+     "creator": "",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "Marine Josset",
+     "reviewers": "",
+     "upcoming_live": false,
+     "text": null,
+     "reading_time": null,
+     "offer": "francetv",
+     "format": "landscape"
+    },
+    {
+     "id": 100587,
+     "label": "La terre et le sang",
+     "description": "Retrouvez les épisodes de La terre et le sang en streaming sur France.tv. Synopsis, casting avec Thierry Neuvic, Vahina Giocante et Tcheky Karyo et infos sur la série. ",
+     "type": "program",
+     "program_path": "france-2_la-terre-et-le-sang",
+     "link": {
+      "url": "/apps/program/meta/france-2_la-terre-et-le-sang?platform=apps",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": "Une histoire de vengeance sur l'île de Beauté ",
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:800": "https://medias.france.tv/Jig0ybli9IjA9WaAWEe2GAtUB9M/800x450/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:1024": "https://medias.france.tv/JgcXSuhXuRntrl5nxTyP5Osuyyo/1024x576/filters:quality(85)/f/t/u/phppcsutf.jpg",
+        "w:2500": "https://medias.france.tv/MeZLlT78HO44I885WKuThUTyAyQ/2500x1406/filters:quality(85)/f/t/u/phppcsutf.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/K19V-9-CL-AYlV0-YYFFuR0ym0w/400x533/filters:quality(85)/4/r/i/phppvzir4.jpg",
+        "w:800": "https://medias.france.tv/7_atx7oVsKrgiC5C4L9EUS9LnTc/800x1066/filters:quality(85)/4/r/i/phppvzir4.jpg",
+        "w:1024": "https://medias.france.tv/zFMqPs1iw1dXrxBTcjJPT6QeZ2c/1024x1365/filters:quality(85)/4/r/i/phppvzir4.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 6,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": null,
+     "sponsored": false,
+     "channel": "france-2",
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Sur l'île de Beauté, le combat d'un homme pour rompre avec un héritage tragique",
+     "label_edito": null,
+     "downloadable": false,
+     "casting": "Thierry Neuvic, Vahina Giocante, Basile Larie, Stanley Weber, Tchéky Karyo, Jean-Philippe Ricci, Anna Filippi, Laëtitia Eïdo, Basilia Castellani, Philippe Corti",
+     "characters": null,
+     "director": "Ange Basterga",
+     "scenarists": "Emmanuelle Michaux, Ange Basterga et Pierre-Marie Mosconi ",
+     "palmares": "",
+     "production_countries": null,
+     "number_of_episodes": null,
+     "number_of_seasons": 1,
+     "categories": [
+      {
+       "id": 49,
+       "type": "categorie",
+       "label": "séries & fictions",
+       "url_complete": "series-et-fictions",
+       "images": [],
+       "call_to_action": null,
+       "call_to_action_url": null,
+       "synopsis": null,
+       "headline_title": null,
+       "label_edito": null,
+       "parent": null
+      }
+     ],
+     "sub_categories": [
+      {
+       "id": 49920,
+       "type": "sous_categorie",
+       "label": "Séries drame",
+       "url_complete": "series-et-fictions/series-drame"
+      }
+     ],
+     "category": {
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "id": 49,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "francetv",
+     "sort_seasons": null,
+     "sort_episodes": null
+    }
+   ],
+   "sponsored": false
+  },
+  {
+   "label": "En direct",
+   "type": "live",
+   "items": [
+    {
+     "id": 8519033,
+     "title": "Julien : 3ème épisode",
+     "label_edito": null,
+     "type": "integrale",
+     "headline_title": null,
+     "season": null,
+     "episode": null,
+     "description": "François est appelé dans le marais poitevin par Julien un père divorcé. Ses beaux-parents s’acharnent à le priver de voir son fils. Il kidnappe le jeune garçon et une traque s’engage avec les gendarmes. Julien est armé et l'accident proche...",
+     "broadcast_begin_date": 1792567622,
+     "broadcast_end_date": 1792568762,
+     "begin_date": null,
+     "end_date": null,
+     "duration": 1140,
+     "rating_csa": "Tous publics",
+     "si_id": "8b885fc8-dd66-5d70-91c2-ca7dfb8d473d",
+     "downloadable": false,
+     "episode_title": "Julien : 3ème épisode",
+     "program": {
+      "id": 77952,
+      "label": "François Gaillard ou la vie des autres",
+      "description": "",
+      "type": "program",
+      "program_path": "ina_francois-gaillard-ou-la-vie-des-autres",
+      "link": {
+       "url": "/apps/program/meta/ina_francois-gaillard-ou-la-vie-des-autres?platform=apps",
+       "type": "tab"
+      },
+      "color": null,
+      "sound": null,
+      "headline_title": null,
+      "images": [
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/Ko_Zp3tjVUraOkIaYmYtShD2h6w/400x0/filters:quality(85)/e/0/1/7edb6c7501354e25b9ebae512b88710e.jpg",
+         "w:800": "https://medias.france.tv/wwbhGqTkbblLenYPRu7ThGUfPpk/800x450/filters:quality(85)/e/0/1/7edb6c7501354e25b9ebae512b88710e.jpg",
+         "w:1024": "https://medias.france.tv/V2dXhKtBBxusgLb4vF7T_r2hU_Q/1024x576/filters:quality(85)/e/0/1/7edb6c7501354e25b9ebae512b88710e.jpg",
+         "w:2500": "https://medias.france.tv/e1S78S4YExAZ1890rQl3G5islPk/2500x1406/filters:quality(85)/e/0/1/7edb6c7501354e25b9ebae512b88710e.jpg"
+        },
+        "type": "vignette_16x9"
+       }
+      ],
+      "integral_counter": 0,
+      "ads_blocked": false,
+      "broadcast_box": null,
+      "recommendation": true,
+      "partner": "ina",
+      "sponsored": false,
+      "age_min": null,
+      "age_max": null,
+      "saison": null,
+      "call_to_action": null,
+      "call_to_action_url": null,
+      "synopsis": null,
+      "label_edito": null,
+      "casting": "",
+      "characters": "",
+      "director": "",
+      "scenarists": "",
+      "palmares": "",
+      "production_countries": "",
+      "number_of_episodes": null,
+      "number_of_seasons": null,
+      "categories": [],
+      "sub_categories": [],
+      "category": null,
+      "podcast_url": null,
+      "offer": "ina",
+      "sort_seasons": null,
+      "sort_episodes": null
+     },
+     "images": [
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/ATsa2eBY25mNChN09OJ2EmcE9WI/400x0/filters:quality(85)/d/d/d/64c66e18857842a1b4d814371d93addd.jpg",
+        "w:800": "https://medias.france.tv/psoCQ5nLMPQYo-h5Z56BiBDlq-4/800x450/filters:quality(85)/d/d/d/64c66e18857842a1b4d814371d93addd.jpg",
+        "w:1024": "https://medias.france.tv/v-x_CQQ4SViioSmT5j1d5DAf61U/1024x576/filters:quality(85)/d/d/d/64c66e18857842a1b4d814371d93addd.jpg",
+        "w:2500": "https://medias.france.tv/Tbb-4cyzBKosxVoEt6JWxkrmCPM/2500x1406/filters:quality(85)/d/d/d/64c66e18857842a1b4d814371d93addd.jpg"
+       },
+       "type": "vignette_16x9"
+      }
+     ],
+     "channel": null,
+     "category": {
+      "id": 49,
+      "type": "categorie",
+      "label": "séries & fictions",
+      "url_complete": "series-et-fictions",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+         "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+         "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+         "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "integral_counter": 0,
+      "call_to_action": "",
+      "call_to_action_url": "",
+      "synopsis": null,
+      "headline_title": null,
+      "label_edito": null,
+      "parent": null
+     },
+     "event": null,
+     "partner": {
+      "id": 59621,
+      "label": "INA",
+      "type": "partner",
+      "partner_path": "ina",
+      "images": [
+       {
+        "urls": {
+         "w:265": "https://medias.france.tv/6p_PUp4g0gZDbMfFV4ALxPPl47o/265x265/filters:quality(85)/r/r/j/phpltsjrr.jpg",
+         "w:300": "https://medias.france.tv/T6nly9gyfDUaJpSypJkRc-7zJEg/300x300/filters:quality(85)/r/r/j/phpltsjrr.jpg",
+         "w:400": "https://medias.france.tv/1u0HqgdutwU_L3xnJqwUBuwkNHg/400x400/filters:quality(85)/r/r/j/phpltsjrr.jpg",
+         "w:800": "https://medias.france.tv/ESWf1RJB5Kp5_sBSm1_WPwcR4hs/800x800/filters:quality(85)/r/r/j/phpltsjrr.jpg",
+         "w:1024": "https://medias.france.tv/lcN9yx2einOwezfIhGKPUA_3fiE/1024x1024/filters:quality(85)/r/r/j/phpltsjrr.jpg"
+        },
+        "type": "carre"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/QkXdIlSXE8kJgKMkII3X1D7GDsc/400x0/filters:quality(85)/j/f/q/phpkreqfj.jpg",
+         "w:800": "https://medias.france.tv/v55FAPLKfSSTXFwcSSRgqDPIwM8/800x450/filters:quality(85)/j/f/q/phpkreqfj.jpg",
+         "w:1024": "https://medias.france.tv/MdjxGhJIo4VR45ZuAIjSWFLmmmM/1024x576/filters:quality(85)/j/f/q/phpkreqfj.jpg",
+         "w:2500": "https://medias.france.tv/N5PluF8fjp9cJ9O_uXPin8KDbQA/2500x1406/filters:quality(85)/j/f/q/phpkreqfj.jpg"
+        },
+        "type": "vignette_16x9"
+       },
+       {
+        "urls": {
+         "w:400": "https://medias.france.tv/JPlf61xCqoqSFcSBbef1QRuURpk/400x533/filters:quality(85)/8/i/x/phpoyexi8.jpg",
+         "w:800": "https://medias.france.tv/H1g44EXVrfhe8GFc7EvM4JvpobA/800x1066/filters:quality(85)/8/i/x/phpoyexi8.jpg",
+         "w:1024": "https://medias.france.tv/eDU71REljF9PEL8v70WV-SQaMSE/1024x1365/filters:quality(85)/8/i/x/phpoyexi8.jpg"
+        },
+        "type": "vignette_3x4"
+       }
+      ],
+      "headline_title": null,
+      "si_id": "ce51459d-2ada-484d-98e2-c8b24e95912d",
+      "offer": "ina"
+     },
+     "ads_blocked": true,
+     "sponsored": false,
+     "is_live": true,
+     "is_published": false,
+     "production_year": null,
+     "is_audio_descripted": false,
+     "is_multi_lingual": false,
+     "casting": "",
+     "director": null,
+     "producer": null,
+     "presenter": null,
+     "characters": "",
+     "visible": true,
+     "is_recommended": false,
+     "rating_csa_code": "TP",
+     "is_subtitled": false,
+     "login": true,
+     "broadcast_channel": "ina",
+     "medium_description": null,
+     "production_company": null,
+     "production_countries": "",
+     "production_language": "",
+     "palmares": "",
+     "creator": "",
+     "voice_off": "",
+     "release_date": null,
+     "scenarists": "",
+     "reviewers": "",
+     "upcoming_live": false,
+     "intro": null,
+     "text": null,
+     "reading_time": null,
+     "offer": "ina",
+     "format": "landscape"
+    }
+   ]
+  }
+ ]
+}

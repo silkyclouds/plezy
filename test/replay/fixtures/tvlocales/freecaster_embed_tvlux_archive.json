@@ -1,0 +1,77 @@
+{
+ "video": {
+  "live": false,
+  "player_config": {
+   "forward": true
+  },
+  "polling_delay": 15000,
+  "fc_ui": {
+   "order": [
+    "play",
+    "pause",
+    "loop",
+    "rewind",
+    "forward",
+    "timeline",
+    "nextVideo",
+    "live",
+    "elapsed",
+    "duration",
+    "volume",
+    "captions",
+    "transcript",
+    "audioDescription",
+    "audiotracks",
+    "quality",
+    "speed",
+    "fullscreen"
+   ]
+  },
+  "subtitles": {
+   "native": true
+  },
+  "realtime": {
+   "enabled": false
+  },
+  "src": [
+   {
+    "type": "application/x-mpegurl",
+    "src": "https://tvlocales-vod-cmaf.freecaster.com/tvlux/9c3c36c1-b183-4d65-b39c-ee27c56f4d9e/HhdrcUG0LE5NLNmKZTELm6T6.m3u8"
+   },
+   {
+    "type": "application/dash+xml",
+    "src": "https://tvlocales-vod-cmaf.freecaster.com/tvlux/9c3c36c1-b183-4d65-b39c-ee27c56f4d9e/HhdrcUG0LE5NLNmKZTELm6T6.mpd"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/tvlux/9c3c36c1-b183-4d65-b39c-ee27c56f4d9e/HhdrcUG0LE5NLNmKZTELm6T6_3.mp4"
+   }
+  ],
+  "poster": "https://tvlocales-posters.freecaster.com/videos/tvlux/2e2f89f0-df74-343f-ac3d-88023b2fab46-1684335884/640x360.jpg",
+  "poster_template": "https://tvlocales-posters.freecaster.com/videos/tvlux/2e2f89f0-df74-343f-ac3d-88023b2fab46-1684335884/%{SIZE}.jpg",
+  "poster_renditions": [
+   {
+    "width": 320,
+    "height": 180,
+    "size": "320x180"
+   },
+   {
+    "width": 426,
+    "height": 240,
+    "size": "426x240"
+   },
+   {
+    "width": 640,
+    "height": 360,
+    "size": "640x360"
+   }
+  ],
+  "title": "Archéosphère -  2ème partie",
+  "description": "<p>2014 a célébré les 25 ans de larchéologie wallonne. Cest en effet en 1989 que cette compétence fédérale a été régionalisée. Cet anniversaire fut loccasion pour les télévisions locales de se plonger, avec les services de larchéologie wallonne, dans cette discipline relativement peu connue du g",
+  "duration": 1323.84,
+  "ratio": "16:9",
+  "video_id": "2e2f89f0-df74-343f-ac3d-88023b2fab46",
+  "version_id": "9c3c36c1-b183-4d65-b39c-ee27c56f4d9e",
+  "published_at": "2015-05-06T12:47:00.000000Z"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "userMessage": null,
+ "results": [
+  {
+   "title": "Gérard Depardieu joue dans",
+   "teasers": [
+    {
+     "title": "Maison de retraite",
+     "detailId": "d1cb72af-01ae-49ef-84bc-d41dc7a87e9b",
+     "genre": "Film",
+     "imageUrl": "https://images0.persgroep.net/rcs/wS2DaFlCs4B2i5drAUPsyDLf3As/diocontent/277878393/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    }
+   ],
+   "type": "collaborator",
+   "metaProvider": "avidci"
+  }
+ ],
+ "metaData": {
+  "requestId": "5c4c64ea-8947-4e95-9481-570fd9393b77",
+  "abGroup": "default",
+  "version": null
+ }
+}

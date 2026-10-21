@@ -1,0 +1,177 @@
+{
+ "total": 4140,
+ "searchTerm": "temps présent",
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/rts/searchResultMediaList?q=temps+pr%C3%A9sent&pageSize=2&next=2",
+ "searchResultMediaList": [
+  {
+   "id": "23e6edba-8616-3d5a-bd92-704215bafbd7",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:23e6edba-8616-3d5a-bd92-704215bafbd7",
+   "title": "Crack, comment en sortir",
+   "description": "À Genève, la consommation de crack prend de l’ampleur depuis l’arrivée de cette drogue, à large échelle, en 2021. Une crise qui a touché Katia, Brice et Thomas, qui ont accepté de raconter, à visage",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/649e9859-29386809.image/16x9",
+   "imageTitle": "Crack, comment en sortir",
+   "type": "EPISODE",
+   "date": "2026-10-15T20:10:55+02:00",
+   "duration": 2837040,
+   "validFrom": "2026-10-15T21:02:53+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Temps présent",
+    "lead": "Crack, comment en sortir",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/649e9859-29386809.image/16x9",
+    "imageTitle": "Temps présent",
+    "publishedDate": "2026-10-15T20:10:00+02:00",
+    "id": "2de8cfdf-7a50-364a-b861-9a8e63a3b475",
+    "description": "À Genève, la consommation de crack prend de l’ampleur depuis l’arrivée de cette drogue, à large échelle, en 2021. Une crise qui a touché Katia, Brice et Thomas, qui ont accepté de raconter, à visage"
+   },
+   "show": {
+    "id": "385293",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:show:tv:385293",
+    "title": "Temps présent",
+    "description": "Depuis avril 1969, Temps Présent est LE magazine d’information de référence de la RTS. Temps Présent réalise des reportages et des investigations, en Suisse et dans le monde, donne la parole aux",
+    "imageUrl": "https://img.rts.ch/articles/2024/image/ow6o4a-28429542.image/16x9",
+    "imageTitle": "Temps présent",
+    "bannerImageUrl": "https://img.rts.ch/articles/2024/image/ow6o4a-28429542.image/16x9",
+    "posterImageUrl": "https://img.rts.ch/medias/2025/image/cjzz3n-28911053.image/2x3",
+    "posterImageIsFallbackUrl": false,
+    "numberOfEpisodes": 2199,
+    "audioDescriptionAvailable": false,
+    "subtitlesAvailable": false,
+    "multiAudioLanguagesAvailable": false,
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
+    "vendor": "RTS",
+    "urn": "urn:rts:channel:tv:143932a79bb5a123a646b68b1d1188d7ae493e5b",
+    "title": "RTS 1",
+    "imageUrl": "https://img.rts.ch/articles/2023/image/ra3xg-26166607.image",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/857dda.svg",
+    "imageTitle": "RTS 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "fr",
+     "language": "Français",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/649e9859-29386809.image/16x9"
+  },
+  {
+   "id": "42f0331f-539a-394e-93ef-0fe9ea9a3bc7",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:42f0331f-539a-394e-93ef-0fe9ea9a3bc7",
+   "title": "Israël, des guerres et des fractures",
+   "description": "Le 27 octobre prochain, les Israéliens se rendront aux urnes. C'est la première fois depuis le massacre du 7 octobre 2023, encore dans tous les esprits, qu’ils auront l'opportunité de faire barrage,",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/62ea341e-29380232.image/16x9",
+   "imageTitle": "Israël, des guerres et des fractures",
+   "type": "EPISODE",
+   "date": "2026-10-08T20:08:55+02:00",
+   "duration": 2883880,
+   "validFrom": "2026-10-08T21:02:26+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Temps présent",
+    "lead": "Israël, des guerres et des fractures",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/62ea341e-29380232.image/16x9",
+    "imageTitle": "Temps présent",
+    "publishedDate": "2026-10-08T20:05:00+02:00",
+    "id": "a820b6a5-a27d-3618-b69a-28d1f0075aa3",
+    "description": "Le 27 octobre prochain, les Israéliens se rendront aux urnes. C'est la première fois depuis le massacre du 7 octobre 2023, encore dans tous les esprits, qu’ils auront l'opportunité de faire barrage,"
+   },
+   "show": {
+    "id": "385293",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:show:tv:385293",
+    "title": "Temps présent",
+    "description": "Depuis avril 1969, Temps Présent est LE magazine d’information de référence de la RTS. Temps Présent réalise des reportages et des investigations, en Suisse et dans le monde, donne la parole aux",
+    "imageUrl": "https://img.rts.ch/articles/2024/image/ow6o4a-28429542.image/16x9",
+    "imageTitle": "Temps présent",
+    "bannerImageUrl": "https://img.rts.ch/articles/2024/image/ow6o4a-28429542.image/16x9",
+    "posterImageUrl": "https://img.rts.ch/medias/2025/image/cjzz3n-28911053.image/2x3",
+    "posterImageIsFallbackUrl": false,
+    "numberOfEpisodes": 2199,
+    "audioDescriptionAvailable": false,
+    "subtitlesAvailable": false,
+    "multiAudioLanguagesAvailable": false,
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
+    "vendor": "RTS",
+    "urn": "urn:rts:channel:tv:143932a79bb5a123a646b68b1d1188d7ae493e5b",
+    "title": "RTS 1",
+    "imageUrl": "https://img.rts.ch/articles/2023/image/ra3xg-26166607.image",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/857dda.svg",
+    "imageTitle": "RTS 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "fr",
+     "language": "Français",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/62ea341e-29380232.image/16x9"
+  }
+ ]
+}

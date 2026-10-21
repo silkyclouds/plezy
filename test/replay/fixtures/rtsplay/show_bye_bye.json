@@ -1,0 +1,29 @@
+{
+ "id": "5921007",
+ "vendor": "RTS",
+ "transmission": "TV",
+ "urn": "urn:rts:show:tv:5921007",
+ "title": "Bye bye la Suisse",
+ "description": "Qui n'a pas rêvé un jour de tout laisser tomber et partir refaire sa vie à l'étranger ? Un rêve devenu réalité pour 4 familles suisses, dont ce feuilleton documentaire suit les péripéties dans leurs",
+ "imageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+ "imageTitle": "Bye bye la Suisse",
+ "bannerImageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+ "posterImageUrl": "https://img.rts.ch/medias/2026/image/4fad5f38-29356518.image/2x3",
+ "posterImageIsFallbackUrl": false,
+ "numberOfEpisodes": 117,
+ "audioDescriptionAvailable": false,
+ "subtitlesAvailable": false,
+ "multiAudioLanguagesAvailable": false,
+ "topicList": [
+  {
+   "id": "623",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:topic:tv:623",
+   "title": "Documentaires",
+   "imageUrl": "https://img.rts.ch/articles/2023/image/otgfb0-28403267.image",
+   "imageTitle": "Documentaires"
+  }
+ ],
+ "allowIndexing": true
+}

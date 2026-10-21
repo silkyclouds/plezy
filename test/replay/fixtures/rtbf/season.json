@@ -1,0 +1,144 @@
+{
+ "status": 200,
+ "meta": {
+  "page": {
+   "current": 1,
+   "from": 1,
+   "last": null,
+   "path": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18800?_page=1&_limit=20&_embed=content&includeFastTv=true&context[programId]=32284&context[season]=2",
+   "limit": 20,
+   "to": 7,
+   "totalCount": null
+  }
+ },
+ "links": {
+  "first": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18800?_page=1&_limit=20&_embed=content&includeFastTv=true&context[programId]=32284&context[season]=2",
+  "last": null,
+  "prev": null,
+  "next": null
+ },
+ "data": {
+  "id": "18800",
+  "type": "MEDIA_LIST",
+  "title": "automatique",
+  "content": [
+   {
+    "resourceType": "MEDIA",
+    "id": "3507958",
+    "programId": 32284,
+    "assetId": "3507958_6BA97Bb",
+    "path": "/media/ghosts-ghosts-s02-3507958",
+    "embedPath": "/embed/generic/{context}/media/3507958",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S02",
+    "subtitle": "01 - Visite guidée",
+    "description": "Suite à un message sur les réseaux sociaux, les curieux se pressent pour voir les fantômes au manoir. Mike et Alison décident de faire payer les visiteurs qui veulent les voir... Malheureusement, nos amis fantômes ont décidé de faire grève ce soir-là !",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1778,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/f/7/b/f7bfaa1b714107d4459f611c661114b8.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "Comédie",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3507959",
+    "programId": 32284,
+    "assetId": "3507959_6BA97Bb",
+    "path": "/media/ghosts-ghosts-s02-3507959",
+    "embedPath": "/embed/generic/{context}/media/3507959",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S02",
+    "subtitle": "02 - Lendemain de fête",
+    "description": "Après une nuit de fête, Alison et Mike nettoient le manoir de fond en comble car une organisatrice de mariage souhaite le visiter. Les fantômes ne font rien pour leur faciliter la tâche et sollicitent Alison pour régler leurs différends...",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1707,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/5/7/5/57540e7637fa551552da3c4862fe0764.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/5/7/5/57540e7637fa551552da3c4862fe0764.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "Comédie",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3507962",
+    "programId": 32284,
+    "assetId": "3507962_6BA97Bb",
+    "path": "/media/ghosts-ghosts-s02-3507962",
+    "embedPath": "/embed/generic/{context}/media/3507962",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S02",
+    "subtitle": "03 - Un secret bien gardé",
+    "description": "Alison et Mike continuent les visites dans l'espoir d'obtenir des réservations. Martin, un organisateur de mariage, tombe sous le charme du manoir mais le jardin pose problème. Alison et Mike s'empressent de le remettre en ordre mais c'est sans compter sur le Capitaine qui leur met des bâtons dans les roues à cause de son passé inavoué...",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1709,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/0/5/1/05141d9436784da251dcf44745c9a493.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/0/5/1/05141d9436784da251dcf44745c9a493.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/0/5/1/05141d9436784da251dcf44745c9a493.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/0/5/1/05141d9436784da251dcf44745c9a493.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/0/5/1/05141d9436784da251dcf44745c9a493.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "Comédie",
+    "products": []
+   }
+  ]
+ }
+}

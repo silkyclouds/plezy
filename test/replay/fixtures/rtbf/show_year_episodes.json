@@ -1,0 +1,129 @@
+{
+ "status": 200,
+ "meta": {
+  "page": {
+   "current": 1,
+   "from": 1,
+   "last": null,
+   "path": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18800?_page=1&_limit=20&_embed=content&includeFastTv=true&context[programId]=29169&context[year]=2026",
+   "limit": 20,
+   "to": 5,
+   "totalCount": null
+  }
+ },
+ "links": {
+  "first": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18800?_page=1&_limit=20&_embed=content&includeFastTv=true&context[programId]=29169&context[year]=2026",
+  "last": null,
+  "prev": null,
+  "next": null
+ },
+ "data": {
+  "id": "18800",
+  "type": "MEDIA_LIST",
+  "title": "automatique",
+  "content": [
+   {
+    "resourceType": "MEDIA",
+    "id": "3516005",
+    "programId": 29169,
+    "assetId": "3516005_6BA97Bb",
+    "path": "/media/table-media-table-media-3516005",
+    "embedPath": "/embed/generic/{context}/media/3516005",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Table Média",
+    "subtitle": "L'approche régionale de la RTBF",
+    "description": "Ma région, mon quartier et moi ? Comment témoigner et/ ou partager des infos ?  Quelles collaborations avec les médias de proximité ?",
+    "publishedFrom": "2026-09-15T05:00:00+02:00",
+    "publishedTo": "2031-12-31T23:55:00+01:00",
+    "releaseDate": "15/09/26",
+    "duration": 1975,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": false,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg"
+    },
+    "channelLabel": "Exclusivité Auvio",
+    "categoryLabel": "Décodage Médias",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3508982",
+    "programId": 29169,
+    "assetId": "3508982_6BA97Bb",
+    "path": "/media/table-media-table-media-3508982",
+    "embedPath": "/embed/generic/{context}/media/3508982",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Table Média",
+    "subtitle": "L’utilisation de vos données par la RTBF",
+    "description": "Que fait la RTBF des données qu’elle collecte ?  Comment utilise-t-elle les algorithmes ? Quel contrôle pouvez-vous exercer sur vos données ? Nos invités en débattent.",
+    "publishedFrom": "2026-08-29T05:00:00+02:00",
+    "publishedTo": "2031-12-31T23:55:00+01:00",
+    "releaseDate": "29/08/26",
+    "duration": 1830,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": false,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/9/9/0/99068307e81e91b55e2f71950e5b6818.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/9/9/0/99068307e81e91b55e2f71950e5b6818.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/9/9/0/99068307e81e91b55e2f71950e5b6818.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/9/9/0/99068307e81e91b55e2f71950e5b6818.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/9/9/0/99068307e81e91b55e2f71950e5b6818.jpg"
+    },
+    "channelLabel": "Exclusivité Auvio",
+    "categoryLabel": "Décodage Médias",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3496521",
+    "programId": 29169,
+    "assetId": "3496521_6BA97Bb",
+    "path": "/media/table-media-table-media-3496521",
+    "embedPath": "/embed/generic/{context}/media/3496521",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Table Média",
+    "subtitle": "Les jeunes et l'information",
+    "description": "Comment les jeunes s’informent-ils ? Comment la RTBF informe les jeunes ? Pourquoi est-ce important de s’informer ?",
+    "publishedFrom": "2026-08-01T05:00:00+02:00",
+    "publishedTo": "2031-12-31T23:55:00+01:00",
+    "releaseDate": "01/08/26",
+    "duration": 1676,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": false,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg"
+    },
+    "channelLabel": "Exclusivité Auvio",
+    "categoryLabel": "Décodage Médias",
+    "products": []
+   }
+  ]
+ }
+}

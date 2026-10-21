@@ -1,0 +1,1544 @@
+[
+ {
+  "id": 843,
+  "code": "n-c-i-s",
+  "title": "NCIS",
+  "description": "Le NCIS est une agence fédérale dont la mission est d'enquêter sur les crimes qui touchent de près ou de loin au milieu des Marines.",
+  "summary": "Le NCIS est une agence fédérale dont la mission est d'enquêter sur les crimes qui touchent de près ou de loin au milieu des Marines.",
+  "year_production": "2003",
+  "year_copyright": null,
+  "first_local_air_date": {
+   "date": "2012-01-04 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-10-20 17:21:04"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2026-10-27 17:21:04",
+   "date_start_min": "2026-10-14 17:25:17",
+   "date_start_max": "2026-10-20 17:21:04"
+  },
+  "program_type_wording": {
+   "code": "episode",
+   "plural": "épisodes",
+   "gender": "masculine",
+   "id": 2,
+   "singular": "épisode"
+  },
+  "neustar": {
+   "category": "serie-policiere"
+  },
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "service_display": {
+   "code": "w9replay",
+   "id": 2,
+   "priority": 2,
+   "ucid": "88sws66h9"
+  },
+  "count": {
+   "vi": 4,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4537713",
+    "role": "mea",
+    "id": 4278629
+   },
+   {
+    "external_key": "4666288",
+    "role": "backdropWide",
+    "id": 4404309
+   },
+   {
+    "external_key": "4666289",
+    "role": "backdropTall",
+    "id": 4404310
+   },
+   {
+    "external_key": "4666290",
+    "role": "fullColorLogo",
+    "id": 4404311
+   },
+   {
+    "external_key": "4740884",
+    "role": "box",
+    "id": 4478603
+   },
+   {
+    "external_key": "4939551",
+    "role": "vignette",
+    "id": 4676015
+   },
+   {
+    "external_key": "4939559",
+    "role": "jumbotron",
+    "id": 4676023
+   },
+   {
+    "external_key": "4939614",
+    "role": "logo",
+    "id": 4676078
+   },
+   {
+    "external_key": "5016794",
+    "role": "cover",
+    "id": 4752096
+   },
+   {
+    "external_key": "5016796",
+    "role": "portrait",
+    "id": 4752098
+   }
+  ]
+ },
+ {
+  "id": 28545,
+  "code": "pretty-little-liars",
+  "title": "Pretty little liars",
+  "description": "Un an après la mystérieuse disparition d’Alison, la fille la plus populaire du lycée, ses quatre meilleures amies – qui s’étaient alors éloignées – commencent à recevoir des messages signés « A » contenant leurs secrets les plus sombres. Face à cette menace, les quatre adolescentes vont devoir se retrouver et, tout en menant leurs vies, enquêter sur l’identité de cet ennemi anonyme…",
+  "summary": "Un an après la mystérieuse disparition d’Alison, la fille la plus populaire du lycée, ses quatre meilleures amies – qui s’étaient alors éloignées – commencent à recevoir des messages signés « A » contenant leurs secrets les plus sombres.",
+  "year_production": "2010",
+  "year_copyright": "2010",
+  "first_local_air_date": {
+   "date": "2012-01-01 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-10-15 00:00:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2027-10-14 23:59:59",
+   "date_start_min": "2026-10-15 00:00:00",
+   "date_start_max": "2026-10-15 00:00:00"
+  },
+  "program_type_wording": {
+   "code": "episode",
+   "plural": "épisodes",
+   "gender": "masculine",
+   "id": 2,
+   "singular": "épisode"
+  },
+  "neustar": {
+   "category": "series-dramatiques"
+  },
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 161,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "5028353",
+    "role": "box",
+    "id": 4763313
+   },
+   {
+    "external_key": "5028354",
+    "role": "vignette",
+    "id": 4763314
+   },
+   {
+    "external_key": "5028356",
+    "role": "jumbotron",
+    "id": 4763316
+   },
+   {
+    "external_key": "5028357",
+    "role": "cover",
+    "id": 4763317
+   },
+   {
+    "external_key": "5028359",
+    "role": "portrait",
+    "id": 4763319
+   },
+   {
+    "external_key": "5028362",
+    "role": "logo",
+    "id": 4763322
+   }
+  ]
+ },
+ {
+  "id": 28336,
+  "code": "fury",
+  "title": "Fury",
+  "description": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son équipage vont devoir tout tenter pour frapper l'Allemagne nazie en plein cœur...",
+  "summary": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies.",
+  "year_production": "2014",
+  "year_copyright": "2014",
+  "first_local_air_date": {
+   "date": "2015-09-12 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-07-01 00:00:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2026-11-30 23:59:59",
+   "date_start_min": "2026-07-01 00:00:00",
+   "date_start_max": "2026-07-01 00:00:00"
+  },
+  "program_type_wording": {
+   "code": "film",
+   "plural": "films",
+   "gender": "masculine",
+   "id": 5,
+   "singular": "film"
+  },
+  "neustar": {
+   "category": "action"
+  },
+  "csa": {
+   "code": "3",
+   "id": 3,
+   "label": "Interdit aux moins de 12 ans",
+   "sort_index": 12,
+   "icon_name": "Csa12",
+   "age": 12
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 1,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4972235",
+    "role": "logo",
+    "id": 4708264
+   },
+   {
+    "external_key": "4972236",
+    "role": "vignette",
+    "id": 4708265
+   },
+   {
+    "external_key": "4972237",
+    "role": "jumbotron",
+    "id": 4708266
+   },
+   {
+    "external_key": "4972238",
+    "role": "cover",
+    "id": 4708267
+   },
+   {
+    "external_key": "4972240",
+    "role": "portrait",
+    "id": 4708269
+   },
+   {
+    "external_key": "4972243",
+    "role": "box",
+    "id": 4708272
+   }
+  ]
+ },
+ {
+  "id": 28127,
+  "code": "tchernobyl-les-48-heures-qui-ont-change-le-monde",
+  "title": "Tchernobyl : les 48 heures qui ont changé le monde",
+  "description": "Le 26 avril 1986, le monde est témoin de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale de Tchernobyl.\r\nCe documentaire propose une immersion au cœur des 48 premières heures du désastre : depuis le test de sécurité fatidique qui a conduit à l'explosion jusqu'aux plongeurs héroïques qui ont risqué leur vie pour empêcher une deuxième explosion en passant par l'évacuation de Pripyat, une ville dont les 50 000 habitants ont été contraints de tout abandonner. Le film s'appuie sur les récits de témoins directs, notamment des infirmières et des secouristes de l'hôpital de Pripyat, du chef opérateur du réacteur n°4 de la centrale, ainsi que d'historiens et de professeurs de radiochimie.",
+  "summary": "Ce documentaire se penche sur les 48 premières heures de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale nucléaire de Tchernobyl, en s’appuyant sur les récits directs de témoins oculaires.",
+  "year_production": "2025",
+  "year_copyright": "2025",
+  "first_local_air_date": {
+   "date": "2026-04-25 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-05-26 21:55:37"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2029-01-31 21:55:37",
+   "date_start_min": "2026-05-26 21:55:37",
+   "date_start_max": "2026-05-26 21:55:37"
+  },
+  "program_type_wording": {
+   "code": "documentaire",
+   "plural": "documentaires",
+   "gender": "masculine",
+   "id": 10,
+   "singular": "documentaire"
+  },
+  "neustar": {
+   "category": "documentaire"
+  },
+  "csa": {
+   "code": "2",
+   "id": 2,
+   "label": "Interdit aux moins de 10 ans",
+   "sort_index": 10,
+   "icon_name": "Csa10",
+   "age": 10
+  },
+  "service_display": {
+   "code": "parispremierereplay",
+   "id": 3,
+   "priority": 9,
+   "ucid": "j8s6skkh7"
+  },
+  "count": {
+   "vi": 1,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4923152",
+    "role": "vignette",
+    "id": 4659747
+   },
+   {
+    "external_key": "4923153",
+    "role": "jumbotron",
+    "id": 4659748
+   },
+   {
+    "external_key": "4923154",
+    "role": "logo",
+    "id": 4659749
+   },
+   {
+    "external_key": "4923155",
+    "role": "cover",
+    "id": 4659750
+   },
+   {
+    "external_key": "4923157",
+    "role": "portrait",
+    "id": 4659752
+   },
+   {
+    "external_key": "4923160",
+    "role": "box",
+    "id": 4659755
+   }
+  ]
+ },
+ {
+  "id": 26360,
+  "code": "les-traitres-nouvelle-generation",
+  "title": "Les traîtres : nouvelle génération",
+  "description": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont devoir dépasser leurs limites et montrer une nouvelle facette de leur personnalité. Ils sont tous amis, leur amitié va-t-elle résister à la trahison et au jeu ? De la manipulation, du mensonge, de la sincérité, du vice, de la peur, des larmes, de la trahison… Tous les ingrédients sont réunis pour cette session de jeu que vous n’êtes pas près d’oublier !",
+  "summary": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu.",
+  "year_production": "2024",
+  "year_copyright": "2024",
+  "first_local_air_date": {
+   "date": "2024-09-27 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2024-10-01 00:00:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2027-08-18 00:00:00",
+   "date_start_min": "2024-10-01 00:00:00",
+   "date_start_max": "2024-10-01 00:00:00"
+  },
+  "program_type_wording": {
+   "code": "episode",
+   "plural": "épisodes",
+   "gender": "masculine",
+   "id": 2,
+   "singular": "épisode"
+  },
+  "neustar": {
+   "category": "divertissement"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 8,
+   "vc": 5,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4353151",
+    "role": "vignette",
+    "id": 4095665
+   },
+   {
+    "external_key": "4353152",
+    "role": "mea",
+    "id": 4095666
+   },
+   {
+    "external_key": "4353154",
+    "role": "logo",
+    "id": 4095668
+   },
+   {
+    "external_key": "4353155",
+    "role": "cover",
+    "id": 4095669
+   },
+   {
+    "external_key": "4353156",
+    "role": "portrait",
+    "id": 4095670
+   },
+   {
+    "external_key": "4353152",
+    "role": "jumbotron",
+    "id": 4095666
+   },
+   {
+    "external_key": "4915308",
+    "role": "box",
+    "id": 4651969
+   }
+  ]
+ },
+ {
+  "id": 15179,
+  "code": "zig-et-sharko",
+  "title": "Zig et Sharko",
+  "description": "Sur une île déserte, vit une hyène famélique. Au large, se trouve un rocher sur lequel vit une belle sirène. Pour la hyène qui n'a rien à se mettre sous la dent, la sirène est LE but à atteindre, coûte que coûte. Mais entre eux, dans le lagon, il ...",
+  "summary": "Sur une île déserte, vit une hyène famélique. Au large, se trouve un rocher sur lequel vit une belle sirène. Pour la hyène qui n'a rien à se mettre sous la dent, la sirène est LE but à atteindre, coûte que coûte. Mais entre...",
+  "year_production": null,
+  "year_copyright": "2010",
+  "first_local_air_date": {
+   "date": "2012-11-12 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2025-02-01 00:00:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2027-11-05 23:59:00",
+   "date_start_min": "2025-02-01 00:00:00",
+   "date_start_max": "2025-02-01 00:00:00"
+  },
+  "program_type_wording": null,
+  "neustar": {
+   "category": "kids"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "gulli",
+   "id": 245,
+   "priority": 4,
+   "ucid": "3vs1s55h65"
+  },
+  "count": {
+   "vi": 312,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": null,
+    "country_codes": null
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4094988",
+    "role": "mea",
+    "id": 3840465
+   },
+   {
+    "external_key": "4094990",
+    "role": "logo",
+    "id": 3840467
+   },
+   {
+    "external_key": "4744788",
+    "role": "box",
+    "id": 4482493
+   },
+   {
+    "external_key": "4094988",
+    "role": "jumbotron",
+    "id": 3840465
+   },
+   {
+    "external_key": "4306601",
+    "role": "cover",
+    "id": 4049632
+   },
+   {
+    "external_key": "4306602",
+    "role": "portrait",
+    "id": 4049633
+   },
+   {
+    "external_key": "4094987",
+    "role": "vignette",
+    "id": 3840464
+   }
+  ]
+ },
+ {
+  "id": 28137,
+  "code": "les-1001-vies-de",
+  "title": "Les 1001 vies de…",
+  "description": "Comment sont nés les destins extraordinaires ? Fidèle à son style de confesseur, Xavier de Moulins recueille les confidences des grands témoins de l’époque. Artistes, sportifs, scientifiques… ils racontent leurs 1001 vies dans des entretiens inspirants.",
+  "summary": "",
+  "year_production": null,
+  "year_copyright": "2026",
+  "first_local_air_date": {
+   "date": null
+  },
+  "last_clip_publication": {
+   "date": "2026-10-16 15:33:55"
+  },
+  "publication_date_vi": null,
+  "program_type_wording": null,
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "podcast",
+   "id": 308,
+   "priority": 156,
+   "ucid": "9jswsggh39"
+  },
+  "count": {
+   "vi": 0,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 13,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": null,
+    "country_codes": null
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4932504",
+    "role": "vignette",
+    "id": 4669023
+   },
+   {
+    "external_key": "4932505",
+    "role": "jumbotron",
+    "id": 4669024
+   },
+   {
+    "external_key": "4932506",
+    "role": "logo",
+    "id": 4669025
+   },
+   {
+    "external_key": "4932507",
+    "role": "cover",
+    "id": 4669026
+   },
+   {
+    "external_key": "4932509",
+    "role": "portrait",
+    "id": 4669028
+   }
+  ]
+ },
+ {
+  "id": 28525,
+  "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+  "title": "L'île des souvenirs, le 21 octobre au cinéma",
+  "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compagnons extraordinaires, elles devront affronter la redoutable Manananggal. Mais pour rentrer chez elles, elles devront oublier leur amitié : une course contre la montre commence avant que l'île n'efface leurs souvenirs.",
+  "summary": "",
+  "year_production": null,
+  "year_copyright": "2026",
+  "first_local_air_date": {
+   "date": null
+  },
+  "last_clip_publication": {
+   "date": "2026-10-05 00:01:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2026-11-01 23:59:00",
+   "date_start_min": "2026-10-05 00:01:00",
+   "date_start_max": "2026-10-05 00:01:00"
+  },
+  "program_type_wording": null,
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "gulli",
+   "id": 245,
+   "priority": 4,
+   "ucid": "3vs1s55h65"
+  },
+  "count": {
+   "vi": 5,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": null,
+    "country_codes": null
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "5022749",
+    "role": "logo",
+    "id": 4757898
+   },
+   {
+    "external_key": "5022752",
+    "role": "cover",
+    "id": 4757901
+   },
+   {
+    "external_key": "5022753",
+    "role": "mea",
+    "id": 4757902
+   },
+   {
+    "external_key": "5022756",
+    "role": "vignette",
+    "id": 4757904
+   }
+  ]
+ },
+ {
+  "id": 25919,
+  "code": "mon-voisin-nu",
+  "title": "Mon voisin nu",
+  "description": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Jusque-là, tout va bien, n’importe qui peut vivre au 6e étage d'un immeuble du boulevard Montparnasse. Sauf que cet homme-là a une singularité : il vit nu. Il ne se cache pas, ne s’exhibe pas, ne tire jamais les rideaux, il ne quitte pratiquement jamais son petit appartement dans lequel, du matin au soir, il vit nu. Quand François, en face, a repéré cet étrange voisin, il n’arrive plus à travailler. Il fait venir Victoire, son amoureuse, et Paul, son meilleur ami, pour leur montrer ce voisin effarant. Ils sont sciés. Le fait est qu’il y a de quoi être scié. Jusqu’au jour où…",
+  "summary": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Sauf que cet homme-là a une singularité : il vit nu.",
+  "year_production": "2024",
+  "year_copyright": "2024",
+  "first_local_air_date": {
+   "date": "2024-05-25 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-09-26 22:56:34"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2027-05-24 23:00:00",
+   "date_start_min": "2024-06-24 22:44:19",
+   "date_start_max": "2026-09-26 22:56:34"
+  },
+  "program_type_wording": {
+   "code": "spectacle",
+   "plural": "spectacles",
+   "gender": "masculine",
+   "id": 7,
+   "singular": "spectacle"
+  },
+  "neustar": {
+   "category": "spectacle"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "parispremierereplay",
+   "id": 3,
+   "priority": 9,
+   "ucid": "j8s6skkh7"
+  },
+  "count": {
+   "vi": 2,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4278589",
+    "role": "vignette",
+    "id": 4021891
+   },
+   {
+    "external_key": "4278590",
+    "role": "mea",
+    "id": 4021892
+   },
+   {
+    "external_key": "4278592",
+    "role": "logo",
+    "id": 4021894
+   },
+   {
+    "external_key": "4278593",
+    "role": "cover",
+    "id": 4021895
+   },
+   {
+    "external_key": "4278594",
+    "role": "portrait",
+    "id": 4021896
+   },
+   {
+    "external_key": "4278590",
+    "role": "jumbotron",
+    "id": 4021892
+   }
+  ]
+ },
+ {
+  "id": 857,
+  "code": "l-amour-est-dans-le-pre",
+  "title": "L'amour est dans le pré",
+  "description": "L'amour est dans le pré revient avec une 21e saison qui fait le choix de placer chaque agriculteur au cœur d'une aventure qui lui ressemble. Quatorze agriculteurs, âgés de 24 à 64 ans, venus de toute la France et porteurs d'histoires aussi différentes que touchantes, se lancent dans cette quête de l'amour. Véritable confidente, Karine Le Marchand les accompagne, les conseille et les soutient dans les moments de doute, des speed-datings aux voyages en amoureux.",
+  "summary": "L'amour est dans le pré revient avec une 21e saison qui fait le choix de placer chaque agriculteur au cœur d'une aventure qui lui ressemble.",
+  "year_production": "2005",
+  "year_copyright": null,
+  "first_local_air_date": {
+   "date": "2021-08-23 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-10-20 12:27:19"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2028-12-04 18:00:00",
+   "date_start_min": "2024-05-14 00:00:00",
+   "date_start_max": "2026-10-19 23:13:49"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "presentation"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 186,
+   "vc": 52,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4461552",
+    "role": "mea",
+    "id": 4203264
+   },
+   {
+    "external_key": "4697271",
+    "role": "backdropWide",
+    "id": 4435204
+   },
+   {
+    "external_key": "4697272",
+    "role": "backdropTall",
+    "id": 4435205
+   },
+   {
+    "external_key": "4697273",
+    "role": "fullColorLogo",
+    "id": 4435206
+   },
+   {
+    "external_key": "4740844",
+    "role": "box",
+    "id": 4478565
+   },
+   {
+    "external_key": "4990979",
+    "role": "logo",
+    "id": 4726727
+   },
+   {
+    "external_key": "4990987",
+    "role": "vignette",
+    "id": 4726735
+   },
+   {
+    "external_key": "4990988",
+    "role": "jumbotron",
+    "id": 4726736
+   },
+   {
+    "external_key": "5017643",
+    "role": "cover",
+    "id": 4752908
+   },
+   {
+    "external_key": "5017645",
+    "role": "portrait",
+    "id": 4752910
+   }
+  ]
+ },
+ {
+  "id": 1316,
+  "code": "jamel-et-ses-amis-au-marrakech-du-rire",
+  "title": "Le Marrakech du rire",
+  "description": "Pour la 9e édition du festival international d'humour « Le Marrakech du rire », Jamel Debbouze nous propose un show exceptionnel dans le cadre du somptueux Palais Badii. Avec Florence Foresti, Ary Abittan, Jarry, Caroline Vigneaux, Bun Hay Mean, Bigflo et Oli, Waly Dia, Inès Reg, Booder et beaucoup d'autres !",
+  "summary": "Pour la 9e édition du festival international d'humour « Le Marrakech du rire », Jamel Debbouze nous propose un show exceptionnel dans le cadre du somptueux Palais Badii.",
+  "year_production": "2019",
+  "year_copyright": "2019",
+  "first_local_air_date": {
+   "date": "2012-02-21 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2025-01-16 23:45:00"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2026-12-09 23:45:00",
+   "date_start_min": "2024-12-10 23:20:00",
+   "date_start_max": "2025-01-16 23:45:00"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "humour"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 10,
+   "vc": 24,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4427359",
+    "role": "vignette",
+    "id": 4169219
+   },
+   {
+    "external_key": "4427360",
+    "role": "mea",
+    "id": 4169220
+   },
+   {
+    "external_key": "4427362",
+    "role": "logo",
+    "id": 4169222
+   },
+   {
+    "external_key": "4429129",
+    "role": "cover",
+    "id": 4170955
+   },
+   {
+    "external_key": "4429130",
+    "role": "portrait",
+    "id": 4170956
+   },
+   {
+    "external_key": "4639780",
+    "role": "backdropWide",
+    "id": 4377902
+   },
+   {
+    "external_key": "4639781",
+    "role": "backdropTall",
+    "id": 4377903
+   },
+   {
+    "external_key": "4639782",
+    "role": "fullColorLogo",
+    "id": 4377904
+   },
+   {
+    "external_key": "4595769",
+    "role": "backdropWide",
+    "id": 4334538
+   },
+   {
+    "external_key": "4595770",
+    "role": "backdropTall",
+    "id": 4334539
+   },
+   {
+    "external_key": "4595771",
+    "role": "fullColorLogo",
+    "id": 4334540
+   },
+   {
+    "external_key": "4427360",
+    "role": "jumbotron",
+    "id": 4169220
+   },
+   {
+    "external_key": "4744791",
+    "role": "box",
+    "id": 4482496
+   }
+  ]
+ },
+ {
+  "id": 9641,
+  "code": "ca-peut-vous-arriver",
+  "title": "Ça peut vous arriver",
+  "description": "Une malfaçon dans une habitation, une voiture vendue avec un vice caché, une robe de mariée livrée trop petite ou tâchée, un vol charter annulé et non remboursé... Nous sommes très souvent impuissants face à ce genre de situations de la vie quotidienne. Pour la première fois en direct et en quotidien à la télévision, Julien Courbet, entouré d'avocats et d'experts va tout tenter pour résoudre vos problèmes mais aussi apporter des infos juridiques et conseils spécifiques.",
+  "summary": "Une malfaçon dans une habitation, une voiture vendue avec un vice caché, une robe de mariée livrée trop petite ou tâchée, un vol charter annulé et non remboursé...",
+  "year_production": null,
+  "year_copyright": "2020",
+  "first_local_air_date": {
+   "date": null
+  },
+  "last_clip_publication": {
+   "date": "2026-10-20 20:17:57"
+  },
+  "publication_date_vi": null,
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "magazine-dinformation"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 0,
+   "vc": 0,
+   "playlist": 0,
+   "podcast": 123,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": null,
+    "country_codes": null
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4152658",
+    "role": "mea",
+    "id": 3897066
+   },
+   {
+    "external_key": "4890786",
+    "role": "logo",
+    "id": 4627527
+   },
+   {
+    "external_key": "4905485",
+    "role": "vignette",
+    "id": 4642204
+   },
+   {
+    "external_key": "4905486",
+    "role": "jumbotron",
+    "id": 4642205
+   },
+   {
+    "external_key": "4905487",
+    "role": "cover",
+    "id": 4642206
+   },
+   {
+    "external_key": "4905489",
+    "role": "portrait",
+    "id": 4642208
+   }
+  ]
+ },
+ {
+  "id": 872,
+  "code": "top-chef",
+  "title": "Top chef",
+  "description": "Cette saison, Top Chef renverse la table et sort de ses murs. Chaque semaine, les jurés testeront les candidats dans un univers culinaire différent. Le vainqueur de Top Chef sera celui ou celle qui représentera au mieux le chef de demain, capable de se diversifier et de faire rayonner sa cuisine dans de multiples endroits et formats avec toujours la même exigence. \r\nPour cela, le concours sort les candidats de leur zone de confort et toutes les épreuves seront externalisées dans des décors exceptionnels.\r\nLes brigades disparaissent et les cinq chefs - Hélène Darroze, Stéphanie Le Quellec, Philippe Etchebest, Paul Pairet et Glenn Viel - redeviennent des jurés à part entière. Chaque candidat devra désormais affronter seul le regard du jury, défendre sa cuisine, son idée, son talent.",
+  "summary": "Cette saison, Top Chef renverse la table et sort de ses murs. Chaque semaine, les jurés testeront les candidats dans un univers culinaire et un décor différent.",
+  "year_production": "2010",
+  "year_copyright": "2010",
+  "first_local_air_date": {
+   "date": "2017-02-01 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-06-17 23:27:12"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2029-03-31 23:46:43",
+   "date_start_min": "2024-05-14 00:00:00",
+   "date_start_max": "2026-06-17 23:27:12"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "cuisine"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 208,
+   "vc": 18,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4530047",
+    "role": "mea",
+    "id": 4271111
+   },
+   {
+    "external_key": "4633138",
+    "role": "fullColorLogo",
+    "id": 4371323
+   },
+   {
+    "external_key": "4633140",
+    "role": "backdropWide",
+    "id": 4371325
+   },
+   {
+    "external_key": "4633141",
+    "role": "backdropTall",
+    "id": 4371326
+   },
+   {
+    "external_key": "4595820",
+    "role": "backdropTall",
+    "id": 4334588
+   },
+   {
+    "external_key": "4595821",
+    "role": "fullColorLogo",
+    "id": 4334589
+   },
+   {
+    "external_key": "4595822",
+    "role": "backdropWide",
+    "id": 4334590
+   },
+   {
+    "external_key": "4848005",
+    "role": "vignette",
+    "id": 4584986
+   },
+   {
+    "external_key": "4848006",
+    "role": "jumbotron",
+    "id": 4584987
+   },
+   {
+    "external_key": "4848012",
+    "role": "box",
+    "id": 4584993
+   },
+   {
+    "external_key": "4848014",
+    "role": "logo",
+    "id": 4584995
+   },
+   {
+    "external_key": "4848007",
+    "role": "cover",
+    "id": 4584988
+   },
+   {
+    "external_key": "4848009",
+    "role": "portrait",
+    "id": 4584990
+   }
+  ]
+ },
+ {
+  "id": 6286,
+  "code": "maries-au-premier-regard",
+  "title": "Mariés au premier regard",
+  "description": "Pour cette 10e saison, jamais l’amour ne triomphera autant ! Estelle Dossin et Marie Tapernoux vont plus loin afin de répondre aux espoirs de 16 nouveaux célibataires. Les expertes innovent avec un nouvel algorithme analysant l'attraction physique. Au programme également : deux mariages simultanés de deux sœurs célibataires, l'union de deux personnes s'étant probablement déjà rencontrées et un couple avec un taux de compatibilité record de 90 % !",
+  "summary": "Pour cette 10e saison, jamais l’amour ne triomphera autant ! Estelle Dossin et Marie Tapernoux vont plus loin afin de répondre aux espoirs de 16 nouveaux célibataires. Les expertes innovent avec un nouvel algorithme analysant l'attraction physique.",
+  "year_production": "2016",
+  "year_copyright": null,
+  "first_local_air_date": {
+   "date": "2017-11-13 00:00:00"
+  },
+  "last_clip_publication": {
+   "date": "2026-07-08 23:29:39"
+  },
+  "publication_date_vi": {
+   "date_end_max": "2029-02-12 23:29:39",
+   "date_start_min": "2026-04-01 00:00:00",
+   "date_start_max": "2026-07-08 23:29:39"
+  },
+  "program_type_wording": {
+   "code": "emission",
+   "plural": "émissions",
+   "gender": "feminine",
+   "id": 1,
+   "singular": "émission"
+  },
+  "neustar": {
+   "category": "presentation"
+  },
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "service_display": {
+   "code": "m6replay",
+   "id": 1,
+   "priority": 1,
+   "ucid": "2vs9s11h7"
+  },
+  "count": {
+   "vi": 153,
+   "vc": 14,
+   "playlist": 0,
+   "podcast": 0,
+   "audiobook": 0
+  },
+  "areas": [
+   {
+    "zone_id": 11,
+    "country_codes": [
+     "AD",
+     "FR",
+     "GP",
+     "GF",
+     "MQ",
+     "YT",
+     "MC",
+     "NC",
+     "PF",
+     "RE",
+     "BL",
+     "MF",
+     "PM",
+     "TF",
+     "WF"
+    ]
+   }
+  ],
+  "freemium_products": [],
+  "contains_freemium": true,
+  "images": [
+   {
+    "external_key": "4531151",
+    "role": "mea",
+    "id": 4272200
+   },
+   {
+    "external_key": "4639795",
+    "role": "backdropTall",
+    "id": 4377917
+   },
+   {
+    "external_key": "4639797",
+    "role": "backdropWide",
+    "id": 4377919
+   },
+   {
+    "external_key": "4641043",
+    "role": "fullColorLogo",
+    "id": 4379132
+   },
+   {
+    "external_key": "4598822",
+    "role": "backdropTall",
+    "id": 4337550
+   },
+   {
+    "external_key": "4598824",
+    "role": "backdropWide",
+    "id": 4337552
+   },
+   {
+    "external_key": "4611096",
+    "role": "fullColorLogo",
+    "id": 4349659
+   },
+   {
+    "external_key": "4944134",
+    "role": "box",
+    "id": 4680594
+   },
+   {
+    "external_key": "4945146",
+    "role": "vignette",
+    "id": 4681606
+   },
+   {
+    "external_key": "4945147",
+    "role": "jumbotron",
+    "id": 4681607
+   },
+   {
+    "external_key": "4848047",
+    "role": "logo",
+    "id": 4585028
+   },
+   {
+    "external_key": "4973437",
+    "role": "cover",
+    "id": 4709438
+   },
+   {
+    "external_key": "4973436",
+    "role": "portrait",
+    "id": 4709437
+   }
+  ]
+ }
+]

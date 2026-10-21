@@ -1,0 +1,83 @@
+{
+ "video": {
+  "live": false,
+  "tracks": [
+   {
+    "src": "https://tvlocales-vod-cmaf.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/AVC-TVL-093237-fr.vtt",
+    "label": "Français",
+    "locale": "fre",
+    "lang": "fr",
+    "kind": "subtitles"
+   }
+  ],
+  "subtitles": {
+   "native": true
+  },
+  "src": [
+   {
+    "type": "application/x-mpegurl",
+    "src": "https://tvlocales-vod-cmaf.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df.m3u8"
+   },
+   {
+    "type": "application/dash+xml",
+    "src": "https://tvlocales-vod-cmaf.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df.mpd"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df_3.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df_5.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df_9.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df_11.mp4"
+   }
+  ],
+  "poster": "https://tvlocales-posters.freecaster.com/videos/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df/1920x1080.jpg",
+  "poster_template": "https://tvlocales-posters.freecaster.com/videos/tvlux/a30722b4-0524-4a08-ac53-72d6afb1d5e2/3AkzTa83x2nCdC2bqzf1u1df/%{SIZE}.jpg",
+  "poster_renditions": [
+   {
+    "width": 320,
+    "height": 180,
+    "size": "320x180"
+   },
+   {
+    "width": 426,
+    "height": 240,
+    "size": "426x240"
+   },
+   {
+    "width": 640,
+    "height": 360,
+    "size": "640x360"
+   },
+   {
+    "width": 854,
+    "height": 480,
+    "size": "854x480"
+   },
+   {
+    "width": 1280,
+    "height": 720,
+    "size": "1280x720"
+   },
+   {
+    "width": 1920,
+    "height": 1080,
+    "size": "1920x1080"
+   }
+  ],
+  "title": "AVC-TVL-093237",
+  "duration": 820.629,
+  "ratio": "16:9",
+  "video_id": "a30722b3-e0b3-4599-8e73-02bc4fad37df",
+  "version_id": "a30722b4-0524-4a08-ac53-72d6afb1d5e2",
+  "published_at": "2026-10-20T15:35:50.000000Z"
+ }
+}

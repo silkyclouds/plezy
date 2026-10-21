@@ -1,0 +1,288 @@
+{
+ "total": 237,
+ "searchTerm": "bye",
+ "searchResultMediaList": [
+  {
+   "id": "f40ea207-cd0e-3529-ae1e-fd175962277c",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:f40ea207-cd0e-3529-ae1e-fd175962277c",
+   "title": "Un chantier pour Jonas (Episode 4 - Saison 15)",
+   "description": "Nouveau terrain à Sanur, nouveau projet: trois villas. Jonas repart de l'avant. Célia change de bijoutier pour gagner en qualité. Guidé par Indira, la mère d'Exan, le couple s'intègre peu à peu à la",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/060ea4a6-29382901.image/16x9",
+   "imageTitle": "Bye Bye la Suisse: un chantier pour Jonas 4/6",
+   "type": "EPISODE",
+   "date": "2026-10-16T08:00:00+02:00",
+   "duration": 2882080,
+   "validFrom": "2026-10-16T08:00:00+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Un chantier pour Jonas (Episode 4 - Saison 15)",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/060ea4a6-29382901.image/16x9",
+    "imageTitle": "Un chantier pour Jonas",
+    "publishedDate": "2026-10-16T08:00:00+02:00",
+    "seasonNumber": 15,
+    "id": "334449ea-5f1a-3c70-a480-450be69ebca2",
+    "number": 4,
+    "description": "Nouveau terrain à Sanur, nouveau projet: trois villas. Jonas repart de l'avant. Célia change de bijoutier pour gagner en qualité. Guidé par Indira, la mère d'Exan, le couple s'intègre peu à peu à la"
+   },
+   "show": {
+    "id": "5921007",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:show:tv:5921007",
+    "title": "Bye bye la Suisse",
+    "description": "Qui n'a pas rêvé un jour de tout laisser tomber et partir refaire sa vie à l'étranger ? Un rêve devenu réalité pour 4 familles suisses, dont ce feuilleton documentaire suit les péripéties dans leurs",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "imageTitle": "Bye bye la Suisse",
+    "bannerImageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "posterImageUrl": "https://img.rts.ch/medias/2026/image/4fad5f38-29356518.image/2x3",
+    "posterImageIsFallbackUrl": false,
+    "numberOfEpisodes": 117,
+    "audioDescriptionAvailable": false,
+    "subtitlesAvailable": false,
+    "multiAudioLanguagesAvailable": false,
+    "topicList": [
+     {
+      "id": "623",
+      "vendor": "RTS",
+      "transmission": "TV",
+      "urn": "urn:rts:topic:tv:623",
+      "title": "Documentaires",
+      "imageUrl": "https://img.rts.ch/articles/2023/image/otgfb0-28403267.image",
+      "imageTitle": "Documentaires"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "fr",
+     "language": "Français",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "fr",
+     "language": "Français (AD)",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/060ea4a6-29382901.image/16x9"
+  },
+  {
+   "id": "9ab2b672-4165-3936-8a4b-009ddc59aaf6",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:9ab2b672-4165-3936-8a4b-009ddc59aaf6",
+   "title": "S’adapter (Episode 3 - Saison 15)",
+   "description": "Après un terrain qui lui échappe, Jonas repart de zéro, confronté à des règles du marché immobilier qu'il ne maîtrise pas encore. Pendant ce temps, Célia avance sur sa collection et rencontre",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/2e3c806d-29376019.image/16x9",
+   "imageTitle": "Bye Bye la Suisse: s’adapter 3/6",
+   "type": "EPISODE",
+   "date": "2026-10-09T08:00:00+02:00",
+   "duration": 2879760,
+   "validFrom": "2026-10-09T08:00:00+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "S’adapter (Episode 3 - Saison 15)",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/2e3c806d-29376019.image/16x9",
+    "imageTitle": "S’adapter",
+    "publishedDate": "2026-10-09T08:00:00+02:00",
+    "seasonNumber": 15,
+    "id": "1142c243-5670-3b45-acfe-9d22335e38c4",
+    "number": 3,
+    "description": "Après un terrain qui lui échappe, Jonas repart de zéro, confronté à des règles du marché immobilier qu'il ne maîtrise pas encore. Pendant ce temps, Célia avance sur sa collection et rencontre"
+   },
+   "show": {
+    "id": "5921007",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:show:tv:5921007",
+    "title": "Bye bye la Suisse",
+    "description": "Qui n'a pas rêvé un jour de tout laisser tomber et partir refaire sa vie à l'étranger ? Un rêve devenu réalité pour 4 familles suisses, dont ce feuilleton documentaire suit les péripéties dans leurs",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "imageTitle": "Bye bye la Suisse",
+    "bannerImageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "posterImageUrl": "https://img.rts.ch/medias/2026/image/4fad5f38-29356518.image/2x3",
+    "posterImageIsFallbackUrl": false,
+    "numberOfEpisodes": 117,
+    "audioDescriptionAvailable": false,
+    "subtitlesAvailable": false,
+    "multiAudioLanguagesAvailable": false,
+    "topicList": [
+     {
+      "id": "623",
+      "vendor": "RTS",
+      "transmission": "TV",
+      "urn": "urn:rts:topic:tv:623",
+      "title": "Documentaires",
+      "imageUrl": "https://img.rts.ch/articles/2023/image/otgfb0-28403267.image",
+      "imageTitle": "Documentaires"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "fr",
+     "language": "Français",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "fr",
+     "language": "Français (AD)",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/2e3c806d-29376019.image/16x9"
+  },
+  {
+   "id": "f7073f9b-a3fb-3f06-a64e-5dc9d4377108",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:f7073f9b-a3fb-3f06-a64e-5dc9d4377108",
+   "title": "L'’île des dieux (Episode 2 - Saison 15)",
+   "description": "Célia atterrit à Bali et retrouve Jonas dans la villa de Canggu, partagée avec Exan. Pendant qu'elle cherche un bijoutier artisan, les deux associés avancent vite sur leur premier projet de villas.",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/799d2311-29369226.image/16x9",
+   "imageTitle": "Bye Bye la Suisse: l’île des dieux 2/6",
+   "type": "EPISODE",
+   "date": "2026-10-02T08:00:00+02:00",
+   "duration": 2877280,
+   "validFrom": "2026-10-02T08:00:00+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "fr",
+     "language": "Français (SDH)",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "L'’île des dieux (Episode 2 - Saison 15)",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/799d2311-29369226.image/16x9",
+    "imageTitle": "L'’île des dieux",
+    "publishedDate": "2026-10-02T08:00:00+02:00",
+    "seasonNumber": 15,
+    "id": "29051ed7-4054-3c0c-839b-e044e74c1158",
+    "number": 2,
+    "description": "Célia atterrit à Bali et retrouve Jonas dans la villa de Canggu, partagée avec Exan. Pendant qu'elle cherche un bijoutier artisan, les deux associés avancent vite sur leur premier projet de villas."
+   },
+   "show": {
+    "id": "5921007",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:show:tv:5921007",
+    "title": "Bye bye la Suisse",
+    "description": "Qui n'a pas rêvé un jour de tout laisser tomber et partir refaire sa vie à l'étranger ? Un rêve devenu réalité pour 4 familles suisses, dont ce feuilleton documentaire suit les péripéties dans leurs",
+    "imageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "imageTitle": "Bye bye la Suisse",
+    "bannerImageUrl": "https://img.rts.ch/medias/2026/image/da88817d-29356517.image/16x9",
+    "posterImageUrl": "https://img.rts.ch/medias/2026/image/4fad5f38-29356518.image/2x3",
+    "posterImageIsFallbackUrl": false,
+    "numberOfEpisodes": 117,
+    "audioDescriptionAvailable": false,
+    "subtitlesAvailable": false,
+    "multiAudioLanguagesAvailable": false,
+    "topicList": [
+     {
+      "id": "623",
+      "vendor": "RTS",
+      "transmission": "TV",
+      "urn": "urn:rts:topic:tv:623",
+      "title": "Documentaires",
+      "imageUrl": "https://img.rts.ch/articles/2023/image/otgfb0-28403267.image",
+      "imageTitle": "Documentaires"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "fr",
+     "language": "Français",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "fr",
+     "language": "Français (AD)",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/799d2311-29369226.image/16x9"
+  }
+ ]
+}

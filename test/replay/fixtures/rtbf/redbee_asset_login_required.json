@@ -1,0 +1,130 @@
+{
+ "assetId": "3507958_6BA97Bb",
+ "externalAssetId": "3507958",
+ "audio": [
+  {
+   "language": "fr",
+   "displayName": "Français",
+   "roles": [
+    "main"
+   ]
+  },
+  {
+   "language": "en",
+   "displayName": "Anglais",
+   "roles": [
+    "main"
+   ]
+  }
+ ],
+ "audioTracks": [
+  "fr",
+  "en"
+ ],
+ "changed": "2026-09-15T13:29:29.752Z",
+ "created": "2026-08-25T10:49:06.072Z",
+ "externalReferences": [],
+ "linkedEntities": [],
+ "live": false,
+ "localized": [
+  {
+   "images": [],
+   "locale": "fr",
+   "longDescription": "Ghosts S02 - 01 - Visite guidée",
+   "sortingTitle": "Ghosts S02 - 01 - Visite guidée",
+   "title": "Ghosts S02 - 01 - Visite guidée"
+  }
+ ],
+ "seoData": [
+  {
+   "locale": "fr"
+  }
+ ],
+ "markers": [
+  {
+   "adMarkerType": "PRE"
+  },
+  {
+   "offset": 889000,
+   "adMarkerType": "MID"
+  },
+  {
+   "adMarkerType": "POST"
+  }
+ ],
+ "parentalRatings": [],
+ "participants": [],
+ "productionCountries": [],
+ "publications": [
+  {
+   "countries": [],
+   "devices": [],
+   "fromDate": "2026-08-25T10:49:04Z",
+   "products": [
+    "technical-access_6BA97Bb"
+   ],
+   "availabilityKeys": [
+    "technical-access_6BA97Bb",
+    "3507958_6BA97Bb_technical-access_6BA97Bb"
+   ],
+   "publicationDate": "2026-08-25T10:49:04Z",
+   "publicationId": "3507958_technical_6BA97Bb",
+   "rights": {},
+   "services": [],
+   "toDate": "2027-03-30T22:55:00Z"
+  },
+  {
+   "countries": [],
+   "devices": [],
+   "fromDate": "2026-10-14T03:55:00Z",
+   "products": [
+    "belgian_6BA97Bb"
+   ],
+   "availabilityKeys": [
+    "belgian_6BA97Bb",
+    "3507958_6BA97Bb_belgian_6BA97Bb"
+   ],
+   "publicationDate": "2026-10-14T03:55:00Z",
+   "publicationId": "3507958_porta_6BA97Bb",
+   "rights": {},
+   "services": [],
+   "toDate": "2027-02-28T22:55:00Z"
+  },
+  {
+   "countries": [],
+   "devices": [],
+   "fromDate": "2026-10-14T03:55:00Z",
+   "products": [
+    "free_product_6BA97Bb"
+   ],
+   "availabilityKeys": [
+    "free_product_6BA97Bb",
+    "3507958_6BA97Bb_free_product_6BA97Bb"
+   ],
+   "publicationDate": "2026-10-14T03:55:00Z",
+   "publicationId": "3507958_belgium_6BA97Bb",
+   "rights": {},
+   "services": [],
+   "toDate": "2027-02-28T22:55:00Z"
+  }
+ ],
+ "spokenLanguages": [],
+ "subtitles": [
+  "fr"
+ ],
+ "subtitleTracks": [
+  {
+   "language": "fr",
+   "displayName": "Français",
+   "type": "subtitle",
+   "aiGenerated": false
+  }
+ ],
+ "tags": [],
+ "type": "EPISODE",
+ "duration": 1778360,
+ "slugs": [],
+ "markerPoints": [],
+ "cuePoints": [],
+ "collections": []
+}

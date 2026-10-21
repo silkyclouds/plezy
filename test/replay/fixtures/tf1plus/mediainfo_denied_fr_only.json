@@ -1,0 +1,36 @@
+{
+ "media": {
+  "id": "14578316",
+  "type": "video",
+  "error_code": "PERMISSION_DENIED",
+  "error_desc": "Permission insuffisante",
+  "title": "Aquaman",
+  "geoList": [
+   "FR"
+  ],
+  "owner": "aquaman-film-tmc",
+  "preview": "https://photos.tf1.fr/1280/720/aquaman-9af270-502013-0@1x.jpg",
+  "sqPreview": "https://photos.tf1.fr/400/400/program-card-square-jpg-ac2575-4d5574-0@1x.jpg",
+  "channel": "tmc",
+  "duration": 7639,
+  "geolock": true,
+  "sb": "https://video-storyboards.tf1.fr/84a345cab2aed609ac296a45f2ffd37649c38bcc160644d7eff002dbf967aba1/lsb.vtt",
+  "syndicable": false,
+  "markers": {
+   "inGF": 7541240,
+   "outGF": 7638080
+  },
+  "shortTitle": "Aquaman",
+  "programName": "Aquaman",
+  "programSlug": "aquaman",
+  "publisherSlug": "tf1",
+  "attach": "TMC"
+ },
+ "delivery": {
+  "code": 403,
+  "error": "Permission insuffisante",
+  "country": "BE",
+  "format": "dash",
+  "stream-id": "03a61d77-e78e-4b5a-b2ee-52b4c230a13a_dash_nodrm_nomax"
+ }
+}

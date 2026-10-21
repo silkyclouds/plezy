@@ -1,0 +1,148 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "7fa44e55-91b1-47e3-a59c-bc12bac77d42",
+  "info": null
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "Patrick Bruel : de séducteur à prédateur ?",
+  "imageUrl": "https://images0.persgroep.net/rcs/WHCYyWQPq-PFQmN4tIc_E1ZsSAI/diocontent/274527061/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images0.persgroep.net/rcs/HFXghk0-Irp824RzaOhEqUyi8p4/diocontent/274527056/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images4.persgroep.net/rcs/BpjLu8yln5JX8SgR1aB4A0gedT4/diocontent/274527056/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images1.persgroep.net/rcs/XDnjVwHcl5cQFGPWg6dyGM4vHf0/diocontent/274527056/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images2.persgroep.net/rcs/P1D8yRC8gabyzG_wFs_T-j5NiH4/diocontent/274527056/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images3.persgroep.net/rcs/UUDcg_wIGgvWixZwhQVaHMwVm5g/diocontent/274527057/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2026",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "54 min",
+   "emphasized": false,
+   "accessibilityLabel": "Durée"
+  },
+  {
+   "label": "Portrait",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [],
+ "description": "Pendant des décennies, il a incarné le charme et le succès. Mais lorsque des accusations pour violences sexuelles émergent, le doute s’installe et le mythe vacille. Retour sur la chute médiatique d’une icône adulée.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/patrick-bruel-de-seducteur-a-predateur~7fa44e55-91b1-47e3-a59c-bc12bac77d42?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images3.persgroep.net/rcs/UUDcg_wIGgvWixZwhQVaHMwVm5g/diocontent/274527057/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "7fa44e55-91b1-47e3-a59c-bc12bac77d42",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Portrait",
+      "collectionId": "30dac168-a484-4692-b815-962703d404cf"
+     }
+    ]
+   },
+   {
+    "label": "Réalisation",
+    "items": [
+     {
+      "label": "Guillaume Genton",
+      "collectionId": null
+     },
+     {
+      "label": "Thibault Gitton",
+      "collectionId": null
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "Pendant des décennies, il a incarné le charme et le succès. Mais lorsque des accusations pour violences sexuelles émergent, le doute s’installe et le mythe vacille. Retour sur la chute médiatique d’une icône adulée."
+ },
+ "seasonPicker": null,
+ "durationSeconds": 3282,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "Affaire Ullens : le meurtre de la baronne",
+    "detailId": "1ded7a1d-88b1-4015-91c1-813163014ccb",
+    "imageUrl": "https://images4.persgroep.net/rcs/EZiCzyVbKbnC2OJpKntfVQFc-Is/diocontent/275382465/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La marche blanche",
+    "detailId": "af86c337-42f1-43ba-a97a-206e85913a13",
+    "imageUrl": "https://images2.persgroep.net/rcs/fvNsxxOO-Jleu-ajsMiCwOWAPB8/diocontent/277878593/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Michael Jackson : les derniers secrets du roi de la pop",
+    "detailId": "169256c1-7b86-45ef-a7dc-c15bb46955db",
+    "imageUrl": "https://images1.persgroep.net/rcs/pJH1Y_2O2s5sgIc_ID70yOzFwDA/diocontent/274558756/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Affaire Victorine : disparue à 18h59",
+    "detailId": "6ad2dc32-1946-4be1-8fab-78147585df4a",
+    "imageUrl": "https://images2.persgroep.net/rcs/h9zBM3kCtVJ5i4D7DjVNI8MBk9M/diocontent/275382518/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Affaire Laure Zacchello : Où est maman ?",
+    "detailId": "65cb0b54-e8a2-441f-b156-e40b8614a7f4",
+    "imageUrl": "https://images4.persgroep.net/rcs/PapOymX45lYpwkSJ_Sk5ULpteYk/diocontent/275670568/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "L’affaire Philippine : un drame évitable ?",
+    "detailId": "c2aa1c02-5036-4242-92e2-1b1ee2518980",
+    "imageUrl": "https://images4.persgroep.net/rcs/wuGRRcXF0X3otRlZrwfYE1f3xS0/diocontent/276654711/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "2c8998e8-2115-41c3-abbf-7f143aa39356",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}

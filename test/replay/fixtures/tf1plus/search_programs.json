@@ -1,0 +1,124 @@
+{
+ "data": {
+  "searchPrograms": {
+   "total": 1,
+   "items": [
+    {
+     "id": "f9792451-b523-4b3a-889c-ed42ffeac684",
+     "slug": "koh-lanta",
+     "name": "Koh-Lanta",
+     "isFullyDigital": false,
+     "editor": "mytf1",
+     "mainChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1",
+      "__typename": "Channel"
+     },
+     "initialChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1",
+      "__typename": "Channel"
+     },
+     "categories": [
+      {
+       "id": "GT_ENTERTAINMENT",
+       "label": "Divertissements",
+       "main": true,
+       "slug": "divertissements",
+       "type": "MAIN_ENTERTAINEMENT",
+       "__typename": "Category"
+      },
+      {
+       "id": "SGT_ENTERTAINMENT",
+       "label": "Divertissements",
+       "main": false,
+       "slug": "divertissements",
+       "type": "SUB_ENTERTAINEMENT",
+       "__typename": "Category"
+      }
+     ],
+     "freemium": null,
+     "decoration": {
+      "image": {
+       "id": "program-card-portrait-1-jpg-0d9257",
+       "type": "PORTRAIT",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/700/933/program-card-portrait-1-jpg-0d9257-39b93d-0@1x.jpg",
+         "width": "700",
+         "height": "933",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        },
+        {
+         "url": "https://photos.tf1.fr/350/466/program-card-portrait-1-jpg-0d9257-0ade08-0@1x.jpg",
+         "width": "350",
+         "height": "466",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        },
+        {
+         "url": "https://photos.tf1.fr/233/311/program-card-portrait-1-jpg-0d9257-e74dec-0@1x.jpg",
+         "width": "233",
+         "height": "311",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        }
+       ],
+       "__typename": "Image"
+      },
+      "background": {
+       "id": "background-ott-jpg-a72446",
+       "type": "BACKGROUND",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/1920/1080/background-ott-jpg-a72446-24441c-0@1x.jpg",
+         "width": "1920",
+         "height": "1080",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        },
+        {
+         "url": "https://photos.tf1.fr/960/540/background-ott-jpg-a72446-73a561-0@1x.jpg",
+         "width": "960",
+         "height": "540",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        },
+        {
+         "url": "https://photos.tf1.fr/640/360/background-ott-jpg-a72446-c8783f-0@1x.jpg",
+         "width": "640",
+         "height": "360",
+         "type": "jpg",
+         "__typename": "SrcSet"
+        }
+       ],
+       "__typename": "Image"
+      },
+      "__typename": "Decoration"
+     },
+     "replay": {
+      "total": 409,
+      "__typename": "VideosConnector"
+     },
+     "replayRecent": {
+      "total": 2,
+      "__typename": "VideosConnector"
+     },
+     "allVideos": {
+      "total": 1009,
+      "__typename": "VideosConnector"
+     },
+     "allVideosRecent": {
+      "total": 9,
+      "__typename": "VideosConnector"
+     },
+     "__typename": "Program"
+    }
+   ],
+   "__typename": "SearchProgramConnector"
+  }
+ }
+}

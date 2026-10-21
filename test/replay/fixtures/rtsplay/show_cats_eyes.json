@@ -1,0 +1,29 @@
+{
+ "id": "14979947",
+ "vendor": "RTS",
+ "transmission": "TV",
+ "urn": "urn:rts:show:tv:14979947",
+ "title": "Cat's Eyes",
+ "description": "Trois sœurs décident de dérober une œuvre d'art liée à la mystérieuse disparition de leur père.\n\nSaison 1 (8 épisodes) disponible en intégralité du 08 octobre au 06 novembre 2026.\nSaison 2 (8",
+ "imageUrl": "https://img.rts.ch/medias/2026/image/420afaf7-29363417.image/16x9",
+ "imageTitle": "Cat's Eyes",
+ "bannerImageUrl": "https://img.rts.ch/medias/2026/image/420afaf7-29363417.image/16x9",
+ "posterImageUrl": "https://img.rts.ch/medias/2026/image/07d31357-29363418.image/2x3",
+ "posterImageIsFallbackUrl": false,
+ "numberOfEpisodes": 13,
+ "audioDescriptionAvailable": false,
+ "subtitlesAvailable": false,
+ "multiAudioLanguagesAvailable": false,
+ "topicList": [
+  {
+   "id": "1353",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:topic:tv:1353",
+   "title": "Séries et Films",
+   "imageUrl": "https://img.rts.ch/articles/2023/image/2x77a4-28403268.image",
+   "imageTitle": "Séries et Films"
+  }
+ ],
+ "allowIndexing": true
+}

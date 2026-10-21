@@ -1,0 +1,5 @@
+{
+ "WWW-Authenticate": "Bearer",
+ "httpCode": 401,
+ "message": "INVALID_SESSION_TOKEN"
+}

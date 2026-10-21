@@ -1,0 +1,90 @@
+{
+ "id": 15179,
+ "code": "zig-et-sharko",
+ "title": "Zig et Sharko",
+ "description": "Sur une île déserte, vit une hyène famélique. Au large, se trouve un rocher sur lequel vit une belle sirène. Pour la hyène qui n'a rien à se mettre sous la dent, la sirène est LE but à atteindre, coûte que coûte. Mais entre eux, dans le lagon, il ...",
+ "summary": "Sur une île déserte, vit une hyène famélique. Au large, se trouve un rocher sur lequel vit une belle sirène. Pour la hyène qui n'a rien à se mettre sous la dent, la sirène est LE but à atteindre, coûte que coûte. Mais entre...",
+ "year_production": null,
+ "year_copyright": "2010",
+ "first_local_air_date": {
+  "date": "2012-11-12 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2025-02-01 00:00:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2027-11-05 23:59:00",
+  "date_start_min": "2025-02-01 00:00:00",
+  "date_start_max": "2025-02-01 00:00:00"
+ },
+ "program_type_wording": null,
+ "neustar": {
+  "category": "kids"
+ },
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "gulli",
+  "id": 245,
+  "priority": 4,
+  "ucid": "3vs1s55h65"
+ },
+ "count": {
+  "vi": 312,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": null,
+   "country_codes": null
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4094988",
+   "role": "mea",
+   "id": 3840465
+  },
+  {
+   "external_key": "4094990",
+   "role": "logo",
+   "id": 3840467
+  },
+  {
+   "external_key": "4744788",
+   "role": "box",
+   "id": 4482493
+  },
+  {
+   "external_key": "4094988",
+   "role": "jumbotron",
+   "id": 3840465
+  },
+  {
+   "external_key": "4306601",
+   "role": "cover",
+   "id": 4049632
+  },
+  {
+   "external_key": "4306602",
+   "role": "portrait",
+   "id": 4049633
+  },
+  {
+   "external_key": "4094987",
+   "role": "vignette",
+   "id": 3840464
+  }
+ ]
+}

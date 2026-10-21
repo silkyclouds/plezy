@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "meta": null,
+ "data": {
+  "id": "18801",
+  "type": "TAB_LIST",
+  "title": "Episodes",
+  "content": [
+   {
+    "id": "18800",
+    "type": "MEDIA_LIST",
+    "title": "Tous les épisodes",
+    "subtitle": "12 épisodes",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18800?context%5BprogramId%5D=32462",
+    "season": null
+   }
+  ]
+ }
+}

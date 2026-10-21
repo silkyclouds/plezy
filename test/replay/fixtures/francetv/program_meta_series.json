@@ -1,0 +1,171 @@
+{
+ "id": 985,
+ "label": "Dix pour Cent",
+ "description": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business, quitte à manipuler les gens du métier pour leur faire accepter leur vision.",
+ "type": "program",
+ "program_path": "france-2_dix-pour-cent",
+ "link": {
+  "url": "/apps/program/meta/france-2_dix-pour-cent?platform=apps",
+  "type": "tab"
+ },
+ "color": null,
+ "sound": null,
+ "headline_title": "On se refait la série !",
+ "images": [
+  {
+   "urls": {
+    "w:265": "https://medias.france.tv/NRKmDVEc0H9xHtE0CfS8Ggymhw8/265x265/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+    "w:300": "https://medias.france.tv/RkM1hB78hAyg2r1XLLZ9GBzWPpA/300x300/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+    "w:400": "https://medias.france.tv/_cY8NdAwRMNgQ01O1PbQPXE5t0Y/400x400/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+    "w:800": "https://medias.france.tv/P20WNM6Hzr8OX4k4Wggfbp4K51k/800x800/filters:quality(85)/1/y/z/php3f5zy1.jpg",
+    "w:1024": "https://medias.france.tv/IKOT3gK3uX_TVduvGIq6znKQGt4/1024x1024/filters:quality(85)/1/y/z/php3f5zy1.jpg"
+   },
+   "type": "carre"
+  },
+  {
+   "urls": {
+    "w:400": "https://medias.france.tv/1JyoF6pnvzsV4cGvQNyTQB2dGDw/400x0/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+    "w:800": "https://medias.france.tv/t4NR4sjKm4DLZiGTx71yit1qGfQ/800x450/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+    "w:1024": "https://medias.france.tv/pljQ74gH8l05wj1J5tyPsCl6YKY/1024x576/filters:quality(85)/a/5/t/php3jvt5a.jpg",
+    "w:2500": "https://medias.france.tv/ARA7d4Pvlhn9rOjOVOFknTxTf5o/2500x1406/filters:quality(85)/a/5/t/php3jvt5a.jpg"
+   },
+   "type": "vignette_16x9"
+  },
+  {
+   "urls": {
+    "w:400": "https://medias.france.tv/WqjpRMVww5JG-NopkgPjXe7JxVo/400x533/filters:quality(85)/c/h/9/phpo7m9hc.jpg",
+    "w:800": "https://medias.france.tv/lFWYT8dOaJuSmVbFMHrvgpnn_rg/800x1066/filters:quality(85)/c/h/9/phpo7m9hc.jpg",
+    "w:1024": "https://medias.france.tv/SbWFWjNbXmNDkiDuP8YlrHDq2Tg/1024x1365/filters:quality(85)/c/h/9/phpo7m9hc.jpg"
+   },
+   "type": "vignette_3x4"
+  }
+ ],
+ "integral_counter": 29,
+ "ads_blocked": false,
+ "broadcast_box": "",
+ "recommendation": true,
+ "partner": null,
+ "sponsored": false,
+ "channel": "france-2",
+ "age_min": null,
+ "age_max": null,
+ "saison": null,
+ "call_to_action": "",
+ "call_to_action_url": "",
+ "synopsis": "Chaque jour, Andréa, Mathias, Gabriel et Arlette, agents et associés principaux de l’agence artistique ASK (l’agence Samuel-Kerr), jonglent avec de délicates situations et défendent leur vision du métier d'acteur. Ils mêlent savamment art et business.",
+ "label_edito": null,
+ "downloadable": true,
+ "casting": "Camille Cottin, Thibault de Montalembert, Grégory Montel, Liliane Rovère, Fanny Sidney, Nicolas Maury, Laure Calamy, Stéfi Celma",
+ "characters": null,
+ "director": "Antoine Garceau et Marc Fitoussi",
+ "scenarists": null,
+ "palmares": "Meilleure comédie aux International Emmy Awards 2021",
+ "production_countries": null,
+ "number_of_episodes": null,
+ "number_of_seasons": null,
+ "categories": [
+  {
+   "id": 49,
+   "type": "categorie",
+   "label": "séries & fictions",
+   "url_complete": "series-et-fictions",
+   "images": [
+    {
+     "urls": {
+      "w:265": "https://medias.france.tv/Er9MjbeCemMyDa4odJBZIn9Mxek/265x265/filters:quality(85)/b/0/6/php5wn60b.png",
+      "w:300": "https://medias.france.tv/_zh1Qi50w0t4xAB0AinJvsCRqmI/300x300/filters:quality(85)/b/0/6/php5wn60b.png",
+      "w:400": "https://medias.france.tv/dfbNmCqubHGoYwyxaaKxoIQ1Pmo/400x400/filters:quality(85)/b/0/6/php5wn60b.png",
+      "w:800": "https://medias.france.tv/lHf5S4uR3tJNf8xzBLh92gQDZI0/800x800/filters:quality(85)/b/0/6/php5wn60b.png",
+      "w:1024": "https://medias.france.tv/UoNTKZAla6NeXc8qeaoBQmcu8CU/1024x1024/filters:quality(85)/b/0/6/php5wn60b.png"
+     },
+     "type": "carre"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/l_OUuyo0SE8taKiemtZ4cLsgLtw/400x0/filters:quality(85)/g/4/k/phpiupk4g.png",
+      "w:800": "https://medias.france.tv/ViqVWO_Q4QjNqY_UFw6UhnL5LBQ/800x450/filters:quality(85)/g/4/k/phpiupk4g.png",
+      "w:1024": "https://medias.france.tv/CA98OSMviJIMv5YEc_VEsOX4iyE/1024x576/filters:quality(85)/g/4/k/phpiupk4g.png",
+      "w:2500": "https://medias.france.tv/BwiSoQAw-seh0SvL-ouEWHaotZc/2500x1406/filters:quality(85)/g/4/k/phpiupk4g.png"
+     },
+     "type": "vignette_16x9"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/2UCAXJI76R1hak4a3i3Rski-M8Q/400x533/filters:quality(85)/8/s/8/phpee98s8.png",
+      "w:800": "https://medias.france.tv/9LqVmUfSuNm0N8oEh6z09bKgX9o/800x1066/filters:quality(85)/8/s/8/phpee98s8.png",
+      "w:1024": "https://medias.france.tv/DmkPbRj2NNlWK0xjyaWJwGrq77I/1024x1365/filters:quality(85)/8/s/8/phpee98s8.png"
+     },
+     "type": "vignette_3x4"
+    }
+   ],
+   "integral_counter": 0,
+   "call_to_action": "",
+   "call_to_action_url": "",
+   "synopsis": null,
+   "headline_title": null,
+   "label_edito": null,
+   "parent": null
+  }
+ ],
+ "sub_categories": [
+  {
+   "id": 49920,
+   "type": "sous_categorie",
+   "label": "Séries drame",
+   "url_complete": "series-et-fictions_series-drame",
+   "images": [
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/jrV6PTNuXLZAI-_TTczD9CDutlM/400x0/filters:quality(85)/q/p/6/phpmzl6pq.jpg",
+      "w:800": "https://medias.france.tv/yThUvdF2YJFEJVPZRMpYd1pLIo0/800x450/filters:quality(85)/q/p/6/phpmzl6pq.jpg",
+      "w:1024": "https://medias.france.tv/9TpQ6aXdgNBCUJDn9vtOsckmF40/1024x576/filters:quality(85)/q/p/6/phpmzl6pq.jpg",
+      "w:2500": "https://medias.france.tv/sBLcbgSPZUBQwU4Jvqp206vMqfI/2500x1406/filters:quality(85)/q/p/6/phpmzl6pq.jpg"
+     },
+     "type": "vignette_16x9"
+    }
+   ],
+   "integral_counter": 0,
+   "call_to_action": "",
+   "call_to_action_url": "",
+   "synopsis": null,
+   "headline_title": null,
+   "label_edito": null,
+   "parent": {
+    "id": 49,
+    "type": "categorie",
+    "label": "séries & fictions",
+    "url_complete": "series-et-fictions"
+   }
+  }
+ ],
+ "category": {
+  "label": "séries & fictions",
+  "url_complete": "series-et-fictions",
+  "id": 49,
+  "type": "categorie"
+ },
+ "podcast_url": null,
+ "offer": "francetv",
+ "sort_seasons": "asc",
+ "sort_episodes": "episode:asc",
+ "collections": [
+  {
+   "label": "épisodes",
+   "type": "season"
+  },
+  {
+   "label": "voir plus",
+   "type": "playlist_video",
+   "mea": true
+  }
+ ],
+ "actions": [
+  {
+   "label": "voir le premier épisode",
+   "id": 5549793,
+   "episode_title": "S1 E1 - Cécile",
+   "duration": 3297,
+   "type": "replay"
+  }
+ ]
+}

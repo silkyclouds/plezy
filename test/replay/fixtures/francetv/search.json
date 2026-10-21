@@ -1,0 +1,291 @@
+{
+ "label": "dix pour cent",
+ "collections": [
+  {
+   "label": "Programmes",
+   "type": "playlist_program",
+   "items": [
+    {
+     "id": 18081,
+     "type": "event",
+     "label": "Tour de France",
+     "url_complete": "sport_cyclisme_tour-de-france",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/n-AkOj8uSn8dqXanyNS4YBujMiM/265x265/filters:quality(85)/b/s/7/phpqxy7sb.jpg",
+        "w:300": "https://medias.france.tv/tOcxV39MAdtKSVOteTAEU15Jrt0/300x300/filters:quality(85)/b/s/7/phpqxy7sb.jpg",
+        "w:400": "https://medias.france.tv/jKr4Qu9_teOJcRk9AHeEQvWnohc/400x400/filters:quality(85)/b/s/7/phpqxy7sb.jpg",
+        "w:800": "https://medias.france.tv/bl2zms-cFUUvusExPwd-xQksWzA/800x800/filters:quality(85)/b/s/7/phpqxy7sb.jpg",
+        "w:1024": "https://medias.france.tv/Nf1Usx4h2WbTI-6YwmoYU2cJiMg/1024x1024/filters:quality(85)/b/s/7/phpqxy7sb.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/tVY7sWZ1TX9IyDkRmitOit_kJJA/400x0/filters:quality(85)/x/v/m/phpelzmvx.jpg",
+        "w:800": "https://medias.france.tv/UrjoJxUaJFPvgP13wZutRAy1qMI/800x450/filters:quality(85)/x/v/m/phpelzmvx.jpg",
+        "w:1024": "https://medias.france.tv/cKV9TMo40-yNl2YtgcYTNwpYz-I/1024x576/filters:quality(85)/x/v/m/phpelzmvx.jpg",
+        "w:2500": "https://medias.france.tv/GuQYHOmxe7Xh6NuN3t8WPAe0lAI/2500x1406/filters:quality(85)/x/v/m/phpelzmvx.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/_kNsjIpLh0yv_yNnk9GyPQsnQnE/400x533/filters:quality(85)/c/t/1/phpkvt1tc.jpg",
+        "w:800": "https://medias.france.tv/5EubdxZhTfybJUGW1RomJRd2k2s/800x1066/filters:quality(85)/c/t/1/phpkvt1tc.jpg",
+        "w:1024": "https://medias.france.tv/wiLnk6jOkjIkAE5fBuPTJaLQ5zQ/1024x1365/filters:quality(85)/c/t/1/phpkvt1tc.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 51,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "description": null,
+     "begin_date": 1783123200,
+     "end_date": 1785110400,
+     "headline_title": null,
+     "label_edito": "",
+     "parent": {
+      "id": 14199,
+      "class": "category",
+      "type": "sous_categorie",
+      "label": "Cyclisme",
+      "title": "Cyclisme - Vidéos en streaming et replay - Toutes les vidéos | France TV",
+      "url": "cyclisme",
+      "url_complete": "sport/cyclisme",
+      "season": null,
+      "episode_count": null,
+      "is_root": false,
+      "favorite": null,
+      "synopsis": null,
+      "label_svod": null,
+      "parent": null,
+      "counters": {
+       "free": {
+        "integral_counter": 0,
+        "extract_counter": 0
+       },
+       "web": {
+        "integral_counter": 0,
+        "extract_counter": 0
+       }
+      },
+      "si_id": null,
+      "video_count": 1,
+      "ads_blocked": false,
+      "live_ads_blocked": false,
+      "is_sponsored": false,
+      "channel": null,
+      "age_min": null,
+      "age_max": null,
+      "color": null,
+      "audio": null,
+      "label_edito": null,
+      "begin_date": null,
+      "end_date": null,
+      "downloadable": null,
+      "offer": "",
+      "partner": null,
+      "categories": [],
+      "sub_categories": []
+     },
+     "category": {
+      "label": "Sport",
+      "url_complete": "sport",
+      "id": 62,
+      "type": "categorie"
+     },
+     "offer": "francetv"
+    },
+    {
+     "id": 39451,
+     "label": "100 % logique : la réponse est sous vos yeux",
+     "description": "",
+     "type": "program",
+     "program_path": "france-2_100-logique-la-reponse-est-sous-vos-yeux",
+     "link": {
+      "url": "/apps/program/meta/france-2_100-logique-la-reponse-est-sous-vos-yeux?platform=apps",
+      "type": "tab"
+     },
+     "color": null,
+     "sound": null,
+     "headline_title": null,
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/iIJoJR92RNiYEf6Z3cYHW00g0RY/265x265/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+        "w:300": "https://medias.france.tv/JnskC1P5RvetzgcTR93ZtZVUoj8/300x300/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+        "w:400": "https://medias.france.tv/aviEKhj2NE4b7nk8P5-r0qna-eI/400x400/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+        "w:800": "https://medias.france.tv/AauHkz-ugG0yHYl_p9CRLLjf8nM/800x800/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+        "w:1024": "https://medias.france.tv/mBXFZS916fsvkm6_E6Y4IXx2x5Q/1024x1024/filters:quality(85)/h/u/f/phpxyqfuh.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+        "w:800": "https://medias.france.tv/vpireqqRwh5vQaFCaGL67xpYXL4/800x450/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+        "w:1024": "https://medias.france.tv/Tg2_Wrm7ZF_iTWKMcbjxQTFcHa0/1024x576/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+        "w:2500": "https://medias.france.tv/RK998vem7nmSLn5VL1JFrSn49tA/2500x1406/filters:quality(85)/h/c/6/php4wq6ch.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/qkke1DF8AgJ7iNfeE4GjjeV-4rY/400x533/filters:quality(85)/l/o/i/phpxoaiol.jpg",
+        "w:800": "https://medias.france.tv/URK5ue0KtORoH0Sx6V7MBCVH30A/800x1066/filters:quality(85)/l/o/i/phpxoaiol.jpg",
+        "w:1024": "https://medias.france.tv/ECHYAnvHuliaRjAi3-tG5lVyblk/1024x1365/filters:quality(85)/l/o/i/phpxoaiol.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "integral_counter": 8,
+     "ads_blocked": false,
+     "broadcast_box": null,
+     "recommendation": true,
+     "partner": null,
+     "sponsored": false,
+     "channel": "france-2",
+     "age_min": null,
+     "age_max": null,
+     "saison": null,
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": "Le premier quiz qui ne teste pas votre culture générale et vos connaissances, mais votre logique, votre sens de l’observation et votre bon sens ! Saurez-vous déjouer tous les pièges, et arriver jusqu’à l’ultime question ?",
+     "label_edito": "",
+     "downloadable": false,
+     "casting": null,
+     "characters": null,
+     "director": null,
+     "scenarists": null,
+     "palmares": null,
+     "production_countries": null,
+     "number_of_episodes": null,
+     "number_of_seasons": null,
+     "sub_categories": [
+      {
+       "id": 48,
+       "class": "category",
+       "type": "sous_categorie",
+       "label": "Jeux",
+       "url_complete": "jeux-et-divertissements/jeux"
+      }
+     ],
+     "category": {
+      "label": "Divertissement",
+      "url_complete": "jeux-et-divertissements",
+      "id": 45,
+      "type": "categorie"
+     },
+     "podcast_url": null,
+     "offer": "francetv",
+     "sort_seasons": null,
+     "sort_episodes": null
+    }
+   ],
+   "query_id": "d9ed51572daa6c4a68da8c27b71eca94"
+  },
+  {
+   "label": "Collections",
+   "type": "playlist_collection",
+   "items": [
+    {
+     "type": "collection",
+     "id": 59339,
+     "label": "Pour booster ses connaissances",
+     "label_edito": "",
+     "description": "",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/1avvp7o3aacLGtUe1chaiWFrgJE/265x265/filters:quality(85)/h/d/i/phpws9idh.jpg",
+        "w:300": "https://medias.france.tv/9pBI6SWlU6PlsoRWGgdoDioV9q0/300x300/filters:quality(85)/h/d/i/phpws9idh.jpg",
+        "w:400": "https://medias.france.tv/nxDEuNwfdSbvVrPFwqbcv313RNY/400x400/filters:quality(85)/h/d/i/phpws9idh.jpg",
+        "w:800": "https://medias.france.tv/pxmch7e2Ms2Z0ZZnAA-dhqrzkHo/800x800/filters:quality(85)/h/d/i/phpws9idh.jpg",
+        "w:1024": "https://medias.france.tv/3cCD8hY7wPSiuIsrPu5AzGHYWCc/1024x1024/filters:quality(85)/h/d/i/phpws9idh.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/uaXQ5D8JUf0s7CKhJ3ALcNZ6VNg/400x0/filters:quality(85)/6/r/t/phprjqtr6.jpg",
+        "w:800": "https://medias.france.tv/MAqERua8-Q5Oeo2wz381U66VvE4/800x450/filters:quality(85)/6/r/t/phprjqtr6.jpg",
+        "w:1024": "https://medias.france.tv/fyRAK4euYRCgkCecE1aJbUBZNeM/1024x576/filters:quality(85)/6/r/t/phprjqtr6.jpg",
+        "w:2500": "https://medias.france.tv/JQ-2AfrXnu_2jzUg4OjKGUVSdO0/2500x1406/filters:quality(85)/6/r/t/phprjqtr6.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/3g4ReJn0qnLHnh0SFNwtb3AeM-g/400x533/filters:quality(85)/s/b/g/php7avgbs.jpg",
+        "w:800": "https://medias.france.tv/C09l3f5ZCgRrOLfCFvD_QOEe_4I/800x1066/filters:quality(85)/s/b/g/php7avgbs.jpg",
+        "w:1024": "https://medias.france.tv/VhM5lVfUIbX2jmyA7rgU-KnGAGE/1024x1365/filters:quality(85)/s/b/g/php7avgbs.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "age_min": null,
+     "age_max": null,
+     "subtitle": null,
+     "headline_title": null,
+     "category": null,
+     "downloadable": false,
+     "collection_path": "collection_pour-booster-ses-connaissances",
+     "offer": "francetv"
+    },
+    {
+     "type": "collection",
+     "id": 59084,
+     "label": "Okoo pour les petits",
+     "label_edito": "",
+     "description": "",
+     "images": [
+      {
+       "urls": {
+        "w:265": "https://medias.france.tv/p7r00HIb0RwoKJuC1dcNqQixl0I/265x265/filters:quality(85)/b/c/o/phpgajocb.jpg",
+        "w:300": "https://medias.france.tv/hYOsv3nYHMsKfroj60M_ioOt2Fk/300x300/filters:quality(85)/b/c/o/phpgajocb.jpg",
+        "w:400": "https://medias.france.tv/UTs5su8je9Wa7Hp5haLVsEYoFNw/400x400/filters:quality(85)/b/c/o/phpgajocb.jpg",
+        "w:800": "https://medias.france.tv/flp3D4OFj4BtgY1KM66kD7nDfRE/800x800/filters:quality(85)/b/c/o/phpgajocb.jpg",
+        "w:1024": "https://medias.france.tv/UMyrh9d_bwvfpI8GEXK_9Pg4SOg/1024x1024/filters:quality(85)/b/c/o/phpgajocb.jpg"
+       },
+       "type": "carre"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/bDnmgLOSx-X6rUYcfuSzTN6DjmE/400x0/filters:quality(85)/d/x/w/phpuuuwxd.jpg",
+        "w:800": "https://medias.france.tv/8RyXQCEy-60-CRizunx2l04xKOE/800x450/filters:quality(85)/d/x/w/phpuuuwxd.jpg",
+        "w:1024": "https://medias.france.tv/Y1NWlEb1f00s4TCmnxB5gwwgLpg/1024x576/filters:quality(85)/d/x/w/phpuuuwxd.jpg",
+        "w:2500": "https://medias.france.tv/4qV3KHTWQDJcucy53_CF_kNwf48/2500x1406/filters:quality(85)/d/x/w/phpuuuwxd.jpg"
+       },
+       "type": "vignette_16x9"
+      },
+      {
+       "urls": {
+        "w:400": "https://medias.france.tv/0A-75PMAbP-sNm3Ctp2DAC5CpI0/400x533/filters:quality(85)/t/2/h/phpirsh2t.jpg",
+        "w:800": "https://medias.france.tv/h3qRTtsnnGJtiueVDu7zNOI7dCQ/800x1066/filters:quality(85)/t/2/h/phpirsh2t.jpg",
+        "w:1024": "https://medias.france.tv/P2O2s6eHUzvOhPEy8kQp-bg0XNA/1024x1365/filters:quality(85)/t/2/h/phpirsh2t.jpg"
+       },
+       "type": "vignette_3x4"
+      }
+     ],
+     "age_min": 3,
+     "age_max": 12,
+     "subtitle": null,
+     "headline_title": null,
+     "category": {
+      "id": 29,
+      "type": "categorie",
+      "label": "Enfants",
+      "url_complete": "enfants"
+     },
+     "downloadable": false,
+     "collection_path": "collection_okoo-pour-les-petits",
+     "offer": "okoo"
+    }
+   ],
+   "query_id": "1b2e7e5594485efca4b0b1c20c8ecdfd"
+  }
+ ]
+}

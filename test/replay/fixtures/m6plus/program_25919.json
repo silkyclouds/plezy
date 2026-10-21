@@ -1,0 +1,107 @@
+{
+ "id": 25919,
+ "code": "mon-voisin-nu",
+ "title": "Mon voisin nu",
+ "description": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Jusque-là, tout va bien, n’importe qui peut vivre au 6e étage d'un immeuble du boulevard Montparnasse. Sauf que cet homme-là a une singularité : il vit nu. Il ne se cache pas, ne s’exhibe pas, ne tire jamais les rideaux, il ne quitte pratiquement jamais son petit appartement dans lequel, du matin au soir, il vit nu. Quand François, en face, a repéré cet étrange voisin, il n’arrive plus à travailler. Il fait venir Victoire, son amoureuse, et Paul, son meilleur ami, pour leur montrer ce voisin effarant. Ils sont sciés. Le fait est qu’il y a de quoi être scié. Jusqu’au jour où…",
+ "summary": "De l’autre côté du boulevard Montparnasse, il y a un homme qui vit au 6e étage. Sauf que cet homme-là a une singularité : il vit nu.",
+ "year_production": "2024",
+ "year_copyright": "2024",
+ "first_local_air_date": {
+  "date": "2024-05-25 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2026-09-26 22:56:34"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2027-05-24 23:00:00",
+  "date_start_min": "2024-06-24 22:44:19",
+  "date_start_max": "2026-09-26 22:56:34"
+ },
+ "program_type_wording": {
+  "code": "spectacle",
+  "plural": "spectacles",
+  "gender": "masculine",
+  "id": 7,
+  "singular": "spectacle"
+ },
+ "neustar": {
+  "category": "spectacle"
+ },
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "parispremierereplay",
+  "id": 3,
+  "priority": 9,
+  "ucid": "j8s6skkh7"
+ },
+ "count": {
+  "vi": 2,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4278589",
+   "role": "vignette",
+   "id": 4021891
+  },
+  {
+   "external_key": "4278590",
+   "role": "mea",
+   "id": 4021892
+  },
+  {
+   "external_key": "4278592",
+   "role": "logo",
+   "id": 4021894
+  },
+  {
+   "external_key": "4278593",
+   "role": "cover",
+   "id": 4021895
+  },
+  {
+   "external_key": "4278594",
+   "role": "portrait",
+   "id": 4021896
+  },
+  {
+   "external_key": "4278590",
+   "role": "jumbotron",
+   "id": 4021892
+  }
+ ]
+}

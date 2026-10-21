@@ -1,0 +1,432 @@
+{
+ "title": "Séries",
+ "marketingOverlay": null,
+ "rows": [
+  {
+   "rowType": "TOP_BANNER",
+   "id": "8e2a48ad-8c62-48cd-8a89-38643e59939c",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "avidci",
+    "campaignId": null
+   },
+   "teaser": {
+    "title": "Cat's Eyes",
+    "target": {
+     "type": "DETAIL",
+     "label": "Voir ",
+     "accessibilityLabel": null,
+     "id": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "name": "Cat's Eyes",
+     "seasonIndex": null
+    },
+    "largeImageUrl": "https://images0.persgroep.net/rcs/s78Yzo-UnjUGWxAY3_FvsOFCZwA/diocontent/278344206/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mediumImageUrl": "https://images1.persgroep.net/rcs/0bIKnibMsYE8WtiXWMamxE2oSk8/diocontent/278344207/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mobileImageUrl": "https://images1.persgroep.net/rcs/LmW0LZiShXFldTBV3_rWvz45cAc/diocontent/278344208/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mobileCompressedImageUrl": "https://images0.persgroep.net/rcs/QRZi1n6iBUkK8KXOuqNz1N02ibQ/diocontent/278344208/_fitwidth/768?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "smartTvImageUrl": "https://images1.persgroep.net/rcs/JzF4WVgw11Grbj4NLYcj7ChcXko/diocontent/278344221/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "trailerId": null,
+    "addedToMyList": false,
+    "premiumProductLogo": null,
+    "editorialByline": null,
+    "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "byline": "Les trois sœurs sont de retour pour leur mission la plus risquée"
+   }
+  },
+  {
+   "rowType": "SWIMLANE_PORTRAIT",
+   "id": "5259a0b4-5444-4b19-8e8d-bdb52ed4c782",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "Séries immanquables",
+   "teasers": [
+    {
+     "title": "Scream Queens",
+     "titleArtImageUrl": "https://images3.persgroep.net/rcs/3MKFQx9xB6y6OzbJEn5HJ65TstI/diocontent/278667306/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "c82a36a0-b3eb-4640-8d1e-eb1ea4c27a0a",
+     "imageUrl": "https://images2.persgroep.net/rcs/TkkD4InF10uHdVe66ekv2K3abU8/diocontent/278667304/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214276",
+     "comingSoon": null,
+     "description": "La sororité Kappa Kappa Tau règne sur le campus… jusqu’à ce qu’un tueur déguisé en Diable s’en prenne à ses membres une à une. Entre secrets et rivalités, les sœurs devront le démasquer avant qu’il ne soit trop tard.",
+     "trailerId": null,
+     "heroImageUrl": "https://images4.persgroep.net/rcs/KLU7hBdOW0DIAYJDsaxqt6tQ7UM/diocontent/278667296/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/MyZE_edAaACZgR3IysF83fikbp8/diocontent/278667296/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/VwS7Vzvw9aX4Gh6bvjib-n5UF0c/diocontent/278667296/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/gl-JnAqPLdXJvZvNQ4XMD2I5cv8/diocontent/278667296/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2016",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Cat's Eyes",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "imageUrl": "https://images0.persgroep.net/rcs/0_UKhmzg0ZHF8R4R_Qeh5zN3Id4/diocontent/278163992/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Pour sauver leur père, Tam, Sylia et Alex s’attaquent à un puissant réseau de trafiquants d’art. Du musée d’Orsay au Mont-Saint-Michel, les trois sœurs enchaînent les cambriolages les plus risqués.",
+     "trailerId": null,
+     "heroImageUrl": "https://images1.persgroep.net/rcs/Nh4PAJA-FsFYIuqbKJiMt5wcp44/diocontent/278163995/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images3.persgroep.net/rcs/qD40ezjTy1nKTR0FwbjGcIFWE0w/diocontent/278163995/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/UjYoqg2UAt6OuTkQJx1BMUB_bG4/diocontent/278163995/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/xylevBs20uCY0KIC4TSdIacIQY4/diocontent/278163995/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2025",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Beauty and the Beast",
+     "titleArtImageUrl": "https://images4.persgroep.net/rcs/NxnXaxJAZZBPogOnZ1qLOTyZz6c/diocontent/278175848/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "d00e1935-6940-473f-886c-b4121d3ed4b2",
+     "imageUrl": "https://images0.persgroep.net/rcs/uKcvBFf03Cq7uDTwOqyCF0Yppk4/diocontent/278175849/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Elle est détective. Il vit caché depuis dix ans avec un terrible secret : sous la colère, il devient une créature incontrôlable. Liés par un drame du passé, ils traquent la vérité, au risque de succomber à une attirance dangereuse.",
+     "trailerId": null,
+     "heroImageUrl": "https://images0.persgroep.net/rcs/FecZSYuxbcz5Tal4KDVcHjbSzuk/diocontent/278175847/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/lz8MnNR9fOugiXEYrjK8T0NBlqQ/diocontent/278175847/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/F79Tdc6mw1bRp2oKmmGYbzkEjWE/diocontent/278175847/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images1.persgroep.net/rcs/gTU6yrcdsaeCLYesw7JNp6sS1Xo/diocontent/278175847/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2016",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "4 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": null
+  },
+  {
+   "rowType": "SWIMLANE_LANDSCAPE",
+   "id": "91746a0b-26c0-4080-b473-3453a87b842b",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "avidci",
+    "campaignId": null
+   },
+   "title": "Séries françaises",
+   "teasers": [
+    {
+     "title": "Plus belle la vie, encore plus belle",
+     "titleArtImageUrl": "https://images4.persgroep.net/rcs/sAKtITqmmU59dyyge-oAz2EYWPs/diocontent/273922595/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "7ba37b1e-9aef-45bf-9730-497e46f7e0a5",
+     "imageUrl": "https://images4.persgroep.net/rcs/6bfE7snuPgaklHhsnxL1YQL-H6o/diocontent/273922606/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Après l'effondrement du quartier du Mistral, ses anciens habitants ont dû repartir à zéro dans un tout nouveau quartier. Nouveaux voisins, nouveaux lieux et nouvelles habitudes… leur vie a doucement pris un nouveau départ dans le Panier.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/Py_cBQG5iGcn99PPT28aTeCwxho/diocontent/273922609/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/SkX-_aM1UQr0SMA6CWvWAsUFEDY/diocontent/273922609/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/3tOsSV99uebtmtI_sx4hl4CJ2_w/diocontent/273922609/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/X-QhFtIVBkL96PQukxsJMaSdsZY/diocontent/273922609/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2026",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "1 saison",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "H",
+     "titleArtImageUrl": "https://images2.persgroep.net/rcs/Ds5lV5smLHnvw3nyDjoNuw_JHGQ/diocontent/263362901/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "93dfa518-3b69-415b-aafd-a5f4dc5eb942",
+     "imageUrl": "https://images0.persgroep.net/rcs/qPlKmPKz7ZTlW1hU8dtLoortEs8/diocontent/250137727/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Dans un hôpital déjanté de Paris, trois employés excentriques enchaînent les mésaventures avec une imprécision chirurgicale.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/Gl92fCLK9nqpIAN7BSyzxv8Yadc/diocontent/250137724/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/iUteI15iwIWLyDcGAfO8yyxcHH4/diocontent/250137724/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/wtxe1cdEACSe-OfUiCYT3OHZAy4/diocontent/250137724/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/vuvDeKwNKm6SACYx6Mlv6a0AUug/diocontent/250137724/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2002",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "4 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Kaamelott",
+     "titleArtImageUrl": "https://images0.persgroep.net/rcs/jyh1Fpng2JPK8kWrijFOfEDBKoI/diocontent/263362176/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0e64d0f3-cdf0-4e97-bbc3-836a7e24916b",
+     "imageUrl": "https://images1.persgroep.net/rcs/B5YAZYSneigjN-AbUUVoLvn_5UA/diocontent/242549629/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Ve siècle, Arthur, élu des dieux, entouré de ses fidèles chevaliers, entreprend une mission d'une importance divine capitale : la quête du Saint-Graal.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/q1qOeIO_EegdMPyVsibXQkOFgTw/diocontent/242549630/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images0.persgroep.net/rcs/a3R5uSkQRr7cWup3c7hP5DnL9KY/diocontent/242549630/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images1.persgroep.net/rcs/0HApQHFKE93qnNgPYyHN77Kqu80/diocontent/242549630/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images2.persgroep.net/rcs/tjyzUJVhdqy_pO3XnstCvTfA8X8/diocontent/242549630/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2008",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "6 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": null
+  },
+  {
+   "rowType": "SWIMLANE_PORTRAIT",
+   "id": "65d3db51-4938-40ae-bf31-55ff05acd5e2",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "Cat's Eyes",
+   "teasers": [
+    {
+     "title": "Cat's Eyes",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "imageUrl": "https://images0.persgroep.net/rcs/0_UKhmzg0ZHF8R4R_Qeh5zN3Id4/diocontent/278163992/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Pour sauver leur père, Tam, Sylia et Alex s’attaquent à un puissant réseau de trafiquants d’art. Du musée d’Orsay au Mont-Saint-Michel, les trois sœurs enchaînent les cambriolages les plus risqués.",
+     "trailerId": null,
+     "heroImageUrl": "https://images1.persgroep.net/rcs/Nh4PAJA-FsFYIuqbKJiMt5wcp44/diocontent/278163995/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images3.persgroep.net/rcs/qD40ezjTy1nKTR0FwbjGcIFWE0w/diocontent/278163995/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/UjYoqg2UAt6OuTkQJx1BMUB_bG4/diocontent/278163995/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/xylevBs20uCY0KIC4TSdIacIQY4/diocontent/278163995/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2025",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": {
+    "type": "SMALL",
+    "backgroundColor": "#000000",
+    "backgroundImageUrl": "https://images4.persgroep.net/rcs/jjhlZueexXHo38ldYOwpxuaYB38/diocontent/278131549/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "logoUrl": "https://images3.persgroep.net/rcs/dWm827qp48REjfkwsFFeVn7luPE/diocontent/278131466/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "logoAltText": "Lancement de la saison 2"
+   }
+  },
+  {
+   "rowType": "SWIMLANE_TOP10",
+   "id": "e9625f27-713f-4472-9b92-59a71e5b8959",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "Top 10 séries",
+   "teasers": [
+    {
+     "title": "Beauty and the Beast",
+     "titleArtImageUrl": "https://images4.persgroep.net/rcs/NxnXaxJAZZBPogOnZ1qLOTyZz6c/diocontent/278175848/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "d00e1935-6940-473f-886c-b4121d3ed4b2",
+     "landscapeImageUrl": "https://images0.persgroep.net/rcs/xtC5CTrJIBKgkdnrg9o-r7zPjV8/diocontent/278175851/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images0.persgroep.net/rcs/uKcvBFf03Cq7uDTwOqyCF0Yppk4/diocontent/278175849/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Elle est détective. Il vit caché depuis dix ans avec un terrible secret : sous la colère, il devient une créature incontrôlable. Liés par un drame du passé, ils traquent la vérité, au risque de succomber à une attirance dangereuse.",
+     "trailerId": null,
+     "heroImageUrl": "https://images0.persgroep.net/rcs/FecZSYuxbcz5Tal4KDVcHjbSzuk/diocontent/278175847/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/lz8MnNR9fOugiXEYrjK8T0NBlqQ/diocontent/278175847/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/F79Tdc6mw1bRp2oKmmGYbzkEjWE/diocontent/278175847/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images1.persgroep.net/rcs/gTU6yrcdsaeCLYesw7JNp6sS1Xo/diocontent/278175847/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2016",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "4 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    },
+    {
+     "title": "Little Fires Everywhere",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/8gRDiNuRiVF7jstxBadxgass3Mc/diocontent/279287227/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "c865e420-6796-44dc-9f72-56f8d6a643fe",
+     "landscapeImageUrl": "https://images2.persgroep.net/rcs/R4Apd2Syr-PFRclBe6uKRHJqVOo/diocontent/279287256/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images3.persgroep.net/rcs/xB7IAEj9NPzSObYIcXR_Y6vWweo/diocontent/279287253/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Tout oppose Mia, artiste indépendante, et Elena, mère irréprochable en apparence. Alors que leurs familles se rapprochent, des secrets du passé éclatent, révélant jusqu’où chacune est prête à aller pour protéger ses enfants.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/Z9J4ggQFRs484ih90JIyvtezUpk/diocontent/279287230/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/1P-zIGfGrSWjsHWsWlERjhaKT0Y/diocontent/279287230/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/ZoXtjt4fhC_Yp2zegsCqNoVWMQI/diocontent/279287230/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/kj7LpnqG9HaIzed3-2ixbaCwYK8/diocontent/279287230/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2020",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "1 saison",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    },
+    {
+     "title": "Cat's Eyes",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "landscapeImageUrl": "https://images3.persgroep.net/rcs/hTcf52npFV2mSRHFGtd2cje27OE/diocontent/278163996/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images0.persgroep.net/rcs/0_UKhmzg0ZHF8R4R_Qeh5zN3Id4/diocontent/278163992/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Pour sauver leur père, Tam, Sylia et Alex s’attaquent à un puissant réseau de trafiquants d’art. Du musée d’Orsay au Mont-Saint-Michel, les trois sœurs enchaînent les cambriolages les plus risqués.",
+     "trailerId": null,
+     "heroImageUrl": "https://images1.persgroep.net/rcs/Nh4PAJA-FsFYIuqbKJiMt5wcp44/diocontent/278163995/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images3.persgroep.net/rcs/qD40ezjTy1nKTR0FwbjGcIFWE0w/diocontent/278163995/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/UjYoqg2UAt6OuTkQJx1BMUB_bG4/diocontent/278163995/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/xylevBs20uCY0KIC4TSdIacIQY4/diocontent/278163995/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2025",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    }
+   ]
+  }
+ ],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null,
+ "metaData": {
+  "requestId": null,
+  "routingGroup": null,
+  "abGroup": null
+ },
+ "referencedOverlays": [],
+ "seoTitle": "Séries sur RTL play: replay en streaming",
+ "seoDescription": "Séries: revoir les programmes RTL play gratuitement en streaming sur RTL play. Retrouvez également des vidéos bonus, des extraits et des bandes-annonces.",
+ "navigationUpsell": null,
+ "navigationNudge": null
+}

@@ -1,0 +1,107 @@
+{
+ "id": 28336,
+ "code": "fury",
+ "title": "Fury",
+ "description": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son équipage vont devoir tout tenter pour frapper l'Allemagne nazie en plein cœur...",
+ "summary": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies.",
+ "year_production": "2014",
+ "year_copyright": "2014",
+ "first_local_air_date": {
+  "date": "2015-09-12 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2026-07-01 00:00:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2026-11-30 23:59:59",
+  "date_start_min": "2026-07-01 00:00:00",
+  "date_start_max": "2026-07-01 00:00:00"
+ },
+ "program_type_wording": {
+  "code": "film",
+  "plural": "films",
+  "gender": "masculine",
+  "id": 5,
+  "singular": "film"
+ },
+ "neustar": {
+  "category": "action"
+ },
+ "csa": {
+  "code": "3",
+  "id": 3,
+  "label": "Interdit aux moins de 12 ans",
+  "sort_index": 12,
+  "icon_name": "Csa12",
+  "age": 12
+ },
+ "service_display": {
+  "code": "m6replay",
+  "id": 1,
+  "priority": 1,
+  "ucid": "2vs9s11h7"
+ },
+ "count": {
+  "vi": 1,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4972235",
+   "role": "logo",
+   "id": 4708264
+  },
+  {
+   "external_key": "4972236",
+   "role": "vignette",
+   "id": 4708265
+  },
+  {
+   "external_key": "4972237",
+   "role": "jumbotron",
+   "id": 4708266
+  },
+  {
+   "external_key": "4972238",
+   "role": "cover",
+   "id": 4708267
+  },
+  {
+   "external_key": "4972240",
+   "role": "portrait",
+   "id": 4708269
+  },
+  {
+   "external_key": "4972243",
+   "role": "box",
+   "id": 4708272
+  }
+ ]
+}

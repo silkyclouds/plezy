@@ -1,0 +1,349 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "42d4c9a8-ce3f-471c-a4ae-490b3ad5a787",
+  "info": null
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "Bates Motel",
+  "imageUrl": "https://images2.persgroep.net/rcs/8ElJ_pxiALxkMmOKBWZbiZ5AloI/diocontent/277391444/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images2.persgroep.net/rcs/PAA7dsCp7Kr6yT8VrpRtqAwpoxo/diocontent/279118187/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images2.persgroep.net/rcs/bcyr4se87mA2kyE-JQhsdIQab9k/diocontent/279118187/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images4.persgroep.net/rcs/buCTg5lO3hHAgpZXvOnL_lEhlg0/diocontent/279118187/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images1.persgroep.net/rcs/BbHUDhFPO57TbTzkJ--o_30mZnM/diocontent/279118187/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images4.persgroep.net/rcs/qwPJuadaDsX6wH12IuFs9FFG7nA/diocontent/279118186/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2017",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "5 saisons",
+   "emphasized": false,
+   "accessibilityLabel": null
+  },
+  {
+   "label": "Thriller",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [],
+ "description": "Norma et son fils pensent pouvoir tout recommencer dans un motel de l’Oregon. Mais leur lien fusionnel et presque incestueux, leurs secrets et les troubles du jeune homme vont transformer leur nouveau départ en cauchemar.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/bates-motel~0fda66b9-e270-4ffd-b4ca-f0687711a7c3?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images4.persgroep.net/rcs/qwPJuadaDsX6wH12IuFs9FFG7nA/diocontent/279118186/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "0fda66b9-e270-4ffd-b4ca-f0687711a7c3",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Thriller",
+      "collectionId": "283a70ac-e403-415a-a4b4-f00db9b3364f"
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "Norma et son fils pensent pouvoir tout recommencer dans un motel de l’Oregon. Mais leur lien fusionnel et presque incestueux, leurs secrets et les troubles du jeune homme vont transformer leur nouveau départ en cauchemar."
+ },
+ "seasonPicker": {
+  "selected": {
+   "episodes": [
+    {
+     "id": "e28a86f0-6f2a-47b6-a5c5-f8cdf9a42a1b",
+     "title": "1. Une morte dans la famille",
+     "description": "Norman et Emma prennent chacun une décision concernant leur avenir. Norma pose des limites à Norman. Une visite inattendue perturbe le nouveau départ de Dylan.",
+     "index": 1,
+     "imageUrl": "https://images0.persgroep.net/rcs/YomozpqVuB2kFZyvZL1W8sN6Zv0/diocontent/277579369/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2467,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "ce67782e-a29c-4eab-a832-2bca8ed502b2",
+     "title": "2. Le Club Arcanum",
+     "description": "Norman et Norma sont obsédés par la disparition d'Annika. Norma découvre la véritable nature du Club Arcanum. Dylan et Caleb font la connaissance d'un nouveau voisin.",
+     "index": 2,
+     "imageUrl": "https://images3.persgroep.net/rcs/tB9fjakPvKufzYvPnN-Rye9kdQo/diocontent/277579399/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2469,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "2492ed26-76ca-4f85-a7a1-0bcea49e53e0",
+     "title": "3. Persuasion",
+     "description": "Norman et Norma s'éloignent tandis que Norman et Emma se rapprochent. Norma hésite lorsque Romero pose des questions difficiles à Norman. Romero rencontre ses concurrents pour sa réélection.",
+     "index": 3,
+     "imageUrl": "https://images1.persgroep.net/rcs/27zP9MWFZ73fEbdtNsDw1RppVqA/diocontent/277579400/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2469,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "e4ba79ec-f7a3-4f0e-8abe-d3f336c6c3b0",
+     "title": "4. Inébranlable",
+     "description": "Norman et Emma prennent congé du motel pendant un jour. Romero enquête sur deux morts mystérieuses à White Pine Bay. Norma retourne à l'école. Des secrets enfouis refont surface pour Caleb et Dylan.",
+     "index": 4,
+     "imageUrl": "https://images1.persgroep.net/rcs/DNsCr-1DXfym76QI4FcuRlxCz_w/diocontent/277579428/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2458,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "40 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "e939cbe4-b1a1-4ecc-9462-674585d07a41",
+     "title": "5. Chantage",
+     "description": "Lorsque Norma se retrouve en position de force, elle demande conseil à Romero. Norman et Dylan sont bouleversés par les conséquences d'un secret. Caleb examine une proposition qui lui est faite par une personne inattendue.",
+     "index": 5,
+     "imageUrl": "https://images3.persgroep.net/rcs/ozYBui2sBGU8N6ZMOBEm5F42Etw/diocontent/277579433/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2442,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "40 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "825d29ff-a3ca-4f2c-8b1e-e2f0de30dfd9",
+     "title": "6. Norma Louise",
+     "description": "Norma envisage de quitter White Pine Bay, laissant Norman dans une situation délicate. Dylan et Emma se rapprochent en aidant Norman à traverser une nuit difficile. Romero est confronté à une nouvelle menace.",
+     "index": 6,
+     "imageUrl": "https://images3.persgroep.net/rcs/F4zMMmLzBGxd3Y3yuK-i0gQktrg/diocontent/277579496/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2470,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "a2d6ec78-b5a7-4609-84f4-aec8b5752390",
+     "title": "7. Une minute d'éternité",
+     "description": "Norma rentre chez elle et découvre un véritable désastre. Norman accepte de se faire aider. Dylan, quant à lui, apprend une nouvelle bouleversante concernant la santé d'Emma.",
+     "index": 7,
+     "imageUrl": "https://images0.persgroep.net/rcs/wJsVMUTSy-ZmohGMR6NnXvwTvWI/diocontent/277579497/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2471,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "8586c2b1-254a-4b09-9ad3-60306300740d",
+     "title": "8. Au bord du précipice",
+     "description": "Romero confronte Norma, tandis que Norman est sous le choc d'une découverte récente. Caleb et Dylan acceptent un emploi comportant des risques et Emma prend une décision concernant son avenir avec Norman.",
+     "index": 8,
+     "imageUrl": "https://images0.persgroep.net/rcs/10z3Fzj7YyY0ndxZv98b87VdcQo/diocontent/277579515/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2467,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "09f31288-66d2-4e2d-85bf-3d3f8b856df4",
+     "title": "9. Delirium",
+     "description": "Norman passe la journée avec un visiteur inattendu. Norma a du mal à garder ses secrets. À la ferme, Caleb aide Dylan à accomplir une bonne action, mais à quel prix…",
+     "index": 9,
+     "imageUrl": "https://images2.persgroep.net/rcs/jQWw4i5dnNwwm4ihTGZ9Ka-yPnI/diocontent/277579578/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2388,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "39 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "957866e9-e46b-4100-9bbe-8c60aff0e6bf",
+     "title": "10. Inconscience",
+     "description": "Norma est poussée à bout face aux problèmes de Norman. Emma a une réaction surprenante face à l'annonce d'une bonne nouvelle. Romero choisit enfin son camp, une décision qui scellera son destin dans la ville.",
+     "index": 10,
+     "imageUrl": "https://images0.persgroep.net/rcs/cJ1qj3cWRWyNNPfmQt4D6ORy1yg/diocontent/277579577/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2494,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "41 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    }
+   ],
+   "index": 3,
+   "duplicateContentBanner": null
+  },
+  "indices": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "durationSeconds": null,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "Scream Queens",
+    "detailId": "c82a36a0-b3eb-4640-8d1e-eb1ea4c27a0a",
+    "imageUrl": "https://images2.persgroep.net/rcs/FtfBEgpPE-nd5DD9-45U3mZNWQc/diocontent/278667302/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214277"
+   },
+   {
+    "title": "Dead of Summer - un été maudit",
+    "detailId": "e53c5f7c-dd2a-421b-98f8-a801e3532bcb",
+    "imageUrl": "https://images2.persgroep.net/rcs/ahcgWhxDEjPHJBcQlIuOGTDh9Is/diocontent/276646675/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "A Teacher",
+    "detailId": "c7b6ba72-bb3a-4cdd-931c-63b938a52b91",
+    "imageUrl": "https://images1.persgroep.net/rcs/BJjHQ20kavxSQlbBMo0OY1bYsK8/diocontent/278795779/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La maison au bout de la rue",
+    "detailId": "dbb0dc97-8ffe-493b-9689-91e418c95272",
+    "imageUrl": "https://images1.persgroep.net/rcs/OmrVUY_6uNb0y7XheNyOzSVFcvE/diocontent/277390998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Queen of the South - Naissance d'une reine",
+    "detailId": "dd57fd8a-d54f-4949-a2b2-ea15c3866f27",
+    "imageUrl": "https://images0.persgroep.net/rcs/xbHqMknfdAuOfH8WrRbRwJJMGxg/diocontent/277133598/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Two Summers",
+    "detailId": "e6276d61-acc5-43cf-a05d-bf35fd0c81ac",
+    "imageUrl": "https://images1.persgroep.net/rcs/5gvHxSDMeVxOLNV7Ej7iU4tbxDs/diocontent/248636998/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "e2da4e55-5710-495e-9ce3-34fb66d4aa8c",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}

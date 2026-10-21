@@ -1,0 +1,140 @@
+{
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/rts/showList/tv/alphabetical?pageSize=100&next=1",
+ "showList": [
+  {
+   "id": "5917099",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:5917099",
+   "title": "120 secondes",
+   "description": "Tous les épisodes de la chronique humoristique de Vincent Veillon et Vincent Kucholl.",
+   "imageUrl": "https://img.rts.ch/articles/2024/image/um735n-25886485.image/16x9",
+   "imageTitle": "120 secondes",
+   "bannerImageUrl": "https://img.rts.ch/articles/2024/image/um735n-25886485.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/articles/2024/image/acm08b-25865764.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "primaryChannelId": "8ceb28d9b3f1dd876d1df1780f908578cbefc3d7",
+   "primaryChannelUrn": "urn:rts:channel:radio:8ceb28d9b3f1dd876d1df1780f908578cbefc3d7",
+   "numberOfEpisodes": 342,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "allowIndexing": true
+  },
+  {
+   "id": "548307",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:548307",
+   "title": "12h45",
+   "description": "12h45 – Le téléjournal de midi de la RTS. Chaque édition résume et met en contexte l’actualité suisse et internationale, avec des reportages, des sujets de société, économie ou politique, et des",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/w2wogi-29275982.image/16x9",
+   "imageTitle": "12h45",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/w2wogi-29275982.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/6n65t2-29275983.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 8104,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "665",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:665",
+     "title": "Info et Société",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/3p9z1p-28403265.image",
+     "imageTitle": "Info et Société"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "105932",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:105932",
+   "title": "19h30",
+   "description": "19h30 – Le téléjournal du soir de la RTS. Chaque édition résume l’actualité suisse et internationale, avec des reportages de terrain, des analyses et du décryptage pour comprendre les faits et leur",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/9u2s8e-28862907.image/16x9",
+   "imageTitle": "19h30",
+   "bannerImageUrl": "https://img.rts.ch/medias/2025/image/9u2s8e-28862907.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/ni3wsa-29275984.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 8540,
+   "availableAudioLanguageList": [
+    {
+     "locale": "fr",
+     "language": "Français"
+    }
+   ],
+   "availableVideoQualityList": [
+    "HD",
+    "SD"
+   ],
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": true,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "665",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:665",
+     "title": "Info et Société",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/3p9z1p-28403265.image",
+     "imageTitle": "Info et Société"
+    },
+    {
+     "id": "10193",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:10193",
+     "title": "Les archives",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/ftr0r6-28403261.image",
+     "imageTitle": "Les archives"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "1799072",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:1799072",
+   "title": "19h30 - Signé",
+   "lead": "Le journal signé.",
+   "imageUrl": "https://img.rts.ch/articles/2024/image/hrfqq0-28610148.image/16x9",
+   "imageTitle": "19h30 - Signé",
+   "bannerImageUrl": "https://img.rts.ch/articles/2024/image/hrfqq0-28610148.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/articles/2024/image/4xz2mx-28693865.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 4399,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "665",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:665",
+     "title": "Info et Société",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/3p9z1p-28403265.image",
+     "imageTitle": "Info et Société"
+    },
+    {
+     "id": "59220",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:59220",
+     "title": "Émissions signées",
+     "imageUrl": "https://img.rts.ch/articles/2024/image/hcr2oj-28408891.image",
+     "imageTitle": "Émissions signées"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

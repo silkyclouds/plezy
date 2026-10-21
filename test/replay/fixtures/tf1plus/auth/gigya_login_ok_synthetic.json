@@ -1,0 +1,9 @@
+{
+  "errorCode": 0,
+  "statusCode": 200,
+  "statusReason": "OK",
+  "apiVersion": 2,
+  "UID": "synthetic-uid-0001",
+  "UIDSignature": "synthetic-signature",
+  "signatureTimestamp": "1700000000"
+}

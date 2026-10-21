@@ -1,0 +1,381 @@
+{
+ "data": {
+  "programs": {
+   "total": 506,
+   "items": [
+    {
+     "id": "5874bb3b-9fba-4ac9-9d27-86c2a10708de",
+     "slug": "demain-nous-appartient",
+     "name": "Demain nous appartient",
+     "isFullyDigital": false,
+     "editor": "mytf1",
+     "mainChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "initialChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "categories": [
+      {
+       "id": "GT_SERIES_AND_FICTIONS",
+       "label": "Séries & Fictions",
+       "main": true,
+       "slug": "series-et-fictions",
+       "type": "MAIN_SERIES_AND_FICTIONS"
+      },
+      {
+       "id": "SGT_SERIES",
+       "label": "Séries",
+       "main": false,
+       "slug": "series",
+       "type": "SUB_SERIES"
+      }
+     ],
+     "decoration": {
+      "image": {
+       "id": "program-card-portrait-3-383bbe",
+       "type": "PORTRAIT",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/700/933/program-card-portrait-3-383bbe-11cb7e-0@1x.jpg",
+         "width": "700",
+         "height": "933",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/350/466/program-card-portrait-3-383bbe-0ce2e9-0@1x.jpg",
+         "width": "350",
+         "height": "466",
+         "type": "jpg"
+        }
+       ]
+      },
+      "background": {
+       "id": "background-ott-b21716",
+       "type": "BACKGROUND",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/1920/1080/background-ott-b21716-1737ff-0@1x.jpg",
+         "width": "1920",
+         "height": "1080",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/960/540/background-ott-b21716-245025-0@1x.jpg",
+         "width": "960",
+         "height": "540",
+         "type": "jpg"
+        }
+       ]
+      },
+      "description": "À Sète, Halloween vire au cauchemar lorsqu'Alex et Judith découvrent un faux cadavre pendu sur leur terrasse. À l'origine de cette macabre plaisanterie, un groupe d'adolescents en quête de sensations fortes, parmi lesquels Marceau, le fils d'Erica. Mais la situation bascule lorsque le jeune homme pense découvrir un véritable corps dans une maison abandonnée. Ce qui n'était au départ qu'une mauvaise blague se transforme alors en une affaire criminelle aux conséquences bien réelles.",
+      "thumbnail": {
+       "id": "program-card-landscape-fc50ca",
+       "sources": []
+      },
+      "logo": {
+       "id": "logo-programme-7b2f8c",
+       "sources": []
+      }
+     },
+     "replay": {
+      "total": 2325
+     },
+     "replayRecent": {
+      "total": 3
+     },
+     "allVideos": {
+      "total": 5294
+     },
+     "allVideosRecent": {
+      "total": 3
+     },
+     "releaseYear": ""
+    },
+    {
+     "id": "3e5a76b8-4cbd-4e4c-5cd6-407ee391bf2e",
+     "slug": "cats-eyes",
+     "name": "Cat's Eyes",
+     "isFullyDigital": true,
+     "editor": "mytf1",
+     "mainChannel": {
+      "id": "d005401e-a079-4e13-878f-b6576387fc50",
+      "slug": "tf1-plus",
+      "label": "TF1+"
+     },
+     "initialChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "categories": [
+      {
+       "id": "GT_SERIES_AND_FICTIONS",
+       "label": "Séries & Fictions",
+       "main": true,
+       "slug": "series-et-fictions",
+       "type": "MAIN_SERIES_AND_FICTIONS"
+      },
+      {
+       "id": "SGT_FRENCH_FICTION",
+       "label": "Fictions françaises",
+       "main": false,
+       "slug": "fictions-francaises",
+       "type": "SUB_FRENCH_FICTION"
+      }
+     ],
+     "decoration": {
+      "image": {
+       "id": "program-card-portrait-1-cats-eyes-s2-keyart-jpg-4d2260",
+       "type": "PORTRAIT",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/700/933/program-card-portrait-1-cats-eyes-s2-keyart-jpg-4d2260-0d3494-0@1x.jpg",
+         "width": "700",
+         "height": "933",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/350/466/program-card-portrait-1-cats-eyes-s2-keyart-jpg-4d2260-8f2516-0@1x.jpg",
+         "width": "350",
+         "height": "466",
+         "type": "jpg"
+        }
+       ]
+      },
+      "background": {
+       "id": "background-ott-cats-eyes-s2-keyart-jpg-09c032",
+       "type": "BACKGROUND",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/1920/1080/background-ott-cats-eyes-s2-keyart-jpg-09c032-ee9633-0@1x.jpg",
+         "width": "1920",
+         "height": "1080",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/960/540/background-ott-cats-eyes-s2-keyart-jpg-09c032-44d160-0@1x.jpg",
+         "width": "960",
+         "height": "540",
+         "type": "jpg"
+        }
+       ]
+      },
+      "description": "Tamara, Sylia et Alexia, trois sœurs séparées depuis longtemps, se réunissent à Paris en 2024. Elles décident de voler une œuvre de leur père disparu, exposée à la Tour Eiffel, pour élucider le mystère de sa mort. Poursuivies par le capitaine Quentin Chapuis, elles jonglent entre leur vie quotidienne et leurs activités clandestines, tout en affrontant des défis émotionnels et dangereux.",
+      "thumbnail": {
+       "id": "program-card-landscape-cats-eyes-s2-keyart-jpg-a27b7a",
+       "sources": []
+      },
+      "logo": {
+       "id": "logo-programme-cats-eyes-s2-keyart-png-1-1-0cff9f",
+       "sources": []
+      }
+     },
+     "replay": {
+      "total": 14
+     },
+     "replayRecent": {
+      "total": 2
+     },
+     "allVideos": {
+      "total": 28
+     },
+     "allVideosRecent": {
+      "total": 2
+     },
+     "releaseYear": ""
+    },
+    {
+     "id": "b0e1c6df-14a4-4a14-76b9-b65dc490c369",
+     "slug": "ici-tout-commence",
+     "name": "Ici tout commence",
+     "isFullyDigital": false,
+     "editor": "mytf1",
+     "mainChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "initialChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "categories": [
+      {
+       "id": "GT_SERIES_AND_FICTIONS",
+       "label": "Séries & Fictions",
+       "main": true,
+       "slug": "series-et-fictions",
+       "type": "MAIN_SERIES_AND_FICTIONS"
+      },
+      {
+       "id": "SGT_SERIES",
+       "label": "Séries",
+       "main": false,
+       "slug": "series",
+       "type": "SUB_SERIES"
+      }
+     ],
+     "decoration": {
+      "image": {
+       "id": "program-card-portrait_itc-2026-6f5fc3",
+       "type": "PORTRAIT",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/700/933/program-card-portrait_itc-2026-6f5fc3-37bafe-0@1x.jpg",
+         "width": "700",
+         "height": "933",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/350/466/program-card-portrait_itc-2026-6f5fc3-8e6335-0@1x.jpg",
+         "width": "350",
+         "height": "466",
+         "type": "jpg"
+        }
+       ]
+      },
+      "background": {
+       "id": "cover-hp-ott-coline_calin-a6345f",
+       "type": "BACKGROUND",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/1920/1080/cover-hp-ott-coline_calin-a6345f-7c9ebf-0@1x.jpg",
+         "width": "1920",
+         "height": "1080",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/960/540/cover-hp-ott-coline_calin-a6345f-eea716-0@1x.jpg",
+         "width": "960",
+         "height": "540",
+         "type": "jpg"
+        }
+       ]
+      },
+      "description": "Entre les difficultés de la ferme familiale, la pression de l'Institut et les doutes qui la rongent, Coline peine de plus en plus à garder le contrôle sur une vie qui lui échappe. Alors qu'elle pensait trouver au Coffee Shop une parenthèse pour souffler, une soirée va pourtant tout faire basculer. Le lendemain, elle se réveille sans le moindre souvenir de la nuit précédente. Des crises de panique surgissent, des sensations lui échappent, et une terrible intuition s'installe : quelque chose s'est passé.",
+      "thumbnail": {
+       "id": "flux-program-card-landscape-f92691-152376",
+       "sources": []
+      },
+      "logo": {
+       "id": "logo-programme-9cbf5c",
+       "sources": []
+      }
+     },
+     "replay": {
+      "total": 1554
+     },
+     "replayRecent": {
+      "total": 3
+     },
+     "allVideos": {
+      "total": 2607
+     },
+     "allVideosRecent": {
+      "total": 3
+     },
+     "releaseYear": ""
+    },
+    {
+     "id": "46185460-8c5c-483e-554b-76364571c3bf",
+     "slug": "plus-belle-la-vie",
+     "name": "Plus belle la vie, encore plus belle",
+     "isFullyDigital": false,
+     "editor": "mytf1",
+     "mainChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "initialChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1",
+      "label": "TF1"
+     },
+     "categories": [
+      {
+       "id": "GT_SERIES_AND_FICTIONS",
+       "label": "Séries & Fictions",
+       "main": true,
+       "slug": "series-et-fictions",
+       "type": "MAIN_SERIES_AND_FICTIONS"
+      },
+      {
+       "id": "SGT_SERIES",
+       "label": "Séries",
+       "main": false,
+       "slug": "series",
+       "type": "SUB_SERIES"
+      }
+     ],
+     "decoration": {
+      "image": {
+       "id": "program-card-portrait-1-png-1a22bd",
+       "type": "PORTRAIT",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/700/933/program-card-portrait-1-png-1a22bd-ded2aa-0@1x.jpg",
+         "width": "700",
+         "height": "933",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/350/466/program-card-portrait-1-png-1a22bd-9941be-0@1x.jpg",
+         "width": "350",
+         "height": "466",
+         "type": "jpg"
+        }
+       ]
+      },
+      "background": {
+       "id": "background-ott-jpg-5a59b3",
+       "type": "BACKGROUND",
+       "sources": [
+        {
+         "url": "https://photos.tf1.fr/1920/1080/background-ott-jpg-5a59b3-ca6a95-0@1x.jpg",
+         "width": "1920",
+         "height": "1080",
+         "type": "jpg"
+        },
+        {
+         "url": "https://photos.tf1.fr/960/540/background-ott-jpg-5a59b3-cadda8-0@1x.jpg",
+         "width": "960",
+         "height": "540",
+         "type": "jpg"
+        }
+       ]
+      },
+      "description": "Après l'agression de Chris, Emma, fraîchement nommée à la tête de la SCOP, découvre les tensions qui règnent au sein de l'usine. Lorsqu'un drame bouleverse l'équipe, elle décide de mener sa propre enquête avec Chloé. Mais leurs recherches vont faire ressurgir de lourds secrets et mettre plusieurs personnes en danger. Alors que l'avenir de la SCOP est menacé, Emma et Chloé vont devoir aller jusqu'au bout pour comprendre ce qui s'est réellement passé.",
+      "thumbnail": {
+       "id": "flux-program-card-landscape-jpg-53d86b-5196b7",
+       "sources": []
+      },
+      "logo": {
+       "id": "logo-programme-png-1-fb2a1e",
+       "sources": []
+      }
+     },
+     "replay": {
+      "total": 698
+     },
+     "replayRecent": {
+      "total": 3
+     },
+     "allVideos": {
+      "total": 1982
+     },
+     "allVideosRecent": {
+      "total": 3
+     },
+     "releaseYear": ""
+    }
+   ]
+  }
+ }
+}

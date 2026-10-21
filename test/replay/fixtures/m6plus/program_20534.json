@@ -1,0 +1,107 @@
+{
+ "id": 20534,
+ "code": "jamie-oliver-repas-simples-pour-tous-les-jour",
+ "title": "Jamie Oliver : repas simples pour tous les jours",
+ "description": "Jamie Oliver nous accueille dans sa maison de l'Essex, en Angleterre. Pour notre plus grand plaisir, il utilise des ingrédients connus et aimés de tous pour concocter de nouveaux repas simples et abordables qui régaleront toute la famille au quotidien.",
+ "summary": "Jamie Oliver nous accueille dans sa maison de l'Essex, en Angleterre. Pour notre plus grand plaisir, il utilise des ingrédients connus et aimés de tous pour concocter de nouveaux repas simples et abordables qui régaleront toute la famille au quotidien.",
+ "year_production": "2020",
+ "year_copyright": "2020",
+ "first_local_air_date": {
+  "date": "2021-09-26 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2025-04-09 13:00:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2027-06-30 23:00:00",
+  "date_start_min": "2025-04-09 13:00:00",
+  "date_start_max": "2025-04-09 13:00:00"
+ },
+ "program_type_wording": {
+  "code": "documentaire",
+  "plural": "documentaires",
+  "gender": "masculine",
+  "id": 10,
+  "singular": "documentaire"
+ },
+ "neustar": {
+  "category": "documentaire"
+ },
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "parispremierereplay",
+  "id": 3,
+  "priority": 9,
+  "ucid": "j8s6skkh7"
+ },
+ "count": {
+  "vi": 24,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4243190",
+   "role": "vignette",
+   "id": 3986870
+  },
+  {
+   "external_key": "4243191",
+   "role": "mea",
+   "id": 3986871
+  },
+  {
+   "external_key": "4243193",
+   "role": "logo",
+   "id": 3986873
+  },
+  {
+   "external_key": "4243194",
+   "role": "cover",
+   "id": 3986874
+  },
+  {
+   "external_key": "4243195",
+   "role": "portrait",
+   "id": 3986875
+  },
+  {
+   "external_key": "4243191",
+   "role": "jumbotron",
+   "id": 3986871
+  }
+ ]
+}

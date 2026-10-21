@@ -1,0 +1,48 @@
+{
+ "accountId": "ANONYMOUS",
+ "assetId": "3541035_6BA97Bb",
+ "audioOnly": true,
+ "bookmarks": {},
+ "cdn": {
+  "profile": "rtbf-generic-azure_westeurope",
+  "host": "primary",
+  "provider": "FASTLY"
+ },
+ "concurrentSessionsCount": 0,
+ "contractRestrictions": {
+  "airplayEnabled": true,
+  "ffEnabled": true,
+  "rwEnabled": true,
+  "timeshiftEnabled": true
+ },
+ "deviceId": "<redacted>",
+ "deviceType": "WEB",
+ "durationInMs": 235965000,
+ "durationInMilliseconds": 235965,
+ "formats": [
+  {
+   "format": "MP3",
+   "mediaLocator": "https://C9851Ec-az-westeurope-fsly.cdn.redbee.live/aod/rtbf/auvio/assets/3541035_6BA97Bb/materials/YTM3kdkXQa_6BA97Bb/uploads/c21-easy-eco_chronique_economique_168690559.mp3"
+  }
+ ],
+ "materialId": "YTM3kdkXQa_6BA97Bb",
+ "materialVersion": 1,
+ "materialProfile": "default",
+ "markerCuePoints": [],
+ "playSessionId": "<redacted>",
+ "playTokenExpiration": 1792655254,
+ "playTokenExpirationReason": "MAX_TIME",
+ "productId": "anonymous_product_6BA97Bb",
+ "publicationId": "3541035_world_6BA97Bb",
+ "sprites": [],
+ "streamInfo": {
+  "static": true,
+  "live": false,
+  "event": false,
+  "persistent": false,
+  "ssai": false
+ },
+ "requestId": "<redacted>",
+ "userId": "<redacted>",
+ "entitleExposure": true
+}

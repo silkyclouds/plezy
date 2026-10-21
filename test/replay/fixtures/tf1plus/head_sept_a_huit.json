@@ -1,0 +1,220 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+   "slug": "sept-a-huit",
+   "name": "Sept à huit",
+   "isFullyDigital": false,
+   "editor": "lci",
+   "mainChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "initialChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "categories": [
+    {
+     "id": "GT_INFOS_MAG_AND_SPORT",
+     "label": "Infos, Mag & Sport",
+     "main": true,
+     "slug": "infos-mag-et-sport",
+     "type": "MAIN_INFOS_MAGAZINE_SPORTS"
+    },
+    {
+     "id": "SGT_MAG_INFOS",
+     "label": "Magazine d'info",
+     "main": false,
+     "slug": "mag-info",
+     "type": "SUB_MAGAZINE_INFOS"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "flux-program-card-portrait-1-ef81e8-2576ce",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/flux-program-card-portrait-1-ef81e8-2576ce-63e706-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/flux-program-card-portrait-1-ef81e8-2576ce-dc218c-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "merged-cover-showpage-f7ed23-4e923c",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/merged-cover-showpage-f7ed23-4e923c-e75e16-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/merged-cover-showpage-f7ed23-4e923c-69abfd-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 201
+   },
+   "replayRecent": {
+    "total": 0
+   },
+   "allVideos": {
+    "total": 249
+   },
+   "allVideosRecent": {
+    "total": 0
+   },
+   "videos": {
+    "total": 201,
+    "items": [
+     {
+      "id": "14936dfe-ef20-415c-8ab3-5e761a97da66",
+      "slug": "sept-a-huit-du-dimanche-18-octobre-2026-37890063",
+      "type": "REPLAY",
+      "rating": "CSA_ALL",
+      "date": "2026-10-18T16:21:55Z",
+      "episode": 8,
+      "season": 27,
+      "authEnabled": true,
+      "published": "2026-10-18T16:21:55Z",
+      "url": "https://www.tf1.fr/tf1/sept-a-huit/videos/sept-a-huit-du-dimanche-18-octobre-2026-37890063.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 4213,
+       "remainingDays": 1048,
+       "freeRemainingDays": 1048
+      },
+      "decoration": {
+       "description": "Retrouvez l'intégralité de Sept à Huit, magazine de l'information présenté par Harry Roselmack tous les dimanches soir.",
+       "hook": "",
+       "label": "Sept à huit du dimanche 18 octobre 2026",
+       "programLabel": "Sept à huit",
+       "subLabel": "du dimanche 18 octobre 2026 à 18h21",
+       "images": [
+        {
+         "id": "preview_14936dfe-ef20-415c-8ab3-5e761a97da66",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/4e9d06813f878e224f0fe57f5a76fb7e93f4e2032a452b94b60be2853c368077.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "sept-a-huit-du-dimanche-18-octobre-2026",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/sept-a-huit-du-dimanche-18-octobre-2026-660d01-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/sept-a-huit-du-dimanche-18-octobre-2026-6e41b4-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "sept-a-huit-du-dimanche-18-octobre-2026",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/sept-a-huit-du-dimanche-18-octobre-2026-dd015a-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/sept-a-huit-du-dimanche-18-octobre-2026-1276d6-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "a4335378-e5fd-4d29-b505-aadcd983366a",
+       "slug": "sept-a-huit",
+       "name": "Sept à huit",
+       "editor": "lci",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "label": "TF1",
+        "slug": "tf1"
+       },
+       "categories": [
+        {
+         "id": "GT_INFOS_MAG_AND_SPORT",
+         "main": true,
+         "slug": "infos-mag-et-sport"
+        },
+        {
+         "id": "SGT_MAG_INFOS",
+         "main": false,
+         "slug": "mag-info"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-7-a-8-bf1904",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-7-a-8-bf1904-e34c7a-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-7-a-8-bf1904-f6352e-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+[
+ {
+  "id": "clip_13187584",
+  "type": "vi",
+  "title": "Fury",
+  "description": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son",
+  "duration": 7484,
+  "publication_date": "2026-07-01 00:00:00",
+  "csa": {
+   "code": "3",
+   "id": 3,
+   "label": "Interdit aux moins de 12 ans",
+   "sort_index": 12,
+   "icon_name": "Csa12",
+   "age": 12
+  },
+  "freemium_packs": [],
+  "freemium_products": [],
+  "program": {
+   "id": 28336,
+   "code": "fury",
+   "title": "Fury"
+  },
+  "images": [
+   {
+    "external_key": "4972425",
+    "role": "vignette",
+    "id": 4708431
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 7484,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a97946db2be703f81c20a68e12c98ffc1ea5c6/static/13187584_5f28e3195ece7071cca5b26c32b466fa_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792605004&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 7484,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a97946db2be703f81c20a68e12c98ffc1ea5c6/static/13187584_33760799710737b6da7de44aefc61b73_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792605004&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": 7254,
+    "product": {
+     "season": null,
+     "episode": null,
+     "season_title": null,
+     "season_id": null,
+     "part_number": null,
+     "first_local_air_date": "2015-09-12 00:00:00",
+     "summary": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d'un tank Sherman, le sergent Wardaddy et ses quatre hommes s'engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son"
+    }
+   }
+  ]
+ }
+]

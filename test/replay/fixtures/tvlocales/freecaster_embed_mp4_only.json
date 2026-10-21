@@ -1,0 +1,99 @@
+{
+ "video": {
+  "live": false,
+  "thumbnails": {
+   "src": "https://tvlocales-vod-cmaf.freecaster.com/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS_thumbs.vtt"
+  },
+  "player_config": {
+   "forward": true
+  },
+  "polling_delay": 15000,
+  "fc_ui": {
+   "order": [
+    "play",
+    "pause",
+    "loop",
+    "rewind",
+    "forward",
+    "timeline",
+    "nextVideo",
+    "live",
+    "elapsed",
+    "duration",
+    "volume",
+    "captions",
+    "transcript",
+    "audioDescription",
+    "audiotracks",
+    "quality",
+    "speed",
+    "fullscreen"
+   ]
+  },
+  "subtitles": {
+   "native": true
+  },
+  "realtime": {
+   "enabled": false
+  },
+  "src": [
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS_3.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS_5.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS_9.mp4"
+   },
+   {
+    "type": "video/mp4",
+    "src": "https://tvlocales-vod.freecaster.com/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS_11.mp4"
+   }
+  ],
+  "poster": "https://tvlocales-posters.freecaster.com/videos/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS/1920x1080.jpg",
+  "poster_template": "https://tvlocales-posters.freecaster.com/videos/telemb/a30728c1-8f75-4470-8c04-ff1008c4a6ea/C3UteH5DqyJ3fYhBkGVJ1WyS/%{SIZE}.jpg",
+  "poster_renditions": [
+   {
+    "width": 320,
+    "height": 180,
+    "size": "320x180"
+   },
+   {
+    "width": 426,
+    "height": 240,
+    "size": "426x240"
+   },
+   {
+    "width": 640,
+    "height": 360,
+    "size": "640x360"
+   },
+   {
+    "width": 854,
+    "height": 480,
+    "size": "854x480"
+   },
+   {
+    "width": 1280,
+    "height": 720,
+    "size": "1280x720"
+   },
+   {
+    "width": 1920,
+    "height": 1080,
+    "size": "1920x1080"
+   }
+  ],
+  "title": "AVC-TMB-106193",
+  "duration": 1175.701,
+  "ratio": "16:9",
+  "video_id": "a30728c1-5ff5-4435-a10b-0f0454743de2",
+  "version_id": "a30728c1-8f75-4470-8c04-ff1008c4a6ea",
+  "published_at": "2026-10-20T15:53:53.000000Z",
+  "description": ""
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "Les Anges",
+    "subLabel": "869 Épisodes",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/ep40_background-tv-jpg-d54244-7132d6-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-2828c9-b11dde-0@1x.png"
+      }
+     ]
+    },
+    "description": "D'anciens candidats de téléréalité se réunissent dans une villa à l'étranger pour percer dans leur domaine professionnel. Guidés par Fabrice Sopoglian, le parrain des Anges, ils profitent de ses contacts pour réaliser leurs ambitions. Chaque saison, une nouvelle ville mythique sert de décor à leur quête de succès.",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/new_program-card-portrait-1-8c5dbb-c258b2-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Dernière soirée à Miami ",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-2828c9-b11dde-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/ep40_background-tv-jpg-d54244-7132d6-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": true,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Émission",
+   "mainChannel": {
+    "label": "TF1+",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo_tf1_plus-5ee652-2c13dc-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Téléréalité",
+    "Voyage"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": false,
+   "editorialSections": [
+    {
+     "slug": "les-aventures-des-anges",
+     "decoration": {
+      "label": "Les aventures des anges",
+      "description": null
+     },
+     "id": "38366c99df446563",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "episodes",
+     "decoration": {
+      "label": "Episodes",
+      "description": null
+     },
+     "id": "899c7f554c392458",
+     "__typename": "MainContentSection",
+     "lists": [
+      {
+       "id": "b94a165cd8530320",
+       "slug": "miami",
+       "total": 40,
+       "decoration": {
+        "label": "Miami",
+        "subLabel": "40 épisodes"
+       }
+      },
+      {
+       "id": "61c40f4139dfabcd",
+       "slug": "asian-dream",
+       "total": 111,
+       "decoration": {
+        "label": "Asian dream",
+        "subLabel": "111 épisodes"
+       }
+      },
+      {
+       "id": "45df3c3d58d764fc",
+       "slug": "back-to-miami",
+       "total": 116,
+       "decoration": {
+        "label": "Back to Miami",
+        "subLabel": "116 épisodes"
+       }
+      }
+     ]
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "eaaf6f4ca86a801c",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "D'anciens candidats de téléréalité se réunissent dans une villa à l'étranger pour percer dans leur domaine professionnel. Guidés par Fabrice Sopoglian, le parrain des Anges, ils profitent de ses contacts pour réaliser leurs ambitions. Chaque saison, une nouvelle ville mythique sert de décor à leur quête de succès."
+     },
+     "id": "914434f0ba1ea4a2",
+     "__typename": "ProgramInfoSection",
+     "actors": [],
+     "directors": [],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    }
+   ]
+  }
+ }
+}

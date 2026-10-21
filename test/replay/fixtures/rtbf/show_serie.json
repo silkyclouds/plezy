@@ -1,0 +1,176 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "Ghosts - Série en streaming gratuit sur RTBF Auvio",
+   "description": "Un groupe de fantômes réside, dans leur vie de l'au-délà, dans un manoir en ruine nommé Button Hall.",
+   "canonical": "https://auvio.rtbf.be/emission/ghosts-32284",
+   "image": {
+    "url": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg",
+    "width": "1920",
+    "height": "1080"
+   }
+  },
+  "gemius": {
+   "lan": "FR",
+   "free": "",
+   "key": "home",
+   "subs": "auvio/emission/ghosts-32284"
+  },
+  "chartbeat": {
+   "section": "Comédie",
+   "author": "Ghosts"
+  },
+  "aipBlender": null,
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/emission/ghosts-32284",
+  "onePlusX": {
+   "category_lvl1": "Séries",
+   "category_lvl2": "Comédie",
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Séries",
+   "category_level_2": "Comédie",
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Séries",
+    "item": "https://auvio.rtbf.be/categorie/series-35"
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Comédie",
+    "item": "https://auvio.rtbf.be/categorie/comedie-106"
+   },
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "name": "Ghosts",
+    "item": "https://auvio.rtbf.be/emission/ghosts-32284"
+   }
+  ]
+ },
+ "data": {
+  "id": "6627",
+  "pageType": "PROGRAM",
+  "content": {
+   "pageType": "PROGRAM",
+   "title": "Ghosts",
+   "id": "32284",
+   "type": "SERIE",
+   "description": "Un groupe de fantômes réside, dans leur vie de l'au-délà, dans un manoir en ruine nommé Button Hall. La cohabitation est difficile entre eux mais cela va se compliquer quand un jeune couple, Alison et Mike, hérite du manoir et décide de le transformer en hôtel.\n ",
+   "videoCount": 34,
+   "seasonCount": 5,
+   "background": {
+    "xs": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg",
+    "s": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg",
+    "m": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg",
+    "l": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg",
+    "xl": "https://static-content.rtbf.be/media/program/background/f8958199ad455b1e797af1b72503a794.jpg"
+   },
+   "logo": null,
+   "logoPartner": null,
+   "additionalLinks": [
+    {
+     "label": "Extraits & bonus",
+     "path": "/emission/ghosts-32284/bonus",
+     "icon": "bonus"
+    }
+   ],
+   "channel": null,
+   "category": {
+    "resourceType": "CATEGORY",
+    "id": "106",
+    "label": "Comédie",
+    "path": "/categorie/comedie-106",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://ds1.static.rtbf.be/default/image/180x100/default-auvio_0.jpg",
+     "s": "https://ds1.static.rtbf.be/default/image/370x208/default-auvio_0.jpg",
+     "m": "https://ds1.static.rtbf.be/default/image/770x433/default-auvio_0.jpg",
+     "l": "https://ds1.static.rtbf.be/default/image/1248x702/default-auvio_0.jpg",
+     "xl": "https://ds1.static.rtbf.be/default/image/1920x1080/default-auvio_0.jpg"
+    },
+    "logo": null
+   },
+   "media": {
+    "resourceType": "MEDIA",
+    "id": "3507953",
+    "programId": "",
+    "assetId": "3507953_6BA97Bb",
+    "path": "/media/ghosts-ghosts-s01-3507953",
+    "embedPath": "/embed/generic/content/media/3507953",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Ghosts S01",
+    "subtitle": "01 - L'héritage",
+    "description": "Alison et Mike, un couple aux revenus modestes, croient voir leur rêve devenir réalité lorsqu'ils héritent d'un grand manoir à la campagne, sans savoir que celui-ci tombe en ruine et qu'il est peuplé par les fantômes de ses anciens habitants.",
+    "publishedFrom": "2026-10-14T05:55:00+02:00",
+    "publishedTo": "2027-02-28T23:55:00+01:00",
+    "releaseDate": "14/10/26",
+    "duration": 1751,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/1/a/4/1a4a1bdb682c5334c2691458d68a0b45.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/1/a/4/1a4a1bdb682c5334c2691458d68a0b45.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/1/a/4/1a4a1bdb682c5334c2691458d68a0b45.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/1/a/4/1a4a1bdb682c5334c2691458d68a0b45.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/1/a/4/1a4a1bdb682c5334c2691458d68a0b45.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "",
+    "products": []
+   },
+   "live": null
+  },
+  "layout": "default",
+  "widgets": [
+   {
+    "type": "TAB_LIST",
+    "id": "18801",
+    "title": "Épisodes",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18801?context%5BprogramId%5D=32284",
+    "locked": false
+   }
+  ]
+ }
+}

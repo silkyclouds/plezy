@@ -1,0 +1,91 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "06e2d1a9-08fa-4ac5-57aa-26a0cc0f0c41",
+   "slug": "pyjamasques-power-heroes-le-cercle-des-heros",
+   "name": "Pyjamasques Power Heroes le cercle des héros",
+   "isFullyDigital": false,
+   "editor": "mytf1",
+   "mainChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "initialChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "categories": [
+    {
+     "id": "GT_YOUTH",
+     "label": "Jeunesse",
+     "main": true,
+     "slug": "jeunesse",
+     "type": "MAIN_YOUTH"
+    },
+    {
+     "id": "SGT_THREE_TO_SIX_YEARS",
+     "label": "3-6 ans",
+     "main": false,
+     "slug": "3-6-ans",
+     "type": "SUB_THREE_TO_SIX_YEARS"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "vignette-portrait-pyjamaques-6c0007",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/vignette-portrait-pyjamaques-6c0007-a9f7d0-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/vignette-portrait-pyjamaques-6c0007-0418e8-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "merged-cover-showpage-pyjamaques-335484-6ee466",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/merged-cover-showpage-pyjamaques-335484-6ee466-23cd05-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/merged-cover-showpage-pyjamaques-335484-6ee466-649ac8-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 0
+   },
+   "replayRecent": {
+    "total": 0
+   },
+   "allVideos": {
+    "total": 5
+   },
+   "allVideosRecent": {
+    "total": 0
+   },
+   "videos": {
+    "total": 0,
+    "items": []
+   }
+  }
+ }
+}

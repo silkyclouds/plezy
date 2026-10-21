@@ -1,0 +1,8 @@
+{
+ "status": 404,
+ "code": "NOT_FOUND",
+ "title": "Not Found",
+ "detail": "Not Found",
+ "type": "https://developer-service.rtbf.be/documentation/errors/#NOT_FOUND",
+ "info": []
+}

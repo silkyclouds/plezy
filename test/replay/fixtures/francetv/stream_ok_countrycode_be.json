@@ -1,0 +1,59 @@
+{
+ "video": {
+  "workflow": "token-akamai",
+  "token": "https://hdfauth.ftven.fr/esi/TA?format=json",
+  "duration": 3371,
+  "embed": false,
+  "format": "dash",
+  "is_live": false,
+  "drm": false,
+  "drm_type": null,
+  "license_type": null,
+  "previously": {
+   "timecode": null,
+   "duration": null,
+   "time_before_dismiss": null
+  },
+  "coming_next": {
+   "duration": null,
+   "time_before_dismiss": null,
+   "timecode": null
+  },
+  "skip_intro": {
+   "timecode": null,
+   "duration": null,
+   "time_before_dismiss": null
+  },
+  "closing_credits": {
+   "timecode": null
+  },
+  "timeshiftable": null,
+  "dai_type": null,
+  "url": "https://cloudreplay.ftven.fr/ftv/b/aa/baa4b4f4c7da6/1764183380-1792527129_monde_TA.ism/manifest.mpd",
+  "offline": null,
+  "is_highlightable": false,
+  "is_epgable": false,
+  "has_highlights": false,
+  "quality": null,
+  "live_chunk_delay": null,
+  "renderer_config": null
+ },
+ "meta": {
+  "id": "8d670d97-ca7c-4377-8c13-50bba2976e83",
+  "title": "Journal 20h00",
+  "additional_title": "Édition du mardi 20 octobre 2026",
+  "pre_title": null,
+  "broadcasted_at": "2026-10-20T19:57:54+02:00",
+  "image_url": "https://assets.webservices.francetelevisions.fr/v1/assets/images/e8/44/d7/bf6abc66-37e0-4641-b514-3bc47c687744.jpg",
+  "event": null,
+  "subtitles": [
+   {
+    "url": "https://assets.webservices.francetelevisions.fr/v1/assets/captions/5c/f2/a7/0305c3ac-bde8-4e29-9220-6487c28673aa.vtt",
+    "lang": "qsm"
+   }
+  ],
+  "description": "Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.",
+  "playtime": "56 min 11 s",
+  "endDate": "19/11/2026"
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "chapterUrn": "urn:rts:video:9a456c6b-899e-321a-8589-dc41eb60fcad",
+ "episode": {
+  "title": "A bon entendeur",
+  "lead": "Du poulet à toutes les sauces, mais à quel prix ?",
+  "imageUrl": "https://img.rts.ch/medias/2026/image/d0c711a0-29391630.image/16x9",
+  "imageTitle": "A bon entendeur",
+  "publishedDate": "2026-10-20T20:10:00+02:00",
+  "id": "b128ea4b-737c-3dcf-9d6c-faf8b1a085e2",
+  "description": "Le poulet est devenu la star des rayons frigorifiques et des menus. Face à une demande toujours plus forte, la production est soumise à une pression croissante et les importations augmentent. Quelle"
+ },
+ "show": {
+  "id": "385418",
+  "vendor": "RTS",
+  "transmission": "TV",
+  "urn": "urn:rts:show:tv:385418",
+  "title": "A bon entendeur",
+  "description": "ABE : L’émission de référence pour les consommateurs romands, présentée par Viviane Gabriel. De nombreux tests, des reportages et les astuces des consommateurs, diffusés chaque mardi à 20h10 sur RTS",
+  "imageUrl": "https://img.rts.ch/medias/2026/image/dfzh0s-29331478.image/16x9",
+  "imageTitle": "A bon entendeur",
+  "bannerImageUrl": "https://img.rts.ch/medias/2026/image/dfzh0s-29331478.image/16x9",
+  "posterImageUrl": "https://img.rts.ch/medias/2026/image/lws5ra-29331479.image/2x3",
+  "posterImageIsFallbackUrl": false,
+  "numberOfEpisodes": 1352,
+  "availableAudioLanguageList": [
+   {
+    "locale": "fr",
+    "language": "Français"
+   }
+  ],
+  "availableVideoQualityList": [
+   "SD",
+   "HD"
+  ],
+  "audioDescriptionAvailable": false,
+  "subtitlesAvailable": true,
+  "multiAudioLanguagesAvailable": false,
+  "allowIndexing": true
+ },
+ "channel": {
+  "id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
+  "vendor": "RTS",
+  "urn": "urn:rts:channel:tv:143932a79bb5a123a646b68b1d1188d7ae493e5b",
+  "title": "RTS 1",
+  "imageUrl": "https://img.rts.ch/articles/2023/image/ra3xg-26166607.image",
+  "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/857dda.svg",
+  "imageTitle": "RTS 1",
+  "transmission": "TV"
+ },
+ "chapterList": [
+  {
+   "id": "9a456c6b-899e-321a-8589-dc41eb60fcad",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:9a456c6b-899e-321a-8589-dc41eb60fcad",
+   "title": "Du poulet à toutes les sauces, mais à quel prix ?",
+   "description": "Face à une demande toujours plus forte de poulet, la production est soumise à une pression croissante et les importations augmentent. Quelle est la qualité du poulet que nous consommons ?  Que",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/d0c711a0-29391630.image/16x9",
+   "imageTitle": "Du poulet à toutes les sauces, mais à quel prix ?",
+   "type": "EPISODE",
+   "date": "2026-10-20T20:11:59+02:00",
+   "duration": 2273000,
+   "validFrom": "2026-10-20T20:53:08+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "displayable": true,
+   "position": -1,
+   "noEmbed": false,
+   "resourceList": [
+    {
+     "url": "https://rts-vod-amd.akamaized.net/ww/9a456c6b-899e-321a-8589-dc41eb60fcad/fab3b27b-22eb-38c8-acb8-5b9765920dbf/master.m3u8",
+     "quality": "HD",
+     "protocol": "HLS",
+     "encoding": "H264",
+     "mimeType": "application/x-mpegURL",
+     "presentation": "DEFAULT",
+     "streaming": "HLS",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "FMP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE",
+     "audioTrackList": [
+      {
+       "locale": "fr",
+       "language": "Français",
+       "source": "HLS",
+       "isAudioDescription": false,
+       "isOriginalVersion": false
+      }
+     ],
+     "subtitleInformationList": [
+      {
+       "locale": "fr",
+       "language": "Français (SDH)",
+       "source": "HLS",
+       "type": "SDH"
+      }
+     ]
+    },
+    {
+     "url": "https://rts-vod-dd.akamaized.net/ww/9a456c6b-899e-321a-8589-dc41eb60fcad/fab3b27b-22eb-38c8-acb8-5b9765920dbf.mp4",
+     "quality": "HD",
+     "protocol": "HTTPS",
+     "encoding": "H264",
+     "mimeType": "video/mp4",
+     "presentation": "DEFAULT",
+     "streaming": "PROGRESSIVE",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "MP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE",
+     "audioTrackList": [
+      {
+       "locale": "fr",
+       "language": "Français",
+       "source": "HLS",
+       "isAudioDescription": false,
+       "isOriginalVersion": false
+      }
+     ],
+     "subtitleInformationList": [
+      {
+       "locale": "fr",
+       "language": "Français (SDH)",
+       "source": "EXTERNAL",
+       "type": "SDH"
+      }
+     ]
+    }
+   ],
+   "segmentList": [],
+   "aspectRatio": "16:9",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/d0c711a0-29391630.image/16x9"
+  }
+ ],
+ "topicList": []
+}

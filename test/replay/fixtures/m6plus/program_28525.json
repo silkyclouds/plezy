@@ -1,0 +1,72 @@
+{
+ "id": 28525,
+ "code": "lile-des-souvenirs-le-21-octobre-au-cinema",
+ "title": "L'île des souvenirs, le 21 octobre au cinéma",
+ "description": "Jo et Raissa, meilleures amies depuis l'enfance, célèbrent leur dernière soirée avant de suivre des chemins différents quand un portail mystérieux les transporte sur l'île magique de Nakali, peuplée de créatures des contes philippins. Aidées par Raww, un chien-garou maladroit, et une bande de compagnons extraordinaires, elles devront affronter la redoutable Manananggal. Mais pour rentrer chez elles, elles devront oublier leur amitié : une course contre la montre commence avant que l'île n'efface leurs souvenirs.",
+ "summary": "",
+ "year_production": null,
+ "year_copyright": "2026",
+ "first_local_air_date": {
+  "date": null
+ },
+ "last_clip_publication": {
+  "date": "2026-10-05 00:01:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2026-11-01 23:59:00",
+  "date_start_min": "2026-10-05 00:01:00",
+  "date_start_max": "2026-10-05 00:01:00"
+ },
+ "program_type_wording": null,
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "service_display": {
+  "code": "gulli",
+  "id": 245,
+  "priority": 4,
+  "ucid": "3vs1s55h65"
+ },
+ "count": {
+  "vi": 5,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": null,
+   "country_codes": null
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "5022749",
+   "role": "logo",
+   "id": 4757898
+  },
+  {
+   "external_key": "5022752",
+   "role": "cover",
+   "id": 4757901
+  },
+  {
+   "external_key": "5022753",
+   "role": "mea",
+   "id": 4757902
+  },
+  {
+   "external_key": "5022756",
+   "role": "vignette",
+   "id": 4757904
+  }
+ ]
+}

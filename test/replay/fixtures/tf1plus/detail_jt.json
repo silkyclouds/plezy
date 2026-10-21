@@ -1,0 +1,146 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "Journal de 20 heures",
+    "subLabel": "7 Émissions",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-42dbd3-8962a4-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-le-20h-1f697d-0d1a31-0@1x.png"
+      }
+     ]
+    },
+    "description": "Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou Audrey Crespo-Mara, \"Le 20h\" met en lumière de nombreux reportages, documentaires et duplex informant les français sur les sujets sociétaux, environnementaux et économiques. ",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/program-card-portrait-1-2a6a1e-e4cf4c-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Le 20h à vos côtés",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-le-20h-1f697d-0d1a31-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-42dbd3-8962a4-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": false,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Information",
+   "mainChannel": {
+    "label": "TF1",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-5165d6-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Journal télévisé",
+    "Actualité"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": false,
+   "editorialSections": [
+    {
+     "slug": "encore",
+     "decoration": {
+      "label": "Encore +",
+      "description": null
+     },
+     "id": "eb68b6586500f8f9",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "d9afa46b8a277a78",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou Audrey Crespo-Mara, \"Le 20h\" met en lumière de nombreux reportages, documentaires et duplex informant les français sur les sujets sociétaux, environnementaux et économiques. "
+     },
+     "id": "26a287abf45ada6a",
+     "__typename": "ProgramInfoSection",
+     "actors": [],
+     "directors": [],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    }
+   ]
+  }
+ }
+}

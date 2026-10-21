@@ -1,0 +1,213 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "HPI",
+    "subLabel": "5 saisons",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-204a1e-1c3942-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-cb763f-5cb4bd-0@1x.png"
+      }
+     ]
+    },
+    "description": "Morgane a 38 ans. Elle élève seule ses 3 enfants. Elle gère (ou pas) ses 2 ex et ses différents crédits. Ses 160 de QI lui gâchent un peu la vie jusqu'au jour où Morgane voit son destin de femme de ménage chamboulé : la police lui propose un poste de consultante. Problème Morgane déteste les flics...",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/program-card-portrait-hpi-s5-0e8976-661e9d-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Morgane, surdouée au QI de 160, voit sa vie basculer quand la police lui propose de devenir consultante . Le 17 septembre",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-cb763f-5cb4bd-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-204a1e-1c3942-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": true,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Série",
+   "mainChannel": {
+    "label": "TF1+",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo_tf1_plus-5ee652-2c13dc-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Policier",
+    "Comédie"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": false,
+   "editorialSections": [
+    {
+     "slug": "episodes",
+     "decoration": {
+      "label": "Episodes",
+      "description": null
+     },
+     "id": "57f00c520cb1b1d0",
+     "__typename": "MainContentSection",
+     "lists": [
+      {
+       "id": "078d3f934a3b690c",
+       "slug": "saison-1",
+       "total": 8,
+       "decoration": {
+        "label": "Saison 1",
+        "subLabel": "8 épisodes"
+       }
+      },
+      {
+       "id": "611169bd645161a2",
+       "slug": "saison-2",
+       "total": 8,
+       "decoration": {
+        "label": "Saison 2",
+        "subLabel": "8 épisodes"
+       }
+      },
+      {
+       "id": "2d69175270bdf798",
+       "slug": "saison-3",
+       "total": 8,
+       "decoration": {
+        "label": "Saison 3",
+        "subLabel": "8 épisodes"
+       }
+      },
+      {
+       "id": "6e6c20a7409b87d7",
+       "slug": "saison-4",
+       "total": 8,
+       "decoration": {
+        "label": "Saison 4",
+        "subLabel": "8 épisodes"
+       }
+      },
+      {
+       "id": "dfb68e1d679cc9c7",
+       "slug": "saison-5",
+       "total": 8,
+       "decoration": {
+        "label": "Saison 5",
+        "subLabel": "8 épisodes"
+       }
+      }
+     ]
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "6ef63a20f6c62d42",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "Morgane a 38 ans. Elle élève seule ses 3 enfants. Elle gère (ou pas) ses 2 ex et ses différents crédits. Ses 160 de QI lui gâchent un peu la vie jusqu'au jour où Morgane voit son destin de femme de ménage chamboulé : la police lui propose un poste de consultante. Problème Morgane déteste les flics..."
+     },
+     "id": "bc7e841612a5d4e9",
+     "__typename": "ProgramInfoSection",
+     "actors": [
+      {
+       "type": "ACTOR",
+       "members": [
+        {
+         "firstName": "Audrey",
+         "lastName": "Fleurot",
+         "roleName": ""
+        },
+        {
+         "firstName": "Mehdi",
+         "lastName": "Nebbou ",
+         "roleName": ""
+        },
+        {
+         "firstName": "Bruno",
+         "lastName": "Sanches",
+         "roleName": ""
+        }
+       ]
+      }
+     ],
+     "directors": [],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    }
+   ]
+  }
+ }
+}

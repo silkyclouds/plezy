@@ -1,0 +1,291 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "Ready player one en streaming gratuit sur RTBF Auvio",
+   "description": "En 2045, la Terre n'est plus que désolation. Pour s'évader, James Hallyday, génial designer de réalité virtuelle, a créé l'Oasis, un monde où tous les rêves sont permis. À sa mort, Hallyday annonce qu'il y a laissé un Easter Egg magique, capable de contrôler le futur. Grâce à son avatar Parzival, Wade est l'un des plus prometteurs chasseurs d'oeuf.    D'après Player One d'Ernest Cline.",
+   "canonical": "https://auvio.rtbf.be/media/ready-player-one-le-blockbuster-geek-signe-spielberg-3530011",
+   "image": {
+    "url": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg",
+    "width": "1200",
+    "height": "630"
+   },
+   "embedUrl": "https://auvio.rtbf.be/embed/generic/content/media/3530011",
+   "expires": "Sun, 25 Oct 2026 22:55:00 GMT"
+  },
+  "gemius": {
+   "lan": "FR",
+   "free": "",
+   "key": "ond",
+   "subs": "auvio/media/3530011",
+   "player": {
+    "channel": "tipiktv",
+    "se": "Films",
+    "ct": "ce",
+    "sct": "ready-player-one-le-blockbuster-geek-signe-spielberg",
+    "scte": "video",
+    "st": "vid.tvi.ep.vod.free",
+    "tv": "19-TCFFE217-000-VM",
+    "series": "Ready player one",
+    "programSeason": "",
+    "externalPremiereDate": "18102026",
+    "scd": "8063"
+   }
+  },
+  "chartbeat": {
+   "section": "Science-fiction",
+   "author": "Ready player one",
+   "title": "Ready player one en streaming gratuit sur RTBF Auvio"
+  },
+  "aipBlender": {
+   "CMdID": "3530011",
+   "CMdCmsID": "readyplayerone",
+   "CMdTtl": "Ready player one - LE blockbuster geek signé Spielberg - 18/10/2026",
+   "CLgth": 8064,
+   "CGr": "films",
+   "Cep": "",
+   "CSsn": "",
+   "Ccat": "films,science-fiction",
+   "CDbr": "rtbf",
+   "CPdr": "tipik",
+   "CR": "-12",
+   "CLv": 0,
+   "Ckey": [
+    ""
+   ],
+   "UPP": 1,
+   "UGDPR": 1,
+   "AdSID": "710468",
+   "AdZID": "2143934"
+  },
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/media/ready-player-one-le-blockbuster-geek-signe-spielberg-3530011",
+  "onePlusX": {
+   "category_lvl1": "Films",
+   "category_lvl2": "Science-fiction",
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Films",
+   "category_level_2": "Science-fiction",
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Films",
+    "item": "https://auvio.rtbf.be/categorie/films-36"
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Science-fiction",
+    "item": "https://auvio.rtbf.be/media/ready-player-one-le-blockbuster-geek-signe-spielberg-3530011"
+   }
+  ]
+ },
+ "data": {
+  "id": "7292",
+  "pageType": "MEDIA",
+  "content": {
+   "pageType": "MEDIA",
+   "title": "Ready player one",
+   "id": "3530011",
+   "assetId": "3530011_6BA97Bb",
+   "type": "VIDEO",
+   "subtitle": "LE blockbuster geek signé Spielberg",
+   "description": "En 2045, la Terre n'est plus que désolation. Pour s'évader, James Hallyday, génial designer de réalité virtuelle, a créé l'Oasis, un monde où tous les rêves sont permis. À sa mort, Hallyday annonce qu'il y a laissé un Easter Egg magique, capable de contrôler le futur. Grâce à son avatar Parzival, Wade est l'un des plus prometteurs chasseurs d'oeuf.    D'après Player One d'Ernest Cline.",
+   "shortDescription": "",
+   "isPremium": false,
+   "publishedFrom": "2026-10-18T23:36:00+02:00",
+   "publishedTo": "2026-10-25T23:55:00+01:00",
+   "releaseDate": "18/10/26",
+   "duration": 8063,
+   "rating": "-12",
+   "minimumAge": "12",
+   "pictograms": [
+    {
+     "code": "V",
+     "label": "Violence"
+    },
+    {
+     "code": "A",
+     "label": "Angoisse"
+    }
+   ],
+   "hasAudioDescriptions": true,
+   "hasMultilingualVersions": true,
+   "hasSubtitles": true,
+   "background": {
+    "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg",
+    "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg",
+    "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg",
+    "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/0/8/b/08bf4958d36d311c3f2b94594d602131.jpg"
+   },
+   "logo": null,
+   "casting": [
+    {
+     "name": "Steven Spielberg",
+     "role": "Réalisateur"
+    },
+    {
+     "name": "Ernest Cline",
+     "role": "Scénariste"
+    },
+    {
+     "name": "Zak Penn",
+     "role": "Scénariste"
+    },
+    {
+     "name": "Alan Silvestri",
+     "role": "Compositeur"
+    },
+    {
+     "name": "Tye Sheridan",
+     "role": "Wade Owen Watts / Parzival"
+    },
+    {
+     "name": "Olivia Cooke",
+     "role": "Samantha Evelyn Cook / Art3mis"
+    },
+    {
+     "name": "Ben Mendelsohn",
+     "role": "Nolan Sorrento / Sorrento"
+    },
+    {
+     "name": "T.J. Miller",
+     "role": "i-R0k"
+    },
+    {
+     "name": "Simon Pegg",
+     "role": "Ogden Morrow / le Conservateur"
+    },
+    {
+     "name": "Mark Rylance",
+     "role": "James Donovan Halliday / Anorak"
+    },
+    {
+     "name": "Lena Waithe",
+     "role": "Helen / Aech"
+    },
+    {
+     "name": "Win Morisaki",
+     "role": "Toshiro / Daito"
+    },
+    {
+     "name": "Philip Zhao",
+     "role": "Xo / Sho"
+    },
+    {
+     "name": "Hannah John-Kamen",
+     "role": "F'Nale Zandor"
+    },
+    {
+     "name": "Susan Lynch",
+     "role": "Tante Alice"
+    },
+    {
+     "name": "Ralph Ineson",
+     "role": "Rick"
+    },
+    {
+     "name": "Clare Higgins",
+     "role": "Mrs Gilmore"
+    },
+    {
+     "name": "Perdita Weeks",
+     "role": "Kira"
+    }
+   ],
+   "products": [],
+   "program": null,
+   "category": {
+    "resourceType": "CATEGORY",
+    "id": "104",
+    "label": "Science-fiction",
+    "path": "/categorie/science-fiction-104",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://ds1.static.rtbf.be/default/image/180x100/default-auvio_0.jpg",
+     "s": "https://ds1.static.rtbf.be/default/image/370x208/default-auvio_0.jpg",
+     "m": "https://ds1.static.rtbf.be/default/image/770x433/default-auvio_0.jpg",
+     "l": "https://ds1.static.rtbf.be/default/image/1248x702/default-auvio_0.jpg",
+     "xl": "https://ds1.static.rtbf.be/default/image/1920x1080/default-auvio_0.jpg"
+    },
+    "logo": null
+   },
+   "channel": {
+    "resourceType": "CHANNEL",
+    "id": "32",
+    "path": "/chaine/tipik-32",
+    "pathTitle": "",
+    "label": "Tipik",
+    "logo": {
+     "light": {
+      "svg": "https://static-oaos.rtbf.be/assets/auvio/svg/logotype/light/tipik.svg?r=20251208",
+      "png": "https://static-oaos.rtbf.be/assets/auvio/png/logotype/light/tipik.png?r=20251208"
+     },
+     "dark": {
+      "svg": "https://static-oaos.rtbf.be/assets/auvio/svg/logotype/dark/tipik.svg?r=20251208",
+      "png": "https://static-oaos.rtbf.be/assets/auvio/png/logotype/dark/tipik.png?r=20251208"
+     }
+    },
+    "logoFlat": {
+     "light": {
+      "svg": "https://static-oaos.rtbf.be/icons/custom/brands/small/Tipik.svg",
+      "png": "https://static-oaos.rtbf.be/icons/custom/brands/small/tipik.png"
+     },
+     "dark": {
+      "svg": "https://static-oaos.rtbf.be/icons/custom/brands/small/Tipik.svg",
+      "png": "https://static-oaos.rtbf.be/icons/custom/brands/small/tipik.png"
+     }
+    },
+    "fastTv": false,
+    "logoFast": null,
+    "useStreamId": false,
+    "streamId": "redbm_e3tfmdazg_a0ms",
+    "streamAssetId": "redbm_e3tfmdazg_a0ms_6BA97Bb",
+    "streamRightsMode": null
+   },
+   "tags": [],
+   "next": null,
+   "previous": null,
+   "chapters": null
+  },
+  "layout": "default",
+  "widgets": [
+   {
+    "type": "PROGRAM_LIST",
+    "id": "21342",
+    "title": "A découvrir aussi",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/21342?context%5BprogramId%5D=17948",
+    "locked": false
+   }
+  ]
+ }
+}

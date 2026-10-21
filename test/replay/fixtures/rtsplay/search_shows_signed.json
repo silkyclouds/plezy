@@ -1,0 +1,35 @@
+{
+ "total": 17,
+ "searchTerm": "19h30",
+ "searchResultShowList": [
+  {
+   "title": "19h30",
+   "description": "19h30 – Le téléjournal du soir de la RTS. Chaque édition résume l’actualité suisse et internationale, avec des reportages de terrain, des analyses et du décryptage pour comprendre les faits et leur",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/9u2s8e-28862907.image/16x9",
+   "imageTitle": "19h30",
+   "id": "105932",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:105932"
+  },
+  {
+   "title": "19h30 - Signé",
+   "lead": "Le journal signé.",
+   "imageUrl": "https://img.rts.ch/articles/2024/image/hrfqq0-28610148.image/16x9",
+   "imageTitle": "19h30 - Signé",
+   "id": "1799072",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:1799072"
+  },
+  {
+   "title": "10h00 - 16h00 week-end",
+   "imageUrl": "https://il.srgssr.ch/image-service/dynamic/271449.jpg",
+   "imageTitle": "10h00 - 16h00 week-end",
+   "id": "2075878",
+   "vendor": "RTS",
+   "transmission": "RADIO",
+   "urn": "urn:rts:show:radio:2075878"
+  }
+ ]
+}

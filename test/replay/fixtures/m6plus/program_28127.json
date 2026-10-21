@@ -1,0 +1,107 @@
+{
+ "id": 28127,
+ "code": "tchernobyl-les-48-heures-qui-ont-change-le-monde",
+ "title": "Tchernobyl : les 48 heures qui ont changé le monde",
+ "description": "Le 26 avril 1986, le monde est témoin de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale de Tchernobyl.\r\nCe documentaire propose une immersion au cœur des 48 premières heures du désastre : depuis le test de sécurité fatidique qui a conduit à l'explosion jusqu'aux plongeurs héroïques qui ont risqué leur vie pour empêcher une deuxième explosion en passant par l'évacuation de Pripyat, une ville dont les 50 000 habitants ont été contraints de tout abandonner. Le film s'appuie sur les récits de témoins directs, notamment des infirmières et des secouristes de l'hôpital de Pripyat, du chef opérateur du réacteur n°4 de la centrale, ainsi que d'historiens et de professeurs de radiochimie.",
+ "summary": "Ce documentaire se penche sur les 48 premières heures de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale nucléaire de Tchernobyl, en s’appuyant sur les récits directs de témoins oculaires.",
+ "year_production": "2025",
+ "year_copyright": "2025",
+ "first_local_air_date": {
+  "date": "2026-04-25 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2026-05-26 21:55:37"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2029-01-31 21:55:37",
+  "date_start_min": "2026-05-26 21:55:37",
+  "date_start_max": "2026-05-26 21:55:37"
+ },
+ "program_type_wording": {
+  "code": "documentaire",
+  "plural": "documentaires",
+  "gender": "masculine",
+  "id": 10,
+  "singular": "documentaire"
+ },
+ "neustar": {
+  "category": "documentaire"
+ },
+ "csa": {
+  "code": "2",
+  "id": 2,
+  "label": "Interdit aux moins de 10 ans",
+  "sort_index": 10,
+  "icon_name": "Csa10",
+  "age": 10
+ },
+ "service_display": {
+  "code": "parispremierereplay",
+  "id": 3,
+  "priority": 9,
+  "ucid": "j8s6skkh7"
+ },
+ "count": {
+  "vi": 1,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "4923152",
+   "role": "vignette",
+   "id": 4659747
+  },
+  {
+   "external_key": "4923153",
+   "role": "jumbotron",
+   "id": 4659748
+  },
+  {
+   "external_key": "4923154",
+   "role": "logo",
+   "id": 4659749
+  },
+  {
+   "external_key": "4923155",
+   "role": "cover",
+   "id": 4659750
+  },
+  {
+   "external_key": "4923157",
+   "role": "portrait",
+   "id": 4659752
+  },
+  {
+   "external_key": "4923160",
+   "role": "box",
+   "id": 4659755
+  }
+ ]
+}

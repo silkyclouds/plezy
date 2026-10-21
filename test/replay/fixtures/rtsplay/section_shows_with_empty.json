@@ -1,0 +1,149 @@
+{
+ "showList": [
+  {
+   "id": "15519135",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:15519135",
+   "title": "3 - 6 ans",
+   "description": "Une sélection de dessins animés et vidéos pour enfants de 3 à 6 ans. Épisodes, histoires et programmes éducatifs à regarder en streaming sur Play RTS.",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/u48j2d-28845106.image/16x9",
+   "imageTitle": "3 - 6 ans",
+   "bannerImageUrl": "https://img.rts.ch/medias/2025/image/u48j2d-28845106.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 0,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "15519138",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:15519138",
+   "title": "7 - 9 ans",
+   "description": "Une sélection de dessins animés et vidéos pour enfants de 7 à 9 ans : épisodes, aventures et découvertes à regarder en streaming sur Play RTS.!",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/td9a6d-28845103.image/16x9",
+   "imageTitle": "7 - 9 ans",
+   "bannerImageUrl": "https://img.rts.ch/medias/2025/image/td9a6d-28845103.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 0,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "15519149",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:15519149",
+   "title": "10 - 12 ans",
+   "description": "Une sélection de séries, films et vidéos pour enfants de 10 à 12 ans : aventures, découvertes et programmes éducatifs à regarder en streaming sur Play RTS.",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/n7k68r-28845108.image/16x9",
+   "imageTitle": "10 - 12 ans",
+   "bannerImageUrl": "https://img.rts.ch/medias/2025/image/n7k68r-28845108.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 0,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "15519183",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:15519183",
+   "title": "Films et Courts métrages",
+   "description": "Une sélection de films et courts métrages pour enfants : films d’animation, histoires et aventures à regarder en streaming sur Play RTS",
+   "imageUrl": "https://img.rts.ch/medias/2025/image/3qvxr2-28845109.image/16x9",
+   "imageTitle": "Films et Courts métrages",
+   "bannerImageUrl": "https://img.rts.ch/medias/2025/image/3qvxr2-28845109.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 0,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "15519182",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:15519182",
+   "title": "Pour les curieux",
+   "description": "Une sélection de vidéos éducatives pour enfants : science, découvertes et programmes pour apprendre en s’amusant à regarder en streaming sur Play RTS.",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/osjzh8-29126800.image/16x9",
+   "imageTitle": "Pour les curieux",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/osjzh8-29126800.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 0,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "2743",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:2743",
+     "title": "Jeunesse",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+     "imageTitle": "Jeunesse"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "Aquaman",
+    "subLabel": "2018  ·  2h07",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-jpg-839e1f-26158d-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-png-86a7b4-351454-0@1x.png"
+      }
+     ]
+    },
+    "description": "Arthur Curry, plus connu sous le nom d'Aquaman, part en croisade afin d'empêcher une terrible guerre entre le monde terrestre et celui des océans.",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/program-card-portrait-1-jpg-a3f44a-c96dc5-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Arthur Curry doit empêcher une guerre dévastatrice entre la surface et les profondeurs marines. Le destin de 2 mondes est en jeu.",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-png-86a7b4-351454-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-jpg-839e1f-26158d-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": false,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Film",
+   "mainChannel": {
+    "label": "TMC",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-65acf4-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Fantastique",
+    "Aventure"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": false,
+   "editorialSections": [
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "Arthur Curry, plus connu sous le nom d'Aquaman, part en croisade afin d'empêcher une terrible guerre entre le monde terrestre et celui des océans."
+     },
+     "id": "c922e76eaf3b79da",
+     "__typename": "ProgramInfoSection",
+     "actors": [
+      {
+       "type": "ACTOR",
+       "members": [
+        {
+         "firstName": "Jason",
+         "lastName": "Momoa",
+         "roleName": ""
+        },
+        {
+         "firstName": "Amber",
+         "lastName": "Heard",
+         "roleName": ""
+        },
+        {
+         "firstName": "Willem",
+         "lastName": "Dafoe",
+         "roleName": ""
+        }
+       ]
+      }
+     ],
+     "directors": [
+      {
+       "type": "DIRECTOR",
+       "members": [
+        {
+         "firstName": "James",
+         "lastName": "Wam",
+         "roleName": ""
+        }
+       ]
+      }
+     ],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "be2df69284741439",
+     "__typename": "SlidersSection",
+     "sliders": []
+    }
+   ]
+  }
+ }
+}

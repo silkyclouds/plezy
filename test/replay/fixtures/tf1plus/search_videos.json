@@ -1,0 +1,265 @@
+{
+ "data": {
+  "searchVideos": {
+   "total": 200,
+   "items": [
+    {
+     "id": "442a5d88-a02c-4b50-992d-ddc79fc6c78b",
+     "slug": "koh-lanta-all-stars-emission-9-partie-2-93402689",
+     "type": "REPLAY",
+     "rating": "CSA_ALL",
+     "date": "2026-10-20T20:29:00Z",
+     "episode": 9,
+     "season": 34,
+     "authEnabled": true,
+     "published": "2026-10-20T21:19:07Z",
+     "url": "https://www.tf1.fr/tf1/koh-lanta/videos/koh-lanta-all-stars-emission-9-partie-2-93402689.html",
+     "broadcastChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1"
+     },
+     "playingInfos": {
+      "duration": 1952,
+      "remainingDays": 803,
+      "freeRemainingDays": 803
+     },
+     "decoration": {
+      "description": "L'épreuve d'immunité va bientôt commencer et, pour l'emporter, il faudra venir à bout de toutes les étapes de l'équilibre sur l'eau. Chaque étape sera plus difficile que la précédente et éliminera deux aventuriers jusqu'à la finale, qui se fera avec les 3 meilleurs aventuriers. Finalement, Ugo réalise une performance incroyable et gagne pour la troisième fois consécutive cette épreuve ! Il est serein et sûr de ne pas être éliminé pendant le prochain conseil. Contrairement à Vincent qui est dans le collimateur des autres aventuriers. Mais le jeune homme a de la ressource et compte bien mettre en place un plan pour s'en sortir. Koh-Lanta All Stars 2026 : Émission 9, partie 2",
+      "hook": "",
+      "label": "Koh Lanta All Stars - Emission 9 (Partie 2)",
+      "programLabel": "Koh-Lanta",
+      "subLabel": "du mardi 20 octobre 2026 à 22h29",
+      "images": [
+       {
+        "id": "preview_442a5d88-a02c-4b50-992d-ddc79fc6c78b",
+        "type": "PREVIEW",
+        "sources": [
+         {
+          "url": "https://vidpreviews.tf1.fr/video/b3b8fd2a0cd0a77590477c6fe4d5dde018deeeae34a4075ce39c55c7c981cd83.mp4",
+          "width": "0",
+          "height": "0",
+          "type": "mp4"
+         }
+        ]
+       },
+       {
+        "id": "2148596_klas7em9immunite-262592",
+        "type": "THUMBNAIL",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/396/222/2148596_klas7em9immunite-262592-be9bcf-0@1x.jpg",
+          "width": "396",
+          "height": "222",
+          "type": "jpg"
+         },
+         {
+          "url": "https://photos.tf1.fr/198/111/2148596_klas7em9immunite-262592-0bed6c-0@1x.jpg",
+          "width": "198",
+          "height": "111",
+          "type": "jpg"
+         }
+        ]
+       },
+       {
+        "id": "2148596_klas7em9immunite-262592",
+        "type": "THUMBNAIL_LARGE",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/1200/720/2148596_klas7em9immunite-262592-3cf700-0@1x.jpg",
+          "width": "1200",
+          "height": "720",
+          "type": "jpg"
+         },
+         {
+          "url": "https://photos.tf1.fr/600/360/2148596_klas7em9immunite-262592-ba40ce-0@1x.jpg",
+          "width": "600",
+          "height": "360",
+          "type": "jpg"
+         }
+        ]
+       }
+      ]
+     },
+     "program": {
+      "id": "f9792451-b523-4b3a-889c-ed42ffeac684",
+      "slug": "koh-lanta",
+      "name": "Koh-Lanta",
+      "editor": "mytf1",
+      "isFullyDigital": false,
+      "initialChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1",
+       "label": "TF1"
+      },
+      "mainChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "label": "TF1",
+       "slug": "tf1"
+      },
+      "categories": [
+       {
+        "id": "GT_ENTERTAINMENT",
+        "main": true,
+        "slug": "divertissements"
+       },
+       {
+        "id": "SGT_ENTERTAINMENT",
+        "main": false,
+        "slug": "divertissements"
+       }
+      ],
+      "showSeasons": true,
+      "decoration": {
+       "image": {
+        "id": "logo-programme-png-aee50c",
+        "type": "LOGO",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/450/225/logo-programme-png-aee50c-e421c6-0@1x.png",
+          "width": "450",
+          "height": "225",
+          "type": "png"
+         },
+         {
+          "url": "https://photos.tf1.fr/225/112/logo-programme-png-aee50c-11b2eb-0@1x.png",
+          "width": "225",
+          "height": "112",
+          "type": "png"
+         }
+        ]
+       }
+      }
+     }
+    },
+    {
+     "id": "8c6de0ad-5aca-4b4d-a660-7987f5b10e5e",
+     "slug": "koh-lanta-all-stars-emission-9-partie-1-82594951",
+     "type": "REPLAY",
+     "rating": "CSA_ALL",
+     "date": "2026-10-20T19:14:23Z",
+     "episode": 9,
+     "season": 34,
+     "authEnabled": true,
+     "published": "2026-10-20T20:20:29Z",
+     "url": "https://www.tf1.fr/tf1/koh-lanta/videos/koh-lanta-all-stars-emission-9-partie-1-82594951.html",
+     "broadcastChannel": {
+      "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+      "slug": "tf1"
+     },
+     "playingInfos": {
+      "duration": 3450,
+      "remainingDays": 803,
+      "freeRemainingDays": 803
+     },
+     "decoration": {
+      "description": "Yassin s'apprête à fouler une terre qu'il ne connaît pas encore : l'île des Bannis. Pour lui, cette île est en fait l'île du paradis. En effet, se retrouver seul sur une île était un de ses rêves dans Koh-Lanta. Loin de se douter que cette île accueille encore les aventuriers éliminés, le camp de la tribu réunifiée se sent apaisé du départ de Yassin. Cette situation est de bon augure pour les ex-rouges qui observent les ex-jaunes se déchirer entre eux. Mais avant tout, les aventuriers doivent se préparer pour l'épreuve de confort. Et ils vont le découvrir, ce premier jeu de confort individuel sera éliminatoire. Koh-Lanta All Stars 2026 : Émission 9, partie 1",
+      "hook": "",
+      "label": "Koh Lanta All Stars - Emission 9 (Partie 1)",
+      "programLabel": "Koh-Lanta",
+      "subLabel": "du mardi 20 octobre 2026 à 21h14",
+      "images": [
+       {
+        "id": "preview_8c6de0ad-5aca-4b4d-a660-7987f5b10e5e",
+        "type": "PREVIEW",
+        "sources": [
+         {
+          "url": "https://vidpreviews.tf1.fr/video/669a9d6207a847165f7f46a152a1097fbc7c1c2cd04d3ef7d47b3e282de3c3bb.mp4",
+          "width": "0",
+          "height": "0",
+          "type": "mp4"
+         }
+        ]
+       },
+       {
+        "id": "1183460_klas7em9p1-a07ed3",
+        "type": "THUMBNAIL",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/396/222/1183460_klas7em9p1-a07ed3-a5362b-0@1x.jpg",
+          "width": "396",
+          "height": "222",
+          "type": "jpg"
+         },
+         {
+          "url": "https://photos.tf1.fr/198/111/1183460_klas7em9p1-a07ed3-d1228a-0@1x.jpg",
+          "width": "198",
+          "height": "111",
+          "type": "jpg"
+         }
+        ]
+       },
+       {
+        "id": "1183460_klas7em9p1-a07ed3",
+        "type": "THUMBNAIL_LARGE",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/1200/720/1183460_klas7em9p1-a07ed3-dcade4-0@1x.jpg",
+          "width": "1200",
+          "height": "720",
+          "type": "jpg"
+         },
+         {
+          "url": "https://photos.tf1.fr/600/360/1183460_klas7em9p1-a07ed3-d986fe-0@1x.jpg",
+          "width": "600",
+          "height": "360",
+          "type": "jpg"
+         }
+        ]
+       }
+      ]
+     },
+     "program": {
+      "id": "f9792451-b523-4b3a-889c-ed42ffeac684",
+      "slug": "koh-lanta",
+      "name": "Koh-Lanta",
+      "editor": "mytf1",
+      "isFullyDigital": false,
+      "initialChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1",
+       "label": "TF1"
+      },
+      "mainChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "label": "TF1",
+       "slug": "tf1"
+      },
+      "categories": [
+       {
+        "id": "GT_ENTERTAINMENT",
+        "main": true,
+        "slug": "divertissements"
+       },
+       {
+        "id": "SGT_ENTERTAINMENT",
+        "main": false,
+        "slug": "divertissements"
+       }
+      ],
+      "showSeasons": true,
+      "decoration": {
+       "image": {
+        "id": "logo-programme-png-aee50c",
+        "type": "LOGO",
+        "sources": [
+         {
+          "url": "https://photos.tf1.fr/450/225/logo-programme-png-aee50c-e421c6-0@1x.png",
+          "width": "450",
+          "height": "225",
+          "type": "png"
+         },
+         {
+          "url": "https://photos.tf1.fr/225/112/logo-programme-png-aee50c-11b2eb-0@1x.png",
+          "width": "225",
+          "height": "112",
+          "type": "png"
+         }
+        ]
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

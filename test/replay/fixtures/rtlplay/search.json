@@ -1,0 +1,33 @@
+{
+ "userMessage": null,
+ "results": [
+  {
+   "title": "Programmes",
+   "teasers": [
+    {
+     "title": "APB - Alerte d'urgence",
+     "detailId": "b2953221-3677-49c6-933a-aa3bebf7d260",
+     "genre": "Série",
+     "imageUrl": "https://images4.persgroep.net/rcs/2D6MLszz8Tnr5MyerVmnLPEZhj8/diocontent/276286805/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    },
+    {
+     "title": "Alerte à l'hôtel : 30 jours pour tout relancer",
+     "detailId": "a42e2578-7c2a-4c44-be1c-2e00fc7041de",
+     "genre": "Divertissement",
+     "imageUrl": "https://images2.persgroep.net/rcs/krK_mWNot_3ag-DBCBTlBmZ2agI/diocontent/278812340/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214731",
+     "comingSoon": null
+    }
+   ],
+   "type": "exact",
+   "metaProvider": "avidci"
+  }
+ ],
+ "metaData": {
+  "requestId": "ad222046-f9cf-4d00-98cb-7b4aa9140d25",
+  "abGroup": "default",
+  "version": null
+ }
+}

@@ -1,0 +1,476 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "06e2d1a9-08fa-4ac5-57aa-26a0cc0f0c41",
+   "slug": "pyjamasques-power-heroes-le-cercle-des-heros",
+   "name": "Pyjamasques Power Heroes le cercle des héros",
+   "isFullyDigital": false,
+   "editor": "mytf1",
+   "mainChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "initialChannel": {
+    "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+    "slug": "tf1",
+    "label": "TF1"
+   },
+   "categories": [
+    {
+     "id": "GT_YOUTH",
+     "label": "Jeunesse",
+     "main": true,
+     "slug": "jeunesse",
+     "type": "MAIN_YOUTH"
+    },
+    {
+     "id": "SGT_THREE_TO_SIX_YEARS",
+     "label": "3-6 ans",
+     "main": false,
+     "slug": "3-6-ans",
+     "type": "SUB_THREE_TO_SIX_YEARS"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "vignette-portrait-pyjamaques-6c0007",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/vignette-portrait-pyjamaques-6c0007-a9f7d0-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/vignette-portrait-pyjamaques-6c0007-0418e8-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "merged-cover-showpage-pyjamaques-335484-6ee466",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/merged-cover-showpage-pyjamaques-335484-6ee466-23cd05-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/merged-cover-showpage-pyjamaques-335484-6ee466-649ac8-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 0
+   },
+   "replayRecent": {
+    "total": 0
+   },
+   "allVideos": {
+    "total": 5
+   },
+   "allVideosRecent": {
+    "total": 0
+   },
+   "videos": {
+    "total": 3,
+    "items": [
+     {
+      "id": "1cd9ab12-07a2-4b9e-a798-f6efac29e74b",
+      "slug": "pyjamasques-power-heroes-le-cercle-des-heros-les-pyjamasques-et-le-pouvoir-de-la-mechancete-45501779",
+      "type": "BONUS",
+      "rating": "CSA_ALL",
+      "date": "2023-03-21T13:35:00Z",
+      "episode": 0,
+      "season": 0,
+      "authEnabled": false,
+      "published": "2023-03-21T13:35:00Z",
+      "url": "https://www.tf1.fr/tf1/pyjamasques-power-heroes-le-cercle-des-heros/videos/pyjamasques-power-heroes-le-cercle-des-heros-les-pyjamasques-et-le-pouvoir-de-la-mechancete-45501779.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 178,
+       "remainingDays": 4091,
+       "freeRemainingDays": 4091
+      },
+      "decoration": {
+       "description": "Faites attention car le pouvoir de la méchanceté est parmi nous. Mais qui pourra l'arrêter ? C’est les Pyjamasques, le cercle des Héros ! Super forts! Super rapides! Super malins !",
+       "hook": "",
+       "label": "Pyjamasques Power Heroes - Le cercle des héros -  Les Pyjamasques et le pouvoir de la méchanceté",
+       "programLabel": "Pyjamasques Power Heroes le cercle des héros",
+       "subLabel": "",
+       "images": [
+        {
+         "id": "preview_1cd9ab12-07a2-4b9e-a798-f6efac29e74b",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/e5887d8328b995ff65bb98e33b762698c0ab14689c5859418304c8c0112184c1.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-92efda",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/pyjamasques-power-heroes-92efda-457660-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/pyjamasques-power-heroes-92efda-adfe62-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-92efda",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/pyjamasques-power-heroes-92efda-945cf5-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/pyjamasques-power-heroes-92efda-9c866b-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "06e2d1a9-08fa-4ac5-57aa-26a0cc0f0c41",
+       "slug": "pyjamasques-power-heroes-le-cercle-des-heros",
+       "name": "Pyjamasques Power Heroes le cercle des héros",
+       "editor": "mytf1",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "label": "TF1",
+        "slug": "tf1"
+       },
+       "categories": [
+        {
+         "id": "GT_YOUTH",
+         "main": true,
+         "slug": "jeunesse"
+        },
+        {
+         "id": "SGT_THREE_TO_SIX_YEARS",
+         "main": false,
+         "slug": "3-6-ans"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-pyjamasques-power-hero-ok-90f92b",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-pyjamasques-power-hero-ok-90f92b-ad0a0f-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-pyjamasques-power-hero-ok-90f92b-dc06e8-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "id": "61e3ad90-d448-4935-8384-6b1d25989a71",
+      "slug": "pyjamasques-power-heroes-le-cercle-des-heros-bastet-et-lilifee-57518444",
+      "type": "BONUS",
+      "rating": "CSA_ALL",
+      "date": "2023-03-21T13:30:00Z",
+      "episode": 0,
+      "season": 0,
+      "authEnabled": false,
+      "published": "2023-03-21T13:30:00Z",
+      "url": "https://www.tf1.fr/tf1/pyjamasques-power-heroes-le-cercle-des-heros/videos/pyjamasques-power-heroes-le-cercle-des-heros-bastet-et-lilifee-57518444.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 174,
+       "remainingDays": 4091,
+       "freeRemainingDays": 4091
+      },
+      "decoration": {
+       "description": "Bastet se prélasse au soleil pour en absorber la puissante énergie. Elle est toujours accompagnée de son Cersolaire pour projeter d’éblouissants rayons de soleil et aider les Pyjamasques quand ils font face à l’obscurité profonde. Lilifée peut voler à des vitesses cosmiques et projeter la lumière brillante des étoiles. Elle rejoint le Cercle des Héros avec un costume alimenté par la poussière d’étoiles !",
+       "hook": "",
+       "label": "Pyjamasques Power Heroes - Le cercle des héros - Bastet et Lilifée",
+       "programLabel": "Pyjamasques Power Heroes le cercle des héros",
+       "subLabel": "",
+       "images": [
+        {
+         "id": "preview_61e3ad90-d448-4935-8384-6b1d25989a71",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/d4b51e42c48c6acfb9d2e5ebad3d1119aaa5c39ca2daaccc2dda192ac99b6e5b.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-c65e64",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/pyjamasques-power-heroes-c65e64-463d19-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/pyjamasques-power-heroes-c65e64-75a614-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-c65e64",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/pyjamasques-power-heroes-c65e64-b58c6f-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/pyjamasques-power-heroes-c65e64-b9dfbb-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "06e2d1a9-08fa-4ac5-57aa-26a0cc0f0c41",
+       "slug": "pyjamasques-power-heroes-le-cercle-des-heros",
+       "name": "Pyjamasques Power Heroes le cercle des héros",
+       "editor": "mytf1",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "label": "TF1",
+        "slug": "tf1"
+       },
+       "categories": [
+        {
+         "id": "GT_YOUTH",
+         "main": true,
+         "slug": "jeunesse"
+        },
+        {
+         "id": "SGT_THREE_TO_SIX_YEARS",
+         "main": false,
+         "slug": "3-6-ans"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-pyjamasques-power-hero-ok-90f92b",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-pyjamasques-power-hero-ok-90f92b-ad0a0f-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-pyjamasques-power-hero-ok-90f92b-dc06e8-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "id": "3ffe7c74-cda4-4e09-82f2-837c8f18c6f3",
+      "slug": "pyjamasques-power-heroes-le-cercle-des-heros-rencontre-tes-heros-09498113",
+      "type": "BONUS",
+      "rating": "CSA_ALL",
+      "date": "2023-03-21T13:25:00Z",
+      "episode": 0,
+      "season": 0,
+      "authEnabled": false,
+      "published": "2023-03-21T13:25:00Z",
+      "url": "https://www.tf1.fr/tf1/pyjamasques-power-heroes-le-cercle-des-heros/videos/pyjamasques-power-heroes-le-cercle-des-heros-rencontre-tes-heros-09498113.html",
+      "broadcastChannel": {
+       "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+       "slug": "tf1"
+      },
+      "playingInfos": {
+       "duration": 174,
+       "remainingDays": 4091,
+       "freeRemainingDays": 4091
+      },
+      "decoration": {
+       "description": "Rencontrez les héros ! Tenez-vous prêts à découvrir Yoyo, Bibou,Gluglu, Ourski, Flamme Rouge et Hector Etoile ! Il s’agit des six héros que nous retrouvons dans la plupart des aventures des Pyjamasques Power Heroes Le Cercle des Héros. Avec leurs prodigieux pouvoirs allant de Yoyo Ligoto à Bibou Tornado en passant par Gluglu reptilo-camouflage  Ils sont inarrêtables lorsqu’ils travaillent main dans la main. Les méchants n’ont qu’à bien se tenir !",
+       "hook": "",
+       "label": "Pyjamasques Power Heroes - Le cercle des héros - Rencontre tes héros",
+       "programLabel": "Pyjamasques Power Heroes le cercle des héros",
+       "subLabel": "",
+       "images": [
+        {
+         "id": "preview_3ffe7c74-cda4-4e09-82f2-837c8f18c6f3",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/ed922416c36e252c4cb8e57e1b3b2633d1cfc0263edbae9b0ef3a5a8f04d9f8a.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-773159",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/pyjamasques-power-heroes-773159-722c21-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/pyjamasques-power-heroes-773159-bab07f-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "pyjamasques-power-heroes-773159",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/pyjamasques-power-heroes-773159-a7164b-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/pyjamasques-power-heroes-773159-6de503-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "06e2d1a9-08fa-4ac5-57aa-26a0cc0f0c41",
+       "slug": "pyjamasques-power-heroes-le-cercle-des-heros",
+       "name": "Pyjamasques Power Heroes le cercle des héros",
+       "editor": "mytf1",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "slug": "tf1",
+        "label": "TF1"
+       },
+       "mainChannel": {
+        "id": "beaf7cc1-5527-4af9-ab9c-7876bfc88b94",
+        "label": "TF1",
+        "slug": "tf1"
+       },
+       "categories": [
+        {
+         "id": "GT_YOUTH",
+         "main": true,
+         "slug": "jeunesse"
+        },
+        {
+         "id": "SGT_THREE_TO_SIX_YEARS",
+         "main": false,
+         "slug": "3-6-ans"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-pyjamasques-power-hero-ok-90f92b",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-pyjamasques-power-hero-ok-90f92b-ad0a0f-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-pyjamasques-power-hero-ok-90f92b-dc06e8-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

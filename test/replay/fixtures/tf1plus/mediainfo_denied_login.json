@@ -1,0 +1,47 @@
+{
+ "media": {
+  "id": "14431734",
+  "type": "video",
+  "error_code": "PERMISSION_DENIED",
+  "error_desc": "Permission insuffisante",
+  "title": "Plus belle la vie - S18 E236",
+  "geoList": [
+   "BE",
+   "CH",
+   "FR",
+   "LU"
+  ],
+  "owner": "plus-belle-la-vie-avod",
+  "preview": "https://photos.tf1.fr/1280/720/plus-belle-la-vie-s18-e4621-b259a0-6778ba-0@1x.jpg",
+  "sqPreview": "https://photos.tf1.fr/400/400/vignette-square-plus-belle-la-vie-54729f-2e3d6c-0@1x.jpg",
+  "channel": "mytf1",
+  "duration": 1559,
+  "geolock": true,
+  "sb": "https://video-storyboards.tf1.fr/e7e833041ad270bae74a8bf166f9e574c2faa225b53b0ea3a964a17103cf5d38/lsb.vtt",
+  "syndicable": false,
+  "markers": {
+   "inResume": 1000,
+   "outResume": 56240,
+   "inGD": 56280,
+   "outGD": 83240,
+   "inGF": 1548120,
+   "outGF": 1558080
+  },
+  "shortTitle": "S18 E236",
+  "programName": "Plus belle la vie",
+  "programSlug": "plus-belle-la-vie-pblv",
+  "publisherSlug": "tf1",
+  "attach": "MYTF1"
+ },
+ "content": {
+  "title": "plus-belle-la-vie-s18-e236",
+  "emId": "2063689"
+ },
+ "delivery": {
+  "code": 403,
+  "error": "Permission insuffisante",
+  "country": "BE",
+  "format": "dash",
+  "stream-id": "8a566929-5d1e-488f-b5f7-fc0256c77d8b_dash_nodrm_nomax"
+ }
+}

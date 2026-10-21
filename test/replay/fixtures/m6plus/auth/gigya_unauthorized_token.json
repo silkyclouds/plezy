@@ -1,0 +1,8 @@
+{
+  "errorCode": 403005,
+  "errorDetails": "Unauthorized user",
+  "errorMessage": "Unauthorized user",
+  "apiVersion": 2,
+  "statusCode": 403,
+  "statusReason": "Forbidden"
+}

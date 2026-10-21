@@ -1,0 +1,638 @@
+[
+ {
+  "id": "clip_12550205",
+  "type": "vi",
+  "title": "Hyène de vie",
+  "description": "Assise sur son rocher Marina, la sirène, joue nonchalamment avec une tortue marine. Sur la plage de l'île voisine, dans les yeux affamés de Zig, la hyène, le corps de la sirène se transforme en une délicieuse darne de poisson. Mais alors que la hy...",
+  "duration": 442,
+  "publication_date": "2025-02-01 00:00:00,2025-02-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 15179,
+   "code": "zig-et-sharko",
+   "title": "Zig et Sharko"
+  },
+  "images": [
+   {
+    "external_key": "2558644",
+    "role": "vignette",
+    "id": 2233091
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "34"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_b6098097cd90fa42952ce6a485291fb7_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_7e310cd0cab20a2b16f02abce5a238a8_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_62e6527a28e2b3e58c70d2058a78234d_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_2e848f78cb6ab96fd2635ab7e9513696_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_279fdb45c280320af77f2525ff57ca28_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_517b2419df8f4a9a406ec3ddf226fb47_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_b6098097cd90fa42952ce6a485291fb7_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_7e310cd0cab20a2b16f02abce5a238a8_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_62e6527a28e2b3e58c70d2058a78234d_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_2e848f78cb6ab96fd2635ab7e9513696_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_279fdb45c280320af77f2525ff57ca28_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/4/0/5/4052ecad94aded7f352c82f0e59fd818b2564226/static/12550205_517b2419df8f4a9a406ec3ddf226fb47_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 1,
+     "episode": 1,
+     "season_title": "Saison 1",
+     "season_id": 4349,
+     "part_number": null,
+     "first_local_air_date": "2012-11-12 00:00:00",
+     "summary": "Assise sur son rocher Marina, la sirène, joue nonchalamment avec une tortue marine. Sur la plage de l'île voisine, dans les yeux affamés de Zig, la hyène, le corps de la sirène se transforme en une délicieuse darne de poisson. Mais alors que la hy..."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_12550203",
+  "type": "vi",
+  "title": "Au sec",
+  "description": "Zig a bricolé un canon à loupes pour transformer l'énergie du soleil en un rayon laser hyper puissant. Lors d'un essai, il provoque la colère d'un gorille qui lui règle proprement son compte. Pendant la bagarre, sous l'action du rayon laser, la me...",
+  "duration": 442,
+  "publication_date": "2025-02-01 00:00:00,2025-02-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 15179,
+   "code": "zig-et-sharko",
+   "title": "Zig et Sharko"
+  },
+  "images": [
+   {
+    "external_key": "2558652",
+    "role": "vignette",
+    "id": 2233095
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "34"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_a475a126b799820832ee50fedf5e206c_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_47615a7305a8a01cab2be9e23f789b4c_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_4bd9a1f3d754bd3700892f8550b37a3c_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_452c5de36b427ba62c87973df9a4a1f8_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_031c9386f3468520271846d3400fec26_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_75c4b371871ff9dc85a612d1c7c2c0a5_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_a475a126b799820832ee50fedf5e206c_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_47615a7305a8a01cab2be9e23f789b4c_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_4bd9a1f3d754bd3700892f8550b37a3c_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_452c5de36b427ba62c87973df9a4a1f8_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_031c9386f3468520271846d3400fec26_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 442,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/d/c/c/dcce04486ee2d362c87bfe04447a180d47487803/static/12550203_75c4b371871ff9dc85a612d1c7c2c0a5_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 1,
+     "episode": 2,
+     "season_title": "Saison 1",
+     "season_id": 4349,
+     "part_number": null,
+     "first_local_air_date": "2022-12-19 00:00:00",
+     "summary": "Zig a bricolé un canon à loupes pour transformer l'énergie du soleil en un rayon laser hyper puissant. Lors d'un essai, il provoque la colère d'un gorille qui lui règle proprement son compte. Pendant la bagarre, sous l'action du rayon laser, la me..."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_12612331",
+  "type": "vi",
+  "title": "La buvette de la plage",
+  "description": "Zig et Sharko mettent au point le nec plus ultra du cocktail de fruits et décident d'ouvrir ensemble une paillotte sur la plage. Et ça marche super bien jusqu'à ce que Marina débarque...",
+  "duration": 479,
+  "publication_date": "2025-02-01 00:00:00,2025-02-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 15179,
+   "code": "zig-et-sharko",
+   "title": "Zig et Sharko"
+  },
+  "images": [
+   {
+    "external_key": "2838847",
+    "role": "vignette",
+    "id": 2482053
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "34"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_838b7a5692722fcf7798f379d28f4ca1_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_cd4266f033fee6afa53bf4506d78479c_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_77f7b062392e9517d267584eb6455e8e_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_ae31e5a6133211dc84e267e9b3a31261_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_7eca687fd71de824dad15301086eeade_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_ef289dbd51393efbcf6b49f49545ae45_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_838b7a5692722fcf7798f379d28f4ca1_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_cd4266f033fee6afa53bf4506d78479c_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_77f7b062392e9517d267584eb6455e8e_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_ae31e5a6133211dc84e267e9b3a31261_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_7eca687fd71de824dad15301086eeade_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 479,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/5/e/2/5e24be0e8057b51ad4ad0479a9f3dc3c3c75e2ef/static/12612331_ef289dbd51393efbcf6b49f49545ae45_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 2,
+     "episode": 21,
+     "season_title": "Saison 2",
+     "season_id": 4339,
+     "part_number": null,
+     "first_local_air_date": "2016-09-04 00:00:00",
+     "summary": "Zig et Sharko mettent au point le nec plus ultra du cocktail de fruits et décident d'ouvrir ensemble une paillotte sur la plage. Et ça marche super bien jusqu'à ce que Marina débarque..."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_12537049",
+  "type": "vi",
+  "title": "Le maître du volcan",
+  "description": "Marina a un nouveau prétendant, ce qui n'est ni au goût de Zig, ni au goût de Sharko. A celui de Marina non plus d'ailleurs, car même si ce dernier est un dieu antique, il n'est vraiment pas charmant...",
+  "duration": 478,
+  "publication_date": "2025-02-01 00:00:00,2025-02-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 15179,
+   "code": "zig-et-sharko",
+   "title": "Zig et Sharko"
+  },
+  "images": [
+   {
+    "external_key": "2838866",
+    "role": "vignette",
+    "id": 2482059
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "34"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_66baf3e961155296d9ab77f6c3601e7f_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_77f1ad9eea8c2ec6fe07257613ee968e_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_7779c400c18fb6c86af925a20e0debb5_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_f3d8524e82bc40b1f104074240be6fcd_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_57cb1cdec288998e28bd5506d9909e0b_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_1cef24cf5b0180b1fb779710e09e9805_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_66baf3e961155296d9ab77f6c3601e7f_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_77f1ad9eea8c2ec6fe07257613ee968e_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_7779c400c18fb6c86af925a20e0debb5_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_f3d8524e82bc40b1f104074240be6fcd_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_57cb1cdec288998e28bd5506d9909e0b_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 478,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/3/2a355355a0e915b7fe8850de25fa2bb4e81dc648/static/12537049_1cef24cf5b0180b1fb779710e09e9805_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607228&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 2,
+     "episode": 22,
+     "season_title": "Saison 2",
+     "season_id": 4339,
+     "part_number": null,
+     "first_local_air_date": "2016-09-04 00:00:00",
+     "summary": "Marina a un nouveau prétendant, ce qui n'est ni au goût de Zig, ni au goût de Sharko. A celui de Marina non plus d'ailleurs, car même si ce dernier est un dieu antique, il n'est vraiment pas charmant..."
+    }
+   }
+  ]
+ }
+]

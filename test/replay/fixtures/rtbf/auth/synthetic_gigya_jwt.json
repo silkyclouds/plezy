@@ -1,0 +1,6 @@
+{
+ "errorCode": 0,
+ "apiVersion": 2,
+ "statusCode": 200,
+ "id_token": "synthetic.identity.token"
+}

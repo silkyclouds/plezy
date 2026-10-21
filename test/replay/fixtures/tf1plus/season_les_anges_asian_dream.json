@@ -1,0 +1,259 @@
+{
+ "data": {
+  "programBySlug": {
+   "editorialSections": [
+    {
+     "id": "899c7f554c392458",
+     "listById": {
+      "hasNext": false,
+      "id": "61c40f4139dfabcd",
+      "items": [
+       {
+        "id": "f059b4df-d9b5-4640-adb4-0bbe7e59a9b6",
+        "image": {
+         "id": "les-anges-s12-e111-3a9ec3",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e111-3a9ec3-d43602-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e111-3a9ec3-429165-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Les Anges - S12 E111",
+          "shortLabel": "S12 E111",
+          "summary": "A l’occasion de cette ultime saison des Anges, c’est en Asie, à Hong Kong que les anges déposeront leurs bagages. Les Anges voyageront aux quatre coins de l’Asie dans le but de concrétiser leurs projets professionnels, et auront la chance de recevoir la visite de célébrités telles que Jean-Claude Van Damme ou encore Thierry Marx."
+         },
+         "id": "f059b4df-d9b5-4640-adb4-0bbe7e59a9b6",
+         "playingInfos": {
+          "duration": 2739,
+          "remainingDays": 1315,
+          "freeRemainingDays": 1315
+         },
+         "program": {
+          "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+          "initialChannel": {
+           "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+           "slug": "tfx"
+          },
+          "name": "Les Anges",
+          "slug": "les-anges",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Téléréalité",
+           "Voyage"
+          ],
+          "typology": "Émission"
+         },
+         "rating": "CSA_10",
+         "slug": "les-anges-s12-e111-69852756"
+        }
+       },
+       {
+        "id": "e7d4ec61-9248-42e0-aed9-692cfeeb555c",
+        "image": {
+         "id": "les-anges-s12-e110-a3c50a",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e110-a3c50a-a5003c-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e110-a3c50a-87d4a0-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Les Anges - S12 E110",
+          "shortLabel": "S12 E110",
+          "summary": "A l’occasion de cette ultime saison des Anges, c’est en Asie, à Hong Kong que les anges déposeront leurs bagages. Les Anges voyageront aux quatre coins de l’Asie dans le but de concrétiser leurs projets professionnels, et auront la chance de recevoir la visite de célébrités telles que Jean-Claude Van Damme ou encore Thierry Marx."
+         },
+         "id": "e7d4ec61-9248-42e0-aed9-692cfeeb555c",
+         "playingInfos": {
+          "duration": 2770,
+          "remainingDays": 1315,
+          "freeRemainingDays": 1315
+         },
+         "program": {
+          "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+          "initialChannel": {
+           "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+           "slug": "tfx"
+          },
+          "name": "Les Anges",
+          "slug": "les-anges",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Téléréalité",
+           "Voyage"
+          ],
+          "typology": "Émission"
+         },
+         "rating": "CSA_10",
+         "slug": "les-anges-s12-e110-80676284"
+        }
+       },
+       {
+        "id": "a28a3ea2-f62c-4a0a-b312-120e4c34e0fa",
+        "image": {
+         "id": "les-anges-s12-e109-40b52e",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e109-40b52e-359bd1-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e109-40b52e-0cdc40-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Les Anges - S12 E109",
+          "shortLabel": "S12 E109",
+          "summary": "A l’occasion de cette ultime saison des Anges, c’est en Asie, à Hong Kong que les anges déposeront leurs bagages. Les Anges voyageront aux quatre coins de l’Asie dans le but de concrétiser leurs projets professionnels, et auront la chance de recevoir la visite de célébrités telles que Jean-Claude Van Damme ou encore Thierry Marx."
+         },
+         "id": "a28a3ea2-f62c-4a0a-b312-120e4c34e0fa",
+         "playingInfos": {
+          "duration": 2576,
+          "remainingDays": 1315,
+          "freeRemainingDays": 1315
+         },
+         "program": {
+          "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+          "initialChannel": {
+           "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+           "slug": "tfx"
+          },
+          "name": "Les Anges",
+          "slug": "les-anges",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Téléréalité",
+           "Voyage"
+          ],
+          "typology": "Émission"
+         },
+         "rating": "CSA_10",
+         "slug": "les-anges-s12-e109-00469372"
+        }
+       },
+       {
+        "id": "71c8cf0e-db1a-406c-955c-ccf45b9f0a60",
+        "image": {
+         "id": "les-anges-s12-e108-3260e6",
+         "sourcesWithScales": [
+          {
+           "height": "186",
+           "scale": 1,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e108-3260e6-64ab19-0@1x.jpg",
+           "width": "330"
+          },
+          {
+           "height": "186",
+           "scale": 2,
+           "type": "jpg",
+           "url": "https://photos.tf1.fr/330/186/les-anges-s12-e108-3260e6-ea26f2-0@2x.jpg",
+           "width": "330"
+          }
+         ]
+        },
+        "video": {
+         "decoration": {
+          "label": "Les Anges - S12 E108",
+          "shortLabel": "S12 E108",
+          "summary": "A l’occasion de cette ultime saison des Anges, c’est en Asie, à Hong Kong que les anges déposeront leurs bagages. Les Anges voyageront aux quatre coins de l’Asie dans le but de concrétiser leurs projets professionnels, et auront la chance de recevoir la visite de célébrités telles que Jean-Claude Van Damme ou encore Thierry Marx."
+         },
+         "id": "71c8cf0e-db1a-406c-955c-ccf45b9f0a60",
+         "playingInfos": {
+          "duration": 2816,
+          "remainingDays": 1315,
+          "freeRemainingDays": 1315
+         },
+         "program": {
+          "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab",
+          "initialChannel": {
+           "id": "49092315-16ea-4b7e-b763-6bfdd3f80dc3",
+           "slug": "tfx"
+          },
+          "name": "Les Anges",
+          "slug": "les-anges",
+          "isAVOD": true,
+          "mainChannel": {
+           "id": "d005401e-a079-4e13-878f-b6576387fc50",
+           "slug": "tf1-plus"
+          },
+          "publisher": {
+           "id": "19753076-185a-40a3-8152-78cd4377e28f",
+           "slug": "mytf1"
+          },
+          "topics": [
+           "Téléréalité",
+           "Voyage"
+          ],
+          "typology": "Émission"
+         },
+         "rating": "CSA_10",
+         "slug": "les-anges-s12-e108-11286098"
+        }
+       }
+      ],
+      "offset": 0
+     }
+    }
+   ],
+   "id": "79f99887-1e9f-4b6f-61bf-a3e6027548ab"
+  }
+ }
+}

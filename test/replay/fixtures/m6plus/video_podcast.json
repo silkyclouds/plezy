@@ -1,0 +1,55 @@
+{
+ "id": "clip_13201870",
+ "type": "podcast",
+ "title": "Sam Sauvage : \"On a tellement d'autres atouts que cette peau, cette façade\"",
+ "description": "Dans cet épisode de \"Les 1001 vies de...\", Sam Sauvage raconte la construction d'un artiste et d'un jeune homme longtemps travaillé par le doute, le regard des autres et la quête d'une place. Au micro de Xavier de Moulins, le chanteur revient sur une enfance heureuse à Boulogne-sur-Mer, portée par l",
+ "duration": 2511,
+ "publication_date": "2026-10-16 15:33:55",
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "freemium_packs": [],
+ "freemium_products": [],
+ "program": {
+  "id": 28137,
+  "code": "les-1001-vies-de",
+  "title": "Les 1001 vies de…"
+ },
+ "images": [],
+ "clips": [
+  {
+   "areas": [
+    {
+     "zone_id": "10"
+    }
+   ],
+   "assets": [
+    {
+     "type": "passthrough_mp3_mpeg",
+     "video_quality": "sd",
+     "video_protection": "none",
+     "video_container": "mp3",
+     "video_duration": 2511,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://audio.audiomeans.fr/file/eZhkQRTEob/73342f8a-0b34-4b3c-8534-a25810d33bba.mp3"
+    }
+   ],
+   "tc_opening_credits": null,
+   "tc_ending_credits": null,
+   "product": {
+    "season": null,
+    "episode": null,
+    "season_title": null,
+    "season_id": null,
+    "part_number": null,
+    "first_local_air_date": null,
+    "summary": "Dans cet épisode de \"Les 1001 vies de...\", Sam Sauvage raconte la construction d'un artiste et d'un jeune homme longtemps travaillé par le doute, le regard des autres et la quête d'une place. Au micro de Xavier de Moulins, le chanteur revient sur une enfance heureuse à Boulogne-sur-Mer, portée par l"
+   }
+  }
+ ]
+}

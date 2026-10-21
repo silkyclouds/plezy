@@ -1,0 +1,8 @@
+{
+  "video": {
+    "streams": [
+      {"type": "dash", "url": "https://media.example.invalid/protected/manifest.mpd", "drm": {"com.widevine.alpha": {"licenseUrl": "https://license.example.invalid/widevine", "drmtoday": {"authToken": "synthetic"}}}}
+    ],
+    "subtitles": []
+  }
+}

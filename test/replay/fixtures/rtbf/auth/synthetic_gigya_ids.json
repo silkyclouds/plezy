@@ -1,0 +1,9 @@
+{
+ "errorCode": 0,
+ "apiVersion": 2,
+ "statusCode": 200,
+ "gmidTicket": "synthetic-ticket",
+ "gmid": "synthetic-gmid",
+ "gcid": "synthetic-gmid",
+ "ucid": "synthetic-ucid"
+}

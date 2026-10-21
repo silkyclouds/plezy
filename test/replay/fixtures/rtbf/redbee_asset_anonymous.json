@@ -1,0 +1,95 @@
+{
+ "assetId": "3126545_6BA97Bb",
+ "externalAssetId": "3126545",
+ "audio": [
+  {
+   "language": "en",
+   "displayName": "English",
+   "roles": [
+    "main"
+   ]
+  }
+ ],
+ "audioTracks": [
+  "en"
+ ],
+ "changed": "2026-02-11T15:28:53.202Z",
+ "created": "2023-12-01T09:32:28.352Z",
+ "externalReferences": [],
+ "linkedEntities": [],
+ "live": false,
+ "localized": [
+  {
+   "images": [],
+   "locale": "fr",
+   "longDescription": "D6BELS ON STAGE du 17/04/2016",
+   "sortingTitle": "D6BELS ON STAGE du 17/04/2016",
+   "title": "D6BELS ON STAGE du 17/04/2016"
+  }
+ ],
+ "seoData": [
+  {
+   "locale": "fr"
+  }
+ ],
+ "markers": [
+  {
+   "adMarkerType": "PRE"
+  },
+  {
+   "adMarkerType": "POST"
+  }
+ ],
+ "parentalRatings": [],
+ "participants": [],
+ "productionCountries": [],
+ "publications": [
+  {
+   "countries": [],
+   "devices": [],
+   "fromDate": "2016-04-17T08:32:00Z",
+   "products": [
+    "free_product_6BA97Bb",
+    "anonymous_product_6BA97Bb"
+   ],
+   "availabilityKeys": [
+    "free_product_6BA97Bb",
+    "3126545_6BA97Bb_free_product_6BA97Bb",
+    "anonymous_product_6BA97Bb",
+    "3126545_6BA97Bb_anonymous_product_6BA97Bb"
+   ],
+   "publicationDate": "2016-04-17T08:32:00Z",
+   "publicationId": "3126545_world_6BA97Bb",
+   "rights": {},
+   "services": [],
+   "toDate": "2050-12-02T09:32:00Z"
+  },
+  {
+   "countries": [],
+   "devices": [],
+   "fromDate": "2023-12-01T09:32:15Z",
+   "products": [
+    "technical-access_6BA97Bb"
+   ],
+   "availabilityKeys": [
+    "technical-access_6BA97Bb",
+    "3126545_6BA97Bb_technical-access_6BA97Bb"
+   ],
+   "publicationDate": "2023-12-01T09:32:15Z",
+   "publicationId": "3126545_technical_6BA97Bb",
+   "rights": {},
+   "services": [],
+   "toDate": "2051-01-01T09:32:00Z"
+  }
+ ],
+ "spokenLanguages": [],
+ "subtitles": [],
+ "subtitleTracks": [],
+ "tags": [],
+ "type": "MOVIE",
+ "duration": 641160,
+ "slugs": [],
+ "markerPoints": [],
+ "cuePoints": [],
+ "collections": []
+}

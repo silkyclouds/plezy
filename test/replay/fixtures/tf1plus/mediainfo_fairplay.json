@@ -1,0 +1,20 @@
+{
+ "delivery": {
+  "code": 200,
+  "url": "https://vod-hls.cdn-0.diff.tf1.fr/<JWT>/2/USP-0x0/83/69/14578369/ssm/5dfe43a8491bc21af8e6b6935151f2bed1a837e5f2b708847b00d96361c6ddfa.ism/14578369.m3u8",
+  "country": "BE",
+  "format": "hls",
+  "drm": "fairplay",
+  "drm-server": "https://dgf.prod.p.tf1.fr/acquire?e=1792583306&id=14578369&pla=86400&rn=1&si=<SIGNATURE>&ssc=&ti=&tl=0&ts=&video_id=3cb64702-94af-4a13-9b02-4d27128d2cef",
+  "drm-certificate": "https://dgf.prod.p.tf1.fr/certificate.der",
+  "drms": [
+   {
+    "name": "fairplay",
+    "url": "https://dgf.prod.p.tf1.fr/acquire?e=1792583306&id=14578369&pla=86400&rn=1&si=<SIGNATURE>&ssc=&ti=&tl=0&ts=&video_id=3cb64702-94af-4a13-9b02-4d27128d2cef",
+    "certificate": "https://dgf.prod.p.tf1.fr/certificate.der",
+    "playbackDuration": 86400
+   }
+  ],
+  "stream-id": "3cb64702-94af-4a13-9b02-4d27128d2cef_hls_drm_nomax"
+ }
+}

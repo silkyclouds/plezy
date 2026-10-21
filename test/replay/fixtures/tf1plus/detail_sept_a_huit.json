@@ -1,0 +1,184 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "Sept à huit",
+    "subLabel": "201 Émissions",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-8f8fc9-660450-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-7-a-8-bf1904-f0b445-0@1x.png"
+      }
+     ]
+    },
+    "description": "L'émission Sept à huit offre un panorama hebdomadaire de l'actualité à travers des reportages diversifiés. Harry Roselmack présente les sujets internationaux, politiques et sociétaux, tandis qu'Audrey Crespo-Mara réalise le portrait de la semaine, une interview exclusive sur un événement marquant. ",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/flux-program-card-portrait-1-ef81e8-2576ce-22ba51-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Retrouvez toutes les vidéos de Sept à huit.",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-7-a-8-bf1904-f0b445-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-tv-8f8fc9-660450-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": false,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Information",
+   "mainChannel": {
+    "label": "TF1",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-5165d6-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Magazines",
+    "Enquête"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": false,
+   "editorialSections": [
+    {
+     "slug": "sept-a-huit",
+     "decoration": {
+      "label": "Sept à Huit",
+      "description": null
+     },
+     "id": "1e98151871f9d331",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "emissions",
+     "decoration": {
+      "label": "Emissions",
+      "description": null
+     },
+     "id": "871c6a3b8116d11c",
+     "__typename": "MainContentSection",
+     "lists": [
+      {
+       "id": "9b4b635406685965",
+       "slug": "2026",
+       "total": 75,
+       "decoration": {
+        "label": "2026",
+        "subLabel": ""
+       }
+      },
+      {
+       "id": "a3d81873e520131b",
+       "slug": "2025",
+       "total": 99,
+       "decoration": {
+        "label": "2025",
+        "subLabel": ""
+       }
+      },
+      {
+       "id": "f8a345024a6cb0e0",
+       "slug": "2024",
+       "total": 27,
+       "decoration": {
+        "label": "2024",
+        "subLabel": ""
+       }
+      }
+     ]
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "6fdbc5600898ca30",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "L'émission Sept à huit offre un panorama hebdomadaire de l'actualité à travers des reportages diversifiés. Harry Roselmack présente les sujets internationaux, politiques et sociétaux, tandis qu'Audrey Crespo-Mara réalise le portrait de la semaine, une interview exclusive sur un événement marquant. "
+     },
+     "id": "46042cdf2796a3da",
+     "__typename": "ProgramInfoSection",
+     "actors": [],
+     "directors": [],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    }
+   ]
+  }
+ }
+}

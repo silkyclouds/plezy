@@ -1,0 +1,653 @@
+{
+ "title": "Accueil",
+ "marketingOverlay": null,
+ "metaData": {
+  "requestId": null,
+  "routingGroup": null,
+  "abGroup": null
+ },
+ "referencedOverlays": [],
+ "seoTitle": "RTL play : Replay RTL play et direct des émissions et séries",
+ "seoDescription": "Revoir les programmes RTL play en replay ou en direct: rediffusion gratuite en streaming",
+ "rows": [
+  {
+   "rowType": "TOP_BANNER",
+   "id": "ed7cfeab-375a-445e-b09b-bcb3f68da5de",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "avidci",
+    "campaignId": null
+   },
+   "teaser": {
+    "title": "Cat's Eyes",
+    "target": {
+     "type": "DETAIL",
+     "label": "Voir ",
+     "accessibilityLabel": null,
+     "id": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "name": "Cat's Eyes",
+     "seasonIndex": null
+    },
+    "largeImageUrl": "https://images0.persgroep.net/rcs/s78Yzo-UnjUGWxAY3_FvsOFCZwA/diocontent/278344206/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mediumImageUrl": "https://images1.persgroep.net/rcs/0bIKnibMsYE8WtiXWMamxE2oSk8/diocontent/278344207/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mobileImageUrl": "https://images1.persgroep.net/rcs/LmW0LZiShXFldTBV3_rWvz45cAc/diocontent/278344208/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "mobileCompressedImageUrl": "https://images0.persgroep.net/rcs/QRZi1n6iBUkK8KXOuqNz1N02ibQ/diocontent/278344208/_fitwidth/768?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "smartTvImageUrl": "https://images1.persgroep.net/rcs/JzF4WVgw11Grbj4NLYcj7ChcXko/diocontent/278344221/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "trailerId": null,
+    "addedToMyList": false,
+    "premiumProductLogo": null,
+    "editorialByline": null,
+    "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "byline": "Les trois sœurs sont de retour pour leur mission la plus risquée"
+   }
+  },
+  {
+   "rowType": "SWIMLANE_PORTRAIT",
+   "id": "b89d6397-8fbd-4b47-929a-08faa59784d3",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "À regarder maintenant",
+   "teasers": [
+    {
+     "title": "Alerte à l'hôtel : 30 jours pour tout relancer",
+     "titleArtImageUrl": "https://images2.persgroep.net/rcs/or-5EZrSag9oYjuFlXWiMd7hg4A/diocontent/278696354/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "a42e2578-7c2a-4c44-be1c-2e00fc7041de",
+     "imageUrl": "https://images0.persgroep.net/rcs/N5NrnSfwywkBZuIacU3ltJMw8UM/diocontent/278812338/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214730",
+     "comingSoon": null,
+     "description": "Deux experts aident des hôtels en crise à redresser la barre. Accueil, chambres, restaurant : tout est passé au crible. Face des vérités difficile à entendre, les hôteliers devront revoir leurs méthodes et transformer leur établissement.",
+     "trailerId": null,
+     "heroImageUrl": "https://images3.persgroep.net/rcs/USEze0ZgiDGDidFYzJgz4cDxSik/diocontent/278812339/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images4.persgroep.net/rcs/y92W4sGrw8cKnzWRpKsY0_RKlno/diocontent/278812339/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/20PwVZ6951mrYIBAwZg8BCSL5ks/diocontent/278812339/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/e60ACdSAQEHrJ7puOZdLMMz9gQg/diocontent/278812339/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2026",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "1 saison",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Scream Queens",
+     "titleArtImageUrl": "https://images3.persgroep.net/rcs/3MKFQx9xB6y6OzbJEn5HJ65TstI/diocontent/278667306/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "c82a36a0-b3eb-4640-8d1e-eb1ea4c27a0a",
+     "imageUrl": "https://images2.persgroep.net/rcs/TkkD4InF10uHdVe66ekv2K3abU8/diocontent/278667304/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214276",
+     "comingSoon": null,
+     "description": "La sororité Kappa Kappa Tau règne sur le campus… jusqu’à ce qu’un tueur déguisé en Diable s’en prenne à ses membres une à une. Entre secrets et rivalités, les sœurs devront le démasquer avant qu’il ne soit trop tard.",
+     "trailerId": null,
+     "heroImageUrl": "https://images4.persgroep.net/rcs/KLU7hBdOW0DIAYJDsaxqt6tQ7UM/diocontent/278667296/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/MyZE_edAaACZgR3IysF83fikbp8/diocontent/278667296/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/VwS7Vzvw9aX4Gh6bvjib-n5UF0c/diocontent/278667296/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/gl-JnAqPLdXJvZvNQ4XMD2I5cv8/diocontent/278667296/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2016",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Je vends ma maison",
+     "titleArtImageUrl": "https://images3.persgroep.net/rcs/9p6b4mW-xBqPggE8cU211haz9Zo/diocontent/278684659/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "d1fd6e61-56f6-41fd-b74a-11f96fff2641",
+     "imageUrl": "https://images3.persgroep.net/rcs/pDA6r6z-frjBCT8huxG487ta5v4/diocontent/278796817/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214863",
+     "comingSoon": null,
+     "description": "La concurrence s’invite dans les visites ! Face à de nouveaux challengers, les agents devront redoubler d’idées pour vendre des biens qui peinent à séduire et aider leurs propriétaires à prendre un nouveau départ.",
+     "trailerId": null,
+     "heroImageUrl": "https://images3.persgroep.net/rcs/dyESklFYksHIpez1bSkOKhMElnw/diocontent/278796813/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images4.persgroep.net/rcs/brymt1mcn5hIqIFv61W_mllvxqo/diocontent/278796813/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images3.persgroep.net/rcs/NGcrRZyoRCMCMM6DLf8drc0ruCg/diocontent/278796813/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/0kLJyWhPuEBNxGaADDqTS6OKXDs/diocontent/278796813/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2026",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "6 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Nouvel épisode chaque dimanche",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": null
+  },
+  {
+   "rowType": "SWIMLANE_LANDSCAPE",
+   "id": "624a08ed-d421-4f1a-98e6-8fb16555c85f",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "avidci",
+    "campaignId": null
+   },
+   "title": "Séries immanquables",
+   "teasers": [
+    {
+     "title": "Cat's Eyes",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/5bWrO46Mg27F4SIxNBN43mAIvWg/diocontent/278163993/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0743bae3-a922-455b-9065-090ddbc1caf8",
+     "imageUrl": "https://images1.persgroep.net/rcs/W9Xm_SpJyNI7fmTW38fk3s9IP4Q/diocontent/278163996/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Pour sauver leur père, Tam, Sylia et Alex s’attaquent à un puissant réseau de trafiquants d’art. Du musée d’Orsay au Mont-Saint-Michel, les trois sœurs enchaînent les cambriolages les plus risqués.",
+     "trailerId": null,
+     "heroImageUrl": "https://images1.persgroep.net/rcs/Nh4PAJA-FsFYIuqbKJiMt5wcp44/diocontent/278163995/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images3.persgroep.net/rcs/qD40ezjTy1nKTR0FwbjGcIFWE0w/diocontent/278163995/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/UjYoqg2UAt6OuTkQJx1BMUB_bG4/diocontent/278163995/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/xylevBs20uCY0KIC4TSdIacIQY4/diocontent/278163995/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2025",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Beauty and the Beast",
+     "titleArtImageUrl": "https://images4.persgroep.net/rcs/NxnXaxJAZZBPogOnZ1qLOTyZz6c/diocontent/278175848/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "d00e1935-6940-473f-886c-b4121d3ed4b2",
+     "imageUrl": "https://images1.persgroep.net/rcs/tiP7F1v26f6IJqeJq9YL-hBY4do/diocontent/278175851/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Elle est détective. Il vit caché depuis dix ans avec un terrible secret : sous la colère, il devient une créature incontrôlable. Liés par un drame du passé, ils traquent la vérité, au risque de succomber à une attirance dangereuse.",
+     "trailerId": null,
+     "heroImageUrl": "https://images0.persgroep.net/rcs/FecZSYuxbcz5Tal4KDVcHjbSzuk/diocontent/278175847/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/lz8MnNR9fOugiXEYrjK8T0NBlqQ/diocontent/278175847/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/F79Tdc6mw1bRp2oKmmGYbzkEjWE/diocontent/278175847/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images1.persgroep.net/rcs/gTU6yrcdsaeCLYesw7JNp6sS1Xo/diocontent/278175847/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2016",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "4 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Bates Motel",
+     "titleArtImageUrl": "https://images2.persgroep.net/rcs/8ElJ_pxiALxkMmOKBWZbiZ5AloI/diocontent/277391444/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "0fda66b9-e270-4ffd-b4ca-f0687711a7c3",
+     "imageUrl": "https://images4.persgroep.net/rcs/qwPJuadaDsX6wH12IuFs9FFG7nA/diocontent/279118186/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Norma et son fils pensent pouvoir tout recommencer dans un motel de l’Oregon. Mais leur lien fusionnel et presque incestueux, leurs secrets et les troubles du jeune homme vont transformer leur nouveau départ en cauchemar.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/PAA7dsCp7Kr6yT8VrpRtqAwpoxo/diocontent/279118187/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/bcyr4se87mA2kyE-JQhsdIQab9k/diocontent/279118187/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/buCTg5lO3hHAgpZXvOnL_lEhlg0/diocontent/279118187/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images1.persgroep.net/rcs/BbHUDhFPO57TbTzkJ--o_30mZnM/diocontent/279118187/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2017",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "5 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": null
+  },
+  {
+   "rowType": "SWIMLANE_LANDSCAPE",
+   "id": "2a6c1f64-4dda-4923-ba54-d8e7a6a65515",
+   "hasDetail": true,
+   "metaData": {
+    "provider": "avidci",
+    "campaignId": null
+   },
+   "title": "Films",
+   "teasers": [
+    {
+     "title": "Jamais sans mon psy",
+     "titleArtImageUrl": "https://images3.persgroep.net/rcs/6EqFdUn8fwb8f6jdRsGZAcCEN-8/diocontent/278421861/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "8d962ace-8781-4f1d-8c11-bffe11c2cfbb",
+     "imageUrl": "https://images3.persgroep.net/rcs/d4ucUfp6YhgerpAmx9PKRYx7UiA/diocontent/278421867/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Un psy pensait s’être débarrassé de son patient le plus envahissant… le voilà en couple avec sa fille ! Tous les coups sont permis pour évincer ce futur gendre et retrouver sa tranquillité.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/5vdGQbbTFcRBaA6Lg9JncOgMsGI/diocontent/278421862/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images4.persgroep.net/rcs/krLApVYpbcYAwVONm63l9GALg7M/diocontent/278421862/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images2.persgroep.net/rcs/FkbinmxY2dEWvAa61SntAbEnUsI/diocontent/278421862/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images2.persgroep.net/rcs/-G6aUbLgIWhSyEw85EI8SgTbIcM/diocontent/278421862/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2024",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "87 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "jeu. 08 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Maison de retraite",
+     "titleArtImageUrl": "https://images4.persgroep.net/rcs/qeqdElzdotCIEg_DM3WocxyJ1YQ/diocontent/277878391/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "d1cb72af-01ae-49ef-84bc-d41dc7a87e9b",
+     "imageUrl": "https://images0.persgroep.net/rcs/wS2DaFlCs4B2i5drAUPsyDLf3As/diocontent/277878393/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Pour éviter la prison, Milann doit faire 300 heures de TIG dans une maison de retraite. Adopté par des pensionnaires attachants, il découvre que l’établissement les arnaque. Il décide alors de planifier leur évasion.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/M4tK7adKcPN-KvplIcVNW3o1cEQ/diocontent/277878390/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/DMujiafzP6Vk07yLj4D6tcTDmbg/diocontent/277878390/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/EdKtGoIKq26Z_w1_mSat9HbJPKM/diocontent/277878390/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images0.persgroep.net/rcs/BFPTJVWnOdYhm60GBi3HWurdCBM/diocontent/277878390/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2020",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "93 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "jeu. 24 sept. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "title": "Nous finirons ensemble",
+     "titleArtImageUrl": "https://images3.persgroep.net/rcs/WMgPgpm9MBkYOWhh_MVhCWE4ueA/diocontent/278375031/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "080aa2f9-d08c-49c1-b4b6-2926fac877d5",
+     "imageUrl": "https://images1.persgroep.net/rcs/8pGtfFgMhpgUK5945D57pvjy8KA/diocontent/278375022/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null,
+     "description": "Des années après leurs dernières vacances ensemble, la bande d’amis s’est éloignée. Mais quand Max s’isole au Cap Ferret, ses copains débarquent par surprise pour son anniversaire. Ces retrouvailles raviveront-elles leur amitié ?",
+     "trailerId": null,
+     "heroImageUrl": "https://images0.persgroep.net/rcs/wMJZzrTyfoBn_YoKvn1lfT8CWIQ/diocontent/278375030/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/EhUfx8LJMRTC7GGxScr68ayshcw/diocontent/278375030/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/2nr49V51KrcQV0MYVZge0HGL3pc/diocontent/278375030/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images1.persgroep.net/rcs/xr3xkEfkwaI3Pe8WyvwfwzcoGgY/diocontent/278375030/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2018",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "128 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "dim. 04 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "Encore 14 jours",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ],
+   "teaserStyle": "DEFAULT",
+   "brandingStyle": null
+  },
+  {
+   "rowType": "SPRINGBOARD",
+   "id": "33d56761-92de-4706-85a3-c5a953e177cd",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "tiles": [
+    {
+     "title": "Documentaires",
+     "target": {
+      "type": "STOREFRONT",
+      "storefront": "documentaires"
+     },
+     "imageUrl": "https://images2.persgroep.net/rcs/MSDxTL5w8fpn5pVJIJfaerTC_hI/diocontent/261376260/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/h6YZITBruPo6PlXHLMp7017mUDE/diocontent/259828356/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    {
+     "title": "Sport",
+     "target": {
+      "type": "STOREFRONT",
+      "storefront": "sport"
+     },
+     "imageUrl": "https://images3.persgroep.net/rcs/a9phS1mJ0ZKiH4kXgB4Pfz0XPdQ/diocontent/245116745/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/C8yS6DHu_jdtDteQCRQtX7HZoX0/diocontent/245117331/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    {
+     "title": "Séries",
+     "target": {
+      "type": "STOREFRONT",
+      "storefront": "series"
+     },
+     "imageUrl": "https://images2.persgroep.net/rcs/a1v9ap0xaq4DhXGM8hrgrkIXREY/diocontent/242156888/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/C8yS6DHu_jdtDteQCRQtX7HZoX0/diocontent/245117331/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    {
+     "title": "Films",
+     "target": {
+      "type": "STOREFRONT",
+      "storefront": "films"
+     },
+     "imageUrl": "https://images4.persgroep.net/rcs/rI4-7_OPLNuhyDQ0tAUwDsijDgg/diocontent/242157034/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/C8yS6DHu_jdtDteQCRQtX7HZoX0/diocontent/245117331/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    {
+     "title": "Divertissement",
+     "target": {
+      "type": "STOREFRONT",
+      "storefront": "divertissement"
+     },
+     "imageUrl": "https://images2.persgroep.net/rcs/PTWHqRps6WZgBNF4c8GoYUTlCNI/diocontent/242157195/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/C8yS6DHu_jdtDteQCRQtX7HZoX0/diocontent/245117331/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    },
+    {
+     "title": "Info et société",
+     "target": {
+      "type": "ROW_DETAIL",
+      "storefront": "accueil",
+      "rowId": "75072bdf-443a-4885-ae35-fd53baf828fb"
+     },
+     "imageUrl": "https://images0.persgroep.net/rcs/aH3sN81wZN-6ZFRKqBm2op3Adww/diocontent/261376293/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "hoverImageUrl": "https://images1.persgroep.net/rcs/C8yS6DHu_jdtDteQCRQtX7HZoX0/diocontent/245117331/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+    }
+   ],
+   "title": null
+  },
+  {
+   "rowType": "SWIMLANE_TOP10",
+   "id": "f6e91ff9-7173-4152-b0d3-ba80cfabe2c6",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "Top 10",
+   "teasers": [
+    {
+     "title": "L'amour est dans le pré",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/0AdHZeLbSDLaJ5VDAmgQTI2PNBk/diocontent/277364958/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "4d95209c-9501-4b98-85a3-2d5bb7d47b67",
+     "landscapeImageUrl": "https://images4.persgroep.net/rcs/0lurzBgmomeJGegJ4ErZxnAVjRc/diocontent/277726466/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images0.persgroep.net/rcs/JoWVqtPgQ6snSMqq5CUMSZjJcj0/diocontent/277726464/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Benjamin rêve de vivre son premier baiser, Oksana veut réapprendre à aimer et Martin attend son prince charmant. Cette saison, dix agriculteurs et agricultrices ouvrent leur cœur et tentent leur chance en amour.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/_M5JnobKXlOmxVMSAkRn-A4FYmE/diocontent/277726470/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images1.persgroep.net/rcs/mmgsDuqW9RHpSzCvrCybjpnYpiU/diocontent/277726470/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images4.persgroep.net/rcs/bBRjQHYTCIWLJw8CwuchIQ1ichA/diocontent/277726470/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images4.persgroep.net/rcs/2XkKVO8eDXKuqvKd-bGnOIq6FtA/diocontent/277726470/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2026",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "2 saisons",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Nouvel épisode chaque dimanche",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    },
+    {
+     "title": "Little Fires Everywhere",
+     "titleArtImageUrl": "https://images1.persgroep.net/rcs/8gRDiNuRiVF7jstxBadxgass3Mc/diocontent/279287227/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "c865e420-6796-44dc-9f72-56f8d6a643fe",
+     "landscapeImageUrl": "https://images2.persgroep.net/rcs/R4Apd2Syr-PFRclBe6uKRHJqVOo/diocontent/279287256/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images3.persgroep.net/rcs/xB7IAEj9NPzSObYIcXR_Y6vWweo/diocontent/279287253/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Tout oppose Mia, artiste indépendante, et Elena, mère irréprochable en apparence. Alors que leurs familles se rapprochent, des secrets du passé éclatent, révélant jusqu’où chacune est prête à aller pour protéger ses enfants.",
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/Z9J4ggQFRs484ih90JIyvtezUpk/diocontent/279287230/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/1P-zIGfGrSWjsHWsWlERjhaKT0Y/diocontent/279287230/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/ZoXtjt4fhC_Yp2zegsCqNoVWMQI/diocontent/279287230/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/kj7LpnqG9HaIzed3-2ixbaCwYK8/diocontent/279287230/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2020",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "1 saison",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    },
+    {
+     "title": "La Villa des Cœurs Brisés",
+     "titleArtImageUrl": "https://images2.persgroep.net/rcs/YYrZtRHzNlYbkk35Iikjadk8Ny0/diocontent/276717567/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "detailId": "7601e40f-3feb-4d7b-ba3e-e7a1d0b36faa",
+     "landscapeImageUrl": "https://images2.persgroep.net/rcs/ond9IY6cZvkdOb1ihMpWdgtLiZQ/diocontent/276717568/_fitwidth/700?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitImageUrl": "https://images4.persgroep.net/rcs/Yy3cWw5SL2c3GnxZGd_S07-hH3w/diocontent/276717566/_fitwidth/320?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "portraitOverlayImageUrl": null,
+     "description": "Blessés par l’amour, ils viennent réparer leur cœur. Cette saison, leurs secrets seront mis à l’épreuve : trois nouvelles expériences et une Boîte Noire vont faire tomber les masques et révéler les vérités les mieux gardées.",
+     "trailerId": null,
+     "heroImageUrl": "https://images0.persgroep.net/rcs/AtqKc5tdvQsItSZVUPP8ERQIP1E/diocontent/276717565/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images2.persgroep.net/rcs/KxCk_mkiD_dPc2zzJXWqbvFOf0Q/diocontent/276717565/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images1.persgroep.net/rcs/4uy6jELDMRNsy28t6X5VCTytsuQ/diocontent/276717565/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images2.persgroep.net/rcs/CcGJrixNLj7UgfzMW0kfErIHe-8/diocontent/276717565/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [
+      {
+       "label": "2026",
+       "emphasized": false,
+       "accessibilityLabel": "Année de production"
+      },
+      {
+       "label": "1 saison",
+       "emphasized": false,
+       "accessibilityLabel": null
+      },
+      {
+       "label": "Prochain épisode aujourd'hui",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "premiumProductLogo": null,
+     "addedToMyList": false,
+     "editorialByline": null
+    }
+   ]
+  },
+  {
+   "rowType": "LIVE_CHANNELS",
+   "id": "f98f441d-106a-4f56-a99c-e1ec147aa906",
+   "hasDetail": false,
+   "metaData": {
+    "provider": "APP",
+    "campaignId": null
+   },
+   "title": "En direct",
+   "teasers": [
+    {
+     "name": "RTL tvi",
+     "channelId": "1f4a2a96-5441-470d-adc8-f50435f4f268",
+     "channelSeoKey": "tvi",
+     "overlayImageUrl": "https://images4.persgroep.net/rcs/xo0tj2-caH0kV-y8zqnqwcN7Lmg/diocontent/242214412/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "progressGradientStart": "#fe2963",
+     "progressGradientEnd": "#8c1d3a",
+     "description": null,
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/UKTggQsS5gB7joQTNbChePkavSU/diocontent/242210915/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images3.persgroep.net/rcs/PoVGElotXf6oj04BvRdcJ0pPqyM/diocontent/242210915/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images1.persgroep.net/rcs/vpjmU2TtvEe50H1qXSYgdhtb73A/diocontent/242210915/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/Bp2quSYD70TIYv-LhzedDyYYNhc/diocontent/242210915/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [],
+     "title": "RTL tvi",
+     "titleArtImageUrl": null,
+     "teaserImageUrl": "https://images1.persgroep.net/rcs/S3enKhCtAW-4svRUEb6RVSeBiKw/diocontent/242210915/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "startsAt": "2026-10-21T05:00:00+02:00",
+     "endsAt": "2026-10-21T10:00:00+02:00",
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "name": "RTL club",
+     "channelId": "5eca9890-5d6f-45d7-94de-629fb8837cde",
+     "channelSeoKey": "club",
+     "overlayImageUrl": "https://images2.persgroep.net/rcs/C396XFH9poPSBLxvnA0w1E5uBeg/diocontent/242214779/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "progressGradientStart": "#fe2963",
+     "progressGradientEnd": "#8c1d3a",
+     "description": null,
+     "trailerId": null,
+     "heroImageUrl": "https://images2.persgroep.net/rcs/Rur4XOCWRSu88yD2L5ELGq6Fics/diocontent/242210588/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images0.persgroep.net/rcs/dZpx379s8ZCqsz5e8XBOvnYacvo/diocontent/242210588/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images2.persgroep.net/rcs/zPUV9fQK9sdVJR7T0IvYCjQpfr8/diocontent/242210588/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images2.persgroep.net/rcs/_Sg36Bnd2wuRWhPb1CwT05gFzr4/diocontent/242210588/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [],
+     "title": "RTL club",
+     "titleArtImageUrl": null,
+     "teaserImageUrl": "https://images3.persgroep.net/rcs/E44ilp5DgEPsIDHJquwMqYqQdxI/diocontent/242210588/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "startsAt": "2026-10-21T07:40:00+02:00",
+     "endsAt": "2026-10-21T14:15:00+02:00",
+     "premiumProductLogo": null,
+     "editorialByline": null
+    },
+    {
+     "name": "RTL plug",
+     "channelId": "55d7b832-4238-4ad4-9541-9e80c0ede843",
+     "channelSeoKey": "plug",
+     "overlayImageUrl": "https://images3.persgroep.net/rcs/MCcwEB6cgXxTBvN3K5eI_Ms4KR0/diocontent/242214811/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "progressGradientStart": "#fe2963",
+     "progressGradientEnd": "#8c1d3a",
+     "description": null,
+     "trailerId": null,
+     "heroImageUrl": "https://images3.persgroep.net/rcs/VkmjgoGgPFWISWCIAob8FhZs_dQ/diocontent/242210551/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "heroImage": {
+      "url1280": "https://images4.persgroep.net/rcs/W6P_NTn1lQMLl9GLkOuH4OeXSEE/diocontent/242210551/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url1920": "https://images0.persgroep.net/rcs/g1o08HKEG3PV3NEJduXMRv0jYM8/diocontent/242210551/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+      "url2560": "https://images3.persgroep.net/rcs/wj4a0KoceUevjbVTLbG07ueIvI4/diocontent/242210551/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+     },
+     "labels": [],
+     "title": "RTL plug",
+     "titleArtImageUrl": null,
+     "teaserImageUrl": "https://images1.persgroep.net/rcs/yXleZh439_UqAxCAxnSXy72LxNo/diocontent/242210551/_alter?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "startsAt": "2026-10-21T06:00:00+02:00",
+     "endsAt": "2026-10-21T10:00:00+02:00",
+     "premiumProductLogo": null,
+     "editorialByline": null
+    }
+   ]
+  }
+ ]
+}

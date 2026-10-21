@@ -1,0 +1,62 @@
+{
+ "showList": [
+  {
+   "id": "5615b0e0-868b-35e7-8328-6e8238ecdfb0",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:5615b0e0-868b-35e7-8328-6e8238ecdfb0",
+   "title": "À vrai dire",
+   "description": "Tous les trimestres, \"À vrai dire\" décrypte les mécanismes de la désinformation et aide les citoyens à s'en prémunir. Présentée par Mohamed Kaci, l'émission combine enquête de terrain et débat",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/niq0r8-29224189.image/16x9",
+   "imageTitle": "À vrai dire",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/niq0r8-29224189.image/16x9",
+   "posterImageUrl": "https://il.srgssr.ch/image-service/dynamic/4d02e478.jpg",
+   "posterImageIsFallbackUrl": true,
+   "numberOfEpisodes": 4,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "623",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:623",
+     "title": "Documentaires",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/otgfb0-28403267.image",
+     "imageTitle": "Documentaires"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "f62def09-a384-339b-b0e9-b93f2a762402",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:show:tv:f62def09-a384-339b-b0e9-b93f2a762402",
+   "title": "Anatomía de un instante",
+   "description": "L’Anatomie d’un instant est l’histoire de la tentative de coup d’État espagnol du 23 février 1981, le récit des années les plus turbulentes de la transition démocratique espagnole, guidée par son",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/8fb1eda1-29351125.image/16x9",
+   "imageTitle": "Anatomía de un instante",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/8fb1eda1-29351125.image/16x9",
+   "posterImageUrl": "https://img.rts.ch/medias/2026/image/aa15df04-29373181.image/2x3",
+   "posterImageIsFallbackUrl": false,
+   "numberOfEpisodes": 4,
+   "audioDescriptionAvailable": false,
+   "subtitlesAvailable": false,
+   "multiAudioLanguagesAvailable": false,
+   "topicList": [
+    {
+     "id": "1353",
+     "vendor": "RTS",
+     "transmission": "TV",
+     "urn": "urn:rts:topic:tv:1353",
+     "title": "Séries et Films",
+     "imageUrl": "https://img.rts.ch/articles/2023/image/2x77a4-28403268.image",
+     "imageTitle": "Séries et Films"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

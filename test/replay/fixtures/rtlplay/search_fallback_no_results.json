@@ -1,0 +1,49 @@
+{
+ "userMessage": "Aucun résultat trouvé pour cette recherche",
+ "results": [
+  {
+   "title": "Recherches populaires",
+   "teasers": [
+    {
+     "title": "Plus belle la vie, encore plus belle",
+     "detailId": "7ba37b1e-9aef-45bf-9730-497e46f7e0a5",
+     "genre": "Série",
+     "imageUrl": "https://images4.persgroep.net/rcs/6bfE7snuPgaklHhsnxL1YQL-H6o/diocontent/273922606/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    },
+    {
+     "title": "La Villa des Cœurs Brisés",
+     "detailId": "7601e40f-3feb-4d7b-ba3e-e7a1d0b36faa",
+     "genre": "Divertissement",
+     "imageUrl": "https://images1.persgroep.net/rcs/-uGvRurOpiHQlJ1_G5dRyauzZB8/diocontent/276717568/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    },
+    {
+     "title": "Champions League",
+     "detailId": "9781f5fb-7288-401e-9af6-2d229dc9383c",
+     "genre": null,
+     "imageUrl": "https://images3.persgroep.net/rcs/NpkkQ0fArvs4isPye6Kn837S2hE/diocontent/276846398/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    },
+    {
+     "title": "RTL info 19 heures",
+     "detailId": "75778047-34c8-41f2-b104-b05945d20deb",
+     "genre": "Infos",
+     "imageUrl": "https://images0.persgroep.net/rcs/2J3U_HDmSzC6pAkMDqwvyLuGVQQ/diocontent/274102501/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "overlayImageUrl": null,
+     "comingSoon": null
+    }
+   ],
+   "type": "fallback_no_results",
+   "metaProvider": "avidci"
+  }
+ ],
+ "metaData": {
+  "requestId": "008660e9-2e6a-4b26-9144-957305ff54be",
+  "abGroup": "default",
+  "version": null
+ }
+}

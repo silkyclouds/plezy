@@ -1,0 +1,88 @@
+{
+ "id": "clip_13200229",
+ "type": "vi",
+ "title": "S3 E4 - La plume est dans le sac",
+ "description": "Spencer se rend à Philadelphie afin de vérifier les déclarations de Melissa et d’éclaircir les circonstances de sa fausse grossesse. Pendant ce temps, Hanna apprend que Mona a perdu ses droits de visite, ce qui renforce ses soupçons sur les activités de Radley. Les autres filles tentent de réunir de",
+ "duration": 2538,
+ "publication_date": "2026-10-15 00:00:00",
+ "csa": {
+  "code": "2",
+  "id": 2,
+  "label": "Interdit aux moins de 10 ans",
+  "sort_index": 10,
+  "icon_name": "Csa10",
+  "age": 10
+ },
+ "freemium_packs": [],
+ "freemium_products": [],
+ "program": {
+  "id": 28545,
+  "code": "pretty-little-liars",
+  "title": "Pretty little liars"
+ },
+ "images": [
+  {
+   "external_key": "5028856",
+   "role": "vignette",
+   "id": 4763814
+  }
+ ],
+ "clips": [
+  {
+   "areas": [
+    {
+     "zone_id": "11"
+    }
+   ],
+   "assets": [
+    {
+     "type": "usp_dashcenc_h264",
+     "video_quality": "sd",
+     "video_protection": "software",
+     "video_container": "mpd",
+     "video_duration": 2538,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_f74aff39bd0e95cf2b7ecb63d391a6f8_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792604993&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_dashcenc_h264",
+     "video_quality": "hd",
+     "video_protection": "software",
+     "video_container": "mpd",
+     "video_duration": 2538,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_4aceca1a27998d806cce9233d8f9fa2a_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792604993&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_hlsfp_h264",
+     "video_quality": "sd",
+     "video_protection": "software",
+     "video_container": "m3u8",
+     "video_duration": 2538,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_2636844c0f11fa8c7fc64b22423adddb_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792604993&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_hlsfp_h264",
+     "video_quality": "hd",
+     "video_protection": "software",
+     "video_container": "m3u8",
+     "video_duration": 2538,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/2/a/6/2a60e7c14bee619e6314216213e5ee39c7fa7689/static/13200229_89d2a89fcabe41a0257ffffe1e661d35_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792604993&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+    }
+   ],
+   "tc_opening_credits": 197.4,
+   "tc_ending_credits": 2505.56,
+   "product": {
+    "season": 3,
+    "episode": 4,
+    "season_title": "Saison 3",
+    "season_id": 25355,
+    "part_number": null,
+    "first_local_air_date": "2014-01-21 00:00:00",
+    "summary": "Spencer se rend à Philadelphie afin de vérifier les déclarations de Melissa et d’éclaircir les circonstances de sa fausse grossesse. Pendant ce temps, Hanna apprend que Mona a perdu ses droits de visite, ce qui renforce ses soupçons sur les activités de Radley. Les autres filles tentent de réunir de"
+   }
+  }
+ ]
+}

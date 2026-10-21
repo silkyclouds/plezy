@@ -1,0 +1,93 @@
+{
+ "id": "clip_12571221",
+ "type": "vi",
+ "title": "Un cousin marteau",
+ "description": "Sharko doit s'absenter et pour ne pas laisser Marina seule, il fait appel à son cousin, un requin marteau qui n'est pas très futé. Marina est un peu déçue mais s'intéresse quand même à son compagnon. Avec un garde du corps aussi bête, Zig se dit q...",
+ "duration": 442,
+ "publication_date": "2025-02-01 00:00:00,2025-02-01 00:00:00",
+ "csa": {
+  "code": "1",
+  "id": 1,
+  "label": "Tous publics",
+  "sort_index": 0,
+  "icon_name": "",
+  "age": 0
+ },
+ "freemium_packs": [],
+ "freemium_products": [],
+ "program": {
+  "id": 15179,
+  "code": "zig-et-sharko",
+  "title": "Zig et Sharko"
+ },
+ "images": [
+  {
+   "external_key": "2644912",
+   "role": "vignette",
+   "id": 2324409
+  },
+  {
+   "external_key": "2644911",
+   "role": "vignette",
+   "id": 2324411
+  }
+ ],
+ "clips": [
+  {
+   "areas": [
+    {
+     "zone_id": "34"
+    }
+   ],
+   "assets": [
+    {
+     "type": "usp_dashcenc_h264",
+     "video_quality": "sd",
+     "video_protection": "software",
+     "video_container": "mpd",
+     "video_duration": 442,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/7/0/0/700c828111663361d865d332d3fea6e8a02c953d/static/12571221_14add27234166b9d163c0dfa94390fc2_web_dash_upTo576p_540p_vbr_cae_drm_software.mpd?expiration=1792605026&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_hlsfp_h264",
+     "video_quality": "sd",
+     "video_protection": "software",
+     "video_container": "m3u8",
+     "video_duration": 442,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/7/0/0/700c828111663361d865d332d3fea6e8a02c953d/static/12571221_9976ff0cd57fbf20a8ef67d7c5f5a750_web_hls_upTo576p_540p_vbr_cae_drm_software.m3u8?expiration=1792605026&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_dashcenc_h264",
+     "video_quality": "sd",
+     "video_protection": "software",
+     "video_container": "mpd",
+     "video_duration": 442,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/7/0/0/700c828111663361d865d332d3fea6e8a02c953d/static/12571221_dbe061535c56097912faa763231d34de_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792605026&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+    },
+    {
+     "type": "usp_dashcenc_h264",
+     "video_quality": "hd",
+     "video_protection": "software",
+     "video_container": "mpd",
+     "video_duration": 442,
+     "audio_quality": "stereo",
+     "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/7/0/0/700c828111663361d865d332d3fea6e8a02c953d/static/12571221_71f4d5653b98f654c5ff33feb149236a_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792605026&scheme=https&groups%5B0%5D=m6web&countries=RlJ8R0Z8UEZ8VEZ8R1B8TVF8WVR8TkN8UkV8Qkx8TUZ8UE18V0Z8QUR8TUN8QkV8TFU%3D&token=TOKEN"
+    }
+   ],
+   "tc_opening_credits": null,
+   "tc_ending_credits": null,
+   "product": {
+    "season": 1,
+    "episode": 32,
+    "season_title": "Saison 1",
+    "season_id": 4349,
+    "part_number": null,
+    "first_local_air_date": "2013-01-16 00:00:00",
+    "summary": "Sharko doit s'absenter et pour ne pas laisser Marina seule, il fait appel à son cousin, un requin marteau qui n'est pas très futé. Marina est un peu déçue mais s'intéresse quand même à son compagnon. Avec un garde du corps aussi bête, Zig se dit q..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+[
+ {
+  "id": "clip_12895326",
+  "type": "vi",
+  "title": "Épisode 1",
+  "description": "Jamie utilise les ingrédients courants et les combine pour créer de nouveaux plats qui raviront la famille. Il associe du poulet et des saucisses pour réinventer le poulet rôti. Puis il ajoute une touche britannique à la bolognaise classique.",
+  "duration": 1372,
+  "publication_date": "2025-04-09 13:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [
+   {
+    "code": "paris-premiere",
+    "description": "pp",
+    "id": 4,
+    "title": "paris-premiere",
+    "type": "content"
+   }
+  ],
+  "program": {
+   "id": 20534,
+   "code": "jamie-oliver-repas-simples-pour-tous-les-jour",
+   "title": "Jamie Oliver : repas simples pour tous les jours"
+  },
+  "images": [
+   {
+    "external_key": "3523676",
+    "role": "vignette",
+    "id": 3277437
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": null,
+    "tc_opening_credits": null,
+    "tc_ending_credits": 1324.64,
+    "product": {
+     "season": 1,
+     "episode": 1,
+     "season_title": "Jamie Oliver : repas simples pour tous les jours",
+     "season_id": 8719,
+     "part_number": null,
+     "first_local_air_date": "2021-09-26 00:00:00",
+     "summary": "Jamie Oliver nous accueille dans sa maison de l'Essex, en Angleterre. Pour notre plus grand plaisir, il utilise des ingrédients connus et aimés de tous pour concocter de nouveaux repas simples et abordables qui régaleront toute la famille."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_12895327",
+  "type": "vi",
+  "title": "Épisode 2",
+  "description": "Jamie nous montre comment faire d'irrésistibles pâtes au chou-fleur et au fromage. Il réinterprète un classique de la cuisine familiale et nous offre une version plus saine du poulet à la Kiev.",
+  "duration": 1415,
+  "publication_date": "2025-04-09 13:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [
+   {
+    "code": "paris-premiere",
+    "description": "pp",
+    "id": 4,
+    "title": "paris-premiere",
+    "type": "content"
+   }
+  ],
+  "program": {
+   "id": 20534,
+   "code": "jamie-oliver-repas-simples-pour-tous-les-jour",
+   "title": "Jamie Oliver : repas simples pour tous les jours"
+  },
+  "images": [
+   {
+    "external_key": "3523683",
+    "role": "vignette",
+    "id": 3277443
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": null,
+    "tc_opening_credits": null,
+    "tc_ending_credits": 1367.52,
+    "product": {
+     "season": 1,
+     "episode": 2,
+     "season_title": "Jamie Oliver : repas simples pour tous les jours",
+     "season_id": 8719,
+     "part_number": null,
+     "first_local_air_date": "2021-09-26 00:00:00",
+     "summary": "Jamie Oliver nous accueille dans sa maison de l'Essex, en Angleterre. Pour notre plus grand plaisir, il utilise des ingrédients connus et aimés de tous pour concocter de nouveaux repas simples et abordables qui régaleront toute la famille."
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_12896211",
+  "type": "vi",
+  "title": "Épisode 3",
+  "description": "Jamie prépare des cannellonis aux champignons, posés sur un lit d'épinards avec un fromage onctueux. Un vrai repas sans viande ! Il enchaîne avec de délicieuses brochettes de crevettes à l'ail.",
+  "duration": 1408,
+  "publication_date": "2025-04-09 13:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [
+   {
+    "code": "paris-premiere",
+    "description": "pp",
+    "id": 4,
+    "title": "paris-premiere",
+    "type": "content"
+   }
+  ],
+  "program": {
+   "id": 20534,
+   "code": "jamie-oliver-repas-simples-pour-tous-les-jour",
+   "title": "Jamie Oliver : repas simples pour tous les jours"
+  },
+  "images": [
+   {
+    "external_key": "3573320",
+    "role": "vignette",
+    "id": 3326463
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": null,
+    "tc_opening_credits": null,
+    "tc_ending_credits": 1360.52,
+    "product": {
+     "season": 1,
+     "episode": 3,
+     "season_title": "Jamie Oliver : repas simples pour tous les jours",
+     "season_id": 8719,
+     "part_number": null,
+     "first_local_air_date": "2021-10-03 00:00:00",
+     "summary": null
+    }
+   }
+  ]
+ }
+]

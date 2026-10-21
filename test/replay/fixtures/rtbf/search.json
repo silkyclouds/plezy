@@ -1,0 +1,315 @@
+{
+ "status": 200,
+ "meta": null,
+ "data": [
+  {
+   "title": "Programmes (38)",
+   "subtitle": "Films, Séries, Emissions, Podcasts, …",
+   "type": "PROGRAM_LIST",
+   "content": [
+    {
+     "resourceType": "PROGRAM",
+     "id": "23855",
+     "path": "/emission/mon-geste-pour-notre-planete-23855",
+     "pathTitle": "",
+     "title": "Mon geste pour notre planète",
+     "type": "AUDIO_SHOW",
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/e/d/8/ed8f8e6899bf5879249355721053dcf8.jpg",
+      "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/e/d/8/ed8f8e6899bf5879249355721053dcf8.jpg",
+      "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/e/d/8/ed8f8e6899bf5879249355721053dcf8.jpg",
+      "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/e/d/8/ed8f8e6899bf5879249355721053dcf8.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/e/d/8/ed8f8e6899bf5879249355721053dcf8.jpg"
+     },
+     "hero": null
+    },
+    {
+     "resourceType": "PROGRAM",
+     "id": "23824",
+     "path": "/emission/y-a-pas-de-planete-b-23824",
+     "pathTitle": "",
+     "title": "Y'a pas de planète B",
+     "type": "SHOW",
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/e/1/d/e1d67f962c435abc1f67932aa591862c.jpg",
+      "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/e/1/d/e1d67f962c435abc1f67932aa591862c.jpg",
+      "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/e/1/d/e1d67f962c435abc1f67932aa591862c.jpg",
+      "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/e/1/d/e1d67f962c435abc1f67932aa591862c.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/e/1/d/e1d67f962c435abc1f67932aa591862c.jpg"
+     },
+     "hero": null
+    },
+    {
+     "resourceType": "PROGRAM",
+     "id": "5797",
+     "path": "/emission/quel-temps-pour-la-planete-5797",
+     "pathTitle": "",
+     "title": "Quel Temps pour la Planète",
+     "type": "SHOW",
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/f/c/b/fcb8d514c32c9acc848bea9cbd0006b7.jpg",
+      "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/f/c/b/fcb8d514c32c9acc848bea9cbd0006b7.jpg",
+      "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/f/c/b/fcb8d514c32c9acc848bea9cbd0006b7.jpg",
+      "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/f/c/b/fcb8d514c32c9acc848bea9cbd0006b7.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/f/c/b/fcb8d514c32c9acc848bea9cbd0006b7.jpg"
+     },
+     "hero": null
+    }
+   ],
+   "cta": {
+    "path": "/explorer/PROGRAM_LIST?query=planete&dataResourceType=PROGRAM_LIST",
+    "label": "Voir tout"
+   }
+  },
+  {
+   "title": "Offre premium Sooner (8)",
+   "subtitle": null,
+   "type": "MEDIA_PREMIUM_LIST",
+   "content": [
+    {
+     "resourceType": "MEDIA_PREMIUM",
+     "id": "3261284",
+     "programId": 21812,
+     "assetId": "3261284_6BA97Bb",
+     "path": "/media/la-planete-sauvage-3261284",
+     "embedPath": "/embed/generic/content/media/3261284",
+     "pathTitle": "",
+     "type": "VIDEO",
+     "title": "La Planète sauvage",
+     "subtitle": "",
+     "description": "Sur la planète Ygam, les Draags, géants bleus aux yeux rouges, forment une société très évoluée. Ils possèdent de minuscules animaux familiers, les Oms, ramenés d'une lointaine planète dévastée. Tout commence lorsque Tiwa fille du Grand Edile, adopte un bébé Om qu'elle baptise Terr... Prix spécial du jury au festival de Cannes 1973",
+     "publishedFrom": "2017-04-14T00:00:00+02:00",
+     "publishedTo": "2099-01-01T00:00:00+01:00",
+     "releaseDate": "14/04/17",
+     "duration": 4320,
+     "rating": "-10",
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": false,
+     "stamp": {
+      "backgroundColor": "#00B2FF",
+      "textColor": "#FFFFFF",
+      "label": "Sooner"
+     },
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/e/b/5/eb5ce3b1cb50745be78e3800f7073b5f.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/e/b/5/eb5ce3b1cb50745be78e3800f7073b5f.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/e/b/5/eb5ce3b1cb50745be78e3800f7073b5f.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/e/b/5/eb5ce3b1cb50745be78e3800f7073b5f.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/e/b/5/eb5ce3b1cb50745be78e3800f7073b5f.jpg"
+     },
+     "channelLabel": "",
+     "categoryLabel": "Animation",
+     "products": [
+      {
+       "id": "sooner_6BA97Bb",
+       "label": "Sooner"
+      }
+     ]
+    },
+    {
+     "resourceType": "MEDIA_PREMIUM",
+     "id": "3333456",
+     "programId": 29771,
+     "assetId": "3333456_6BA97Bb",
+     "path": "/media/les-gardiennes-de-la-planete-3333456",
+     "embedPath": "/embed/generic/content/media/3333456",
+     "pathTitle": "",
+     "type": "VIDEO",
+     "title": "Les gardiennes de la planète",
+     "subtitle": "",
+     "description": "Une baleine à bosse s'est échouée sur un rivage isolé. Au cours de la lutte pour lui sauver la vie, nous découvrirons l'histoire de ces créatures extraordinaires, habitants des océans du monde.  Adaptation du roman, Whale Nation, d'Heathcote Williams.",
+     "publishedFrom": "2025-04-16T00:00:00+02:00",
+     "publishedTo": "2099-01-01T00:00:00+01:00",
+     "releaseDate": "16/04/25",
+     "duration": 4860,
+     "rating": null,
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": true,
+     "stamp": {
+      "backgroundColor": "#00B2FF",
+      "textColor": "#FFFFFF",
+      "label": "Sooner"
+     },
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/6/7/c/67ce5d1d82af86616fe047b8cd02b119.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/6/7/c/67ce5d1d82af86616fe047b8cd02b119.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/6/7/c/67ce5d1d82af86616fe047b8cd02b119.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/6/7/c/67ce5d1d82af86616fe047b8cd02b119.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/6/7/c/67ce5d1d82af86616fe047b8cd02b119.jpg"
+     },
+     "channelLabel": "",
+     "categoryLabel": "Documentaires",
+     "products": [
+      {
+       "id": "sooner_6BA97Bb",
+       "label": "Sooner"
+      }
+     ]
+    },
+    {
+     "resourceType": "MEDIA_PREMIUM",
+     "id": "3411897",
+     "programId": 30954,
+     "assetId": "3411897_6BA97Bb",
+     "path": "/media/fumer-fait-tousser-3411897",
+     "embedPath": "/embed/generic/content/media/3411897",
+     "pathTitle": "",
+     "type": "VIDEO",
+     "title": "Fumer fait tousser",
+     "subtitle": "",
+     "description": "Après un combat acharné contre une tortue démoniaque, cinq justiciers qu’on appelle les \"TABAC FORCE\", reçoivent l’ordre de partir en retraite pour renforcer la cohésion de leur groupe qui est en train de se dégrader. Le séjour se déroule à merveille jusqu’à ce que Lézardin, empereur du Mal, décide d’anéantir la planète Terre…",
+     "publishedFrom": "2025-12-03T00:00:00+01:00",
+     "publishedTo": "2099-01-01T00:00:00+01:00",
+     "releaseDate": "03/12/25",
+     "duration": 4800,
+     "rating": null,
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": false,
+     "stamp": {
+      "backgroundColor": "#00B2FF",
+      "textColor": "#FFFFFF",
+      "label": "Sooner"
+     },
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/7/b/b/7bb9948b3757001ac308552d007ae474.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/7/b/b/7bb9948b3757001ac308552d007ae474.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/7/b/b/7bb9948b3757001ac308552d007ae474.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/7/b/b/7bb9948b3757001ac308552d007ae474.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/3x4/600x800/7/b/b/7bb9948b3757001ac308552d007ae474.jpg"
+     },
+     "channelLabel": "",
+     "categoryLabel": "Comédie",
+     "products": [
+      {
+       "id": "sooner_6BA97Bb",
+       "label": "Sooner"
+      }
+     ]
+    }
+   ],
+   "cta": null
+  },
+  {
+   "title": "Vidéos et audios (2478)",
+   "subtitle": null,
+   "type": "MEDIA_LIST",
+   "content": [
+    {
+     "resourceType": "MEDIA",
+     "id": "3540154",
+     "programId": 29942,
+     "assetId": "3540154_6BA97Bb",
+     "path": "/media/grandes-institutions-musicales-les-chroniques-de-la-grande-matinee-avec-francois-caudron-3540154",
+     "embedPath": "/embed/generic/content/media/3540154",
+     "pathTitle": "",
+     "type": "AUDIO",
+     "title": "Les chroniques de la Grande matinée, avec François Caudron",
+     "subtitle": "En concert : Les Planètes de Gustav Holst par l'Orchestre d'Arts²",
+     "description": "Coup d’œil sur l’actualité de nos grandes institutions musicales. Concerts, évènements, interprètes par le prisme de l’interview et du reportage.",
+     "publishedFrom": "2026-10-19T08:30:00+02:00",
+     "publishedTo": "2026-11-03T08:30:00+01:00",
+     "releaseDate": "19/10/26",
+     "duration": 240,
+     "rating": null,
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": false,
+     "stamp": null,
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/1/d/d/1dd71913e972349a57557bfde706b307.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/1/d/d/1dd71913e972349a57557bfde706b307.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/1/d/d/1dd71913e972349a57557bfde706b307.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/1/d/d/1dd71913e972349a57557bfde706b307.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/1/d/d/1dd71913e972349a57557bfde706b307.jpg"
+     },
+     "channelLabel": "Musiq3",
+     "categoryLabel": "Musique",
+     "products": []
+    },
+    {
+     "resourceType": "MEDIA",
+     "id": "3448957",
+     "programId": 11090,
+     "assetId": "3448957_6BA97Bb",
+     "path": "/media/tendances-premiere-tendances-premiere-les-tendanceurs-3448957",
+     "embedPath": "/embed/generic/content/media/3448957",
+     "pathTitle": "",
+     "type": "AUDIO",
+     "title": "Tendances Première: Les Tendanceurs",
+     "subtitle": "Le plogging ou le jogging au service de la planète !",
+     "description": "Véronique Wese, journaliste à l’affut des projets inspirants, nous présente le plogging, une pratique qui consiste à courir ou marcher tout en ramassant les déchets, et d’une bonne occasion de la pratiquer du 26 au 29 mars pendant le Grand Nettoyage, organisé par BeWapp.",
+     "publishedFrom": "2026-03-13T00:00:00+01:00",
+     "publishedTo": "2027-03-13T00:00:00+01:00",
+     "releaseDate": "13/03/26",
+     "duration": 383,
+     "rating": null,
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": false,
+     "stamp": null,
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/9/3/3/93362ff7db6eb45b9f7e5d40ef3b27c9.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/9/3/3/93362ff7db6eb45b9f7e5d40ef3b27c9.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/9/3/3/93362ff7db6eb45b9f7e5d40ef3b27c9.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/9/3/3/93362ff7db6eb45b9f7e5d40ef3b27c9.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/9/3/3/93362ff7db6eb45b9f7e5d40ef3b27c9.jpg"
+     },
+     "channelLabel": "La Première",
+     "categoryLabel": "Lifestyle",
+     "products": []
+    },
+    {
+     "resourceType": "MEDIA",
+     "id": "3540802",
+     "programId": 5797,
+     "assetId": "3540802_6BA97Bb",
+     "path": "/media/quel-temps-pour-la-planete-quel-temps-pour-la-planete-3540802",
+     "embedPath": "/embed/generic/content/media/3540802",
+     "pathTitle": "",
+     "type": "VIDEO",
+     "title": "Quel Temps pour la Planète",
+     "subtitle": "Récolte fruitière : quel impact de la sécheresse sur nos vergers ? - Comment protéger le hérisson ? - Arbres fruitiers : comment les planter ?",
+     "description": "Après un été marqué par la sécheresse et les canicules, on imagine que les arboriculteurs ont dû s'adapter. Qu'en est-il de la récolte cette année ? Les pommes et les poires ont-elles été affectées, en quantité ou en qualité ? Direction les vergers de Brunehaut. - Il se promène la nuit, se régale de limaces et cherche bientôt un abri pour hiberner. Mais le hérisson est de plus en plus menacé. Alors, comment transformer notre jardin en refuge pour ce petit mammifère ? - Et si vous profitiez de l'automne pour planter un arbre fruitier dans votre jardin ? Pommier, poirier... Ce n'est pas si compliqué, à condition de respecter quelques règles. Mais quand faut-il planter, quel arbre choisir et comment lui donner toutes les chances de produire de beaux fruits ?",
+     "publishedFrom": "2026-10-20T12:59:32+02:00",
+     "publishedTo": "2027-10-20T23:55:00+02:00",
+     "releaseDate": "20/10/26",
+     "duration": 950,
+     "rating": null,
+     "minimumAge": null,
+     "pictograms": [],
+     "hasAudioDescriptions": false,
+     "hasMultilingualVersions": false,
+     "hasSubtitles": false,
+     "stamp": null,
+     "illustration": {
+      "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/6/f/f/6fffacfc04e698250ebfd9497b3059df.jpg",
+      "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/6/f/f/6fffacfc04e698250ebfd9497b3059df.jpg",
+      "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/6/f/f/6fffacfc04e698250ebfd9497b3059df.jpg",
+      "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/6/f/f/6fffacfc04e698250ebfd9497b3059df.jpg",
+      "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/6/f/f/6fffacfc04e698250ebfd9497b3059df.jpg"
+     },
+     "channelLabel": "La Une",
+     "categoryLabel": "Météo",
+     "products": []
+    }
+   ],
+   "cta": {
+    "path": "/explorer/MEDIA_LIST?query=planete&dataResourceType=MEDIA_LIST",
+    "label": "Voir tout"
+   }
+  }
+ ]
+}

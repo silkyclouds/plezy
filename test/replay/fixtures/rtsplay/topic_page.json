@@ -1,0 +1,110 @@
+{
+ "id": "758a8e8d-5f27-49a5-bcdc-384cf7f68d2e",
+ "isPublished": true,
+ "vendor": "RTS",
+ "title": "Jeunesse",
+ "topicUrn": "urn:rts:topic:tv:2743",
+ "sectionList": [
+  {
+   "id": "bccb1204-611a-43ed-9216-8413ee7f06f8",
+   "isPublished": true,
+   "vendor": "RTS",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Des aventures pour tous les âges ! 🌈",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "956b7340-2c5b-44ca-8bfe-6fad4a34c607",
+   "isPublished": true,
+   "vendor": "RTS",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "ShowPromotion",
+    "properties": {
+     "title": "Jeux, disputes et réconciliations",
+     "description": "Une série tendre sur la complicité entre frère et sœur !",
+     "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/15ac567c-8c84-4186-bc42-66dfaf221305.jpeg",
+     "imageFocalPoint": {
+      "percentageX": 47,
+      "percentageY": 16
+     }
+    }
+   },
+   "start": "2026-10-21T09:00:00+02:00",
+   "end": "2026-10-23T18:00:00+02:00",
+   "isGlobal": false
+  },
+  {
+   "id": "b30d5230-61f5-41c7-8c3d-660846739eaa",
+   "isPublished": true,
+   "vendor": "RTS",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Les trésors du moment",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "d6415174-9679-46a6-bc02-4e73567b562d",
+   "isPublished": true,
+   "vendor": "RTS",
+   "sectionType": "MediaSectionWithShow",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Les films à voir en famille 👪  🏠  ❤️",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "30167d0c-063b-4bdb-ac3b-69381871a5d2",
+   "isPublished": true,
+   "vendor": "RTS",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Vidéos les plus récentes",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  }
+ ],
+ "nextSectionChange": "2026-10-22T01:59:59+02:00",
+ "type": "TOPIC_PAGE"
+}

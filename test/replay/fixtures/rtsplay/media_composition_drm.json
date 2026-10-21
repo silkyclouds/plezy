@@ -1,0 +1,167 @@
+{
+ "chapterUrn": "urn:rts:video:77664424-7f00-3e17-977e-9887e03ab687",
+ "episode": {
+  "title": "-3000 : Les Lacustres (Episode 1 - Saison 1)",
+  "imageUrl": "https://img.rts.ch/articles/2024/image/ph9sxo-25866428.image/16x9",
+  "imageTitle": "-3000 : Les Lacustres",
+  "publishedDate": "2025-10-14T00:00:01+02:00",
+  "seasonNumber": 1,
+  "id": "ac935974-10e5-305b-bc2f-405b8c3938cd",
+  "number": 1,
+  "description": "Ils ont été chassés de leurs grottes par les ours, puis de leurs maisons par les eaux du lac. Il y a 5000 ans, les Suisses ont cherché un lieu sûr pour bâtir leurs maisons et se sont installés sur"
+ },
+ "show": {
+  "id": "5241297",
+  "vendor": "RTS",
+  "transmission": "TV",
+  "urn": "urn:rts:show:tv:5241297",
+  "title": "Helveticus",
+  "description": "Entre légende et histoire, ce programme d’animation raconte aux enfants de trois à six ans les aventures d'Helveticus et de sa famille : comment Arnold de Winkelried est-il devenu un héros suisse ?",
+  "imageUrl": "https://img.rts.ch/medias/2025/image/8cultl-29042255.image/16x9",
+  "imageTitle": "Helveticus",
+  "bannerImageUrl": "https://img.rts.ch/medias/2025/image/8cultl-29042255.image/16x9",
+  "posterImageUrl": "https://img.rts.ch/medias/2025/image/yraeq9-29042256.image/2x3",
+  "posterImageIsFallbackUrl": false,
+  "links": [
+   {
+    "link": "https://www.rts.ch/articles/lien/decouvre-plus-d-emissions-educatives-pour-les-enfants-curieux-28567597.html",
+    "title": "Découvre plus d'émissions éducatives pour les enfants curieux !"
+   }
+  ],
+  "numberOfEpisodes": 52,
+  "audioDescriptionAvailable": false,
+  "subtitlesAvailable": false,
+  "multiAudioLanguagesAvailable": false,
+  "topicList": [
+   {
+    "id": "2743",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:topic:tv:2743",
+    "title": "Jeunesse",
+    "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+    "imageTitle": "Jeunesse"
+   }
+  ],
+  "allowIndexing": true
+ },
+ "chapterList": [
+  {
+   "id": "77664424-7f00-3e17-977e-9887e03ab687",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:77664424-7f00-3e17-977e-9887e03ab687",
+   "title": "-3000 : Les Lacustres (Episode 1 - Saison 1)",
+   "description": "Ils ont été chassés de leurs grottes par les ours, puis de leurs maisons par les eaux du lac. Il y a 5000 ans, les Suisses ont cherché un lieu sûr pour bâtir leurs maisons et se sont installés sur",
+   "imageUrl": "https://img.rts.ch/articles/2024/image/ph9sxo-25866428.image/16x9",
+   "imageTitle": "Helveticus - Signé",
+   "type": "EPISODE",
+   "date": "2025-10-14T00:00:01+02:00",
+   "duration": 234680,
+   "validFrom": "2025-10-14T00:00:01+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": true,
+   "displayable": true,
+   "position": -1,
+   "noEmbed": false,
+   "resourceList": [
+    {
+     "url": "https://rtsvod-drm-g.akamaized.net/out/v1/a7ec90c77f274166a0881acd6b5fa932/db76e3b81d8241929e891ee1d76bdeb4/0f729efd42b2463ca38db160ad47277d/index.m3u8?sdh=true",
+     "drmList": [
+      {
+       "type": "FAIRPLAY",
+       "licenseUrl": "https://srg.live.ott.irdeto.com/licenseServer/streaming/v1/SRG/getckc?contentId=RTSVOD&keyId=0b3dd3d5-b661-4a17-91be-6c6d19068ce5",
+       "certificateUrl": "https://srg.live.ott.irdeto.com/licenseServer/streaming/v1/SRG/getcertificate?applicationId=live"
+      }
+     ],
+     "quality": "HD",
+     "protocol": "HLS",
+     "encoding": "H264",
+     "mimeType": "application/x-mpegURL",
+     "presentation": "DEFAULT",
+     "streaming": "HLS",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "MPEG2_TS",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE",
+     "audioTrackList": [
+      {
+       "locale": "fr",
+       "language": "Français",
+       "source": "HLS",
+       "isAudioDescription": false,
+       "isOriginalVersion": false
+      }
+     ],
+     "subtitleInformationList": [
+      {
+       "locale": "fr",
+       "language": "Français (SDH)",
+       "source": "HLS",
+       "type": "SDH"
+      }
+     ]
+    },
+    {
+     "url": "https://rtsvod-drm-g.akamaized.net/out/v1/a7ec90c77f274166a0881acd6b5fa932/e15aff2aadb14f1cbc9782758849abb0/744135360ed54e7bbe653bebda899073/index.mpd?sdh=true&caption=helve_20251014_full_vtt.c466bcf7aba47ad5cedd86194e38d76b.vtt:fr:Fran%C3%A7ais%20(SDH):sdh&webvttbaseurl=https://vod-subtitles.akamaized.net/assets/rts/rts-playrts-service-7624970577668-20260310121337013-drm",
+     "drmList": [
+      {
+       "type": "PLAYREADY",
+       "licenseUrl": "https://srg.live.ott.irdeto.com/licenseServer/playready/v1/SRG/license?contentId=RTSVOD"
+      },
+      {
+       "type": "WIDEVINE",
+       "licenseUrl": "https://srg.live.ott.irdeto.com/licenseServer/widevine/v1/SRG/license?contentId=RTSVOD",
+       "widevineSecurityLevel": "L3"
+      }
+     ],
+     "quality": "HD",
+     "protocol": "DASH",
+     "encoding": "H264",
+     "mimeType": "application/dash+xml",
+     "presentation": "DEFAULT",
+     "streaming": "DASH",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "FMP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE",
+     "audioTrackList": [
+      {
+       "locale": "fr",
+       "language": "Français",
+       "source": "DASH",
+       "isAudioDescription": false,
+       "isOriginalVersion": false
+      }
+     ],
+     "subtitleInformationList": [
+      {
+       "locale": "fr",
+       "language": "Français (SDH)",
+       "source": "DASH",
+       "type": "SDH"
+      }
+     ]
+    }
+   ],
+   "aspectRatio": "16:9",
+   "bannerImageUrl": "https://img.rts.ch/articles/2024/image/ph9sxo-25866428.image/16x9",
+   "segmentList": []
+  }
+ ],
+ "topicList": [
+  {
+   "id": "2743",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:topic:tv:2743",
+   "title": "Jeunesse",
+   "imageUrl": "https://img.rts.ch/articles/2023/image/s2jxp3-28403262.image",
+   "imageTitle": "Jeunesse"
+  }
+ ]
+}

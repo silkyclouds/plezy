@@ -1,0 +1,107 @@
+{
+ "id": 28545,
+ "code": "pretty-little-liars",
+ "title": "Pretty little liars",
+ "description": "Un an après la mystérieuse disparition d’Alison, la fille la plus populaire du lycée, ses quatre meilleures amies – qui s’étaient alors éloignées – commencent à recevoir des messages signés « A » contenant leurs secrets les plus sombres. Face à cette menace, les quatre adolescentes vont devoir se retrouver et, tout en menant leurs vies, enquêter sur l’identité de cet ennemi anonyme…",
+ "summary": "Un an après la mystérieuse disparition d’Alison, la fille la plus populaire du lycée, ses quatre meilleures amies – qui s’étaient alors éloignées – commencent à recevoir des messages signés « A » contenant leurs secrets les plus sombres.",
+ "year_production": "2010",
+ "year_copyright": "2010",
+ "first_local_air_date": {
+  "date": "2012-01-01 00:00:00"
+ },
+ "last_clip_publication": {
+  "date": "2026-10-15 00:00:00"
+ },
+ "publication_date_vi": {
+  "date_end_max": "2027-10-14 23:59:59",
+  "date_start_min": "2026-10-15 00:00:00",
+  "date_start_max": "2026-10-15 00:00:00"
+ },
+ "program_type_wording": {
+  "code": "episode",
+  "plural": "épisodes",
+  "gender": "masculine",
+  "id": 2,
+  "singular": "épisode"
+ },
+ "neustar": {
+  "category": "series-dramatiques"
+ },
+ "csa": {
+  "code": "2",
+  "id": 2,
+  "label": "Interdit aux moins de 10 ans",
+  "sort_index": 10,
+  "icon_name": "Csa10",
+  "age": 10
+ },
+ "service_display": {
+  "code": "m6replay",
+  "id": 1,
+  "priority": 1,
+  "ucid": "2vs9s11h7"
+ },
+ "count": {
+  "vi": 161,
+  "vc": 0,
+  "playlist": 0,
+  "podcast": 0,
+  "audiobook": 0
+ },
+ "areas": [
+  {
+   "zone_id": 11,
+   "country_codes": [
+    "AD",
+    "FR",
+    "GP",
+    "GF",
+    "MQ",
+    "YT",
+    "MC",
+    "NC",
+    "PF",
+    "RE",
+    "BL",
+    "MF",
+    "PM",
+    "TF",
+    "WF"
+   ]
+  }
+ ],
+ "freemium_products": [],
+ "contains_freemium": true,
+ "images": [
+  {
+   "external_key": "5028353",
+   "role": "box",
+   "id": 4763313
+  },
+  {
+   "external_key": "5028354",
+   "role": "vignette",
+   "id": 4763314
+  },
+  {
+   "external_key": "5028356",
+   "role": "jumbotron",
+   "id": 4763316
+  },
+  {
+   "external_key": "5028357",
+   "role": "cover",
+   "id": 4763317
+  },
+  {
+   "external_key": "5028359",
+   "role": "portrait",
+   "id": 4763319
+  },
+  {
+   "external_key": "5028362",
+   "role": "logo",
+   "id": 4763322
+  }
+ ]
+}

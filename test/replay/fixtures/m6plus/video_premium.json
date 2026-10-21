@@ -1,0 +1,130 @@
+{
+ "id": "clip_13176172",
+ "type": "vi",
+ "title": "Tchernobyl : les 48 heures qui ont changé le monde",
+ "description": "Le 26 avril 1986, le monde est témoin de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale de Tchernobyl.\r\nCe documentaire propose une immersion au cœur des 48 premières heures du désastre : depuis le test de sécurité fatidique qui a conduit à ",
+ "duration": 2813,
+ "publication_date": "2026-05-26 21:55:37",
+ "csa": {
+  "code": "2",
+  "id": 2,
+  "label": "Interdit aux moins de 10 ans",
+  "sort_index": 10,
+  "icon_name": "Csa10",
+  "age": 10
+ },
+ "freemium_packs": [
+  {
+   "date_start": "2016-04-01 00:00:00",
+   "code": "paris-premiere",
+   "freemium_stores": [
+    {
+     "target_price": "1.99",
+     "code": "itunes-store",
+     "target_price_in_cents": 199,
+     "id": 4,
+     "app_min_version": "",
+     "title": "iTunes Store",
+     "type": "mobile",
+     "store_product_id": "fr.m6.m6replay.inapp.pp"
+    },
+    {
+     "target_price": "1.99",
+     "code": "google-play",
+     "target_price_in_cents": 199,
+     "id": 2,
+     "app_min_version": "4",
+     "title": "Google Play",
+     "type": "mobile",
+     "store_product_id": "monthly.pp.v2"
+    },
+    {
+     "target_price": "1.99",
+     "code": "google-play-sandbox",
+     "target_price_in_cents": 199,
+     "id": 5,
+     "app_min_version": "4",
+     "title": "Google Play Sandbox",
+     "type": "mobile-test",
+     "store_product_id": "monthly.pp"
+    },
+    {
+     "target_price": "1.99",
+     "code": "itunes-store-sandbox",
+     "target_price_in_cents": 199,
+     "id": 7,
+     "app_min_version": "4.3.0",
+     "title": "iTunes Store Sandbox",
+     "type": "mobile-test",
+     "store_product_id": "fr.m6.m6replay.dev.inapp.pp"
+    },
+    {
+     "target_price": null,
+     "code": "6play-store-bytel",
+     "target_price_in_cents": null,
+     "id": 9,
+     "app_min_version": "0",
+     "title": "Bouygues",
+     "type": "operator",
+     "store_product_id": "bytel.pp"
+    },
+    {
+     "target_price": null,
+     "code": "6play-store-free",
+     "target_price_in_cents": null,
+     "id": 11,
+     "app_min_version": "0",
+     "title": "Free",
+     "type": "operator",
+     "store_product_id": "paris_premiere"
+    }
+   ],
+   "description": "Paris Première replay et Live",
+   "id": 2,
+   "title": "Paris Première",
+   "type": "monthly"
+  }
+ ],
+ "freemium_products": [
+  {
+   "code": "paris-premiere",
+   "description": "pp",
+   "id": 4,
+   "title": "paris-premiere",
+   "type": "content"
+  }
+ ],
+ "program": {
+  "id": 28127,
+  "code": "tchernobyl-les-48-heures-qui-ont-change-le-monde",
+  "title": "Tchernobyl : les 48 heures qui ont changé le monde"
+ },
+ "images": [
+  {
+   "external_key": "4922645",
+   "role": "vignette",
+   "id": 4659246
+  }
+ ],
+ "clips": [
+  {
+   "areas": [
+    {
+     "zone_id": "11"
+    }
+   ],
+   "assets": null,
+   "tc_opening_credits": null,
+   "tc_ending_credits": 2770.24,
+   "product": {
+    "season": null,
+    "episode": null,
+    "season_title": null,
+    "season_id": null,
+    "part_number": null,
+    "first_local_air_date": "2026-04-25 00:00:00",
+    "summary": "Le 26 avril 1986, le monde est témoin de la catastrophe nucléaire la plus dévastatrice de l'histoire : l'explosion du réacteur n° 4 de la centrale de Tchernobyl.\r\nCe documentaire propose une immersion au cœur des 48 premières heures du désastre : depuis le test de sécurité fatidique qui a conduit à "
+   }
+  }
+ ]
+}

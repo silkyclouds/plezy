@@ -1,0 +1,90 @@
+{
+ "chapterUrn": "urn:rts:video:0d9865f7-9973-3886-b61c-89a5a98c430e",
+ "episode": {
+  "title": "Brokenwood (Episode 1 - Saison 11)",
+  "lead": "La Dame aux rubans\nThe Ghost in You",
+  "imageUrl": "https://img.rts.ch/medias/2026/image/g4rpkh-29329089.image/16x9",
+  "imageTitle": "Brokenwood",
+  "publishedDate": "2026-08-20T21:10:00+02:00",
+  "seasonNumber": 11,
+  "id": "b3275928-5e0c-31f8-b9e7-774ba603e9c5",
+  "number": 1,
+  "description": "Shepherd enquête sur la mort d’un super-fan du groupe Stolen Arrow, tombé d’un clocher, le forçant ainsi à fouiller dans le passé secret du groupe afin de déterminer ce qui s’est réellement passé."
+ },
+ "show": {
+  "id": "8930971",
+  "vendor": "RTS",
+  "transmission": "TV",
+  "urn": "urn:rts:show:tv:8930971",
+  "title": "Brokenwood",
+  "description": "L'inspecteur Mike Shepherd de la police judiciaire d'Auckland est muté dans la ville de Brokenwood. \n\nSaison 11 (6 épisodes) dès le 20 août 2026. Disponible en intégralité du 24 septembre au 23",
+  "imageUrl": "https://img.rts.ch/medias/2026/image/obihf1-29327699.image/16x9",
+  "imageTitle": "Brokenwood",
+  "bannerImageUrl": "https://img.rts.ch/medias/2026/image/obihf1-29327699.image/16x9",
+  "posterImageUrl": "https://img.rts.ch/medias/2026/image/vg4o0h-29327698.image/2x3",
+  "posterImageIsFallbackUrl": false,
+  "numberOfEpisodes": 6,
+  "audioDescriptionAvailable": false,
+  "subtitlesAvailable": false,
+  "multiAudioLanguagesAvailable": false,
+  "topicList": [
+   {
+    "id": "1353",
+    "vendor": "RTS",
+    "transmission": "TV",
+    "urn": "urn:rts:topic:tv:1353",
+    "title": "Séries et Films",
+    "imageUrl": "https://img.rts.ch/articles/2023/image/2x77a4-28403268.image",
+    "imageTitle": "Séries et Films"
+   }
+  ],
+  "allowIndexing": true
+ },
+ "channel": {
+  "id": "143932a79bb5a123a646b68b1d1188d7ae493e5b",
+  "vendor": "RTS",
+  "urn": "urn:rts:channel:tv:143932a79bb5a123a646b68b1d1188d7ae493e5b",
+  "title": "RTS 1",
+  "imageUrl": "https://img.rts.ch/articles/2023/image/ra3xg-26166607.image",
+  "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/857dda.svg",
+  "imageTitle": "RTS 1",
+  "transmission": "TV"
+ },
+ "chapterList": [
+  {
+   "id": "0d9865f7-9973-3886-b61c-89a5a98c430e",
+   "mediaType": "VIDEO",
+   "vendor": "RTS",
+   "urn": "urn:rts:video:0d9865f7-9973-3886-b61c-89a5a98c430e",
+   "title": "La Dame aux rubans (Episode 1 - Saison 11)",
+   "description": "Shepherd enquête sur la mort d’un super-fan du groupe Stolen Arrow, tombé d’un clocher, le forçant ainsi à fouiller dans le passé secret du groupe afin de déterminer ce qui s’est réellement passé.",
+   "imageUrl": "https://img.rts.ch/medias/2026/image/g4rpkh-29329089.image/16x9",
+   "imageTitle": "La Dame aux rubans",
+   "blockReason": "GEOBLOCK",
+   "youthProtectionColor": "YELLOW",
+   "type": "EPISODE",
+   "date": "2026-08-20T21:10:06+02:00",
+   "duration": 5575120,
+   "validFrom": "2026-08-19T22:53:58+02:00",
+   "validTo": "2100-01-01T23:59:59+01:00",
+   "playableAbroad": false,
+   "displayable": true,
+   "position": -1,
+   "noEmbed": true,
+   "aspectRatio": "16:9",
+   "bannerImageUrl": "https://img.rts.ch/medias/2026/image/g4rpkh-29329089.image/16x9",
+   "segmentList": []
+  }
+ ],
+ "topicList": [
+  {
+   "id": "1353",
+   "vendor": "RTS",
+   "transmission": "TV",
+   "urn": "urn:rts:topic:tv:1353",
+   "title": "Séries et Films",
+   "imageUrl": "https://img.rts.ch/articles/2023/image/2x77a4-28403268.image",
+   "imageTitle": "Séries et Films"
+  }
+ ]
+}

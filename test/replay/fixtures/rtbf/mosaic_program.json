@@ -1,0 +1,102 @@
+{
+ "status": 200,
+ "meta": {
+  "page": {
+   "current": 1,
+   "from": 1,
+   "last": 420,
+   "path": "https://bff-service.rtbf.be/auvio/v1.23/mosaic/program?_page=1&_limit=20&includeFastTv=true",
+   "limit": 20,
+   "to": 20,
+   "totalCount": 8398
+  }
+ },
+ "links": {
+  "first": "https://bff-service.rtbf.be/auvio/v1.23/mosaic/program?_page=1&_limit=20&includeFastTv=true",
+  "last": "https://bff-service.rtbf.be/auvio/v1.23/mosaic/program?_page=420&_limit=20&includeFastTv=true",
+  "prev": null,
+  "next": "https://bff-service.rtbf.be/auvio/v1.23/mosaic/program?_page=2&_limit=20&includeFastTv=true"
+ },
+ "data": [
+  {
+   "resourceType": "PROGRAM",
+   "id": "28805",
+   "path": "/emission/hotel-transylvanie-28805",
+   "pathTitle": "",
+   "title": " Hôtel Transylvanie",
+   "type": "STANDALONE",
+   "illustration": {
+    "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/9/f/e/9fe60db8ab384f7c9c8e01e850113373.jpg",
+    "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/9/f/e/9fe60db8ab384f7c9c8e01e850113373.jpg",
+    "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/9/f/e/9fe60db8ab384f7c9c8e01e850113373.jpg",
+    "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/9/f/e/9fe60db8ab384f7c9c8e01e850113373.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/9/f/e/9fe60db8ab384f7c9c8e01e850113373.jpg"
+   },
+   "hero": null
+  },
+  {
+   "resourceType": "PROGRAM",
+   "id": "21112",
+   "path": "/emission/le-grand-debat-economique-21112",
+   "pathTitle": "",
+   "title": " Le grand débat économique",
+   "type": "SHOW",
+   "illustration": {
+    "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/2/f/a/2fa4086ca97fb964da2e9a066e9aad1a.jpg",
+    "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/2/f/a/2fa4086ca97fb964da2e9a066e9aad1a.jpg",
+    "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/2/f/a/2fa4086ca97fb964da2e9a066e9aad1a.jpg",
+    "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/2/f/a/2fa4086ca97fb964da2e9a066e9aad1a.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/2/f/a/2fa4086ca97fb964da2e9a066e9aad1a.jpg"
+   },
+   "hero": null
+  },
+  {
+   "resourceType": "PROGRAM",
+   "id": "25895",
+   "path": "/emission/lundi-sports-25895",
+   "pathTitle": "",
+   "title": " Lundi Sports",
+   "type": "SHOW",
+   "illustration": {
+    "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/f/4/e/f4e2c0bba5fc6715814f42946fec7b98.jpg",
+    "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/f/4/e/f4e2c0bba5fc6715814f42946fec7b98.jpg",
+    "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/f/4/e/f4e2c0bba5fc6715814f42946fec7b98.jpg",
+    "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/f/4/e/f4e2c0bba5fc6715814f42946fec7b98.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/f/4/e/f4e2c0bba5fc6715814f42946fec7b98.jpg"
+   },
+   "hero": null
+  },
+  {
+   "resourceType": "PROGRAM",
+   "id": "17461",
+   "path": "/emission/notes-pour-demain-17461",
+   "pathTitle": "",
+   "title": " Notes pour demain",
+   "type": "SHOW",
+   "illustration": {
+    "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/8/1/1/8112129c3c3323826fc0a2abfcf94094.jpg",
+    "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/8/1/1/8112129c3c3323826fc0a2abfcf94094.jpg",
+    "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/8/1/1/8112129c3c3323826fc0a2abfcf94094.jpg",
+    "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/8/1/1/8112129c3c3323826fc0a2abfcf94094.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/8/1/1/8112129c3c3323826fc0a2abfcf94094.jpg"
+   },
+   "hero": null
+  },
+  {
+   "resourceType": "PROGRAM",
+   "id": "32033",
+   "path": "/emission/trollstopia-32033",
+   "pathTitle": "",
+   "title": " Trollstopia",
+   "type": "SERIE",
+   "illustration": {
+    "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/b/e/0/be0bfd077fe9ebb833e776b81d55e306.jpg",
+    "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/b/e/0/be0bfd077fe9ebb833e776b81d55e306.jpg",
+    "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/b/e/0/be0bfd077fe9ebb833e776b81d55e306.jpg",
+    "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/b/e/0/be0bfd077fe9ebb833e776b81d55e306.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/b/e/0/be0bfd077fe9ebb833e776b81d55e306.jpg"
+   },
+   "hero": null
+  }
+ ]
+}

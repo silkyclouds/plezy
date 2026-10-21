@@ -1,0 +1,157 @@
+{
+ "data": {
+  "programById": {
+   "tv": null,
+   "event": null,
+   "publisher": {
+    "decoration": {
+     "logo": null
+    },
+    "type": "INTERNAL"
+   },
+   "decoration": {
+    "label": "Pyjamasques Power Heroes le cercle des héros",
+    "subLabel": "5 vidéos",
+    "background": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/fond-showpage-iptv-extend-pyjamaques-30a31e-a0c6e1-0@1x.jpg"
+      }
+     ]
+    },
+    "logo": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-pyjamasques-power-hero-ok-90f92b-c8b495-0@1x.png"
+      }
+     ]
+    },
+    "description": "Les Pyjamasques reviennent dans une nouvelle aventure ! Formant une équipe de super-héros inédite, ils sont prêts à affronter tous les méchants. Yoyo déclare : 'S'il y a des méchants partout, nous aussi on sera partout !' Le Cercle des Héros est là pour sauver la situation.",
+    "image": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/250/333/vignette-portrait-pyjamaques-6c0007-fb0bd7-0@1x.jpg"
+      }
+     ]
+    },
+    "catchPhrase": "Les Pyjamasques débarquent sur vos écrans dans de toutes nouvelles aventures !  ",
+    "logoImage": {
+     "logo": [
+      {
+       "url": "https://photos.tf1.fr/0/176/logo-programme-pyjamasques-power-hero-ok-90f92b-c8b495-0@1x.png"
+      }
+     ]
+    },
+    "backgroundImage": {
+     "sourcesWithScales": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/fond-showpage-iptv-extend-pyjamaques-30a31e-a0c6e1-0@1x.jpg"
+      }
+     ]
+    }
+   },
+   "isAVOD": false,
+   "rightsByTypes": [
+    {
+     "type": "SHORT",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "BASIC",
+     "hasAccess": true,
+     "blockingReasons": []
+    },
+    {
+     "type": "MAX",
+     "hasAccess": true,
+     "blockingReasons": []
+    }
+   ],
+   "typology": "Série",
+   "mainChannel": {
+    "label": "TF1",
+    "decoration": {
+     "images": {
+      "logo": [
+       {
+        "url": "https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-5165d6-0@1x.png"
+       }
+      ]
+     }
+    }
+   },
+   "topics": [
+    "Jeunesse",
+    "3-6 ans"
+   ],
+   "hasFrenchAudioTrack": {
+    "total": 0
+   },
+   "hasOriginalAudioTrack": {
+    "total": 0
+   },
+   "hasDescriptionTrack": {
+    "total": 0
+   },
+   "hasFrenchDeafSubtitles": {
+    "total": 0
+   },
+   "hasFrenchSubtitles": {
+    "total": 0
+   },
+   "isYouth": true,
+   "editorialSections": [
+    {
+     "slug": "autour-de",
+     "decoration": {
+      "label": "Autour de ...",
+      "description": null
+     },
+     "id": "768a83f39903ed21",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "suggestions",
+     "decoration": {
+      "label": "Suggestions",
+      "description": null
+     },
+     "id": "eb409acb437153ef",
+     "__typename": "SlidersSection",
+     "sliders": []
+    },
+    {
+     "slug": "details",
+     "decoration": {
+      "label": "Détails",
+      "description": "Les Pyjamasques reviennent dans une nouvelle aventure ! Formant une équipe de super-héros inédite, ils sont prêts à affronter tous les méchants. Yoyo déclare : 'S'il y a des méchants partout, nous aussi on sera partout !' Le Cercle des Héros est là pour sauver la situation."
+     },
+     "id": "89c991aa27468699",
+     "__typename": "ProgramInfoSection",
+     "actors": [],
+     "directors": [
+      {
+       "type": "DIRECTOR",
+       "members": [
+        {
+         "firstName": "Christian",
+         "lastName": "de Vita",
+         "roleName": ""
+        }
+       ]
+      }
+     ],
+     "accessbility": {
+      "hasFrenchAudioTrack": false,
+      "hasOriginalAudioTrack": false,
+      "hasDescriptionTrack": false,
+      "hasFrenchSubtitles": false,
+      "hasFrenchDeafSubtitles": false
+     }
+    }
+   ]
+  }
+ }
+}

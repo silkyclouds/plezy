@@ -1,0 +1,408 @@
+{
+ "label": "Tous les programmes régions",
+ "type": "playlist_program",
+ "items": [
+  {
+   "id": 39451,
+   "label": "100 % logique : la réponse est sous vos yeux",
+   "description": "Le premier quiz qui ne teste pas votre culture générale et vos connaissances, mais votre logique, votre sens de l’observation et votre bon sens ! Saurez-vous déjouer tous les pièges, et arriver jusqu’à l’ultime question ?",
+   "type": "program",
+   "program_path": "france-2_100-logique-la-reponse-est-sous-vos-yeux",
+   "link": {
+    "url": "/apps/program/meta/france-2_100-logique-la-reponse-est-sous-vos-yeux?platform=apps",
+    "type": "tab"
+   },
+   "color": null,
+   "sound": null,
+   "headline_title": "Un peu de concentration et le tour est joué",
+   "images": [
+    {
+     "urls": {
+      "w:265": "https://medias.france.tv/iIJoJR92RNiYEf6Z3cYHW00g0RY/265x265/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+      "w:300": "https://medias.france.tv/JnskC1P5RvetzgcTR93ZtZVUoj8/300x300/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+      "w:400": "https://medias.france.tv/aviEKhj2NE4b7nk8P5-r0qna-eI/400x400/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+      "w:800": "https://medias.france.tv/AauHkz-ugG0yHYl_p9CRLLjf8nM/800x800/filters:quality(85)/h/u/f/phpxyqfuh.jpg",
+      "w:1024": "https://medias.france.tv/mBXFZS916fsvkm6_E6Y4IXx2x5Q/1024x1024/filters:quality(85)/h/u/f/phpxyqfuh.jpg"
+     },
+     "type": "carre"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+      "w:800": "https://medias.france.tv/vpireqqRwh5vQaFCaGL67xpYXL4/800x450/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+      "w:1024": "https://medias.france.tv/Tg2_Wrm7ZF_iTWKMcbjxQTFcHa0/1024x576/filters:quality(85)/h/c/6/php4wq6ch.jpg",
+      "w:2500": "https://medias.france.tv/RK998vem7nmSLn5VL1JFrSn49tA/2500x1406/filters:quality(85)/h/c/6/php4wq6ch.jpg"
+     },
+     "type": "vignette_16x9"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/qkke1DF8AgJ7iNfeE4GjjeV-4rY/400x533/filters:quality(85)/l/o/i/phpxoaiol.jpg",
+      "w:800": "https://medias.france.tv/URK5ue0KtORoH0Sx6V7MBCVH30A/800x1066/filters:quality(85)/l/o/i/phpxoaiol.jpg",
+      "w:1024": "https://medias.france.tv/ECHYAnvHuliaRjAi3-tG5lVyblk/1024x1365/filters:quality(85)/l/o/i/phpxoaiol.jpg"
+     },
+     "type": "vignette_3x4"
+    }
+   ],
+   "integral_counter": 8,
+   "ads_blocked": false,
+   "broadcast_box": "",
+   "recommendation": true,
+   "partner": null,
+   "sponsored": false,
+   "channel": "france-2",
+   "age_min": null,
+   "age_max": null,
+   "saison": null,
+   "call_to_action": "Jouer en ligne",
+   "call_to_action_url": "https://100logique-lejeu.france.tv/",
+   "synopsis": "Le premier quiz qui ne teste pas votre culture générale et vos connaissances, mais votre logique, votre sens de l’observation et votre bon sens ! Saurez-vous déjouer tous les pièges, et arriver jusqu’à l’ultime question ?",
+   "label_edito": null,
+   "downloadable": false,
+   "casting": null,
+   "characters": null,
+   "director": null,
+   "scenarists": null,
+   "palmares": null,
+   "production_countries": null,
+   "number_of_episodes": null,
+   "number_of_seasons": null,
+   "categories": [
+    {
+     "id": 45,
+     "type": "categorie",
+     "label": "Divertissement",
+     "url_complete": "jeux-et-divertissements",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "sub_categories": [
+    {
+     "id": 48,
+     "type": "sous_categorie",
+     "label": "Jeux",
+     "url_complete": "jeux-et-divertissements_jeux",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "category": {
+    "label": "Divertissement",
+    "url_complete": "jeux-et-divertissements",
+    "id": 45,
+    "type": "categorie"
+   },
+   "podcast_url": null,
+   "offer": "francetv",
+   "sort_seasons": "asc",
+   "sort_episodes": "begin_date:desc"
+  },
+  {
+   "id": 2439,
+   "label": "13h15, le dimanche",
+   "description": "\"13h15 le dimanche\", c'est un autre regard sur l'actualité.Des images, des émotions, une écriture sensible aux aventures humaines. Une émission présentée par Laurent Delahousse.",
+   "type": "program",
+   "program_path": "france-2_13h15-le-dimanche",
+   "link": {
+    "url": "/apps/program/meta/france-2_13h15-le-dimanche?platform=apps",
+    "type": "tab"
+   },
+   "color": null,
+   "sound": null,
+   "headline_title": "Un autre regard sur l'actualité",
+   "images": [
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg",
+      "w:800": "https://medias.france.tv/mi9E-Vvxphy8r4CvxO4k0B5-MGk/800x450/filters:quality(85)/7/x/l/phpfyflx7.jpg",
+      "w:1024": "https://medias.france.tv/rxjTn00EOlS8ZsPnC9SpiGDPNp4/1024x576/filters:quality(85)/7/x/l/phpfyflx7.jpg",
+      "w:2500": "https://medias.france.tv/Z59QAJN2aWcdJCvNyh2-5vZp0hY/2500x1406/filters:quality(85)/7/x/l/phpfyflx7.jpg"
+     },
+     "type": "vignette_16x9"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/nvr-Jc-Nughra2QTbicU7RrhdJo/400x533/filters:quality(85)/d/v/m/phpygjmvd.jpg",
+      "w:800": "https://medias.france.tv/nF61sgOmWxJoP7Q3ihhVUluqqTs/800x1066/filters:quality(85)/d/v/m/phpygjmvd.jpg",
+      "w:1024": "https://medias.france.tv/EdvSZkVM_xyXVOyI3cqKIVui_Hs/1024x1365/filters:quality(85)/d/v/m/phpygjmvd.jpg"
+     },
+     "type": "vignette_3x4"
+    }
+   ],
+   "integral_counter": 460,
+   "ads_blocked": false,
+   "broadcast_box": "",
+   "recommendation": true,
+   "partner": null,
+   "sponsored": false,
+   "channel": "france-2",
+   "age_min": null,
+   "age_max": null,
+   "saison": null,
+   "call_to_action": "",
+   "call_to_action_url": "",
+   "synopsis": "",
+   "label_edito": null,
+   "downloadable": false,
+   "casting": null,
+   "characters": null,
+   "director": null,
+   "scenarists": null,
+   "palmares": null,
+   "production_countries": null,
+   "number_of_episodes": null,
+   "number_of_seasons": null,
+   "categories": [
+    {
+     "id": 49911,
+     "type": "categorie",
+     "label": "Info",
+     "url_complete": "info",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 19,
+     "type": "categorie",
+     "label": "Documentaires",
+     "url_complete": "documentaires",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49908,
+     "type": "categorie",
+     "label": "Société",
+     "url_complete": "societe",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "sub_categories": [
+    {
+     "id": 49989,
+     "type": "sous_categorie",
+     "label": "Émission politique",
+     "url_complete": "info_emission-politique",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49941,
+     "type": "sous_categorie",
+     "label": "Documentaires société",
+     "url_complete": "documentaires_documentaires-societe",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49968,
+     "type": "sous_categorie",
+     "label": "Magazines d'actualité",
+     "url_complete": "societe_magazine-d-actualites",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49986,
+     "type": "sous_categorie",
+     "label": "Décryptage & investigation",
+     "url_complete": "info_decryptage-et-investigation",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49977,
+     "type": "sous_categorie",
+     "label": "Documentaires société",
+     "url_complete": "societe_documentaires-societe",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "category": {
+    "label": "Info",
+    "url_complete": "info",
+    "id": 49911,
+    "type": "categorie"
+   },
+   "podcast_url": null,
+   "offer": "francetv",
+   "sort_seasons": "desc",
+   "sort_episodes": "begin_date:desc"
+  },
+  {
+   "id": 2413,
+   "label": "13h15, le samedi",
+   "description": "Présenté par Laurent Delahousse, \"13h15 le samedi\" propose un autre regard sur l'actualité. Des images, des émotions, une écriture sensible aux aventures humaines.",
+   "type": "program",
+   "program_path": "france-2_13h15-le-samedi",
+   "link": {
+    "url": "/apps/program/meta/france-2_13h15-le-samedi?platform=apps",
+    "type": "tab"
+   },
+   "color": null,
+   "sound": null,
+   "headline_title": "Des images, des émotions, une écriture sensible aux aventures humaines",
+   "images": [
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/iPWaFWjGLvE-53ARCPemFhAYUWg/400x0/filters:quality(85)/h/g/h/phponthgh.jpg",
+      "w:800": "https://medias.france.tv/DmIpMyplWlO7JQvxcWbnTFUULqc/800x450/filters:quality(85)/h/g/h/phponthgh.jpg",
+      "w:1024": "https://medias.france.tv/62c7R85jWCt_fjaXimhIrGGQKzE/1024x576/filters:quality(85)/h/g/h/phponthgh.jpg",
+      "w:2500": "https://medias.france.tv/TK3fTXxg4smTaWs5znQI5wi-R_0/2500x1406/filters:quality(85)/h/g/h/phponthgh.jpg"
+     },
+     "type": "vignette_16x9"
+    },
+    {
+     "urls": {
+      "w:400": "https://medias.france.tv/n_tFcO38Rb8FsRPjQcicKFLcA6s/400x533/filters:quality(85)/2/g/m/phpv5ymg2.jpg",
+      "w:800": "https://medias.france.tv/cxcK0E2-pXWn1FN3JmZRuHNsObM/800x1066/filters:quality(85)/2/g/m/phpv5ymg2.jpg",
+      "w:1024": "https://medias.france.tv/8tvi9E3DA1YdVABJHoV_BoCyhDs/1024x1365/filters:quality(85)/2/g/m/phpv5ymg2.jpg"
+     },
+     "type": "vignette_3x4"
+    }
+   ],
+   "integral_counter": 309,
+   "ads_blocked": false,
+   "broadcast_box": "",
+   "recommendation": true,
+   "partner": null,
+   "sponsored": false,
+   "channel": "france-2",
+   "age_min": 3,
+   "age_max": 12,
+   "saison": null,
+   "call_to_action": "",
+   "call_to_action_url": "",
+   "synopsis": "L'émission propose des histoires françaises : le feuilleton de la politique, les coulisses de la vie de tous les jours, des sagas familiales et les confidences des grands témoins.",
+   "label_edito": null,
+   "downloadable": false,
+   "casting": null,
+   "characters": null,
+   "director": null,
+   "scenarists": null,
+   "palmares": null,
+   "production_countries": null,
+   "number_of_episodes": null,
+   "number_of_seasons": null,
+   "categories": [
+    {
+     "id": 49911,
+     "type": "categorie",
+     "label": "Info",
+     "url_complete": "info",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49908,
+     "type": "categorie",
+     "label": "Société",
+     "url_complete": "societe",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "sub_categories": [
+    {
+     "id": 49968,
+     "type": "sous_categorie",
+     "label": "Magazines d'actualité",
+     "url_complete": "societe_magazine-d-actualites",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    },
+    {
+     "id": 49986,
+     "type": "sous_categorie",
+     "label": "Décryptage & investigation",
+     "url_complete": "info_decryptage-et-investigation",
+     "images": [],
+     "call_to_action": null,
+     "call_to_action_url": null,
+     "synopsis": null,
+     "headline_title": null,
+     "label_edito": null,
+     "parent": null
+    }
+   ],
+   "category": {
+    "label": "Info",
+    "url_complete": "info",
+    "id": 49911,
+    "type": "categorie"
+   },
+   "podcast_url": null,
+   "offer": "francetv",
+   "sort_seasons": "desc",
+   "sort_episodes": "begin_date:desc"
+  }
+ ]
+}

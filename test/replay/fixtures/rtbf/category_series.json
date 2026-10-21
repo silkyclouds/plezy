@@ -1,0 +1,143 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "Séries en streaming gratuit sur Auvio ",
+   "description": "Découvrez toute l'offre Séries disponible en streaming et en replay sur Auvio : des dizaines de séries en intégralité à voir gratuitement quand vous le voulez ! ",
+   "canonical": "https://auvio.rtbf.be/categorie/series-35",
+   "image": {
+    "url": "https://www.static.rtbf.be/tv/media/images/rtbf-auvio-logo-share.png",
+    "width": "1200",
+    "height": "630"
+   }
+  },
+  "gemius": {
+   "key": "home",
+   "subs": "auvio/cat/series",
+   "lan": "FR",
+   "free": ""
+  },
+  "chartbeat": {
+   "section": "home",
+   "author": "home"
+  },
+  "aipBlender": null,
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/categorie/series-35",
+  "onePlusX": {
+   "category_lvl1": "Séries",
+   "category_lvl2": null,
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Séries",
+   "category_level_2": null,
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Séries",
+    "item": "https://auvio.rtbf.be/categorie/series-35"
+   }
+  ]
+ },
+ "data": {
+  "id": "6529",
+  "pageType": "CATEGORY",
+  "content": {
+   "pageType": "CATEGORY",
+   "title": "Séries"
+  },
+  "layout": "default",
+  "widgets": [
+   {
+    "type": "PROGRAM_LIST",
+    "id": "19799",
+    "title": "Notre sélection",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/19799",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/19799"
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "14846",
+    "title": "Chaque jour, un nouvel épisode !",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/14846",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/14846"
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "14521",
+    "title": "Séries à binge-watcher",
+    "subtitle": "Des saisons complètes à dévorer",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/14521",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/14521"
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_TRAILER",
+    "id": "25074",
+    "title": "Série comique à voir en intégralité",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25074",
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "24796",
+    "title": "Séries coréennes",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/24796",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/24796"
+    },
+    "locked": false
+   },
+   {
+    "type": "BANNER",
+    "id": "25042",
+    "title": "Série dramatique sur deux hommes dans la ruée vers l'or noir",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25042",
+    "locked": false
+   }
+  ]
+ }
+}

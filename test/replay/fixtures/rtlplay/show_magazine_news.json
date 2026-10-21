@@ -1,0 +1,376 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "0f536cef-35fe-46d2-920a-8156e33b059d",
+  "info": {
+   "title": "RTL info 19 heures (20/10/2026)",
+   "titleAccessibilityLabel": null,
+   "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+   "userProgressPercentage": null,
+   "label": {
+    "label": "mar. 20 oct. 2026",
+    "emphasized": false,
+    "accessibilityLabel": "Date de diffusion"
+   },
+   "badge": {
+    "icon": null,
+    "label": "Dernière émission",
+    "highlighted": true,
+    "accessibilityLabel": null
+   }
+  }
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "RTL info 19 heures",
+  "imageUrl": "https://images0.persgroep.net/rcs/1DZW9SK-eTaaa86H9hQkB66gbc4/diocontent/274102503/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images2.persgroep.net/rcs/MaprPdc17Fydkf6W9dtfxvuTrKc/diocontent/274102502/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images1.persgroep.net/rcs/-0BwhLeT3kqoIyuMTzpNM4bWvYo/diocontent/274102502/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images0.persgroep.net/rcs/tJJmhWB6fuXVoTTVZ8Dm_8cVy-E/diocontent/274102502/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images3.persgroep.net/rcs/u7Mleqck-RrDMl2YY_vHdJLhdLI/diocontent/274102502/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images0.persgroep.net/rcs/2J3U_HDmSzC6pAkMDqwvyLuGVQQ/diocontent/274102501/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2026",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "1 saison",
+   "emphasized": false,
+   "accessibilityLabel": null
+  },
+  {
+   "label": "Actualité",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [],
+ "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/rtl-info-19-heures~75778047-34c8-41f2-b104-b05945d20deb?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images0.persgroep.net/rcs/2J3U_HDmSzC6pAkMDqwvyLuGVQQ/diocontent/274102501/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "75778047-34c8-41f2-b104-b05945d20deb",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Actualité",
+      "collectionId": "eb5f49c7-5f65-4821-affd-6c7b0b7b3e40"
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances."
+ },
+ "seasonPicker": {
+  "selected": {
+   "episodes": [
+    {
+     "id": "0f536cef-35fe-46d2-920a-8156e33b059d",
+     "title": "293. RTL info 19 heures (20/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 293,
+     "imageUrl": "https://images2.persgroep.net/rcs/TJQrZuvxy40mbYdZzyxG7ORq7o0/diocontent/279339344/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2363,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "mar. 20 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "39 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Encore 6 jours",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": {
+      "icon": null,
+      "label": "Dernière émission",
+      "highlighted": true,
+      "accessibilityLabel": null
+     }
+    },
+    {
+     "id": "d2837f46-fb1b-4952-8308-cafc5dd3b627",
+     "title": "292. RTL info 19 heures (19/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 292,
+     "imageUrl": "https://images2.persgroep.net/rcs/amNIMCphGULXpBwPprNUgJ4Jq-M/diocontent/279307398/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2374,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "lun. 19 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "39 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Encore 5 jours",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "8badbff2-2b4f-4d9c-b8ed-9e6c15fb77ee",
+     "title": "291. RTL info 19 heures (18/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 291,
+     "imageUrl": "https://images2.persgroep.net/rcs/ngxtDQOYSVuuXlkAnD9OUb8ufEA/diocontent/279267261/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 1857,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "dim. 18 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "30 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Encore 4 jours",
+       "emphasized": false,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "0dbd0a3b-5fa0-4571-90b2-c206dd2ac0d0",
+     "title": "290. RTL info 19 heures (17/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 290,
+     "imageUrl": "https://images3.persgroep.net/rcs/R8knhArtA5d3Lf1GF3rPg0v37Cs/diocontent/279223822/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2271,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "sam. 17 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "37 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Encore 3 jours",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "6fd3f4a3-9b3e-475d-8085-d255af498835",
+     "title": "289. RTL info 19 heures (16/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 289,
+     "imageUrl": "https://images4.persgroep.net/rcs/l2-AopOgOiu4LqcX3V5AwURN_GI/diocontent/279192729/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2306,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "ven. 16 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "38 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Encore 2 jours",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "fd9c638b-bbf0-40e5-842a-adaee246614c",
+     "title": "288. RTL info 19 heures (15/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 288,
+     "imageUrl": "https://images3.persgroep.net/rcs/AnOG8lxegxo34xRREpDyQ7zB3RU/diocontent/279148258/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 2273,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "jeu. 15 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "37 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Plus que 1 jour",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    },
+    {
+     "id": "b86e4547-e04a-403e-8adf-01fda4631e15",
+     "title": "287. RTL info 19 heures (14/10/2026)",
+     "description": "L'information est au cœur de RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.",
+     "index": 287,
+     "imageUrl": "https://images3.persgroep.net/rcs/HmsbD2PGpZkLW7gwy4U7ZGtdIQc/diocontent/279035779/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+     "userProgressPercentage": 0,
+     "durationSeconds": 1748,
+     "downloadAllowed": false,
+     "overlayImageUrl": null,
+     "labels": [
+      {
+       "label": "mer. 14 oct. 2026",
+       "emphasized": false,
+       "accessibilityLabel": "Date de diffusion"
+      },
+      {
+       "label": "29 min",
+       "emphasized": false,
+       "accessibilityLabel": "Durée"
+      },
+      {
+       "label": "Disponible jusqu'à minuit",
+       "emphasized": true,
+       "accessibilityLabel": null
+      }
+     ],
+     "blockingOverlayId": null,
+     "badge": null
+    }
+   ],
+   "index": 2026,
+   "duplicateContentBanner": null
+  },
+  "indices": [
+   2026
+  ]
+ },
+ "durationSeconds": null,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "RTL info 13 heures",
+    "detailId": "d82b06b2-977e-426c-a918-e512b16d9277",
+    "imageUrl": "https://images1.persgroep.net/rcs/-J1l6h4jzlWqZUm4SfVkDTrzf2A/diocontent/274102444/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Météo",
+    "detailId": "2cc08f9c-09bc-4192-96e6-1ecf4b934ea1",
+    "imageUrl": "https://images0.persgroep.net/rcs/BbUgTOPoRNyYDLk53uJ59qW70Ro/diocontent/273929576/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Face à Buxant",
+    "detailId": "942d108e-1266-45e0-8ca3-dd29f29d000a",
+    "imageUrl": "https://images0.persgroep.net/rcs/-3AuZ4Oe1aBxBuPwIZxeeqEJzH8/diocontent/277074025/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "RTL info Signatures",
+    "detailId": "4f42f33f-e74a-48ae-b563-9da5f393afe3",
+    "imageUrl": "https://images0.persgroep.net/rcs/honKLQ7_c9re1uh3wKrV9qR-uUo/diocontent/274118019/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La rentrée politique",
+    "detailId": "e4529d7f-a519-4dff-8f05-e34f2e602692",
+    "imageUrl": "https://images0.persgroep.net/rcs/uVjxikaSUMrsWZkY7b1EIgsVL4I/diocontent/277293311/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Septante et un",
+    "detailId": "f56988b2-6ce1-4bd3-918c-e6308f478a3c",
+    "imageUrl": "https://images2.persgroep.net/rcs/AHIEtd6e2secCAg2KY4rJqV9s7Y/diocontent/273924817/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "554f6069-323e-4adb-b5c2-074c251e8921",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}

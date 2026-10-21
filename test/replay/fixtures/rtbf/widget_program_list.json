@@ -1,0 +1,92 @@
+{
+ "status": 200,
+ "meta": {
+  "page": {
+   "current": 1,
+   "from": 1,
+   "last": null,
+   "path": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22683?_page=1&_limit=50&_embed=content&includeFastTv=true",
+   "limit": 50,
+   "to": 50,
+   "totalCount": null
+  }
+ },
+ "links": {
+  "first": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22683?_page=1&_limit=50&_embed=content&includeFastTv=true",
+  "last": null,
+  "prev": null,
+  "next": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22683?_page=2&_limit=50&_embed=content&includeFastTv=true"
+ },
+ "data": {
+  "id": "22683",
+  "type": "PROGRAM_LIST",
+  "title": "Séries",
+  "grid": false,
+  "content": [
+   {
+    "resourceType": "PROGRAM",
+    "id": "32284",
+    "path": "/emission/ghosts-32284",
+    "pathTitle": "",
+    "title": "Ghosts",
+    "type": "SERIE",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/f/d/7/fd7fa1c315397400ddf67d567dd22567.jpg"
+    },
+    "hero": null
+   },
+   {
+    "resourceType": "PROGRAM",
+    "id": "16790",
+    "path": "/emission/sos-sages-femmes-16790",
+    "pathTitle": "",
+    "title": "SOS sages-femmes",
+    "type": "SERIE",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/d/c/6/dc626438b4ab421270ed50dc500c2138.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/d/c/6/dc626438b4ab421270ed50dc500c2138.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/d/c/6/dc626438b4ab421270ed50dc500c2138.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/d/c/6/dc626438b4ab421270ed50dc500c2138.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/d/c/6/dc626438b4ab421270ed50dc500c2138.jpg"
+    },
+    "hero": null
+   },
+   {
+    "resourceType": "PROGRAM",
+    "id": "32471",
+    "path": "/emission/les-douze-meurtres-au-botox-32471",
+    "pathTitle": "",
+    "title": "Les douze : Meurtres au botox",
+    "type": "SERIE",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/3/b/b/3bbdf339510dd11db130b018d8dcfa4e.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/3/b/b/3bbdf339510dd11db130b018d8dcfa4e.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/3/b/b/3bbdf339510dd11db130b018d8dcfa4e.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/3/b/b/3bbdf339510dd11db130b018d8dcfa4e.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/3/b/b/3bbdf339510dd11db130b018d8dcfa4e.jpg"
+    },
+    "hero": null
+   },
+   {
+    "resourceType": "PROGRAM",
+    "id": "32654",
+    "path": "/emission/les-disparus-des-argonnes-32654",
+    "pathTitle": "",
+    "title": "Les disparus des Argonnes",
+    "type": "SERIE",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/4/3/4/434d19f14cf52f76d5aedd4c8f1fe77f.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/4/3/4/434d19f14cf52f76d5aedd4c8f1fe77f.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/4/3/4/434d19f14cf52f76d5aedd4c8f1fe77f.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/4/3/4/434d19f14cf52f76d5aedd4c8f1fe77f.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/4/3/4/434d19f14cf52f76d5aedd4c8f1fe77f.jpg"
+    },
+    "hero": null
+   }
+  ]
+ }
+}

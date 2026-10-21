@@ -1,0 +1,270 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "L'approche régionale de la RTBF",
+   "description": "Ma région, mon quartier et moi ? Comment témoigner et/ ou partager des infos ?  Quelles collaborations avec les médias de proximité ?",
+   "canonical": "https://auvio.rtbf.be/media/table-media-table-media-3516005",
+   "image": {
+    "url": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+    "width": "1200",
+    "height": "630"
+   },
+   "embedUrl": "https://auvio.rtbf.be/embed/generic/content/media/3516005",
+   "expires": "Wed, 31 Dec 2031 22:55:00 GMT"
+  },
+  "gemius": {
+   "lan": "FR",
+   "free": "",
+   "key": "ond",
+   "subs": "auvio/media/3516005",
+   "player": {
+    "channel": "exclusivite-auvio",
+    "se": "Table Media",
+    "ct": "ce",
+    "sct": "table-media-lapproche-regionale-de-la-rtbf",
+    "scte": "video",
+    "st": "vid.tvi.ep.vod.free",
+    "tv": "26-TDMWW016-005-E1",
+    "series": "Table Mdia",
+    "programSeason": "",
+    "externalPremiereDate": "15092026",
+    "scd": "1975"
+   }
+  },
+  "chartbeat": {
+   "section": "Décodage Médias",
+   "author": "Table Média",
+   "title": "L'approche régionale de la RTBF"
+  },
+  "aipBlender": {
+   "CMdID": "3516005",
+   "CMdCmsID": "tablemedia",
+   "CMdTtl": "Table Média - L'approche régionale de la RTBF - (5) - 15/09/2026",
+   "CLgth": 1976,
+   "CGr": "decodagemedias",
+   "Cep": "5",
+   "CSsn": "",
+   "Ccat": "décodage médias",
+   "CDbr": "rtbf",
+   "CPdr": "exclusiviteauvio",
+   "CR": null,
+   "CLv": 0,
+   "Ckey": [
+    ""
+   ],
+   "UPP": 1,
+   "UGDPR": 1,
+   "AdSID": "710468",
+   "AdZID": "2143943"
+  },
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/media/table-media-table-media-3516005",
+  "onePlusX": {
+   "category_lvl1": "Décodage Médias",
+   "category_lvl2": null,
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "Décodage Médias",
+   "category_level_2": null,
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Décodage Médias",
+    "item": "https://auvio.rtbf.be/media/table-media-table-media-3516005"
+   }
+  ]
+ },
+ "data": {
+  "id": "7292",
+  "pageType": "MEDIA",
+  "content": {
+   "pageType": "MEDIA",
+   "title": "Table Média",
+   "id": "3516005",
+   "assetId": "3516005_6BA97Bb",
+   "type": "VIDEO",
+   "subtitle": "L'approche régionale de la RTBF",
+   "description": "Ma région, mon quartier et moi ? Comment témoigner et/ ou partager des infos ?  Quelles collaborations avec les médias de proximité ?",
+   "shortDescription": "",
+   "isPremium": false,
+   "publishedFrom": "2026-09-15T05:00:00+02:00",
+   "publishedTo": "2031-12-31T23:55:00+01:00",
+   "releaseDate": "15/09/26",
+   "duration": 1975,
+   "rating": null,
+   "minimumAge": null,
+   "pictograms": [],
+   "hasAudioDescriptions": false,
+   "hasMultilingualVersions": false,
+   "hasSubtitles": false,
+   "background": {
+    "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+    "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+    "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+    "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg",
+    "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/3/4/e/34e0472ef77cd910fa1b9a653fa71c64.jpg"
+   },
+   "logo": null,
+   "casting": [
+    {
+     "name": "Hugues Lanneau",
+     "role": "Producteur"
+    }
+   ],
+   "products": [],
+   "program": {
+    "resourceType": "PROGRAM",
+    "id": "29169",
+    "path": "/emission/table-media-29169",
+    "pathTitle": "",
+    "title": "Table Média",
+    "type": "SHOW",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/program/2x3/180xauto/5/b/7/5b79d33a3352157df32da09a4f2a5cf2.jpg",
+     "s": "https://static-content.rtbf.be/image/media/program/2x3/370xauto/5/b/7/5b79d33a3352157df32da09a4f2a5cf2.jpg",
+     "m": "https://static-content.rtbf.be/image/media/program/2x3/770xauto/5/b/7/5b79d33a3352157df32da09a4f2a5cf2.jpg",
+     "l": "https://static-content.rtbf.be/image/media/program/2x3/1248xauto/5/b/7/5b79d33a3352157df32da09a4f2a5cf2.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/program/2x3/1920xauto/5/b/7/5b79d33a3352157df32da09a4f2a5cf2.jpg"
+    },
+    "hero": null
+   },
+   "category": {
+    "resourceType": "CATEGORY",
+    "id": "230",
+    "label": "Décodage Médias",
+    "path": "/categorie/decodage-medias-230",
+    "pathTitle": "",
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/category/16x9/180x100/4/e/a/4ea5d992371cc62338e6a0d02bf19cd0.jpg",
+     "s": "https://static-content.rtbf.be/image/media/category/16x9/370x208/4/e/a/4ea5d992371cc62338e6a0d02bf19cd0.jpg",
+     "m": "https://static-content.rtbf.be/image/media/category/16x9/770x433/4/e/a/4ea5d992371cc62338e6a0d02bf19cd0.jpg",
+     "l": "https://static-content.rtbf.be/image/media/category/16x9/1248x702/4/e/a/4ea5d992371cc62338e6a0d02bf19cd0.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/category/16x9/1920x1080/4/e/a/4ea5d992371cc62338e6a0d02bf19cd0.jpg"
+    },
+    "logo": null
+   },
+   "channel": {
+    "resourceType": "CHANNEL",
+    "id": "73",
+    "path": "/chaine/exclusivite-auvio-73",
+    "pathTitle": "",
+    "label": "Exclusivité Auvio",
+    "logo": null,
+    "logoFlat": null,
+    "fastTv": false,
+    "logoFast": null,
+    "useStreamId": false,
+    "streamId": "",
+    "streamAssetId": null,
+    "streamRightsMode": null
+   },
+   "tags": [
+    {
+     "resourceType": "TAG",
+     "id": "399375",
+     "path": "/mot-cle/education-aux-medias-399375",
+     "pathTitle": "",
+     "name": "education aux medias"
+    }
+   ],
+   "next": {
+    "resourceType": "MEDIA",
+    "id": "3333659",
+    "programId": "",
+    "assetId": "3333659_6BA97Bb",
+    "path": "/media/table-media-3333659",
+    "embedPath": "/embed/generic/content/media/3333659",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Table Média",
+    "subtitle": "Fatigue informationnelle",
+    "description": "",
+    "publishedFrom": "2025-04-28T05:55:00+02:00",
+    "publishedTo": "2030-12-31T23:56:00+01:00",
+    "releaseDate": "28/04/25",
+    "duration": 1870,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/5/2/c/52c6d9160fd1179aa65455ffa67bdb6d.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/5/2/c/52c6d9160fd1179aa65455ffa67bdb6d.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/5/2/c/52c6d9160fd1179aa65455ffa67bdb6d.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/5/2/c/52c6d9160fd1179aa65455ffa67bdb6d.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/5/2/c/52c6d9160fd1179aa65455ffa67bdb6d.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "",
+    "products": []
+   },
+   "previous": {
+    "resourceType": "MEDIA",
+    "id": "3496521",
+    "programId": "",
+    "assetId": "3496521_6BA97Bb",
+    "path": "/media/table-media-3496521",
+    "embedPath": "/embed/generic/content/media/3496521",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Table Média",
+    "subtitle": "Les jeunes et l'information",
+    "description": "Comment les jeunes s’informent-ils ? Comment la RTBF informe les jeunes ? Pourquoi est-ce important de s’informer ?",
+    "publishedFrom": "2026-08-01T05:00:00+02:00",
+    "publishedTo": "2031-12-31T23:55:00+01:00",
+    "releaseDate": "01/08/26",
+    "duration": 1676,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": false,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/2/8/3/28351f4463575677e7edcf2dc2e68aad.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "",
+    "products": []
+   },
+   "chapters": null
+  },
+  "layout": "default",
+  "widgets": []
+ }
+}

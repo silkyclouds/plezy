@@ -1,0 +1,7 @@
+{
+  "errorCode": 400006,
+  "errorDetails": "Captcha token is required",
+  "errorMessage": "Invalid parameter value",
+  "statusCode": 400,
+  "statusReason": "Bad Request"
+}

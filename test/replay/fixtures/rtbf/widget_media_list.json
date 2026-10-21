@@ -1,0 +1,138 @@
+{
+ "status": 200,
+ "meta": {
+  "page": {
+   "current": 1,
+   "from": 1,
+   "last": null,
+   "path": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18601?_page=1&_limit=20&_embed=content&includeFastTv=true",
+   "limit": 20,
+   "to": 20,
+   "totalCount": null
+  }
+ },
+ "links": {
+  "first": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18601?_page=1&_limit=20&_embed=content&includeFastTv=true",
+  "last": null,
+  "prev": null,
+  "next": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18601?_page=2&_limit=20&_embed=content&includeFastTv=true"
+ },
+ "data": {
+  "id": "18601",
+  "type": "MEDIA_LIST",
+  "title": "Notre sélection",
+  "content": [
+   {
+    "resourceType": "MEDIA",
+    "id": "3530065",
+    "programId": 32471,
+    "assetId": "3530065_6BA97Bb",
+    "path": "/media/les-douze-meurtres-au-botox-les-douze-meurtres-au-botox-s03-3530065",
+    "embedPath": "/embed/generic/content/media/3530065",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Les Douze - Meurtres au Botox S03",
+    "subtitle": "01 - L'enfant aux 1000 visages",
+    "description": "Douze jurés jugent un couple accusé du meurtre d'un écrivain célèbre et de sa femme.",
+    "publishedFrom": "2026-10-18T05:00:00+02:00",
+    "publishedTo": "2036-10-18T23:55:00+02:00",
+    "releaseDate": "18/10/26",
+    "duration": 2859,
+    "rating": "-12",
+    "minimumAge": "12",
+    "pictograms": [],
+    "hasAudioDescriptions": true,
+    "hasMultilingualVersions": true,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/6/b/c/6bc194e8704e0cda2f4d329c730e4996.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/6/b/c/6bc194e8704e0cda2f4d329c730e4996.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/6/b/c/6bc194e8704e0cda2f4d329c730e4996.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/6/b/c/6bc194e8704e0cda2f4d329c730e4996.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/6/b/c/6bc194e8704e0cda2f4d329c730e4996.jpg"
+    },
+    "channelLabel": "",
+    "categoryLabel": "Séries belges",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3540622",
+    "programId": 32654,
+    "assetId": "3540622_6BA97Bb",
+    "path": "/media/les-disparus-des-argonnes-les-disparus-des-argonnes-3540622",
+    "embedPath": "/embed/generic/content/media/3540622",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Les disparus des Argonnes",
+    "subtitle": "01 - Episode 1",
+    "description": "Dans un village des Argonnes, Gilles Veyrades, jeune appelé effectuant son service militaire, disparaît mystérieusement alors qu'il devait rentrer en permission. Sa mère, Jocelyne, refuse de croire à une fugue ou à une désertion. Malgré l'indifférence des autorités, elle commence à interroger son entourage et découvre qu'il ne s'agit pas d'un cas isolé : d'autres appelés de la région se sont volatilisés sans explication. Tandis que la famille Veyrades tente de rester soudée, Jocelyne devient peu à peu la porte-parole des proches des disparus.",
+    "publishedFrom": "2026-10-20T21:20:03+02:00",
+    "publishedTo": "2026-11-19T23:55:00+01:00",
+    "releaseDate": "20/10/26",
+    "duration": 3390,
+    "rating": "-10",
+    "minimumAge": "10",
+    "pictograms": [
+     {
+      "code": "V",
+      "label": "Violence"
+     },
+     {
+      "code": "A",
+      "label": "Angoisse"
+     }
+    ],
+    "hasAudioDescriptions": true,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/f/b/f/fbf7d036667f4db6ebd5e32aa8fb39f2.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/f/b/f/fbf7d036667f4db6ebd5e32aa8fb39f2.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/f/b/f/fbf7d036667f4db6ebd5e32aa8fb39f2.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/f/b/f/fbf7d036667f4db6ebd5e32aa8fb39f2.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/f/b/f/fbf7d036667f4db6ebd5e32aa8fb39f2.jpg"
+    },
+    "channelLabel": "La Une",
+    "categoryLabel": "Séries",
+    "products": []
+   },
+   {
+    "resourceType": "MEDIA",
+    "id": "3540580",
+    "programId": 32671,
+    "assetId": "3540580_6BA97Bb",
+    "path": "/media/hollywood-et-les-femmes-l-empire-du-silence-la-fabrique-du-mensonge-10-ans-apres-metoo-les-violences-continuent-3540580",
+    "embedPath": "/embed/generic/content/media/3540580",
+    "pathTitle": "",
+    "type": "VIDEO",
+    "title": "Hollywood et les femmes : l'empire du silence (La fabrique du mensonge)",
+    "subtitle": "10 ans après #MeToo, les violences continuent",
+    "description": "Près de dix ans après l'avènement mondial du mouvement #MeToo, le documentaire démontre comment l'industrie du cinéma hollywoodien continue d'étouffer les violences faites aux femmes. Derrière les tapis rouges et les discours progressistes de façade, l'enquête révèle la mise en place d'un nouveau système opaque et organisé. Manipulation de l'opinion : comment une véritable industrie numérique parvient à façonner la perception publique à grande échelle pour retourner l'opinion contre les victimes qui osent prendre la parole. Economie de la haine : le rôle des entrepreneurs du web, youtubeurs, commentateurs politiques et influenceuses conservatrices qui tirent un profit financier direct de la diffusion de propos haineux et sexistes ciblant des femmes célèbres.",
+    "publishedFrom": "2026-10-20T22:11:00+02:00",
+    "publishedTo": "2027-01-18T23:55:00+01:00",
+    "releaseDate": "20/10/26",
+    "duration": 4554,
+    "rating": null,
+    "minimumAge": null,
+    "pictograms": [],
+    "hasAudioDescriptions": false,
+    "hasMultilingualVersions": false,
+    "hasSubtitles": true,
+    "stamp": null,
+    "illustration": {
+     "xs": "https://static-content.rtbf.be/image/media/object/default/16x9/180x100/8/2/b/82b8ffc23b585bac528d68872686b589.jpg",
+     "s": "https://static-content.rtbf.be/image/media/object/default/16x9/370x208/8/2/b/82b8ffc23b585bac528d68872686b589.jpg",
+     "m": "https://static-content.rtbf.be/image/media/object/default/16x9/770x433/8/2/b/82b8ffc23b585bac528d68872686b589.jpg",
+     "l": "https://static-content.rtbf.be/image/media/object/default/16x9/1248x702/8/2/b/82b8ffc23b585bac528d68872686b589.jpg",
+     "xl": "https://static-content.rtbf.be/image/media/object/default/16x9/1920x1080/8/2/b/82b8ffc23b585bac528d68872686b589.jpg"
+    },
+    "channelLabel": "Tipik",
+    "categoryLabel": "Société",
+    "products": []
+   }
+  ]
+ }
+}

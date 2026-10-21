@@ -1,0 +1,61 @@
+{
+ "video": {
+  "workflow": null,
+  "token": {
+   "akamai": "https://hdfauth.ftven.fr/esi/TA?format=json"
+  },
+  "duration": 3297,
+  "embed": false,
+  "format": "dash",
+  "is_live": false,
+  "drm": false,
+  "drm_type": null,
+  "license_type": null,
+  "previously": {
+   "timecode": null,
+   "duration": null,
+   "time_before_dismiss": null
+  },
+  "coming_next": {
+   "timecode": 3251.857,
+   "duration": 12,
+   "time_before_dismiss": 12
+  },
+  "skip_intro": {
+   "timecode": 239.24,
+   "duration": 38.519,
+   "time_before_dismiss": 12
+  },
+  "closing_credits": {
+   "timecode": 3251.857
+  },
+  "timeshiftable": null,
+  "dai_type": null,
+  "url": "https://cloudingest.ftven.fr/ftv/0/9a/09a3295f524a6/cb4c5ebc-6227-45d9-834b-152beef3eae1-1782735488_france-domtom_TA.ism/manifest.mpd",
+  "offline": null,
+  "is_highlightable": false,
+  "is_epgable": false,
+  "has_highlights": false,
+  "quality": null,
+  "live_chunk_delay": null,
+  "renderer_config": null
+ },
+ "meta": {
+  "id": "cb4c5ebc-6227-45d9-834b-152beef3eae1",
+  "title": "Dix pour cent",
+  "additional_title": "Cécile",
+  "pre_title": "S1 E1",
+  "broadcasted_at": "2026-06-29T14:04:39+02:00",
+  "image_url": "https://assets.webservices.francetelevisions.fr/v1/assets/images/d5/95/59/3c959d12-7eef-4599-bc45-321b3795c34e.jpg",
+  "event": null,
+  "subtitles": [
+   {
+    "url": "https://assets.webservices.francetelevisions.fr/v1/assets/captions/9e/52/7f/fb853f30-837d-40d2-b28a-d1a89a652b59.vtt",
+    "lang": "qsm"
+   }
+  ],
+  "description": "Trois agents de comédiens, aux personnalités hautes en couleur et aux vies personnelles compliquées, se battent au quotidien pour trouver les meilleurs rôles pour leurs prestigieux clients. Quand Camille, la fille illégitime de l'un d'entre eux, débarque à Paris pour chercher un travail, elle est plongée dans le quotidien mouvementé de l'agence. Cécile de France est alors pressentie pour jouer dans une grosse production hollywoodienne. Quand Gabriel, son agent, apprend qu'elle est finalement écartée à cause de son âge, il n'ose pas lui annoncer la nouvelle. C'est Camille qui va, sans le savoir, gaffer et révéler la vérité à l'actrice...",
+  "playtime": "54 min 57 s",
+  "endDate": "30/06/2027"
+ }
+}

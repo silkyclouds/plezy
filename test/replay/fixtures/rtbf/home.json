@@ -1,0 +1,471 @@
+{
+ "status": 200,
+ "meta": {
+  "seo": {
+   "title": "RTBF Auvio : toute l'offre audio, vidéo et direct de la RTBF",
+   "description": "Voir et écouter en replay tous les programmes de la RTBF. Regarder ou écouter en direct vos chaînes TV et radio. Découvrir des contenus exclusifs.",
+   "canonical": "https://auvio.rtbf.be/home",
+   "image": {
+    "url": "https://www.static.rtbf.be/tv/media/images/rtbf-auvio-logo-share.png",
+    "width": "1200",
+    "height": "630"
+   }
+  },
+  "gemius": {
+   "key": "home",
+   "subs": "auvio/home",
+   "lan": "FR",
+   "free": ""
+  },
+  "chartbeat": {
+   "section": "home",
+   "author": "home"
+  },
+  "aipBlender": null,
+  "smartAds": null,
+  "adsWizz": null,
+  "aip": null,
+  "socialNetworks": {
+   "facebook": {
+    "appId": "366967623746",
+    "pages": "435485085295"
+   },
+   "twitter": {
+    "siteId": "14331898",
+    "site": "RTBF"
+   },
+   "apple": {
+    "appId": "1249992761"
+   }
+  },
+  "shareUrl": "https://auvio.rtbf.be/home",
+  "onePlusX": {
+   "category_lvl1": "other",
+   "category_lvl2": null,
+   "category_lvl3": null
+  },
+  "mdiaRtmX": {
+   "category_level_1": "other",
+   "category_level_2": null,
+   "category_level_3": null
+  },
+  "embedURL": null,
+  "breadcrumb": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Accueil",
+    "item": "https://auvio.rtbf.be"
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "RTBF Auvio : toute l'offre audio, vidéo et direct de la RTBF",
+    "item": "https://auvio.rtbf.be/home"
+   }
+  ]
+ },
+ "data": {
+  "id": "6527",
+  "pageType": "PATH",
+  "content": {
+   "pageType": "PATH",
+   "title": ""
+  },
+  "layout": "default",
+  "widgets": [
+   {
+    "type": "PROMOBOX",
+    "id": "19010",
+    "title": "",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/19010",
+    "locked": true
+   },
+   {
+    "type": "CATEGORY_LIST",
+    "id": "17226",
+    "title": "Catégories",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/17226",
+    "locked": true
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "18601",
+    "title": "Notre sélection",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18601",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/18601"
+    },
+    "locked": true
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "23790",
+    "title": "Julie & Mélissa : une tragédie qui a bouleversé la Belgique",
+    "subtitle": "30 ans après la Marche Blanche, se souvenir",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/23790",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/23790"
+    },
+    "locked": true
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "23362",
+    "title": "Nos recommandations pour vous",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/23362",
+    "locked": true
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "25079",
+    "title": "Les Douze : Meurtres au Botox",
+    "subtitle": "Les 4 premiers épisodes de notre nouvelle série belge ",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25079",
+    "cta": {
+     "label": "La suite à découvrir le 25/10",
+     "path": "/emission/les-douze-meurtres-au-botox-32471",
+     "alwaysOn": true
+    },
+    "locked": true
+   },
+   {
+    "type": "MEDIA_TRAILER",
+    "id": "25074",
+    "title": "Série comique à voir en intégralité",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25074",
+    "locked": true
+   },
+   {
+    "type": "ONGOING_PLAY_HISTORY",
+    "id": "17191",
+    "title": "Mes reprises de lecture",
+    "subtitle": "",
+    "contentPath": "https://u2c-service.rtbf.be/auvio/v1.23/users/{id}/play-history?isOngoing=true&_limit=16",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/17191"
+    },
+    "states": {
+     "empty": {
+      "description": "Vos lectures en cours s’afficheront automatiquement ici",
+      "icon": {
+       "xs": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "s": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "m": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "l": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "xl": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png"
+      },
+      "background": {
+       "xs": "https://static-content.rtbf.be/image/widget/custom/180xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "s": "https://static-content.rtbf.be/image/widget/custom/370xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "m": "https://static-content.rtbf.be/image/widget/custom/770xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "l": "https://static-content.rtbf.be/image/widget/custom/1472xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "xl": "https://static-content.rtbf.be/image/widget/custom/1920xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg"
+      },
+      "cta": null
+     },
+     "guest": {
+      "description": "Reprenez vos contenus là où vous vous êtes arrêtés en vous connectant gratuitement",
+      "icon": {
+       "xs": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "s": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "m": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "l": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png",
+       "xl": "https://static-content.rtbf.be/image/widget/10x10/c/6/c/c6cd261f20d9a2e43b4aa3ccebfe26b4.png"
+      },
+      "background": {
+       "xs": "https://static-content.rtbf.be/image/widget/custom/180xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "s": "https://static-content.rtbf.be/image/widget/custom/370xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "m": "https://static-content.rtbf.be/image/widget/custom/770xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "l": "https://static-content.rtbf.be/image/widget/custom/1472xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg",
+       "xl": "https://static-content.rtbf.be/image/widget/custom/1920xauto/2/f/0/2f02481752677e6bc63c5402efadbe38.jpg"
+      },
+      "cta": {
+       "path": "",
+       "label": "Se connecter",
+       "action": "LOGIN"
+      }
+     }
+    },
+    "locked": true
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "19764",
+    "title": "Films & Téléfilms",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/19764",
+    "cta": {
+     "label": "Plus de films",
+     "path": "/categorie/films-36",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "22683",
+    "title": "Séries",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22683",
+    "cta": {
+     "label": "Plus de séries",
+     "path": "/categorie/series-35",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "BANNER",
+    "id": "25068",
+    "title": "Série d'époque : entre foi, naissances et pauvreté",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25068",
+    "locked": true
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "23377",
+    "title": "Vous pourriez aussi aimer",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/23377",
+    "locked": true
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "20691",
+    "title": "Documentaires",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/20691",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/categorie/documentaires-31",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "25078",
+    "title": "Octobre Rose",
+    "subtitle": "Journée mondiale de lutte contre le cancer du sein",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/25078",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/25078"
+    },
+    "locked": true
+   },
+   {
+    "type": "FAVORITE_PROGRAM_LIST",
+    "id": "18582",
+    "title": "Mes programmes favoris",
+    "subtitle": "Films, séries, émissions, podcasts ...",
+    "contentPath": "https://u2c-service.rtbf.be/auvio/v1.23/users/{id}/favorites?type=PROGRAM",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/18582"
+    },
+    "states": {
+     "empty": {
+      "description": "Vous n'avez pas de programmes favoris",
+      "icon": {
+       "xs": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "s": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "m": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "l": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "xl": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png"
+      },
+      "background": {
+       "xs": "https://static-content.rtbf.be/image/widget/custom/180xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "s": "https://static-content.rtbf.be/image/widget/custom/370xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "m": "https://static-content.rtbf.be/image/widget/custom/770xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "l": "https://static-content.rtbf.be/image/widget/custom/1472xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "xl": "https://static-content.rtbf.be/image/widget/custom/1920xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg"
+      },
+      "cta": {
+       "path": "/notreselection",
+       "label": "Découvrez notre sélection",
+       "action": "NAVIGATE"
+      }
+     },
+     "guest": {
+      "description": "Accédez à vos programmes favoris en vous connectant",
+      "icon": {
+       "xs": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "s": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "m": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "l": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png",
+       "xl": "https://static-content.rtbf.be/image/widget/10x10/1/0/7/1073ee6856a43019483d1fdcf9d81757.png"
+      },
+      "background": {
+       "xs": "https://static-content.rtbf.be/image/widget/custom/180xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "s": "https://static-content.rtbf.be/image/widget/custom/370xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "m": "https://static-content.rtbf.be/image/widget/custom/770xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "l": "https://static-content.rtbf.be/image/widget/custom/1472xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg",
+       "xl": "https://static-content.rtbf.be/image/widget/custom/1920xauto/6/d/3/6d336eaf44dd6038d170f0aec2f0e9b0.jpg"
+      },
+      "cta": {
+       "path": "",
+       "label": "Se connecter",
+       "action": "LOGIN"
+      }
+     }
+    },
+    "locked": true
+   },
+   {
+    "type": "CHANNEL_LIST",
+    "id": "18854",
+    "title": "Chaînes",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/18854",
+    "locked": true
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "20114",
+    "title": "Journaux & magazines d'info RTBF",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/20114",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/categorie/info-1",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "20116",
+    "title": "Humour & Divertissement",
+    "subtitle": "Pour se détendre ",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/20116",
+    "cta": {
+     "label": "Plus de divertissement",
+     "path": "/categorie/divertissement-29",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "BANNER",
+    "id": "22685",
+    "title": "Comment installer Auvio dans votre TV connectée ?",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22685",
+    "locked": true
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "22390",
+    "title": "Kids",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22390",
+    "cta": {
+     "label": "Plus de contenus",
+     "path": "https://auvio.rtbf.be/kids",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "20115",
+    "title": "AB3 & ABX",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/20115",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/20115"
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "22709",
+    "title": "Sport",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/22709",
+    "cta": {
+     "label": "Plus de sport",
+     "path": "/categorie/sport-9",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_PREMIUM_LIST",
+    "id": "19737",
+    "title": "Derniers ajouts",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/19737",
+    "cta": {
+     "label": "Abonnez-vous",
+     "path": "/premium/sooner",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "19614",
+    "title": "La sélection archives",
+    "subtitle": "Proposée par la SONUMA - Les archives audiovisuelles",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/19614",
+    "cta": {
+     "label": "Plus d'archives ici !",
+     "path": "/categorie/archives-sonuma-167",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "24272",
+    "title": "Podcasts",
+    "subtitle": "Les incontournables et ajouts récents",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/24272",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/podcasts",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "MEDIA_LIST",
+    "id": "21931",
+    "title": "Les journaux des médias de proximité",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/21931",
+    "cta": {
+     "label": "La page des médias de proximité",
+     "path": "/chaine/medias-de-proximite-125",
+     "alwaysOn": true
+    },
+    "locked": false
+   },
+   {
+    "type": "PROGRAM_LIST",
+    "id": "20136",
+    "title": "Culture, Musique & Lifestyle",
+    "subtitle": "",
+    "contentPath": "https://bff-service.rtbf.be/auvio/v1.23/widgets/20136",
+    "cta": {
+     "label": "Voir tout",
+     "path": "/widget/20136"
+    },
+    "locked": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "video": {
+    "streams": [
+      {"type": "dash", "url": "https://media.example.invalid/protected/manifest.mpd", "drm": {"com.widevine.alpha": {"licenseUrl": "https://license.example.invalid/widevine", "drmtoday": {"authToken": "synthetic"}}}},
+      {"type": "dash", "url": "https://media.example.invalid/clear/manifest.mpd"},
+      {"type": "hls", "url": "https://media.example.invalid/clear/master.m3u8", "adTrackingUrl": "https://ads.example.invalid/track"}
+    ],
+    "subtitles": [
+      {"language": "fr", "url": "https://media.example.invalid/subs/fr.vtt"},
+      {"language": "fr-tt", "url": "https://media.example.invalid/subs/fr-tt.vtt"}
+    ],
+    "metadata": {"markers": [{"type": "intro", "start": 10, "end": 40}]}
+  },
+  "heartbeat": {"token": "synthetic", "frequency": 30000, "expiration": 3600000}
+}

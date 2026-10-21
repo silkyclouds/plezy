@@ -1,0 +1,220 @@
+{
+ "data": {
+  "programBySlug": {
+   "id": "d3d171c3-5e56-4d79-ba23-f344ef09d5d2",
+   "slug": "aquaman",
+   "name": "Aquaman",
+   "isFullyDigital": false,
+   "editor": "mytf1",
+   "mainChannel": {
+    "id": "11b242d2-2a37-4f5c-a64f-9337517669b1",
+    "slug": "tmc",
+    "label": "TMC"
+   },
+   "initialChannel": {
+    "id": "11b242d2-2a37-4f5c-a64f-9337517669b1",
+    "slug": "tmc",
+    "label": "TMC"
+   },
+   "categories": [
+    {
+     "id": "GT_MOVIES",
+     "label": "Cinéma",
+     "main": true,
+     "slug": "cinema",
+     "type": "MAIN_MOVIES"
+    },
+    {
+     "id": "SGT_ENTERTAINMENT",
+     "label": "Divertissements",
+     "main": false,
+     "slug": "divertissements",
+     "type": "SUB_ENTERTAINEMENT"
+    }
+   ],
+   "decoration": {
+    "image": {
+     "id": "program-card-portrait-1-jpg-a3f44a",
+     "type": "PORTRAIT",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/700/933/program-card-portrait-1-jpg-a3f44a-e38d5a-0@1x.jpg",
+       "width": "700",
+       "height": "933",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/350/466/program-card-portrait-1-jpg-a3f44a-5149e7-0@1x.jpg",
+       "width": "350",
+       "height": "466",
+       "type": "jpg"
+      }
+     ]
+    },
+    "background": {
+     "id": "background-ott-jpg-1ec7f7",
+     "type": "BACKGROUND",
+     "sources": [
+      {
+       "url": "https://photos.tf1.fr/1920/1080/background-ott-jpg-1ec7f7-c5328a-0@1x.jpg",
+       "width": "1920",
+       "height": "1080",
+       "type": "jpg"
+      },
+      {
+       "url": "https://photos.tf1.fr/960/540/background-ott-jpg-1ec7f7-e69a59-0@1x.jpg",
+       "width": "960",
+       "height": "540",
+       "type": "jpg"
+      }
+     ]
+    }
+   },
+   "replay": {
+    "total": 1
+   },
+   "replayRecent": {
+    "total": 1
+   },
+   "allVideos": {
+    "total": 1
+   },
+   "allVideosRecent": {
+    "total": 1
+   },
+   "videos": {
+    "total": 1,
+    "items": [
+     {
+      "id": "03a61d77-e78e-4b5a-b2ee-52b4c230a13a",
+      "slug": "aquaman-42835069",
+      "type": "REPLAY",
+      "rating": "CSA_10",
+      "date": "2026-10-19T19:29:40Z",
+      "episode": 0,
+      "season": 0,
+      "authEnabled": true,
+      "published": "2026-10-19T19:29:40Z",
+      "url": "https://www.tf1.fr/tmc/aquaman/videos/aquaman-42835069.html",
+      "broadcastChannel": {
+       "id": "11b242d2-2a37-4f5c-a64f-9337517669b1",
+       "slug": "tmc"
+      },
+      "playingInfos": {
+       "duration": 7639,
+       "remainingDays": 14,
+       "freeRemainingDays": 14
+      },
+      "decoration": {
+       "description": "Arthur Curry, plus connu sous le nom d'Aquaman, part en croisade afin d'empêcher une terrible guerre entre le monde terrestre et celui des océans.",
+       "hook": "",
+       "label": "Aquaman",
+       "programLabel": "Aquaman",
+       "subLabel": "du lundi 19 octobre 2026 à 21h29",
+       "images": [
+        {
+         "id": "preview_03a61d77-e78e-4b5a-b2ee-52b4c230a13a",
+         "type": "PREVIEW",
+         "sources": [
+          {
+           "url": "https://vidpreviews.tf1.fr/video/f7aaf1987cb4d32fbd3cd0ea52b701c839033d37877c073f6380a7d1e5feb749.mp4",
+           "width": "0",
+           "height": "0",
+           "type": "mp4"
+          }
+         ]
+        },
+        {
+         "id": "aquaman-9af270",
+         "type": "THUMBNAIL",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/396/222/aquaman-9af270-7aeaab-0@1x.jpg",
+           "width": "396",
+           "height": "222",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/198/111/aquaman-9af270-302575-0@1x.jpg",
+           "width": "198",
+           "height": "111",
+           "type": "jpg"
+          }
+         ]
+        },
+        {
+         "id": "aquaman-9af270",
+         "type": "THUMBNAIL_LARGE",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/1200/720/aquaman-9af270-b59a88-0@1x.jpg",
+           "width": "1200",
+           "height": "720",
+           "type": "jpg"
+          },
+          {
+           "url": "https://photos.tf1.fr/600/360/aquaman-9af270-3e01f2-0@1x.jpg",
+           "width": "600",
+           "height": "360",
+           "type": "jpg"
+          }
+         ]
+        }
+       ]
+      },
+      "program": {
+       "id": "d3d171c3-5e56-4d79-ba23-f344ef09d5d2",
+       "slug": "aquaman",
+       "name": "Aquaman",
+       "editor": "mytf1",
+       "isFullyDigital": false,
+       "initialChannel": {
+        "id": "11b242d2-2a37-4f5c-a64f-9337517669b1",
+        "slug": "tmc",
+        "label": "TMC"
+       },
+       "mainChannel": {
+        "id": "11b242d2-2a37-4f5c-a64f-9337517669b1",
+        "label": "TMC",
+        "slug": "tmc"
+       },
+       "categories": [
+        {
+         "id": "GT_MOVIES",
+         "main": true,
+         "slug": "cinema"
+        },
+        {
+         "id": "SGT_ENTERTAINMENT",
+         "main": false,
+         "slug": "divertissements"
+        }
+       ],
+       "showSeasons": false,
+       "decoration": {
+        "image": {
+         "id": "logo-programme-png-86a7b4",
+         "type": "LOGO",
+         "sources": [
+          {
+           "url": "https://photos.tf1.fr/450/225/logo-programme-png-86a7b4-d54866-0@1x.png",
+           "width": "450",
+           "height": "225",
+           "type": "png"
+          },
+          {
+           "url": "https://photos.tf1.fr/225/112/logo-programme-png-86a7b4-0583b6-0@1x.png",
+           "width": "225",
+           "height": "112",
+           "type": "png"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

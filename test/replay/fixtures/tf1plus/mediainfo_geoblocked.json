@@ -1,0 +1,37 @@
+{
+ "media": {
+  "id": "14029115",
+  "type": "video",
+  "error_code": "GEOBLOCKED",
+  "error_desc": "Ce contenu n'est pas disponible dans votre zone géographique",
+  "title": "La Pat'Patrouille - Super Chats : la fusée incontrôlable",
+  "geoList": [
+   "FR"
+  ],
+  "owner": "paw-patrol",
+  "preview": "https://photos.tf1.fr/1280/720/d-0de35b-4471d2-0@1x.jpg",
+  "sqPreview": "https://photos.tf1.fr/400/400/program-card-square-paw-patrol_10-06-2026-53eb46-95c001-0@1x.jpg",
+  "channel": "tf1",
+  "duration": 178,
+  "geolock": true,
+  "sb": "https://video-storyboards.tf1.fr/dbe50570d3901cd04022d76c204a98f72d0adba5d7047304752713f09a9a26f5/lsb.vtt",
+  "syndicable": false,
+  "shortTitle": "La Pat'Patrouille - Super Chats : la fusée incontrôlable",
+  "programName": "Paw Patrol, la Pat'Patrouille",
+  "programSlug": "pawpatrol",
+  "publisherSlug": "tf1",
+  "attach": "TF1"
+ },
+ "content": {
+  "title": "la-pat-patrouille-super-chats-:-la-fusee-incontrolable",
+  "emId": "2017091"
+ },
+ "delivery": {
+  "code": 403,
+  "error": "Désolé, cette vidéo n'est pas accessible depuis votre zone géographique",
+  "country": "BE",
+  "format": "dash",
+  "level": "Short",
+  "stream-id": "04e214ba-bb49-4c35-9c4f-efcf85004107_dash_nodrm_nomax"
+ }
+}

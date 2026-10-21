@@ -1,0 +1,263 @@
+[
+ {
+  "id": "clip_13092944",
+  "type": "vi",
+  "title": "Épisode 1",
+  "description": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de",
+  "duration": 2972,
+  "publication_date": "2024-10-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 26360,
+   "code": "les-traitres-nouvelle-generation",
+   "title": "Les traîtres : nouvelle génération"
+  },
+  "images": [
+   {
+    "external_key": "4358073",
+    "role": "vignette",
+    "id": 4100471
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2972,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a9fc1aa4f9f772947d9fa008c0494e91570976/static/13092944_c5c88d643b8e2be7e3bfbde4a9acde19_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 2972,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a9fc1aa4f9f772947d9fa008c0494e91570976/static/13092944_291805c5806f01ff71d0f84c904407c1_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2972,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a9fc1aa4f9f772947d9fa008c0494e91570976/static/13092944_ecb34931cb207428e533a2ae6170d8e1_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 2972,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/3/8/a/38a9fc1aa4f9f772947d9fa008c0494e91570976/static/13092944_a65cc3c0f3fd853fec48d76d6d808f3e_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 1,
+     "episode": 1,
+     "season_title": "Saison 1",
+     "season_id": 23261,
+     "part_number": null,
+     "first_local_air_date": "2024-09-27 00:00:00",
+     "summary": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13093545",
+  "type": "vi",
+  "title": "Épisode 2",
+  "description": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de",
+  "duration": 4014,
+  "publication_date": "2024-10-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 26360,
+   "code": "les-traitres-nouvelle-generation",
+   "title": "Les traîtres : nouvelle génération"
+  },
+  "images": [
+   {
+    "external_key": "4358074",
+    "role": "vignette",
+    "id": 4100472
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 4014,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/c/2/4/c24773c3e009b2b638f961a93a9687ea5d2b7ec6/static/13093545_766e43d4591d4f03bc0e2734e92f9424_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "mpd",
+      "video_duration": 4014,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/c/2/4/c24773c3e009b2b638f961a93a9687ea5d2b7ec6/static/13093545_71a349c51763f792312adae86388fa31_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 4014,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/c/2/4/c24773c3e009b2b638f961a93a9687ea5d2b7ec6/static/13093545_079c6c73baa177486b33abaaf4fbd86e_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "m3u8",
+      "video_duration": 4014,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/c/2/4/c24773c3e009b2b638f961a93a9687ea5d2b7ec6/static/13093545_55172e72cf663ba4b9fe9e5daac1a5ed_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 1,
+     "episode": 2,
+     "season_title": "Saison 1",
+     "season_id": 23261,
+     "part_number": null,
+     "first_local_air_date": "2024-09-27 00:00:00",
+     "summary": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clip_13093547",
+  "type": "vi",
+  "title": "Épisode 3",
+  "description": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de",
+  "duration": 2689,
+  "publication_date": "2024-10-01 00:00:00",
+  "csa": {
+   "code": "1",
+   "id": 1,
+   "label": "Tous publics",
+   "sort_index": 0,
+   "icon_name": "",
+   "age": 0
+  },
+  "freemium_products": [],
+  "program": {
+   "id": 26360,
+   "code": "les-traitres-nouvelle-generation",
+   "title": "Les traîtres : nouvelle génération"
+  },
+  "images": [
+   {
+    "external_key": "4358076",
+    "role": "vignette",
+    "id": 4100474
+   }
+  ],
+  "clips": [
+   {
+    "areas": [
+     {
+      "zone_id": "11"
+     }
+    ],
+    "assets": [
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "h264",
+      "video_duration": 2689,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/f/b/8/fb87c1362eb22a19b61b62930c516f1031407ab9/static/13093547_9387eeab2cda4522fd69ead26681c0ee_web_dash_upTo720p_720p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_dashcenc_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "h264",
+      "video_duration": 2689,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/f/b/8/fb87c1362eb22a19b61b62930c516f1031407ab9/static/13093547_b75f8eeb8fe7357cc7093687c770fdad_web_dash_upTo1080p_1080p_vbr_cae_drm_software.mpd?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "sd",
+      "video_protection": "software",
+      "video_container": "h264",
+      "video_duration": 2689,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/f/b/8/fb87c1362eb22a19b61b62930c516f1031407ab9/static/13093547_41f2dacc4cf438b5d43d0150e5e682e8_web_hls_upTo720p_720p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     },
+     {
+      "type": "usp_hlsfp_h264",
+      "video_quality": "hd",
+      "video_protection": "software",
+      "video_container": "h264",
+      "video_duration": 2689,
+      "audio_quality": "stereo",
+      "full_physical_path": "https://lbcdn.6cloud.fr/resource/m6web/s/m6web/output/f/b/8/fb87c1362eb22a19b61b62930c516f1031407ab9/static/13093547_0fab0af33435391b8c2b78c8f3e61f8c_web_hls_upTo1080p_1080p_vbr_cae_drm_software.m3u8?expiration=1792607229&scheme=https&groups%5B0%5D=m6web&countries=QUR8RlJ8R1B8R0Z8TVF8WVR8TUN8TkN8UEZ8UkV8Qkx8TUZ8UE18VEZ8V0Y%3D&token=TOKEN"
+     }
+    ],
+    "tc_opening_credits": null,
+    "tc_ending_credits": null,
+    "product": {
+     "season": 1,
+     "episode": 3,
+     "season_title": "Saison 1",
+     "season_id": 23261,
+     "part_number": null,
+     "first_local_air_date": "2024-09-27 00:00:00",
+     "summary": "Oubliez tout ce que vous avez connu… Les Traîtres Nouvelle Génération va vous déstabiliser ! Dans cette version événementielle, avec des créateurs de contenus à succès, l’angoisse et la peur vont s’emparer du jeu. Vous découvrirez des joueurs invétérés qui vont être surpris comme jamais. Ils vont de"
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,173 @@
+{
+ "primaryButton": {
+  "type": "PLAY",
+  "label": "Lecture",
+  "accessibilityLabel": "Lecture",
+  "icon": "PLAY",
+  "playableId": "d1cb72af-01ae-49ef-84bc-d41dc7a87e9b",
+  "info": null
+ },
+ "secondaryButtons": [],
+ "title": {
+  "label": "Maison de retraite",
+  "imageUrl": "https://images4.persgroep.net/rcs/qeqdElzdotCIEg_DM3WocxyJ1YQ/diocontent/277878391/_fit/1280/480?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "broadcasterLogo": {
+  "imageUrl": "https://images2.persgroep.net/rcs/kwMAYL9gEdKkNkFkGuWJHyisNpM/diocontent/246786567/_fitheight/144?appId=038a353bad43ac27fd436dc5419c256b&quality=1.0",
+  "accessibilityLabel": "NONE"
+ },
+ "backgroundImageUrl": "https://images2.persgroep.net/rcs/M4tK7adKcPN-KvplIcVNW3o1cEQ/diocontent/277878390/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "backgroundImage": {
+  "url1280": "https://images1.persgroep.net/rcs/DMujiafzP6Vk07yLj4D6tcTDmbg/diocontent/277878390/_fitwidth/1280?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url1920": "https://images4.persgroep.net/rcs/EdKtGoIKq26Z_w1_mSat9HbJPKM/diocontent/277878390/_fitwidth/1920?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "url2560": "https://images0.persgroep.net/rcs/BFPTJVWnOdYhm60GBi3HWurdCBM/diocontent/277878390/_fitwidth/2560?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "landscapeTeaserImageUrl": "https://images0.persgroep.net/rcs/wS2DaFlCs4B2i5drAUPsyDLf3As/diocontent/277878393/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+ "headerLabels": [
+  {
+   "label": "2020",
+   "emphasized": false,
+   "accessibilityLabel": "Année de production"
+  },
+  {
+   "label": "93 min",
+   "emphasized": false,
+   "accessibilityLabel": "Durée"
+  },
+  {
+   "label": "Comédie",
+   "emphasized": false,
+   "accessibilityLabel": "Genre"
+  }
+ ],
+ "ratingIcons": [],
+ "description": "Pour éviter la prison, Milann doit faire 300 heures de TIG dans une maison de retraite. Adopté par des pensionnaires attachants, il découvre que l’établissement les arnaque. Il décide alors de planifier leur évasion.",
+ "share": {
+  "url": "https://www.rtlplay.be/rtlplay/maison-de-retraite~d1cb72af-01ae-49ef-84bc-d41dc7a87e9b?utm_source=RTL_PLAY&utm_medium=share_button",
+  "imageUrl": "https://images0.persgroep.net/rcs/wS2DaFlCs4B2i5drAUPsyDLf3As/diocontent/277878393/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8"
+ },
+ "legalText": null,
+ "playableUntilLabel": null,
+ "downloadAllowed": false,
+ "trailerId": null,
+ "id": "d1cb72af-01ae-49ef-84bc-d41dc7a87e9b",
+ "addedToMyList": false,
+ "userRating": null,
+ "editorialByline": null,
+ "badges": [],
+ "moreInfo": {
+  "meta": [
+   {
+    "label": "Genre",
+    "items": [
+     {
+      "label": "Comédie",
+      "collectionId": "d783416e-9b47-46c1-821f-10fa7916fd90"
+     }
+    ]
+   },
+   {
+    "label": "Réalisation",
+    "items": [
+     {
+      "label": "Thomas Gilou",
+      "collectionId": null
+     }
+    ]
+   },
+   {
+    "label": "Rôles",
+    "items": [
+     {
+      "label": "Marthe Villalonga",
+      "collectionId": null
+     },
+     {
+      "label": "Daniel Prévost",
+      "collectionId": null
+     },
+     {
+      "label": "Kev Adams",
+      "collectionId": null
+     },
+     {
+      "label": "Mylène Demongeot",
+      "collectionId": null
+     },
+     {
+      "label": "Antoine Duléry",
+      "collectionId": null
+     },
+     {
+      "label": "Gérard Depardieu",
+      "collectionId": null
+     }
+    ]
+   },
+   {
+    "label": "Langue",
+    "items": [
+     {
+      "label": "français",
+      "collectionId": null
+     }
+    ]
+   }
+  ],
+  "description": "Pour éviter la prison, Milann doit faire 300 heures de TIG dans une maison de retraite. Adopté par des pensionnaires attachants, il découvre que l’établissement les arnaque. Il décide alors de planifier leur évasion."
+ },
+ "seasonPicker": null,
+ "durationSeconds": 5612,
+ "referencedOverlays": [],
+ "nextBestOffer": {
+  "teasers": [
+   {
+    "title": "Jamais sans mon psy",
+    "detailId": "8d962ace-8781-4f1d-8c11-bffe11c2cfbb",
+    "imageUrl": "https://images3.persgroep.net/rcs/d4ucUfp6YhgerpAmx9PKRYx7UiA/diocontent/278421867/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La soif de l'or",
+    "detailId": "3415a47e-96e6-4904-926f-300558564020",
+    "imageUrl": "https://images0.persgroep.net/rcs/yVl4oNmkCeEk9jeIZZQ7qQEhg4U/diocontent/278165147/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Comme un chef",
+    "detailId": "050a94fa-2bc5-4948-952a-174a936ed0e8",
+    "imageUrl": "https://images4.persgroep.net/rcs/kgMHgiMEGM2mrrNiSq1-qyvU8nQ/diocontent/275070861/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "La famille Bélier",
+    "detailId": "73dd5fea-b7e0-40eb-980f-244c89887072",
+    "imageUrl": "https://images4.persgroep.net/rcs/bwA3XRnRfKKOfPrF2zvivTb0IaA/diocontent/278445992/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   },
+   {
+    "title": "Mercato",
+    "detailId": "87286007-6017-4425-a6b2-14c33e34791c",
+    "imageUrl": "https://images1.persgroep.net/rcs/WCZLQDdOlVH_2uvogXlQPS_23zA/diocontent/279100026/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": "https://lfvp-static-overlays.dpgmedia.net/5/259214277"
+   },
+   {
+    "title": "Totem",
+    "detailId": "c4ce50a8-ba68-4832-b800-ceafb90f25c8",
+    "imageUrl": "https://images0.persgroep.net/rcs/bt3wa-MYD054IbHbznTFR7hMM-A/diocontent/276193117/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+    "overlayImageUrl": null
+   }
+  ],
+  "meta": {
+   "requestId": "90668c2d-efeb-408c-a644-3e9a745daf2e",
+   "abGroup": "default",
+   "provider": "aviDci"
+  }
+ },
+ "linkedTitle": null,
+ "premiumProductLogo": null,
+ "promoBox": null,
+ "trailers": [],
+ "marketingTopOfScreen": null,
+ "topOfScreen": null
+}
