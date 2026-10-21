@@ -403,7 +403,8 @@ void main() {
         await db.close();
       });
 
-      for (final backend in MediaBackend.values) {
+      // Catch-up TV has no server to match a catalogue entry against.
+      for (final backend in MediaBackend.values.where((b) => !b.isReplay)) {
         test('Kimi no Na wa. finds only the ID-verified native-title copy on ${backend.name}', () async {
           handlers.add(
             (_) => _json(_pageBody([_node(id: 32281, title: 'Kimi no Na wa.', ja: '君の名は。', mediaType: 'movie')])),

@@ -2543,5 +2543,29 @@
     "redirectDifferentHost": "The server redirected to a different host. Enter the final ${product} URL directly.",
     "redirectInsecure": "The server redirected from HTTPS to an insecure URL",
     "redirectUnsupportedEnterFinal": "The server redirected to an unsupported URL. Enter the final ${product} URL directly."
+  },
+  "replay": {
+    "title": "Catch-up TV",
+    "description": "Choose broadcasters and sign in to their accounts",
+    "sources": "Broadcasters",
+    "supportClear": "Plays most titles",
+    "supportPartial": "Plays some titles",
+    "supportBrowseOnly": "Browse only, playback is protected",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "signedInAs": "Signed in as ${account}",
+    "login": "E-mail address",
+    "password": "Password",
+    "signInTitle": "Sign in to ${name}",
+    "signInHint": "Your password is sent to ${name} only and is never stored.",
+    "signOutTitle": "Sign out of ${name}?",
+    "signInFailed": "Sign-in failed. Check your e-mail address and password.",
+    "signInRateLimited": "Too many attempts. Try again later.",
+    "signInCaptcha": "The broadcaster asks for a captcha, which is not supported here.",
+    "signInNetwork": "Could not reach the broadcaster.",
+    "signInRejected": "The broadcaster refused the sign-in.",
+    "notAdded": "Catch-up TV is not added to this profile yet.",
+    "add": "Add catch-up TV",
+    "needOne": "Keep at least one broadcaster enabled."
   }
 }

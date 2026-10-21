@@ -19,6 +19,8 @@ import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
 import '../provider/replay_provider.dart';
 import '../provider/replay_provider_registry.dart';
+import 'replay_account_store.dart';
+import 'replay_accounts.dart';
 import 'replay_api_cache.dart';
 import 'replay_live_tv.dart';
 import 'replay_playback_builder.dart';
@@ -37,13 +39,19 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   final ReplayPlaybackBuilder _playbackBuilder = const ReplayPlaybackBuilder();
   final Map<String, MediaItem> _playing = {};
   late final ReplayWatchStore _watch = ReplayWatchStore(ReplayApiCache.instance, serverId);
+
+  /// Sign-in state of the broadcasters that have accounts.
+  late final ReplayAccounts accounts = ReplayAccounts(
+    _providers,
+    ReplayAccountStore(ReplayApiCache.instance, serverId),
+  );
   bool _offline = false;
 
   ReplayClient._(this.connection, this._providers, this._http);
 
-  factory ReplayClient(ReplayConnection connection) {
+  factory ReplayClient(ReplayConnection connection, {String? deviceId}) {
     final http = MediaServerHttpClient();
-    return ReplayClient._(connection, buildReplayProviders(connection.enabledSources, http), http);
+    return ReplayClient._(connection, buildReplayProviders(connection.enabledSources, http, deviceId: deviceId), http);
   }
 
   /// Test seam: a client over providers the caller already built.

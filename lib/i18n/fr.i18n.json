@@ -2543,5 +2543,29 @@
     "redirectDifferentHost": "Le serveur a redirigé vers un hôte différent. Saisissez directement l’URL finale du serveur ${product}.",
     "redirectInsecure": "Le serveur a redirigé de HTTPS vers une URL non sécurisée",
     "redirectUnsupportedEnterFinal": "Le serveur a redirigé vers une URL non prise en charge. Saisissez directement l’URL finale du serveur ${product}."
+  },
+  "replay": {
+    "title": "Télé de rattrapage",
+    "description": "Choisir les chaînes et se connecter à leurs comptes",
+    "sources": "Chaînes",
+    "supportClear": "Lit la plupart des titres",
+    "supportPartial": "Lit une partie des titres",
+    "supportBrowseOnly": "Navigation seule, lecture protégée",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "signedInAs": "Connecté en tant que ${account}",
+    "login": "Adresse e-mail",
+    "password": "Mot de passe",
+    "signInTitle": "Se connecter à ${name}",
+    "signInHint": "Votre mot de passe n'est envoyé qu'à ${name} et n'est jamais conservé.",
+    "signOutTitle": "Se déconnecter de ${name} ?",
+    "signInFailed": "Connexion impossible. Vérifiez l'adresse e-mail et le mot de passe.",
+    "signInRateLimited": "Trop de tentatives. Réessayez plus tard.",
+    "signInCaptcha": "La chaîne demande un captcha, ce qui n'est pas pris en charge ici.",
+    "signInNetwork": "Impossible de joindre la chaîne.",
+    "signInRejected": "La chaîne a refusé la connexion.",
+    "notAdded": "La télé de rattrapage n'est pas encore ajoutée à ce profil.",
+    "add": "Ajouter la télé de rattrapage",
+    "needOne": "Gardez au moins une chaîne activée."
   }
 }

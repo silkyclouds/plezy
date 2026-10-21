@@ -94,6 +94,7 @@ class Translations with BaseTranslations<AppLocale, Translations> {
 	late final Translations$seerr$en seerr = Translations$seerr$en.internal(_root);
 	late final Translations$services$en services = Translations$services$en.internal(_root);
 	late final Translations$addServer$en addServer = Translations$addServer$en.internal(_root);
+	late final Translations$replay$en replay = Translations$replay$en.internal(_root);
 }
 
 // Path: app
@@ -6103,6 +6104,81 @@ class Translations$addServer$en {
 	String redirectUnsupportedEnterFinal({required Object product}) => 'The server redirected to an unsupported URL. Enter the final ${product} URL directly.';
 }
 
+// Path: replay
+class Translations$replay$en {
+	Translations$replay$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Catch-up TV'
+	String get title => 'Catch-up TV';
+
+	/// en: 'Choose broadcasters and sign in to their accounts'
+	String get description => 'Choose broadcasters and sign in to their accounts';
+
+	/// en: 'Broadcasters'
+	String get sources => 'Broadcasters';
+
+	/// en: 'Plays most titles'
+	String get supportClear => 'Plays most titles';
+
+	/// en: 'Plays some titles'
+	String get supportPartial => 'Plays some titles';
+
+	/// en: 'Browse only, playback is protected'
+	String get supportBrowseOnly => 'Browse only, playback is protected';
+
+	/// en: 'Sign in'
+	String get signIn => 'Sign in';
+
+	/// en: 'Sign out'
+	String get signOut => 'Sign out';
+
+	/// en: 'Signed in as ${account}'
+	String signedInAs({required Object account}) => 'Signed in as ${account}';
+
+	/// en: 'E-mail address'
+	String get login => 'E-mail address';
+
+	/// en: 'Password'
+	String get password => 'Password';
+
+	/// en: 'Sign in to ${name}'
+	String signInTitle({required Object name}) => 'Sign in to ${name}';
+
+	/// en: 'Your password is sent to ${name} only and is never stored.'
+	String signInHint({required Object name}) => 'Your password is sent to ${name} only and is never stored.';
+
+	/// en: 'Sign out of ${name}?'
+	String signOutTitle({required Object name}) => 'Sign out of ${name}?';
+
+	/// en: 'Sign-in failed. Check your e-mail address and password.'
+	String get signInFailed => 'Sign-in failed. Check your e-mail address and password.';
+
+	/// en: 'Too many attempts. Try again later.'
+	String get signInRateLimited => 'Too many attempts. Try again later.';
+
+	/// en: 'The broadcaster asks for a captcha, which is not supported here.'
+	String get signInCaptcha => 'The broadcaster asks for a captcha, which is not supported here.';
+
+	/// en: 'Could not reach the broadcaster.'
+	String get signInNetwork => 'Could not reach the broadcaster.';
+
+	/// en: 'The broadcaster refused the sign-in.'
+	String get signInRejected => 'The broadcaster refused the sign-in.';
+
+	/// en: 'Catch-up TV is not added to this profile yet.'
+	String get notAdded => 'Catch-up TV is not added to this profile yet.';
+
+	/// en: 'Add catch-up TV'
+	String get add => 'Add catch-up TV';
+
+	/// en: 'Keep at least one broadcaster enabled.'
+	String get needOne => 'Keep at least one broadcaster enabled.';
+}
+
 // Path: appIcon.names
 class Translations$appIcon$names$en {
 	Translations$appIcon$names$en.internal(this._root);
@@ -10354,6 +10430,28 @@ extension on Translations {
 			'addServer.redirectDifferentHost' => ({required Object product}) => 'The server redirected to a different host. Enter the final ${product} URL directly.',
 			'addServer.redirectInsecure' => 'The server redirected from HTTPS to an insecure URL',
 			'addServer.redirectUnsupportedEnterFinal' => ({required Object product}) => 'The server redirected to an unsupported URL. Enter the final ${product} URL directly.',
+			'replay.title' => 'Catch-up TV',
+			'replay.description' => 'Choose broadcasters and sign in to their accounts',
+			'replay.sources' => 'Broadcasters',
+			'replay.supportClear' => 'Plays most titles',
+			'replay.supportPartial' => 'Plays some titles',
+			'replay.supportBrowseOnly' => 'Browse only, playback is protected',
+			'replay.signIn' => 'Sign in',
+			'replay.signOut' => 'Sign out',
+			'replay.signedInAs' => ({required Object account}) => 'Signed in as ${account}',
+			'replay.login' => 'E-mail address',
+			'replay.password' => 'Password',
+			'replay.signInTitle' => ({required Object name}) => 'Sign in to ${name}',
+			'replay.signInHint' => ({required Object name}) => 'Your password is sent to ${name} only and is never stored.',
+			'replay.signOutTitle' => ({required Object name}) => 'Sign out of ${name}?',
+			'replay.signInFailed' => 'Sign-in failed. Check your e-mail address and password.',
+			'replay.signInRateLimited' => 'Too many attempts. Try again later.',
+			'replay.signInCaptcha' => 'The broadcaster asks for a captcha, which is not supported here.',
+			'replay.signInNetwork' => 'Could not reach the broadcaster.',
+			'replay.signInRejected' => 'The broadcaster refused the sign-in.',
+			'replay.notAdded' => 'Catch-up TV is not added to this profile yet.',
+			'replay.add' => 'Add catch-up TV',
+			'replay.needOne' => 'Keep at least one broadcaster enabled.',
 			_ => null,
 		};
 	}

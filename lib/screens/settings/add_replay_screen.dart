@@ -26,7 +26,7 @@ class AddReplayScreen extends StatefulWidget {
 }
 
 class _AddReplayScreenState extends State<AddReplayScreen> {
-  final Set<String> _selected = {...replaySourceIds};
+  late final Set<String> _selected = {...replaySourceIds};
   bool _saving = false;
 
   Future<void> _add() async {

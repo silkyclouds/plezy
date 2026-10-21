@@ -90,6 +90,7 @@ class TranslationsFr extends Translations with BaseTranslations<AppLocale, Trans
 	@override late final _Translations$seerr$fr seerr = _Translations$seerr$fr._(_root);
 	@override late final _Translations$services$fr services = _Translations$services$fr._(_root);
 	@override late final _Translations$addServer$fr addServer = _Translations$addServer$fr._(_root);
+	@override late final _Translations$replay$fr replay = _Translations$replay$fr._(_root);
 }
 
 // Path: app
@@ -2248,6 +2249,37 @@ class _Translations$addServer$fr extends Translations$addServer$en {
 	@override String redirectDifferentHost({required Object product}) => 'Le serveur a redirigé vers un hôte différent. Saisissez directement l’URL finale du serveur ${product}.';
 	@override String get redirectInsecure => 'Le serveur a redirigé de HTTPS vers une URL non sécurisée';
 	@override String redirectUnsupportedEnterFinal({required Object product}) => 'Le serveur a redirigé vers une URL non prise en charge. Saisissez directement l’URL finale du serveur ${product}.';
+}
+
+// Path: replay
+class _Translations$replay$fr extends Translations$replay$en {
+	_Translations$replay$fr._(TranslationsFr root) : this._root = root, super.internal(root);
+
+	final TranslationsFr _root; // ignore: unused_field
+
+	// Translations
+	@override String get title => 'Télé de rattrapage';
+	@override String get description => 'Choisir les chaînes et se connecter à leurs comptes';
+	@override String get sources => 'Chaînes';
+	@override String get supportClear => 'Lit la plupart des titres';
+	@override String get supportPartial => 'Lit une partie des titres';
+	@override String get supportBrowseOnly => 'Navigation seule, lecture protégée';
+	@override String get signIn => 'Se connecter';
+	@override String get signOut => 'Se déconnecter';
+	@override String signedInAs({required Object account}) => 'Connecté en tant que ${account}';
+	@override String get login => 'Adresse e-mail';
+	@override String get password => 'Mot de passe';
+	@override String signInTitle({required Object name}) => 'Se connecter à ${name}';
+	@override String signInHint({required Object name}) => 'Votre mot de passe n\'est envoyé qu\'à ${name} et n\'est jamais conservé.';
+	@override String signOutTitle({required Object name}) => 'Se déconnecter de ${name} ?';
+	@override String get signInFailed => 'Connexion impossible. Vérifiez l\'adresse e-mail et le mot de passe.';
+	@override String get signInRateLimited => 'Trop de tentatives. Réessayez plus tard.';
+	@override String get signInCaptcha => 'La chaîne demande un captcha, ce qui n\'est pas pris en charge ici.';
+	@override String get signInNetwork => 'Impossible de joindre la chaîne.';
+	@override String get signInRejected => 'La chaîne a refusé la connexion.';
+	@override String get notAdded => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.';
+	@override String get add => 'Ajouter la télé de rattrapage';
+	@override String get needOne => 'Gardez au moins une chaîne activée.';
 }
 
 // Path: common.ratingSource
@@ -5016,6 +5048,28 @@ extension on TranslationsFr {
 			'addServer.redirectDifferentHost' => ({required Object product}) => 'Le serveur a redirigé vers un hôte différent. Saisissez directement l’URL finale du serveur ${product}.',
 			'addServer.redirectInsecure' => 'Le serveur a redirigé de HTTPS vers une URL non sécurisée',
 			'addServer.redirectUnsupportedEnterFinal' => ({required Object product}) => 'Le serveur a redirigé vers une URL non prise en charge. Saisissez directement l’URL finale du serveur ${product}.',
+			'replay.title' => 'Télé de rattrapage',
+			'replay.description' => 'Choisir les chaînes et se connecter à leurs comptes',
+			'replay.sources' => 'Chaînes',
+			'replay.supportClear' => 'Lit la plupart des titres',
+			'replay.supportPartial' => 'Lit une partie des titres',
+			'replay.supportBrowseOnly' => 'Navigation seule, lecture protégée',
+			'replay.signIn' => 'Se connecter',
+			'replay.signOut' => 'Se déconnecter',
+			'replay.signedInAs' => ({required Object account}) => 'Connecté en tant que ${account}',
+			'replay.login' => 'Adresse e-mail',
+			'replay.password' => 'Mot de passe',
+			'replay.signInTitle' => ({required Object name}) => 'Se connecter à ${name}',
+			'replay.signInHint' => ({required Object name}) => 'Votre mot de passe n\'est envoyé qu\'à ${name} et n\'est jamais conservé.',
+			'replay.signOutTitle' => ({required Object name}) => 'Se déconnecter de ${name} ?',
+			'replay.signInFailed' => 'Connexion impossible. Vérifiez l\'adresse e-mail et le mot de passe.',
+			'replay.signInRateLimited' => 'Trop de tentatives. Réessayez plus tard.',
+			'replay.signInCaptcha' => 'La chaîne demande un captcha, ce qui n\'est pas pris en charge ici.',
+			'replay.signInNetwork' => 'Impossible de joindre la chaîne.',
+			'replay.signInRejected' => 'La chaîne a refusé la connexion.',
+			'replay.notAdded' => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.',
+			'replay.add' => 'Ajouter la télé de rattrapage',
+			'replay.needOne' => 'Gardez au moins une chaîne activée.',
 			_ => null,
 		};
 	}

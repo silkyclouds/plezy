@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:drift/drift.dart';
+import 'package:uuid/uuid.dart';
 
 import '../../database/app_database.dart';
 import '../../media/ids.dart';
@@ -75,6 +76,32 @@ class ReplayApiCache extends ApiCache {
       }
     }
     return out;
+  }
+
+  static String _accountEndpoint(String source) => '/replay/account/$source';
+
+  Future<Map<String, dynamic>?> getAccount(ServerId serverId, String source) => get(serverId, _accountEndpoint(source));
+
+  /// Accounts are pinned so clearing volatile cache rows never signs the user out.
+  Future<void> putAccount(ServerId serverId, String source, Map<String, dynamic> row) async {
+    await put(serverId, _accountEndpoint(source), row);
+    await pin(serverId, _accountEndpoint(source));
+  }
+
+  Future<void> deleteAccount(ServerId serverId, String source) async {
+    final key = '$serverId:${_accountEndpoint(source)}';
+    await (database.delete(database.apiCache)..where((t) => t.cacheKey.equals(key))).go();
+  }
+
+  /// The id this installation presents to broadcasters, created on first use.
+  Future<String> deviceId(ServerId serverId) async {
+    final row = await get(serverId, '/replay/device');
+    final existing = row?['id'];
+    if (existing is String && existing.isNotEmpty) return existing;
+    final created = const Uuid().v4();
+    await put(serverId, '/replay/device', {'id': created});
+    await pin(serverId, '/replay/device');
+    return created;
   }
 
   @override

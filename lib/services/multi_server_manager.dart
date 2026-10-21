@@ -9,6 +9,7 @@ import 'package:flutter/foundation.dart';
 import '../connection/connection.dart';
 import '../i18n/app_locale_utils.dart';
 import '../media/media_server_client.dart';
+import '../replay/client/replay_api_cache.dart';
 import '../replay/client/replay_client.dart';
 import '../exceptions/media_server_exceptions.dart';
 
@@ -820,7 +821,9 @@ class MultiServerManager {
       _applyHealth(ServerId(connection.id), HealthStatus.online);
       return true;
     }
-    final client = ReplayClient(connection);
+    final deviceId = await ReplayApiCache.instance.deviceId(ServerId(connection.id));
+    final client = ReplayClient(connection, deviceId: deviceId);
+    await client.accounts.restore();
     _clients[connection.id] = client;
     if (existing != null) unawaited(_closeClientGracefully(existing));
     _applyHealth(ServerId(connection.id), HealthStatus.online);
