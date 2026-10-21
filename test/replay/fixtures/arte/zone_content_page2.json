@@ -1,0 +1,216 @@
+{
+ "data": [
+  {
+   "deeplink": "arte://collection/RC-021466",
+   "id": "RC-021466_fr",
+   "kind": {
+    "code": "TV_SERIES",
+    "isCollection": true,
+    "label": "Série"
+   },
+   "mainImage": {
+    "caption": null,
+    "url": "https://api-cdn.arte.tv/img/v2/image/9dkNuepYJknhswKVdAqNYc/__SIZE__?type=TEXT"
+   },
+   "graphicalTitle": null,
+   "shortDescription": "La Russie occupe la Norvège avec l'assentiment de l'UE pour s'approprier son pétrole. Face à cette occupation “douce”, citoyens et politiques norvégiens doivent faire un choix : résister ou collaborer ? Série scandinave captivante, “Occupied” est un thriller géopolitique imaginé par le maître du polar Jo Nesbø. ",
+   "stickers": [
+    {
+     "code": "COLLECTION",
+     "label": "COLLECTION"
+    }
+   ],
+   "subtitle": null,
+   "title": "Occupied",
+   "trackingPixel": "https://www.arte.tv/ct/?em=RC-021466&language=fr&teaserid=RC-021466_fr&teasertitle=Occupied",
+   "type": "teaser",
+   "ageRating": 0,
+   "audioVersions": [
+    {
+     "code": "ST",
+     "label": "Sous-titres"
+    },
+    {
+     "code": "STM",
+     "label": "Sous-titrage malentendant"
+    },
+    {
+     "code": "VF",
+     "label": "Version française"
+    },
+    {
+     "code": "VO",
+     "label": "Version originale"
+    }
+   ],
+   "availability": null,
+   "callToAction": "Regarder",
+   "clip": null,
+   "duration": null,
+   "durationLabel": "Série",
+   "geoblocking": null,
+   "genre": {
+    "id": 3,
+    "deeplink": "arte://emac/SER",
+    "label": "Séries et fictions",
+    "genreName": "Séries et fictions",
+    "itemLabel": "Série",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+   },
+   "programId": "RC-021466",
+   "teaserText": "Et si la Russie occupait la Norvège ? Le vertigineux thriller géopolitique imaginé par Jo Nesbø.",
+   "trailer": null,
+   "url": "https://www.arte.tv/fr/videos/RC-021466/occupied/",
+   "player": {
+    "id": "RC-021466",
+    "config": "https://api.arte.tv/api/player/v2/config/fr/RC-021466",
+    "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-021466",
+    "orangeVideoId": null,
+    "freeVideoId": null
+   },
+   "livestreamRights": true,
+   "offlineAvailability": false,
+   "episodeInfo": {
+    "season": 3,
+    "episode": null,
+    "absoluteEpisode": null,
+    "totalEpisodes": 18
+   }
+  },
+  {
+   "deeplink": "arte://collection/RC-024574",
+   "id": "RC-024574_fr",
+   "kind": {
+    "code": "TV_SERIES",
+    "isCollection": true,
+    "label": "Série"
+   },
+   "mainImage": {
+    "caption": "De Grâce",
+    "url": "https://api-cdn.arte.tv/img/v2/image/SBhitt4UCDC6pLnB7cGH6U/__SIZE__?type=TEXT"
+   },
+   "graphicalTitle": null,
+   "shortDescription": "Dans le milieu des dockers du Havre, une famille se déchire sur fond de trafic de drogue et de secrets enfouis. Thriller captivant, la série \"De grâce\", portée par des personnages tragiques et une mise en scène majestueuse, nous offre une tragédie qui dépasse l’intrigue policière. Avec Olivier Gourmet, Margot Bancilhon, Panayotis Pascot…",
+   "stickers": [
+    {
+     "code": "COLLECTION",
+     "label": "COLLECTION"
+    }
+   ],
+   "subtitle": null,
+   "title": "De grâce",
+   "trackingPixel": "https://www.arte.tv/ct/?em=RC-024574&language=fr&teaserid=RC-024574_fr&teasertitle=De%20gr%C3%A2ce",
+   "type": "teaser",
+   "ageRating": 0,
+   "audioVersions": [
+    {
+     "code": "AD",
+     "label": "Audiodescription"
+    },
+    {
+     "code": "STM",
+     "label": "Sous-titrage malentendant"
+    }
+   ],
+   "availability": null,
+   "callToAction": "Regarder",
+   "clip": null,
+   "duration": null,
+   "durationLabel": "Série",
+   "geoblocking": null,
+   "genre": {
+    "id": 3,
+    "deeplink": "arte://emac/SER",
+    "label": "Séries et fictions",
+    "genreName": "Séries et fictions",
+    "itemLabel": "Série",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+   },
+   "programId": "RC-024574",
+   "teaserText": "Une tragédie familiale dans l’univers des dockers du Havre. Avec Olivier Gourmet.",
+   "trailer": null,
+   "url": "https://www.arte.tv/fr/videos/RC-024574/de-grace/",
+   "player": {
+    "id": "RC-024574",
+    "config": "https://api.arte.tv/api/player/v2/config/fr/RC-024574",
+    "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-024574",
+    "orangeVideoId": null,
+    "freeVideoId": null
+   },
+   "livestreamRights": true,
+   "offlineAvailability": false,
+   "episodeInfo": null
+  },
+  {
+   "deeplink": "arte://collection/RC-027942",
+   "id": "RC-027942_fr",
+   "kind": {
+    "code": "TV_SERIES",
+    "isCollection": true,
+    "label": "Série"
+   },
+   "mainImage": {
+    "caption": "Please Like Me",
+    "url": "https://api-cdn.arte.tv/img/v2/image/fr9VF9drKkXyW5QmbARK53/__SIZE__?type=TEXT"
+   },
+   "graphicalTitle": null,
+   "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand upper australien Josh Thomas (\"Everything’s Gonna Be Okay\"), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+   "stickers": [
+    {
+     "code": "COLLECTION",
+     "label": "COLLECTION"
+    }
+   ],
+   "subtitle": null,
+   "title": "Please Like Me",
+   "trackingPixel": "https://www.arte.tv/ct/?em=RC-027942&language=fr&teaserid=RC-027942_fr&teasertitle=Please%20Like%20Me",
+   "type": "teaser",
+   "ageRating": 0,
+   "audioVersions": [],
+   "availability": null,
+   "callToAction": "Regarder",
+   "clip": null,
+   "duration": null,
+   "durationLabel": "Série",
+   "geoblocking": null,
+   "genre": {
+    "id": 3,
+    "deeplink": "arte://emac/SER",
+    "label": "Séries et fictions",
+    "genreName": "Séries et fictions",
+    "itemLabel": "Série",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+   },
+   "programId": "RC-027942",
+   "teaserText": "À Melbourne, Josh, 21 ans, cherche sa place entre galères de cœur, crise familiale et autodérision salvatrice.",
+   "trailer": null,
+   "url": "https://www.arte.tv/fr/videos/RC-027942/please-like-me/",
+   "player": {
+    "id": "RC-027942",
+    "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027942",
+    "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027942",
+    "orangeVideoId": null,
+    "freeVideoId": null
+   },
+   "livestreamRights": true,
+   "offlineAvailability": false,
+   "episodeInfo": {
+    "season": 4,
+    "episode": null,
+    "absoluteEpisode": null,
+    "totalEpisodes": 32
+   }
+  }
+ ],
+ "pagination": {
+  "links": {
+   "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=1",
+   "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=5",
+   "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=3"
+  },
+  "page": 2,
+  "pages": 5,
+  "totalCount": 57,
+  "maxPages": 20
+ }
+}

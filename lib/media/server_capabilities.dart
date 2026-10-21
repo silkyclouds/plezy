@@ -102,6 +102,9 @@ class ServerCapabilities {
     libraryChangeEvents: true,
   );
 
+  /// Catch-up TV: browse, search and stream only. Nothing is stored on a server.
+  static const ServerCapabilities replay = ServerCapabilities(videoTranscoding: false);
+
   /// Defaults for a Jellyfin server.
   ///
   /// `videoTranscoding` is `true` — `JellyfinClient.getPlaybackInitialization`

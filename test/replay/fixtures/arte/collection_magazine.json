@@ -1,0 +1,685 @@
+{
+ "code": "RC-014077",
+ "language": "fr",
+ "support": "web",
+ "type": "collection",
+ "level": 3,
+ "alternativeLanguages": [
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "RC-014077",
+   "url": "https://www.arte.tv/fr/videos/RC-014077/28-minutes/",
+   "title": "28 minutes"
+  },
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "page": "RC-014077",
+   "url": "https://www.arte.tv/de/videos/RC-014077/28-minuten/",
+   "title": "28 Minuten"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/videos/RC-014077/28-minutes/",
+ "deeplink": "arte://collection/RC-014077",
+ "slug": "28-minutes",
+ "metadata": {
+  "title": "28 minutes",
+  "description": "\"28 minutes\" est le magazine d’actualité d’ARTE, présenté par Elisabeth Quin du lundi au jeudi à 20h05. Renaud Dély est aux commandes de l'émission le vendredi et le samedi. ",
+  "seo": {
+   "title": "28 minutes - Info et société | ARTE",
+   "description": "\"28 minutes\" est le magazine d’actualité d’ARTE, présenté par Elisabeth Quin du lundi au jeudi à 20h05. Renaud Dély est aux commandes de l'émission le vendredi et le samedi. ",
+   "canonical": "https://www.arte.tv/fr/videos/RC-014077/28-minutes/"
+  },
+  "og": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/KUJpr7whTPVDqV8jj7n6KT/1920x1080?type=TEXT&watermark=true",
+    "width": 1920,
+    "height": 1080
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/KUJpr7whTPVDqV8jj7n6KT/1920x1080?type=TEXT&watermark=true"
+   },
+   "site": "@ARTEfr"
+  },
+  "totalSeasonNumber": 0,
+  "publish": {
+   "online": "2026-07-14T18:05:00Z",
+   "offline": "2027-03-30T18:05:00Z"
+  },
+  "displayAudioVersions": []
+ },
+ "zones": [
+  {
+   "id": "51ba8da1-5389-43c4-af08-cca614192d77_RC-014077",
+   "code": "collection_content_RC-014077",
+   "title": "28 minutes",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "single-collectionContent",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-014077",
+      "id": "RC-014077",
+      "kind": {
+       "code": "MAGAZINE",
+       "isCollection": true,
+       "label": null
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/KUJpr7whTPVDqV8jj7n6KT/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "\"28 minutes\" est le magazine d’actualité d’ARTE, présenté par Elisabeth Quin du lundi au jeudi à 20h05. Renaud Dély est aux commandes de l'émission le vendredi et le samedi. ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Le magazine d’actualité",
+      "title": "28 minutes",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-014077&language=fr&teaserid=RC-014077&teasertitle=28%20minutes",
+      "type": "collection",
+      "description": "\"28 minutes\" est le magazine d’actualité d’ARTE, présenté par Elisabeth Quin du lundi au jeudi à 20h05. Renaud Dély est aux commandes de l'émission le vendredi et le samedi. ",
+      "video": null,
+      "partners": null,
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-014077/28-minutes/",
+      "livestreamRights": true,
+      "availability": null,
+      "offlineAvailability": false,
+      "player": {
+       "id": "RC-014077",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-014077",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-014077",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      }
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "d3bad9c8-b1c0-43db-87fb-fb95cc68766d_RC-014077",
+   "code": "collection_videos_RC-014077",
+   "title": "Toutes les vidéos",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/115078-176-A",
+      "id": "115078-176-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/G2oQwSxts47k95FxwQZE2Y/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Ancienne enfant placée, Céline Greco, médecin, se bat corps et âme pour la protection de l'enfance / Israël : les élections législatives du 27 octobre apparaissent comme indécises. Benyamin Netanyahou n’est plus en position de favori, après avoir occupé le poste de premier ministre à trois reprises.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "La protection de l'enfance / Israël : pour ou contre Netanyahou ? (20/10/2026)",
+      "title": "28 minutes",
+      "trackingPixel": "https://www.arte.tv/ct/?em=115078-176-A&language=fr&teaserid=115078-176-A_fr&teasertitle=28%20minutes",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-01-18T19:05:00Z",
+       "label": "Disponible du 20/10/2026 au 18/01/2027",
+       "start": "2026-10-20T18:05:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-20T18:05:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 90
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 2760,
+      "durationLabel": "46 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "115078-176-A",
+      "teaserText": "Elle se bat pour la protection de l'enfance / Législatives en Israël : un référendum pour ou contre Benyamin Netanyahou ?",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/115078-176-A/28-minutes/",
+      "player": {
+       "id": "115078-176-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/115078-176-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/115078-176-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": null,
+       "episode": 50,
+       "absoluteEpisode": 50,
+       "totalEpisodes": null
+      }
+     },
+     {
+      "deeplink": "arte://program/115078-175-A",
+      "id": "115078-175-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/4btKoUXzuueuGvWfC9ULCP/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Catherine Meurisse consacre une bande-dessinée au poète naturaliste américain Henry David Thoreau / Face aux violences du 17 octobre, le ministre de l’Intérieur a reconnu une \"perte de contrôle\" et un dispositif des forces de l'ordre \"en asymétrie\" face aux manifestants. Le président de la République, lui, n'a pas mentionné les violences policières commises contre les lycéens.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "Catherine Meurisse / Violences du 17 octobre (19/10/2026)",
+      "title": "28 minutes",
+      "trackingPixel": "https://www.arte.tv/ct/?em=115078-175-A&language=fr&teaserid=115078-175-A_fr&teasertitle=28%20minutes",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-01-17T19:05:00Z",
+       "label": "Disponible du 19/10/2026 au 17/01/2027",
+       "start": "2026-10-19T18:05:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-19T18:05:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 89
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 2729,
+      "durationLabel": "46 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "115078-175-A",
+      "teaserText": "Catherine Meurisse, sa BD pour une écologie de combat / Violences du 17 octobre : à qui la faute et quelles conséquences ? ",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/115078-175-A/28-minutes/",
+      "player": {
+       "id": "115078-175-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/115078-175-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/115078-175-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": null,
+       "episode": 49,
+       "absoluteEpisode": 49,
+       "totalEpisodes": null
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/d3bad9c8-b1c0-43db-87fb-fb95cc68766d/content?authorizedCountry=BE&collectionId=RC-014077&page=1&pageId=collection&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/d3bad9c8-b1c0-43db-87fb-fb95cc68766d/content?authorizedCountry=BE&collectionId=RC-014077&page=4&pageId=collection&type=collection",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/d3bad9c8-b1c0-43db-87fb-fb95cc68766d/content?authorizedCountry=BE&collectionId=RC-014077&page=2&pageId=collection&type=collection"
+     },
+     "page": 1,
+     "pages": 4,
+     "totalCount": 76,
+     "maxPages": 10
+    }
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-014077_RC-028404",
+   "code": "collection_subcollection_RC-014077_RC-028404",
+   "title": "C'était mieux maintenant",
+   "slug": "c-etait-mieux-maintenant",
+   "description": "Chaque vendredi, Marie Bonnisseau plonge dans les archives de la télé française et nous déniche des petites pépites. C’était mieux maintenant !",
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/135629-003-A",
+      "id": "135629-003-A_fr",
+      "kind": {
+       "code": "BONUS",
+       "isCollection": false,
+       "label": "Bonus"
+      },
+      "mainImage": {
+       "caption": "x",
+       "url": "https://api-cdn.arte.tv/img/v2/image/QVddjzP89bJiJxu2YreDF7/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Le 14 octobre 1987, le crash d'un modèle top secret d'avion militaire des États-Unis a entraîné les spéculations des journalistes. Rétrospective dans “C’était mieux maintenant” de Marie Bonnisseau.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       },
+       {
+        "code": "SOON",
+        "label": "Bientôt disponible"
+       }
+      ],
+      "subtitle": "28 minutes (16/10/2026)",
+      "title": "Un crash mystérieux",
+      "trackingPixel": "https://www.arte.tv/ct/?em=135629-003-A&language=fr&teaserid=135629-003-A_fr&teasertitle=Un%20crash%20myst%C3%A9rieux",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-10-15T22:00:00Z",
+       "label": "Disponible du 16/10/2026 au 15/10/2027",
+       "start": "2026-10-16T18:50:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-16T18:50:00Z",
+       "hasVideoStreams": false,
+       "remainingDays": 360
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 215,
+      "durationLabel": "4 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "135629-003-A",
+      "teaserText": "L'avion furtif, aussi discret et léger qu'un fer à repasser...",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/135629-003-A/un-crash-mysterieux/",
+      "player": {
+       "id": "135629-003-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/135629-003-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/135629-003-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": false,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://program/135515-003-A",
+      "id": "135515-003-A_fr",
+      "kind": {
+       "code": "BONUS",
+       "isCollection": false,
+       "label": "Bonus"
+      },
+      "mainImage": {
+       "caption": "X",
+       "url": "https://api-cdn.arte.tv/img/v2/image/vcpErsFZcunuz4SsqWjkBW/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Il y a 30 ans jour pour jour, le ministère de l’Intérieur prévoyait de nouveaux outils de fichage pour traquer les étrangers. Rétrospective dans “C’était mieux maintenant” de Marie Bonnisseau, qui explore les archives françaises.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "28 minutes (09/10/2026)",
+      "title": "Certificat d’hébergement, délit de solidarité ?",
+      "trackingPixel": "https://www.arte.tv/ct/?em=135515-003-A&language=fr&teaserid=135515-003-A_fr&teasertitle=Certificat%20d%E2%80%99h%C3%A9bergement%2C%20d%C3%A9lit%20de%20solidarit%C3%A9%20%3F",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-10-09T18:50:00Z",
+       "label": "Disponible du 09/10/2026 au 09/10/2027",
+       "start": "2026-10-09T18:50:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-09T18:50:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 354
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 217,
+      "durationLabel": "4 min",
+      "geoblocking": {
+       "code": "ALL",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "135515-003-A",
+      "teaserText": "Il y a 30 ans, le ministère de l’Intérieur prévoyait de nouveaux outils de fichage pour traquer les étrangers.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/135515-003-A/certificat-d-hebergement-delit-de-solidarite/",
+      "player": {
+       "id": "135515-003-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/135515-003-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/135515-003-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-014077&page=1&pageId=collection&subCollectionId=RC-028404&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-014077&page=1&pageId=collection&subCollectionId=RC-028404&type=collection",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 6,
+     "maxPages": 10
+    }
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-014077_RC-016394",
+   "code": "collection_subcollection_RC-014077_RC-016394",
+   "title": "Hors Série",
+   "slug": "hors-serie",
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [],
+    "pagination": null
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-014077_RC-016341",
+   "code": "collection_subcollection_RC-014077_RC-016341",
+   "title": "L'invité",
+   "slug": "l-invite",
+   "description": "28’ est le magazine d’actualité d’ARTE",
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/135838-001-A",
+      "id": "135838-001-A_fr",
+      "kind": {
+       "code": "BONUS",
+       "isCollection": false,
+       "label": "Bonus"
+      },
+      "mainImage": {
+       "caption": "x",
+       "url": "https://api-cdn.arte.tv/img/v2/image/YG8os2YXrWnXc3vsvSQNFJ/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Adopté cet été en première lecture à l’Assemblée nationale : le projet de loi relatif à la protection des enfants vise à mieux prévenir et lutter contre les violences subies par les plus jeunes. Nous recevons Céline Greco, cheffe du service de médecine de la douleur et palliative à l’hôpital Necker-Enfants malades à Paris, elle-même placée à l’ASE à 14 ans.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "28 minutes (20/10/2026)",
+      "title": "Protéger l’enfance en danger",
+      "trackingPixel": "https://www.arte.tv/ct/?em=135838-001-A&language=fr&teaserid=135838-001-A_fr&teasertitle=Prot%C3%A9ger%20l%E2%80%99enfance%20en%20danger",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-10-19T22:00:00Z",
+       "label": "Disponible du 20/10/2026 au 19/10/2027",
+       "start": "2026-10-20T18:20:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-20T18:20:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 364
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 623,
+      "durationLabel": "11 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "135838-001-A",
+      "teaserText": "Le Sénat entame l'examen de la loi sur la protection de l'enfance.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/135838-001-A/proteger-l-enfance-en-danger/",
+      "player": {
+       "id": "135838-001-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/135838-001-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/135838-001-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://program/135715-001-A",
+      "id": "135715-001-A_fr",
+      "kind": {
+       "code": "BONUS",
+       "isCollection": false,
+       "label": "Bonus"
+      },
+      "mainImage": {
+       "caption": "x",
+       "url": "https://api-cdn.arte.tv/img/v2/image/TdRESP69koabzPZFQwUPF8/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Catherine Meurisse publie \"Le clan de Walden\" (éditions Dargaud). Elle revisite l'histoire de l'isolation volontaire du poète naturaliste américain Henry David Thoreau, qui a tenté de vivre seul et en autosuffisance dans une cabane au bord de l'étang Walden, en le faisant interagir avec de grandes figures intellectuelles de son époque et des animaux de la forêt.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "28 minutes (19/10/2026)",
+      "title": "Une BD de combat pour l'écologie",
+      "trackingPixel": "https://www.arte.tv/ct/?em=135715-001-A&language=fr&teaserid=135715-001-A_fr&teasertitle=Une%20BD%20de%20combat%20pour%20l%27%C3%A9cologie",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-10-18T22:00:00Z",
+       "label": "Disponible du 19/10/2026 au 18/10/2027",
+       "start": "2026-10-19T18:20:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-19T18:20:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 363
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 568,
+      "durationLabel": "10 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 4,
+       "deeplink": "arte://emac/EMI",
+       "label": "Émissions",
+       "genreName": "Émissions",
+       "itemLabel": "Émission",
+       "url": "https://www.arte.tv/fr/videos/emissions/"
+      },
+      "programId": "135715-001-A",
+      "teaserText": "Catherine Meurisse publie \"Le clan de Walden\" (éditions Dargaud), une BD engagée pour une écologie de combat.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/135715-001-A/une-bd-de-combat-pour-l-ecologie/",
+      "player": {
+       "id": "135715-001-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/135715-001-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/135715-001-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-014077&page=1&pageId=collection&subCollectionId=RC-016341&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-014077&page=10&pageId=collection&subCollectionId=RC-016341&type=collection",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-014077&page=2&pageId=collection&subCollectionId=RC-016341&type=collection"
+     },
+     "page": 1,
+     "pages": 10,
+     "totalCount": 194,
+     "maxPages": 10
+    }
+   }
+  }
+ ],
+ "parent": {
+  "id": "ACT_fr_web",
+  "label": "Info et société",
+  "page": "ACT",
+  "type": "category",
+  "url": "https://www.arte.tv/fr/videos/info-et-societe/",
+  "deeplink": "arte://emac/ACT",
+  "slug": "info-et-societe",
+  "parent": null
+ }
+}

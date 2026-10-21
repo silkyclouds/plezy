@@ -1,0 +1,527 @@
+{
+ "code": "119364-001-A",
+ "language": "fr",
+ "support": "web",
+ "type": "program",
+ "level": 3,
+ "alternativeLanguages": [
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "page": "119364-001-A",
+   "url": "https://www.arte.tv/de/videos/119364-001-A/portobello-unschuldig-verurteilt-1-6/",
+   "title": "Portobello - Unschuldig verurteilt (1/6)"
+  },
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "119364-001-A",
+   "url": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/",
+   "title": "Portobello (1/6)"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/",
+ "deeplink": "arte://program/119364-001-A",
+ "slug": "portobello-1-6",
+ "metadata": {
+  "title": "Portobello (1/6)",
+  "description": "En 1983, le présentateur le plus populaire de la télé italienne est jeté en prison sur la foi d'accusations non vérifiées. Une série événement de Marco Bellocchio qui fait revivre avec intensité la tragédie d’un innocent écrasé par la machine d’État. Premier épisode : chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...",
+  "seo": {
+   "title": "Portobello (1/6) - Regarder la série | ARTE",
+   "description": "En 1983, le présentateur le plus populaire de la télé italienne est jeté en prison sur la foi d'accusations non vérifiées. Une série événement de Marco Bellocchio qui fait revivre avec intensité la tragédie d’un innocent écrasé par la machine d’État. Premier épisode : chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...",
+   "canonical": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/"
+  },
+  "og": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/oEJynJ3PuUK4N5niyqoeTY/1920x1080?type=TEXT&watermark=true",
+    "width": 1920,
+    "height": 1080
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/oEJynJ3PuUK4N5niyqoeTY/1920x1080?type=TEXT&watermark=true"
+   },
+   "site": "@ARTEfr"
+  }
+ },
+ "zones": [
+  {
+   "id": "b13b7b35-5a82-4ea2-8d8e-82810066ad5d_119364-001-A",
+   "code": "program_playNext_119364-001-A",
+   "title": "Portobello",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "tableview-playnext",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": {
+    "page": "RC-027462",
+    "title": "Portobello",
+    "url": "https://www.arte.tv/fr/videos/RC-027461/portobello/RC-027462/portobello/",
+    "deeplink": "arte://collection/RC-027462"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/119364-001-A",
+      "id": "119364-001-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Fabrizio Gifuni (Enzo Tortora) dans le premier épisode de la mini-série dramatique et biographique \"Portobello\", réalisée par Marco Bellocchio.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/oEJynJ3PuUK4N5niyqoeTY/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "En 1983, le présentateur le plus populaire de la télé italienne est jeté en prison sur la foi d'accusations non vérifiées. Une série événement de Marco Bellocchio qui fait revivre avec intensité la tragédie d’un innocent écrasé par la machine d’État. Premier épisode : chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Portobello (1/6)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=119364-001-A&language=fr&teaserid=119364-001-A_fr&teasertitle=Portobello%20%281%2F6%29",
+      "type": "teaser",
+      "ageRating": 12,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "ST",
+        "label": "Sous-titres"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       },
+       {
+        "code": "VF",
+        "label": "Version française"
+       },
+       {
+        "code": "VO",
+        "label": "Version originale"
+       }
+      ],
+      "availability": {
+       "end": "2027-04-07T21:59:00Z",
+       "label": "Disponible du 08/10/2026 au 07/04/2027",
+       "start": "2026-10-08T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-08T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 169
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 4028,
+      "durationLabel": "68 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "119364-001-A",
+      "teaserText": "Chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/",
+      "player": {
+       "id": "119364-001-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/119364-001-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/119364-001-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": null,
+       "episode": 1,
+       "absoluteEpisode": 1,
+       "totalEpisodes": 6
+      }
+     },
+     {
+      "deeplink": "arte://program/119364-002-A",
+      "id": "119364-002-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/VPxZJbqqsAZoo5E2iKxYDK/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "En 1983, le présentateur le plus populaire de la télé italienne est jeté en prison sur la foi d'accusations non vérifiées. Une série événement de Marco Bellocchio qui fait revivre avec intensité la tragédie d’un innocent écrasé par la machine d’État. Deuxième épisode : Enzo Tortora est accusé d'avoir reçu des napperons contenant de la drogue...",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Portobello (2/6)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=119364-002-A&language=fr&teaserid=119364-002-A_fr&teasertitle=Portobello%20%282%2F6%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "ST",
+        "label": "Sous-titres"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       },
+       {
+        "code": "VF",
+        "label": "Version française"
+       },
+       {
+        "code": "VO",
+        "label": "Version originale"
+       }
+      ],
+      "availability": {
+       "end": "2027-04-07T21:59:00Z",
+       "label": "Disponible du 08/10/2026 au 07/04/2027",
+       "start": "2026-10-08T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-08T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 169
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 3467,
+      "durationLabel": "58 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "119364-002-A",
+      "teaserText": "Enzo Tortora est accusé d'avoir reçu des napperons contenant de la drogue...",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/119364-002-A/portobello-2-6/",
+      "player": {
+       "id": "119364-002-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/119364-002-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/119364-002-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": null,
+       "episode": 2,
+       "absoluteEpisode": 2,
+       "totalEpisodes": 6
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/b13b7b35-5a82-4ea2-8d8e-82810066ad5d/content?authorizedCountry=BE&page=1&pageId=program&programId=119364-001-A&type=program",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/b13b7b35-5a82-4ea2-8d8e-82810066ad5d/content?authorizedCountry=BE&page=1&pageId=program&programId=119364-001-A&type=program",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 6,
+     "maxPages": 20
+    }
+   }
+  },
+  {
+   "id": "d52a5b73-3488-4f67-b8ff-5d546c9c2485_119364-001-A",
+   "code": "program_content_119364-001-A",
+   "title": "Portobello (1/6)",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "single-programContent",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": {
+    "page": "119364-001-A_fr",
+    "title": "Portobello (1/6)",
+    "url": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/",
+    "deeplink": "arte://program/119364-001-A"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/119364-001-A",
+      "id": "119364-001-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Fabrizio Gifuni (Enzo Tortora) dans le premier épisode de la mini-série dramatique et biographique \"Portobello\", réalisée par Marco Bellocchio.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/oEJynJ3PuUK4N5niyqoeTY/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/oEJynJ3PuUK4N5niyqoeTY/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "<p>En 1983, le présentateur le plus populaire de la télé italienne est jeté en prison sur la foi d'accusations non vérifiées. Une série événement de Marco Bellocchio qui fait revivre avec intensité la tragédie d’un innocent écrasé par la machine d’État. Premier épisode : chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...</p>",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Portobello (1/6)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=119364-001-A&language=fr&teaserid=119364-001-A_fr&teasertitle=Portobello%20%281%2F6%29",
+      "type": "program",
+      "ageRating": 12,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-04-07T21:59:00Z",
+       "label": "Disponible du 08/10/2026 au 07/04/2027",
+       "start": "2026-10-08T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-08T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 169
+      },
+      "callToAction": "Regarder",
+      "broadcastDates": [],
+      "chapters": [],
+      "credits": [
+       {
+        "code": "ACT",
+        "label": "Avec",
+        "values": [
+         "Fabrizio Gifuni (Enzo Tortora)",
+         "Barbora Bobulova (Anna Tortora)",
+         "Lino Musella (Giovanni Pandico)",
+         "Romana Maggiora Vergano (Francesca Scopelliti)",
+         "Gennaro Apicella (Lucio Di Pietro)",
+         "Luciano Giugliano (Felice Di Persia)",
+         "Alessio Praticò (Domenico Barbaro)",
+         "Massimiliano Rossi (Pasquale Barra)",
+         "Gianfranco Gallo (Raffaele Cutolo)",
+         "Francesca Benedetti (Paola Borboni)"
+        ]
+       },
+       {
+        "code": "REA",
+        "label": "Réalisation",
+        "values": [
+         "Marco Bellocchio"
+        ]
+       },
+       {
+        "code": "SCE",
+        "label": "Scénario",
+        "values": [
+         "Marco Bellocchio",
+         "Stefano Bises",
+         "Giordana Mari",
+         "Peppe Fiore"
+        ]
+       },
+       {
+        "code": "PRD",
+        "label": "Production",
+        "values": [
+         "Our Films",
+         "Kavac Film",
+         "ARTE France"
+        ]
+       },
+       {
+        "code": "PRO",
+        "label": "Producteur/-trice",
+        "values": [
+         "Lorenzo Mieli",
+         "Mario Gianani",
+         "Simone Gattoni"
+        ]
+       },
+       {
+        "code": "IMA",
+        "label": "Image",
+        "values": [
+         "Francesco Di Giacomo"
+        ]
+       },
+       {
+        "code": "MON",
+        "label": "Montage",
+        "values": [
+         "Francesca Calvelli"
+        ]
+       },
+       {
+        "code": "MUS",
+        "label": "Musique",
+        "values": [
+         "Teho Teardo"
+        ]
+       },
+       {
+        "code": "COUNTRY",
+        "label": "Pays",
+        "values": [
+         "Italie",
+         "France"
+        ]
+       },
+       {
+        "code": "PRODUCTION_YEAR",
+        "label": "Année",
+        "values": [
+         "2025"
+        ]
+       }
+      ],
+      "duration": 4031,
+      "durationLabel": "68 min",
+      "firstBroadcastDate": null,
+      "fullDescription": "<p>En 1977, à 49 ans, le journaliste Enzo Tortora commence à présenter sur la deuxième chaîne italienne l'émission de divertissement <em>Portobello</em>, qu'il a conçue avec sa sœur Anna. Baptisée d'après le grand marché de Londres, elle permet entre autres d'acheter ou de vendre des objets proposés par les téléspectateurs. Au fil des années, ce show du vendredi soir fait de cet homme affable, cultivé et élégant l'une des personnalités les plus populaires du pays. En 1980, après le tremblement de terre qui a dévasté le sud du pays et tué 2 000 personnes, il récolte ainsi 3 milliards de lires au bénéfice des sinistrés. Mais la coïncidence d'un nom, griffonné sur un agenda saisi chez un membre présumé de la Camorra, la mafia napolitaine, vient frapper Enzo Tortora en pleine gloire. En juin 1983, alors que <em>Portobello</em> bat tous les records d'audience avec 28 millions de téléspectateurs, un meurtrier camorriste souffrant de troubles mentaux, Giovanni Pandico, alias \"Le Fou\", qui a décidé de collaborer avec la justice, l'accuse de trafiquer de la cocaïne pour le compte de son organisation...<br>\n<br>\n<strong>Just</strong>i<strong>ce injuste</strong><br>\nAprès <em>Esterno notte</em>, la première série de sa filmographie, dans laquelle il revenait sur l'enlèvement et l'assassinat d'Aldo Moro avec, déjà, Fabrizio Gifuni, Marco Bellocchio s'empare d'un des scandales judiciaires les plus retentissants de l'histoire italienne récente. Incarcéré du jour au lendemain sous les yeux des médias en même temps que plus de 800 présumés camorristes, Enzo Tortora fut condamné à dix ans de prison en première instance par un tribunal de Naples sans autre élément à charge que les élucubrations de Pandico (Lino Musello, grandiose), reprises par plusieurs autres <em>pentiti </em>ayant eu tout loisir de se concerter avec lui en prison. Comme toujours, le cinéaste octogénaire excelle à conjuguer les dimensions intime et collective de l'histoire qu'il restitue avec minutie : la popularité de Tortora se retourne contre lui, les juges, comme les malfrats et les journalistes, jubilant de mettre à terre celui qui a subjugué la moitié du pays, et eux avec. Dans une Italie gangrenée par la Mafia, qu'on accuse alors d'avoir détourné les sommes dues aux victimes du séisme avec la complicité d'agents de l'État, on espère aussi que cette démonstration de sévérité apaisera la colère populaire. Finalement innocenté, mais affaibli par son long combat contre une <em>malajustizia</em> (\"justice injuste\"), dans laquelle les juges n'encourent aucune sanction en cas de faute, Tortora mourra peu après, à 59 ans, d'un cancer généralisé. De presque tous les plans, Fabrizio Gifuni fait vivre avec maestria la tragédie de cet honnête homme broyé par l'arbitraire de juges imbus de leur pouvoir et d'une machine médiatique indifférente aux faits.</p>",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "parentCollections": [
+       {
+        "catalogType": "SEASON",
+        "deeplink": "arte://collection/RC-027462",
+        "kind": "TV_SERIES",
+        "programId": "RC-027462",
+        "subtitle": null,
+        "title": "Portobello",
+        "url": "https://www.arte.tv/fr/videos/RC-027461/portobello#portobello"
+       },
+       {
+        "catalogType": "SERIES",
+        "deeplink": "arte://collection/RC-027461",
+        "kind": "TV_SERIES",
+        "programId": "RC-027461",
+        "subtitle": null,
+        "title": "Portobello",
+        "url": "https://www.arte.tv/fr/videos/RC-027461/portobello/"
+       }
+      ],
+      "partners": null,
+      "player": {
+       "id": "119364-001-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/119364-001-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/119364-001-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "programId": "119364-001-A",
+      "publishEnd": "2027-04-14T21:59:00Z",
+      "shopUrl": null,
+      "standaloneContent": true,
+      "teaserText": "Chaque vendredi, Enzo Tortora réunit des millions de téléspectateurs devant son émission \"Portobello\"...",
+      "trailer": {
+       "id": "119364-001-A",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/119364-001-A"
+      },
+      "url": "https://www.arte.tv/fr/videos/119364-001-A/portobello-1-6/",
+      "clip": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": null
+   }
+  }
+ ],
+ "parent": {
+  "id": "SES_web_fr",
+  "label": "Séries",
+  "page": "SES",
+  "type": "subcategory",
+  "url": "https://www.arte.tv/fr/videos/series-et-fictions/series/",
+  "deeplink": "arte://emac/SES",
+  "slug": "series",
+  "parent": {
+   "id": "SER_web_fr",
+   "label": "Séries et fictions",
+   "page": "SER",
+   "type": "category",
+   "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+   "deeplink": "arte://emac/SER",
+   "slug": "series-et-fictions",
+   "parent": null
+  }
+ }
+}

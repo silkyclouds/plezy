@@ -1,0 +1,826 @@
+{
+ "code": "HOME",
+ "language": "fr",
+ "support": "web",
+ "type": "page",
+ "level": 0,
+ "alternativeLanguages": [
+  {
+   "code": "ro",
+   "label": "Romanian",
+   "page": "HOME",
+   "url": "https://www.arte.tv/ro/",
+   "title": "ARTE - Platforma culturală europeană"
+  },
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "page": "HOME",
+   "url": "https://www.arte.tv/de/",
+   "title": "Deutsch-französischer Kultursender. Videos, Livestream | ARTE"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/",
+ "deeplink": "arte://emac/home",
+ "slug": "arte-chaine-tele-culturelle-franco-allemande-tv-direct-and-replay",
+ "metadata": {
+  "title": "ARTE - La plateforme culturelle européenne | Direct, replay et +",
+  "description": "Documentaires, films, séries, concerts, émissions : des milliers de programmes à voir gratuitement en replay et en direct sur arte.tv.",
+  "seo": {
+   "title": "ARTE - La plateforme culturelle européenne | Direct, replay et +",
+   "description": "Documentaires, films, séries, concerts, émissions : des milliers de programmes à voir gratuitement en replay et en direct sur arte.tv.",
+   "canonical": "https://www.arte.tv/fr/"
+  },
+  "og": {
+   "image": {
+    "url": "https://static-cdn.arte.tv/guide/img/SHARE_DEFAULT.jpg",
+    "width": 500,
+    "height": 250
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "https://static-cdn.arte.tv/guide/img/SHARE_DEFAULT.jpg"
+   },
+   "site": "@ARTEfr"
+  }
+ },
+ "zones": [
+  {
+   "id": "1e7d4095-b555-4da7-af7d-4e18848ea9c6",
+   "code": "top_teaser",
+   "title": "En ce moment",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "slider-square",
+    "theme": null,
+    "showZoneTitle": false,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-028069",
+      "id": "f122767d-740c-4855-b1d2-d143e8326a47",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/bjUc5ofJM43NgT9yzURbeY/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/bjUc5ofJM43NgT9yzURbeY/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "Louis Vuitton, Dior, Givenchy, en deux décennies, Bernard Arnault s'est créé avec LVMH un monopole du luxe. Maisons de couture, horlogers et alcools, le luxe est un rêve qui se vend et c'est Bernard Arnault qui dicte la manière. Il impose bientôt à toute l'industrie un modèle de capitalisme mondialisé qui étend son influence bien au-delà des comptoirs de ses boutiques.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Dans les coulisses du système Arnault",
+      "title": "L'empire LVMH",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028069&language=fr&teaserid=f122767d-740c-4855-b1d2-d143e8326a47&teasertitle=L%27empire%20LVMH",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2854",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2854"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_UK",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 1,
+       "deeplink": "arte://emac/DOR",
+       "label": "Documentaires et reportages",
+       "genreName": "Documentaires et reportages",
+       "itemLabel": "Documentaire",
+       "url": "https://www.arte.tv/fr/videos/documentaires-et-reportages/"
+      },
+      "programId": "RC-028069",
+      "teaserText": "Enquête sur l'ascension fulgurante de Bernard Arnault, devenu l'homme le plus riche d'Europe.",
+      "trailer": {
+       "id": "RC-028069",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-028069"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-028069/l-empire-lvmh/",
+      "player": {
+       "id": "RC-028069",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028069",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028069",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "e87e3500-2fe7-4cf3-82bf-fe6698788919",
+   "code": "genres_HOME",
+   "title": "Parcourir les genres",
+   "slug": null,
+   "description": "",
+   "displayOptions": {
+    "template": "text-linear",
+    "theme": null,
+    "showZoneTitle": false,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": null,
+      "id": "3940839a-3a0d-4b5a-bbe0-edc6ab242520",
+      "kind": {
+       "code": "EXTERNAL",
+       "isCollection": false,
+       "label": "Lien web"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/9Rc6NyU6gaQFUbdCZ8DrdF/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": null,
+      "stickers": [],
+      "subtitle": null,
+      "title": "Info",
+      "trackingPixel": "https://www.arte.tv/ct/?language=fr&teaserid=3940839a-3a0d-4b5a-bbe0-edc6ab242520&teasertitle=Info",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": null,
+      "geoblocking": {
+       "code": "ALL",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": null,
+      "programId": null,
+      "teaserText": "",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/info-et-societe/",
+      "player": {
+       "id": null,
+       "config": "https://api.arte.tv/api/player/v2/config/fr/null",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/null",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": null,
+      "id": "705e5f6a-ea63-4257-be31-6468bcaefb62",
+      "kind": {
+       "code": "EXTERNAL",
+       "isCollection": false,
+       "label": "Lien web"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/a7sVGb9xdUVgKx4ATgk7sf/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": null,
+      "stickers": [],
+      "subtitle": null,
+      "title": "Documentaires",
+      "trackingPixel": "https://www.arte.tv/ct/?language=fr&teaserid=705e5f6a-ea63-4257-be31-6468bcaefb62&teasertitle=Documentaires",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": null,
+      "geoblocking": {
+       "code": "ALL",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": null,
+      "programId": null,
+      "teaserText": "",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/documentaires-et-reportages/",
+      "player": {
+       "id": null,
+       "config": "https://api.arte.tv/api/player/v2/config/fr/null",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/null",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "66d46e0b-9a2e-4da7-9972-258a749b212d",
+   "code": "series",
+   "title": "Votre prochaine série vous attend",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-portrait",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": false,
+    "icon": null
+   },
+   "link": {
+    "page": "CATEGORY_SER",
+    "title": "Voir tout",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+    "deeplink": "arte://emac/SER"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-027461",
+      "id": "76ca196b-eddf-480e-9f91-d6281312633d",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/JJNPqVaBCLum2Q5Di9c8Xe/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/JJNPqVaBCLum2Q5Di9c8Xe/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "En 1983, Enzo Tortora, le présentateur le plus populaire de la télévision italienne, est emprisonné sur la foi d'accusations non vérifiées de repentis de la mafia. Nouvelle série dramatique de Marco Bellochio, “Portobello” fait revivre l’un des scandales judiciaires les plus retentissants de l'histoire italienne récente.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Un innocent écrasé par la machine d’État",
+      "title": "Portobello",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027461&language=fr&teaserid=76ca196b-eddf-480e-9f91-d6281312633d&teasertitle=Portobello",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "ST",
+        "label": "Sous-titres"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       },
+       {
+        "code": "VF",
+        "label": "Version française"
+       },
+       {
+        "code": "VO",
+        "label": "Version originale"
+       }
+      ],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2848",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2848"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-027461",
+      "teaserText": "Injustement emprisonné, il lutta contre l’État et la mafia. L’histoire vraie d’Enzo Tortora par Marco Bellochio.",
+      "trailer": {
+       "id": "RC-027461",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-027461"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-027461/portobello/",
+      "player": {
+       "id": "RC-027461",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027461",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027461",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-022041",
+      "id": "1783e032-6aba-4b4f-a68c-d80430b83a9f",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/FY7Q2iNBJ4oBR8BvsXt5MS/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "La rencontre de trois femmes blessées dans le quartier rouge d’Anvers, sur fond de meurtres et de prostitution. Thriller nerveux, la série Red Light est portée par trois actrices impressionnantes, dont les créatrices de la série Carice van Houten (Game of Thrones, Black Book) et Halina Reijn (Instinct). ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Les dessous du quartier rouge d'Anvers",
+      "title": "Red Light",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-022041&language=fr&teaserid=1783e032-6aba-4b4f-a68c-d80430b83a9f&teasertitle=Red%20Light",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2881",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2881"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-022041",
+      "teaserText": "Le destin de trois femmes liées par une enquête policière dans le milieu de la prostitution.",
+      "trailer": {
+       "id": "RC-022041",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-022041"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-022041/red-light/",
+      "player": {
+       "id": "RC-022041",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-022041",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-022041",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "http://api.arte.tv/api/emac/v4/fr/web/zones/66d46e0b-9a2e-4da7-9972-258a749b212d/content?authorizedCountry=BE&page=1",
+      "last": "http://api.arte.tv/api/emac/v4/fr/web/zones/66d46e0b-9a2e-4da7-9972-258a749b212d/content?authorizedCountry=BE&page=3",
+      "next": "http://api.arte.tv/api/emac/v4/fr/web/zones/66d46e0b-9a2e-4da7-9972-258a749b212d/content?authorizedCountry=BE&page=2"
+     },
+     "page": 1,
+     "pages": 3,
+     "totalCount": 55,
+     "maxPages": 100
+    }
+   }
+  },
+  {
+   "id": "e0006444-ce29-47f1-9275-807b27a5c156",
+   "code": "films",
+   "title": "Nos films à l'affiche",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-portrait",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": false,
+    "icon": null
+   },
+   "link": {
+    "page": "CATEGORY_CIN",
+    "title": "Voir tout",
+    "url": "https://www.arte.tv/fr/videos/cinema/",
+    "deeplink": "arte://emac/CIN"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-028280",
+      "id": "d80e06f7-e6b4-4048-81d3-e3344dae8a07",
+      "kind": {
+       "code": "TOPIC",
+       "isCollection": true,
+       "label": "Collection"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/7MtuydvdWf6GeG8sYnczL8/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/7MtuydvdWf6GeG8sYnczL8/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "Le cinéma de Costa-Gavras avance avec pudeur et conviction. Sous la tension du thriller, il sonde les cœurs autant que les consciences : la peur, la loyauté, l'amour trahi, la douleur des proches. Ses hommes et ses femmes ordinaires, pris dans les rouages du pouvoir, hésitent entre silence et courage. Sa caméra sobre laisse place à l'émotion, à la dignité, à la mémoire.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Notre collection de films du cinéaste",
+      "title": "Le cinéma de Costa-Gavras",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028280&language=fr&teaserid=d80e06f7-e6b4-4048-81d3-e3344dae8a07&teasertitle=Le%20cin%C3%A9ma%20de%20Costa-Gavras",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Collection",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": [
+        "MD",
+        "UA"
+       ]
+      },
+      "genre": {
+       "id": 2,
+       "deeplink": "arte://emac/CIN",
+       "label": "Cinéma",
+       "genreName": "Cinéma",
+       "itemLabel": "Film",
+       "url": "https://www.arte.tv/fr/videos/cinema/"
+      },
+      "programId": "RC-028280",
+      "teaserText": "Retrouvez une sélection de longs-métrages dont Compartiment tueurs, Clair de femme, Le couperet...",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-028280/le-cinema-de-costa-gavras/",
+      "player": {
+       "id": "RC-028280",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028280",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028280",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://program/033130-000-A",
+      "id": "952b2cc5-94b1-44e1-bb83-fb001b50c32c",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/WpExzfqVsmFxkw9HBXDsPG/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/WpExzfqVsmFxkw9HBXDsPG/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "Prague, au début des années 1950. Le vice-ministre des Affaires étrangères est surveillé et traqué par le parti, malgré un passé irréprochable. Un jour, il est enlevé par des inconnus... Costa-Gavras décrit magistralement le mécanisme des purges en Tchécoslovaquie et la lente torture qui mène à l’aveu. Un film magistral, avec Yves Montand dans l’un de ses plus beaux rôles.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": "Un drame avec Yves Montand et Simone Signoret",
+      "title": "L'aveu",
+      "trackingPixel": "https://www.arte.tv/ct/?em=033130-000-A&language=fr&teaserid=952b2cc5-94b1-44e1-bb83-fb001b50c32c&teasertitle=L%27aveu",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-04-01T03:00:00Z",
+       "label": null,
+       "start": "2026-10-18T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-18T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 162
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 7969,
+      "durationLabel": "133 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": [
+        "MD",
+        "UA"
+       ]
+      },
+      "genre": {
+       "id": 2,
+       "deeplink": "arte://emac/CIN",
+       "label": "Cinéma",
+       "genreName": "Cinéma",
+       "itemLabel": "Film",
+       "url": "https://www.arte.tv/fr/videos/cinema/"
+      },
+      "programId": "033130-000-A",
+      "teaserText": "Costa-Gavras décrit magistralement le mécanisme des purges en Tchécoslovaquie et la lente torture qui mène à l’aveu. ",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/033130-000-A/l-aveu/",
+      "player": {
+       "id": "033130-000-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/033130-000-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/033130-000-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "http://api.arte.tv/api/emac/v4/fr/web/zones/e0006444-ce29-47f1-9275-807b27a5c156/content?authorizedCountry=BE&page=1",
+      "last": "http://api.arte.tv/api/emac/v4/fr/web/zones/e0006444-ce29-47f1-9275-807b27a5c156/content?authorizedCountry=BE&page=1",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 20,
+     "maxPages": 100
+    }
+   }
+  },
+  {
+   "id": "31eb9da2-bc89-4908-aa78-3f472f22118c",
+   "code": "plus_vues",
+   "title": "Les vidéos les plus vues",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": "genre",
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": {
+    "page": "MOST_VIEWED",
+    "title": "Voir tout",
+    "url": "https://www.arte.tv/fr/videos/plus-vues/",
+    "deeplink": "arte://emac/MOST_VIEWED"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/126168-000-A",
+      "id": "126168-000-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/Xdi6NVnzA2UKQ9uf3QCRqe/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Un juge et un vieil homme s’affrontent autour de la chute d’un randonneur en montagne. Accident ou meurtre ? Emmanuel Finkiel (\"La douleur\") transpose un roman d’Erri De Luca dans un film (primé à La Rochelle) à la sobre maîtrise, magnifique duel de comédiens au service d’une réflexion sur la justice et l’engagement.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Impossible",
+      "trackingPixel": "https://www.arte.tv/ct/?em=126168-000-A&language=fr&teaserid=126168-000-A_fr&teasertitle=Impossible",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       }
+      ],
+      "availability": {
+       "end": "2027-01-21T04:00:00Z",
+       "label": "Disponible du 16/10/2026 au 20/01/2027",
+       "start": "2026-10-16T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-16T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 92
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 5982,
+      "durationLabel": "100 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 2,
+       "deeplink": "arte://emac/CIN",
+       "label": "Cinéma",
+       "genreName": "Cinéma",
+       "itemLabel": "Film",
+       "url": "https://www.arte.tv/fr/videos/cinema/"
+      },
+      "programId": "126168-000-A",
+      "teaserText": "Un juge et un vieil homme s’affrontent autour de la mort d’un randonneur. Emmanuel Finkiel adapte Erri De Luca.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/126168-000-A/impossible/",
+      "player": {
+       "id": "126168-000-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/126168-000-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/126168-000-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://program/122150-000-A",
+      "id": "122150-000-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/tWWvrYYctgBPfp4bT4PVrR/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "D’Istanbul jusqu’au Louvre, une exploration des mille ans d’histoire de l’Empire byzantin, de 330 à 1453, à travers ses trésors archéologiques.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Byzance, mille ans qui ont changé le monde",
+      "trackingPixel": "https://www.arte.tv/ct/?em=122150-000-A&language=fr&teaserid=122150-000-A_fr&teasertitle=Byzance%2C%20mille%20ans%20qui%20ont%20chang%C3%A9%20le%20monde",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       }
+      ],
+      "availability": {
+       "end": "2026-12-17T04:00:00Z",
+       "label": "Disponible du 10/10/2026 au 16/12/2026",
+       "start": "2026-10-10T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-10-10T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 57
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 5388,
+      "durationLabel": "90 min",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 1,
+       "deeplink": "arte://emac/DOR",
+       "label": "Documentaires et reportages",
+       "genreName": "Documentaires et reportages",
+       "itemLabel": "Documentaire",
+       "url": "https://www.arte.tv/fr/videos/documentaires-et-reportages/"
+      },
+      "programId": "122150-000-A",
+      "teaserText": "D’Istanbul jusqu’au Louvre, une exploration des mille ans d’histoire de l’Empire byzantin, de 330 à 1453.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/122150-000-A/byzance-mille-ans-qui-ont-change-le-monde/",
+      "player": {
+       "id": "122150-000-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/122150-000-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/122150-000-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": false,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "http://api.arte.tv/api/emac/v4/fr/web/zones/31eb9da2-bc89-4908-aa78-3f472f22118c/content?authorizedCountry=BE&page=1",
+      "last": "http://api.arte.tv/api/emac/v4/fr/web/zones/31eb9da2-bc89-4908-aa78-3f472f22118c/content?authorizedCountry=BE&page=2",
+      "next": "http://api.arte.tv/api/emac/v4/fr/web/zones/31eb9da2-bc89-4908-aa78-3f472f22118c/content?authorizedCountry=BE&page=2"
+     },
+     "page": 1,
+     "pages": 2,
+     "totalCount": 20,
+     "maxPages": 2
+    }
+   }
+  }
+ ],
+ "parent": null
+}

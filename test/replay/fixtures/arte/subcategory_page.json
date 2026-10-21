@@ -1,0 +1,319 @@
+{
+ "code": "SES",
+ "language": "fr",
+ "support": "web",
+ "type": "page",
+ "level": 2,
+ "alternativeLanguages": [
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "SES",
+   "url": "https://www.arte.tv/fr/videos/series-et-fictions/series/",
+   "title": "Séries | ARTE"
+  },
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "page": "SES",
+   "url": "https://www.arte.tv/de/videos/fernsehfilme-und-serien/serien/",
+   "title": "Serien | ARTE"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/videos/series-et-fictions/series/",
+ "deeplink": "arte://emac/SES",
+ "slug": "series",
+ "metadata": {
+  "title": "Séries",
+  "description": "Saga, polar, science fiction, fantastique ou comédie… La série, un genre majeur sur ARTE. ",
+  "seo": {
+   "title": "Séries - ARTE",
+   "description": "Saga, polar, science fiction, fantastique ou comédie… La série, un genre majeur sur ARTE. ",
+   "canonical": "https://www.arte.tv/fr/videos/series-et-fictions/series/"
+  },
+  "og": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg",
+    "width": 1200,
+    "height": 630
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg"
+   },
+   "site": "@ARTEfr"
+  }
+ },
+ "zones": [
+  {
+   "id": "4ea283de-be20-445f-9e0f-2ec6f59357d1_SES",
+   "code": "videos_subcategory_SES",
+   "title": "Toutes les vidéos",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "vertical-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": {
+    "page": "SES",
+    "title": "Voir tout",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/series/",
+    "deeplink": null
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-028097",
+      "id": "RC-028097_fr",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": "L'un de nous tremble",
+       "url": "https://api-cdn.arte.tv/img/v2/image/uY5ZtsXRaJCLi2xcmstb8e/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique. Jeune réalisatrice danoise prometteuse, Selma Sunniva signe cette série au jeu incandescent et au montage fièvreux, qui démystifie la maladie mentale.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "L'un de nous tremble",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028097&language=fr&teaserid=RC-028097_fr&teasertitle=L%27un%20de%20nous%20tremble",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": null,
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-028097",
+      "teaserText": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-028097/l-un-de-nous-tremble/",
+      "player": {
+       "id": "RC-028097",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028097",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028097",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": false,
+      "episodeInfo": {
+       "season": 1,
+       "episode": null,
+       "absoluteEpisode": null,
+       "totalEpisodes": 5
+      }
+     },
+     {
+      "deeplink": "arte://collection/RC-027461",
+      "id": "RC-027461_fr",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/NJQxu2VU2tycWBQ8FcxZ4g/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "En 1983, Enzo Tortora, le présentateur le plus populaire de la télévision italienne, est emprisonné sur la foi d'accusations non vérifiées de repentis de la mafia. Nouvelle série dramatique de Marco Bellochio, “Portobello” fait revivre l’un des scandales judiciaires les plus retentissants de l'histoire italienne récente.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "Portobello",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027461&language=fr&teaserid=RC-027461_fr&teasertitle=Portobello",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "ST",
+        "label": "Sous-titres"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       },
+       {
+        "code": "VF",
+        "label": "Version française"
+       },
+       {
+        "code": "VO",
+        "label": "Version originale"
+       }
+      ],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": null,
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-027461",
+      "teaserText": "Injustement emprisonné, il lutta contre l’État et la mafia. L’histoire vraie d’Enzo Tortora par Marco Bellochio.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-027461/portobello/",
+      "player": {
+       "id": "RC-027461",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027461",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027461",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": false,
+      "episodeInfo": {
+       "season": 1,
+       "episode": null,
+       "absoluteEpisode": null,
+       "totalEpisodes": 6
+      }
+     },
+     {
+      "deeplink": "arte://collection/RC-022041",
+      "id": "RC-022041_fr",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": "Série - Red Light",
+       "url": "https://api-cdn.arte.tv/img/v2/image/NRb24oENENzdVdJCzYkc9j/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "La rencontre de trois femmes blessées dans le quartier rouge d’Anvers, sur fond de meurtres et de prostitution. Thriller nerveux, la série Red Light est portée par trois actrices impressionnantes, dont les créatrices de la série Carice van Houten (Game of Thrones, Black Book) et Halina Reijn (Instinct). ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "Red Light",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-022041&language=fr&teaserid=RC-022041_fr&teasertitle=Red%20Light",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [
+       {
+        "code": "AD",
+        "label": "Audiodescription"
+       },
+       {
+        "code": "ST",
+        "label": "Sous-titres"
+       },
+       {
+        "code": "STM",
+        "label": "Sous-titrage malentendant"
+       },
+       {
+        "code": "VF",
+        "label": "Version française"
+       },
+       {
+        "code": "VO",
+        "label": "Version originale"
+       }
+      ],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": null,
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-022041",
+      "teaserText": "Le destin de trois femmes liées par une enquête policière dans le milieu de la prostitution.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-022041/red-light/",
+      "player": {
+       "id": "RC-022041",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-022041",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-022041",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": false,
+      "episodeInfo": {
+       "season": 1,
+       "episode": null,
+       "absoluteEpisode": null,
+       "totalEpisodes": 10
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=1",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=5",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/4ea283de-be20-445f-9e0f-2ec6f59357d1/content?authorizedCountry=BE&page=2"
+     },
+     "page": 1,
+     "pages": 5,
+     "totalCount": 57,
+     "maxPages": 20
+    }
+   }
+  }
+ ],
+ "parent": {
+  "id": "SER_fr_web",
+  "label": "Séries et fictions",
+  "page": "SER",
+  "type": "category",
+  "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+  "deeplink": "arte://emac/SER",
+  "slug": "series-et-fictions",
+  "parent": null
+ }
+}

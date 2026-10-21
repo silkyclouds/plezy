@@ -1,0 +1,592 @@
+{
+ "code": "SER",
+ "language": "fr",
+ "support": "web",
+ "type": "page",
+ "level": 1,
+ "alternativeLanguages": [
+  {
+   "code": "ro",
+   "label": "Romanian",
+   "page": "CATEGORY_SER",
+   "url": "https://www.arte.tv/ro/videos/seriale-i-fic-iune/",
+   "title": "Seriale"
+  },
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "SER",
+   "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+   "title": "Séries et fictions | ARTE"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+ "deeplink": "arte://emac/SER",
+ "slug": "series-et-fictions",
+ "metadata": {
+  "title": "Séries",
+  "description": "Polars, drames, comédies ou sagas … Des séries originales, cultes et inédites",
+  "seo": {
+   "title": "Séries et fictions - Saisons complètes en streaming et replay  | ARTE",
+   "description": "Regardez les séries d'ARTE en avant-première, en streaming et en replay - Polars, drames, comédies ou sagas… les grandes séries emblématiques à consommer sans modération.",
+   "canonical": "https://www.arte.tv/fr/videos/series-et-fictions/"
+  },
+  "og": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg",
+    "width": 1200,
+    "height": 630
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg"
+   },
+   "site": "@ARTEfr"
+  }
+ },
+ "zones": [
+  {
+   "id": "1bc6cd2a-7824-4216-b017-205f80e99d30_SER",
+   "code": "highlights_category_SER",
+   "title": "À ne pas manquer",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "slider-square",
+    "theme": null,
+    "showZoneTitle": false,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-028097",
+      "id": "91961c2a-e388-448c-8882-b0e077d6ae96",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/qtzgZvu6WVZfBdvz3m2u7U/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/qtzgZvu6WVZfBdvz3m2u7U/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique. Jeune réalisatrice danoise prometteuse, Selma Sunniva signe cette série au jeu incandescent et au montage fièvreux, qui démystifie la maladie mentale.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       },
+       {
+        "code": "EDITO",
+        "label": "Nouvelle série"
+       }
+      ],
+      "subtitle": "Là où il y a l'amour, il y a la douleur",
+      "title": "L'un de nous tremble",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028097&language=fr&teaserid=91961c2a-e388-448c-8882-b0e077d6ae96&teasertitle=L%27un%20de%20nous%20tremble",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2878",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2878"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "IT",
+        "PL",
+        "RO",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-028097",
+      "teaserText": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-028097/l-un-de-nous-tremble/",
+      "player": {
+       "id": "RC-028097",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028097",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028097",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "bc4b0f59-1244-4b64-bea1-b2924af84805",
+   "code": "bc4b0f59-1244-4b64-bea1-b2924af84805",
+   "title": "Toutes les séries",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-portrait",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": false,
+    "icon": null
+   },
+   "link": {
+    "page": "SUBCATEGORY_SES",
+    "title": "Voir tout",
+    "url": "https://www.arte.tv/fr/videos/series-et-fictions/series/",
+    "deeplink": "arte://emac/SES"
+   },
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-022041",
+      "id": "e765b3b9-d68e-4822-a9dd-20b70e4aa3d6",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/R9oN5dqm6CtRiRnHu7CD6n/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "La rencontre de trois femmes blessées dans le quartier rouge d’Anvers, sur fond de meurtres et de prostitution. Thriller nerveux, la série Red Light est portée par trois actrices impressionnantes, dont les créatrices de la série Carice van Houten (Game of Thrones, Black Book) et Halina Reijn (Instinct). ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Les dessous du quartier rouge d'Anvers",
+      "title": "Red Light",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-022041&language=fr&teaserid=e765b3b9-d68e-4822-a9dd-20b70e4aa3d6&teasertitle=Red%20Light",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2881",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2881"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-022041",
+      "teaserText": "Le destin de trois femmes liées par une enquête policière dans le milieu de la prostitution.",
+      "trailer": {
+       "id": "RC-022041",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-022041"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-022041/red-light/",
+      "player": {
+       "id": "RC-022041",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-022041",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-022041",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-027461",
+      "id": "9ccfe18d-b43e-4085-8416-f4c5a561a28e",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/Kj8BRjHQJE5e9Henw5fnDG/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "En 1983, Enzo Tortora, le présentateur le plus populaire de la télévision italienne, est emprisonné sur la foi d'accusations non vérifiées de repentis de la mafia. Nouvelle série dramatique de Marco Bellochio, “Portobello” fait revivre l’un des scandales judiciaires les plus retentissants de l'histoire italienne récente.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       },
+       {
+        "code": "EDITO",
+        "label": "Nouvelle série"
+       }
+      ],
+      "subtitle": "La chute d'une icône italienne - Série de Marco Bellochio",
+      "title": "Portobello",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027461&language=fr&teaserid=9ccfe18d-b43e-4085-8416-f4c5a561a28e&teasertitle=Portobello",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2848",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2848"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-027461",
+      "teaserText": "Injustement emprisonné, il lutta contre l’État et la mafia. L’histoire vraie d’Enzo Tortora par Marco Bellochio.",
+      "trailer": {
+       "id": "RC-027461",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-027461"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-027461/portobello/",
+      "player": {
+       "id": "RC-027461",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027461",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027461",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/bc4b0f59-1244-4b64-bea1-b2924af84805/content?authorizedCountry=BE&page=1",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/bc4b0f59-1244-4b64-bea1-b2924af84805/content?authorizedCountry=BE&page=6",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/bc4b0f59-1244-4b64-bea1-b2924af84805/content?authorizedCountry=BE&page=2"
+     },
+     "page": 1,
+     "pages": 6,
+     "totalCount": 55,
+     "maxPages": 20
+    }
+   }
+  },
+  {
+   "id": "6385416c-8e24-48de-9555-2227c6adcdd5_6385416c-8e24-48de-9555-2227c6adcdd5",
+   "code": "6385416c-8e24-48de-9555-2227c6adcdd5_6385416c-8e24-48de-9555-2227c6adcdd5",
+   "title": "Twin Peaks",
+   "slug": null,
+   "description": "Disponible dès jeudi 08.01",
+   "displayOptions": {
+    "template": "event-textOnRightSide",
+    "theme": null,
+    "showZoneTitle": false,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-027513",
+      "id": "2f59af59-b450-4b1b-b729-c0c473f4e19a",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/6QDr762vNSqWMyiW9zCi3d/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/6QDr762vNSqWMyiW9zCi3d/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "Œuvre majeure de David Lynch, rencontre unique du soap avec le septième art, cette plongée dans les méandres d’une petite ville américaine se savoure comme un mauvais rêve dont on ne voudrait jamais se réveiller. Une série condensé de celles qui l'ont précédée et matrice de celles qu’on encense aujourd’hui.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       },
+       {
+        "code": "EDITO",
+        "label": "En intégralité"
+       }
+      ],
+      "subtitle": "La série culte de David Lynch",
+      "title": "Twin Peaks",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027513&language=fr&teaserid=2f59af59-b450-4b1b-b729-c0c473f4e19a&teasertitle=Twin%20Peaks",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PNF2459",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PNF2459"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-027513",
+      "teaserText": "Signée David Lynch, une série qui se savoure comme un mauvais rêve dont on ne voudrait jamais se réveiller.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-027513/twin-peaks/",
+      "player": {
+       "id": "RC-027513",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027513",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027513",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "8ad67e29-b4ce-4638-b034-2716dfad85f3",
+   "code": "8ad67e29-b4ce-4638-b034-2716dfad85f3",
+   "title": "Love, etc.",
+   "slug": null,
+   "description": "Naissant, ardent, déchirant ; des séries qui dessinent les variations chamarrées des sentiments ",
+   "displayOptions": {
+    "template": "horizontal-landscapeBig",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-028097",
+      "id": "91961c2a-e388-448c-8882-b0e077d6ae96",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/qtzgZvu6WVZfBdvz3m2u7U/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/qtzgZvu6WVZfBdvz3m2u7U/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique. Jeune réalisatrice danoise prometteuse, Selma Sunniva signe cette série au jeu incandescent et au montage fièvreux, qui démystifie la maladie mentale.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       },
+       {
+        "code": "EDITO",
+        "label": "Nouvelle série"
+       }
+      ],
+      "subtitle": "Là où il y a l'amour, il y a la douleur",
+      "title": "L'un de nous tremble",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028097&language=fr&teaserid=91961c2a-e388-448c-8882-b0e077d6ae96&teasertitle=L%27un%20de%20nous%20tremble",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2878",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2878"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "IT",
+        "PL",
+        "RO",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-028097",
+      "teaserText": "La fièvre d'une première rencontre, entre passion dévorante et souffrance psychique.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-028097/l-un-de-nous-tremble/",
+      "player": {
+       "id": "RC-028097",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028097",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028097",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-027815",
+      "id": "7dec76bb-14ce-4e9b-a0f3-0457ba3a2d3b",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/QRRTbxcWUGpEwj7d7WRN3Y/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/QRRTbxcWUGpEwj7d7WRN3Y/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "Insatisfaites du tour pris par leur existence, Esther, sa sœur María et sa meilleure amie Cris entreprennent de s’inventer un nouveau destin. En deux saisons, entre émotion, humour et trash, le portrait décapant d’une génération de trentenaires à la croisée des chemins. ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "Portrait loufoque de trentenaires désemparées",
+      "title": "Perfect Life",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027815&language=fr&teaserid=7dec76bb-14ce-4e9b-a0f3-0457ba3a2d3b&teasertitle=Perfect%20Life",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": {
+       "id": "PCF2602",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/PCF2602"
+      },
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "PL",
+        "GB"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "RC-027815",
+      "teaserText": "Insatisfaites du tour pris par leur existence, trois femmes entreprennent de s’inventer un nouveau destin.",
+      "trailer": {
+       "id": "RC-027815",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-027815"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-027815/perfect-life/",
+      "player": {
+       "id": "RC-027815",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027815",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027815",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/8ad67e29-b4ce-4638-b034-2716dfad85f3/content?authorizedCountry=BE&page=1",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/8ad67e29-b4ce-4638-b034-2716dfad85f3/content?authorizedCountry=BE&page=2",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/8ad67e29-b4ce-4638-b034-2716dfad85f3/content?authorizedCountry=BE&page=2"
+     },
+     "page": 1,
+     "pages": 2,
+     "totalCount": 11,
+     "maxPages": 2
+    }
+   }
+  }
+ ],
+ "parent": null
+}

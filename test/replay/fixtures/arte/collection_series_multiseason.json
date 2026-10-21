@@ -1,0 +1,739 @@
+{
+ "code": "RC-027942",
+ "language": "fr",
+ "support": "web",
+ "type": "collection",
+ "level": 3,
+ "alternativeLanguages": [
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "RC-027942",
+   "url": "https://www.arte.tv/fr/videos/RC-027942/please-like-me/",
+   "title": "Please Like Me"
+  },
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "page": "RC-027942",
+   "url": "https://www.arte.tv/de/videos/RC-027942/please-like-me/",
+   "title": "Please Like Me"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/videos/RC-027942/please-like-me/",
+ "deeplink": "arte://collection/RC-027942",
+ "slug": "please-like-me",
+ "metadata": {
+  "title": "Please Like Me",
+  "description": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand upper australien Josh Thomas (\"Everything’s Gonna Be Okay\"), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+  "seo": {
+   "title": "Please Like Me - Séries et fictions | ARTE",
+   "description": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand upper australien Josh Thomas (\"Everything’s Gonna Be Okay\"), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+   "canonical": "https://www.arte.tv/fr/videos/RC-027942/please-like-me/"
+  },
+  "og": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/fr9VF9drKkXyW5QmbARK53/1920x1080?type=TEXT&watermark=true",
+    "width": 1920,
+    "height": 1080
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "https://api-cdn.arte.tv/img/v2/image/fr9VF9drKkXyW5QmbARK53/1920x1080?type=TEXT&watermark=true"
+   },
+   "site": "@ARTEfr"
+  },
+  "totalSeasonNumber": 4,
+  "publish": {
+   "online": "2026-07-31T03:00:00Z",
+   "offline": "2027-07-02T21:59:00Z"
+  },
+  "displayAudioVersions": []
+ },
+ "zones": [
+  {
+   "id": "51ba8da1-5389-43c4-af08-cca614192d77_RC-027942",
+   "code": "collection_content_RC-027942",
+   "title": "Please Like Me",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "single-collectionContent",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-027942",
+      "id": "RC-027942",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": null
+      },
+      "mainImage": {
+       "caption": "Please Like Me",
+       "url": "https://api-cdn.arte.tv/img/v2/image/fr9VF9drKkXyW5QmbARK53/__SIZE__"
+      },
+      "graphicalTitle": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/fr9VF9drKkXyW5QmbARK53/__SIZE__?imageType=graphical_title"
+      },
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand upper australien Josh Thomas (\"Everything’s Gonna Be Okay\"), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-027942&language=fr&teaserid=RC-027942&teasertitle=Please%20Like%20Me",
+      "type": "collection",
+      "description": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand upper australien Josh Thomas (\"Everything’s Gonna Be Okay\"), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+      "video": null,
+      "partners": null,
+      "trailer": {
+       "id": "RC-027942",
+       "config": "https://api.arte.tv/api/player/v2/trailer/fr/RC-027942"
+      },
+      "url": "https://www.arte.tv/fr/videos/RC-027942/please-like-me/",
+      "livestreamRights": true,
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": null,
+       "remainingDays": 255
+      },
+      "offlineAvailability": false,
+      "player": {
+       "id": "RC-027942",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-027942",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-027942",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      }
+     }
+    ],
+    "pagination": null
+   }
+  },
+  {
+   "id": "d3bad9c8-b1c0-43db-87fb-fb95cc68766d_RC-027942",
+   "code": "collection_videos_RC-027942",
+   "title": "Toutes les vidéos",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [],
+    "pagination": null
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-027942_RC-027943",
+   "code": "collection_subcollection_RC-027942_RC-027943",
+   "title": "Please Like Me - Saison 1",
+   "slug": "please-like-me-saison-1",
+   "description": "À Melbourne, Josh, 21 ans, cherche sa place entre galères de cœur, crise familiale et autodérision salvatrice.",
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/127443-001-A",
+      "id": "127443-001-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh) et Wade Briggs (Geoffrey) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/rxLcsKhVNnVXPxK7qDdi9W/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 1 (1/6)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-001-A&language=fr&teaserid=127443-001-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%201%20%281%2F6%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1673,
+      "durationLabel": "28 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-001-A",
+      "teaserText": "Largué par sa copine, Josh réalise qu'il est gay et se voit contraint d’emménager chez sa mère bipolaire.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-001-A/please-like-me-saison-1-1-6/",
+      "player": {
+       "id": "127443-001-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-001-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-001-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 1,
+       "episode": 1,
+       "absoluteEpisode": 1,
+       "totalEpisodes": 6
+      }
+     },
+     {
+      "deeplink": "arte://program/127443-002-A",
+      "id": "127443-002-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh) et Wade Briggs (Geoffrey) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/kSvVRK76P4XXDTsTnXhKha/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique. Deuxième épisode : tandis que Josh s’occupe de Rose, Geoffrey lui avoue ses sentiments, et Tom se fait malmener par Niamh.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 1 (2/6)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-002-A&language=fr&teaserid=127443-002-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%201%20%282%2F6%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1660,
+      "durationLabel": "28 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-002-A",
+      "teaserText": "Tandis que Josh s’occupe de Rose, Geoffrey lui avoue ses sentiments, et Tom se fait malmener par Niamh.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-002-A/please-like-me-saison-1-2-6/",
+      "player": {
+       "id": "127443-002-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-002-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-002-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 1,
+       "episode": 2,
+       "absoluteEpisode": 2,
+       "totalEpisodes": 6
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027943&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027943&type=collection",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 6,
+     "maxPages": 10
+    }
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-027942_RC-027944",
+   "code": "collection_subcollection_RC-027942_RC-027944",
+   "title": "Please Like Me - Saison 2",
+   "slug": "please-like-me-saison-2",
+   "description": "Josh et Tom, que Claire a quitté pour partir en voyage, ont un nouveau colocataire, Patrick, dont Josh est secrètement amoureux.",
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/127443-007-A",
+      "id": "127443-007-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh), Thomas Ward (Tom) et Charles Cottier (Patrick) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/sdmwRKZ3tBfS8z78QmsXbK/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique. Premier épisode de la saison 2 : Josh présente sa nouvelle petite sœur à ses colocataires lors d’une soirée de baby-sitting mouvementée.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 2 (1/10)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-007-A&language=fr&teaserid=127443-007-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%202%20%281%2F10%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1500,
+      "durationLabel": "25 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-007-A",
+      "teaserText": "Josh présente sa toute nouvelle petite sœur à ses colocataires lors d’une soirée de baby-sitting mouvementée. ",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-007-A/please-like-me-saison-2-1-10/",
+      "player": {
+       "id": "127443-007-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-007-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-007-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 2,
+       "episode": 1,
+       "absoluteEpisode": 7,
+       "totalEpisodes": 10
+      }
+     },
+     {
+      "deeplink": "arte://program/127443-008-A",
+      "id": "127443-008-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh), Thomas Ward (Tom) et Charles Cottier (Patrick) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/Cab2fW2pioxAhNUw68jd3U/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique. Deuxième épisode : tandis que Rose intègre un hôpital psychiatrique, les colocataires organisent une fête.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 2 (2/10)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-008-A&language=fr&teaserid=127443-008-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%202%20%282%2F10%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1500,
+      "durationLabel": "25 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-008-A",
+      "teaserText": "Tandis que Rose intègre un hôpital psychiatrique, les colocataires organisent une fête pleine de rencontres.  ",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-008-A/please-like-me-saison-2-2-10/",
+      "player": {
+       "id": "127443-008-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-008-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-008-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 2,
+       "episode": 2,
+       "absoluteEpisode": 8,
+       "totalEpisodes": 10
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027944&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027944&type=collection",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 10,
+     "maxPages": 10
+    }
+   }
+  },
+  {
+   "id": "e0dfcff6-67bc-4d83-8055-8edf45687aea_RC-027942_RC-027945",
+   "code": "collection_subcollection_RC-027942_RC-027945",
+   "title": "Please Like Me - Saison 3",
+   "slug": "please-like-me-saison-3",
+   "description": "Josh habite toujours avec son ami Tom et son chien John. Récemment, ils ont été rejoints par une poignée de charmants poussins.",
+   "displayOptions": {
+    "template": "horizontal-landscape",
+    "theme": null,
+    "showZoneTitle": true,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://program/127443-017-A",
+      "id": "127443-017-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/ZFkabfja5vS7JBDwd63zDk/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique. Premier épisode de la saison 3 : aux prises avec un quotidien toujours aussi bancal, Josh attend qu’Arnold s’engage dans leur relation.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 3 (1/10)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-017-A&language=fr&teaserid=127443-017-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%203%20%281%2F10%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1500,
+      "durationLabel": "25 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-017-A",
+      "teaserText": "Aux prises avec un quotidien toujours aussi bancal, Josh attend qu’Arnold s’engage dans leur relation.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-017-A/please-like-me-saison-3-1-10/",
+      "player": {
+       "id": "127443-017-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-017-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-017-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 3,
+       "episode": 1,
+       "absoluteEpisode": 17,
+       "totalEpisodes": 10
+      }
+     },
+     {
+      "deeplink": "arte://program/127443-018-A",
+      "id": "127443-018-A_fr",
+      "kind": {
+       "code": "SHOW",
+       "isCollection": false,
+       "label": "Programme"
+      },
+      "mainImage": {
+       "caption": "Josh Thomas (Josh) et David Roberts (Alan) dans la série \"Please Like Me\" réalisée par Matthew Saville et Josh Thomas.",
+       "url": "https://api-cdn.arte.tv/img/v2/image/XsYBSgLLFYWAAp5ezrHMaR/__SIZE__"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "À Melbourne, Josh, la vingtaine, cherche sa place entre galères de cœur, crises familiales et autodérision salvatrice. Écrite et interprétée par le stand-upper australien Josh Thomas (Everything’s Gonna Be Okay), une sitcom à l’humour haut en couleur qui suit les affres et tribulations d’un jeune homme délicieusement excentrique. Deuxième épisode : Arnold annonce qu’il va faire son coming out auprès de ses parents. Mae, elle, fait une confession à Alan.",
+      "stickers": [
+       {
+        "code": "FULL_VIDEO",
+        "label": "Voir le programme"
+       },
+       {
+        "code": "PLAYABLE",
+        "label": "PLAYABLE"
+       }
+      ],
+      "subtitle": null,
+      "title": "Please Like Me - Saison 3 (2/10)",
+      "trackingPixel": "https://www.arte.tv/ct/?em=127443-018-A&language=fr&teaserid=127443-018-A_fr&teasertitle=Please%20Like%20Me%20-%20Saison%203%20%282%2F10%29",
+      "type": "teaser",
+      "ageRating": 0,
+      "audioVersions": [],
+      "availability": {
+       "end": "2027-07-02T21:59:00Z",
+       "label": "Disponible du 31/07/2026 au 02/07/2027",
+       "start": "2026-07-31T03:00:00Z",
+       "type": "VOD",
+       "upcomingDate": "2026-07-31T03:00:00Z",
+       "hasVideoStreams": true,
+       "remainingDays": 255
+      },
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": 1500,
+      "durationLabel": "25 min",
+      "geoblocking": {
+       "code": "EUR_DE_FR",
+       "exclusion": [],
+       "inclusion": [
+        "AD",
+        "PL",
+        "ES"
+       ]
+      },
+      "genre": {
+       "id": 3,
+       "deeplink": "arte://emac/SER",
+       "label": "Séries et fictions",
+       "genreName": "Séries et fictions",
+       "itemLabel": "Série",
+       "url": "https://www.arte.tv/fr/videos/series-et-fictions/"
+      },
+      "programId": "127443-018-A",
+      "teaserText": "Arnold annonce qu’il va faire son coming out auprès de ses parents. Mae, elle, fait une confession à Alan.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/127443-018-A/please-like-me-saison-3-2-10/",
+      "player": {
+       "id": "127443-018-A",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/127443-018-A",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/127443-018-A",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": true,
+      "offlineAvailability": true,
+      "episodeInfo": {
+       "season": 3,
+       "episode": 2,
+       "absoluteEpisode": 18,
+       "totalEpisodes": 10
+      }
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027945&type=collection",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/e0dfcff6-67bc-4d83-8055-8edf45687aea/content?authorizedCountry=BE&collectionId=RC-027942&page=1&pageId=collection&subCollectionId=RC-027945&type=collection",
+      "next": null
+     },
+     "page": 1,
+     "pages": 1,
+     "totalCount": 10,
+     "maxPages": 10
+    }
+   }
+  }
+ ],
+ "parent": {
+  "id": "SER_fr_web",
+  "label": "Séries et fictions",
+  "page": "SER",
+  "type": "category",
+  "url": "https://www.arte.tv/fr/videos/series-et-fictions/",
+  "deeplink": "arte://emac/SER",
+  "slug": "series-et-fictions",
+  "parent": null
+ }
+}

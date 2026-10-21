@@ -1,0 +1,305 @@
+{
+ "code": "SEARCH",
+ "language": "fr",
+ "support": "web",
+ "type": "search",
+ "level": 0,
+ "alternativeLanguages": [
+  {
+   "code": "ro",
+   "label": "Romanian",
+   "page": "SEARCH",
+   "url": "https://www.arte.tv/ro/search/?q=nature",
+   "title": "Caută"
+  },
+  {
+   "code": "fr",
+   "label": "Français",
+   "page": "SEARCH",
+   "url": "https://www.arte.tv/fr/search/?q=nature",
+   "title": "Recherche"
+  }
+ ],
+ "url": "https://www.arte.tv/fr/search/?q=nature",
+ "deeplink": "arte://search?query=nature",
+ "slug": "recherche",
+ "metadata": {
+  "title": "nature",
+  "description": "Découvrez toutes les vidéos ARTE",
+  "seo": {
+   "title": "nature",
+   "description": "Découvrez toutes les vidéos ARTE relatives à votre recherche sur nature...",
+   "canonical": "https://www.arte.tv/fr/search/?q=nature"
+  },
+  "og": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg",
+    "width": 1200,
+    "height": 630
+   }
+  },
+  "twitter": {
+   "image": {
+    "url": "/img/SHARE_DEFAULT.jpg"
+   },
+   "site": "@ARTEfr"
+  }
+ },
+ "zones": [
+  {
+   "id": "167d478a-b668-42a3-b88a-f01a436c7394",
+   "code": "listing_SEARCH",
+   "title": "Toutes les vidéos",
+   "slug": null,
+   "description": null,
+   "displayOptions": {
+    "template": "vertical-landscape",
+    "theme": null,
+    "showZoneTitle": false,
+    "showItemTitle": true,
+    "icon": null
+   },
+   "link": null,
+   "authenticatedContent": null,
+   "groupedZonesName": null,
+   "content": {
+    "data": [
+     {
+      "deeplink": "arte://collection/RC-025825",
+      "id": "RC-025825",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/QrjDBWPDuACV33q4rRpLw3/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Si Séoul, sa capitale, est à la pointe de la technologie, la Corée du Sud cache aussi une nature insoupçonnée et des provinces où la ruralité ne s’est pas laissé effacer par la modernité. Des montagnes du parc national Jirisan aux îles de Sinan, les plus beaux paysages du pays accueillent des habitants dont les coutumes et traditions millénaires dictent encore le quotidien. ",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "La Corée du Sud, un joyau de la nature",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-025825&language=fr&teaserid=RC-025825&teasertitle=La%20Cor%C3%A9e%20du%20Sud%2C%20un%20joyau%20de%20la%20nature",
+      "type": "teaser",
+      "ageRating": null,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "ALL",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 1,
+       "deeplink": "arte://emac/DOR",
+       "label": "Documentaires et reportages",
+       "genreName": "Documentaires et reportages",
+       "itemLabel": "Documentaire",
+       "url": "https://www.arte.tv/fr/videos/documentaires-et-reportages/"
+      },
+      "programId": "RC-025825",
+      "teaserText": "Voyage en deux étapes à travers la Corée du Sud, péninsule montagneuse aux paysages à couper le souffle.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-025825/la-coree-du-sud-un-joyau-de-la-nature/",
+      "player": {
+       "id": "RC-025825",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-025825",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-025825",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-028262",
+      "id": "RC-028262",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/9nM4siZk3hAaF346DC2kbE/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Dans le sud-est des États-Unis, une jungle méconnue abrite encore des espèces et des essences millénaires : salamandres géantes, alligators et cyprès, parfois uniques au monde. Cet écosystème évolue en permanence mais une constante persiste : c'est l'eau, depuis les cascades des Appalaches jusqu'aux marécages de Floride qui assure sa survie.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "Amérique du Nord - L’empire de la nature",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-028262&language=fr&teaserid=RC-028262&teasertitle=Am%C3%A9rique%20du%20Nord%20-%20L%E2%80%99empire%20de%20la%20nature",
+      "type": "teaser",
+      "ageRating": null,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "DE_FR",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": {
+       "id": 1,
+       "deeplink": "arte://emac/DOR",
+       "label": "Documentaires et reportages",
+       "genreName": "Documentaires et reportages",
+       "itemLabel": "Documentaire",
+       "url": "https://www.arte.tv/fr/videos/documentaires-et-reportages/"
+      },
+      "programId": "RC-028262",
+      "teaserText": "La vie mystérieuse de la dernière grande forêt primaire des États-Unis.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-028262/amerique-du-nord-l-empire-de-la-nature/",
+      "player": {
+       "id": "RC-028262",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-028262",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-028262",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-025777",
+      "id": "RC-025777",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/9CATmHNBSmS4jnaL4Ecsva/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "Au Canada, les grands espaces naturels se réduisent. L’exploitation de ces territoires menace les forêts boréales où vivent les caribous, mais aussi les prairies, autrefois royaume des bisons et la côte Pacifique qui abrite des populations de saumons. Épaulés par la recherche scientifique, les peuples autochtones tentent de préserver ces écosystèmes.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": null,
+      "title": "Canada, la force de la nature",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-025777&language=fr&teaserid=RC-025777&teasertitle=Canada%2C%20la%20force%20de%20la%20nature",
+      "type": "teaser",
+      "ageRating": null,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": null,
+      "programId": "RC-025777",
+      "teaserText": "Au Canada, les peuples autochtones tentent de préserver les vastes écosystèmes de leur terre natale.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-025777/canada-la-force-de-la-nature/",
+      "player": {
+       "id": "RC-025777",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-025777",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-025777",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     },
+     {
+      "deeplink": "arte://collection/RC-023178",
+      "id": "RC-023178",
+      "kind": {
+       "code": "TV_SERIES",
+       "isCollection": true,
+       "label": "Série"
+      },
+      "mainImage": {
+       "caption": null,
+       "url": "https://api-cdn.arte.tv/img/v2/image/46SJm99nTGKojy9Sao8k7i/__SIZE__?type=TEXT"
+      },
+      "graphicalTitle": null,
+      "shortDescription": "La nature sauvage existe-t-elle encore en Europe ? L'être humain peut s'avérer être son pire ennemi, mais il est aussi capable de se mobiliser pour préserver l'avenir des écosystèmes. Chaîne de solidarité autour de grands oiseaux migrateurs ou renaissance des aurochs disparus depuis des siècles : les êtres humains et la nature peuvent aussi se réconcilier.",
+      "stickers": [
+       {
+        "code": "COLLECTION",
+        "label": "COLLECTION"
+       }
+      ],
+      "subtitle": "L'être humain et la nature",
+      "title": "Natura Europa",
+      "trackingPixel": "https://www.arte.tv/ct/?em=RC-023178&language=fr&teaserid=RC-023178&teasertitle=Natura%20Europa",
+      "type": "teaser",
+      "ageRating": null,
+      "audioVersions": [],
+      "availability": null,
+      "callToAction": "Regarder",
+      "clip": null,
+      "duration": null,
+      "durationLabel": "Série",
+      "geoblocking": {
+       "code": "SAT",
+       "exclusion": [],
+       "inclusion": []
+      },
+      "genre": null,
+      "programId": "RC-023178",
+      "teaserText": "L'être humain peut s'avérer être le pire ennemi de la nature, mais il est aussi capable de se mobiliser pour la préserver.",
+      "trailer": null,
+      "url": "https://www.arte.tv/fr/videos/RC-023178/natura-europa/",
+      "player": {
+       "id": "RC-023178",
+       "config": "https://api.arte.tv/api/player/v2/config/fr/RC-023178",
+       "playlist": "https://api.arte.tv/api/player/v2/playlist/fr/RC-023178",
+       "orangeVideoId": null,
+       "freeVideoId": null
+      },
+      "livestreamRights": null,
+      "offlineAvailability": null,
+      "episodeInfo": null
+     }
+    ],
+    "pagination": {
+     "links": {
+      "first": "https://api.arte.tv/api/emac/v4/fr/web/zones/167d478a-b668-42a3-b88a-f01a436c7394/content?authorizedCountry=BE&page=1&query=nature",
+      "last": "https://api.arte.tv/api/emac/v4/fr/web/zones/167d478a-b668-42a3-b88a-f01a436c7394/content?authorizedCountry=BE&page=20&query=nature",
+      "next": "https://api.arte.tv/api/emac/v4/fr/web/zones/167d478a-b668-42a3-b88a-f01a436c7394/content?authorizedCountry=BE&page=2&query=nature"
+     },
+     "page": 1,
+     "pages": 20,
+     "totalCount": 400,
+     "maxPages": 20
+    }
+   }
+  }
+ ],
+ "parent": null
+}
