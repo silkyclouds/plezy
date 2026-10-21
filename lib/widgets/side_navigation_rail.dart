@@ -948,7 +948,11 @@ class SideNavigationRailState extends State<SideNavigationRail> with MountedSetS
           },
           child: MouseRegion(
             cursor: isCollapsed ? SystemMouseCursors.click : MouseCursor.defer,
-            onEnter: (_) => _onHoverEnter(),
+            // A pointer parked over the rail (a gamepad-driven session never moves it) must not
+            // open it, so only movement inside the rail counts as hovering.
+            onHover: (event) {
+              if (event.delta != Offset.zero) _onHoverEnter();
+            },
             onExit: (_) => _onHoverExit(),
             child: GestureDetector(
               behavior: HitTestBehavior.opaque,

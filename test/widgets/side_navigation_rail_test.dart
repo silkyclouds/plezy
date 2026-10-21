@@ -683,6 +683,23 @@ void main() {
     expect(scrimReports.last, isFalse);
   });
 
+  testWidgets('a pointer parked over the rail does not expand it', (tester) async {
+    await _pumpBasicRail(tester, alwaysExpanded: false);
+    final rail = find.descendant(of: find.byType(SideNavigationRail), matching: find.byType(AnimatedContainer)).first;
+
+    final gesture = await tester.createGesture(kind: PointerDeviceKind.mouse);
+    addTearDown(gesture.removePointer);
+    await gesture.addPointer(location: tester.getCenter(rail));
+    await tester.pumpAndSettle();
+
+    expect(tester.getSize(rail).width, SideNavigationRailState.collapsedWidth);
+
+    await gesture.moveBy(const Offset(2, 0));
+    await tester.pumpAndSettle();
+
+    expect(tester.getSize(rail).width, SideNavigationRailState.expandedWidth);
+  });
+
   /// An always-open rail is docked: hovering it must not report a floating
   /// panel, or the shell scrims the app behind an already-visible sidebar.
   testWidgets('always-open rail reports no floating panel on hover', (tester) async {
