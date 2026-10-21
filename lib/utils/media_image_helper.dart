@@ -7,6 +7,7 @@ import 'package:flutter/widgets.dart';
 
 import '../media/media_item.dart';
 import '../media/media_server_client.dart';
+import '../replay/client/replay_image_cache.dart';
 import '../services/device_performance.dart';
 import '../services/image_cache_service.dart';
 import '../services/settings_service.dart' show EpisodePosterMode;
@@ -418,13 +419,16 @@ class MediaImageHelper {
     required String imageUrl,
     required int memWidth,
     required int memHeight,
+    MediaServerClient? client,
     Color? logoToneTarget,
     bool logoToneRemapMixed = true,
   }) {
     final provider = CachedNetworkImageProvider(
       imageUrl,
       cacheKey: _serverArtworkCacheKey(imageUrl),
-      cacheManager: PlexImageCacheManager.instance,
+      cacheManager: client != null && client.backend.isReplay
+          ? ReplayImageCacheManager.instance
+          : PlexImageCacheManager.instance,
       headers: const {'User-Agent': 'Plezy'},
     );
     final bounded = boundedDecode(provider, memWidth: memWidth, memHeight: memHeight);

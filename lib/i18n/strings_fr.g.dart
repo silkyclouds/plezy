@@ -1725,6 +1725,7 @@ class _Translations$downloads$fr extends Translations$downloads$en {
 	@override String get tvShows => 'Séries TV';
 	@override String get movies => 'Films';
 	@override String get music => 'Musique';
+	@override String get catchUpTv => 'Replay';
 	@override String tracksQueued({required Object count}) => '${count} titres en file d\'attente de téléchargement';
 	@override String get noDownloads => 'Aucun téléchargement pour le moment';
 	@override String get noDownloadsDescription => 'Le contenu téléchargé apparaîtra ici pour être consulté hors ligne.';
@@ -4525,6 +4526,7 @@ extension on TranslationsFr {
 			'downloads.tvShows' => 'Séries TV',
 			'downloads.movies' => 'Films',
 			'downloads.music' => 'Musique',
+			'downloads.catchUpTv' => 'Replay',
 			'downloads.tracksQueued' => ({required Object count}) => '${count} titres en file d\'attente de téléchargement',
 			'downloads.noDownloads' => 'Aucun téléchargement pour le moment',
 			'downloads.noDownloadsDescription' => 'Le contenu téléchargé apparaîtra ici pour être consulté hors ligne.',
@@ -4563,9 +4565,9 @@ extension on TranslationsFr {
 			'downloads.nextNUnwatched' => ({required Object count}) => '${count} prochains non vus',
 			'downloads.customAmount' => 'Quantité personnalisée...',
 			'downloads.includeSpecials' => 'Inclure les spéciaux',
-			'downloads.howManyEpisodes' => 'Combien d\'épisodes ?',
 			_ => null,
 		} ?? switch (path) {
+			'downloads.howManyEpisodes' => 'Combien d\'épisodes ?',
 			'downloads.invalidEpisodeCount' => 'Saisissez un nombre d\'épisodes valide.',
 			'downloads.keepSynced' => 'Garder synchronisé',
 			'downloads.downloadOnce' => 'Télécharger une fois',

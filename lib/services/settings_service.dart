@@ -7,6 +7,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/services.dart';
 import '../models/hotkey_model.dart';
+import '../replay/client/replay_image_cache.dart';
 import 'image_cache_service.dart';
 import 'package:plezy/utils/app_logger.dart';
 import '../i18n/app_locale_utils.dart';
@@ -1750,5 +1751,6 @@ class SettingsService extends BaseSharedPreferencesService {
     PaintingBinding.instance.imageCache.clear();
     PaintingBinding.instance.imageCache.clearLiveImages();
     await PlexImageCacheManager.instance.emptyCache();
+    await ReplayImageCacheManager.instance.emptyCache();
   }
 }

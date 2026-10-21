@@ -1958,6 +1958,7 @@
     "tvShows": "TV Shows",
     "movies": "Movies",
     "music": "Music",
+    "catchUpTv": "Catch-up TV",
     "tracksQueued": "${count} tracks queued for download",
     "noDownloads": "No downloads yet",
     "noDownloadsDescription": "Downloaded content will appear here for offline viewing",

@@ -331,6 +331,7 @@ class OptimizedMediaImage extends StatelessWidget {
       imageUrl: imageUrl,
       memWidth: memWidth,
       memHeight: memHeight,
+      client: client,
       logoToneTarget: logoToneTarget,
       logoToneRemapMixed: logoToneRemapMixed,
     );

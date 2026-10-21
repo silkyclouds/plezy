@@ -4728,6 +4728,9 @@ class Translations$downloads$en {
 	/// en: 'Music'
 	String get music => 'Music';
 
+	/// en: 'Catch-up TV'
+	String get catchUpTv => 'Catch-up TV';
+
 	/// en: '${count} tracks queued for download'
 	String tracksQueued({required Object count}) => '${count} tracks queued for download';
 
@@ -9894,6 +9897,7 @@ extension on Translations {
 			'downloads.tvShows' => 'TV Shows',
 			'downloads.movies' => 'Movies',
 			'downloads.music' => 'Music',
+			'downloads.catchUpTv' => 'Catch-up TV',
 			'downloads.tracksQueued' => ({required Object count}) => '${count} tracks queued for download',
 			'downloads.noDownloads' => 'No downloads yet',
 			'downloads.noDownloadsDescription' => 'Downloaded content will appear here for offline viewing',
@@ -10172,9 +10176,9 @@ extension on Translations {
 			'performanceOverlay.decoderExynosHw' => 'Exynos HW',
 			'performanceOverlay.decoderSoftware' => 'Software',
 			'performanceOverlay.decoderHardware' => 'Hardware',
-			'performanceOverlay.tunnelingActive' => 'Active',
 			_ => null,
 		} ?? switch (path) {
+			'performanceOverlay.tunnelingActive' => 'Active',
 			'performanceOverlay.dvRpuFailed' => ({required Object converted, required Object failures}) => '${converted} (${failures} failed)',
 			'externalPlayer.title' => 'External Player',
 			'externalPlayer.useExternalPlayer' => 'Use External Player',

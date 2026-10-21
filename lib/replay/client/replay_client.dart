@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import '../../connection/connection.dart';
 import '../../media/download_resolution.dart';
 import '../../media/ids.dart';
@@ -13,7 +15,9 @@ import '../../media/media_server_client.dart';
 import '../../media/server_capabilities.dart';
 import '../../services/api_cache.dart';
 import '../../services/playback_initialization_types.dart';
+import '../../utils/app_logger.dart';
 import '../../utils/media_server_http_client.dart' show AbortController, MediaServerHttpClient;
+import '../download/replay_download_proxy.dart';
 import '../mapping/replay_mapper.dart';
 import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
@@ -27,6 +31,9 @@ import 'replay_playback_builder.dart';
 import 'replay_unsupported_operations.dart';
 import 'replay_watch_store.dart';
 
+/// How long the global search waits for one broadcaster before leaving it out of the results.
+const _sourceSearchTimeout = Duration(seconds: 8);
+
 /// [MediaServerClient] over the public catch-up sites of several broadcasters.
 ///
 /// Each enabled source is exposed as one library. Item ids are `source:nativeId`, so a title can be
@@ -36,6 +43,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   final Map<String, ReplayProvider> _providers;
   final MediaServerHttpClient _http;
   final Object _sessionId = Object();
+  final ReplayDownloadProxy _downloads = ReplayDownloadProxy();
   final ReplayPlaybackBuilder _playbackBuilder = const ReplayPlaybackBuilder();
   final Map<String, MediaItem> _playing = {};
   late final ReplayWatchStore _watch = ReplayWatchStore(ReplayApiCache.instance, serverId);
@@ -87,6 +95,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
       provider.close();
     }
     _http.close();
+    unawaited(_downloads.close());
   }
 
   /// The catalogue is public, so there is no credential to reject: the source is online when the app is.
@@ -193,11 +202,21 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     Set<String> excludedLibraryIds = const {},
   }) async {
     final sources = _providers.values.where((p) => !excludedLibraryIds.contains(p.source.id));
-    final perSource = await Future.wait([
-      for (final provider in sources) provider.search(query).then((titles) => _mapper(provider).items(titles)),
-    ]);
+    final perSource = await Future.wait([for (final provider in sources) _searchSource(provider, query)]);
     final found = [for (final items in perSource) ...items].take(limit).toList(growable: false);
     return _watch.apply(found);
+  }
+
+  /// One broadcaster's matches. A source that fails or answers too slowly contributes nothing, so it cannot take the
+  /// other broadcasters' results down with it.
+  Future<List<MediaItem>> _searchSource(ReplayProvider provider, String query) async {
+    try {
+      final titles = await provider.search(query).timeout(_sourceSearchTimeout);
+      return _mapper(provider).items(titles);
+    } on Exception catch (error) {
+      appLogger.w('Catch-up TV search failed on ${provider.source.name}', error: error);
+      return const [];
+    }
   }
 
   @override
@@ -271,7 +290,8 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   }
 
   @override
-  String externalImageUrl(String url, {int? width, int? height, bool cover = true}) => url;
+  String externalImageUrl(String url, {int? width, int? height, bool cover = true}) =>
+      thumbnailUrl(url, width: width, height: height, cover: cover);
 
   /// Artwork references are provider-owned strings, so every provider is offered the reference in turn.
   ReplayProvider? _providerForArtwork(String reference) {
@@ -357,7 +377,10 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     final playback = await target.$1.playback(target.$2);
     if (!playback.isPlayable) return const DownloadResolution(videoUrl: null);
     final stream = playback.streams[mediaIndex.clamp(0, playback.streams.length - 1)];
-    return DownloadResolution(videoUrl: stream.url.toString());
+    if (!stream.url.path.endsWith('.m3u8')) return DownloadResolution(videoUrl: stream.url.toString());
+    // A playlist of segments cannot be fetched as one file, so it goes through the local MP4 converter.
+    final converted = await _downloads.serve(stream.url, headers: stream.headers);
+    return DownloadResolution(videoUrl: converted?.toString());
   }
 
   @override

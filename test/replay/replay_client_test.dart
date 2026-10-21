@@ -6,6 +6,8 @@ import 'package:plezy/media/library_query.dart';
 import 'package:plezy/media/media_kind.dart';
 import 'package:plezy/replay/client/replay_api_cache.dart';
 import 'package:plezy/replay/client/replay_client.dart';
+import 'package:plezy/replay/mapping/replay_mapper.dart';
+import 'package:plezy/services/settings_service.dart' show EpisodePosterMode;
 import 'package:plezy/replay/model/replay_playback.dart';
 import 'package:plezy/replay/model/replay_ref.dart';
 import 'package:plezy/replay/model/replay_title.dart';
@@ -196,4 +198,46 @@ void main() {
     expect(client.thumbnailUrl('https://elsewhere.test/b'), 'https://elsewhere.test/b');
     expect(client.thumbnailUrl(null), '');
   });
+
+  test('external artwork URLs are sized by their provider like any other artwork', () {
+    // The image widget sends every absolute URL through externalImageUrl, where a size template would otherwise stay unfilled.
+    expect(client.externalImageUrl('https://img.test/a', width: 300), 'https://img.test/a?w=300');
+    expect(client.externalImageUrl('https://elsewhere.test/b'), 'https://elsewhere.test/b');
+  });
+
+  test('a title with one landscape image renders wide; a real poster keeps the portrait card', () {
+    const mapper = ReplayMapper(serverId: 'replay', source: _source);
+    final landscape = mapper.item(
+      ReplayTitle(ref: _r('a'), kind: ReplayKind.show, title: 'A', posterUrl: 'https://img.test/l', backdropUrl: 'https://img.test/l'),
+    );
+    final onlyBackdrop = mapper.item(
+      ReplayTitle(ref: _r('b'), kind: ReplayKind.movie, title: 'B', backdropUrl: 'https://img.test/l'),
+    );
+    final poster = mapper.item(
+      ReplayTitle(ref: _r('c'), kind: ReplayKind.show, title: 'C', posterUrl: 'https://img.test/p', backdropUrl: 'https://img.test/l'),
+    );
+    expect(landscape.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
+    expect(onlyBackdrop.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
+    expect(poster.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isFalse);
+  });
+
+  test('a broadcaster that fails to search leaves the others\' results intact', () async {
+    final failing = _FailingSearchProvider();
+    final both = ReplayClient.withProviders(
+      ReplayConnection(enabledSources: const ['fake', 'broken'], createdAt: DateTime(2026)),
+      {'fake': provider, 'broken': failing},
+      MediaServerHttpClient(),
+    );
+    addTearDown(both.close);
+    expect((await both.searchItems('film')).map((i) => i.title), ['film']);
+  });
+}
+
+/// Searching always throws, as a broadcaster site that is down would.
+class _FailingSearchProvider extends _FakeProvider {
+  @override
+  ReplaySource get source => const ReplaySource(id: 'broken', name: 'Broken TV', language: 'fr', support: ReplayPlaybackSupport.clear);
+
+  @override
+  Future<List<ReplayTitle>> search(String query) => Future.error(const FormatException('site down'));
 }

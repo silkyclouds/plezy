@@ -51,11 +51,13 @@ class DownloadsScreenState extends State<DownloadsScreen>
   final _tvShowsTabChipFocusNode = FocusNode(debugLabel: 'tab_chip_tv_shows');
   final _moviesTabChipFocusNode = FocusNode(debugLabel: 'tab_chip_movies');
   final _musicTabChipFocusNode = FocusNode(debugLabel: 'tab_chip_music');
+  final _catchUpTabChipFocusNode = FocusNode(debugLabel: 'tab_chip_catch_up');
   final _retryFailedFocusNode = FocusNode(debugLabel: 'downloads_retry_failed');
   final _actionBarKey = GlobalKey<FocusableActionBarState>();
   final _tvShowsTabKey = GlobalKey<_DownloadsGridContentState>();
   final _moviesTabKey = GlobalKey<_DownloadsGridContentState>();
   final _musicTabKey = GlobalKey<_DownloadedMusicContentState>();
+  final _catchUpTabKey = GlobalKey<_DownloadsGridContentState>();
 
   @override
   List<FocusNode> get tabChipFocusNodes => [
@@ -63,6 +65,7 @@ class DownloadsScreenState extends State<DownloadsScreen>
     _tvShowsTabChipFocusNode,
     _moviesTabChipFocusNode,
     _musicTabChipFocusNode,
+    _catchUpTabChipFocusNode,
   ];
 
   @override
@@ -77,6 +80,7 @@ class DownloadsScreenState extends State<DownloadsScreen>
     _tvShowsTabChipFocusNode.dispose();
     _moviesTabChipFocusNode.dispose();
     _musicTabChipFocusNode.dispose();
+    _catchUpTabChipFocusNode.dispose();
     _retryFailedFocusNode.dispose();
     disposeTabNavigation();
     super.dispose();
@@ -104,6 +108,7 @@ class DownloadsScreenState extends State<DownloadsScreen>
       1 => _tvShowsTabKey.currentState,
       2 => _moviesTabKey.currentState,
       3 => _musicTabKey.currentState,
+      4 => _catchUpTabKey.currentState,
       _ => null,
     };
   }
@@ -155,6 +160,8 @@ class DownloadsScreenState extends State<DownloadsScreen>
           _buildTabChip(t.downloads.movies, 2),
           const SizedBox(width: 8),
           _buildTabChip(t.downloads.music, 3),
+          const SizedBox(width: 8),
+          _buildTabChip(t.downloads.catchUpTv, 4),
         ],
       );
     }
@@ -250,6 +257,8 @@ class DownloadsScreenState extends State<DownloadsScreen>
                           _buildTabChip(t.downloads.movies, 2),
                           const SizedBox(width: 8),
                           _buildTabChip(t.downloads.music, 3),
+                          const SizedBox(width: 8),
+                          _buildTabChip(t.downloads.catchUpTv, 4),
                         ],
                       ),
                     ),
@@ -302,6 +311,12 @@ class DownloadsScreenState extends State<DownloadsScreen>
                         isActive: tabController.index == 3,
                         onBack: focusTabBar,
                       ),
+                      _DownloadsGridContent(
+                        key: _catchUpTabKey,
+                        type: DownloadType.catchUp,
+                        isActive: tabController.index == 4,
+                        onBack: focusTabBar,
+                      ),
                     ],
                   ),
                 ),
@@ -314,7 +329,7 @@ class DownloadsScreenState extends State<DownloadsScreen>
   }
 }
 
-enum DownloadType { tvShows, movies }
+enum DownloadType { tvShows, movies, catchUp }
 
 /// Grid content for the TV Shows and Movies tabs. [type] selects the
 /// persistence section and grouping list; the active grouping picks which
@@ -342,7 +357,11 @@ class _DownloadsGridContentState extends State<_DownloadsGridContent>
   @override
   bool get wantKeepAlive => true;
   @override
-  String get optionsSectionId => widget.type == DownloadType.tvShows ? 'downloads:tv' : 'downloads:movies';
+  String get optionsSectionId => switch (widget.type) {
+    DownloadType.tvShows => 'downloads:tv',
+    DownloadType.movies => 'downloads:movies',
+    DownloadType.catchUp => 'downloads:catch_up',
+  };
 
   @override
   List<String> get groupingOptions => switch (widget.type) {
@@ -354,6 +373,8 @@ class _DownloadsGridContentState extends State<_DownloadsGridContent>
       browseGroupingLibrary,
     ],
     DownloadType.movies => const [browseGroupingMovies, browseGroupingCollections, browseGroupingLibrary],
+    // Catch-up TV downloads have no collections; the library grouping is the broadcaster.
+    DownloadType.catchUp => const [browseGroupingShows, browseGroupingEpisodes, browseGroupingLibrary],
   };
 
   @override
@@ -378,13 +399,23 @@ class _DownloadsGridContentState extends State<_DownloadsGridContent>
   /// `collections` and `library` groupings work on the tab's default item
   /// kind (shows/movies).
   List<MediaItem> _items(DownloadProvider provider) {
+    bool fromBroadcaster(MediaItem item) => item.backend.isReplay;
+    bool fromServer(MediaItem item) => !item.backend.isReplay;
     final raw = switch (widget.type) {
-      DownloadType.tvShows => switch (selectedGrouping) {
-        browseGroupingSeasons => provider.downloadedSeasons,
-        browseGroupingEpisodes => provider.downloadedEpisodes,
-        _ => provider.downloadedShows,
-      },
-      DownloadType.movies => provider.downloadedMovies,
+      DownloadType.tvShows =>
+        (switch (selectedGrouping) {
+          browseGroupingSeasons => provider.downloadedSeasons,
+          browseGroupingEpisodes => provider.downloadedEpisodes,
+          _ => provider.downloadedShows,
+        }).where(fromServer).toList(growable: false),
+      DownloadType.movies => provider.downloadedMovies.where(fromServer).toList(growable: false),
+      DownloadType.catchUp =>
+        selectedGrouping == browseGroupingEpisodes
+            ? provider.downloadedEpisodes.where(fromBroadcaster).toList(growable: false)
+            : [
+                ...provider.downloadedShows.where(fromBroadcaster),
+                ...provider.downloadedMovies.where(fromBroadcaster),
+              ],
     };
     final items = applyDownloadsOptions(provider, raw);
     return selectedGrouping == browseGroupingCollections ? groupDownloadsByCollection(provider, items) : items;
@@ -420,8 +451,9 @@ class _DownloadsGridContentState extends State<_DownloadsGridContent>
             // Episode grids use the wide 16:9 cell when episode thumbnails are
             // the configured poster mode, matching the library browse grid.
             final useWideRatio =
-                selectedGrouping == browseGroupingEpisodes &&
-                settings.read(SettingsService.episodePosterMode) == EpisodePosterMode.episodeThumbnail;
+                widget.type == DownloadType.catchUp ||
+                (selectedGrouping == browseGroupingEpisodes &&
+                    settings.read(SettingsService.episodePosterMode) == EpisodePosterMode.episodeThumbnail);
 
             return CustomScrollView(
               // Restores the scroll offset when the tab is re-entered after

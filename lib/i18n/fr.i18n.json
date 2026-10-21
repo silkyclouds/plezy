@@ -1958,6 +1958,7 @@
     "tvShows": "Séries TV",
     "movies": "Films",
     "music": "Musique",
+    "catchUpTv": "Replay",
     "tracksQueued": "${count} titres en file d'attente de téléchargement",
     "noDownloads": "Aucun téléchargement pour le moment",
     "noDownloadsDescription": "Le contenu téléchargé apparaîtra ici pour être consulté hors ligne.",

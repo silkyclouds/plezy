@@ -94,14 +94,14 @@ void main() {
     }
   });
 
-  testWidgets('right from the last tab (Music) focuses and opens Sync Rules action', (tester) async {
+  testWidgets('right from the last tab (Catch-up TV) focuses and opens Sync Rules action', (tester) async {
     final screenKey = GlobalKey<DownloadsScreenState>();
 
     await _pumpScreen(tester, db, downloadProvider, multiServerProvider, screenKey: screenKey);
 
     final state = screenKey.currentState!;
-    state.tabController.index = 3;
-    state.getTabChipFocusNode(3).requestFocus();
+    state.tabController.index = 4;
+    state.getTabChipFocusNode(4).requestFocus();
     await tester.pumpAndSettle();
 
     await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight);
@@ -124,8 +124,8 @@ void main() {
     expect(find.byTooltip('Retry failed downloads'), findsOneWidget);
 
     final state = screenKey.currentState!;
-    state.tabController.index = 3;
-    state.getTabChipFocusNode(3).requestFocus();
+    state.tabController.index = 4;
+    state.getTabChipFocusNode(4).requestFocus();
     await tester.pumpAndSettle();
     await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight);
     await tester.pumpAndSettle();

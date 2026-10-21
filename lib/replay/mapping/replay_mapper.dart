@@ -10,6 +10,11 @@ import '../provider/replay_provider.dart';
 /// Key under which [ReplayAvailability] travels in `MediaItem.raw`.
 const replayAvailabilityKey = 'replayAvailability';
 
+/// True when the broadcaster gave one landscape image and no separate portrait poster. Providers repeat the same
+/// reference for both fields in that case, so equal fields mean there is no poster to show.
+bool replayHasLandscapeOnlyArtwork(ReplayTitle t) =>
+    t.backdropUrl != null && (t.posterUrl == null || t.posterUrl == t.backdropUrl);
+
 MediaKind replayKindToMediaKind(ReplayKind kind) => switch (kind) {
   ReplayKind.movie => MediaKind.movie,
   ReplayKind.show => MediaKind.show,
@@ -66,7 +71,10 @@ class ReplayMapper {
       libraryTitle: source.name,
       serverId: serverId,
       serverName: serverName,
-      raw: {replayAvailabilityKey: t.availability.name},
+      raw: {
+        replayAvailabilityKey: t.availability.name,
+        if (replayHasLandscapeOnlyArtwork(t)) landscapeOnlyArtworkRawKey: true,
+      },
     );
   }
 

@@ -16,6 +16,10 @@ import 'media_rating.dart';
 part 'media_item.freezed.dart';
 part 'media_item.g.dart';
 
+/// Key in [MediaItem.raw] marking an item whose only artwork is landscape, so its card shows that image whole in 16:9
+/// instead of cropping it into a portrait poster.
+const String landscapeOnlyArtworkRawKey = 'landscapeOnlyArtwork';
+
 /// Container aspect ratio below which a hero prefers square background art.
 /// A 16:9 backdrop only cover-fits a taller box by discarding most of the
 /// frame, so portrait phone/tablet heroes read better with the square image.
@@ -678,7 +682,7 @@ sealed class MediaItem with _$MediaItem {
 
   /// True when the item should render in 16:9.
   bool usesWideAspectRatio(EpisodePosterMode mode, {bool mixedHubContext = false}) {
-    if (kind == MediaKind.clip || _isPlexHomeVideo) return true;
+    if (kind == MediaKind.clip || _isPlexHomeVideo || raw?[landscapeOnlyArtworkRawKey] == true) return true;
     if (kind == MediaKind.episode && mode == EpisodePosterMode.episodeThumbnail) {
       return true;
     }
