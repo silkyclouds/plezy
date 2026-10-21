@@ -6,6 +6,7 @@ import 'package:material_symbols_icons/symbols.dart';
 import '../screens/settings/settings_utils.dart';
 import '../services/settings_service.dart';
 import '../services/settings_mutation_service.dart';
+import '../utils/dialogs.dart';
 import '../utils/snackbar_helper.dart';
 import 'app_icon.dart';
 import 'focusable_list_tile.dart';
@@ -312,6 +313,51 @@ class SettingRegexTile extends StatelessWidget {
           defaultValue: defaultValue,
           onSave: (v) => _writeAndNotify(context, pref, v, onAfterWrite),
         ),
+      ),
+    );
+  }
+}
+
+/// Free text setting bound to a [Pref<String>]. The row shows the current value, or [emptyLabel] when blank.
+class SettingTextTile extends StatelessWidget {
+  final Pref<String> pref;
+  final IconData icon;
+  final String title;
+  final String subtitle;
+  final String emptyLabel;
+  final String? hintText;
+  final FutureOr<void> Function(String)? onAfterWrite;
+
+  const SettingTextTile({
+    super.key,
+    required this.pref,
+    required this.icon,
+    required this.title,
+    required this.subtitle,
+    required this.emptyLabel,
+    this.hintText,
+    this.onAfterWrite,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return ValueListenableBuilder<String>(
+      valueListenable: SettingsService.instance.listenable(pref),
+      builder: (_, value, _) => _SettingRow(
+        icon: icon,
+        title: title,
+        subtitle: Text(value.isEmpty ? '$subtitle\n$emptyLabel' : '$subtitle\n$value'),
+        onTap: () async {
+          final entered = await showTextInputDialog(
+            context,
+            title: title,
+            labelText: title,
+            hintText: hintText,
+            initialValue: value,
+            allowEmpty: true,
+          );
+          if (entered != null && context.mounted) await _writeAndNotify(context, pref, entered.trim(), onAfterWrite);
+        },
       ),
     );
   }

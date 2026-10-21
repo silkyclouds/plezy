@@ -95,6 +95,7 @@ class Translations with BaseTranslations<AppLocale, Translations> {
 	late final Translations$services$en services = Translations$services$en.internal(_root);
 	late final Translations$addServer$en addServer = Translations$addServer$en.internal(_root);
 	late final Translations$replay$en replay = Translations$replay$en.internal(_root);
+	late final Translations$voiceSearch$en voiceSearch = Translations$voiceSearch$en.internal(_root);
 }
 
 // Path: app
@@ -6179,6 +6180,54 @@ class Translations$replay$en {
 	String get needOne => 'Keep at least one broadcaster enabled.';
 }
 
+// Path: voiceSearch
+class Translations$voiceSearch$en {
+	Translations$voiceSearch$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Voice search'
+	String get title => 'Voice search';
+
+	/// en: 'Search by speaking, with a Whisper transcription server'
+	String get description => 'Search by speaking, with a Whisper transcription server';
+
+	/// en: 'Search by voice'
+	String get start => 'Search by voice';
+
+	/// en: 'Stop and search'
+	String get stop => 'Stop and search';
+
+	/// en: 'Transcription server'
+	String get url => 'Transcription server';
+
+	/// en: 'http://192.168.1.10:8178'
+	String get urlHint => 'http://192.168.1.10:8178';
+
+	/// en: 'Address of a server that speaks the OpenAI transcription API (whisper.cpp, faster-whisper-server). The microphone button appears in search once it is set.'
+	String get urlDescription => 'Address of a server that speaks the OpenAI transcription API (whisper.cpp, faster-whisper-server). The microphone button appears in search once it is set.';
+
+	/// en: 'Model name'
+	String get model => 'Model name';
+
+	/// en: 'Sent to the server with each recording'
+	String get modelDescription => 'Sent to the server with each recording';
+
+	/// en: 'Spoken language'
+	String get language => 'Spoken language';
+
+	/// en: 'Two-letter code such as en or fr. Empty lets the server detect it.'
+	String get languageDescription => 'Two-letter code such as en or fr. Empty lets the server detect it.';
+
+	/// en: 'Voice search needs PulseAudio or PipeWire tools (parecord or pw-record) on this device.'
+	String get unavailable => 'Voice search needs PulseAudio or PipeWire tools (parecord or pw-record) on this device.';
+
+	/// en: 'Not set'
+	String get notSet => 'Not set';
+}
+
 // Path: appIcon.names
 class Translations$appIcon$names$en {
 	Translations$appIcon$names$en.internal(this._root);
@@ -10452,6 +10501,19 @@ extension on Translations {
 			'replay.notAdded' => 'Catch-up TV is not added to this profile yet.',
 			'replay.add' => 'Add catch-up TV',
 			'replay.needOne' => 'Keep at least one broadcaster enabled.',
+			'voiceSearch.title' => 'Voice search',
+			'voiceSearch.description' => 'Search by speaking, with a Whisper transcription server',
+			'voiceSearch.start' => 'Search by voice',
+			'voiceSearch.stop' => 'Stop and search',
+			'voiceSearch.url' => 'Transcription server',
+			'voiceSearch.urlHint' => 'http://192.168.1.10:8178',
+			'voiceSearch.urlDescription' => 'Address of a server that speaks the OpenAI transcription API (whisper.cpp, faster-whisper-server). The microphone button appears in search once it is set.',
+			'voiceSearch.model' => 'Model name',
+			'voiceSearch.modelDescription' => 'Sent to the server with each recording',
+			'voiceSearch.language' => 'Spoken language',
+			'voiceSearch.languageDescription' => 'Two-letter code such as en or fr. Empty lets the server detect it.',
+			'voiceSearch.unavailable' => 'Voice search needs PulseAudio or PipeWire tools (parecord or pw-record) on this device.',
+			'voiceSearch.notSet' => 'Not set',
 			_ => null,
 		};
 	}

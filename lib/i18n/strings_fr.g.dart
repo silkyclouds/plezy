@@ -91,6 +91,7 @@ class TranslationsFr extends Translations with BaseTranslations<AppLocale, Trans
 	@override late final _Translations$services$fr services = _Translations$services$fr._(_root);
 	@override late final _Translations$addServer$fr addServer = _Translations$addServer$fr._(_root);
 	@override late final _Translations$replay$fr replay = _Translations$replay$fr._(_root);
+	@override late final _Translations$voiceSearch$fr voiceSearch = _Translations$voiceSearch$fr._(_root);
 }
 
 // Path: app
@@ -2280,6 +2281,28 @@ class _Translations$replay$fr extends Translations$replay$en {
 	@override String get notAdded => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.';
 	@override String get add => 'Ajouter la télé de rattrapage';
 	@override String get needOne => 'Gardez au moins une chaîne activée.';
+}
+
+// Path: voiceSearch
+class _Translations$voiceSearch$fr extends Translations$voiceSearch$en {
+	_Translations$voiceSearch$fr._(TranslationsFr root) : this._root = root, super.internal(root);
+
+	final TranslationsFr _root; // ignore: unused_field
+
+	// Translations
+	@override String get title => 'Recherche vocale';
+	@override String get description => 'Chercher à la voix avec un serveur de transcription Whisper';
+	@override String get start => 'Chercher à la voix';
+	@override String get stop => 'Arrêter et chercher';
+	@override String get url => 'Serveur de transcription';
+	@override String get urlHint => 'http://192.168.1.10:8178';
+	@override String get urlDescription => 'Adresse d\'un serveur qui parle l\'API de transcription OpenAI (whisper.cpp, faster-whisper-server). Le bouton micro apparaît dans la recherche une fois renseignée.';
+	@override String get model => 'Nom du modèle';
+	@override String get modelDescription => 'Envoyé au serveur avec chaque enregistrement';
+	@override String get language => 'Langue parlée';
+	@override String get languageDescription => 'Code à deux lettres comme en ou fr. Vide : le serveur détecte la langue.';
+	@override String get unavailable => 'La recherche vocale demande les outils PulseAudio ou PipeWire (parecord ou pw-record) sur cet appareil.';
+	@override String get notSet => 'Non renseigné';
 }
 
 // Path: common.ratingSource
@@ -5070,6 +5093,21 @@ extension on TranslationsFr {
 			'replay.notAdded' => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.',
 			'replay.add' => 'Ajouter la télé de rattrapage',
 			'replay.needOne' => 'Gardez au moins une chaîne activée.',
+			'voiceSearch.title' => 'Recherche vocale',
+			'voiceSearch.description' => 'Chercher à la voix avec un serveur de transcription Whisper',
+			'voiceSearch.start' => 'Chercher à la voix',
+			'voiceSearch.stop' => 'Arrêter et chercher',
+			'voiceSearch.url' => 'Serveur de transcription',
+			'voiceSearch.urlHint' => 'http://192.168.1.10:8178',
+			'voiceSearch.urlDescription' => 'Adresse d\'un serveur qui parle l\'API de transcription OpenAI (whisper.cpp, faster-whisper-server). Le bouton micro apparaît dans la recherche une fois renseignée.',
+			_ => null,
+		} ?? switch (path) {
+			'voiceSearch.model' => 'Nom du modèle',
+			'voiceSearch.modelDescription' => 'Envoyé au serveur avec chaque enregistrement',
+			'voiceSearch.language' => 'Langue parlée',
+			'voiceSearch.languageDescription' => 'Code à deux lettres comme en ou fr. Vide : le serveur détecte la langue.',
+			'voiceSearch.unavailable' => 'La recherche vocale demande les outils PulseAudio ou PipeWire (parecord ou pw-record) sur cet appareil.',
+			'voiceSearch.notSet' => 'Non renseigné',
 			_ => null,
 		};
 	}

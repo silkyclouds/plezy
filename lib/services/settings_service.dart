@@ -656,6 +656,13 @@ class SettingsService extends BaseSharedPreferencesService {
   static const audioSyncOffset = IntPref('audio_sync_offset');
   static const subtitleSyncOffset = IntPref('subtitle_sync_offset');
   static const subtitleSearchLanguage = NullableStringPref('subtitle_search_language');
+
+  /// Address of a Whisper-compatible transcription server. Voice search stays hidden while it is empty.
+  static const voiceSearchUrl = StringPref('voice_search_url', defaultValue: '');
+  static const voiceSearchModel = StringPref('voice_search_model', defaultValue: 'whisper-1');
+
+  /// ISO 639-1 code spoken in searches; empty lets the server detect it.
+  static const voiceSearchLanguage = StringPref('voice_search_language', defaultValue: '');
   static const volume = DoublePref('volume', defaultValue: 100.0);
   static const rotationLocked = BoolPref('rotation_locked', defaultValue: true);
   static const subtitleFontSize = IntPref('subtitle_font_size', defaultValue: 38);
@@ -1574,6 +1581,9 @@ class SettingsService extends BaseSharedPreferencesService {
   /// prior versions didn't reset, so behavior stays identical for users.
   static final List<Pref<Object?>> _portableOnlyPrefs = [
     rewindOnResume,
+    voiceSearchUrl,
+    voiceSearchModel,
+    voiceSearchLanguage,
     tvFullCardLayout,
     focusGlow,
     useGlobalHubs,

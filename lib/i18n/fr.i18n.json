@@ -2567,5 +2567,20 @@
     "notAdded": "La télé de rattrapage n'est pas encore ajoutée à ce profil.",
     "add": "Ajouter la télé de rattrapage",
     "needOne": "Gardez au moins une chaîne activée."
+  },
+  "voiceSearch": {
+    "title": "Recherche vocale",
+    "description": "Chercher à la voix avec un serveur de transcription Whisper",
+    "start": "Chercher à la voix",
+    "stop": "Arrêter et chercher",
+    "url": "Serveur de transcription",
+    "urlHint": "http://192.168.1.10:8178",
+    "urlDescription": "Adresse d'un serveur qui parle l'API de transcription OpenAI (whisper.cpp, faster-whisper-server). Le bouton micro apparaît dans la recherche une fois renseignée.",
+    "model": "Nom du modèle",
+    "modelDescription": "Envoyé au serveur avec chaque enregistrement",
+    "language": "Langue parlée",
+    "languageDescription": "Code à deux lettres comme en ou fr. Vide : le serveur détecte la langue.",
+    "unavailable": "La recherche vocale demande les outils PulseAudio ou PipeWire (parecord ou pw-record) sur cet appareil.",
+    "notSet": "Non renseigné"
   }
 }

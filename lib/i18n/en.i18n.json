@@ -2567,5 +2567,20 @@
     "notAdded": "Catch-up TV is not added to this profile yet.",
     "add": "Add catch-up TV",
     "needOne": "Keep at least one broadcaster enabled."
+  },
+  "voiceSearch": {
+    "title": "Voice search",
+    "description": "Search by speaking, with a Whisper transcription server",
+    "start": "Search by voice",
+    "stop": "Stop and search",
+    "url": "Transcription server",
+    "urlHint": "http://192.168.1.10:8178",
+    "urlDescription": "Address of a server that speaks the OpenAI transcription API (whisper.cpp, faster-whisper-server). The microphone button appears in search once it is set.",
+    "model": "Model name",
+    "modelDescription": "Sent to the server with each recording",
+    "language": "Spoken language",
+    "languageDescription": "Two-letter code such as en or fr. Empty lets the server detect it.",
+    "unavailable": "Voice search needs PulseAudio or PipeWire tools (parecord or pw-record) on this device.",
+    "notSet": "Not set"
   }
 }
