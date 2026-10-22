@@ -1,0 +1,627 @@
+[
+ {
+  "id": 3354338,
+  "externalUid": "95433517",
+  "title": "odcinek 39 – Sampler",
+  "lead": "",
+  "rating": 0,
+  "type": "EPISODE",
+  "uhd": false,
+  "since": "2026-09-17T10:45:00+02:00",
+  "till": "2126-09-17T10:45:00+02:00",
+  "images": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/e/8/c/uid_e8c783a29f7e49b09d7d579fe8100795_width_315_play_0_pos_0_gs_0_height_177.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/e/8/c/uid_e8c783a29f7e49b09d7d579fe8100795_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+    }
+   ]
+  },
+  "mainCategory": {
+   "id": 24,
+   "name": "Dla dzieci",
+   "seoNameSingular": "Dla dzieci",
+   "slug": "dla-dzieci",
+   "type": "VOD"
+  },
+  "genres": [
+   {
+    "id": 348,
+    "key": "dladzieci",
+    "name": "dla dzieci"
+   }
+  ],
+  "displaySchedules": [
+   {
+    "since": "2026-09-17T10:45:00+02:00",
+    "till": "2126-09-10T10:45:00+02:00",
+    "type": "NORMAL"
+   },
+   {
+    "since": "2126-09-10T10:45:00+02:00",
+    "till": "2126-09-17T10:45:00+02:00",
+    "type": "LAST_BELL"
+   }
+  ],
+  "webUrl": "https://vod.tvp.pl/dla-dzieci,24/frycek--maly-chopin-odcinki,2451091/odcinek-44,S01E44,3354338",
+  "trailer": false,
+  "originalExternalUid": "95433517",
+  "showPlayerRecommendations": true,
+  "artworks": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/e/8/c/uid_e8c783a29f7e49b09d7d579fe8100795_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/e/8/c/uid_e8c783a29f7e49b09d7d579fe8100795_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+    }
+   ]
+  },
+  "payable": false,
+  "paymentSchedules": [],
+  "statisticsParameters": {
+   "gemiusVideo": {
+    "fullTitle": "Frycek – mały Chopin - Episode 44 - odcinek 39 – Sampler",
+    "episode": "Episode 44",
+    "season": "Season 1",
+    "typology": "Dla dzieci/dla dzieci"
+   }
+  },
+  "duration": 420,
+  "year": 2025,
+  "ratingEmbedded": false,
+  "hd": false,
+  "showRecommendations": true,
+  "loginRequired": false,
+  "audio": false,
+  "video": true,
+  "downloadAvailable": false,
+  "creditsTime": 400,
+  "szarpId": "AUD-5072042K",
+  "number": 44,
+  "season": {
+   "type_": "SEASON",
+   "id": 2451092,
+   "externalUid": "89569250",
+   "title": "Odcinki",
+   "type": "SEASON",
+   "number": 1,
+   "serial": {
+    "type_": "SERIAL",
+    "id": 2451091,
+    "externalUid": "89568886",
+    "title": "Frycek – mały Chopin",
+    "rating": 0,
+    "type": "SERIAL",
+    "uhd": false,
+    "since": "2025-10-21T19:49:00+02:00",
+    "till": "2050-12-31T23:59:00+01:00",
+    "mainCategory": {
+     "id": 24,
+     "name": "Dla dzieci",
+     "seoNameSingular": "Dla dzieci",
+     "slug": "dla-dzieci",
+     "type": "VOD"
+    },
+    "genres": [
+     {
+      "id": 861,
+      "key": "bajki-dla-najmlodszych",
+      "name": "bajki dla najmłodszych"
+     }
+    ],
+    "showPlayerRecommendations": true,
+    "year": 2025,
+    "ratingEmbedded": false,
+    "hd": false,
+    "showRecommendations": true,
+    "websiteId": "89568886",
+    "showSeasonNumber": false,
+    "showEpisodeNumber": false,
+    "sortType": "DESC",
+    "slug": "frycek--maly-chopin"
+   }
+  },
+  "slug": "odcinek-39--sampler"
+ },
+ {
+  "id": 3354352,
+  "externalUid": "95433501",
+  "title": "odcinek 38 – Gotowanie",
+  "lead": "",
+  "rating": 0,
+  "type": "EPISODE",
+  "uhd": false,
+  "since": "2026-09-17T10:45:00+02:00",
+  "till": "2126-09-17T10:45:00+02:00",
+  "images": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/d/c/f/uid_dcf5fc78b66344f4b48d72d64e2038c0_width_315_play_0_pos_0_gs_0_height_177.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/d/c/f/uid_dcf5fc78b66344f4b48d72d64e2038c0_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+    }
+   ]
+  },
+  "mainCategory": {
+   "id": 24,
+   "name": "Dla dzieci",
+   "seoNameSingular": "Dla dzieci",
+   "slug": "dla-dzieci",
+   "type": "VOD"
+  },
+  "genres": [
+   {
+    "id": 348,
+    "key": "dladzieci",
+    "name": "dla dzieci"
+   }
+  ],
+  "displaySchedules": [
+   {
+    "since": "2026-09-17T10:45:00+02:00",
+    "till": "2126-09-10T10:45:00+02:00",
+    "type": "NORMAL"
+   },
+   {
+    "since": "2126-09-10T10:45:00+02:00",
+    "till": "2126-09-17T10:45:00+02:00",
+    "type": "LAST_BELL"
+   }
+  ],
+  "webUrl": "https://vod.tvp.pl/dla-dzieci,24/frycek--maly-chopin-odcinki,2451091/odcinek-43,S01E43,3354352",
+  "trailer": false,
+  "originalExternalUid": "95433501",
+  "showPlayerRecommendations": true,
+  "artworks": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/d/c/f/uid_dcf5fc78b66344f4b48d72d64e2038c0_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/d/c/f/uid_dcf5fc78b66344f4b48d72d64e2038c0_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+    }
+   ]
+  },
+  "payable": false,
+  "paymentSchedules": [],
+  "statisticsParameters": {
+   "gemiusVideo": {
+    "fullTitle": "Frycek – mały Chopin - Episode 43 - odcinek 38 – Gotowanie",
+    "episode": "Episode 43",
+    "season": "Season 1",
+    "typology": "Dla dzieci/dla dzieci"
+   }
+  },
+  "duration": 420,
+  "year": 2025,
+  "ratingEmbedded": false,
+  "hd": false,
+  "showRecommendations": true,
+  "loginRequired": false,
+  "audio": false,
+  "video": true,
+  "downloadAvailable": false,
+  "creditsTime": 400,
+  "szarpId": "AUD-5072041R",
+  "number": 43,
+  "season": {
+   "type_": "SEASON",
+   "id": 2451092,
+   "externalUid": "89569250",
+   "title": "Odcinki",
+   "type": "SEASON",
+   "number": 1,
+   "serial": {
+    "type_": "SERIAL",
+    "id": 2451091,
+    "externalUid": "89568886",
+    "title": "Frycek – mały Chopin",
+    "rating": 0,
+    "type": "SERIAL",
+    "uhd": false,
+    "since": "2025-10-21T19:49:00+02:00",
+    "till": "2050-12-31T23:59:00+01:00",
+    "mainCategory": {
+     "id": 24,
+     "name": "Dla dzieci",
+     "seoNameSingular": "Dla dzieci",
+     "slug": "dla-dzieci",
+     "type": "VOD"
+    },
+    "genres": [
+     {
+      "id": 861,
+      "key": "bajki-dla-najmlodszych",
+      "name": "bajki dla najmłodszych"
+     }
+    ],
+    "showPlayerRecommendations": true,
+    "year": 2025,
+    "ratingEmbedded": false,
+    "hd": false,
+    "showRecommendations": true,
+    "websiteId": "89568886",
+    "showSeasonNumber": false,
+    "showEpisodeNumber": false,
+    "sortType": "DESC",
+    "slug": "frycek--maly-chopin"
+   }
+  },
+  "slug": "odcinek-38--gotowanie"
+ },
+ {
+  "id": 3250698,
+  "externalUid": "94727828",
+  "title": "odcinek 36 – Zegary",
+  "lead": "",
+  "rating": 0,
+  "type": "EPISODE",
+  "uhd": false,
+  "since": "2026-08-12T09:00:00+02:00",
+  "till": "2126-05-06T11:27:00+02:00",
+  "images": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/8/c/5/uid_8c5bbeabee7348ebac101d61ddf9a256_width_315_play_0_pos_0_gs_0_height_177.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/8/c/5/uid_8c5bbeabee7348ebac101d61ddf9a256_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+    }
+   ]
+  },
+  "mainCategory": {
+   "id": 24,
+   "name": "Dla dzieci",
+   "seoNameSingular": "Dla dzieci",
+   "slug": "dla-dzieci",
+   "type": "VOD"
+  },
+  "genres": [
+   {
+    "id": 348,
+    "key": "dladzieci",
+    "name": "dla dzieci"
+   }
+  ],
+  "displaySchedules": [
+   {
+    "since": "2026-08-12T09:00:00+02:00",
+    "till": "2126-04-29T11:27:00+02:00",
+    "type": "NORMAL"
+   },
+   {
+    "since": "2126-04-29T11:27:00+02:00",
+    "till": "2126-05-06T11:27:00+02:00",
+    "type": "LAST_BELL"
+   }
+  ],
+  "webUrl": "https://vod.tvp.pl/dla-dzieci,24/frycek--maly-chopin-odcinki,2451091/odcinek-42,S01E42,3250698",
+  "trailer": false,
+  "originalExternalUid": "94727828",
+  "showPlayerRecommendations": true,
+  "artworks": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/8/c/5/uid_8c5bbeabee7348ebac101d61ddf9a256_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/8/c/5/uid_8c5bbeabee7348ebac101d61ddf9a256_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+    }
+   ]
+  },
+  "payable": false,
+  "paymentSchedules": [],
+  "statisticsParameters": {
+   "gemiusVideo": {
+    "fullTitle": "Frycek – mały Chopin - Episode 42 - odcinek 36 – Zegary",
+    "episode": "Episode 42",
+    "season": "Season 1",
+    "typology": "Dla dzieci/dla dzieci"
+   }
+  },
+  "duration": 420,
+  "year": 2025,
+  "ratingEmbedded": false,
+  "hd": false,
+  "showRecommendations": true,
+  "loginRequired": false,
+  "audio": false,
+  "video": true,
+  "downloadAvailable": false,
+  "creditsTime": 400,
+  "szarpId": "AUD-5072033X",
+  "number": 42,
+  "season": {
+   "type_": "SEASON",
+   "id": 2451092,
+   "externalUid": "89569250",
+   "title": "Odcinki",
+   "type": "SEASON",
+   "number": 1,
+   "serial": {
+    "type_": "SERIAL",
+    "id": 2451091,
+    "externalUid": "89568886",
+    "title": "Frycek – mały Chopin",
+    "rating": 0,
+    "type": "SERIAL",
+    "uhd": false,
+    "since": "2025-10-21T19:49:00+02:00",
+    "till": "2050-12-31T23:59:00+01:00",
+    "mainCategory": {
+     "id": 24,
+     "name": "Dla dzieci",
+     "seoNameSingular": "Dla dzieci",
+     "slug": "dla-dzieci",
+     "type": "VOD"
+    },
+    "genres": [
+     {
+      "id": 861,
+      "key": "bajki-dla-najmlodszych",
+      "name": "bajki dla najmłodszych"
+     }
+    ],
+    "showPlayerRecommendations": true,
+    "year": 2025,
+    "ratingEmbedded": false,
+    "hd": false,
+    "showRecommendations": true,
+    "websiteId": "89568886",
+    "showSeasonNumber": false,
+    "showEpisodeNumber": false,
+    "sortType": "DESC",
+    "slug": "frycek--maly-chopin"
+   }
+  },
+  "slug": "odcinek-36--zegary"
+ },
+ {
+  "id": 3250679,
+  "externalUid": "94727793",
+  "title": "odcinek 35 – Fryckorobic",
+  "lead": "",
+  "rating": 0,
+  "type": "EPISODE",
+  "uhd": false,
+  "since": "2026-08-12T09:00:00+02:00",
+  "till": "2126-05-06T11:27:00+02:00",
+  "images": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/2/6/e/uid_26e445eb601641d5bf20b106acf52de8_width_315_play_0_pos_0_gs_0_height_177.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/2/6/e/uid_26e445eb601641d5bf20b106acf52de8_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+    }
+   ]
+  },
+  "mainCategory": {
+   "id": 24,
+   "name": "Dla dzieci",
+   "seoNameSingular": "Dla dzieci",
+   "slug": "dla-dzieci",
+   "type": "VOD"
+  },
+  "genres": [
+   {
+    "id": 348,
+    "key": "dladzieci",
+    "name": "dla dzieci"
+   }
+  ],
+  "displaySchedules": [
+   {
+    "since": "2026-08-12T09:00:00+02:00",
+    "till": "2126-04-29T11:27:00+02:00",
+    "type": "NORMAL"
+   },
+   {
+    "since": "2126-04-29T11:27:00+02:00",
+    "till": "2126-05-06T11:27:00+02:00",
+    "type": "LAST_BELL"
+   }
+  ],
+  "webUrl": "https://vod.tvp.pl/dla-dzieci,24/frycek--maly-chopin-odcinki,2451091/odcinek-40,S01E40,3250679",
+  "trailer": false,
+  "originalExternalUid": "94727793",
+  "showPlayerRecommendations": true,
+  "artworks": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/2/6/e/uid_26e445eb601641d5bf20b106acf52de8_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/2/6/e/uid_26e445eb601641d5bf20b106acf52de8_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+    }
+   ]
+  },
+  "payable": false,
+  "paymentSchedules": [],
+  "statisticsParameters": {
+   "gemiusVideo": {
+    "fullTitle": "Frycek – mały Chopin - Episode 40 - odcinek 35 – Fryckorobic",
+    "episode": "Episode 40",
+    "season": "Season 1",
+    "typology": "Dla dzieci/dla dzieci"
+   }
+  },
+  "duration": 420,
+  "year": 2025,
+  "ratingEmbedded": false,
+  "hd": false,
+  "showRecommendations": true,
+  "loginRequired": false,
+  "audio": false,
+  "video": true,
+  "downloadAvailable": false,
+  "creditsTime": 400,
+  "szarpId": "AUD-5072033X",
+  "number": 40,
+  "season": {
+   "type_": "SEASON",
+   "id": 2451092,
+   "externalUid": "89569250",
+   "title": "Odcinki",
+   "type": "SEASON",
+   "number": 1,
+   "serial": {
+    "type_": "SERIAL",
+    "id": 2451091,
+    "externalUid": "89568886",
+    "title": "Frycek – mały Chopin",
+    "rating": 0,
+    "type": "SERIAL",
+    "uhd": false,
+    "since": "2025-10-21T19:49:00+02:00",
+    "till": "2050-12-31T23:59:00+01:00",
+    "mainCategory": {
+     "id": 24,
+     "name": "Dla dzieci",
+     "seoNameSingular": "Dla dzieci",
+     "slug": "dla-dzieci",
+     "type": "VOD"
+    },
+    "genres": [
+     {
+      "id": 861,
+      "key": "bajki-dla-najmlodszych",
+      "name": "bajki dla najmłodszych"
+     }
+    ],
+    "showPlayerRecommendations": true,
+    "year": 2025,
+    "ratingEmbedded": false,
+    "hd": false,
+    "showRecommendations": true,
+    "websiteId": "89568886",
+    "showSeasonNumber": false,
+    "showEpisodeNumber": false,
+    "sortType": "DESC",
+    "slug": "frycek--maly-chopin"
+   }
+  },
+  "slug": "odcinek-35--fryckorobic"
+ },
+ {
+  "id": 3354364,
+  "externalUid": "94727827",
+  "title": "odcinek 34 – Beatbox",
+  "lead": "",
+  "rating": 0,
+  "type": "EPISODE",
+  "uhd": false,
+  "since": "2026-05-06T16:00:00+02:00",
+  "till": "2126-05-06T11:27:00+02:00",
+  "images": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/0/2/e/uid_02e6abe5276c40e884a45dd11add11eb_width_315_play_0_pos_0_gs_0_height_177.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/0/2/e/uid_02e6abe5276c40e884a45dd11add11eb_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+    }
+   ]
+  },
+  "mainCategory": {
+   "id": 24,
+   "name": "Dla dzieci",
+   "seoNameSingular": "Dla dzieci",
+   "slug": "dla-dzieci",
+   "type": "VOD"
+  },
+  "genres": [
+   {
+    "id": 348,
+    "key": "dladzieci",
+    "name": "dla dzieci"
+   }
+  ],
+  "displaySchedules": [
+   {
+    "since": "2026-05-06T16:00:00+02:00",
+    "till": "2126-04-29T11:27:00+02:00",
+    "type": "NORMAL"
+   },
+   {
+    "since": "2126-04-29T11:27:00+02:00",
+    "till": "2126-05-06T11:27:00+02:00",
+    "type": "LAST_BELL"
+   }
+  ],
+  "webUrl": "https://vod.tvp.pl/dla-dzieci,24/frycek--maly-chopin-odcinki,2451091/odcinek-39,S01E39,3354364",
+  "trailer": false,
+  "originalExternalUid": "94727827",
+  "showPlayerRecommendations": true,
+  "artworks": {
+   "16x9": [
+    {
+     "url": "//s.tvp.pl/images/0/2/e/uid_02e6abe5276c40e884a45dd11add11eb_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+     "source": "",
+     "templateUrl": "//s.tvp.pl/images/0/2/e/uid_02e6abe5276c40e884a45dd11add11eb_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+    }
+   ]
+  },
+  "payable": false,
+  "paymentSchedules": [],
+  "statisticsParameters": {
+   "gemiusVideo": {
+    "fullTitle": "Frycek – mały Chopin - Episode 39 - odcinek 34 – Beatbox",
+    "episode": "Episode 39",
+    "season": "Season 1",
+    "typology": "Dla dzieci/dla dzieci"
+   }
+  },
+  "duration": 420,
+  "year": 2025,
+  "ratingEmbedded": false,
+  "hd": false,
+  "showRecommendations": true,
+  "loginRequired": false,
+  "audio": false,
+  "video": true,
+  "downloadAvailable": false,
+  "creditsTime": 400,
+  "szarpId": "AUD-5072033X",
+  "number": 39,
+  "season": {
+   "type_": "SEASON",
+   "id": 2451092,
+   "externalUid": "89569250",
+   "title": "Odcinki",
+   "type": "SEASON",
+   "number": 1,
+   "serial": {
+    "type_": "SERIAL",
+    "id": 2451091,
+    "externalUid": "89568886",
+    "title": "Frycek – mały Chopin",
+    "rating": 0,
+    "type": "SERIAL",
+    "uhd": false,
+    "since": "2025-10-21T19:49:00+02:00",
+    "till": "2050-12-31T23:59:00+01:00",
+    "mainCategory": {
+     "id": 24,
+     "name": "Dla dzieci",
+     "seoNameSingular": "Dla dzieci",
+     "slug": "dla-dzieci",
+     "type": "VOD"
+    },
+    "genres": [
+     {
+      "id": 861,
+      "key": "bajki-dla-najmlodszych",
+      "name": "bajki dla najmłodszych"
+     }
+    ],
+    "showPlayerRecommendations": true,
+    "year": 2025,
+    "ratingEmbedded": false,
+    "hd": false,
+    "showRecommendations": true,
+    "websiteId": "89568886",
+    "showSeasonNumber": false,
+    "showEpisodeNumber": false,
+    "sortType": "DESC",
+    "slug": "frycek--maly-chopin"
+   }
+  },
+  "slug": "odcinek-34--beatbox"
+ }
+]

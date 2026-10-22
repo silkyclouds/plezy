@@ -1,0 +1,32 @@
+{
+ "sources": {
+  "HLS": [
+   {
+    "src": "https://sdt-l3-05-205.tvp.pl/token/video/vod/62268572/20261022/1834567457/kWk_WND-iD9QQmOFKGxP3CyLZjBUovOmXKEbacjixcZ-UvZZd77EsOYwq1l1wsKmWfuIWx3SFB6VYH0dQVBrvgdX2_-wqhRLFp4B5ON9aAe5D3S6mD4Ybr8UdEwAH5kkKyB9Npbx48co6ioEYMx5sZseTDJ4btHNis5911UFmLM/video.ism/video.m3u8"
+   }
+  ],
+  "DASH": [
+   {
+    "src": "https://sdt-l3-05-205.tvp.pl/token/video/vod/62268572/20261022/1834567457/kWk_WND-iD9QQmOFKGxP3CyLZjBUovOmXKEbacjixcZ-UvZZd77EsOYwq1l1wsKmWfuIWx3SFB6VYH0dQVBrvgdX2_-wqhRLFp4B5ON9aAe5D3S6mD4Ybr8UdEwAH5kkKyB9Npbx48co6ioEYMx5sZseTDJ4btHNis5911UFmLM/video.ism/video.mpd"
+   }
+  ]
+ },
+ "subtitles": [
+  {
+   "url": "https://s.tvp.pl/repository/attachment/f/8/b/f8bc272dc1c9a673e13423b0b9702ab41600076414814.xml",
+   "language": "POLISH_DLA_NIESLYSZACYCH",
+   "isoCode": "POL"
+  }
+ ],
+ "stripe": {
+  "id": 103740,
+  "url": "https://klatki.tvp.pl/rbig62268572/stripe_{index}.jpg",
+  "interval": 2,
+  "count": 8,
+  "width": 640,
+  "height": 360
+ },
+ "externalVideo": {
+  "externalUid": "62268572"
+ }
+}

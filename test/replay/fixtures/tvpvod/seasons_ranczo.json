@@ -1,0 +1,32 @@
+[
+ {
+  "id": 381045,
+  "externalUid": "62266808",
+  "title": "Sezon 1",
+  "type": "SEASON",
+  "payable": false,
+  "paymentSchedules": [],
+  "number": 1,
+  "display": "1 - 13"
+ },
+ {
+  "id": 381149,
+  "externalUid": "62296062",
+  "title": "Sezon 2",
+  "type": "SEASON",
+  "payable": false,
+  "paymentSchedules": [],
+  "number": 2,
+  "display": "14 - 26"
+ },
+ {
+  "id": 381066,
+  "externalUid": "62296064",
+  "title": "Sezon 3",
+  "type": "SEASON",
+  "payable": false,
+  "paymentSchedules": [],
+  "number": 3,
+  "display": "27 - 39"
+ }
+]

@@ -12,5 +12,8 @@ String arteImageUrl(String template, {int? width, int? height}) {
   final sizes = portrait ? _portrait : _landscape;
   final wanted = width ?? 720;
   final size = sizes.firstWhere((s) => s.$1 >= wanted, orElse: () => sizes.last);
-  return template.replaceAll('__SIZE__', '${size.$1}x${size.$2}');
+  // A show's title graphic is white lettering on transparency: without a .png extension the resizer flattens it to
+  // white on white.
+  final extension = template.contains('imageType=graphical_title') ? '.png' : '';
+  return template.replaceAll('__SIZE__', '${size.$1}x${size.$2}$extension');
 }

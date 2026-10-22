@@ -1,0 +1,801 @@
+[
+ {
+  "id": 372731,
+  "title": "DRIVER BROWSER",
+  "type": "SECTION",
+  "layout": "BANNER",
+  "contentType": "STATIC",
+  "tilesAspect": "16x9",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35367620,
+    "since": "2026-10-20T19:00:00+02:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 3374432,
+     "title": "SOR",
+     "lead": "„SOR” to serial medyczny, który zabiera widzów w sam środek dynamicznego i nieprzewidywalnego Szpitalnego Oddziału Ratunkowego.",
+     "rating": 16,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/seriale,18/sor-odcinki,3374432",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "year": 2026
+    }
+   },
+   {
+    "id": 35349659,
+    "since": "2026-09-17T09:00:00+02:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 3089584,
+     "title": "Słoneczna. Poza ciszą",
+     "lead": "„Słoneczna. Poza ciszą” to serial TVP VOD Original. Psychoterapeutka Lena Majewska trafia z narzeczonym do jego rodzinnej miejscowości. Czy otwarcie poradni psychologicznej w takim miejscu to jednak dobry pomysł?",
+     "rating": 16,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/seriale,18/sloneczna-poza-cisza-odcinki,3089584",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "alt": "z169",
+        "templateUrl": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/0/4/9/uid_0492a19e96b74f3ebcfd4e6dfcc54e96_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "3x4",
+        "templateUrl": "//s.tvp.pl/images/0/4/9/uid_0492a19e96b74f3ebcfd4e6dfcc54e96_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "year": 2026
+    }
+   }
+  ]
+ },
+ {
+  "id": 507312,
+  "title": "KANAŁY TV",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "16x9",
+  "tilesSize": "M",
+  "webUrl": "https://vod.tvp.pl/na-zywo",
+  "elements": [
+   {
+    "id": 35193980,
+    "since": "2023-06-01T00:00:00+02:00",
+    "item": {
+     "type": "LIVE",
+     "id": 399699,
+     "title": "TVP INFO",
+     "lead": "",
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/live,1/tvp-info,399699",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/2/1/a/uid_21a7bcdcc30c449f898220839177c884_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "https://s.tvp.pl/images/images/2/1/a/uid_21a7bcdcc30c449f898220839177c884_width_1920_play_0_pos_0_gs_0_height_1080.png?objectId=82582838&filename=21a7bcdcc30c449f898220839177c884.png&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/2/1/a/uid_21a7bcdcc30c449f898220839177c884_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 1,
+      "name": "Telewizja na żywo",
+      "seoNameSingular": "Telewizja na żywo",
+      "slug": "live",
+      "type": "LIVE"
+     }
+    }
+   },
+   {
+    "id": 35193978,
+    "since": "2023-06-01T00:00:00+02:00",
+    "item": {
+     "type": "LIVE",
+     "id": 399697,
+     "title": "TVP 1",
+     "lead": "",
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/live,1/tvp-1,399697",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "https://s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_1920_play_0_pos_0_gs_0_height_1080.png?objectId=73184559&filename=a89e60e8041e4e4bb367c0e091759d69.png&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/a/8/9/uid_a89e60e8041e4e4bb367c0e091759d69_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/8/b/4/uid_8b4619990d4e4455a76db7d4a499ac87_width_560_play_0_pos_0_gs_0_height_746.png",
+        "source": "https://s.tvp.pl/images/images/8/b/4/uid_8b4619990d4e4455a76db7d4a499ac87_width_1444_play_0_pos_0_gs_0_height_1920.png?objectId=74468167&filename=8b4619990d4e4455a76db7d4a499ac87.png&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/8/b/4/uid_8b4619990d4e4455a76db7d4a499ac87_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.png"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 1,
+      "name": "Telewizja na żywo",
+      "seoNameSingular": "Telewizja na żywo",
+      "slug": "live",
+      "type": "LIVE"
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 372795,
+  "title": "PREMIERY",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35365450,
+    "since": "2026-10-16T00:00:00+02:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 3374432,
+     "title": "SOR",
+     "lead": "„SOR” to serial medyczny, który zabiera widzów w sam środek dynamicznego i nieprzewidywalnego Szpitalnego Oddziału Ratunkowego.",
+     "rating": 16,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/seriale,18/sor-odcinki,3374432",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "year": 2026
+    }
+   },
+   {
+    "id": 35367592,
+    "since": "2026-10-20T23:00:00+02:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 3452219,
+     "title": "Wielki Test z „Poradnika Bezpieczeństwa”",
+     "lead": "Telewizja Polska zaprasza na Wielki Test, który z udziałem gwiazd przybliża rządowy „Poradnik bezpieczeństwa”.",
+     "rating": 12,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/programy,88/wielki-test-z-poradnika-bezpieczenstwa-odcinki,3452219",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/8/2/9/uid_82904d7133684e77b57174ebb38d231a_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "alt": "z16",
+        "templateUrl": "//s.tvp.pl/images/8/2/9/uid_82904d7133684e77b57174ebb38d231a_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/c/a/8/uid_ca8ca1709cca4ebfa216ce1f4cb6a119_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "34",
+        "templateUrl": "//s.tvp.pl/images/c/a/8/uid_ca8ca1709cca4ebfa216ce1f4cb6a119_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 88,
+      "name": "programy",
+      "seoNameSingular": "Programy",
+      "slug": "programy",
+      "type": "VOD"
+     },
+     "year": 2026
+    }
+   }
+  ]
+ },
+ {
+  "id": 372735,
+  "title": "TOP 10",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35231362,
+    "since": "2025-02-17T00:00:00+01:00",
+    "item": {
+     "type": "BANNER",
+     "id": 1914032,
+     "title": "TOP 1 - Rodzinka.pl",
+     "webUrl": "https://vod.tvp.pl/seriale,18/rodzinkapl-odcinki,274700",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/3/c/0/uid_3c0904fa9b3f44909e25f77decd8d5a9_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/3/c/0/uid_3c0904fa9b3f44909e25f77decd8d5a9_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/2/d/8/uid_2d8ec5d7edfc438abed584ad2edf5538_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/2/d/8/uid_2d8ec5d7edfc438abed584ad2edf5538_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95759404&filename=2d8ec5d7edfc438abed584ad2edf5538.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/2/d/8/uid_2d8ec5d7edfc438abed584ad2edf5538_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35231359,
+    "since": "2025-02-17T00:00:00+01:00",
+    "item": {
+     "type": "BANNER",
+     "id": 1914029,
+     "title": "TOP 2 - Felicita",
+     "webUrl": "https://vod.tvp.pl/seriale,18/felicita-odcinki,3253433",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/4/8/c/uid_48cc637cd5fa425f9a9d3af22f398763_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/4/8/c/uid_48cc637cd5fa425f9a9d3af22f398763_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/2/8/e/uid_28e6088e849841729ec4aaa53b5c40a2_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "templateUrl": "//s.tvp.pl/images/2/8/e/uid_28e6088e849841729ec4aaa53b5c40a2_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 3349208,
+  "title": "PREMIERA TVP VOD",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35349650,
+    "since": "2026-09-16T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3349242,
+     "title": "Słoneczna. Poza ciszą w TVP VOD (część 1 z 6) – Przejdź do strony serialu",
+     "webUrl": "https://vod.tvp.pl/seriale,18/sloneczna-poza-cisza-odcinki,3089584",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/b/6/e/uid_b6e3a9eef3bb44468ba93e26febd7f98_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/b/6/e/uid_b6e3a9eef3bb44468ba93e26febd7f98_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95417955&filename=b6e3a9eef3bb44468ba93e26febd7f98.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/b/6/e/uid_b6e3a9eef3bb44468ba93e26febd7f98_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35349649,
+    "since": "2026-09-16T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3349243,
+     "title": "Słoneczna. Poza ciszą (część 2 z 6) – Poruszający dramat obyczajowy pełen emocji",
+     "webUrl": "https://vod.tvp.pl/seriale,18/sloneczna-poza-cisza-odcinki,3089584",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/9/3/5/uid_9351a52e9a0341c4b7900a0dae944448_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/9/3/5/uid_9351a52e9a0341c4b7900a0dae944448_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95418021&filename=9351a52e9a0341c4b7900a0dae944448.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/9/3/5/uid_9351a52e9a0341c4b7900a0dae944448_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 2924393,
+  "title": "TYLKO W TVP VOD",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35334287,
+    "since": "2026-08-17T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 2924382,
+     "title": "COMA RE:START w TVP VOD (część 1 z 6) – Przejdź do transmisji koncertu",
+     "webUrl": "https://vod.tvp.pl/programy,88/coma-re-start-odcinki,3345053",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/f/b/uid_bfb7d829bafd46bf81b1479d5b93782b_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/b/f/b/uid_bfb7d829bafd46bf81b1479d5b93782b_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/c/e/3/uid_ce35daa6b422463da54821647bf6076f_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/c/e/3/uid_ce35daa6b422463da54821647bf6076f_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95843934&filename=ce35daa6b422463da54821647bf6076f.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/c/e/3/uid_ce35daa6b422463da54821647bf6076f_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35334288,
+    "since": "2026-08-17T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 2924383,
+     "title": "COMA RE:START (część 2 z 6) – Wielki powrót legendarnego zespołu na scenę",
+     "webUrl": "https://vod.tvp.pl/programy,88/coma-re-start-odcinki,3345053",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/f/b/uid_bfb7d829bafd46bf81b1479d5b93782b_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "templateUrl": "//s.tvp.pl/images/b/f/b/uid_bfb7d829bafd46bf81b1479d5b93782b_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/a/3/2/uid_a326b65667a447bfaa9f543e96c6a444_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/a/3/2/uid_a326b65667a447bfaa9f543e96c6a444_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95843955&filename=a326b65667a447bfaa9f543e96c6a444.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/a/3/2/uid_a326b65667a447bfaa9f543e96c6a444_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 3324718,
+  "title": "PRZEDŁUŻAMY WAKACJE",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35344964,
+    "since": "2026-09-07T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3315495,
+     "title": "Felicità w TVP VOD (część 1 z 6) – Przejdź do strony serialu",
+     "webUrl": "https://vod.tvp.pl/seriale,18/felicita-odcinki,3253433",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/d/5/5/uid_d5596191b64e492c9e38919c3a8e5814_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/d/5/5/uid_d5596191b64e492c9e38919c3a8e5814_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=95216715&filename=d5596191b64e492c9e38919c3a8e5814.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/d/5/5/uid_d5596191b64e492c9e38919c3a8e5814_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/d/b/4/uid_db43509a62e241ffbad3f0508f020ee6_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/d/b/4/uid_db43509a62e241ffbad3f0508f020ee6_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95299726&filename=db43509a62e241ffbad3f0508f020ee6.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/d/b/4/uid_db43509a62e241ffbad3f0508f020ee6_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35344965,
+    "since": "2026-09-07T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3315496,
+     "title": "Felicità (część 2 z 6) – Polsko-włoski komediodramat w słonecznej scenerii Apulii",
+     "webUrl": "https://vod.tvp.pl/seriale,18/felicita-odcinki,3253433",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/5/8/0/uid_580e0c7088df43a5be22717cf7ba20db_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/5/8/0/uid_580e0c7088df43a5be22717cf7ba20db_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=95216800&filename=580e0c7088df43a5be22717cf7ba20db.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/5/8/0/uid_580e0c7088df43a5be22717cf7ba20db_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/7/b/8/uid_7b840633a96847a28197e1225c6f5983_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/7/b/8/uid_7b840633a96847a28197e1225c6f5983_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95299727&filename=7b840633a96847a28197e1225c6f5983.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/7/b/8/uid_7b840633a96847a28197e1225c6f5983_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 3336457,
+  "title": "POWERED BY ORANGE",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35346968,
+    "since": "2026-09-11T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3336459,
+     "title": "Voice Comeback Stage w TVP VOD (część 1 z 6) – Przejdź do strony programu",
+     "webUrl": "https://vod.tvp.pl/programy,88/the-voice-comeback-stage-powered-by-orange-odcinki,2306497",
+     "images": {
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/b/c/1/uid_bc12bdf4f484446e91bce23df9347943_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/b/c/1/uid_bc12bdf4f484446e91bce23df9347943_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95336852&filename=bc12bdf4f484446e91bce23df9347943.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/b/c/1/uid_bc12bdf4f484446e91bce23df9347943_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35346969,
+    "since": "2026-09-11T00:00:00+02:00",
+    "item": {
+     "type": "BANNER",
+     "id": 3336460,
+     "title": "Voice Comeback Stage (część 2 z 6) – Druga szansa dla wyeliminowanych uczestników The Voice",
+     "webUrl": "https://vod.tvp.pl/programy,88/the-voice-comeback-stage-powered-by-orange-odcinki,2306497",
+     "images": {
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/8/f/7/uid_8f7ec0b1e7114ddc9e14a7da00fd3c37_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/8/f/7/uid_8f7ec0b1e7114ddc9e14a7da00fd3c37_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95336853&filename=8f7ec0b1e7114ddc9e14a7da00fd3c37.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/8/f/7/uid_8f7ec0b1e7114ddc9e14a7da00fd3c37_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 2347292,
+  "title": "NOWY SEZON",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35261639,
+    "since": "2026-02-11T00:00:00+01:00",
+    "item": {
+     "type": "BANNER",
+     "id": 2549619,
+     "title": "Gra z Cieniem w TVP VOD (część 1 z 6) – Przejdź do strony serialu",
+     "webUrl": "https://vod.tvp.pl/seriale,18/gra-z-cieniem-odcinki,1544859",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/0/7/9/uid_0791edbee067418e8c7ce822837d2c58_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/0/7/9/uid_0791edbee067418e8c7ce822837d2c58_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=95248751&filename=0791edbee067418e8c7ce822837d2c58.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/0/7/9/uid_0791edbee067418e8c7ce822837d2c58_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/c/a/9/uid_ca947b1131034fc5b5bba4049f5d62a5_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/c/a/9/uid_ca947b1131034fc5b5bba4049f5d62a5_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95248769&filename=ca947b1131034fc5b5bba4049f5d62a5.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/c/a/9/uid_ca947b1131034fc5b5bba4049f5d62a5_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": 35261640,
+    "since": "2026-02-11T00:00:00+01:00",
+    "item": {
+     "type": "BANNER",
+     "id": 2549620,
+     "title": "Gra z Cieniem (część 2 z 6) – Mroczny serial kryminalno-szpiegowski w realiach lat 50.",
+     "webUrl": "https://vod.tvp.pl/seriale,18/gra-z-cieniem-odcinki,1544859",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/1/5/9/uid_159691a0e73a491db2395b6d59f62797_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/1/5/9/uid_159691a0e73a491db2395b6d59f62797_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=95248752&filename=159691a0e73a491db2395b6d59f62797.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/1/5/9/uid_159691a0e73a491db2395b6d59f62797_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/9/8/d/uid_98d91f3f10be4e5eb5c8c045a5c90a2c_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/9/8/d/uid_98d91f3f10be4e5eb5c8c045a5c90a2c_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=95248784&filename=98d91f3f10be4e5eb5c8c045a5c90a2c.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/9/8/d/uid_98d91f3f10be4e5eb5c8c045a5c90a2c_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": 372712,
+  "title": "KONTYNUUJ OGLĄDANIE",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "SUBSCRIBER_WATCHED",
+  "tilesAspect": "16x9",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": []
+ },
+ {
+  "id": 1787404,
+  "title": "W PAKIECIE I Wcześniej niż w TV",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35232200,
+    "since": "2025-02-27T00:00:00+01:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 273595,
+     "title": "Barwy szczęścia",
+     "lead": "Uwielbiany przez widzów, przebojowy serial TVP. Nadawany jest nieprzerwanie od  2007 roku.",
+     "rating": 12,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/seriale,18/barwy-szczescia-odcinki,273595",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/e/c/1/uid_ec1d703deacf466692ef2e154e0cc9a2_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/e/c/1/uid_ec1d703deacf466692ef2e154e0cc9a2_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/1/d/2/uid_1d2cf469a6074b79849cb9389264252a_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/1/d/2/uid_1d2cf469a6074b79849cb9389264252a_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "year": 2012
+    }
+   },
+   {
+    "id": 35344848,
+    "since": "2026-09-07T00:00:00+02:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 277715,
+     "title": "Na sygnale",
+     "lead": "Cieszący się niesłabnącą popularnością serial o pracy ratowników medycznych. Zobacz nowe odcinki przed premierą!",
+     "rating": 12,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/seriale,18/na-sygnale-odcinki,277715",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/e/6/4/uid_e64045a855c146638698d9812dbfdccc_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/e/6/4/uid_e64045a855c146638698d9812dbfdccc_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/b/a/e/uid_baef9d0453e3439fac281598fc0cd7e5_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/b/a/e/uid_baef9d0453e3439fac281598fc0cd7e5_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "year": 2014
+    }
+   }
+  ]
+ },
+ {
+  "id": 380668,
+  "title": "ZA DARMO | Hity wszech czasów",
+  "type": "SECTION",
+  "layout": "ONE_LINE",
+  "contentType": "STATIC",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "webUrl": "",
+  "elements": [
+   {
+    "id": 35253949,
+    "since": "2025-12-04T00:00:00+01:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 286741,
+     "title": "Lalka",
+     "lead": "Zrekonstruowana cyfrowo wersja serialu nakręconego na podstawie powieści Bolesława Prusa o tym samym tytule.",
+     "rating": 12,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/rekonstrukcja-filmowa,158/lalka-odcinki,286741",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/6/0/c/uid_60cbe1d001bf4fc0ad7b065f1439daa5_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/6/0/c/uid_60cbe1d001bf4fc0ad7b065f1439daa5_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/7/5/d/uid_75d10e8d973b44ebb65ce1374a945252_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "3x4",
+        "templateUrl": "//s.tvp.pl/images/7/5/d/uid_75d10e8d973b44ebb65ce1374a945252_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 158,
+      "name": "rekonstrukcja filmowa",
+      "seoNameSingular": "rekonstrukcja filmowa",
+      "slug": "rekonstrukcja-filmowa",
+      "type": "VOD"
+     },
+     "year": 1977
+    }
+   },
+   {
+    "id": 35253954,
+    "since": "2025-12-04T00:00:00+01:00",
+    "item": {
+     "type": "SERIAL",
+     "id": 314296,
+     "title": "Daleko od szosy",
+     "lead": "Historia awansu społecznego i ceny, jaką trzeba za niego zapłacić. Świetny obraz Polski lat 70.",
+     "rating": 12,
+     "payable": false,
+     "webUrl": "https://vod.tvp.pl/rekonstrukcja-filmowa,158/daleko-od-szosy-odcinki,314296",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/7/2/4/uid_724ff354bd32c87ad5268d02872b6d6d1495520458559_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/7/2/4/uid_724ff354bd32c87ad5268d02872b6d6d1495520458559_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/f/6/7/uid_f67cba0da9ac41cfacecac55e46c4e33_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "43",
+        "templateUrl": "//s.tvp.pl/images/f/6/7/uid_f67cba0da9ac41cfacecac55e46c4e33_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 158,
+      "name": "rekonstrukcja filmowa",
+      "seoNameSingular": "rekonstrukcja filmowa",
+      "slug": "rekonstrukcja-filmowa",
+      "type": "VOD"
+     },
+     "year": 1976
+    }
+   }
+  ]
+ }
+]

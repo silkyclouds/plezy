@@ -1,0 +1,631 @@
+[
+ {
+  "id": 272506,
+  "title": "DRIVER",
+  "type": "SECTION",
+  "images": {},
+  "webUrl": "https://vod.tvp.pl/kolekcje/driver,272506",
+  "artworks": {},
+  "contentType": "STATIC",
+  "layout": "BANNER",
+  "tilesAspect": "16x9",
+  "tilesSize": "M",
+  "elements": [
+   {
+    "id": 35349663,
+    "since": "2026-09-17T09:00:00+02:00",
+    "item": {
+     "type_": "SERIAL",
+     "id": 3089584,
+     "externalUid": "93899814",
+     "title": "Słoneczna. Poza ciszą",
+     "lead": "„Słoneczna. Poza ciszą” to serial TVP VOD Original. Psychoterapeutka Lena Majewska trafia z narzeczonym do jego rodzinnej miejscowości. Czy otwarcie poradni psychologicznej w takim miejscu to jednak dobry pomysł?",
+     "rating": 16,
+     "type": "SERIAL",
+     "uhd": false,
+     "displayActive": true,
+     "since": "2026-06-19T13:44:00+02:00",
+     "till": "2126-06-19T13:42:00+02:00",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "alt": "z169",
+        "templateUrl": "//s.tvp.pl/images/b/4/b/uid_b4be5d2f2694481a82e0f243afda4793_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/0/4/9/uid_0492a19e96b74f3ebcfd4e6dfcc54e96_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "3x4",
+        "templateUrl": "//s.tvp.pl/images/0/4/9/uid_0492a19e96b74f3ebcfd4e6dfcc54e96_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "genres": [
+      {
+       "id": 892,
+       "key": "obyczajowe",
+       "name": "obyczajowe"
+      }
+     ],
+     "displaySchedules": [
+      {
+       "since": "2026-06-19T13:44:00+02:00",
+       "till": "2126-06-19T13:42:00+02:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/seriale,18/sloneczna-poza-cisza-odcinki,3089584",
+     "trailer": true,
+     "customBadge": {
+      "id": 2130,
+      "key": "nowe-odcinki",
+      "name": "NOWE ODCINKI"
+     },
+     "titleImages": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/f/4/5/uid_f450aa553ecf4d83aed8e9de76ae2834_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "",
+        "alt": "logo",
+        "templateUrl": "//s.tvp.pl/images/f/4/5/uid_f450aa553ecf4d83aed8e9de76ae2834_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ]
+     },
+     "synchronizationDisabled": false,
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/b/a/1/uid_ba1be389b85c42a9987755b250dc93ff_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+        "source": "",
+        "alt": "Na okładce serialu „Słoneczna. Poza ciszą” na pierwszym planie znajduje się Barbara Liberek – młoda kobieta z długimi, falowanymi włosami i czarną chustą zawiązaną na szyi. Za nią stoi grupa pięciorga bohaterów – dwóch mężczyzn i trzy kobiety – na tle utrzymanym w ciepłych, złocistych barwach.",
+        "templateUrl": "//s.tvp.pl/images/b/a/1/uid_ba1be389b85c42a9987755b250dc93ff_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/2/d/e/uid_2de8787542e1437f83ac5e9d1871dcef_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "3x4 bez logo",
+        "templateUrl": "//s.tvp.pl/images/2/d/e/uid_2de8787542e1437f83ac5e9d1871dcef_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "payable": false,
+     "year": 2026,
+     "ratingEmbedded": false,
+     "hd": false,
+     "showRecommendations": true,
+     "loginRequired": false,
+     "gallery": {},
+     "audio": false,
+     "video": true,
+     "websiteId": "93899814",
+     "slug": "sloneczna-poza-cisza"
+    },
+    "rank": 0
+   },
+   {
+    "id": 35368073,
+    "since": "2026-10-21T00:00:00+02:00",
+    "item": {
+     "type_": "SERIAL",
+     "id": 3374432,
+     "externalUid": "95559975",
+     "title": "SOR",
+     "lead": "„SOR” to serial medyczny, który zabiera widzów w sam środek dynamicznego i nieprzewidywalnego Szpitalnego Oddziału Ratunkowego.",
+     "rating": 16,
+     "type": "SERIAL",
+     "uhd": false,
+     "displayActive": true,
+     "since": "2026-09-24T11:14:00+02:00",
+     "till": "2126-09-24T11:19:00+02:00",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/8/6/e/uid_86e5a6871ed34559aa9648232aca7c60_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/6/6/2/uid_66219e57d21a4e1bbaaa337220ad45ba_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "genres": [
+      {
+       "id": 892,
+       "key": "obyczajowe",
+       "name": "obyczajowe"
+      }
+     ],
+     "displaySchedules": [
+      {
+       "since": "2026-09-24T11:14:00+02:00",
+       "till": "2126-09-24T11:19:00+02:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/seriale,18/sor-odcinki,3374432",
+     "trailer": true,
+     "customBadge": {
+      "id": 6882,
+      "key": "premiera",
+      "name": "PREMIERA"
+     },
+     "titleImages": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/2/9/2/uid_292e6ef4e1c14fd8822eb10e75cb04ed_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/2/9/2/uid_292e6ef4e1c14fd8822eb10e75cb04ed_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ]
+     },
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/c/1/f/uid_c1fa4bd16b14406198b989769b112d9a_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/c/1/f/uid_c1fa4bd16b14406198b989769b112d9a_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/1/1/1/uid_111a332af44942cb87dfff328bc186eb_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/1/1/1/uid_111a332af44942cb87dfff328bc186eb_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "payable": false,
+     "year": 2026,
+     "ratingEmbedded": false,
+     "hd": false,
+     "showRecommendations": true,
+     "loginRequired": false,
+     "gallery": {},
+     "audio": false,
+     "video": true,
+     "websiteId": "95559975",
+     "slug": "sor"
+    },
+    "rank": 1
+   }
+  ],
+  "showTitle": true,
+  "catalog": false,
+  "presentationTime": 30,
+  "showTileTitle": true,
+  "tilesHover": "BASIC",
+  "slug": "driver"
+ },
+ {
+  "id": 372819,
+  "title": "SERIALOWE KANAŁY TV",
+  "type": "SECTION",
+  "images": {},
+  "webUrl": "",
+  "artworks": {},
+  "contentType": "STATIC",
+  "layout": "ONE_LINE",
+  "tilesAspect": "16x9",
+  "tilesSize": "M",
+  "elements": [
+   {
+    "id": 35254317,
+    "since": "2025-12-08T00:00:00+01:00",
+    "item": {
+     "type_": "LIVE",
+     "id": 2543014,
+     "externalUid": "069501181",
+     "title": "TVP BARWY SZCZĘŚCIA",
+     "lead": "",
+     "type": "LIVE",
+     "uhd": false,
+     "displayActive": true,
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/9/d/2/uid_9d2fa4620df34064b66539dec9359c88_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/9/d/2/uid_9d2fa4620df34064b66539dec9359c88_width_920_play_0_pos_0_gs_0_height_523.jpeg?objectId=90392098&filename=9d2fa4620df34064b66539dec9359c88.jpeg&width=920&height=523",
+        "templateUrl": "//s.tvp.pl/images/images/9/d/2/uid_9d2fa4620df34064b66539dec9359c88_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/0/c/f/uid_0cfb48a29c0f40bd91d702f4717bcf6e_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/0/c/f/uid_0cfb48a29c0f40bd91d702f4717bcf6e_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=90392093&filename=0cfb48a29c0f40bd91d702f4717bcf6e.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/0/c/f/uid_0cfb48a29c0f40bd91d702f4717bcf6e_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 1,
+      "name": "Telewizja na żywo",
+      "seoNameSingular": "Telewizja na żywo",
+      "slug": "live",
+      "type": "LIVE"
+     },
+     "genres": [],
+     "displaySchedules": [
+      {
+       "since": "2025-12-05T08:49:50+01:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/live,1/tvp-barwy-szczescia,2543014",
+     "titleImages": {},
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/6/3/5/uid_6357490cb96749f0a19cf6cf4991c626_width_1920_play_0_pos_0_gs_0_height_1080.jpeg",
+        "source": "https://s.tvp.pl/images/images/6/3/5/uid_6357490cb96749f0a19cf6cf4991c626_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=90392094&filename=6357490cb96749f0a19cf6cf4991c626.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/6/3/5/uid_6357490cb96749f0a19cf6cf4991c626_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/2/6/5/uid_265367958fb6455e84b01888fc429330_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/2/6/5/uid_265367958fb6455e84b01888fc429330_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=90392095&filename=265367958fb6455e84b01888fc429330.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/2/6/5/uid_265367958fb6455e84b01888fc429330_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     },
+     "payable": false,
+     "rank": 4,
+     "coverAsSlides": false,
+     "logoImages": {
+      "1x1": [
+       {
+        "url": "//s.tvp.pl/images/images/e/8/5/uid_e85a77cc586245a3ac3a45f7b8b2292f_width_317_play_0_pos_0_gs_0_height_317.png",
+        "source": "https://s.tvp.pl/images/images/e/8/5/uid_e85a77cc586245a3ac3a45f7b8b2292f_width_132_play_0_pos_0_gs_0_height_132.png?objectId=90439749&filename=e85a77cc586245a3ac3a45f7b8b2292f.png&width=132&height=132",
+        "templateUrl": "//s.tvp.pl/images/images/e/8/5/uid_e85a77cc586245a3ac3a45f7b8b2292f_width_{width:317}_play_0_pos_0_gs_0_height_{height:317}.png"
+       }
+      ]
+     },
+     "showRecommendations": true,
+     "epgLogoColor": "#d77342",
+     "epgProgressbarColor": "#cb5e63",
+     "loginRequired": false,
+     "slug": "tvp-barwy-szczescia"
+    },
+    "rank": 1
+   },
+   {
+    "id": 35254318,
+    "since": "2025-12-08T00:00:00+01:00",
+    "item": {
+     "type_": "LIVE",
+     "id": 2543049,
+     "externalUid": "70707771",
+     "title": "TVP KLAN",
+     "lead": "",
+     "type": "LIVE",
+     "uhd": false,
+     "displayActive": true,
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/a/5/1/uid_a512f3386fb94d28887fc9c7411c0b76_width_315_play_0_pos_0_gs_0_height_177.jpeg",
+        "source": "https://s.tvp.pl/images/images/a/5/1/uid_a512f3386fb94d28887fc9c7411c0b76_width_920_play_0_pos_0_gs_0_height_523.jpeg?objectId=90392125&filename=a512f3386fb94d28887fc9c7411c0b76.jpeg&width=920&height=523",
+        "templateUrl": "//s.tvp.pl/images/images/a/5/1/uid_a512f3386fb94d28887fc9c7411c0b76_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/e/d/a/uid_eda409c01a764ce297ec9e53969682d0_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/e/d/a/uid_eda409c01a764ce297ec9e53969682d0_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=90392106&filename=eda409c01a764ce297ec9e53969682d0.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/e/d/a/uid_eda409c01a764ce297ec9e53969682d0_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 1,
+      "name": "Telewizja na żywo",
+      "seoNameSingular": "Telewizja na żywo",
+      "slug": "live",
+      "type": "LIVE"
+     },
+     "genres": [],
+     "displaySchedules": [
+      {
+       "since": "2025-12-05T08:49:56+01:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/live,1/tvp-klan,2543049",
+     "titleImages": {},
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/images/1/0/6/uid_10637584b3bc4e64ab745f091c39482f_width_1920_play_0_pos_0_gs_0_height_1080.jpeg",
+        "source": "https://s.tvp.pl/images/images/1/0/6/uid_10637584b3bc4e64ab745f091c39482f_width_1920_play_0_pos_0_gs_0_height_1080.jpeg?objectId=90392126&filename=10637584b3bc4e64ab745f091c39482f.jpeg&width=1920&height=1080",
+        "templateUrl": "//s.tvp.pl/images/images/1/0/6/uid_10637584b3bc4e64ab745f091c39482f_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpeg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/images/6/6/d/uid_66de4fd5bffa4814ba32d6f53f1029c1_width_560_play_0_pos_0_gs_0_height_746.jpeg",
+        "source": "https://s.tvp.pl/images/images/6/6/d/uid_66de4fd5bffa4814ba32d6f53f1029c1_width_1444_play_0_pos_0_gs_0_height_1920.jpeg?objectId=90392108&filename=66de4fd5bffa4814ba32d6f53f1029c1.jpeg&width=1444&height=1920",
+        "templateUrl": "//s.tvp.pl/images/images/6/6/d/uid_66de4fd5bffa4814ba32d6f53f1029c1_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpeg"
+       }
+      ]
+     },
+     "payable": false,
+     "rank": 5,
+     "coverAsSlides": false,
+     "logoImages": {
+      "1x1": [
+       {
+        "url": "//s.tvp.pl/images/images/6/0/2/uid_6024ee3058724655886b8047d32c45a6_width_317_play_0_pos_0_gs_0_height_317.png",
+        "source": "https://s.tvp.pl/images/images/6/0/2/uid_6024ee3058724655886b8047d32c45a6_width_132_play_0_pos_0_gs_0_height_132.png?objectId=90439751&filename=6024ee3058724655886b8047d32c45a6.png&width=132&height=132",
+        "templateUrl": "//s.tvp.pl/images/images/6/0/2/uid_6024ee3058724655886b8047d32c45a6_width_{width:317}_play_0_pos_0_gs_0_height_{height:317}.png"
+       }
+      ]
+     },
+     "showRecommendations": true,
+     "epgLogoColor": "#3b79ce",
+     "epgProgressbarColor": "#2565bc",
+     "loginRequired": false,
+     "slug": "tvp-klan"
+    },
+    "rank": 2
+   }
+  ],
+  "showTitle": true,
+  "catalog": false,
+  "presentationTime": 6,
+  "showTileTitle": true,
+  "tilesHover": "DETAILED_WITH_TRAILER",
+  "titleDecorationType": "LIVE_DOT",
+  "slug": "serialowe-kanaly-tv"
+ },
+ {
+  "id": 1787404,
+  "title": "W PAKIECIE I Wcześniej niż w TV",
+  "type": "SECTION",
+  "images": {},
+  "webUrl": "",
+  "artworks": {},
+  "contentType": "STATIC",
+  "layout": "ONE_LINE",
+  "tilesAspect": "3x4",
+  "tilesSize": "M",
+  "elements": [
+   {
+    "id": 35232200,
+    "since": "2025-02-27T00:00:00+01:00",
+    "item": {
+     "type_": "SERIAL",
+     "id": 273595,
+     "externalUid": "8514286",
+     "title": "Barwy szczęścia",
+     "lead": "Uwielbiany przez widzów, przebojowy serial TVP. Nadawany jest nieprzerwanie od  2007 roku.",
+     "rating": 12,
+     "type": "SERIAL",
+     "uhd": false,
+     "displayActive": true,
+     "since": "2012-09-14T11:15:00+02:00",
+     "till": "2122-09-14T11:14:01+02:00",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/e/c/1/uid_ec1d703deacf466692ef2e154e0cc9a2_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/e/c/1/uid_ec1d703deacf466692ef2e154e0cc9a2_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/1/d/2/uid_1d2cf469a6074b79849cb9389264252a_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/1/d/2/uid_1d2cf469a6074b79849cb9389264252a_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "genres": [
+      {
+       "id": 892,
+       "key": "obyczajowe",
+       "name": "obyczajowe"
+      }
+     ],
+     "displaySchedules": [
+      {
+       "since": "2012-09-14T11:15:00+02:00",
+       "till": "2122-09-14T11:14:01+02:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/seriale,18/barwy-szczescia-odcinki,273595",
+     "trailer": true,
+     "customBadge": {
+      "id": 3186,
+      "key": "prapremiera",
+      "name": "PRAPREMIERA"
+     },
+     "titleImages": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/5/e/6/uid_5e67ff33756046f09946cb46dce8f359_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/5/e/6/uid_5e67ff33756046f09946cb46dce8f359_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ]
+     },
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/c/7/4/uid_c74f84bb96504c76851c88922a0daba9_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/c/7/4/uid_c74f84bb96504c76851c88922a0daba9_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/5/d/1/uid_5d18fbe429864fd78c51972b4ac8ad44_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "34 bez",
+        "templateUrl": "//s.tvp.pl/images/5/d/1/uid_5d18fbe429864fd78c51972b4ac8ad44_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "payable": false,
+     "year": 2012,
+     "ratingEmbedded": false,
+     "hd": false,
+     "showRecommendations": true,
+     "loginRequired": false,
+     "gallery": {},
+     "audio": false,
+     "video": true,
+     "websiteId": "8514286",
+     "slug": "barwy-szczescia"
+    },
+    "rank": 0
+   },
+   {
+    "id": 35344848,
+    "since": "2026-09-07T00:00:00+02:00",
+    "item": {
+     "type_": "SERIAL",
+     "id": 277715,
+     "externalUid": "13883615",
+     "title": "Na sygnale",
+     "lead": "Cieszący się niesłabnącą popularnością serial o pracy ratowników medycznych. Zobacz nowe odcinki przed premierą!",
+     "rating": 12,
+     "type": "SERIAL",
+     "uhd": false,
+     "displayActive": true,
+     "since": "2014-02-04T14:32:00+01:00",
+     "till": "2124-02-04T14:17:00+01:00",
+     "images": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/e/6/4/uid_e64045a855c146638698d9812dbfdccc_width_315_play_0_pos_0_gs_0_height_177.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/e/6/4/uid_e64045a855c146638698d9812dbfdccc_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/b/a/e/uid_baef9d0453e3439fac281598fc0cd7e5_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/b/a/e/uid_baef9d0453e3439fac281598fc0cd7e5_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "mainCategory": {
+      "id": 18,
+      "name": "seriale",
+      "seoNameSingular": "Serial telewizyjny",
+      "slug": "seriale",
+      "type": "VOD"
+     },
+     "genres": [
+      {
+       "id": 892,
+       "key": "obyczajowe",
+       "name": "obyczajowe"
+      }
+     ],
+     "displaySchedules": [
+      {
+       "since": "2014-02-04T14:32:00+01:00",
+       "till": "2124-02-04T14:17:00+01:00",
+       "type": "NORMAL"
+      }
+     ],
+     "webUrl": "https://vod.tvp.pl/seriale,18/na-sygnale-odcinki,277715",
+     "trailer": true,
+     "customBadge": {
+      "id": 3186,
+      "key": "prapremiera",
+      "name": "PRAPREMIERA"
+     },
+     "titleImages": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/7/2/a/uid_72a38c7f25ea4b479877facf820c6a3b_width_315_play_0_pos_0_gs_0_height_177.png",
+        "source": "",
+        "templateUrl": "//s.tvp.pl/images/7/2/a/uid_72a38c7f25ea4b479877facf820c6a3b_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+       }
+      ]
+     },
+     "synchronizationDisabled": false,
+     "showPlayerRecommendations": true,
+     "artworks": {
+      "16x9": [
+       {
+        "url": "//s.tvp.pl/images/6/2/0/uid_620165f31077463384c46ee257a1ff6d_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+        "source": "",
+        "alt": "Na ilustracji promującej serial „Na sygnale” widzimy grupę głównych bohaterów w charakterystycznych strojach medycznych. Serial „Na sygnale” można oglądać online w TVP VOD.",
+        "templateUrl": "//s.tvp.pl/images/6/2/0/uid_620165f31077463384c46ee257a1ff6d_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+       }
+      ],
+      "3x4": [
+       {
+        "url": "//s.tvp.pl/images/b/9/4/uid_b948dd9ed47049839c6dd75ee7109bdc_width_560_play_0_pos_0_gs_0_height_746.jpg",
+        "source": "",
+        "alt": "34 bez logo",
+        "templateUrl": "//s.tvp.pl/images/b/9/4/uid_b948dd9ed47049839c6dd75ee7109bdc_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+       }
+      ]
+     },
+     "payable": false,
+     "year": 2014,
+     "ratingEmbedded": false,
+     "hd": false,
+     "showRecommendations": true,
+     "loginRequired": false,
+     "gallery": {},
+     "audio": false,
+     "video": true,
+     "websiteId": "13883615",
+     "slug": "na-sygnale"
+    },
+    "rank": 1
+   }
+  ],
+  "showTitle": true,
+  "catalog": false,
+  "presentationTime": 6,
+  "showTileTitle": false,
+  "tilesHover": "DETAILED_WITH_TRAILER",
+  "slug": "w-pakiecie-i-wczesniej-niz-w-tv"
+ }
+]

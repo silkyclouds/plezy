@@ -168,6 +168,10 @@ void main() {
       expect(arteImageUrl(template, width: 300, height: 450), endsWith('/300x450'));
       expect(arteImageUrl(template, width: 5000, height: 2000), endsWith('/1920x1080'));
       expect(arteImageUrl('$template?type=TEXT'), endsWith('/720x405?type=TEXT'));
+      expect(
+        arteImageUrl('$template?imageType=graphical_title', width: 300, height: 170),
+        endsWith('/340x192.png?imageType=graphical_title'),
+      );
     });
   });
 

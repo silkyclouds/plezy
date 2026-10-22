@@ -1,0 +1,177 @@
+{
+ "meta": {
+  "totalCount": 26,
+  "firstResult": 0,
+  "maxResults": 100
+ },
+ "items": [
+  {
+   "id": 2090591,
+   "type": "SERIAL",
+   "title": "Debata prezydencka przed I turą wyborów",
+   "lead": "Zapraszamy na Debatę Prezydencką 2025 w studiu Telewizji Polskiej. Oglądaj w TVP VOD!",
+   "rating": 12,
+   "payable": false,
+   "webUrl": "https://vod.tvp.pl/informacje-i-publicystyka,205/debata-prezydencka-przed-i-tura-wyborow-odcinki,2090591",
+   "mainCategory": {
+    "id": 205,
+    "name": "informacje i publicystyka",
+    "slug": "informacje-i-publicystyka",
+    "type": "VOD"
+   },
+   "year": 2025,
+   "images": {
+    "16x9": [
+     {
+      "url": "//s.tvp.pl/images/0/6/5/uid_06551b8e20a8434abc6b58bed65b8b2f_width_315_play_0_pos_0_gs_0_height_177.jpg",
+      "source": "",
+      "alt": "z169",
+      "templateUrl": "//s.tvp.pl/images/0/6/5/uid_06551b8e20a8434abc6b58bed65b8b2f_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+     }
+    ],
+    "3x4": [
+     {
+      "url": "//s.tvp.pl/images/1/e/6/uid_1e68854707ea4e2ea3d7595e79391726_width_560_play_0_pos_0_gs_0_height_746.jpg",
+      "source": "",
+      "alt": "3x4",
+      "templateUrl": "//s.tvp.pl/images/1/e/6/uid_1e68854707ea4e2ea3d7595e79391726_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": 2113896,
+   "type": "SERIAL",
+   "title": "Debata prezydencka przed II turą wyborów",
+   "lead": "Karol Nawrocki i Rafał Trzaskowski w debacie prezydenckiej przed II turą wyborów.",
+   "rating": null,
+   "payable": false,
+   "webUrl": "https://vod.tvp.pl/informacje-i-publicystyka,205/debata-prezydencka-przed-ii-tura-wyborow-odcinki,2113896",
+   "mainCategory": {
+    "id": 205,
+    "name": "informacje i publicystyka",
+    "slug": "informacje-i-publicystyka",
+    "type": "VOD"
+   },
+   "year": 2025,
+   "images": {
+    "16x9": [
+     {
+      "url": "//s.tvp.pl/images/8/e/7/uid_8e7c885681db4473a57604b06e4f49f3_width_315_play_0_pos_0_gs_0_height_177.jpg",
+      "source": "",
+      "alt": "z16",
+      "templateUrl": "//s.tvp.pl/images/8/e/7/uid_8e7c885681db4473a57604b06e4f49f3_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+     }
+    ],
+    "3x4": [
+     {
+      "url": "//s.tvp.pl/images/5/a/4/uid_5a4b70bee6104680af3c802bb4bc1e39_width_560_play_0_pos_0_gs_0_height_746.jpg",
+      "source": "",
+      "alt": "34",
+      "templateUrl": "//s.tvp.pl/images/5/a/4/uid_5a4b70bee6104680af3c802bb4bc1e39_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": 1362057,
+   "type": "SERIAL",
+   "title": "Debata – wybory do Parlamentu Europejskiego",
+   "lead": "Debata przed wyborami do Parlamentu Europejskiego.",
+   "rating": 12,
+   "payable": false,
+   "webUrl": "https://vod.tvp.pl/informacje-i-publicystyka,205/debata--wybory-do-parlamentu-europejskiego-odcinki,1362057",
+   "mainCategory": {
+    "id": 205,
+    "name": "informacje i publicystyka",
+    "slug": "informacje-i-publicystyka",
+    "type": "VOD"
+   },
+   "year": 2024,
+   "images": {
+    "16x9": [
+     {
+      "url": "//s.tvp.pl/images/b/6/7/uid_b6779fe715a7466db9d693a3b65f15a8_width_315_play_0_pos_0_gs_0_height_177.jpg",
+      "source": "",
+      "alt": "16x9",
+      "templateUrl": "//s.tvp.pl/images/b/6/7/uid_b6779fe715a7466db9d693a3b65f15a8_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+     }
+    ],
+    "3x4": [
+     {
+      "url": "//s.tvp.pl/images/4/1/0/uid_4100a2f1c0a1452393b6bcfa0f3150cf_width_560_play_0_pos_0_gs_0_height_746.jpg",
+      "source": "",
+      "alt": "3x4",
+      "templateUrl": "//s.tvp.pl/images/4/1/0/uid_4100a2f1c0a1452393b6bcfa0f3150cf_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": 3296870,
+   "type": "SERIAL",
+   "title": "Debata po filmie „Jerzy Buzek. Siła marzeń”",
+   "lead": "Debata po filmie „Jerzy Buzek. Siła marzeń” stanowi niepowtarzalne dyskusyjne wydarzenie polityczne i społeczne.",
+   "rating": null,
+   "payable": false,
+   "webUrl": "https://vod.tvp.pl/informacje-i-publicystyka,205/debata-po-filmie-jerzy-buzek-sila-marzen-odcinki,3296870",
+   "mainCategory": {
+    "id": 205,
+    "name": "informacje i publicystyka",
+    "slug": "informacje-i-publicystyka",
+    "type": "VOD"
+   },
+   "year": 2026,
+   "images": {
+    "16x9": [
+     {
+      "url": "//s.tvp.pl/images/4/5/3/uid_453628cda3bf48509d30e2a8c48b0445_width_315_play_0_pos_0_gs_0_height_177.jpg",
+      "source": "",
+      "templateUrl": "//s.tvp.pl/images/4/5/3/uid_453628cda3bf48509d30e2a8c48b0445_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+     }
+    ],
+    "3x4": [
+     {
+      "url": "//s.tvp.pl/images/3/c/9/uid_3c978cbeea4d4f53aaecf42a8fb3f45e_width_560_play_0_pos_0_gs_0_height_746.jpg",
+      "source": "",
+      "templateUrl": "//s.tvp.pl/images/3/c/9/uid_3c978cbeea4d4f53aaecf42a8fb3f45e_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": 2028435,
+   "type": "SERIAL",
+   "title": "Końskie 2025. Debata przedwyborcza",
+   "lead": "11 kwietnia 2025 roku Końskie stały się centrum ogólnopolskiej debaty przedwyborczej na urząd Prezydenta Polski.",
+   "rating": null,
+   "payable": false,
+   "webUrl": "https://vod.tvp.pl/informacje-i-publicystyka,205/konskie-2025-debata-przedwyborcza-odcinki,2028435",
+   "mainCategory": {
+    "id": 205,
+    "name": "informacje i publicystyka",
+    "slug": "informacje-i-publicystyka",
+    "type": "VOD"
+   },
+   "year": 2025,
+   "images": {
+    "16x9": [
+     {
+      "url": "//s.tvp.pl/images/0/1/3/uid_0136980e329242e484025ee6f4abd74e_width_315_play_0_pos_0_gs_0_height_177.jpg",
+      "source": "",
+      "alt": "z16",
+      "templateUrl": "//s.tvp.pl/images/0/1/3/uid_0136980e329242e484025ee6f4abd74e_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+     }
+    ],
+    "3x4": [
+     {
+      "url": "//s.tvp.pl/images/a/d/6/uid_ad6ca2f3a90c4161bb368ee47eb86fcc_width_560_play_0_pos_0_gs_0_height_746.jpg",
+      "source": "",
+      "alt": "34",
+      "templateUrl": "//s.tvp.pl/images/a/d/6/uid_ad6ca2f3a90c4161bb368ee47eb86fcc_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

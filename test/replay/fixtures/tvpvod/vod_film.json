@@ -1,0 +1,191 @@
+{
+ "type_": "VOD",
+ "id": 344835,
+ "externalUid": "76749926",
+ "title": "Marsz wyzwolicieli",
+ "lead": "Dokument o zakulisowych działaniach ZSRS, mających na celu rozpętanie II wojny światowej.",
+ "description": "Dokument przedstawiający działania Związku Sowieckiego, mające na celu doprowadzenie do wybuch II wojny światowej. W filmie ukazane są przygotowania komunistycznego imperium do podjęcia ofensywy w celu zajęcia całej Europy i sprytne wykorzystanie Adolfa Hitlera jako zapalnika konfliktu, po którego a",
+ "rating": 12,
+ "type": "VOD",
+ "uhd": false,
+ "geoipManualLock": true,
+ "since": "2024-04-02T09:05:00+02:00",
+ "till": "2050-12-31T23:59:00+01:00",
+ "images": {
+  "16x9": [
+   {
+    "url": "//s.tvp.pl/images/e/9/4/uid_e94d3654ed5a41f09cebb98939fd93de_width_315_play_0_pos_0_gs_0_height_177.jpg",
+    "source": "",
+    "alt": "16x9",
+    "templateUrl": "//s.tvp.pl/images/e/9/4/uid_e94d3654ed5a41f09cebb98939fd93de_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.jpg"
+   }
+  ],
+  "3x4": [
+   {
+    "url": "//s.tvp.pl/images/c/6/7/uid_c670cd2bca0545e6aa87754752ae9457_width_560_play_0_pos_0_gs_0_height_746.jpg",
+    "source": "",
+    "alt": "3x4",
+    "templateUrl": "//s.tvp.pl/images/c/6/7/uid_c670cd2bca0545e6aa87754752ae9457_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+   }
+  ]
+ },
+ "mainCategory": {
+  "id": 163,
+  "name": "filmy dokumentalne",
+  "seoNameSingular": "Filmy dokumentalne",
+  "slug": "filmy-dokumentalne",
+  "type": "VOD"
+ },
+ "categories": [
+  {
+   "id": 170,
+   "externalUid": "6718966",
+   "name": "historia",
+   "key": "historia",
+   "seoNameSingular": "historia",
+   "rank": 4,
+   "slug": "historia",
+   "active": true,
+   "type": "VOD",
+   "hideAdvertisementPopup": true
+  }
+ ],
+ "genres": [
+  {
+   "id": 986,
+   "key": "dokumentalny",
+   "name": "dokumentalny"
+  }
+ ],
+ "tags": [],
+ "platforms": [
+  {
+   "name": "SMART_TV"
+  },
+  {
+   "name": "ANDROID_TV"
+  },
+  {
+   "name": "APPLE_TV"
+  },
+  {
+   "name": "ANDROID"
+  },
+  {
+   "name": "BROWSER"
+  },
+  {
+   "name": "IOS"
+  }
+ ],
+ "displaySchedules": [
+  {
+   "since": "2024-04-02T09:05:00+02:00",
+   "till": "2050-12-24T23:59:00+01:00",
+   "type": "NORMAL"
+  },
+  {
+   "since": "2050-12-24T23:59:00+01:00",
+   "till": "2050-12-31T23:59:00+01:00",
+   "type": "LAST_BELL"
+  }
+ ],
+ "webUrl": "https://vod.tvp.pl/filmy-dokumentalne,163/marsz-wyzwolicieli,344835",
+ "chromecastAvailable": true,
+ "trailer": false,
+ "titleImages": {
+  "16x9": [
+   {
+    "url": "//s.tvp.pl/images/4/3/c/uid_43c50750ea274a31b3fee4b903e3d1f6_width_315_play_0_pos_0_gs_0_height_177.png",
+    "source": "",
+    "alt": "Logo",
+    "templateUrl": "//s.tvp.pl/images/4/3/c/uid_43c50750ea274a31b3fee4b903e3d1f6_width_{width:315}_play_0_pos_0_gs_0_height_{height:177}.png"
+   }
+  ]
+ },
+ "originalExternalUid": "76749926",
+ "showPlayerRecommendations": true,
+ "artworks": {
+  "16x9": [
+   {
+    "url": "//s.tvp.pl/images/5/8/1/uid_5818374e77ce44c6a62e03fb0cd8a849_width_1920_play_0_pos_0_gs_0_height_1080.jpg",
+    "source": "",
+    "alt": "Mapa wpływów między Niemcami a ZSRR po wybuchu II wojny światowej. To kadr z filmu dokumentalnego „Marsz wyzwolicieli” (2009), który pokazuje przygotowania Sowietów do II wojny światowej.",
+    "templateUrl": "//s.tvp.pl/images/5/8/1/uid_5818374e77ce44c6a62e03fb0cd8a849_width_{width:1920}_play_0_pos_0_gs_0_height_{height:1080}.jpg"
+   }
+  ],
+  "3x4": [
+   {
+    "url": "//s.tvp.pl/images/3/4/0/uid_3407cbca0c404a01bda4033a5836369c_width_560_play_0_pos_0_gs_0_height_746.jpg",
+    "source": "",
+    "alt": "3x4 bez logo",
+    "templateUrl": "//s.tvp.pl/images/3/4/0/uid_3407cbca0c404a01bda4033a5836369c_width_{width:560}_play_0_pos_0_gs_0_height_{height:746}.jpg"
+   }
+  ]
+ },
+ "payable": false,
+ "paymentSchedules": [],
+ "statisticsParameters": {
+  "gemiusVideo": {
+   "fullTitle": "Marsz wyzwolicieli",
+   "typology": "filmy dokumentalne/dokumentalny"
+  }
+ },
+ "dynamicDictionaries": [],
+ "displayAdvertisement": {
+  "advertOrigin": {
+   "adServer": "AD_MANAGER",
+   "origin": "CATEGORY",
+   "originName": "historia",
+   "originId": 170
+  },
+  "adServerUrl": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+  "slotIdCurtain": "div-gpt-ad-1759268566660-0",
+  "slotIdCurtainMobile": "div-gpt-ad-1767869367840-0",
+  "slotCurtain": "/119362745/DISPLAY/DISPLAY_TVP_VOD_PROGRAMY/DISPLAY_TVP_VOD_PROGRAMY_HISTORIA/DISPLAY_TVP_VOD_PROGRAMY_HISTORIA_kurtyna",
+  "slotCurtainMobile": "/119362745/DISPLAY/DISPLAY_TVP_VOD_PROGRAMY/DISPLAY_TVP_VOD_PROGRAMY_HISTORIA/DISPLAY_TVP_VOD_PROGRAMY_HISTORIA_belka_gora",
+  "forced": false,
+  "fallback": {
+   "curtainImageUrl": "https://s.tvp.pl/repository/images/1/5/0/1501b3fe10d24dccb18a57b5bf7c89ac.jpg",
+   "curtainMobileImageUrl": "https://s.tvp.pl/repository/images/1/5/0/1501b3fe10d24dccb18a57b5bf7c89ac.jpg",
+   "timeout": 3000
+  }
+ },
+ "duration": 3377,
+ "year": 2009,
+ "ratingEmbedded": false,
+ "hd": false,
+ "showRecommendations": true,
+ "loginRequired": false,
+ "attachments": [],
+ "subtitles": [],
+ "audioTracks": [],
+ "audio": false,
+ "video": true,
+ "countries": [
+  {
+   "id": 92,
+   "key": "polska",
+   "name": "Polska"
+  }
+ ],
+ "downloadAvailable": false,
+ "creditsTime": 3280,
+ "chatEnabled": false,
+ "bookmarkWatchedMinimumDuration": 3280,
+ "websiteId": "9181584",
+ "szarpId": "AUD-699893W",
+ "presenters": [],
+ "producers": [],
+ "actors": [],
+ "directors": [
+  {
+   "id": 69053,
+   "name": "Grzegorz Braun",
+   "role": ""
+  }
+ ],
+ "scriptwriters": [],
+ "composers": [],
+ "slug": "marsz-wyzwolicieli"
+}

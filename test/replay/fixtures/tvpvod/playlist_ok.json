@@ -1,0 +1,25 @@
+{
+ "sources": {
+  "HLS": [
+   {
+    "src": "https://rr-merk3.cdn.tvp.pl/token/video/vod/94155592/20261022/1834567457/kZ1ocpj99ntoFmy52ZzAVwlegfstnzB1q-ne62ce42HAW9y-zt4rJERYzSN7fesa3f-kXTMGLp4T8MIsGdFb-o-nX0PzS9XWmdCkcJ1AvUF8tXTINH0v0vYH5vZmDYCaUmg-yeK-U4dVFqSSVUpUsUUB0lUo7DKYvUd2tBaYW2o/video.ism/video-fmp4.m3u8"
+   }
+  ],
+  "DASH": [
+   {
+    "src": "https://rr-merk3.cdn.tvp.pl/token/video/vod/94155592/20261022/1834567457/kZ1ocpj99ntoFmy52ZzAVwlegfstnzB1q-ne62ce42HAW9y-zt4rJERYzSN7fesa3f-kXTMGLp4T8MIsGdFb-o-nX0PzS9XWmdCkcJ1AvUF8tXTINH0v0vYH5vZmDYCaUmg-yeK-U4dVFqSSVUpUsUUB0lUo7DKYvUd2tBaYW2o/video.ism/video.mpd"
+   }
+  ]
+ },
+ "stripe": {
+  "id": 258931,
+  "url": "https://klatki.tvp.pl/rbig94155592/stripe_{index}.jpg",
+  "interval": 2,
+  "count": 8,
+  "width": 640,
+  "height": 360
+ },
+ "externalVideo": {
+  "externalUid": "94155592"
+ }
+}
