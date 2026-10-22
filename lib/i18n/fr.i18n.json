@@ -2647,6 +2647,8 @@
       "automatic": "Détection automatique (${country})",
       "automaticUnknown": "Détection automatique"
     },
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
     "homeRow": {
       "label": "${row} sur ${channel}",
       "playFirst": "Lire",

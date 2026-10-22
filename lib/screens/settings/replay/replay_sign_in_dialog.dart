@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:material_symbols_icons/symbols.dart';
 
+import '../../../focus/focusable_button.dart';
 import '../../../i18n/strings.g.dart';
 import '../../../replay/auth/replay_auth.dart';
 import '../../../replay/client/replay_accounts.dart';
@@ -50,6 +51,8 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
   final _passwordNode = FocusNode(debugLabel: 'ReplaySignInPassword');
   final _cancelNode = FocusNode(debugLabel: 'ReplaySignInCancel');
   final _submitNode = FocusNode(debugLabel: 'ReplaySignInSubmit');
+  final _eyeNode = FocusNode(debugLabel: 'ReplaySignInShowPassword');
+  bool _showPassword = false;
   bool _busy = false;
   String? _error;
 
@@ -58,6 +61,7 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
     _login.dispose();
     _password.dispose();
     _loginNode.dispose();
+    _eyeNode.dispose();
     _passwordNode.dispose();
     _cancelNode.dispose();
     _submitNode.dispose();
@@ -135,12 +139,14 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
             focusNode: _passwordNode,
             height: 60,
             fontSize: 22,
-            obscure: true,
+            obscure: !_showPassword,
             enabled: !_busy,
             textInputAction: TextInputAction.done,
             onSubmitted: (_) => unawaited(_submit()),
             onNavigateUp: _loginNode.requestFocus,
             onNavigateDown: _submitNode.requestFocus,
+            onNavigateRight: _eyeNode.requestFocus,
+            trailing: _eye(),
           ),
           if (_error != null) ...[const SizedBox(height: 12), _failure(_error!, palette)],
           const SizedBox(height: 24),
@@ -170,6 +176,24 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
             ],
           ),
         ],
+      ),
+    );
+  }
+
+  /// The eye that shows the password in clear, so a typing slip is visible before it is sent.
+  Widget _eye() {
+    void toggle() => setState(() => _showPassword = !_showPassword);
+    return FocusableButton(
+      focusNode: _eyeNode,
+      onPressed: _busy ? null : toggle,
+      onNavigateLeft: _passwordNode.requestFocus,
+      onNavigateUp: _loginNode.requestFocus,
+      onNavigateDown: _submitNode.requestFocus,
+      autoScroll: false,
+      child: IconButton(
+        tooltip: _showPassword ? t.replay.hidePassword : t.replay.showPassword,
+        icon: AppIcon(_showPassword ? Symbols.visibility_off_rounded : Symbols.visibility_rounded, fill: 1),
+        onPressed: _busy ? null : toggle,
       ),
     );
   }

@@ -41,6 +41,33 @@ void main() {
     expect(tester.testTextInput.isVisible, isTrue);
   });
 
+  testWidgets('The eye shows the password in clear and hides it again', (tester) async {
+    await tester.pumpWidget(_app(_noop));
+    await tester.pumpAndSettle();
+    expect(tester.widget<TextField>(find.byType(TextField).at(1)).obscureText, isTrue);
+
+    await tester.tap(find.byTooltip('Show password'));
+    await tester.pumpAndSettle();
+    expect(tester.widget<TextField>(find.byType(TextField).at(1)).obscureText, isFalse);
+
+    await tester.tap(find.byTooltip('Hide password'));
+    await tester.pumpAndSettle();
+    expect(tester.widget<TextField>(find.byType(TextField).at(1)).obscureText, isTrue);
+  });
+
+  testWidgets('Right from the password reaches the eye and select toggles it', (tester) async {
+    await tester.pumpWidget(_app(_noop));
+    await tester.pumpAndSettle();
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+    await tester.pump();
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight);
+    await tester.pump();
+    await tester.sendKeyEvent(LogicalKeyboardKey.enter);
+    await tester.pumpAndSettle();
+
+    expect(tester.widget<TextField>(find.byType(TextField).at(1)).obscureText, isFalse);
+  });
+
   testWidgets('Down goes from the e-mail to the password, then to Sign in', (tester) async {
     await tester.pumpWidget(_app(_noop));
     await tester.pumpAndSettle();

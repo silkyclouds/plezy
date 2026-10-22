@@ -21,6 +21,10 @@ class ReplayTextField extends StatefulWidget {
   final ValueChanged<String>? onSubmitted;
   final VoidCallback? onNavigateDown;
   final VoidCallback? onNavigateUp;
+  final VoidCallback? onNavigateRight;
+
+  /// A control placed inside the field, after the text (the password eye).
+  final Widget? trailing;
 
   const ReplayTextField({
     super.key,
@@ -39,6 +43,8 @@ class ReplayTextField extends StatefulWidget {
     this.onSubmitted,
     this.onNavigateDown,
     this.onNavigateUp,
+    this.onNavigateRight,
+    this.trailing,
   });
 
   @override
@@ -87,6 +93,7 @@ class _ReplayTextFieldState extends State<ReplayTextField> {
                 onSubmitted: widget.onSubmitted,
                 onNavigateDown: widget.onNavigateDown,
                 onNavigateUp: widget.onNavigateUp,
+                onNavigateRight: widget.onNavigateRight,
                 style: TextStyle(color: ink, fontSize: widget.fontSize),
                 decoration: InputDecoration.collapsed(
                   hintText: widget.hint,
@@ -94,6 +101,7 @@ class _ReplayTextFieldState extends State<ReplayTextField> {
                 ),
               ),
             ),
+            if (widget.trailing != null) widget.trailing!,
           ],
         ),
       ),
