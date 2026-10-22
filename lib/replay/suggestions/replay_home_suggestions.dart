@@ -27,7 +27,7 @@ class ReplayHomeSuggestions {
   static const _cacheLifetime = Duration(minutes: 20);
 
   final Map<String, ReplayProvider> providers;
-  final ReplayMapper Function(ReplayProvider provider) mapperFor;
+  final Future<ReplayMapper> Function(ReplayProvider provider, Iterable<ReplayTitle> titles) mapperFor;
   final String? Function() viewerCountry;
 
   /// Broadcasters the viewer has started something on, most recent first.
@@ -49,23 +49,25 @@ class ReplayHomeSuggestions {
       for (final provider in providers.values)
         if (_isOfferedTo(provider, country)) provider,
     ];
-    final railLists = await Future.wait([for (final provider in candidates) _railsOf(provider)]);
     final watched = await watchedSources();
-
-    final perSource = <_SourceRows>[];
-    for (var i = 0; i < candidates.length; i++) {
-      final provider = candidates[i];
-      final mapper = mapperFor(provider);
-      final hubs = <MediaHub>[];
-      for (final rail in railLists[i]) {
-        final hub = _playableHub(mapper, provider, rail, itemLimit);
-        if (hub != null) hubs.add(hub);
-        if (hubs.length == maxRowsPerSource) break;
-      }
-      if (hubs.isNotEmpty) perSource.add(_SourceRows(provider.source.id, hubs));
-    }
+    final built = await Future.wait([for (final provider in candidates) _rowsOf(provider, itemLimit)]);
+    final perSource = [
+      for (var i = 0; i < candidates.length; i++)
+        if (built[i].isNotEmpty) _SourceRows(candidates[i].source.id, built[i]),
+    ];
     perSource.sort((a, b) => _watchedRank(watched, a.sourceId).compareTo(_watchedRank(watched, b.sourceId)));
     return _roundRobin(perSource);
+  }
+
+  Future<List<MediaHub>> _rowsOf(ReplayProvider provider, int itemLimit) async {
+    final hubs = <MediaHub>[];
+    for (final rail in await _railsOf(provider)) {
+      final mapper = await mapperFor(provider, rail.titles);
+      final hub = _playableHub(mapper, provider, rail, itemLimit);
+      if (hub != null) hubs.add(hub);
+      if (hubs.length == maxRowsPerSource) break;
+    }
+    return hubs;
   }
 
   bool _isOfferedTo(ReplayProvider provider, String? country) {

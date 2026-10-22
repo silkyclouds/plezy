@@ -21,6 +21,7 @@ import '../../utils/app_logger.dart';
 import '../../utils/media_server_http_client.dart' show AbortController, MediaServerHttpClient;
 import '../download/replay_download_proxy.dart';
 import '../geo/replay_geo_service.dart';
+import '../mapping/replay_forecast.dart';
 import '../mapping/replay_title_memory.dart';
 import '../mapping/replay_mapper.dart';
 import '../model/replay_playback.dart';
@@ -130,13 +131,21 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
 
   final ReplayTitleMemory _titles = ReplayTitleMemory();
 
-  ReplayMapper _mapper(ReplayProvider provider) => ReplayMapper(
-    serverId: connection.id,
-    source: provider.source,
-    serverName: serverName,
-    memory: _titles,
-    blanketGeoBlock: replaySourceInfo(provider.source.id)?.restrictsViewerIn(geo?.country) ?? false,
-  );
+  late final ReplayForecast _forecast = ReplayForecast(() => geo?.country);
+
+  ReplayMapper _mapper(ReplayProvider provider, {Map<ReplayRef, ReplayAvailability> predicted = const {}}) =>
+      ReplayMapper(
+        serverId: connection.id,
+        source: provider.source,
+        serverName: serverName,
+        memory: _titles,
+        blanketGeoBlock: replaySourceInfo(provider.source.id)?.restrictsViewerIn(geo?.country) ?? false,
+        predicted: predicted,
+      );
+
+  /// A mapper that already knows which of [titles] the viewer's country cannot watch.
+  Future<ReplayMapper> _mapperFor(ReplayProvider provider, Iterable<ReplayTitle> titles) async =>
+      _mapper(provider, predicted: await _forecast.predict(provider, titles));
 
   (ReplayProvider, ReplayRef)? _resolve(String id) {
     final ref = ReplayRef.tryParse(id);
@@ -170,7 +179,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     if (provider == null) return const LibraryPage(items: [], totalCount: 0);
     final size = provider.source.listingPageSize;
     final page = await provider.listing(replayAllBrowseId, page: query.offset ~/ size);
-    final items = await _watch.apply(_mapper(provider).items(page.titles));
+    final items = await _watch.apply((await _mapperFor(provider, page.titles)).items(page.titles));
     return LibraryPage(items: items, totalCount: page.totalCount, offset: query.offset);
   }
 
@@ -180,7 +189,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     if (target == null) return null;
     final title = await target.$1.title(target.$2);
     if (title == null) return null;
-    final item = (await _watch.apply([_mapper(target.$1).item(title)])).single;
+    final item = (await _watch.apply([(await _mapperFor(target.$1, [title])).item(title)])).single;
     // Kept so a download can pin it: offline lists resolve titles from this copy.
     await ReplayApiCache.instance.cacheItem(serverId, item);
     return item;
@@ -196,7 +205,8 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   Future<List<MediaItem>> fetchChildren(String parentId) async {
     final target = _resolve(parentId);
     if (target == null) return const [];
-    return _watch.apply(_mapper(target.$1).items(await target.$1.children(target.$2)));
+    final children = await target.$1.children(target.$2);
+    return _watch.apply((await _mapperFor(target.$1, children)).items(children));
   }
 
   @override
@@ -227,7 +237,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
         episodes.add(child);
       }
     }
-    return _watch.apply(_mapper(target.$1).items(episodes));
+    return _watch.apply((await _mapperFor(target.$1, episodes)).items(episodes));
   }
 
   @override
@@ -251,7 +261,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   Future<List<MediaItem>> _searchSource(ReplayProvider provider, String query) async {
     try {
       final titles = await provider.search(query).timeout(_sourceSearchTimeout);
-      return _mapper(provider).items(titles);
+      return (await _mapperFor(provider, titles)).items(titles);
     } on Exception catch (error) {
       appLogger.w('Catch-up TV search failed on ${provider.source.name}', error: error);
       return const [];
@@ -269,7 +279,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
 
   late final ReplayHomeSuggestions _suggestions = ReplayHomeSuggestions(
     providers: _providers,
-    mapperFor: _mapper,
+    mapperFor: _mapperFor,
     viewerCountry: () => geo?.country,
     watchedSources: _watchedSources,
   );
@@ -306,7 +316,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
       final rails = await provider.home();
       return [
         for (final rail in rails)
-          if (rail.titles.isNotEmpty) await _stampedHub(_mapper(provider).hub(rail)),
+          if (rail.titles.isNotEmpty) await _stampedHub((await _mapperFor(provider, rail.titles)).hub(rail)),
       ];
     } on Object {
       diagnostics?.recordFailure(StateError('home rails failed for $libraryId'));

@@ -4,6 +4,7 @@ import '../../media/media_item.dart';
 import '../../media/media_kind.dart';
 import '../../media/media_library.dart';
 import '../../media/media_role.dart';
+import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
 import 'replay_title_memory.dart';
 import '../provider/replay_provider.dart';
@@ -52,12 +53,16 @@ class ReplayMapper {
   /// stamped geo-blocked (a guess that a VPN or a licence exception can disprove at play time).
   final bool blanketGeoBlock;
 
+  /// Per-title verdicts the broadcaster gave for the viewer's country (see `ReplayForecast`).
+  final Map<ReplayRef, ReplayAvailability> predicted;
+
   const ReplayMapper({
     required this.serverId,
     required this.source,
     this.serverName,
     this.memory,
     this.blanketGeoBlock = false,
+    this.predicted = const {},
   });
 
   MediaItem item(ReplayTitle listed) {
@@ -129,10 +134,12 @@ class ReplayMapper {
     serverName: serverName,
   );
 
-  ReplayAvailability _stampedAvailability(ReplayTitle t) =>
-      blanketGeoBlock && t.availability == ReplayAvailability.playable && t.isPlayable
-      ? ReplayAvailability.geoBlocked
-      : t.availability;
+  ReplayAvailability _stampedAvailability(ReplayTitle t) {
+    if (t.availability != ReplayAvailability.playable) return t.availability;
+    final forecast = predicted[t.ref];
+    if (forecast != null) return forecast;
+    return blanketGeoBlock && t.isPlayable ? ReplayAvailability.geoBlocked : t.availability;
+  }
 
   static String? _isoDate(DateTime? d) => d == null
       ? null

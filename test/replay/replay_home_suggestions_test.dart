@@ -41,7 +41,7 @@ ReplayHomeSuggestions _suggestions(
   List<String> watched = const [],
 }) => ReplayHomeSuggestions(
   providers: {for (final p in providers) p.source.id: p},
-  mapperFor: (p) => ReplayMapper(serverId: 'catchup', source: p.source),
+  mapperFor: (p, _) async => ReplayMapper(serverId: 'catchup', source: p.source),
   viewerCountry: () => country,
   watchedSources: () async => watched,
 );
