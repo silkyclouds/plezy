@@ -1,0 +1,276 @@
+{
+ "result": {
+  "list": [
+   {
+    "nid": "DB3690B3-3650-4CAF-BDB3-C7E907DE36DF",
+    "created": "1792563757000",
+    "changed": "1792569850000",
+    "type": "video",
+    "validity_start_date": "1792533600000",
+    "validity_end_date": "4916671200000",
+    "description": "<p>À la Une de la presse ce mercredi 21 octobre, l'exécutif sous le feu des critiques, des défilés néonazis à Lyon, une candidate boostée dans les sondages, un forage gazier controversé en Mer du Nord, et la victoire du PSG. </p>",
+    "cartouche": "Analyse",
+    "title": "Après le 17 Octobre, une candidate \"superpuissante\" dans les sondages",
+    "title_news": "RDP 2110",
+    "youtube_url": "",
+    "youtube_id": "errq1gavN_Q",
+    "surtitle": "",
+    "intro": "<p>À la Une de la presse ce mercredi 21 octobre, l'exécutif sous le feu des critiques, des défilés néonazis à Lyon, une candidate boostée dans les sondages, un forage gazier controversé en Mer du Nord, et la victoire du PSG. </p>",
+    "source": "FRANCE24",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-apr%C3%A8s-le-17-octobre-marine-le-pen-superpuissante-dans-les-sondages",
+    "taxonomy": [
+     {
+      "vid": "102_D220_2",
+      "tags": [
+       {
+        "tid": "102_D129_MZ114640",
+        "name": "Personne Exemple",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     },
+     {
+      "vid": "102_D220_52",
+      "tags": [
+       {
+        "tid": "102_D64_20905",
+        "name": "CLIP",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     }
+    ],
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "duration": "287000",
+    "formats": [
+     {
+      "code": "MP4",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/21/FR_20261021_071614_072101_CS_8000.mp4"
+     },
+     {
+      "code": "MP4-HD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/21/FR_20261021_071614_072101_CS_5000.mp4"
+     },
+     {
+      "code": "MP4-SD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/21/FR_20261021_071614_072101_CS.mp4"
+     },
+     {
+      "code": "MP4-FULL-HD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/21/FR_20261021_071614_072101_CS_8000.mp4"
+     }
+    ],
+    "images": {
+     "credit": "© France 24",
+     "caption": "rdp 2110",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/7184a16e-cd16-11f1-996d-4dd8ac2cf3bf/Francais-2026-10-21T05-18-19-521Z.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/7184a16e-cd16-11f1-996d-4dd8ac2cf3bf/w:720/p:16x9/Francais-2026-10-21T05-18-19-521Z.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/7184a16e-cd16-11f1-996d-4dd8ac2cf3bf",
+     "filename": "Francais-2026-10-21T05-18-19-521Z.jpg",
+     "filenameWithoutExtension": "Francais-2026-10-21T05-18-19-521Z",
+     "mediumId": "7184a16e-cd16-11f1-996d-4dd8ac2cf3bf",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "shorty_url": "https://f24.my/CEUu",
+    "video_type": {
+     "code": "102_D64_20905",
+     "label": "CLIP",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_rights": {
+     "code": "102_D64_20459",
+     "label": "France 24",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_source": {
+     "code": "102_D64_20457",
+     "label": "Cutscene",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_provider": {},
+    "brandContent": false,
+    "department": null,
+    "aspectRatio": 1.77778
+   },
+   {
+    "nid": "C31A21F6-9821-411A-BBE6-6A6CA28B1F08",
+    "created": "1792511537000",
+    "changed": "1792511664000",
+    "type": "video",
+    "validity_start_date": "1792447200000",
+    "validity_end_date": "4916584800000",
+    "description": "<p>Les conséquences des crises internationales successives continuent de peser sur le quotidien des Libanais. Parmi eux, les enfants grièvement blessés par la guerre qui tentent de se reconstruire, entre soins, rééducation et retour à l'école. Certains viennent du sud du pays, d'autres ont été évacués de Gaza pour être soignés à Beyrouth. Tous doivent désormais apprendre à vivre avec ce que la gue",
+    "cartouche": null,
+    "title": "Situation au Liban : les enfants blessés par la guerre tentent de retrouver un quotidien",
+    "title_news": "Liban : près de 80% de la population sous le seuil de pauvreté",
+    "youtube_url": "",
+    "youtube_id": "pPfvOg90TRs",
+    "surtitle": "",
+    "intro": "<p>Les conséquences des crises internationales successives continuent de peser sur le quotidien des Libanais. Parmi eux, les enfants grièvement blessés par la guerre qui tentent de se reconstruire, entre soins, rééducation et retour à l'école. Certains viennent du sud du pays, d'autres ont été évacués de Gaza pour être soignés à Beyrouth. Tous doivent désormais apprendre à vivre avec ce que la gue",
+    "source": "FRANCE24",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-situation-au-liban-les-enfants-bless%C3%A9s-par-la-guerre-tentent-de-retrouver-un-quotidien",
+    "taxonomy": [
+     {
+      "vid": "102_D220_17",
+      "tags": [
+       {
+        "tid": "102_D64_1549",
+        "name": "Liban",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_17820",
+        "name": "Asie",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_14152",
+        "name": "Pauvreté",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_18141",
+        "name": "Économie",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_19278",
+        "name": "Guerre",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_14072",
+        "name": "Beyrouth",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     },
+     {
+      "vid": "102_D220_2",
+      "tags": [
+       {
+        "tid": "102_D129_MZ189354",
+        "name": "Personne Exemple",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     }
+    ],
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "duration": "450000",
+    "formats": [
+     {
+      "code": "MP4",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FR_20261020_163400_164131_CS_8000.mp4"
+     },
+     {
+      "code": "MP4-HD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FR_20261020_163400_164131_CS_5000.mp4"
+     },
+     {
+      "code": "MP4-SD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FR_20261020_163400_164131_CS.mp4"
+     },
+     {
+      "code": "MP4-FULL-HD",
+      "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FR_20261020_163400_164131_CS_8000.mp4"
+     }
+    ],
+    "images": {
+     "credit": "© FRANCE 24",
+     "caption": "Situation au Liban : les enfants blessés par la guerre tentent de retrouver un quotidien",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/2c12430c-cc9e-11f1-9241-d1d2c32ebb87/capture-a034e2a7.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/2c12430c-cc9e-11f1-9241-d1d2c32ebb87/w:720/p:16x9/capture-a034e2a7.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/2c12430c-cc9e-11f1-9241-d1d2c32ebb87",
+     "filename": "capture-a034e2a7.jpg",
+     "filenameWithoutExtension": "capture-a034e2a7",
+     "mediumId": "2c12430c-cc9e-11f1-9241-d1d2c32ebb87",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "shorty_url": "https://f24.my/CER2",
+    "video_type": {
+     "code": "102_D64_20260",
+     "label": "EMISSION",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_rights": {
+     "code": "102_D64_20459",
+     "label": "France 24",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_source": {
+     "code": "102_D64_20457",
+     "label": "Cutscene",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "video_provider": {
+     "code": "102_D64_20095",
+     "label": "FRANCE 24",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "brandContent": false,
+    "department": null,
+    "aspectRatio": 1.77778
+   }
+  ],
+  "nb_total_item": 62519,
+  "current_page": 1,
+  "last_page": 2501,
+  "nb_item_per_page": 25
+ },
+ "version": "2.0",
+ "literalGmtDate": "2026-10-21T08:04:51Z",
+ "timestamp": "1792569891000"
+}

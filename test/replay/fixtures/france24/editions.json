@@ -1,0 +1,634 @@
+{
+ "result": {
+  "list": [
+   {
+    "nid": "WBMZ705617-F24-FR-20261016",
+    "created": "1792255508000",
+    "changed": "1792255508000",
+    "title": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+    "type": "edition",
+    "surtitle": "",
+    "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est un invité, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 17 octobre est \"un rayon de soleil dans un ciel fait de ténèbres.\" </p>",
+    "source": "FRANCE24",
+    "section": "",
+    "url": "https://www.france24.com/fr/émissions/avec-judith/20261017-manifestation-du-17-octobre-bernard-thibault-apporte-son-soutien-aux-jeunes-mobilisés",
+    "taxonomy": [
+     {
+      "vid": "102_D220_17",
+      "tags": [
+       {
+        "tid": "102_D64_MZ193955",
+        "name": "Podcast",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     },
+     {
+      "vid": "102_D220_37",
+      "tags": [
+       {
+        "tid": "102_D64_MZ533962",
+        "name": "Avec Judith",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     }
+    ],
+    "images": {
+     "credit": "© France 24",
+     "caption": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/vignette-9.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/w:720/p:16x9/vignette-9.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+     "filename": "vignette-9.jpg",
+     "filenameWithoutExtension": "vignette-9",
+     "mediumId": "b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "authors": [],
+    "videos": [
+     {
+      "nid": "WBMZ705515-F24-FR-20261016",
+      "created": "1792232608000",
+      "changed": "1792255603000",
+      "type": "video",
+      "validity_start_date": "1792101600000",
+      "validity_end_date": "2143234800000",
+      "description": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est un invité, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 17 octobre est \"un rayon de soleil dans un ciel fait de ténèbres.\" </p>",
+      "cartouche": null,
+      "title": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+      "title_news": "",
+      "youtube_url": "",
+      "youtube_id": "v3txHKgGqnc",
+      "surtitle": "",
+      "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est un invité, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 17 octobre est \"un rayon de soleil dans un ciel fait de ténèbres.\" </p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261017-manifestation-du-17-octobre-bernard-thibault-apporte-son-soutien-aux-jeunes-mobilis%C3%A9s",
+      "taxonomy": [],
+      "authors": [],
+      "duration": "2850520",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/hd/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/vignette-9.jpg"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/w:720/p:16x9/vignette-9.jpg"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+       "filename": "vignette-9.jpg",
+       "filenameWithoutExtension": "vignette-9",
+       "mediumId": "b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CE5H",
+      "video_type": {},
+      "video_rights": {},
+      "video_source": {},
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "main_video": [
+     {
+      "nid": "WBMZ705515-F24-FR-20261016",
+      "created": "1792232608000",
+      "changed": "1792255603000",
+      "type": "video",
+      "validity_start_date": "1792101600000",
+      "validity_end_date": "2143234800000",
+      "description": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est un invité, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 17 octobre est \"un rayon de soleil dans un ciel fait de ténèbres.\" </p>",
+      "cartouche": null,
+      "title": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+      "title_news": "",
+      "youtube_url": "",
+      "youtube_id": "v3txHKgGqnc",
+      "surtitle": "",
+      "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est un invité, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 17 octobre est \"un rayon de soleil dans un ciel fait de ténèbres.\" </p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261017-manifestation-du-17-octobre-bernard-thibault-apporte-son-soutien-aux-jeunes-mobilis%C3%A9s",
+      "taxonomy": [],
+      "authors": [],
+      "duration": "2850520",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/hd/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/16/ae4246b8-c962-11f1-8f0d-e78e822c698c.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "Manifestation du 17 octobre : un invité apporte son soutien aux jeunes mobilisés",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/vignette-9.jpg"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6/w:720/p:16x9/vignette-9.jpg"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+       "filename": "vignette-9.jpg",
+       "filenameWithoutExtension": "vignette-9",
+       "mediumId": "b64dd54a-c974-11f1-8d87-638c1c1f5fd6",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CE5H",
+      "video_type": {},
+      "video_rights": {},
+      "video_source": {},
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "guests": [],
+    "part_num": "0",
+    "programs": {
+     "nid": "WBMZ533974-F24-FR-20250909",
+     "real_nid": "MZ533974",
+     "id": "888352c4-8d99-11f0-b443-6966514e685d",
+     "type": "emission",
+     "title": "Avec Judith",
+     "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast pour évoquer un moment marquant de sa vie.   </p>",
+     "url": "https://www.france24.com/fr/émissions/podcast-avec-judith/"
+    },
+    "shorty_url": "https://f24.my/CE7T",
+    "brandContent": false,
+    "episodeType": "full",
+    "soundExpiresAt": "2143234800000"
+   },
+   {
+    "nid": "WBMZ699721-F24-FR-20261003",
+    "created": "",
+    "changed": "1791023625000",
+    "title": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+    "type": "edition",
+    "surtitle": "",
+    "intro": "<p>L'invité de l'émission \"Avec Judith\" du jour parle de culture et de financement de la création.</p>",
+    "source": "FRANCE24",
+    "section": "France",
+    "url": "https://www.france24.com/fr/émissions/avec-judith/20261003-l-argent-roi-dans-la-culture-je-suis-à-l-opposé-de-cette-façon-de-penser-dit-jérôme-clément",
+    "taxonomy": [
+     {
+      "vid": "102_D220_17",
+      "tags": [
+       {
+        "tid": "102_D64_2775",
+        "name": "Culture",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_17315",
+        "name": "Journalisme",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_479",
+        "name": "Médias",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_19689",
+        "name": "Argent",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_17738",
+        "name": "Services publics",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_17014",
+        "name": "Audiovisuel public",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_5832",
+        "name": "Télévision",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_1199",
+        "name": "France",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_19348",
+        "name": "Télévision publique",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     },
+     {
+      "vid": "102_D220_2",
+      "tags": [
+       {
+        "tid": "102_D129_16539",
+        "name": "Personne Exemple",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     }
+    ],
+    "images": {
+     "credit": "© France 24",
+     "caption": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/w:720/p:16x9/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+     "filename": "Vignette-AVEC-JUDITH-Jerome-Clement0.png",
+     "filenameWithoutExtension": "Vignette-AVEC-JUDITH-Jerome-Clement0",
+     "mediumId": "581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "videos": [
+     {
+      "nid": "WBMZ699086-F24-FR-20261001",
+      "created": "1791021610000",
+      "changed": "1791194756000",
+      "type": "video",
+      "validity_start_date": "1790805600000",
+      "validity_end_date": "2143234800000",
+      "description": "<p>L'invité de l'émission \"Avec Judith\" du jour parle de culture et de financement de la création.</p>",
+      "cartouche": null,
+      "title": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+      "title_news": "",
+      "youtube_url": "",
+      "youtube_id": "npp6KIqzcRk",
+      "surtitle": "",
+      "intro": "<p>L'invité de l'émission \"Avec Judith\" du jour parle de culture et de financement de la création.</p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-l-argent-roi-dans-la-culture-je-suis-%C3%A0-l-oppos%C3%A9-de-cette-fa%C3%A7on-de-penser-dit-j%C3%A9r%C3%B4me-cl%C3%A9ment",
+      "taxonomy": [
+       {
+        "vid": "102_D220_17",
+        "tags": [
+         {
+          "tid": "102_D64_479",
+          "name": "Médias",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_2775",
+          "name": "Culture",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17738",
+          "name": "Services publics",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17014",
+          "name": "Audiovisuel public",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_5832",
+          "name": "Télévision",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17315",
+          "name": "Journalisme",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_1199",
+          "name": "France",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_5782",
+          "name": "Cinéma",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       },
+       {
+        "vid": "102_D220_2",
+        "tags": [
+         {
+          "tid": "102_D129_16539",
+          "name": "Personne Exemple",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       }
+      ],
+      "authors": [
+       {
+        "nid": "102_D129_EXAMPLE",
+        "name": "Auteur Exemple"
+       }
+      ],
+      "duration": "2794620",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/hd/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/w:720/p:16x9/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+       "filename": "Vignette-AVEC-JUDITH-Jerome-Clement0.png",
+       "filenameWithoutExtension": "Vignette-AVEC-JUDITH-Jerome-Clement0",
+       "mediumId": "581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CCHN",
+      "video_type": {},
+      "video_rights": {},
+      "video_source": {},
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "main_video": [
+     {
+      "nid": "WBMZ699086-F24-FR-20261001",
+      "created": "1791021610000",
+      "changed": "1791194756000",
+      "type": "video",
+      "validity_start_date": "1790805600000",
+      "validity_end_date": "2143234800000",
+      "description": "<p>L'invité de l'émission \"Avec Judith\" du jour parle de culture et de financement de la création.</p>",
+      "cartouche": null,
+      "title": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+      "title_news": "",
+      "youtube_url": "",
+      "youtube_id": "npp6KIqzcRk",
+      "surtitle": "",
+      "intro": "<p>L'invité de l'émission \"Avec Judith\" du jour parle de culture et de financement de la création.</p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-l-argent-roi-dans-la-culture-je-suis-%C3%A0-l-oppos%C3%A9-de-cette-fa%C3%A7on-de-penser-dit-j%C3%A9r%C3%B4me-cl%C3%A9ment",
+      "taxonomy": [
+       {
+        "vid": "102_D220_17",
+        "tags": [
+         {
+          "tid": "102_D64_479",
+          "name": "Médias",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_2775",
+          "name": "Culture",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17738",
+          "name": "Services publics",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17014",
+          "name": "Audiovisuel public",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_5832",
+          "name": "Télévision",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_17315",
+          "name": "Journalisme",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_1199",
+          "name": "France",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_5782",
+          "name": "Cinéma",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       },
+       {
+        "vid": "102_D220_2",
+        "tags": [
+         {
+          "tid": "102_D129_16539",
+          "name": "Personne Exemple",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       }
+      ],
+      "authors": [
+       {
+        "nid": "102_D129_EXAMPLE",
+        "name": "Auteur Exemple"
+       }
+      ],
+      "duration": "2794620",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/hd/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/01/8e24607a-bdc6-11f1-b3b9-99d5e8adaad1.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "L'argent roi dans la culture ? \"Je suis à l'opposé de cette façon de penser\", dit l'invité",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2/w:720/p:16x9/Vignette-AVEC-JUDITH-Jerome-Clement0.png"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+       "filename": "Vignette-AVEC-JUDITH-Jerome-Clement0.png",
+       "filenameWithoutExtension": "Vignette-AVEC-JUDITH-Jerome-Clement0",
+       "mediumId": "581df4c8-bdc6-11f1-b5e7-13420ab900a2",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CCHN",
+      "video_type": {},
+      "video_rights": {},
+      "video_source": {},
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "guests": [],
+    "part_num": "0",
+    "programs": {
+     "nid": "WBMZ533974-F24-FR-20250909",
+     "real_nid": "MZ533974",
+     "id": "888352c4-8d99-11f0-b443-6966514e685d",
+     "type": "emission",
+     "title": "Avec Judith",
+     "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast pour évoquer un moment marquant de sa vie.   </p>",
+     "url": "https://www.france24.com/fr/émissions/podcast-avec-judith/"
+    },
+    "shorty_url": "https://f24.my/CCHR",
+    "brandContent": false,
+    "episodeType": "full",
+    "soundExpiresAt": "2143234800000"
+   }
+  ],
+  "nb_total_item": 42,
+  "current_page": 1,
+  "last_page": 2,
+  "nb_item_per_page": 21
+ },
+ "version": "2.0",
+ "literalGmtDate": "2026-10-21T08:04:47Z",
+ "timestamp": "1792569887000"
+}

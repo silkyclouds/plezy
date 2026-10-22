@@ -1,0 +1,172 @@
+{
+ "result": {
+  "list": [
+   {
+    "nid": "WB4125837-F24-FR-20091008",
+    "real_nid": "4125837",
+    "id": "e800f958-dae7-11e7-851c-005056bf73c0",
+    "created": "1255006081000",
+    "changed": "1791367865000",
+    "type": "emission",
+    "title": "Le débat",
+    "surtitle": "",
+    "intro": "<p>Tous les soirs, nos invités débattent du sujet principal à la une de l'actualité en France ou à l'international. Du lundi au jeudi, à 19 h 10.</p>",
+    "description": "<p>Tous les soirs, nos invités débattent du sujet principal à la une de l'actualité en France ou à l'international. Du lundi au jeudi, à 19 h 10.</p>",
+    "body": "<p>Tous les soirs, nos invités débattent du sujet principal à la une de l'actualité en France ou à l'international. Du lundi au jeudi, à 19 h 10.</p>",
+    "url": "https://www.france24.com/fr/émissions/débat/",
+    "multimedia_elements": [],
+    "authors": [],
+    "team_members": [
+     {
+      "nid": "102_D129_16450",
+      "name": "Stéphanie ANTOINE",
+      "brandContent": false,
+      "landingContent": null
+     }
+    ],
+    "display_title": "Le débat",
+    "images": {
+     "credit": "© Studio Graphique",
+     "caption": "Le Débat",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/e6bf9f36-ec1a-11ee-85de-005056a97e36/FR-LE-DEBAT_16-9-4K-3.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/e6bf9f36-ec1a-11ee-85de-005056a97e36/w:720/p:16x9/FR-LE-DEBAT_16-9-4K-3.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/e6bf9f36-ec1a-11ee-85de-005056a97e36",
+     "filename": "FR-LE-DEBAT_16-9-4K-3.jpg",
+     "filenameWithoutExtension": "FR-LE-DEBAT_16-9-4K-3",
+     "mediumId": "e6bf9f36-ec1a-11ee-85de-005056a97e36",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 24000,
+    "wordCount": 31,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© Studio Graphique",
+     "caption": "Le Débat",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/02637492-ec1b-11ee-aa6a-005056a90284/FR-LE-DEBAT_1-1_v2.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/02637492-ec1b-11ee-aa6a-005056a90284",
+     "filename": "FR-LE-DEBAT_1-1_v2.jpg",
+     "filenameWithoutExtension": "FR-LE-DEBAT_1-1_v2",
+     "mediumId": "02637492-ec1b-11ee-aa6a-005056a90284",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   },
+   {
+    "nid": "WB5418710-F24-FR-20191028",
+    "real_nid": "5418710",
+    "id": "b8968070-f967-11e9-81dc-005056bfe832",
+    "created": "1572255945000",
+    "changed": "1791367898000",
+    "type": "emission",
+    "title": "Légendes urbaines",
+    "surtitle": "",
+    "intro": "<p>Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en révélant leur \"face cachée\" derrière les clichés et les postures. Tous les samedis à 12 h 30 sur RFI et 16 h 40 sur France 24.</p>",
+    "description": "<p>Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en révélant leur \"face cachée\" derrière les clichés et les postures. Tous les samedis à 12 h 30 sur RFI et 16 h 40 sur France 24.</p>",
+    "body": "<p>Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en révélant leur \"face cachée\" derrière les clichés et les postures. Tous les samedis à 12 h 30 sur RFI et 16 h 40 sur France 24.</p>",
+    "url": "https://www.france24.com/fr/émissions/légendes-urbaines/",
+    "multimedia_elements": [],
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "team_members": [
+     {
+      "nid": "102_D129_23057",
+      "name": "Juliette FIEVET",
+      "brandContent": false,
+      "landingContent": null
+     }
+    ],
+    "display_title": "Légendes urbaines",
+    "images": {
+     "credit": "© France 24",
+     "caption": "Emission - Légendes urbaines - Juliette Fievet",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/e029b9e8-dace-11ee-81ad-005056bf30b7/FR-LEGENDES-URBAINES_16-9-4K.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/e029b9e8-dace-11ee-81ad-005056bf30b7/w:720/p:16x9/FR-LEGENDES-URBAINES_16-9-4K.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/e029b9e8-dace-11ee-81ad-005056bf30b7",
+     "filename": "FR-LEGENDES-URBAINES_16-9-4K.jpg",
+     "filenameWithoutExtension": "FR-LEGENDES-URBAINES_16-9-4K",
+     "mediumId": "e029b9e8-dace-11ee-81ad-005056bf30b7",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 26153,
+    "wordCount": 41,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© France 24",
+     "caption": "Emission - Légendes Urbaines - Juliette Fievet",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/ec53e4d2-dace-11ee-b195-005056bf30b7/FR-LEGENDES-URBAINES_1-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/ec53e4d2-dace-11ee-b195-005056bf30b7",
+     "filename": "FR-LEGENDES-URBAINES_1-1.jpg",
+     "filenameWithoutExtension": "FR-LEGENDES-URBAINES_1-1",
+     "mediumId": "ec53e4d2-dace-11ee-b195-005056bf30b7",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   }
+  ],
+  "nb_total_item": 47,
+  "current_page": 2,
+  "last_page": 2,
+  "nb_item_per_page": 24
+ },
+ "version": "2.0",
+ "literalGmtDate": "2026-10-21T08:31:31Z",
+ "timestamp": "1792571491000"
+}

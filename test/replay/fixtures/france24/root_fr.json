@@ -1,0 +1,55 @@
+{
+ "result": {
+  "list": {
+   "inapp_version_min": {
+    "version": "4.2.1",
+    "description": "version minimum requise pour afficher le message d'update (= à la version en ligne)."
+   },
+   "languages": [
+    {
+     "code": "FR",
+     "tv": {
+      "direct_tv": {
+       "guid": "8c4c958f-f943-4429-8564-53185bb2b64c",
+       "label": "Direct & JT",
+       "tracking_code": "direct_jt",
+       "description": "HLS live + derniers JTs Live"
+      },
+      "current_program": {
+       "guid": "c59badfa-8f9d-435c-a073-24d2fd4ff7fb",
+       "label": "En ce moment",
+       "tracking_code": "en_ce_moment",
+       "description": "Le dernier programme en cours"
+      },
+      "videos": {
+       "guid": "ea148510-c824-4112-8e41-475cefb466d2",
+       "label": "Vidéos",
+       "tracking_code": "videos",
+       "description": "Liste des dernières vidéos tagués France24"
+      },
+      "shows": {
+       "shows_last_edition": {
+        "guid": "1f5a6e4d-370c-4ec3-9743-8dda577d07a1",
+        "label": "Emissions",
+        "tracking_code": "emissions",
+        "description": "Liste des dernières éditions des émissions de France24, classement par ordre alphabétique des émissions"
+       },
+       "shows_all": {
+        "guid": "99cc9485-ede6-41ed-b671-399564be7859",
+        "label": "Toutes les émissions",
+        "tracking_code": "emissions",
+        "description": "Liste des émissions de France24, classement par ordre alphabétique des émissions"
+       },
+       "show_editions": {
+        "guid": "81e5fb03-85ea-45db-8210-43adb6fe5206",
+        "label": "Emissions",
+        "tracking_code": "emissions",
+        "description": "Les x dernières édition d'une émission"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

@@ -4,6 +4,7 @@ import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
+import '../providers/france24/france24_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/lrt/lrt_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
@@ -223,6 +224,13 @@ const replaySourceInfos = [
     country: 'DE',
     languages: ['de'],
   ),
+  ReplaySourceInfo(
+    id: 'france24',
+    name: 'France 24',
+    support: ReplayPlaybackSupport.clear,
+    country: 'FR',
+    languages: ['fr'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -281,6 +289,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'lrt' => LrtProvider(http),
       'nfb' => NfbProvider(http),
       'ardmediathek' => ArdMediathekProvider(http),
+      'france24' => France24Provider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

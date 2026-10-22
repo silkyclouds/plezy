@@ -1,0 +1,380 @@
+{
+ "result": {
+  "list": [
+   {
+    "nid": "WBMZ707277-F24-FR-20261021",
+    "created": "",
+    "changed": "1792537644000",
+    "title": "17 octobre : le retour des courtes peines",
+    "type": "edition",
+    "surtitle": "",
+    "intro": "<p>L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, le ministre a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800 déférées devant des tribunaux.</p>",
+    "source": "FRANCE24",
+    "section": "France",
+    "url": "https://www.france24.com/fr/émissions/les-clés-de-l-info/20261020-17-octobre-le-retour-des-courtes-peines",
+    "taxonomy": [
+     {
+      "vid": "102_D220_17",
+      "tags": [
+       {
+        "tid": "102_D64_17314",
+        "name": "Manifestations",
+        "brandContent": false,
+        "landingContent": null
+       },
+       {
+        "tid": "102_D64_12562",
+        "name": "Prison",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     },
+     {
+      "vid": "102_D220_2",
+      "tags": [
+       {
+        "tid": "102_D129_18512",
+        "name": "Personne Exemple",
+        "brandContent": false,
+        "landingContent": null
+       }
+      ]
+     }
+    ],
+    "images": {
+     "credit": "© France 24",
+     "caption": "Les clés de l'info ",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/FRAN261020-2339-Live-CS2339.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/w:720/p:16x9/FRAN261020-2339-Live-CS2339.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+     "filename": "FRAN261020-2339-Live-CS2339.jpg",
+     "filenameWithoutExtension": "FRAN261020-2339-Live-CS2339",
+     "mediumId": "1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "videos": [
+     {
+      "nid": "98A51402-A25F-4F73-89FE-DBD48F620CD9",
+      "created": "1792537634000",
+      "changed": "1792537782000",
+      "type": "video",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916671200000",
+      "description": "<p>L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, le ministre a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800 déférées devant des tribunaux.</p>",
+      "cartouche": "Analyse",
+      "title": "17 octobre : le retour des courtes peines",
+      "title_news": "2 mois de prison : est-ce vraiment efficace ?",
+      "youtube_url": "",
+      "youtube_id": "thQzOWaJu7A",
+      "surtitle": "",
+      "intro": "<p>L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, le ministre a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800 déférées devant des tribunaux.</p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-le-retour-des-courtes-peines",
+      "taxonomy": [
+       {
+        "vid": "102_D220_17",
+        "tags": [
+         {
+          "tid": "102_D64_12562",
+          "name": "Prison",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_1199",
+          "name": "France",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_19138",
+          "name": "Délinquance",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_21727",
+          "name": "le ministre",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_10792",
+          "name": "Justice",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       },
+       {
+        "vid": "102_D220_2",
+        "tags": [
+         {
+          "tid": "102_D129_18512",
+          "name": "Personne Exemple",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       }
+      ],
+      "authors": [
+       {
+        "nid": "102_D129_EXAMPLE",
+        "name": "Auteur Exemple"
+       }
+      ],
+      "duration": "384000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_8000.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/FRAN261020-2339-Live-CS2339.jpg"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/w:720/p:16x9/FRAN261020-2339-Live-CS2339.jpg"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+       "filename": "FRAN261020-2339-Live-CS2339.jpg",
+       "filenameWithoutExtension": "FRAN261020-2339-Live-CS2339",
+       "mediumId": "1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CETs",
+      "video_type": {
+       "code": "102_D64_20260",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_rights": {
+       "code": "102_D64_20459",
+       "label": "France 24",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_source": {
+       "code": "102_D64_20457",
+       "label": "Cutscene",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "main_video": [
+     {
+      "nid": "98A51402-A25F-4F73-89FE-DBD48F620CD9",
+      "created": "1792537634000",
+      "changed": "1792537782000",
+      "type": "video",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916671200000",
+      "description": "<p>L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, le ministre a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800 déférées devant des tribunaux.</p>",
+      "cartouche": "Analyse",
+      "title": "17 octobre : le retour des courtes peines",
+      "title_news": "2 mois de prison : est-ce vraiment efficace ?",
+      "youtube_url": "",
+      "youtube_id": "thQzOWaJu7A",
+      "surtitle": "",
+      "intro": "<p>L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, le ministre a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800 déférées devant des tribunaux.</p>",
+      "source": "FRANCE24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-le-retour-des-courtes-peines",
+      "taxonomy": [
+       {
+        "vid": "102_D220_17",
+        "tags": [
+         {
+          "tid": "102_D64_12562",
+          "name": "Prison",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_1199",
+          "name": "France",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_19138",
+          "name": "Délinquance",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_21727",
+          "name": "le ministre",
+          "brandContent": false,
+          "landingContent": null
+         },
+         {
+          "tid": "102_D64_10792",
+          "name": "Justice",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       },
+       {
+        "vid": "102_D220_2",
+        "tags": [
+         {
+          "tid": "102_D129_18512",
+          "name": "Personne Exemple",
+          "brandContent": false,
+          "landingContent": null
+         }
+        ]
+       }
+      ],
+      "authors": [
+       {
+        "nid": "102_D129_EXAMPLE",
+        "name": "Auteur Exemple"
+       }
+      ],
+      "duration": "384000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/fr/vod/2026/10/20/FRAN261020-2339-Live_CS2339_8000.mp4"
+       }
+      ],
+      "images": {
+       "credit": "© France 24",
+       "caption": "",
+       "by_line": "",
+       "url": "",
+       "formats": [
+        {
+         "code": "original",
+         "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/FRAN261020-2339-Live-CS2339.jpg"
+        },
+        {
+         "code": "720x405",
+         "url": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/w:720/p:16x9/FRAN261020-2339-Live-CS2339.jpg"
+        }
+       ],
+       "crop": "0",
+       "mediaPath": "/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+       "filename": "FRAN261020-2339-Live-CS2339.jpg",
+       "filenameWithoutExtension": "FRAN261020-2339-Live-CS2339",
+       "mediumId": "1501eede-ccd9-11f1-93a5-2d1c143cdef3",
+       "originalRatio": 1.7777777777778,
+       "publicMediaDomain": "https://s.france24.com",
+       "hideLegend": false
+      },
+      "shorty_url": "https://f24.my/CETs",
+      "video_type": {
+       "code": "102_D64_20260",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_rights": {
+       "code": "102_D64_20459",
+       "label": "France 24",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_source": {
+       "code": "102_D64_20457",
+       "label": "Cutscene",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "video_provider": {},
+      "brandContent": false,
+      "department": null,
+      "aspectRatio": 1.77778
+     }
+    ],
+    "guests": [],
+    "part_num": "0",
+    "programs": {
+     "nid": "WBMZ540372-F24-FR-20250925",
+     "real_nid": "MZ540372",
+     "id": "f484b626-99f5-11f0-bedc-71dbc737dd40",
+     "type": "emission",
+     "title": "Les clés de l'info",
+     "intro": "<p>Vous avez besoin de clés de compréhension sur le fait d'actualité du jour ? Chaque soir, Jean Exemple apporte un éclairage précis et concis pour mieux comprendre le monde. Du lundi au jeudi à 21h30 et 23h30.</p>",
+     "url": "https://www.france24.com/fr/émissions/les-clés-de-l-info/"
+    },
+    "shorty_url": "https://f24.my/CETt",
+    "brandContent": false,
+    "episodeType": "full",
+    "soundExpiresAt": "2143234800000"
+   }
+  ],
+  "nb_total_item": 52323,
+  "current_page": 1,
+  "last_page": 2181,
+  "nb_item_per_page": 24
+ },
+ "version": "2.0",
+ "literalGmtDate": "2026-10-21T07:50:33Z",
+ "timestamp": "1792569033000"
+}

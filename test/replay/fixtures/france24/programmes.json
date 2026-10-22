@@ -1,0 +1,323 @@
+{
+ "result": {
+  "list": [
+   {
+    "nid": "WB4762610-F24-FR-20131202",
+    "real_nid": "4762610",
+    "id": "1f0c32f4-db0c-11e7-a2fe-005056bf73c0",
+    "created": "1385988092000",
+    "changed": "1791303915000",
+    "type": "emission",
+    "title": "ActuElles",
+    "surtitle": "",
+    "intro": "<p>Le journal de celles qui font l’actualité internationale et de ceux qui font bouger le monde, encore largement dominé par les hommes. Avec des reportages, des invités et une page facebook. Vendredi à 16 h 15.</p>",
+    "description": "<p>Le journal de celles qui font l’actualité internationale et de ceux qui font bouger le monde, encore largement dominé par les hommes. Avec des reportages, des invités et une page facebook. Vendredi à 16 h 15.</p>",
+    "body": "<p>Le journal de celles qui font l’actualité internationale et de ceux qui font bouger le monde, encore largement dominé par les hommes. Avec des reportages, des invités et une page facebook. Vendredi à 16 h 15.</p>",
+    "url": "https://www.france24.com/fr/émissions/actuelles/",
+    "multimedia_elements": [],
+    "authors": [],
+    "team_members": [
+     {
+      "nid": "102_D129_16587",
+      "name": "Jean Exemple",
+      "brandContent": false,
+      "landingContent": null
+     },
+     {
+      "nid": "102_D129_18547",
+      "name": "Jean Exemple",
+      "brandContent": false,
+      "landingContent": null
+     }
+    ],
+    "display_title": "ActuElles",
+    "images": {
+     "credit": "© FRANCE 24",
+     "caption": "ACTUELLES",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/004b41c4-dafc-11ee-88cf-005056bfb2b6/FR-ACTUELLES_16-9-4K-1.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/004b41c4-dafc-11ee-88cf-005056bfb2b6/w:720/p:16x9/FR-ACTUELLES_16-9-4K-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/004b41c4-dafc-11ee-88cf-005056bfb2b6",
+     "filename": "FR-ACTUELLES_16-9-4K-1.jpg",
+     "filenameWithoutExtension": "FR-ACTUELLES_16-9-4K-1",
+     "mediumId": "004b41c4-dafc-11ee-88cf-005056bfb2b6",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 25538,
+    "wordCount": 38,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© FRANCE 24",
+     "caption": "ACTUELLES",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/d12a570c-da30-11ee-82fb-005056bf30b7/FR-ACTUELLES_1-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/d12a570c-da30-11ee-82fb-005056bf30b7",
+     "filename": "FR-ACTUELLES_1-1.jpg",
+     "filenameWithoutExtension": "FR-ACTUELLES_1-1",
+     "mediumId": "d12a570c-da30-11ee-82fb-005056bf30b7",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   },
+   {
+    "nid": "WBMZ533974-F24-FR-20250909",
+    "real_nid": "MZ533974",
+    "id": "888352c4-8d99-11f0-b443-6966514e685d",
+    "created": "1757435099000",
+    "changed": "1791361055000",
+    "type": "emission",
+    "title": "Avec Judith",
+    "surtitle": "",
+    "intro": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast pour évoquer un moment marquant de sa vie.   </p>",
+    "description": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast pour évoquer un moment marquant de sa vie.   </p>",
+    "body": "<p>Chaque semaine, Jean Exemple reçoit un invité dans son podcast pour évoquer un moment marquant de sa vie.   </p>",
+    "url": "https://www.france24.com/fr/émissions/podcast-avec-judith/",
+    "multimedia_elements": [],
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "team_members": [],
+    "display_title": "",
+    "images": {
+     "credit": "© france24",
+     "caption": "Podcast avec Judith",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/1583da16-8d8d-11f0-8a4a-005056bf30b7/FR-AVEC-JUDITH-16-9-4K.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/1583da16-8d8d-11f0-8a4a-005056bf30b7/w:720/p:16x9/FR-AVEC-JUDITH-16-9-4K.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/1583da16-8d8d-11f0-8a4a-005056bf30b7",
+     "filename": "FR-AVEC-JUDITH-16-9-4K.jpg",
+     "filenameWithoutExtension": "FR-AVEC-JUDITH-16-9-4K",
+     "mediumId": "1583da16-8d8d-11f0-8a4a-005056bf30b7",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 22461,
+    "wordCount": 20,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© france24",
+     "caption": "Avec Judith",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/f41e198a-8d8d-11f0-858d-005056bfb2b6/FR-AVEC-JUDITH-1-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/f41e198a-8d8d-11f0-858d-005056bfb2b6",
+     "filename": "FR-AVEC-JUDITH-1-1.jpg",
+     "filenameWithoutExtension": "FR-AVEC-JUDITH-1-1",
+     "mediumId": "f41e198a-8d8d-11f0-858d-005056bfb2b6",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   },
+   {
+    "nid": "WBMZ219802-F24-FR-20230406",
+    "real_nid": "MZ219802",
+    "id": "2d6ebc68-d471-11ed-80bf-005056bf762b",
+    "created": "1680878042000",
+    "changed": "1791367285000",
+    "type": "emission",
+    "title": "Café des sports",
+    "surtitle": "",
+    "intro": "<p>Annie Gasnier et ses invités se penchent chaque semaine sur l’actualité de la planète football. Ils reviennent sur le parcours des stars d’hier et d’aujourd’hui et débattent des équipes qui font la une. Le Café des sports est diffusé chaque vendredi sur RFI à 16 h 10 (TU) et sur France 24 à 21 h 10 (TU).</p>",
+    "description": "<p>Annie Gasnier et ses invités se penchent chaque semaine sur l’actualité de la planète football. Ils reviennent sur le parcours des stars d’hier et d’aujourd’hui et débattent des équipes qui font la une. Le Café des sports est diffusé chaque vendredi sur RFI à 16 h 10 (TU) et sur France 24 à 21 h 10 (TU).</p>",
+    "body": "<p>Annie Gasnier et ses invités se penchent chaque semaine sur l’actualité de la planète football. Ils reviennent sur le parcours des stars d’hier et d’aujourd’hui et débattent des équipes qui font la une. Le Café des sports est diffusé chaque vendredi sur RFI à 16 h 10 (TU) et sur France 24 à 21 h 10 (TU).</p>",
+    "url": "https://www.france24.com/fr/émissions/café-des-sports/",
+    "multimedia_elements": [],
+    "authors": [
+     {
+      "nid": "102_D129_EXAMPLE",
+      "name": "Auteur Exemple"
+     }
+    ],
+    "team_members": [],
+    "display_title": "",
+    "images": {
+     "credit": "© France 24",
+     "caption": "Emission - Le café des sports",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/eb290686-daf7-11ee-957c-005056bfb2b6/FR-CAFE DES SPORTS_16-9-4K.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/eb290686-daf7-11ee-957c-005056bfb2b6/w:720/p:16x9/FR-CAFE DES SPORTS_16-9-4K.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/eb290686-daf7-11ee-957c-005056bfb2b6",
+     "filename": "FR-CAFE%20DES%20SPORTS_16-9-4K.jpg",
+     "filenameWithoutExtension": "FR-CAFE%20DES%20SPORTS_16-9-4K",
+     "mediumId": "eb290686-daf7-11ee-957c-005056bfb2b6",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 39076,
+    "wordCount": 64,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© France 24",
+     "caption": "Emission - Le café des sports",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/fa1c9338-daf7-11ee-9bdc-005056a97e36/FR-CAFE DES SPORTS_1-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/fa1c9338-daf7-11ee-9bdc-005056a97e36",
+     "filename": "FR-CAFE%20DES%20SPORTS_1-1.jpg",
+     "filenameWithoutExtension": "FR-CAFE%20DES%20SPORTS_1-1",
+     "mediumId": "fa1c9338-daf7-11ee-9bdc-005056a97e36",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   },
+   {
+    "nid": "WB4125917-F24-FR-20091008",
+    "real_nid": "4125917",
+    "id": "e85aa03e-dae7-11e7-899b-005056bf73c0",
+    "created": "1255012513000",
+    "changed": "1791367322000",
+    "type": "emission",
+    "title": "C'est en France",
+    "surtitle": "",
+    "intro": "<p>Chaque semaine, un décryptage de ce qui fait l'actualité en France : société, politique ou culture. Avec des reportages et des interviews pour mieux comprendre le quotidien des Français. Le lundi à 15 h 45.</p>",
+    "description": "<p>Chaque semaine, un décryptage de ce qui fait l'actualité en France : société, politique ou culture. Avec des reportages et des interviews pour mieux comprendre le quotidien des Français. Le lundi à 15 h 45.</p>",
+    "body": "<p>Chaque semaine, un décryptage de ce qui fait l'actualité en France : société, politique ou culture. Avec des reportages et des interviews pour mieux comprendre le quotidien des Français. Le lundi à 15 h 45.</p>",
+    "url": "https://www.france24.com/fr/émissions/cest-en-france/",
+    "multimedia_elements": [],
+    "authors": [],
+    "team_members": [
+     {
+      "nid": "102_D129_18547",
+      "name": "Jean Exemple",
+      "brandContent": false,
+      "landingContent": null
+     }
+    ],
+    "display_title": "C'est en France",
+    "images": {
+     "credit": "© France 24",
+     "caption": "Emission - C'est en France",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/47d70fbe-dafc-11ee-ae0b-005056a97e36/FR-C'est-En-France_16-9-4K-1.jpg"
+      },
+      {
+       "code": "720x405",
+       "url": "https://s.france24.com/media/display/47d70fbe-dafc-11ee-ae0b-005056a97e36/w:720/p:16x9/FR-C'est-En-France_16-9-4K-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/47d70fbe-dafc-11ee-ae0b-005056a97e36",
+     "filename": "FR-C%27est-En-France_16-9-4K-1.jpg",
+     "filenameWithoutExtension": "FR-C%27est-En-France_16-9-4K-1",
+     "mediumId": "47d70fbe-dafc-11ee-ae0b-005056a97e36",
+     "originalRatio": 1.7777777777778,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "social": {},
+    "source": "FRANCE24",
+    "related": [],
+    "estimatedReadingTime": 26153,
+    "wordCount": 39,
+    "brandContent": false,
+    "podcast_square_image": {
+     "credit": "© France 24",
+     "caption": "Emission - C'est en France",
+     "by_line": "",
+     "url": "",
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/c1049e74-daf7-11ee-bc1d-005056a97e36/FR-C'est-En-France_1-1.jpg"
+      }
+     ],
+     "crop": "0",
+     "mediaPath": "/media/display/c1049e74-daf7-11ee-bc1d-005056a97e36",
+     "filename": "FR-C%27est-En-France_1-1.jpg",
+     "filenameWithoutExtension": "FR-C%27est-En-France_1-1",
+     "mediumId": "c1049e74-daf7-11ee-bc1d-005056a97e36",
+     "originalRatio": 1.0,
+     "publicMediaDomain": "https://s.france24.com",
+     "hideLegend": false
+    },
+    "readingType": "episodic",
+    "seasons": []
+   }
+  ],
+  "nb_total_item": 47,
+  "current_page": 1,
+  "last_page": 2,
+  "nb_item_per_page": 24
+ },
+ "version": "2.0",
+ "literalGmtDate": "2026-10-21T08:31:31Z",
+ "timestamp": "1792571491000"
+}
