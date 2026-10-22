@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import '../../../exceptions/media_server_exceptions.dart' show MediaServerHttpException;
 import '../../../utils/app_logger.dart';
 import '../../model/replay_title.dart';
@@ -9,6 +11,9 @@ import 'rtbf_parallel.dart';
 const rtbfMaxRails = 12;
 
 const _railTypes = {'MEDIA_LIST', 'PROGRAM_LIST'};
+
+/// A row slower than this is left out, so the page shows what it has instead of waiting on the slowest request.
+const _rowTimeout = Duration(seconds: 8);
 
 /// Browse id of the full grid behind a row.
 String rtbfWidgetBrowseId(String widgetId) => 'widget:$widgetId';
@@ -34,14 +39,16 @@ class RtbfRails {
     ];
   }
 
-  /// One row that the broadcaster fails to serve must not take the whole page down with it.
+  /// One row that the broadcaster fails to serve, or serves too slowly, must not take the whole page down with it.
   Future<ReplayRail?> _rail(Map<String, dynamic> widget) async {
     try {
-      return await _railFrom(widget);
+      return await _railFrom(widget).timeout(_rowTimeout);
     } on MediaServerHttpException catch (error) {
       appLogger.w('Auvio row ${widget['id']} could not be loaded', error: error);
-      return null;
+    } on TimeoutException {
+      appLogger.w('Auvio row ${widget['id']} took too long');
     }
+    return null;
   }
 
   Future<ReplayRail?> _railFrom(Map<String, dynamic> widget) async {
