@@ -1,5 +1,3 @@
-import '../provider/replay_provider.dart';
-
 /// What the viewer wants on the home screen from catch-up TV.
 ///
 /// By default the home screen offers rows for the channels in languages the viewer follows, so a channel they
@@ -36,13 +34,14 @@ class ReplaySuggestionSettings {
     this.rowsPerChannel = defaultRowsPerChannel,
   });
 
-  /// Whether [source] gets rows on the home screen; [automaticLanguages] applies when the viewer set none.
-  bool offers(ReplaySource source, Set<String> automaticLanguages) {
+  /// Whether the channel [sourceId], which speaks [sourceLanguages], gets rows on the home screen;
+  /// [automaticLanguages] applies when the viewer set none.
+  bool offers(String sourceId, Iterable<String> sourceLanguages, Set<String> automaticLanguages) {
     if (!enabled) return false;
-    final chosen = channels[source.id];
+    final chosen = channels[sourceId];
     if (chosen != null) return chosen;
     final followed = languages.isEmpty ? automaticLanguages : languages;
-    return followed.contains(source.language);
+    return sourceLanguages.any(followed.contains);
   }
 
   /// Whether the row [rowId] of [sourceId] may be offered.

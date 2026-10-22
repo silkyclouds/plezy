@@ -41,6 +41,9 @@ void main() {
     await tester.pumpAndSettle();
     final selectedWhileAway = _brightness(_background(tester, 'Selected'));
     final focusedIdle = _brightness(_background(tester, 'Idle'));
+    idleNode.unfocus();
+    await tester.pumpAndSettle();
+    final idleWhileAway = _brightness(_background(tester, 'Idle'));
 
     selectedNode.requestFocus();
     await tester.pumpAndSettle();
@@ -48,5 +51,6 @@ void main() {
 
     expect(focusedIdle, greaterThan(selectedWhileAway));
     expect(focusedSelected, greaterThan(selectedWhileAway));
+    expect(selectedWhileAway, greaterThan(idleWhileAway));
   });
 }

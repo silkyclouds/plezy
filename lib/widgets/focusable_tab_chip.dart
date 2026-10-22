@@ -115,7 +115,7 @@ class _FocusableTabChipState extends State<FocusableTabChip> with FocusableChipS
 
     // Focus is the strongest state: the chip under the cursor is always the brightest.
     // - Focused (selected or not): full primary
-    // - Selected only: primary, toned down a little so the cursor still stands out
+    // - Selected only: the idle color lifted a little toward primary, light text
     // - Neither: surface color
     Color backgroundColor;
     Color foregroundColor;
@@ -124,8 +124,8 @@ class _FocusableTabChipState extends State<FocusableTabChip> with FocusableChipS
       backgroundColor = colorScheme.primary;
       foregroundColor = colorScheme.onPrimary;
     } else if (widget.isSelected) {
-      backgroundColor = Color.lerp(colorScheme.primary, colorScheme.surface, 0.25)!;
-      foregroundColor = colorScheme.onPrimary;
+      backgroundColor = Color.alphaBlend(colorScheme.primary.withValues(alpha: 0.12), colorScheme.surfaceContainerHighest);
+      foregroundColor = colorScheme.onSurface;
     } else {
       // Neither selected nor focused
       if (PlatformDetector.isTV()) {

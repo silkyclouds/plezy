@@ -2,6 +2,7 @@ import '../../utils/media_server_http_client.dart';
 import '../providers/arte/arte_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
+import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
@@ -111,6 +112,13 @@ const replaySourceInfos = [
     country: 'BE',
     languages: ['fr'],
   ),
+  ReplaySourceInfo(
+    id: 'nhkworld',
+    name: 'NHK WORLD-JAPAN',
+    support: ReplayPlaybackSupport.clear,
+    country: 'JP',
+    languages: ['en'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -155,6 +163,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'tvcom' => TvcomProvider(http),
       'antennecentre' => AntenneCentreProvider(http),
       'canalzoom' => CanalZoomProvider(http),
+      'nhkworld' => NhkWorldProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

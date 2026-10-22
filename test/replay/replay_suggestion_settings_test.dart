@@ -1,9 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:plezy/replay/provider/replay_provider.dart';
 import 'package:plezy/replay/suggestions/replay_suggestion_settings.dart';
 
-const _lithuanian = ReplaySource(id: 'lrt', name: 'LRT', language: 'lt', support: ReplayPlaybackSupport.clear);
-const _french = ReplaySource(id: 'arte', name: 'ARTE', language: 'fr', support: ReplayPlaybackSupport.clear);
+const _lithuanian = ['lt'];
+const _multilingual = ['fr', 'de', 'en'];
 
 void main() {
   test('A stored record survives a round trip', () {
@@ -40,9 +39,10 @@ void main() {
   test('Automatic languages decide until the viewer picks some', () {
     const automatic = {'fr'};
 
-    expect(const ReplaySuggestionSettings().offers(_french, automatic), isTrue);
-    expect(const ReplaySuggestionSettings().offers(_lithuanian, automatic), isFalse);
-    expect(const ReplaySuggestionSettings(languages: {'lt'}).offers(_lithuanian, automatic), isTrue);
-    expect(const ReplaySuggestionSettings(languages: {'lt'}).offers(_french, automatic), isFalse);
+    expect(const ReplaySuggestionSettings().offers('arte', _multilingual, {'en'}), isTrue);
+    expect(const ReplaySuggestionSettings().offers('arte', _multilingual, automatic), isTrue);
+    expect(const ReplaySuggestionSettings().offers('lrt', _lithuanian, automatic), isFalse);
+    expect(const ReplaySuggestionSettings(languages: {'lt'}).offers('lrt', _lithuanian, automatic), isTrue);
+    expect(const ReplaySuggestionSettings(languages: {'lt'}).offers('arte', _multilingual, automatic), isFalse);
   });
 }

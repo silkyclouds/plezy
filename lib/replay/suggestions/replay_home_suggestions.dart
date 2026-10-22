@@ -55,7 +55,7 @@ class ReplayHomeSuggestions {
     final automatic = await automaticLanguages();
     final candidates = [
       for (final provider in providers.values)
-        if (_isOfferedTo(provider, country) && choices.offers(provider.source, automatic)) provider,
+        if (_isOfferedTo(provider, country) && choices.offers(provider.source.id, _languagesOf(provider), automatic)) provider,
     ];
     final watched = await watchedSources();
     final built = await Future.wait([for (final provider in candidates) _rowsOf(provider, choices, itemLimit)]);
@@ -78,6 +78,9 @@ class ReplayHomeSuggestions {
     }
     return hubs;
   }
+
+  Iterable<String> _languagesOf(ReplayProvider provider) =>
+      replaySourceInfo(provider.source.id)?.languages ?? [provider.source.language];
 
   bool _isOfferedTo(ReplayProvider provider, String? country) {
     if (provider.source.support == ReplayPlaybackSupport.browseOnly) return false;
