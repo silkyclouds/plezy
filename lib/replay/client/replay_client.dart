@@ -28,6 +28,7 @@ import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
 import '../provider/replay_provider.dart';
 import '../provider/replay_provider_registry.dart';
+import '../suggestions/replay_home_suggestions.dart';
 import 'replay_account_store.dart';
 import 'replay_accounts.dart';
 import 'replay_api_cache.dart';
@@ -266,12 +267,29 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     ];
   }
 
+  late final ReplayHomeSuggestions _suggestions = ReplayHomeSuggestions(
+    providers: _providers,
+    mapperFor: _mapper,
+    viewerCountry: () => geo?.country,
+    watchedSources: _watchedSources,
+  );
+
+  Future<List<String>> _watchedSources() async {
+    final started = await _watch.inProgress();
+    return {for (final item in started) ?item.libraryId}.toList();
+  }
+
+  /// Suggestions for the home screen: landing rows of the enabled broadcasters that the viewer can play.
   @override
   Future<List<MediaHub>> fetchGlobalHubs({
     int limit = defaultHubPreviewLimit,
     bool includePlaybackHubs = true,
     HubFetchDiagnostics? diagnostics,
-  }) async => const [];
+  }) async {
+    await _awaitGeo();
+    final hubs = await _suggestions.hubs(itemLimit: limit);
+    return [for (final hub in hubs) await _stampedHub(hub)];
+  }
 
   @override
   Future<List<MediaHub>> fetchLibraryHubs(
