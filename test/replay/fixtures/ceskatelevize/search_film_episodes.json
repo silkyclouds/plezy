@@ -1,0 +1,129 @@
+{
+ "data": {
+  "searchEpisodes": {
+   "totalCount": 4,
+   "items": [
+    {
+     "id": "16822993526225381492570002",
+     "description": "Paul nalezne před dveřmi kliniky dítě. Aby se do případu nevložila policie a sociální pracovníci dříve, než to bude nutné, rozhodne se rodiče miminka najít nejprve sám.",
+     "idec": "225381492570002",
+     "sidp": "16822993526",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/qOW68mQMuyjDDIJ00_Y_VEftW1xWNqcTVYp8I7rj1S4/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/67a35ccad69343a583097080/card/210-dite-z-niceho-nic.8c154.jpeg",
+     "title": "2/10 Dítě z ničeho nic",
+     "duration": 5313,
+     "genres": [
+      {
+       "id": "3976",
+       "title": "Seriál"
+      },
+      {
+       "id": "4002",
+       "title": "Zahraniční"
+      },
+      {
+       "id": "3981",
+       "title": "Drama"
+      }
+     ],
+     "code": "katy-a-ja",
+     "showTitle": "Katy a já",
+     "cardLabels": {
+      "topLeft": null,
+      "bottomRight": "89 min"
+     }
+    },
+    {
+     "id": "16822993526225381492570003",
+     "description": "Paul se ujímá případu mladého Chrise, který přišel o matku při leteckém neštěstí a sám má od té doby těžké popáleniny na polovině obličeje.",
+     "idec": "225381492570003",
+     "sidp": "16822993526",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/rdj7jbGLEpGsBePkFzl3nOmtj3sTJWIniL7bShLcJPI/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/67a35ccad69343a58309707f/card/310-navrat-do-zivota.2f117.jpeg",
+     "title": "3/10 Návrat do života",
+     "duration": 5268,
+     "genres": [
+      {
+       "id": "3976",
+       "title": "Seriál"
+      },
+      {
+       "id": "4002",
+       "title": "Zahraniční"
+      },
+      {
+       "id": "3981",
+       "title": "Drama"
+      }
+     ],
+     "code": "katy-a-ja",
+     "showTitle": "Katy a já",
+     "cardLabels": {
+      "topLeft": null,
+      "bottomRight": "88 min"
+     }
+    },
+    {
+     "id": "11412378947224411058130327",
+     "description": "Britský král Karel III. v únoru oznámil, že se bude léčit s blíže nespecifikovanou formou rakoviny. Před několika dny zveřejnila princezna Kate, že i ona se léčí s rakovinou.\nPro princeznu nelehké období, přesto se snaží motivovat ostatní lidi, kteří se nacházejí ve stejné situaci: \"Pro každého, kdo čelí této nemoci, ať už v jakékoliv podobě, neztrácejte víru ani naději. Nejste sami,\" řekla.\nVýznamné a hlavně populární osobnosti mluví otevřeně o své svou diagnóze – může to zvýšit povědomí o rakovinovém onemocnění a zlepšit prevenci?",
+     "idec": "224411058130327",
+     "sidp": "11412378947",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/JOdvqP2XQAFYZ-GmWxWF_ZCzlCTBhTgH_cT8gdnRC5A/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/651662fea730d1b98a0b2161/card/rakovina-v-kralovske-rodine-pomuze-priklad-prevenci-1711572913612.jpeg",
+     "title": "27. března 2024",
+     "duration": 4792,
+     "genres": [
+      {
+       "id": "4124",
+       "title": "Zpravodajství"
+      },
+      {
+       "id": "4139",
+       "title": "Zprávy"
+      },
+      {
+       "id": "4125",
+       "title": "Diskuze"
+      }
+     ],
+     "code": "90-ct24",
+     "showTitle": "90’ ČT24",
+     "cardLabels": {
+      "topLeft": null,
+      "bottomRight": "80 min"
+     }
+    },
+    {
+     "id": "1148499747208562220600163",
+     "description": "1. Vaření - na Štěpána - Roman Paulus — 2. Kuchařská soutěž - p.Mauer — 3. Vánoční pohádky - Káťa Krejčí — 4. Karin Pavlosková — 5. Nadace Leontýnka - Barbara Hulcová",
+     "idec": "208562220600163",
+     "sidp": "1148499747",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/C6nV-w7SaW4CpqlAyG0OCETfmrch-ySLrYOcB84ovVQ/rs:fit:480/sh:0.5/plain/s3/porady-s3/64884298869b5c98100c70fa/placeholder/1148499747-sama-doma-1692880333.jpg",
+     "title": "23. prosince 2008",
+     "duration": 3373,
+     "genres": [
+      {
+       "id": "4055",
+       "title": "Rady a recepty"
+      },
+      {
+       "id": "4062",
+       "title": "Zdraví"
+      },
+      {
+       "id": "4063",
+       "title": "Životní styl"
+      }
+     ],
+     "code": "sama-doma",
+     "showTitle": "Sama doma",
+     "cardLabels": {
+      "topLeft": null,
+      "bottomRight": "57 min"
+     }
+    }
+   ]
+  }
+ }
+}

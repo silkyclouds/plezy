@@ -1,0 +1,56 @@
+{
+ "data": {
+  "category": {
+   "programmeFind": {
+    "totalCount": 679,
+    "items": [
+     {
+      "id": "16373259302",
+      "sidp": "16373259302",
+      "code": "gerta-schnirch",
+      "title": "Gerta Schnirch",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Válka končí, trest však teprve začíná. Dcera Češky a nacisty platí za hříchy, které nespáchala. Adaptace oceňovaného románu Kateřiny Tučkové.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/qmrmLjPbXVyLW3WDvvg_peeB43lhUUwzsev-LctGqcs/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/665f2243684c44cff00e8c43/card/gerta-schnirch.31d85.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/ThQyu-ChNchfRaoS2Mqc0VZyiA1T52YpQseZNG0FMRk/rs:fit:300/sh:0.5/plain/s3/porady-s3/665f2243684c44cff00e8c43/cardPortrait/gerta-schnirch.c8e01.jpeg"
+      }
+     },
+     {
+      "id": "18784",
+      "sidp": "18784",
+      "code": "dym-bramborove-nate",
+      "title": "Dým bramborové natě",
+      "showType": "movie",
+      "isPlayable": true,
+      "shortDescription": "Vůně podzimního ohně probouzí vzpomínky a vede stárnoucího lékaře zpět na venkov. Citlivé drama s Rudolfem Hrušínským o hledání ztraceného domova.",
+      "durationText": "95 min",
+      "year": "1976",
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/yVZ5svRMZnZ__Pj0yZ6zneuYxmXng5b1hhu75qM7asY/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/18784-dym-bramborove-nate/images/karta-poradu.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/0pSx2Ooj1xmLLL-PwRhgmIDRMlnPJPWcebCeDYLKq6Y/rs:fit:300/sh:0.5/plain/s3/porady-s3/648841a0c910bc93b0056676/cardPortrait/dym-bramborove-nate.33c72.jpg"
+      }
+     },
+     {
+      "id": "15618803795",
+      "sidp": "15618803795",
+      "code": "sam-a-kate",
+      "title": "Sam a Kate",
+      "showType": "movie",
+      "isPlayable": true,
+      "shortDescription": "Někdy je těžší vychovat rodiče než děti… Dustin Hoffman a Sissy Spacek v mezigenerační komedii o lásce a druhých šancích.",
+      "durationText": "105 min",
+      "year": "2022",
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/2nw6N8LZ2AojtvjsBeoxP2FdYtRz11QGbREBtjE8T9U/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/card/sam-a-kate.203fc.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/8Z0S723nzUArje6sfMhwFFW6wjvVFG8ZlF2JvcWuUig/rs:fit:300/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/cardPortrait/sam-a-kate.a93c9.jpg"
+      }
+     }
+    ]
+   }
+  }
+ }
+}

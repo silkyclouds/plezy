@@ -1,0 +1,55 @@
+{
+ "data": {
+  "programme": {
+   "id": "15618803795",
+   "sidp": "15618803795",
+   "title": "Sam a Kate",
+   "showType": "movie",
+   "playableEpisodeCount": 1,
+   "isPlayable": true,
+   "shortDescription": "Někdy je těžší vychovat rodiče než děti… Dustin Hoffman a Sissy Spacek v mezigenerační komedii o lásce a druhých šancích.",
+   "description": "Sam (J. Hoffman), mladý umělec pracující v čokoládovně, se vrací do rodného města, aby se staral o svého nemocného otce, starého morouse Billa (D. Hoffman). Při návštěvě místního knihkupectví nečekaně narazí na Kate (S. Fisková), okouzlující majitelku obchodu, která však jeho žádost o schůzku odmítne, protože s nikým nechce momentálně randit. Náhoda se ale přihlásí o slovo: Když se Sam s otcem jednoho dne vydají do kostela, Bill na parkovišti potká svou dávnou známou Tinu (S. Spaceková), a shodou okolností je s ní i Kate, její dcera. A jelikož je Tinino auto nepojízdné, nabídnou jim muži odvoz. Mezi oběma páry začne postupně vznikat pouto, ale nové lásce občas stojí v cestě minulost, se kterou je zapotřebí se nejprve vyrovnat…\nMezigenerační romantická komedie Sam a Kate z roku 2022 je režijním debutem Darrena Le Galla. Zajímavostí je, že hlavní role ztvárnili skuteční rodiče a jejich děti: Dustin Hoffman se svým synem Jakem a Sissy Spaceková se svou dcerou Schuyler Fiskovou.",
+   "year": "2022",
+   "durationText": "105 min",
+   "creators": "Režie a scénář: Darren Le Gallo. Hrají: Dustin Hoffman, Sissy Spacek, Jake Hoffman, Schuyler Fisk a další.",
+   "flatGenres": [
+    {
+     "id": "3947",
+     "title": "Film",
+     "parent": null
+    },
+    {
+     "id": "3957",
+     "title": "Komedie",
+     "parent": {
+      "id": "3947"
+     }
+    },
+    {
+     "id": "3969",
+     "title": "Zahraniční",
+     "parent": {
+      "id": "3947"
+     }
+    },
+    {
+     "id": "3951",
+     "title": "Drama",
+     "parent": {
+      "id": "3947"
+     }
+    }
+   ],
+   "seasons": [],
+   "availability": {
+    "isAvailable": true,
+    "textLong": "Dostupné do 1. 11."
+   },
+   "images": {
+    "logo": "https://ctfs.ceskatelevize.cz/img/46dIj4Z8EdQaRRysV3TNJlzxVxLwNquTqeOUsZqEBzk/rs:fit:600:280/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/logo/sam-a-kate.082ff.png",
+    "card": "https://ctfs.ceskatelevize.cz/img/W6c2asWR-awAjKpTdEUgRAjPL6hN4s0bboyBrjewXg0/rs:fit:960:540/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/card/sam-a-kate.203fc.jpg",
+    "cardPortrait": "https://ctfs.ceskatelevize.cz/img/8Z0S723nzUArje6sfMhwFFW6wjvVFG8ZlF2JvcWuUig/rs:fit:300/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/cardPortrait/sam-a-kate.a93c9.jpg"
+   }
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "data": {
+  "programme": {
+   "id": "10215161238",
+   "sidp": "10215161238",
+   "title": "Panorama",
+   "showType": "magazine",
+   "playableEpisodeCount": 5523,
+   "isPlayable": true,
+   "shortDescription": "Aktuální povětrnostní zpravodajství pohledem panoramatických kamer.",
+   "description": null,
+   "year": null,
+   "durationText": null,
+   "creators": null,
+   "flatGenres": [
+    {
+     "id": "4124",
+     "title": "Zpravodajství",
+     "parent": null
+    },
+    {
+     "id": "4130",
+     "title": "Počasí",
+     "parent": {
+      "id": "4124"
+     }
+    }
+   ],
+   "seasons": [],
+   "availability": null,
+   "images": {
+    "logo": "https://ctfs.ceskatelevize.cz/img/vg97akh_S95dtQVQ3bwq681bvVg4PKyd4Pzlelw_iyc/rs:fit:600:280/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/logo/panorama.26d9c.png",
+    "card": "https://ctfs.ceskatelevize.cz/img/Bi7K4HUyku16KMQRua6AV1sX8RYygT8Nqo3TkzCS9Po/rs:fit:960:540/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/card/panorama.0e5bc.jpg",
+    "cardPortrait": "https://ctfs.ceskatelevize.cz/img/rBvwJpHoCjGSMyj2M77Q6HM5hLFPBb4xZ8mj3e8B8BM/rs:fit:300/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/cardPortrait/panorama.4def8.jpg"
+   }
+  }
+ }
+}

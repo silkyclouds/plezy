@@ -3,6 +3,7 @@ import '../providers/3cat/3cat_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
+import '../providers/ceskatelevize/ceskatelevize_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/france24/france24_provider.dart';
@@ -255,6 +256,13 @@ const replaySourceInfos = [
     country: 'PL',
     languages: ['pl'],
   ),
+  ReplaySourceInfo(
+    id: 'ceskatelevize',
+    name: 'Česká televize',
+    support: ReplayPlaybackSupport.partial,
+    country: 'CZ',
+    languages: ['cs'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -317,6 +325,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       '3cat' => ThreeCatProvider(http),
       'rtveplay' => RtvePlayProvider(http),
       'tvpvod' => TvpVodProvider(http),
+      'ceskatelevize' => CeskaTelevizeProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

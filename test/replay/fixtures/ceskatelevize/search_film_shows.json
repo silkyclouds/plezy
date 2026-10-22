@@ -1,0 +1,69 @@
+{
+ "data": {
+  "searchShows": {
+   "totalCount": 2,
+   "items": [
+    {
+     "code": "sam-a-kate",
+     "id": "15618803795",
+     "description": "Někdy je těžší vychovat rodiče než děti… Dustin Hoffman a Sissy Spacek v mezigenerační komedii o lásce a druhých šancích.",
+     "genres": [
+      {
+       "id": "3947",
+       "title": "Film"
+      },
+      {
+       "id": "3957",
+       "title": "Komedie"
+      },
+      {
+       "id": "3969",
+       "title": "Zahraniční"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/2nw6N8LZ2AojtvjsBeoxP2FdYtRz11QGbREBtjE8T9U/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64884ed4870a1ad64600dc7b/card/sam-a-kate.203fc.jpg",
+     "sidp": "15618803795",
+     "title": "Sam a Kate",
+     "playable": true,
+     "programme": {
+      "showType": "movie",
+      "year": "2022",
+      "availability": {
+       "textLong": "Dostupné do 1. 11."
+      }
+     }
+    },
+    {
+     "code": "katerina-marie-ticha-bandjeez",
+     "id": "15017344990",
+     "description": "Spojení autorsky zkušené moravské zpěvačky a kapely Bandjeez zesnulého Davida Stypky na půdě frýdecko-místeckého klubu Stoun.",
+     "genres": [
+      {
+       "id": "4029",
+       "title": "Kultura"
+      },
+      {
+       "id": "4035",
+       "title": "Koncert"
+      },
+      {
+       "id": "4043",
+       "title": "Rock & pop"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/6E9JezX1W2Mt_iJQR2p7dcEvDU_mbss-66RudVd5YBY/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/15017344990-katerina-marie-ticha-bandjeez/images/karta-poradu.jpg",
+     "sidp": "15017344990",
+     "title": "Kateřina Marie Tichá & Bandjeez",
+     "playable": true,
+     "programme": {
+      "showType": "movie",
+      "year": "2022",
+      "availability": {
+       "textLong": null
+      }
+     }
+    }
+   ]
+  }
+ }
+}

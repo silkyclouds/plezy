@@ -1,0 +1,22 @@
+{
+ "error": {
+  "type": "ResourcePlayabilityError"
+ },
+ "message": {
+  "isPlayable": false,
+  "status": {
+   "name": "MISSING_LICENCE_NOW",
+   "params": null,
+   "expiresAt": "2027-08-31T23:59:59+02:00"
+  },
+  "labels": {
+   "generalError": "MISSING_LICENCE_NOW",
+   "button": "Nelze přehrát",
+   "textShort": "ČT nemá práva pro internet",
+   "textTVP": "ČT nemá práva pro internet",
+   "textLong": "ČT nemá práva pro internet",
+   "additionalText": null,
+   "longDescription": "**Co znamená hláška „ČT nemá práva pro internet“?**\n\nPráva pro internet jsou součástí licenčních smluv. Tyto smlouvy určují, jakým způsobem může ČT pořad užít. V iVysílání lze přehrát jen pořady, které nám **smlouvy s distributory, autory a výkonnými umělci dovolí nabídnout na internetu.** Některé smlouvy také platí jen po omezenou dobu.\n\nPráva pro internet a televizi se liší, a proto některé pořady v iVysílání nepřehrajete. **Snažíme se ale počet takových pořadů snižovat**, prosíme proto o trpělivost - práva je nutné od držitelů vykoupit.\n\nZobrazit [více o licenčních smlouvách](https://www.ceskatelevize.cz/vse-o-ct/jak-sledovat/napoveda-k-internetovemu-vysilani/jak-dlouho-jsou-porady-na-internetu-dostupne/)"
+  }
+ }
+}

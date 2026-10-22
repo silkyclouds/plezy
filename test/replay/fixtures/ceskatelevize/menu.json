@@ -1,0 +1,1690 @@
+{
+ "data": {
+  "menu": [
+   {
+    "children": [
+     {
+      "code": "krimi",
+      "title": "Krimi",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3983"
+      ]
+     },
+     {
+      "code": "komedie",
+      "title": "Komedie",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3985"
+      ]
+     },
+     {
+      "code": "ceske",
+      "title": "České",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "4785"
+      ]
+     },
+     {
+      "code": "zahranicni",
+      "title": "Zahraniční",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "4002"
+      ]
+     },
+     {
+      "code": "rodinne",
+      "title": "Rodinné",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3990"
+      ]
+     },
+     {
+      "code": "psychologicke",
+      "title": "Psychologické",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3992"
+      ]
+     },
+     {
+      "code": "historicke",
+      "title": "Historické",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3979"
+      ]
+     },
+     {
+      "code": "klasicke",
+      "title": "Klasika",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3999"
+      ]
+     },
+     {
+      "code": "thrillery",
+      "title": "Thrillery",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "3993"
+      ]
+     },
+     {
+      "code": "literarni-adaptace",
+      "title": "Literární adaptace",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "4337"
+      ]
+     },
+     {
+      "code": "studentske",
+      "title": "Studentské",
+      "url": null,
+      "categoryId": [
+       "3976",
+       "4928"
+      ]
+     }
+    ],
+    "code": "serialy",
+    "title": "Seriály",
+    "url": null,
+    "categoryId": [
+     "3976"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "krimi",
+      "title": "Krimi",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3958"
+      ]
+     },
+     {
+      "code": "komedie",
+      "title": "Komedie",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3957"
+      ]
+     },
+     {
+      "code": "zahranicni",
+      "title": "Zahraniční",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3969"
+      ]
+     },
+     {
+      "code": "ceske",
+      "title": "České",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "4720"
+      ]
+     },
+     {
+      "code": "pohadky",
+      "title": "Pohádky",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3961"
+      ]
+     },
+     {
+      "code": "psychologicke",
+      "title": "Psychologické",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3962"
+      ]
+     },
+     {
+      "code": "historicke",
+      "title": "Historické",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3954"
+      ]
+     },
+     {
+      "code": "rodinne",
+      "title": "Rodinné",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3963"
+      ]
+     },
+     {
+      "code": "klasicke",
+      "title": "Klasika",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3971"
+      ]
+     },
+     {
+      "code": "dramata",
+      "title": "Drama",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3951"
+      ]
+     },
+     {
+      "code": "romanticke",
+      "title": "Romantické",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3960"
+      ]
+     },
+     {
+      "code": "zivotopisne",
+      "title": "Životopisné",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3949"
+      ]
+     },
+     {
+      "code": "thrillery",
+      "title": "Thriller",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3967"
+      ]
+     },
+     {
+      "code": "animovane",
+      "title": "Animované",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3948"
+      ]
+     },
+     {
+      "code": "literarni-adaptace",
+      "title": "Literární adaptace",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "4336"
+      ]
+     },
+     {
+      "code": "valecne",
+      "title": "Válečné",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "3973"
+      ]
+     },
+     {
+      "code": "studentske",
+      "title": "Studentské",
+      "url": null,
+      "categoryId": [
+       "3947",
+       "4802"
+      ]
+     }
+    ],
+    "code": "filmy",
+    "title": "Filmy",
+    "url": null,
+    "categoryId": [
+     "3947"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "historie",
+      "title": "Historie",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4008"
+      ]
+     },
+     {
+      "code": "spolecnost",
+      "title": "Společnost",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4018"
+      ]
+     },
+     {
+      "code": "cestovani",
+      "title": "Cestování",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4004"
+      ]
+     },
+     {
+      "code": "cesko",
+      "title": "Česko",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4306"
+      ]
+     },
+     {
+      "code": "priroda",
+      "title": "Příroda",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4014"
+      ]
+     },
+     {
+      "code": "osobnosti",
+      "title": "Osobnosti",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4012"
+      ]
+     },
+     {
+      "code": "valecne",
+      "title": "Válečné",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4020"
+      ]
+     },
+     {
+      "code": "kultura",
+      "title": "Kultura",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4010"
+      ]
+     },
+     {
+      "code": "technologie",
+      "title": "Technologie",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4305"
+      ]
+     },
+     {
+      "code": "architektura",
+      "title": "Architektura",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4307"
+      ]
+     },
+     {
+      "code": "spravedlnost",
+      "title": "Spravedlnost",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4223"
+      ]
+     },
+     {
+      "code": "zdravi",
+      "title": "Zdraví",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4022"
+      ]
+     },
+     {
+      "code": "etnografie",
+      "title": "Etnografie",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4007"
+      ]
+     },
+     {
+      "code": "veda",
+      "title": "Věda",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4021"
+      ]
+     },
+     {
+      "code": "hudba",
+      "title": "Hudba",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4009"
+      ]
+     },
+     {
+      "code": "dokudramata",
+      "title": "Dokudramata",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4731"
+      ]
+     },
+     {
+      "code": "studentske",
+      "title": "Studentské",
+      "url": null,
+      "categoryId": [
+       "4003",
+       "4929"
+      ]
+     }
+    ],
+    "code": "dokumenty",
+    "title": "Dokumenty",
+    "url": null,
+    "categoryId": [
+     "4003"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "publicistika",
+      "title": "Publicistika",
+      "url": null,
+      "categoryId": [
+       "4124",
+       "4140"
+      ]
+     },
+     {
+      "code": "zpravy",
+      "title": "Zprávy",
+      "url": null,
+      "categoryId": [
+       "4124",
+       "4139"
+      ]
+     },
+     {
+      "code": "regionalni",
+      "title": "Regiony",
+      "url": null,
+      "categoryId": [
+       "4124",
+       "4132"
+      ]
+     },
+     {
+      "code": "diskuze",
+      "title": "Diskuze",
+      "url": null,
+      "categoryId": [
+       "4124",
+       "4125"
+      ]
+     },
+     {
+      "code": "pocasi",
+      "title": "Počasí",
+      "url": null,
+      "categoryId": [
+       "4124",
+       "4130"
+      ]
+     }
+    ],
+    "code": "zpravodajstvi",
+    "title": "Zpravodajství",
+    "url": null,
+    "categoryId": [
+     "4124"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "hokej",
+      "title": "Hokej",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4161"
+      ]
+     },
+     {
+      "code": "fotbal",
+      "title": "Fotbal",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4157"
+      ]
+     },
+     {
+      "code": "cyklistika",
+      "title": "Cyklistika",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4153"
+      ]
+     },
+     {
+      "code": "biatlon",
+      "title": "Biatlon",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4146"
+      ]
+     },
+     {
+      "code": "lyzovani-a-snowboarding",
+      "title": "Lyžování a snowboarding",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4165"
+      ]
+     },
+     {
+      "code": "tenis",
+      "title": "Tenis",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4180"
+      ]
+     },
+     {
+      "code": "atletika",
+      "title": "Atletika",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4145"
+      ]
+     },
+     {
+      "code": "basketbal",
+      "title": "Basketbal",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4149"
+      ]
+     },
+     {
+      "code": "motorsport",
+      "title": "Motorsport",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4167"
+      ]
+     },
+     {
+      "code": "jezdectvi",
+      "title": "Jezdectví",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4162"
+      ]
+     },
+     {
+      "code": "bojove-sporty",
+      "title": "Bojové sporty",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4163"
+      ]
+     },
+     {
+      "code": "triatlon",
+      "title": "Triatlon",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4179"
+      ]
+     },
+     {
+      "code": "volejbal",
+      "title": "Volejbal",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4183"
+      ]
+     },
+     {
+      "code": "hazena",
+      "title": "Házená",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4160"
+      ]
+     },
+     {
+      "code": "baseball-a-softbal",
+      "title": "Baseball a softbal",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4147"
+      ]
+     },
+     {
+      "code": "florbal",
+      "title": "Florbal",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4156"
+      ]
+     },
+     {
+      "code": "rychlobrusleni",
+      "title": "Rychlobruslení",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4173"
+      ]
+     },
+     {
+      "code": "krasobrusleni",
+      "title": "Krasobruslení",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4164"
+      ]
+     },
+     {
+      "code": "sport-s-postizenim",
+      "title": "Sport s postižením",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4176"
+      ]
+     },
+     {
+      "code": "olympijske-hry",
+      "title": "Olympijské hry",
+      "url": null,
+      "categoryId": [
+       "4142",
+       "4169"
+      ]
+     },
+     {
+      "code": "sport",
+      "title": "Dokumenty",
+      "url": "/ivysilani/kategorie/4003-dokumenty/4016-sport/",
+      "categoryId": [
+       "4142",
+       "4016"
+      ]
+     }
+    ],
+    "code": "sport",
+    "title": "Sport",
+    "url": null,
+    "categoryId": [
+     "4142"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "vecernicky",
+      "title": "Večerníčky",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4120"
+      ]
+     },
+     {
+      "code": "animovane",
+      "title": "Animované",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4123"
+      ]
+     },
+     {
+      "code": "vzdelavaci",
+      "title": "Vzdělávací",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4121"
+      ]
+     },
+     {
+      "code": "hrane-pohadky",
+      "title": "Hrané pohádky",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4779"
+      ]
+     },
+     {
+      "code": "4-6-let",
+      "title": "4-6 let",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4782"
+      ]
+     },
+     {
+      "code": "6-8-let",
+      "title": "6-8 let",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4783"
+      ]
+     },
+     {
+      "code": "8-10-let",
+      "title": "8-10 let",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4784"
+      ]
+     },
+     {
+      "code": "filmy",
+      "title": "Filmy",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4778"
+      ]
+     },
+     {
+      "code": "serialy",
+      "title": "Seriály",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4777"
+      ]
+     },
+     {
+      "code": "zahranicni",
+      "title": "Zahraniční",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4335"
+      ]
+     },
+     {
+      "code": "zabava",
+      "title": "Zábava",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4809"
+      ]
+     },
+     {
+      "code": "souteze",
+      "title": "Soutěže",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4332"
+      ]
+     },
+     {
+      "code": "cteni",
+      "title": "Čtení",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4780"
+      ]
+     },
+     {
+      "code": "hudebni",
+      "title": "Hudební",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4331"
+      ]
+     },
+     {
+      "code": "pohybove",
+      "title": "Pohybové",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4122"
+      ]
+     },
+     {
+      "code": "veda",
+      "title": "Věda",
+      "url": null,
+      "categoryId": [
+       "4118",
+       "4333"
+      ]
+     }
+    ],
+    "code": "pro-deti",
+    "title": "Pro děti",
+    "url": null,
+    "categoryId": [
+     "4118"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "talk-show",
+      "title": "Talk show",
+      "url": null,
+      "categoryId": [
+       "4068",
+       "4073"
+      ]
+     },
+     {
+      "code": "souteze",
+      "title": "Soutěže",
+      "url": null,
+      "categoryId": [
+       "4068",
+       "4072"
+      ]
+     },
+     {
+      "code": "hudebni",
+      "title": "Hudební",
+      "url": null,
+      "categoryId": [
+       "4068",
+       "4799"
+      ]
+     },
+     {
+      "code": "reality-show",
+      "title": "Reality show",
+      "url": null,
+      "categoryId": [
+       "4068",
+       "4071"
+      ]
+     },
+     {
+      "code": "klasika",
+      "title": "Klasika",
+      "url": null,
+      "categoryId": [
+       "4068",
+       "4796"
+      ]
+     }
+    ],
+    "code": "zabava",
+    "title": "Zábava",
+    "url": null,
+    "categoryId": [
+     "4068"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "cesko",
+      "title": "Česko",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4081"
+      ]
+     },
+     {
+      "code": "evropa",
+      "title": "Evropa",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4082"
+      ]
+     },
+     {
+      "code": "pamatky",
+      "title": "Památky",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4091"
+      ]
+     },
+     {
+      "code": "osobnosti",
+      "title": "Osobnosti",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4215"
+      ]
+     },
+     {
+      "code": "fasismus-a-nacismus",
+      "title": "Fašismus a nacismus",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4212"
+      ]
+     },
+     {
+      "code": "komunismus",
+      "title": "Komunismus",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4208"
+      ]
+     },
+     {
+      "code": "20-stoleti",
+      "title": "20. století",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4089"
+      ]
+     },
+     {
+      "code": "novovek",
+      "title": "Novověk",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4087"
+      ]
+     },
+     {
+      "code": "stredovek",
+      "title": "Středověk",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4086"
+      ]
+     },
+     {
+      "code": "starovek",
+      "title": "Starověk",
+      "url": null,
+      "categoryId": [
+       "4079",
+       "4085"
+      ]
+     }
+    ],
+    "code": "historie",
+    "title": "Historie",
+    "url": null,
+    "categoryId": [
+     "4079"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "divadlo",
+      "title": "Divadlo",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4202"
+      ]
+     },
+     {
+      "code": "predstaveni",
+      "title": "Představení",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4052"
+      ]
+     },
+     {
+      "code": "vytvarne-umeni",
+      "title": "Výtvarné umění",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4053"
+      ]
+     },
+     {
+      "code": "hudba",
+      "title": "Hudba",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4759"
+      ]
+     },
+     {
+      "code": "koncerty",
+      "title": "Koncerty",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4035"
+      ]
+     },
+     {
+      "code": "vazna-hudba",
+      "title": "Klasická hudba",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4046"
+      ]
+     },
+     {
+      "code": "opera",
+      "title": "Opera",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4040"
+      ]
+     },
+     {
+      "code": "rock",
+      "title": "Rock & pop",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4043"
+      ]
+     },
+     {
+      "code": "jazz-a-blues",
+      "title": "Jazz & blues",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4034"
+      ]
+     },
+     {
+      "code": "folk-a-country",
+      "title": "Folk & country",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4032"
+      ]
+     },
+     {
+      "code": "dechovka",
+      "title": "Dechovka",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4030"
+      ]
+     },
+     {
+      "code": "hudebni-osobnosti",
+      "title": "Hudební osobnosti",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4205"
+      ]
+     },
+     {
+      "code": "architektura",
+      "title": "Architektura",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4054"
+      ]
+     },
+     {
+      "code": "tanec",
+      "title": "Tanec",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4045"
+      ]
+     },
+     {
+      "code": "literatura",
+      "title": "Literatura",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4038"
+      ]
+     },
+     {
+      "code": "folklor",
+      "title": "Folklór",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4037"
+      ]
+     },
+     {
+      "code": "film-a-televize",
+      "title": "Kinematografie",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4048"
+      ]
+     },
+     {
+      "code": "festivaly",
+      "title": "Festivaly",
+      "url": null,
+      "categoryId": [
+       "4029",
+       "4204"
+      ]
+     }
+    ],
+    "code": "kultura",
+    "title": "Kultura",
+    "url": null,
+    "categoryId": [
+     "4029"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "vareni",
+      "title": "Vaření",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4060"
+      ]
+     },
+     {
+      "code": "zdravi",
+      "title": "Zdraví",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4062"
+      ]
+     },
+     {
+      "code": "bydleni",
+      "title": "Bydlení",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4056"
+      ]
+     },
+     {
+      "code": "zahrada",
+      "title": "Zahrada",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4061"
+      ]
+     },
+     {
+      "code": "cestovani",
+      "title": "Cestování",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4057"
+      ]
+     },
+     {
+      "code": "zivotni-styl",
+      "title": "Životní styl",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4063"
+      ]
+     },
+     {
+      "code": "pravo",
+      "title": "Právo",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4066"
+      ]
+     },
+     {
+      "code": "chovatelstvi",
+      "title": "Chovatelství",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4064"
+      ]
+     },
+     {
+      "code": "motorismus",
+      "title": "Motorismus",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4058"
+      ]
+     },
+     {
+      "code": "sport",
+      "title": "Sport",
+      "url": null,
+      "categoryId": [
+       "4055",
+       "4059"
+      ]
+     }
+    ],
+    "code": "rady-a-recepty",
+    "title": "Rady a recepty",
+    "url": null,
+    "categoryId": [
+     "4055"
+    ]
+   },
+   {
+    "children": null,
+    "code": null,
+    "title": "Podcasty",
+    "url": "/ivysilani/vypis/1858/",
+    "categoryId": null
+   },
+   {
+    "children": null,
+    "code": null,
+    "title": "Studentská tvorba",
+    "url": "/ivysilani/vypis/1466/",
+    "categoryId": null
+   },
+   {
+    "children": [
+     {
+      "code": "zivocichove",
+      "title": "Živočichové",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4112"
+      ]
+     },
+     {
+      "code": "cesko",
+      "title": "Česko",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4109"
+      ]
+     },
+     {
+      "code": "ekologie",
+      "title": "Ekologie",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4108"
+      ]
+     },
+     {
+      "code": "cestovani",
+      "title": "Cestování",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4111"
+      ]
+     },
+     {
+      "code": "vzdelavaci",
+      "title": "Vzdělávací",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4107"
+      ]
+     },
+     {
+      "code": "veda",
+      "title": "Věda",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4115"
+      ]
+     },
+     {
+      "code": "biomy-a-biotopy",
+      "title": "Biomy a biotopy",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4220"
+      ]
+     },
+     {
+      "code": "svet",
+      "title": "Svět",
+      "url": null,
+      "categoryId": [
+       "4106",
+       "4302"
+      ]
+     }
+    ],
+    "code": "priroda",
+    "title": "Příroda",
+    "url": null,
+    "categoryId": [
+     "4106"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "deti-a-mladez",
+      "title": "Děti a mládež",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4211"
+      ]
+     },
+     {
+      "code": "lgbtqia",
+      "title": "LGBTQ+",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4226"
+      ]
+     },
+     {
+      "code": "seniori",
+      "title": "Senioři",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4217"
+      ]
+     },
+     {
+      "code": "mensiny",
+      "title": "Menšiny",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4105"
+      ]
+     },
+     {
+      "code": "bezpecnost",
+      "title": "Bezpečnost",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4213"
+      ]
+     },
+     {
+      "code": "politika",
+      "title": "Politika",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4103"
+      ]
+     },
+     {
+      "code": "zivot-s-postizenim",
+      "title": "Život s postižením",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4209"
+      ]
+     },
+     {
+      "code": "tradice",
+      "title": "Tradice",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4101"
+      ]
+     },
+     {
+      "code": "cestovani",
+      "title": "Cestování",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4098"
+      ]
+     },
+     {
+      "code": "ekonomika",
+      "title": "Ekonomika",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4221"
+      ]
+     },
+     {
+      "code": "technologie",
+      "title": "Technologie",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4201"
+      ]
+     },
+     {
+      "code": "doprava",
+      "title": "Doprava",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4224"
+      ]
+     },
+     {
+      "code": "cesko",
+      "title": "Česko",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4095"
+      ]
+     },
+     {
+      "code": "evropa",
+      "title": "Evropa",
+      "url": null,
+      "categoryId": [
+       "4093",
+       "4096"
+      ]
+     }
+    ],
+    "code": "spolecnost",
+    "title": "Společnost",
+    "url": null,
+    "categoryId": [
+     "4093"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "krestanstvi",
+      "title": "Křesťanství",
+      "url": null,
+      "categoryId": [
+       "4191",
+       "4193"
+      ]
+     },
+     {
+      "code": "judaismus",
+      "title": "Judaismus",
+      "url": null,
+      "categoryId": [
+       "4191",
+       "4196"
+      ]
+     },
+     {
+      "code": "islam",
+      "title": "Islám",
+      "url": null,
+      "categoryId": [
+       "4191",
+       "4197"
+      ]
+     },
+     {
+      "code": "buddhismus",
+      "title": "Buddhismus",
+      "url": null,
+      "categoryId": [
+       "4191",
+       "4231"
+      ]
+     },
+     {
+      "code": "osobnosti",
+      "title": "Osobnosti",
+      "url": null,
+      "categoryId": [
+       "4191",
+       "4194"
+      ]
+     }
+    ],
+    "code": "spiritualita",
+    "title": "Spiritualita",
+    "url": null,
+    "categoryId": [
+     "4191"
+    ]
+   },
+   {
+    "children": [
+     {
+      "code": "90-leta",
+      "title": "90. léta",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4737"
+      ]
+     },
+     {
+      "code": "80-leta",
+      "title": "80. léta",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4736"
+      ]
+     },
+     {
+      "code": "70-leta",
+      "title": "70. léta",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4735"
+      ]
+     },
+     {
+      "code": "60-leta",
+      "title": "60. léta",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4734"
+      ]
+     },
+     {
+      "code": "50-leta",
+      "title": "50. léta",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4733"
+      ]
+     },
+     {
+      "code": "televize",
+      "title": "Televize",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4739"
+      ]
+     },
+     {
+      "code": "kultura",
+      "title": "Kultura",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4740"
+      ]
+     },
+     {
+      "code": "spolecnost",
+      "title": "Společnost",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4743"
+      ]
+     },
+     {
+      "code": "vzdelavani",
+      "title": "Vzdělávání",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4741"
+      ]
+     },
+     {
+      "code": "sport",
+      "title": "Sport",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4742"
+      ]
+     },
+     {
+      "code": "politika",
+      "title": "Politika",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4748"
+      ]
+     },
+     {
+      "code": "zpravodajstvi",
+      "title": "Zpravodajství",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4749"
+      ]
+     },
+     {
+      "code": "propaganda",
+      "title": "Propaganda",
+      "url": null,
+      "categoryId": [
+       "4732",
+       "4738"
+      ]
+     }
+    ],
+    "code": "archiv",
+    "title": "Archiv",
+    "url": null,
+    "categoryId": [
+     "4732"
+    ]
+   }
+  ]
+ }
+}

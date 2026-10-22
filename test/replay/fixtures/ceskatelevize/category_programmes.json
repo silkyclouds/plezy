@@ -1,0 +1,105 @@
+{
+ "data": {
+  "category": {
+   "id": "6482f09af8b9cd55f20f8db7",
+   "title": "Krimi",
+   "slug": "3983-krimi",
+   "categoryId": "3983",
+   "parent": {
+    "categoryId": "3976",
+    "title": "Seriál",
+    "slug": "3976-serialy"
+   },
+   "sortingOptions": [
+    {
+     "code": "popular_previous_seven_days",
+     "description": "Nejsledovanější za 7 dní"
+    },
+    {
+     "code": "catchup_broadcast",
+     "description": "Naposledy vysílané"
+    }
+   ],
+   "programmeFind": {
+    "totalCount": 68,
+    "items": [
+     {
+      "id": "10354229723",
+      "sidp": "10354229723",
+      "code": "pripady-1-oddeleni",
+      "title": "Případy 1. oddělení",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Tak vypadá současná policie. Seriál inspirovaný skutečnými kauzami.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/0igjBjjpYBWeQw4J9e3oKcfQXUeMV4p0voMdEdENndc/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/10354229723-pripady-1-oddeleni/images/karta-poradu.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/5v7q6Esv_KpNm7AhYLeJITtp9uvnzR_WbGfSuY-tA-Y/rs:fit:300/sh:0.5/plain/s3/porady-s3/64885b8b633985bda6040543/cardPortrait/pripady-1-oddeleni.9a2bc.jpg"
+      }
+     },
+     {
+      "id": "17345346995",
+      "sidp": "17345346995",
+      "code": "patience",
+      "title": "Patience",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Zkušená vyšetřovatelka a autistická archivářka policejních spisů. Nepravděpodobná dvojice společně řeší ty nejzapeklitější vraždy v Yorku.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/g0TQSOp2TNGQJFF0yj0rUuSMzbHMuY9MO9hXKSy6FJI/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/691c5c322ae3a97820046306/card/patience.fcc3f.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/Abnb7-9V9WFohKh3_vxBu5y1aNVM0abpipZ1tIpxlZg/rs:fit:300/sh:0.5/plain/s3/porady-s3/691c5c322ae3a97820046306/cardPortrait/patience.f6d20.jpeg"
+      }
+     },
+     {
+      "id": "15109660246",
+      "sidp": "15109660246",
+      "code": "komisarka-florence",
+      "title": "Komisařka Florence",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Pařížskou kariéru vyměnila za poklidné Annecy, jen aby mohla být blízko svého syna.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/Yew-44eOjdBAs545JdZpO0iLVVbFYizeEa6bU4fIXPM/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6488392e85f4102c580a694a/card/komisarka-florence.cdc22.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/dQNeDduHXf-8yWiFEKGnXU4gzJjY7mqZtOkXy0G81N8/rs:fit:300/sh:0.5/plain/s3/porady-s3/6488392e85f4102c580a694a/cardPortrait/komisarka-florence.bd681.jpeg"
+      }
+     },
+     {
+      "id": "10571003683",
+      "sidp": "10571003683",
+      "code": "vrazdy-v-kruhu",
+      "title": "Vraždy v kruhu",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Dvanáct znamení zvěrokruhu, dvanáct příběhů zla, jeden detektiv. Když si vyšetřovatel v podání Ivana Trojana nevystačí s obvyklým důkazním materiálem, obrátí se ke hvězdám.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/KWMwxOoiFON-JDm51glEymsuwaiaW0l8YolE04S30HI/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64884c5f233fcfcc0c02e3a0/card/vrazdy-v-kruhu-1700728905991.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/8HqhRTwFGofBlEWK9GAOdkmtb5BQ1GYzdLn1QdE4LcE/rs:fit:300/sh:0.5/plain/s3/porady-s3/64884c5f233fcfcc0c02e3a0/cardPortrait/vrazdy-v-kruhu.e78c1.jpg"
+      }
+     },
+     {
+      "id": "12745900949",
+      "sidp": "12745900949",
+      "code": "docent",
+      "title": "Docent",
+      "showType": "series",
+      "isPlayable": true,
+      "shortDescription": "Po stopách chladnokrevných vrahů. Ivan Trojan jako vyšetřovatel s netradiční, ale o to více funkční strategií.",
+      "durationText": null,
+      "year": null,
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/qZy10LRuFtMEIGP9ZijO5MZUtGz4RfbPvYbQECU4xIU/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64883ab90212d1378f00c8cb/card/docent.44a04.jpg",
+       "cardPortrait": "https://ctfs.ceskatelevize.cz/img/vn_qG20OGZiUyTVe_2JiXXrDZ5_7o4XGUOrAsl-NDcA/rs:fit:300/sh:0.5/plain/s3/porady-s3/64883ab90212d1378f00c8cb/cardPortrait/docent.cad7a.jpg"
+      }
+     }
+    ]
+   }
+  }
+ }
+}

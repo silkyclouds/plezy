@@ -1,0 +1,182 @@
+{
+ "externalId": "226563231000018",
+ "title": "Rozpleteno | Virus I | 18",
+ "originalTitle": null,
+ "episodeTitle": "Virus I | 18",
+ "showTitle": "Rozpleteno",
+ "mediaType": "video",
+ "targetGroup": null,
+ "programmeTypeEBU": "062",
+ "pegiRating": null,
+ "pegiRatingLink": null,
+ "pegiRatingInfo": null,
+ "duration": 1650.56,
+ "streams": [
+  {
+   "chapters": [],
+   "subtitles": [
+    {
+     "language": "ces",
+     "kind": "captions",
+     "files": [
+      {
+       "url": "https://ctfs.ceskatelevize.cz/subtitles1786411666/d9/4eec/d94eec57-db93-4736-93df-29d18ec62f4b.json",
+       "format": "json"
+      },
+      {
+       "url": "https://ctfs.ceskatelevize.cz/subtitles1786411666/02/ec92/02ec92ec-0e06-4a30-bb82-c72271fdb194.ttml",
+       "format": "ttml"
+      },
+      {
+       "url": "https://ctfs.ceskatelevize.cz/subtitles1786411666/b3/a788/b3a7883a-1ef9-4236-8d07-01c252a6bcd1.vtt",
+       "format": "vtt"
+      }
+     ]
+    }
+   ],
+   "forceSubtitles": null,
+   "url": "https://ivys-nw-cdn.o2tv.cz/cdn/uri/get/?token=TOKEN&userId=USER&contentId=61924494878558904&streamType=hls&quality=1080p&contentType=vod&region=1&expiry=1792652485&drmOnly=false&qualityCount=5",
+   "audioDescriptionUrl": "https://ivys-nw-cdn.o2tv.cz/cdn/uri/get/?token=TOKEN&userId=USER&contentId=61924494878558904&streamType=hls&quality=ad&contentType=vod&region=1&expiry=1792652485&drmOnly=false&qualityCount=1",
+   "duration": 1650.56,
+   "profileVersion": 1,
+   "availableQualities": [
+    {
+     "quality": "ad",
+     "weight": 0,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "144p2",
+     "weight": 10,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "144p1",
+     "weight": 20,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "288p",
+     "weight": 30,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "404p",
+     "weight": 40,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "576p",
+     "weight": 50,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "720p",
+     "weight": 60,
+     "codec": "H264",
+     "fps": 25
+    },
+    {
+     "quality": "1080p",
+     "weight": 70,
+     "codec": "H264",
+     "fps": 25
+    }
+   ],
+   "audioTracks": [
+    {
+     "trackId": "4084648456",
+     "language": "cze",
+     "codec": "AAC-LC",
+     "channels": 1,
+     "ad": false
+    },
+    {
+     "trackId": "4084648487",
+     "language": "cze",
+     "codec": "AAC-LC",
+     "channels": 2,
+     "ad": false
+    }
+   ],
+   "audioDescriptionType": "external"
+  }
+ ],
+ "previewTrackBaseUrl": "https://ivys-cnt.o2tv.cz/contentserver/contents/61924494878558904/categories/preview_track_3x3/",
+ "previewImageUrl": "https://ctfs.ceskatelevize.cz/porady-s3/episode/69b960ef9acee50f490e1ae7/card/virus-i.0740e.jpg",
+ "labeling": [],
+ "availableQualities": [
+  {
+   "quality": "ad",
+   "weight": 0,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "144p2",
+   "weight": 10,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "144p1",
+   "weight": 20,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "288p",
+   "weight": 30,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "404p",
+   "weight": 40,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "576p",
+   "weight": 50,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "720p",
+   "weight": 60,
+   "codec": "H264",
+   "fps": 25
+  },
+  {
+   "quality": "1080p",
+   "weight": 70,
+   "codec": "H264",
+   "fps": 25
+  }
+ ],
+ "playability": {
+  "_id": "69b960b3e5c044d26fa0a3a8",
+  "sidp": "17448830218",
+  "showProgrammeMetaId": "696900a8808c29f39d04201d",
+  "episodeProgrammeMetaId": "69b960ef9acee50f490e1ae7",
+  "mediaId": "69b960b3d3def647da09529e",
+  "playableInterval": {
+   "playableFrom": "2026-01-15T00:00:00+01:00",
+   "playableTo": null
+  },
+  "isPlayable": true,
+  "status": {
+   "name": "AVAILABLE_VOD",
+   "params": null,
+   "expiresAt": null
+  },
+  "updatedAt": "2026-10-21T08:16:48.304Z"
+ }
+}

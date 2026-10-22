@@ -1,0 +1,74 @@
+{
+ "data": {
+  "programme": {
+   "episodes": {
+    "totalCount": 3,
+    "items": [
+     {
+      "id": "217471290280002",
+      "title": "1. ledna 2017 12:40",
+      "description": null,
+      "duration": 995,
+      "season": null,
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "17 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/PBDa4t7Yu422xypkuKAuaX4dD7xxwOktXQLbk0OXjFk/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/placeholder/panorama.d4b47.jpg"
+      },
+      "date": {
+       "datetime": "2017-01-01T11:40:20.000Z",
+       "channelName": "ČT sport"
+      },
+      "showCode": "panorama",
+      "showId": "10215161238",
+      "showTitle": "Panorama"
+     },
+     {
+      "id": "217471290280003",
+      "title": "2. ledna 2017 08:04",
+      "description": null,
+      "duration": 1928,
+      "season": null,
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "33 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/PBDa4t7Yu422xypkuKAuaX4dD7xxwOktXQLbk0OXjFk/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/placeholder/panorama.d4b47.jpg"
+      },
+      "date": {
+       "datetime": "2017-01-02T07:04:48.000Z",
+       "channelName": "ČT sport"
+      },
+      "showCode": "panorama",
+      "showId": "10215161238",
+      "showTitle": "Panorama"
+     },
+     {
+      "id": "217471290280004",
+      "title": "2. ledna 2017 12:03",
+      "description": null,
+      "duration": 997,
+      "season": null,
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "17 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/PBDa4t7Yu422xypkuKAuaX4dD7xxwOktXQLbk0OXjFk/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64883fc69683590a7b0db387/placeholder/panorama.d4b47.jpg"
+      },
+      "date": {
+       "datetime": "2017-01-02T11:03:48.000Z",
+       "channelName": "ČT sport"
+      },
+      "showCode": "panorama",
+      "showId": "10215161238",
+      "showTitle": "Panorama"
+     }
+    ]
+   }
+  }
+ }
+}

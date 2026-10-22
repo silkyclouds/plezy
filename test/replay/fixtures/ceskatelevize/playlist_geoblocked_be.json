@@ -1,0 +1,22 @@
+{
+ "error": {
+  "type": "ResourceLicenceError"
+ },
+ "message": {
+  "isPlayable": false,
+  "status": {
+   "name": "UNSUPPORTED_GEOLOCATION",
+   "params": null,
+   "expiresAt": null
+  },
+  "labels": {
+   "generalError": "GEO",
+   "button": "Nelze přehrát",
+   "textShort": "ČT nemá práva pro vaše území",
+   "textTVP": "ČT nemá práva pro vaše území",
+   "textLong": "Video nelze přehrát na vašem území",
+   "additionalText": "ČT bohužel nemá práva pro poskytování tohoto obsahu na vašem území.",
+   "longDescription": "**Proč nemohu některé pořady sledovat v zahraničí?**\n\nMožnost zhlédnutí pořadů v zahraničí upravují konkrétní licenční ujednání pro konkrétní pořad, proto ČT některé pořady v zahraničí poskytovat nesmí.\n\nV zahraničí lze sledovat bez omezení např. [zpravodajský obsah ČT24](https://ct24.ceskatelevize.cz/video/zive-vysilani).\n\nZobrazit [více o licenčních smlouvách](https://www.ceskatelevize.cz/vse-o-ct/jak-sledovat/napoveda-k-internetovemu-vysilani/jak-dlouho-jsou-porady-na-internetu-dostupne/)"
+  }
+ }
+}

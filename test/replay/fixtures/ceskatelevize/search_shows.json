@@ -1,0 +1,144 @@
+{
+ "data": {
+  "searchShows": {
+   "totalCount": 184,
+   "items": [
+    {
+     "code": "obdivuhodny-svet-prirody",
+     "id": "10276616445",
+     "description": "Japonský přírodopisný cyklus o životě zvířat v různých přírodních prostředích napříč všemi světovými kontinenty.",
+     "genres": [
+      {
+       "id": "4003",
+       "title": "Dokument"
+      },
+      {
+       "id": "4014",
+       "title": "Příroda"
+      },
+      {
+       "id": "4017",
+       "title": "Zvířata"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/xZelZ73ZQsT-SohK4rcQOpapKVBIYHaA6H5p-e9jiH4/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/10276616445-obdivuhodny-svet-prirody/images/karta-poradu.jpg",
+     "sidp": "10276616445",
+     "title": "Obdivuhodný svět přírody",
+     "playable": true,
+     "cardLabels": {
+      "topLeft": null,
+      "center": null
+     }
+    },
+    {
+     "code": "zpatky-do-prirody",
+     "id": "16916277726",
+     "description": "Co vše se dá vidět a zažít, když se do přírody vyrazí s otevřenýma očima? Toulky a vaření po zákoutích české krajiny nakrmí břicho, oči i duši.",
+     "genres": [
+      {
+       "id": "4003",
+       "title": "Dokument"
+      },
+      {
+       "id": "4014",
+       "title": "Příroda"
+      },
+      {
+       "id": "4005",
+       "title": "Ekologie"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/Qpyo_OrvAAUKRGV3U96s1A3eLC3nlAIDWbW0q7tIlkU/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/67e2bd299cd2da5cfb012614/card/zpatky-do-prirody.9543a.jpg",
+     "sidp": "16916277726",
+     "title": "Zpátky do přírody",
+     "playable": true,
+     "cardLabels": {
+      "topLeft": null,
+      "center": null
+     }
+    },
+    {
+     "code": "zazraky-prirody",
+     "id": "10214135017",
+     "description": "Zábavná show, kde je hlavní hvězdou příroda sama.",
+     "genres": [
+      {
+       "id": "4068",
+       "title": "Zábava"
+      },
+      {
+       "id": "4072",
+       "title": "Soutěž"
+      },
+      {
+       "id": "4115",
+       "title": "Věda"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/gHOFFnyBZfN-nZVzl__hIWfjC3MY3ci5JUeFBIje9a0/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/648862f7f4c070eb690d71fd/card/zazraky-prirody-1718184344962.jpg",
+     "sidp": "10214135017",
+     "title": "Zázraky přírody",
+     "playable": true,
+     "cardLabels": {
+      "topLeft": null,
+      "center": null
+     }
+    },
+    {
+     "code": "michal-chrani-prirodu",
+     "id": "13576467230",
+     "description": "Kam s krabicí od mléka nebo se slupkou od banánu? Třídit odpad vás naučí Michal a jeho kamarád Zoubek.",
+     "genres": [
+      {
+       "id": "4118",
+       "title": "Pro děti"
+      },
+      {
+       "id": "4121",
+       "title": "Vzdělávací"
+      },
+      {
+       "id": "4775",
+       "title": "Příroda"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/LjneSCSXMRaU2UhjZZAmMphz9aIBJgFKNrRWR1VpKQA/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6488734f4bae0eb647081d43/card/michal-chrani-prirodu.b7be9.jpg",
+     "sidp": "13576467230",
+     "title": "Michal chrání přírodu",
+     "playable": true,
+     "cardLabels": {
+      "topLeft": null,
+      "center": null
+     }
+    },
+    {
+     "code": "videoatlas-nasi-prirody",
+     "id": "1114343127",
+     "description": "Jak domácí zvířata změnila člověka.",
+     "genres": [
+      {
+       "id": "4003",
+       "title": "Dokument"
+      },
+      {
+       "id": "4014",
+       "title": "Příroda"
+      },
+      {
+       "id": "4017",
+       "title": "Zvířata"
+      }
+     ],
+     "imageUrl": "https://ctfs.ceskatelevize.cz/img/qzkma__3MGuBvTLrstYkUV9h-gG4PQXzewwVPJu_gzo/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64893a7976def431940ffb57/card/1114343127-videoatlas-nasi-prirody-1714641900.jpg",
+     "sidp": "1114343127",
+     "title": "Videoatlas naší přírody",
+     "playable": true,
+     "cardLabels": {
+      "topLeft": null,
+      "center": null
+     }
+    }
+   ]
+  }
+ }
+}

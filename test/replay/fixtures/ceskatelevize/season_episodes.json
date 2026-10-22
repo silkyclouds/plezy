@@ -1,0 +1,124 @@
+{
+ "data": {
+  "programme": {
+   "id": "10195164142",
+   "title": "Vyprávěj",
+   "seasons": [
+    {
+     "id": "season:648cc0fba37aa3214d0e5b62",
+     "title": "I. řada"
+    },
+    {
+     "id": "season:648d18942c49575ef70685a2",
+     "title": "II. řada"
+    },
+    {
+     "id": "season:648d464dcd4bc52b650388c2",
+     "title": "III. řada"
+    },
+    {
+     "id": "season:648d78d8f61c9098e200f7f3",
+     "title": "IV. řada"
+    },
+    {
+     "id": "season:648dad93c9a11054140b4372",
+     "title": "V. řada"
+    },
+    {
+     "id": "season:648d78d5f61c9098e200f7f2",
+     "title": "Osudy"
+    },
+    {
+     "id": "group:6686c379fefd75872009c1d2",
+     "title": "Filmy o seriálu"
+    }
+   ],
+   "episodes": {
+    "totalCount": 3,
+    "items": [
+     {
+      "id": "208522161400001",
+      "title": "1/26 Od začátku",
+      "description": "Píše se září roku 1964. Karel potřebuje udělat rozhodující zkoušku, ale díky seznámení s krásnou studentkou 1. ročníku Evou se celá situace zkomplikuje.",
+      "duration": 3125,
+      "playable": true,
+      "season": {
+       "id": "season:648cc0fba37aa3214d0e5b62",
+       "title": "I. řada"
+      },
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "53 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/9dq5SSaZ_G0X-tfuCidtOFELpdtWxUmuJ0T5CtdioE0/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/episode/64883bb50fc1557dfa06bc2d/card/od-zacatku-1714581121.jpg"
+      },
+      "labels": [],
+      "date": {
+       "datetime": "2026-01-09T09:35:00.000Z",
+       "channelName": "ČT1",
+       "prefixText": "Poslední vysílání"
+      },
+      "showCode": "vypravej",
+      "showId": "10195164142",
+      "showTitle": "Vyprávěj"
+     },
+     {
+      "id": "208522161400002",
+      "title": "2/26 Je to ten pravý?",
+      "description": "Evu s Karlem čeká velké překvapení. Jak si poradí s nenadálou situací?",
+      "duration": 3093,
+      "playable": true,
+      "season": {
+       "id": "season:648cc0fba37aa3214d0e5b62",
+       "title": "I. řada"
+      },
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "52 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/WreP1EScsB9MIsQkUK_-4GOXmRF2hxuqYTXOUItnaGA/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/episode/64883bb50fc1557dfa06bc30/card/je-to-ten-pravy-1714581122.jpg"
+      },
+      "labels": [],
+      "date": {
+       "datetime": "2026-01-14T09:35:00.000Z",
+       "channelName": "ČT1",
+       "prefixText": "Poslední vysílání"
+      },
+      "showCode": "vypravej",
+      "showId": "10195164142",
+      "showTitle": "Vyprávěj"
+     },
+     {
+      "id": "208522161400003",
+      "title": "3/26 Svatba",
+      "description": "Karel a Eva se stěhují do nového bytu. Josef něco Janě tají...",
+      "duration": 3120,
+      "playable": true,
+      "season": {
+       "id": "season:648cc0fba37aa3214d0e5b62",
+       "title": "I. řada"
+      },
+      "groups": [],
+      "cardLabels": {
+       "bottomRight": "52 min"
+      },
+      "images": {
+       "card": "https://ctfs.ceskatelevize.cz/img/pHBhQ8fyLOCBXRPFKnP4wnk1oXk9ehj_kgCIMSBzsr0/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/episode/64883bb40fc1557dfa06bc29/card/svatba-2-1714581121.jpg"
+      },
+      "labels": [],
+      "date": {
+       "datetime": "2026-01-16T09:35:00.000Z",
+       "channelName": "ČT1",
+       "prefixText": "Poslední vysílání"
+      },
+      "showCode": "vypravej",
+      "showId": "10195164142",
+      "showTitle": "Vyprávěj"
+     }
+    ]
+   }
+  }
+ }
+}

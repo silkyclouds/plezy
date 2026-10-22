@@ -1,0 +1,132 @@
+{
+ "data": {
+  "category": {
+   "id": "6482f099f8b9cd55f20f8db3",
+   "title": "Seriál",
+   "slug": "3976-serialy",
+   "seoName": "Televizní seriály - sledujte online",
+   "pageTitle": "Seriály",
+   "categoryId": "3976",
+   "parent": null,
+   "categoryBlocks": [
+    {
+     "title": "Nejsledovanější za 7 dní",
+     "categoryId": null,
+     "slug": null,
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": true,
+     "itemsPerRow": 5
+    },
+    {
+     "title": "Krimi",
+     "categoryId": "3983",
+     "slug": "3983-krimi",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Komedie",
+     "categoryId": "3985",
+     "slug": "3985-komedie",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "České",
+     "categoryId": "4785",
+     "slug": "4785-ceske",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Zahraniční",
+     "categoryId": "4002",
+     "slug": "4002-zahranicni",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Naposledy vysílané",
+     "categoryId": null,
+     "slug": null,
+     "orderBy": "catchup_broadcast",
+     "hasMoreItems": true,
+     "isPortrait": true,
+     "itemsPerRow": 5
+    },
+    {
+     "title": "Rodinné",
+     "categoryId": "3990",
+     "slug": "3990-rodinne",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 5
+    },
+    {
+     "title": "Psychologické",
+     "categoryId": "3992",
+     "slug": "3992-psychologicke",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Historické",
+     "categoryId": "3979",
+     "slug": "3979-historicke",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Klasika",
+     "categoryId": "3999",
+     "slug": "3999-klasicke",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": true,
+     "itemsPerRow": 5
+    },
+    {
+     "title": "Thrillery",
+     "categoryId": "3993",
+     "slug": "3993-thrillery",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 5
+    },
+    {
+     "title": "Literární adaptace",
+     "categoryId": "4337",
+     "slug": "4337-literarni-adaptace",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": true,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    },
+    {
+     "title": "Studentské",
+     "categoryId": "4928",
+     "slug": "4928-studentske",
+     "orderBy": "popular_previous_seven_days",
+     "hasMoreItems": false,
+     "isPortrait": false,
+     "itemsPerRow": 4
+    }
+   ]
+  }
+ }
+}

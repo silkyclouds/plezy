@@ -1,0 +1,637 @@
+{
+ "data": {
+  "homepage": {
+   "hero": {
+    "homepageHero": {
+     "id": "17542062207",
+     "title": "Vše a Eva",
+     "description": "Eva chce dítě, ale nechce muže. Těsně před oplodněním se nečekaně rozhodne najít „svého“ dárce spermatu. Ten je nic netušící a velmi sympatický."
+    },
+    "slug": "17542062207-vse-a-eva",
+    "sidp": "17542062207",
+    "isPlayable": true
+   },
+   "rows": [
+    {
+     "disabled": true,
+     "id": "695d1d9ef2e2338548061f13",
+     "slug": "ivysilani-doporucuje-2",
+     "itemsOnRow": 3,
+     "rows": 1,
+     "subtitle": null,
+     "title": "iVysílání doporučuje",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 4,
+      "items": [
+       {
+        "id": "6ad09f1715aacdc51406c915",
+        "sidp": "17337238882",
+        "programmeId": "6915f13bd129f3796b0b85a8",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "3983",
+          "title": "Krimi"
+         },
+         {
+          "id": "4002",
+          "title": "Zahraniční"
+         }
+        ],
+        "code": "komisar-dupin",
+        "title": "Komisař Dupin",
+        "description": "Vraždy číhají i na pobřeží. Pařížský komisař s prořízlou pusou a alergií na mořské plochy je převelen do Bretaně, jejíž krásy zatím neumí docenit.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/h8v_Uj8iEfXaoTcZxe3SDYj7IrZr5fvItcJ1BuFfVhs/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6915f13bd129f3796b0b85a8/card/komisar-dupin.ec79b.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       },
+       {
+        "id": "6ad0a3926dbdcb9543072615",
+        "sidp": "15174736978",
+        "programmeId": "64897c8796d77688b2038c0f",
+        "genres": [
+         {
+          "id": "4068",
+          "title": "Zábava"
+         },
+         {
+          "id": "4072",
+          "title": "Soutěž"
+         }
+        ],
+        "code": "ct-art-kviz",
+        "title": "ČT art kvíz",
+        "description": "Artové vydání známé vědomostní soutěže AZ-kvíz. Eva s Alešem zůstávají, jen otázky z biologie nahradily ty ze světa umění a kultury.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/twXtWDK8EjfiMs4tGY2Lp67PgIkZPKbL0rqx5WTQW40/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/64897c8796d77688b2038c0f/card/ct-art-kviz.4904c.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "magazine",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "695d1d9ef2e2338548061f15",
+     "slug": "nejsledovanejsi",
+     "itemsOnRow": 5,
+     "rows": 1,
+     "subtitle": null,
+     "title": "Nejsledovanější",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 8025,
+      "items": [
+       {
+        "id": "10195164142",
+        "sidp": "10195164142",
+        "programmeId": "64883bb40fc1557dfa06bc26",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "3985",
+          "title": "Komedie"
+         },
+         {
+          "id": "3979",
+          "title": "Historický"
+         }
+        ],
+        "code": "vypravej",
+        "title": "Vyprávěj",
+        "description": "Každodenní radosti a starosti rodiny Dvořákových na pozadí velkých dějin. Jaký byl život od svobodných šedesátek až po hořkosladké porevoluční období?",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/kfjPWukUzAvViyDCfNbc_37udXhYL1H79zzznZZD_eg/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/10195164142-vypravej/images/karta-poradu.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       },
+       {
+        "id": "12701251153",
+        "sidp": "12701251153",
+        "programmeId": "6489a1785c192ba7fe0686b3",
+        "genres": [
+         {
+          "id": "4029",
+          "title": "Kultura"
+         },
+         {
+          "id": "4045",
+          "title": "Tanec"
+         },
+         {
+          "id": "4072",
+          "title": "Soutěž"
+         }
+        ],
+        "code": "stardance",
+        "title": "StarDance",
+        "description": "Show plná elegantních tanečních vystoupení, dřiny a emocí. Deset párů bojuje na parketě o přízeň poroty i diváků.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/w2Ibhx4mTGBGZQMzqDmX7f9iluTeB2akebFwG6vmrZ0/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6489a1785c192ba7fe0686b3/card/stardance.291fd.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "magazine",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "695d1d9ef2e2338548061f19",
+     "slug": "ty-nejlepsi-zahranicni-serialy",
+     "itemsOnRow": 5,
+     "rows": 2,
+     "subtitle": null,
+     "title": "Ty nejlepší zahraniční seriály",
+     "cardFormat": "portrait",
+     "assets": {
+      "totalCount": 40,
+      "items": [
+       {
+        "id": "6acce7320ae98c2c0e084604",
+        "sidp": "17542062207",
+        "programmeId": "69aebe71bf7f25ce860bab21",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "4002",
+          "title": "Zahraniční"
+         },
+         {
+          "id": "3981",
+          "title": "Drama"
+         }
+        ],
+        "code": "vse-a-eva",
+        "title": "Vše a Eva",
+        "description": "Eva chce dítě, ale nechce muže. Těsně před oplodněním se nečekaně rozhodne najít „svého“ dárce spermatu. Ten je nic netušící a velmi sympatický.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/zv-JgCJUAp2D0LcMnss4mRpIMbXD55BJjh-paCmdnco/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/69aebe71bf7f25ce860bab21/cardPortrait/vse-a-eva.c7857.jpeg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       },
+       {
+        "id": "6ac4b6b7f1b348ca150da084",
+        "sidp": "17586123674",
+        "programmeId": "69cd1779e3f06b913003d545",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "3983",
+          "title": "Krimi"
+         },
+         {
+          "id": "4002",
+          "title": "Zahraniční"
+         }
+        ],
+        "code": "cas",
+        "title": "Čas",
+        "description": "Bývalý učitel Mark se ocitá ve vězení plném recidivistů. Ochranu mu nabízí policista, který se sám brzy ocitá pod tlakem agresivních chovanců.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/eqggSJNq2EULOBfpD_Ol9bmGUBEddpQtQSoodo34Zi4/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/69cd1779e3f06b913003d545/cardPortrait/cas.4e8a2.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": true,
+     "id": "6748341f4c70a68e08085f38",
+     "slug": null,
+     "itemsOnRow": 4,
+     "rows": 1,
+     "subtitle": null,
+     "title": "Novinky České televize",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 4,
+      "items": [
+       {
+        "id": "67bc838953986b8b8f032a4c",
+        "sidp": "17358422342",
+        "programmeId": "6925a881e53fee2fba08dea8",
+        "genres": [
+         {
+          "id": "4068",
+          "title": "Zábava"
+         },
+         {
+          "id": "4073",
+          "title": "Talk show"
+         }
+        ],
+        "code": "talk-show-na-jednoho",
+        "title": "Talk show Na jednoho",
+        "description": "Rozhovory bez přetvářky a předsudků. Známé osobnosti zpovídají tazatelé na autistickém spektru. Přelomová talk show hledající společnou řeč.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/JiIjIM_o7SQHN0QTaJAPS1nP79k2oSaKf4CHvLvP2R4/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6925a881e53fee2fba08dea8/card/talk-show-na-jednoho.eddcd.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "magazine",
+         "year": null
+        }
+       },
+       {
+        "id": "67bc838953986b8b8f032a4a",
+        "sidp": "16552335884",
+        "programmeId": "66d9858a3bd431fa210f6af4",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "3981",
+          "title": "Drama"
+         },
+         {
+          "id": "4785",
+          "title": "Český"
+         }
+        ],
+        "code": "filter",
+        "title": "Filter",
+        "description": "Z velkého dítěte se přes léto stává malý dospělý. Matty hledá na prahu střední školy sám sebe — a do toho pozná kluka, který mu převrátí svět.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/enHjaEC0kskZpIzypoCwbKwgv91f2OYkBvNvtue7Y-4/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/66d9858a3bd431fa210f6af4/card/filter.54575.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "695d1d9ef2e2338548061f16",
+     "slug": "filmove-tipy",
+     "itemsOnRow": 5,
+     "rows": 2,
+     "subtitle": null,
+     "title": "Filmové tipy",
+     "cardFormat": "portrait",
+     "assets": {
+      "totalCount": 10,
+      "items": [
+       {
+        "id": "6ad0ad4aefa17299430c2475",
+        "sidp": "17671755272",
+        "programmeId": "6a0c73a20496251ffd06ff1e",
+        "genres": [
+         {
+          "id": "3947",
+          "title": "Film"
+         },
+         {
+          "id": "3969",
+          "title": "Zahraniční"
+         },
+         {
+          "id": "3951",
+          "title": "Drama"
+         }
+        ],
+        "code": "pi",
+        "title": "Pí",
+        "description": "Génius nebo blázen? Max Cohen je matematik, který věří, že čísla jsou jazykem přírody. Při hledání její numerické podstaty propadá posedlosti.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/TJEws5eHXJGvMe7SLou4Ik_VwrYviOP7HHbIpoVs8wY/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6a0c73a20496251ffd06ff1e/cardPortrait/pi.2dca6.jpg",
+        "programme": {
+         "availability": {
+          "isAvailable": true,
+          "textLong": null,
+          "textShort": null
+         },
+         "countriesOfOrigin": [
+          {
+           "title": "Spojené státy americké"
+          }
+         ],
+         "durationText": "81 min",
+         "showType": "movie",
+         "year": "1997"
+        }
+       },
+       {
+        "id": "6ad0ae0befa17299430c2476",
+        "sidp": "16373259302",
+        "programmeId": "665f2243684c44cff00e8c43",
+        "genres": [
+         {
+          "id": "3947",
+          "title": "Film"
+         },
+         {
+          "id": "3951",
+          "title": "Drama"
+         },
+         {
+          "id": "4336",
+          "title": "Literární adaptace"
+         }
+        ],
+        "code": "gerta-schnirch",
+        "title": "Gerta Schnirch",
+        "description": "Válka končí, trest však teprve začíná. Dcera Češky a nacisty platí za hříchy, které nespáchala. Adaptace oceňovaného románu Kateřiny Tučkové.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/Uz2hUMi1oJo5tU1EJEiONGvpt8ynrxHLojcQ8pueBy0/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/665f2243684c44cff00e8c43/cardPortrait/gerta-schnirch.c8e01.jpeg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "695d1da0f2e2338548061f3b",
+     "slug": "nove-dokumenty",
+     "itemsOnRow": 3,
+     "rows": 2,
+     "subtitle": null,
+     "title": "Dokumenty České televize",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 178,
+      "items": [
+       {
+        "id": "6ad529d7c9571df4d40b4263",
+        "sidp": "17543982782",
+        "programmeId": "6ac2d5cb04a520517d0c42fe",
+        "genres": [
+         {
+          "id": "4003",
+          "title": "Dokument"
+         },
+         {
+          "id": "4008",
+          "title": "Historie"
+         },
+         {
+          "id": "4007",
+          "title": "Etnografie"
+         }
+        ],
+        "code": "den-smireni",
+        "title": "Den smíření",
+        "description": "Minulost Brna se znovu hlásí o slovo. Historicky první sudetoněmecký sjezd v Česku otevírá otázku viny i smíření.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/5gQyQC90NclIut1VJ2RIiDuAlH1obSmG5KdOkqOw_gg/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6ac2d5cb04a520517d0c42fe/card/den-smireni.d0065.jpg",
+        "programme": {
+         "availability": {
+          "isAvailable": true,
+          "textLong": null,
+          "textShort": null
+         },
+         "countriesOfOrigin": [
+          {
+           "title": "Česko"
+          }
+         ],
+         "durationText": "26 min",
+         "showType": "movie",
+         "year": "2026"
+        }
+       },
+       {
+        "id": "6ad0ab28b0363fba5e025a7e",
+        "sidp": "16988724154",
+        "programmeId": "68d54d67166dc610f50637e1",
+        "genres": [
+         {
+          "id": "4003",
+          "title": "Dokument"
+         },
+         {
+          "id": "4008",
+          "title": "Historie"
+         },
+         {
+          "id": "4307",
+          "title": "Architektura"
+         }
+        ],
+        "code": "benatsky-pavilon",
+        "title": "Benátský pavilon",
+        "description": "Sto let naší kultury pod jednou střechou. Příběh ikonické stavby architekta Otakara Novotného, uchovávající paměť českého a slovenského umění.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/CO49uqz3JmmIidL9bgm9XX3jpXtq2IPG1oBNDt8lCDM/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/68d54d67166dc610f50637e1/card/benatsky-pavilon.699e8.jpg",
+        "programme": {
+         "availability": {
+          "isAvailable": true,
+          "textLong": null,
+          "textShort": null
+         },
+         "countriesOfOrigin": [
+          {
+           "title": "Česko"
+          }
+         ],
+         "durationText": "53 min",
+         "showType": "movie",
+         "year": "2026"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "695d1da3f2e2338548061f7c",
+     "slug": "podcasty",
+     "itemsOnRow": 5,
+     "rows": 1,
+     "subtitle": null,
+     "title": "Podcasty & videocasty",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 25,
+      "items": [
+       {
+        "id": "6ad0a81b2937f51135011d89",
+        "sidp": "17826773963",
+        "programmeId": "6a859af226114ac4ec03711e",
+        "genres": [
+         {
+          "id": "4093",
+          "title": "Společnost"
+         },
+         {
+          "id": "4094",
+          "title": "Vzdělávací"
+         }
+        ],
+        "code": "slozky-pana-epsteina",
+        "title": "Složky pana Epsteina",
+        "description": "Pozadí jednoho z nejvýraznějších skandálů moderní historie. Miliony dokumentů, které měly přinést odpovědi, ale místo toho vyvolaly další pochybnosti.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/8U4iwowGyl2vRmtKoNQq65LAYX0a13KVFGkh4o0UJuU/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6a859af226114ac4ec03711e/card/slozky-pana-epsteina.b05aa.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "magazine",
+         "year": null
+        }
+       },
+       {
+        "id": "6ad7725b792eb2e956071f93",
+        "sidp": "17904869356",
+        "programmeId": "6ac774233814d42ede073d2f",
+        "genres": [
+         {
+          "id": "4029",
+          "title": "Kultura"
+         },
+         {
+          "id": "4045",
+          "title": "Tanec"
+         }
+        ],
+        "code": "dotanceno",
+        "title": "Dotančeno",
+        "description": "Podcast taneční show StarDance. Rozhovory se soutěžícími, pikantnosti z natáčení a všechno, co se v soutěžních přenosech nedozvíte!",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/KoirzdcPrLjWeQpPBT-iMsM08WkFcQQoZc7hVF6bnUI/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6ac774233814d42ede073d2f/card/dotanceno.d6172.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       }
+      ]
+     }
+    },
+    {
+     "disabled": false,
+     "id": "6ad889079514da026c04bfea",
+     "slug": "vdavky-a-snatky",
+     "itemsOnRow": 4,
+     "rows": 1,
+     "subtitle": null,
+     "title": "Vdavky a sňatky",
+     "cardFormat": "landscape",
+     "assets": {
+      "totalCount": 7,
+      "items": [
+       {
+        "id": "6ad888b26fcac3e68f005dd4",
+        "sidp": "899200",
+        "programmeId": "6488389fe03b0ae691068a78",
+        "genres": [
+         {
+          "id": "3976",
+          "title": "Seriál"
+         },
+         {
+          "id": "3999",
+          "title": "Klasika"
+         },
+         {
+          "id": "3979",
+          "title": "Historický"
+         }
+        ],
+        "code": "snatky-z-rozumu",
+        "title": "Sňatky z rozumu",
+        "description": "Osudy podnikatelských rodů Nedobylů a Bornů z vrcholného období národního obrození.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/GatPWU9Ts2R-6CgizISd17Fi8xNrb3KXEB3B6ul79cA/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6488389fe03b0ae691068a78/card/snatky-z-rozumu-1700745177157.jpg",
+        "programme": {
+         "availability": null,
+         "countriesOfOrigin": null,
+         "durationText": null,
+         "showType": "series",
+         "year": null
+        }
+       },
+       {
+        "id": "6ad888cc301fcec01e0217c4",
+        "sidp": "1130431017",
+        "programmeId": "6488caf3a791c4ba7002e82f",
+        "genres": [
+         {
+          "id": "3947",
+          "title": "Film"
+         },
+         {
+          "id": "3957",
+          "title": "Komedie"
+         },
+         {
+          "id": "3969",
+          "title": "Zahraniční"
+         }
+        ],
+        "code": "moje-tlusta-recka-svatba",
+        "title": "Moje tlustá řecká svatba",
+        "description": "Řekla ano! Mladý Ian se zamiloval do Řekyně a je odhodlán vzít si ji za ženu. Teď ještě získat si její rodinu.",
+        "imageUrl": "https://ctfs.ceskatelevize.cz/img/geM-QRhF8EdHYHvIsTrDQ03qh4vmOUXhA9eFS5QEXBU/rs:fit:480:270/sh:0.5/plain/s3/porady-s3/6488caf3a791c4ba7002e82f/card/moje-tlusta-recka-svatba.64fea.jpg",
+        "programme": {
+         "availability": {
+          "isAvailable": true,
+          "textLong": null,
+          "textShort": null
+         },
+         "countriesOfOrigin": [
+          {
+           "title": "Kanada"
+          },
+          {
+           "title": "Spojené státy americké"
+          }
+         ],
+         "durationText": "92 min",
+         "showType": "movie",
+         "year": "2002"
+        }
+       }
+      ]
+     }
+    }
+   ]
+  }
+ }
+}

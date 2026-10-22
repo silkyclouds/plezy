@@ -1,0 +1,165 @@
+{
+ "data": {
+  "searchEpisodes": {
+   "totalCount": 3513,
+   "items": [
+    {
+     "id": "109689325239933633156",
+     "description": "Jan Vyčítal — Rudolf Křesťan",
+     "idec": "39933633156",
+     "sidp": "1096893252",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/OfR_XIfBfw_IqlX3sD4CDcHJ4v_bBgzlVLFJHg2cRw0/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/64895c60d648caea1906fb0b/card/bananove-rybicky-333-1714591338.jpg",
+     "title": "Jak přežít přírodu",
+     "duration": 1380,
+     "genres": [
+      {
+       "id": "4068",
+       "title": "Zábava"
+      },
+      {
+       "id": "4073",
+       "title": "Talk show"
+      }
+     ],
+     "code": "bananove-rybicky",
+     "showTitle": "Banánové rybičky",
+     "cardLabels": {
+      "topLeft": null,
+      "center": null,
+      "bottomRight": "23 min"
+     },
+     "labels": []
+    },
+    {
+     "id": "15963835630224385702310008",
+     "description": "losos keta, Japonsko",
+     "idec": "224385702310008",
+     "sidp": "15963835630",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/dIfqjqBmLG9aI8s3pbCZBZY_2zEZWWbuKgpF6HG54M8/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/6501d6208ecf3fb6990598da/card/813-prekvapiva-tajemstvi.a0241.jpg",
+     "title": "8/13 Překvapivá tajemství přírody",
+     "duration": 1501,
+     "genres": [
+      {
+       "id": "4118",
+       "title": "Pro děti"
+      },
+      {
+       "id": "4121",
+       "title": "Vzdělávací"
+      },
+      {
+       "id": "4775",
+       "title": "Příroda"
+      }
+     ],
+     "code": "darwinuv-uzasny-svet-zvirat",
+     "showTitle": "Darwinův úžasný svět zvířat",
+     "cardLabels": {
+      "topLeft": null,
+      "center": null,
+      "bottomRight": "26 min"
+     },
+     "labels": []
+    },
+    {
+     "id": "10214135017226544160040005",
+     "description": "Romana Goščíková — Alexandr Hemala — Petr Kolář — Jan Špaček",
+     "idec": "226544160040005",
+     "sidp": "10214135017",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/1R0ImPA5-baCDZ9iompqITLWzCpNp-eAHVWaQg47fNs/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/68f88f32e006e58c980d62d6/card/26-zari.3e443.jpeg",
+     "title": "26. září",
+     "duration": 4194,
+     "genres": [
+      {
+       "id": "4068",
+       "title": "Zábava"
+      },
+      {
+       "id": "4072",
+       "title": "Soutěž"
+      },
+      {
+       "id": "4115",
+       "title": "Věda"
+      }
+     ],
+     "code": "zazraky-prirody",
+     "showTitle": "Zázraky přírody",
+     "cardLabels": {
+      "topLeft": "Dostupné do 26. 10.",
+      "center": null,
+      "bottomRight": "70 min"
+     },
+     "labels": []
+    },
+    {
+     "id": "15963835630224385702310004",
+     "description": "řeka Tama, Japonsko",
+     "idec": "224385702310004",
+     "sidp": "15963835630",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/qTFjmp0FkvDuFaJ-1k6_GLgttxUY-Ag3cM4GrKWpmN8/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/6501d6218ecf3fb6990598df/card/413-skryta-priroda-tokia.c37b4.jpg",
+     "title": "4/13 Skrytá příroda Tokia",
+     "duration": 1501,
+     "genres": [
+      {
+       "id": "4118",
+       "title": "Pro děti"
+      },
+      {
+       "id": "4121",
+       "title": "Vzdělávací"
+      },
+      {
+       "id": "4775",
+       "title": "Příroda"
+      }
+     ],
+     "code": "darwinuv-uzasny-svet-zvirat",
+     "showTitle": "Darwinův úžasný svět zvířat",
+     "cardLabels": {
+      "topLeft": null,
+      "center": null,
+      "bottomRight": "26 min"
+     },
+     "labels": []
+    },
+    {
+     "id": "1095913550226562248410023",
+     "description": "Změny ve vedení institucí, omezování podpory ochrany přírody i nová pravidla pro výstavbu. Vládní koalice během léta prosadila další kroky, které oslabují zázemí ochrany životního prostředí. Oslabování ochrany přírody ale není jen tématem vládní koalice.",
+     "idec": "226562248410023",
+     "sidp": "1095913550",
+     "playable": true,
+     "previewImage": "https://ctfs.ceskatelevize.cz/img/T--5z87HPZj2_ZJUr3qIQOi6E0hVLqcPVGHOSk4m0ak/rs:fit:480/sh:0.5/plain/s3/porady-s3/episode/690c8587fff0d0c130002204/card/koalice-proti-prirode.d52b7.jpg",
+     "title": "Koalice proti přírodě",
+     "duration": 1089,
+     "genres": [
+      {
+       "id": "4124",
+       "title": "Zpravodajství"
+      },
+      {
+       "id": "4140",
+       "title": "Publicistika"
+      },
+      {
+       "id": "4127",
+       "title": "Ekologie"
+      }
+     ],
+     "code": "nedej-se",
+     "showTitle": "Nedej se!",
+     "cardLabels": {
+      "topLeft": null,
+      "center": null,
+      "bottomRight": "19 min"
+     },
+     "labels": []
+    }
+   ]
+  }
+ }
+}
