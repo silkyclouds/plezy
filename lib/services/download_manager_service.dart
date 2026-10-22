@@ -571,6 +571,8 @@ class DownloadManagerService {
   }
 
   Future<String?> _profileScopeIdForBackend(MediaBackend backend, ServerId serverId, String activeProfileId) async {
+    // Catch-up TV has no per-profile namespace: its cache is keyed by the connection id itself.
+    if (backend.isReplay) return '$serverId';
     if (backend.usesMediaBrowserApi) {
       final persisted = await JellyfinCacheResolver(_database).findProfileScopeId(serverId, activeProfileId);
       return persisted ?? activeClientScopeIdForServer(serverId);
@@ -712,6 +714,7 @@ class DownloadManagerService {
       'jellyfin' => MediaBackend.jellyfin,
       'emby' => MediaBackend.emby,
       'plex' => MediaBackend.plex,
+      'replay' => MediaBackend.replay,
       _ => null,
     };
   }
