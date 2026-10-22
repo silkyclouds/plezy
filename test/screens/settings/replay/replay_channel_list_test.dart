@@ -38,6 +38,27 @@ const _francetv = ReplaySourceInfo(
   languages: ['fr'],
   availableIn: {'FR'},
 );
+const _rts = ReplaySourceInfo(
+  id: 'rts',
+  name: 'RTS',
+  support: ReplayPlaybackSupport.clear,
+  country: 'CH',
+  languages: ['fr'],
+);
+const _srf = ReplaySourceInfo(
+  id: 'srf',
+  name: 'SRF',
+  support: ReplayPlaybackSupport.clear,
+  country: 'CH',
+  languages: ['de'],
+);
+const _rsi = ReplaySourceInfo(
+  id: 'rsi',
+  name: 'RSI',
+  support: ReplayPlaybackSupport.clear,
+  country: 'CH',
+  languages: ['it'],
+);
 
 class _Harness extends StatefulWidget {
   final Set<String> enabled;
@@ -59,7 +80,7 @@ class _HarnessState extends State<_Harness> {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: ReplayChannelList(
-        groups: groupReplaySources([_auvio, _vrt, _arte, _francetv], viewerCountry: 'BE', locale: 'en'),
+        groups: groupReplaySources([_auvio, _vrt, _arte, _francetv, _rts, _srf, _rsi], viewerCountry: 'BE', locale: 'en'),
         enabled: _enabled,
         query: widget.query,
         locale: 'en',
