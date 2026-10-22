@@ -7,13 +7,11 @@ import 'package:provider/provider.dart';
 import '../../connection/connection.dart';
 import '../../connection/connection_registry.dart';
 import '../../focus/focusable_button.dart';
-import '../../focus/focusable_text_field.dart';
 import '../../i18n/strings.g.dart';
 import '../../media/ids.dart';
 import '../../profiles/active_profile_binder.dart';
 import '../../profiles/active_profile_provider.dart';
 import '../../providers/multi_server_provider.dart';
-import '../../replay/auth/replay_auth.dart';
 import '../../replay/client/replay_client.dart';
 import '../../replay/provider/replay_provider.dart';
 import '../../replay/provider/replay_provider_registry.dart';
@@ -23,6 +21,12 @@ import '../../widgets/app_icon.dart';
 import '../../widgets/focused_scroll_scaffold.dart';
 import '../../widgets/focusable_list_tile.dart';
 import '../../widgets/settings_section.dart';
+import '../../replay/provider/replay_regions.dart';
+import '../../replay/provider/replay_source_groups.dart';
+import '../../widgets/replay_channel_logo.dart';
+import 'replay/replay_country_drawer.dart';
+import 'replay/replay_location_card.dart';
+import 'replay/replay_sign_in_dialog.dart';
 import 'replay_connection_setup.dart';
 
 /// Chooses which broadcasters catch-up TV shows and signs the user in to the ones that have accounts.
@@ -36,6 +40,10 @@ class ReplaySettingsScreen extends StatefulWidget {
 class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
   ReplayConnection? _connection;
   bool _loaded = false;
+  String? _country;
+  bool _countryOverridden = false;
+  final Set<String> _expanded = {};
+  bool _expansionSeeded = false;
 
   @override
   void initState() {
@@ -58,7 +66,37 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
       _connection = connection is ReplayConnection ? connection : null;
       _loaded = true;
     });
+    unawaited(_resolveLocation());
   }
+
+  /// Finds the viewer's country, then opens that country's drawer the first time.
+  Future<void> _resolveLocation() async {
+    final geo = _client?.geo;
+    final country = await geo?.resolve();
+    if (!mounted) return;
+    setState(() {
+      _country = country;
+      _countryOverridden = geo?.override != null;
+      if (!_expansionSeeded) {
+        _expansionSeeded = true;
+        final first = groupReplaySources(replaySourceInfos, viewerCountry: country, locale: _locale).firstOrNull;
+        if (first != null) _expanded.add(first.country);
+      }
+    });
+  }
+
+  Future<void> _changeLocation(String? code) async {
+    final geo = _client?.geo;
+    if (geo == null) return;
+    await geo.setOverride(code);
+    if (!mounted) return;
+    setState(() {
+      _country = geo.country;
+      _countryOverridden = geo.override != null;
+    });
+  }
+
+  String get _locale => LocaleSettings.currentLocale.languageCode;
 
   ReplayClient? get _client =>
       context.read<MultiServerProvider>().serverManager.getClient(ServerId(ReplayConnection.singletonId))
@@ -104,13 +142,7 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
       );
       if (confirmed == true) await accounts.signOut(info.id);
     } else {
-      await showScopedDialog<void>(
-        context: context,
-        builder: (_) => _SignInDialog(
-          info: info,
-          onSubmit: (l, p) => accounts.signIn(info.id, login: l, password: p),
-        ),
-      );
+      await showReplaySignIn(context, accounts: accounts, info: info);
     }
     if (mounted) setState(() {});
   }
@@ -163,124 +195,76 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
   }
 
   Widget _sources(ReplayConnection connection) {
-    final accounts = _client?.accounts;
-    return SettingsGroup(
-      title: t.replay.sources,
+    final groups = groupReplaySources(replaySourceInfos, viewerCountry: _country, locale: _locale);
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        for (final info in replaySourceInfos) ...[
-          FocusableListTile(
-            leading: const AppIcon(Symbols.live_tv_rounded, fill: 1),
-            title: Text(info.name),
-            subtitle: Text(_supportLabel(info.support)),
-            trailing: Switch(
-              value: connection.enabledSources.contains(info.id),
-              onChanged: (on) => unawaited(_setEnabled(info, on)),
-            ),
-            onTap: () => unawaited(_setEnabled(info, !connection.enabledSources.contains(info.id))),
+        ReplayLocationCard(
+          country: _country,
+          overridden: _countryOverridden,
+          locale: _locale,
+          onChanged: (code) => unawaited(_changeLocation(code)),
+        ),
+        SettingsSectionHeader(t.replay.sources),
+        for (final group in groups)
+          ReplayCountryDrawer(
+            group: group,
+            locale: _locale,
+            enabledCount: group.sources.where((info) => connection.enabledSources.contains(info.id)).length,
+            expanded: _expanded.contains(group.country),
+            onToggle: () => setState(() {
+              if (!_expanded.remove(group.country)) _expanded.add(group.country);
+            }),
+            channelBuilder: (info) => _channel(info, connection),
           ),
-          if (info.supportsAccount && connection.enabledSources.contains(info.id) && accounts != null)
-            FocusableListTile(
-              leading: const AppIcon(Symbols.account_circle_rounded, fill: 1),
-              title: Text(accounts.accountLabel(info.id) == null ? t.replay.signIn : t.replay.signOut),
-              subtitle: accounts.accountLabel(info.id) == null
-                  ? null
-                  : Text(t.replay.signedInAs(account: accounts.accountLabel(info.id)!)),
-              onTap: () => unawaited(_openAccount(info)),
-            ),
-        ],
       ],
     );
   }
-}
 
-class _SignInDialog extends StatefulWidget {
-  final ReplaySourceInfo info;
-  final Future<void> Function(String login, String password) onSubmit;
-
-  const _SignInDialog({required this.info, required this.onSubmit});
-
-  @override
-  State<_SignInDialog> createState() => _SignInDialogState();
-}
-
-class _SignInDialogState extends State<_SignInDialog> {
-  final _login = TextEditingController();
-  final _password = TextEditingController();
-  bool _busy = false;
-  String? _error;
-
-  @override
-  void dispose() {
-    _login.dispose();
-    _password.dispose();
-    super.dispose();
-  }
-
-  Future<void> _submit() async {
-    if (_login.text.trim().isEmpty || _password.text.isEmpty) return;
-    setState(() {
-      _busy = true;
-      _error = null;
-    });
-    try {
-      await widget.onSubmit(_login.text.trim(), _password.text);
-      if (mounted) Navigator.pop(context);
-    } on ReplayAuthException catch (e) {
-      if (mounted) {
-        setState(() {
-          _busy = false;
-          _error = _message(e);
-        });
-      }
-    }
-  }
-
-  String _message(ReplayAuthException e) => switch (e.reason) {
-    ReplayAuthFailure.invalidCredentials => t.replay.signInFailed,
-    ReplayAuthFailure.rateLimited => t.replay.signInRateLimited,
-    ReplayAuthFailure.captchaRequired => t.replay.signInCaptcha,
-    ReplayAuthFailure.network => t.replay.signInNetwork,
-    ReplayAuthFailure.rejected => t.replay.signInRejected,
-  };
-
-  @override
-  Widget build(BuildContext context) {
-    return AlertDialog(
-      title: Text(t.replay.signInTitle(name: widget.info.name)),
-      content: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          Text(t.replay.signInHint(name: widget.info.name)),
-          const SizedBox(height: 12),
-          FocusableTextFormField(
-            controller: _login,
-            autofocus: true,
-            autocorrect: false,
-            enableSuggestions: false,
-            enabled: !_busy,
-            keyboardType: TextInputType.emailAddress,
-            textInputAction: TextInputAction.next,
-            decoration: InputDecoration(labelText: t.replay.login),
-          ),
-          const SizedBox(height: 12),
-          FocusableTextFormField(
-            controller: _password,
-            obscureText: true,
-            enabled: !_busy,
-            textInputAction: TextInputAction.done,
-            onFieldSubmitted: (_) => unawaited(_submit()),
-            decoration: InputDecoration(labelText: t.replay.password),
-          ),
-          if (_error != null) ...[
-            const SizedBox(height: 12),
-            Text(_error!, style: TextStyle(color: Theme.of(context).colorScheme.error)),
+  /// The row of one channel: logo, name, what plays, a warning when the viewer's country is outside its rules, and the
+  /// switch; a second row for the account when the channel has them.
+  List<Widget> _channel(ReplaySourceInfo info, ReplayConnection connection) {
+    final accounts = _client?.accounts;
+    final enabled = connection.enabledSources.contains(info.id);
+    final restricted = info.restrictsViewerIn(_country);
+    final scheme = Theme.of(context).colorScheme;
+    final extraLanguages = info.languages.skip(1).map((code) => replayLanguageName(code, _locale)).toList();
+    return [
+      FocusableListTile(
+        leading: SizedBox(
+          width: 48,
+          child: ReplayChannelLogo(sourceId: info.id, name: info.name, height: 26),
+        ),
+        title: Text(info.name),
+        subtitle: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(_supportLabel(info.support)),
+            if (extraLanguages.isNotEmpty) Text(t.replay.setup.alsoIn(languages: extraLanguages.join(', '))),
+            if (restricted)
+              Row(
+                children: [
+                  AppIcon(Symbols.public_off_rounded, fill: 1, size: 14, color: scheme.tertiary),
+                  const SizedBox(width: 4),
+                  Flexible(
+                    child: Text(t.replay.setup.notFromHere, style: TextStyle(color: scheme.tertiary)),
+                  ),
+                ],
+              ),
           ],
-        ],
+        ),
+        trailing: Switch(value: enabled, onChanged: (on) => unawaited(_setEnabled(info, on))),
+        onTap: () => unawaited(_setEnabled(info, !enabled)),
       ),
-      actions: [
-        TextButton(onPressed: _busy ? null : () => Navigator.pop(context), child: Text(t.common.cancel)),
-        FilledButton(onPressed: _busy ? null : () => unawaited(_submit()), child: Text(t.replay.signIn)),
-      ],
-    );
+      if (info.supportsAccount && enabled && accounts != null)
+        FocusableListTile(
+          leading: const SizedBox(width: 48, child: AppIcon(Symbols.account_circle_rounded, fill: 1)),
+          title: Text(accounts.accountLabel(info.id) == null ? t.replay.signIn : t.replay.signOut),
+          subtitle: accounts.accountLabel(info.id) == null
+              ? null
+              : Text(t.replay.signedInAs(account: accounts.accountLabel(info.id)!)),
+          onTap: () => unawaited(_openAccount(info)),
+        ),
+    ];
   }
 }

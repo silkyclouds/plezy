@@ -48,7 +48,17 @@ class ReplayMapper {
   final ReplaySource source;
   final ReplayTitleMemory? memory;
 
-  const ReplayMapper({required this.serverId, required this.source, this.serverName, this.memory});
+  /// The viewer is outside a restriction that covers the broadcaster's whole catalogue, so playable titles are
+  /// stamped geo-blocked (a guess that a VPN or a licence exception can disprove at play time).
+  final bool blanketGeoBlock;
+
+  const ReplayMapper({
+    required this.serverId,
+    required this.source,
+    this.serverName,
+    this.memory,
+    this.blanketGeoBlock = false,
+  });
 
   MediaItem item(ReplayTitle listed) {
     final t = memory?.fill(listed) ?? listed;
@@ -87,7 +97,7 @@ class ReplayMapper {
       serverId: serverId,
       serverName: serverName,
       raw: {
-        replayAvailabilityKey: t.availability.name,
+        replayAvailabilityKey: _stampedAvailability(t).name,
         if (replayHasLandscapeOnlyArtwork(t.posterUrl, t.backdropUrl)) landscapeOnlyArtworkRawKey: true,
       },
     );
@@ -118,6 +128,11 @@ class ReplayMapper {
     serverId: serverId,
     serverName: serverName,
   );
+
+  ReplayAvailability _stampedAvailability(ReplayTitle t) =>
+      blanketGeoBlock && t.availability == ReplayAvailability.playable && t.isPlayable
+      ? ReplayAvailability.geoBlocked
+      : t.availability;
 
   static String? _isoDate(DateTime? d) => d == null
       ? null

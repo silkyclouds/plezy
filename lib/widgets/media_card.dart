@@ -40,6 +40,7 @@ import 'media_context_menu.dart';
 import 'media_card_list_layout.dart';
 import 'backend_badge.dart';
 import 'optimized_media_image.dart';
+import 'replay_availability.dart';
 
 const _failedPosterUrlCacheLimit = 512;
 final _failedPosterUrls = <String>{};
@@ -611,14 +612,30 @@ class MediaCardState extends State<MediaCard> with ContextMenuTapMixin<MediaCard
     final overlays = <Widget>[
       if (item is MediaItem && _showsWatchedIndicator(item)) WatchedIndicator(item: item),
       if (badgeLabels.isNotEmpty) _CatalogBadges(labels: badgeLabels),
+      ReplayAvailabilityBadge(item: item),
     ];
     return ExcludeSemantics(
       child: _CatalogFocusBorder(
         accentColor: _catalogAccent,
         borderRadius: _posterFocusRadius(context, item),
         child: fullBleed
-            ? _clipPosterImage(context, item, Stack(fit: StackFit.expand, children: [image, ...overlays]))
-            : Stack(children: [_clipPosterImage(context, item, image), ...overlays]),
+            ? _clipPosterImage(
+                context,
+                item,
+                Stack(
+                  fit: StackFit.expand,
+                  children: [
+                    ReplayAvailabilityShade(item: item, child: image),
+                    ...overlays,
+                  ],
+                ),
+              )
+            : Stack(
+                children: [
+                  _clipPosterImage(context, item, ReplayAvailabilityShade(item: item, child: image)),
+                  ...overlays,
+                ],
+              ),
       ),
     );
   }
@@ -869,20 +886,24 @@ class _MediaCardList extends StatelessWidget {
                       _clipPosterImage(
                         context,
                         item,
-                        _buildPosterImage(
-                          context,
-                          item,
-                          isOffline: isOffline,
-                          localPosterPath: localPosterPath,
-                          episodePosterModeOverride: episodePosterModeOverride,
-                          cardShapeOverride: cardShapeOverride,
-                          catalogItem: catalogItem,
-                          knownWidth: catalogItem == null ? null : _posterWidth(),
-                          knownHeight: catalogItem == null ? null : _posterHeight(),
+                        ReplayAvailabilityShade(
+                          item: item,
+                          child: _buildPosterImage(
+                            context,
+                            item,
+                            isOffline: isOffline,
+                            localPosterPath: localPosterPath,
+                            episodePosterModeOverride: episodePosterModeOverride,
+                            cardShapeOverride: cardShapeOverride,
+                            catalogItem: catalogItem,
+                            knownWidth: catalogItem == null ? null : _posterWidth(),
+                            knownHeight: catalogItem == null ? null : _posterHeight(),
+                          ),
                         ),
                       ),
                       if (item is MediaItem && _showsWatchedIndicator(item as MediaItem))
                         WatchedIndicator(item: item as MediaItem),
+                      ReplayAvailabilityBadge(item: item),
                     ],
                   ),
                 ),

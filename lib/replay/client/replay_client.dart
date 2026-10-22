@@ -1,5 +1,7 @@
 import 'dart:async';
 
+import 'package:http/http.dart' as package_http;
+
 import '../../connection/connection.dart';
 import '../../media/download_resolution.dart';
 import '../../media/ids.dart';
@@ -18,6 +20,7 @@ import '../../services/playback_initialization_types.dart';
 import '../../utils/app_logger.dart';
 import '../../utils/media_server_http_client.dart' show AbortController, MediaServerHttpClient;
 import '../download/replay_download_proxy.dart';
+import '../geo/replay_geo_service.dart';
 import '../mapping/replay_title_memory.dart';
 import '../mapping/replay_mapper.dart';
 import '../model/replay_playback.dart';
@@ -57,15 +60,25 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   );
   bool _offline = false;
 
-  ReplayClient._(this.connection, this._providers, this._http);
+  /// Where the viewer is; compared with each channel's rules to grey out what will not play. Null in tests.
+  final ReplayGeoService? geo;
+
+  ReplayClient._(this.connection, this._providers, this._http, this.geo);
 
   factory ReplayClient(ReplayConnection connection, {String? deviceId}) {
     final http = MediaServerHttpClient();
-    return ReplayClient._(connection, buildReplayProviders(connection.enabledSources, http, deviceId: deviceId), http);
+    final geo = ReplayGeoService(client: package_http.Client(), store: ReplayApiCache.instance);
+    unawaited(geo.resolve());
+    return ReplayClient._(
+      connection,
+      buildReplayProviders(connection.enabledSources, http, deviceId: deviceId),
+      http,
+      geo,
+    );
   }
 
   /// Test seam: a client over providers the caller already built.
-  ReplayClient.withProviders(this.connection, this._providers, this._http);
+  ReplayClient.withProviders(this.connection, this._providers, this._http, {this.geo});
 
   @override
   ServerId get serverId => ServerId(connection.id);
@@ -97,6 +110,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
       provider.close();
     }
     _http.close();
+    geo?.close();
     unawaited(_downloads.close());
   }
 
@@ -115,8 +129,13 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
 
   final ReplayTitleMemory _titles = ReplayTitleMemory();
 
-  ReplayMapper _mapper(ReplayProvider provider) =>
-      ReplayMapper(serverId: connection.id, source: provider.source, serverName: serverName, memory: _titles);
+  ReplayMapper _mapper(ReplayProvider provider) => ReplayMapper(
+    serverId: connection.id,
+    source: provider.source,
+    serverName: serverName,
+    memory: _titles,
+    blanketGeoBlock: replaySourceInfo(provider.source.id)?.restrictsViewerIn(geo?.country) ?? false,
+  );
 
   (ReplayProvider, ReplayRef)? _resolve(String id) {
     final ref = ReplayRef.tryParse(id);
@@ -125,7 +144,19 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   }
 
   @override
-  Future<List<MediaLibrary>> fetchLibraries() async => [for (final p in _providers.values) _mapper(p).library()];
+  Future<List<MediaLibrary>> fetchLibraries() async {
+    await _awaitGeo();
+    return [for (final p in _providers.values) _mapper(p).library()];
+  }
+
+  /// Gives the location lookup a moment so the first lists already know which channels are out of reach.
+  Future<void> _awaitGeo() async {
+    try {
+      await geo?.resolve().timeout(const Duration(seconds: 3));
+    } on TimeoutException {
+      // Lists are built without a location; nothing is greyed out on a guess.
+    }
+  }
 
   @override
   Future<LibraryPage<MediaItem>> fetchLibraryPagedContent(

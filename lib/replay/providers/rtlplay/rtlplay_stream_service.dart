@@ -150,7 +150,7 @@ class RtlPlayStreamService {
 
   ReplayPlayback _signInAgain() => const ReplayPlayback.unavailable(
     ReplayAvailability.loginRequired,
-    message: 'Sign in to your RTL account in the Plezy settings to play this',
+    message: 'Sign in to your RTL account to play this',
   );
 
   ReplayPlayback _unreachable() => const ReplayPlayback.unavailable(

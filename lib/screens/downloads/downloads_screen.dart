@@ -402,20 +402,16 @@ class _DownloadsGridContentState extends State<_DownloadsGridContent>
     bool fromBroadcaster(MediaItem item) => item.backend.isReplay;
     bool fromServer(MediaItem item) => !item.backend.isReplay;
     final raw = switch (widget.type) {
-      DownloadType.tvShows =>
-        (switch (selectedGrouping) {
-          browseGroupingSeasons => provider.downloadedSeasons,
-          browseGroupingEpisodes => provider.downloadedEpisodes,
-          _ => provider.downloadedShows,
-        }).where(fromServer).toList(growable: false),
+      DownloadType.tvShows => (switch (selectedGrouping) {
+        browseGroupingSeasons => provider.downloadedSeasons,
+        browseGroupingEpisodes => provider.downloadedEpisodes,
+        _ => provider.downloadedShows,
+      }).where(fromServer).toList(growable: false),
       DownloadType.movies => provider.downloadedMovies.where(fromServer).toList(growable: false),
       DownloadType.catchUp =>
         selectedGrouping == browseGroupingEpisodes
             ? provider.downloadedEpisodes.where(fromBroadcaster).toList(growable: false)
-            : [
-                ...provider.downloadedShows.where(fromBroadcaster),
-                ...provider.downloadedMovies.where(fromBroadcaster),
-              ],
+            : [...provider.downloadedShows.where(fromBroadcaster), ...provider.downloadedMovies.where(fromBroadcaster)],
     };
     final items = applyDownloadsOptions(provider, raw);
     return selectedGrouping == browseGroupingCollections ? groupDownloadsByCollection(provider, items) : items;

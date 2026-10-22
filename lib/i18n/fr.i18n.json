@@ -2568,6 +2568,32 @@
     "signInRejected": "La chaîne a refusé la connexion.",
     "notAdded": "La télé de rattrapage n'est pas encore ajoutée à ce profil.",
     "add": "Ajouter la télé de rattrapage",
-    "needOne": "Gardez au moins une chaîne activée."
+    "needOne": "Gardez au moins une chaîne activée.",
+    "availability": {
+      "geoBlocked": "Indisponible dans votre pays",
+      "drm": "Flux protégé, lecture impossible ici",
+      "loginRequired": "Compte requis",
+      "expired": "Plus disponible",
+      "upcoming": "Pas encore disponible",
+      "timeSlot": "Disponible à certaines heures seulement"
+    },
+    "location": {
+      "title": "Votre position",
+      "detected": "Détectée depuis votre connexion : ${country}",
+      "unknown": "Pays non détecté",
+      "chosen": "${country} (choisi par vous)",
+      "change": "Changer",
+      "automatic": "Détecter automatiquement",
+      "pick": "Choisissez votre pays",
+      "hint": "Les chaînes indisponibles depuis votre pays apparaissent grisées."
+    },
+    "setup": {
+      "enabledCount": "${enabled} sur ${total} activées",
+      "everyone": "Tout le monde",
+      "notFromHere": "Peut ne pas se lire depuis votre position",
+      "alsoIn": "Aussi en ${languages}",
+      "searchHint": "Chercher une chaîne",
+      "noMatch": "Aucune chaîne ne correspond"
+    }
   }
 }

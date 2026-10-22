@@ -332,6 +332,7 @@ class OptimizedMediaImage extends StatelessWidget {
       memWidth: memWidth,
       memHeight: memHeight,
       client: client,
+      knockOutBackground: imageType == ImageType.heroLogo && (client?.backend.isReplay ?? false),
       logoToneTarget: logoToneTarget,
       logoToneRemapMixed: logoToneRemapMixed,
     );

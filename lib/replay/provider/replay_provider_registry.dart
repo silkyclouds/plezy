@@ -18,21 +18,107 @@ import 'replay_source_info.dart';
 
 /// Every broadcaster the app can show, in the order offered to the user.
 const replaySourceInfos = [
-  ReplaySourceInfo(id: 'arte', name: 'ARTE', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'rtsplay', name: 'RTS Play', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'auvio', name: 'Auvio', support: ReplayPlaybackSupport.partial, supportsAccount: true),
-  ReplaySourceInfo(id: 'francetv', name: 'France.tv', support: ReplayPlaybackSupport.partial),
-  ReplaySourceInfo(id: 'publicsenat', name: 'Public Sénat', support: ReplayPlaybackSupport.browseOnly),
-  ReplaySourceInfo(id: 'rtlplay', name: 'RTL Play', support: ReplayPlaybackSupport.partial, supportsAccount: true),
-  ReplaySourceInfo(id: 'tf1plus', name: 'TF1+', support: ReplayPlaybackSupport.browseOnly, supportsAccount: true),
-  ReplaySourceInfo(id: 'm6plus', name: 'M6+', support: ReplayPlaybackSupport.browseOnly, supportsAccount: true),
-  ReplaySourceInfo(id: 'tvlux', name: 'TV Lux', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'telemb', name: 'Télé MB', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'telesambre', name: 'Télésambre', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'tvcom', name: 'TVCOM', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'antennecentre', name: 'Antenne Centre', support: ReplayPlaybackSupport.clear),
-  ReplaySourceInfo(id: 'canalzoom', name: 'Canal Zoom', support: ReplayPlaybackSupport.clear),
+  ReplaySourceInfo(
+    id: 'arte',
+    name: 'ARTE',
+    support: ReplayPlaybackSupport.clear,
+    country: 'FR',
+    languages: ['fr', 'de', 'en', 'es', 'it', 'pl'],
+  ),
+  ReplaySourceInfo(
+    id: 'rtsplay',
+    name: 'RTS Play',
+    support: ReplayPlaybackSupport.clear,
+    country: 'CH',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'auvio',
+    name: 'Auvio',
+    support: ReplayPlaybackSupport.partial,
+    supportsAccount: true,
+    country: 'BE',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'francetv',
+    name: 'France.tv',
+    support: ReplayPlaybackSupport.partial,
+    country: 'FR',
+    languages: ['fr'],
+    // Rights are France and its overseas territories; a few titles carry a worldwide licence.
+    availableIn: {'FR', 'GP', 'MQ', 'GF', 'RE', 'YT', 'PM', 'BL', 'MF', 'NC', 'PF', 'WF'},
+  ),
+  ReplaySourceInfo(
+    id: 'publicsenat',
+    name: 'Public Sénat',
+    support: ReplayPlaybackSupport.browseOnly,
+    country: 'FR',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'rtlplay',
+    name: 'RTL Play',
+    support: ReplayPlaybackSupport.partial,
+    supportsAccount: true,
+    country: 'BE',
+    languages: ['fr'],
+    availableIn: {'BE', 'LU'},
+  ),
+  ReplaySourceInfo(
+    id: 'tf1plus',
+    name: 'TF1+',
+    support: ReplayPlaybackSupport.browseOnly,
+    supportsAccount: true,
+    country: 'FR',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'm6plus',
+    name: 'M6+',
+    support: ReplayPlaybackSupport.browseOnly,
+    supportsAccount: true,
+    country: 'FR',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(id: 'tvlux', name: 'TV Lux', support: ReplayPlaybackSupport.clear, country: 'BE', languages: ['fr']),
+  ReplaySourceInfo(
+    id: 'telemb',
+    name: 'Télé MB',
+    support: ReplayPlaybackSupport.clear,
+    country: 'BE',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'telesambre',
+    name: 'Télésambre',
+    support: ReplayPlaybackSupport.clear,
+    country: 'BE',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(id: 'tvcom', name: 'TVCOM', support: ReplayPlaybackSupport.clear, country: 'BE', languages: ['fr']),
+  ReplaySourceInfo(
+    id: 'antennecentre',
+    name: 'Antenne Centre',
+    support: ReplayPlaybackSupport.clear,
+    country: 'BE',
+    languages: ['fr'],
+  ),
+  ReplaySourceInfo(
+    id: 'canalzoom',
+    name: 'Canal Zoom',
+    support: ReplayPlaybackSupport.clear,
+    country: 'BE',
+    languages: ['fr'],
+  ),
 ];
+
+ReplaySourceInfo? replaySourceInfo(String id) {
+  for (final info in replaySourceInfos) {
+    if (info.id == id) return info;
+  }
+  return null;
+}
 
 List<String> get replaySourceIds => [for (final info in replaySourceInfos) info.id];
 

@@ -89,7 +89,10 @@ class ReplayDownloadProxy {
     '-hide_banner',
     '-loglevel',
     'error',
-    if (source.headers.isNotEmpty) ...['-headers', source.headers.entries.map((e) => '${e.key}: ${e.value}\r\n').join()],
+    if (source.headers.isNotEmpty) ...[
+      '-headers',
+      source.headers.entries.map((e) => '${e.key}: ${e.value}\r\n').join(),
+    ],
     '-i',
     source.url.toString(),
     '-c',

@@ -1,6 +1,12 @@
 import 'dart:async';
 import '../services/playback_launch_observer.dart';
 import '../media/ids.dart';
+import '../connection/connection.dart';
+import '../replay/client/replay_client.dart';
+import '../replay/model/replay_ref.dart';
+import '../replay/provider/replay_provider_registry.dart';
+import '../replay/provider/replay_source_info.dart';
+import 'settings/replay/replay_sign_in_dialog.dart';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
@@ -549,6 +555,9 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
   VideoVolumeController? _volumeController;
   bool _isPlayerInitialized = false;
   String? _playerInitializationError;
+
+  /// Why the open failed, when playback initialization said so; lets the failure view offer the right action.
+  PlaybackFailureReason? _playerInitializationFailureReason;
 
   /// The persistent failure surface for a media open that failed after the
   /// core started (the initialization-error view covers the core itself).
@@ -1684,10 +1693,12 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
     Player? attemptPlayer;
     var committed = false;
     String? failureMessage;
+    PlaybackFailureReason? failureReason;
     try {
       if (!_isPlayerInitializationCurrent(generation)) return;
       setState(() {
         _playerInitializationError = null;
+        _playerInitializationFailureReason = null;
         _isPlayerInitialized = false;
       });
 
@@ -2224,6 +2235,7 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
       committed = true;
     } catch (e, st) {
       failureMessage = _safePlaybackErrorMessage(e);
+      failureReason = e is PlaybackException ? e.reason : null;
       if (_isPlayerInitializationCurrent(generation)) {
         widget.launchObserver?.mark('failed', failure: 'playbackFailed');
       }
@@ -2239,6 +2251,7 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
       setState(() {
         _isPlayerInitialized = false;
         _playerInitializationError = failureMessage;
+        _playerInitializationFailureReason = failureReason;
       });
       _focusFailureActionAfterBuild();
     }
@@ -3077,7 +3090,11 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
             if (_isPlayerInitialized && player != null) return _buildVideoPlayer(sheetContext);
             final initializationError = _playerInitializationError;
             if (initializationError != null) {
-              return _buildPlaybackFailure(initializationError, onRetry: _retryPlayerInitialization);
+              return _buildPlaybackFailure(
+                initializationError,
+                onRetry: _retryPlayerInitialization,
+                reason: _playerInitializationFailureReason,
+              );
             }
             return _buildLoadingSpinner();
           },

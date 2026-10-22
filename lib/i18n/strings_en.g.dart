@@ -6183,6 +6183,10 @@ class Translations$replay$en {
 
 	/// en: 'Keep at least one broadcaster enabled.'
 	String get needOne => 'Keep at least one broadcaster enabled.';
+
+	late final Translations$replay$availability$en availability = Translations$replay$availability$en.internal(_root);
+	late final Translations$replay$location$en location = Translations$replay$location$en.internal(_root);
+	late final Translations$replay$setup$en setup = Translations$replay$setup$en.internal(_root);
 }
 
 // Path: appIcon.names
@@ -8112,6 +8116,93 @@ class Translations$services$libraryFilter$en {
 
 	/// en: 'No libraries available'
 	String get noLibraries => 'No libraries available';
+}
+
+// Path: replay.availability
+class Translations$replay$availability$en {
+	Translations$replay$availability$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Not available in your country'
+	String get geoBlocked => 'Not available in your country';
+
+	/// en: 'Protected stream, cannot be played here'
+	String get drm => 'Protected stream, cannot be played here';
+
+	/// en: 'Needs an account'
+	String get loginRequired => 'Needs an account';
+
+	/// en: 'No longer available'
+	String get expired => 'No longer available';
+
+	/// en: 'Not available yet'
+	String get upcoming => 'Not available yet';
+
+	/// en: 'Only available at certain hours'
+	String get timeSlot => 'Only available at certain hours';
+}
+
+// Path: replay.location
+class Translations$replay$location$en {
+	Translations$replay$location$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Your location'
+	String get title => 'Your location';
+
+	/// en: 'Detected from your connection: ${country}'
+	String detected({required Object country}) => 'Detected from your connection: ${country}';
+
+	/// en: 'Could not detect your country'
+	String get unknown => 'Could not detect your country';
+
+	/// en: 'Using ${country} (set by you)'
+	String chosen({required Object country}) => 'Using ${country} (set by you)';
+
+	/// en: 'Change'
+	String get change => 'Change';
+
+	/// en: 'Detect automatically'
+	String get automatic => 'Detect automatically';
+
+	/// en: 'Choose your country'
+	String get pick => 'Choose your country';
+
+	/// en: 'Channels that are not available from your country are shown greyed out.'
+	String get hint => 'Channels that are not available from your country are shown greyed out.';
+}
+
+// Path: replay.setup
+class Translations$replay$setup$en {
+	Translations$replay$setup$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: '${enabled} of ${total} on'
+	String enabledCount({required Object enabled, required Object total}) => '${enabled} of ${total} on';
+
+	/// en: 'Everyone'
+	String get everyone => 'Everyone';
+
+	/// en: 'May not play from your location'
+	String get notFromHere => 'May not play from your location';
+
+	/// en: 'Also in ${languages}'
+	String alsoIn({required Object languages}) => 'Also in ${languages}';
+
+	/// en: 'Search channels'
+	String get searchHint => 'Search channels';
+
+	/// en: 'No channel matches'
+	String get noMatch => 'No channel matches';
 }
 
 /// The flat map containing all translations for locale <en>.
@@ -10460,6 +10551,26 @@ extension on Translations {
 			'replay.notAdded' => 'Catch-up TV is not added to this profile yet.',
 			'replay.add' => 'Add catch-up TV',
 			'replay.needOne' => 'Keep at least one broadcaster enabled.',
+			'replay.availability.geoBlocked' => 'Not available in your country',
+			'replay.availability.drm' => 'Protected stream, cannot be played here',
+			'replay.availability.loginRequired' => 'Needs an account',
+			'replay.availability.expired' => 'No longer available',
+			'replay.availability.upcoming' => 'Not available yet',
+			'replay.availability.timeSlot' => 'Only available at certain hours',
+			'replay.location.title' => 'Your location',
+			'replay.location.detected' => ({required Object country}) => 'Detected from your connection: ${country}',
+			'replay.location.unknown' => 'Could not detect your country',
+			'replay.location.chosen' => ({required Object country}) => 'Using ${country} (set by you)',
+			'replay.location.change' => 'Change',
+			'replay.location.automatic' => 'Detect automatically',
+			'replay.location.pick' => 'Choose your country',
+			'replay.location.hint' => 'Channels that are not available from your country are shown greyed out.',
+			'replay.setup.enabledCount' => ({required Object enabled, required Object total}) => '${enabled} of ${total} on',
+			'replay.setup.everyone' => 'Everyone',
+			'replay.setup.notFromHere' => 'May not play from your location',
+			'replay.setup.alsoIn' => ({required Object languages}) => 'Also in ${languages}',
+			'replay.setup.searchHint' => 'Search channels',
+			'replay.setup.noMatch' => 'No channel matches',
 			_ => null,
 		};
 	}

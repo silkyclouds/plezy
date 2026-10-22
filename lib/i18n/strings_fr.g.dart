@@ -2282,6 +2282,9 @@ class _Translations$replay$fr extends Translations$replay$en {
 	@override String get notAdded => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.';
 	@override String get add => 'Ajouter la télé de rattrapage';
 	@override String get needOne => 'Gardez au moins une chaîne activée.';
+	@override late final _Translations$replay$availability$fr availability = _Translations$replay$availability$fr._(_root);
+	@override late final _Translations$replay$location$fr location = _Translations$replay$location$fr._(_root);
+	@override late final _Translations$replay$setup$fr setup = _Translations$replay$setup$fr._(_root);
 }
 
 // Path: common.ratingSource
@@ -3015,6 +3018,53 @@ class _Translations$services$libraryFilter$fr extends Translations$services$libr
 	@override String get modeHintWhitelist => 'Synchroniser uniquement les bibliothèques cochées ci-dessous.';
 	@override String get libraries => 'Bibliothèques';
 	@override String get noLibraries => 'Aucune bibliothèque disponible';
+}
+
+// Path: replay.availability
+class _Translations$replay$availability$fr extends Translations$replay$availability$en {
+	_Translations$replay$availability$fr._(TranslationsFr root) : this._root = root, super.internal(root);
+
+	final TranslationsFr _root; // ignore: unused_field
+
+	// Translations
+	@override String get geoBlocked => 'Indisponible dans votre pays';
+	@override String get drm => 'Flux protégé, lecture impossible ici';
+	@override String get loginRequired => 'Compte requis';
+	@override String get expired => 'Plus disponible';
+	@override String get upcoming => 'Pas encore disponible';
+	@override String get timeSlot => 'Disponible à certaines heures seulement';
+}
+
+// Path: replay.location
+class _Translations$replay$location$fr extends Translations$replay$location$en {
+	_Translations$replay$location$fr._(TranslationsFr root) : this._root = root, super.internal(root);
+
+	final TranslationsFr _root; // ignore: unused_field
+
+	// Translations
+	@override String get title => 'Votre position';
+	@override String detected({required Object country}) => 'Détectée depuis votre connexion : ${country}';
+	@override String get unknown => 'Pays non détecté';
+	@override String chosen({required Object country}) => '${country} (choisi par vous)';
+	@override String get change => 'Changer';
+	@override String get automatic => 'Détecter automatiquement';
+	@override String get pick => 'Choisissez votre pays';
+	@override String get hint => 'Les chaînes indisponibles depuis votre pays apparaissent grisées.';
+}
+
+// Path: replay.setup
+class _Translations$replay$setup$fr extends Translations$replay$setup$en {
+	_Translations$replay$setup$fr._(TranslationsFr root) : this._root = root, super.internal(root);
+
+	final TranslationsFr _root; // ignore: unused_field
+
+	// Translations
+	@override String enabledCount({required Object enabled, required Object total}) => '${enabled} sur ${total} activées';
+	@override String get everyone => 'Tout le monde';
+	@override String get notFromHere => 'Peut ne pas se lire depuis votre position';
+	@override String alsoIn({required Object languages}) => 'Aussi en ${languages}';
+	@override String get searchHint => 'Chercher une chaîne';
+	@override String get noMatch => 'Aucune chaîne ne correspond';
 }
 
 /// The flat map containing all translations for locale <fr>.
@@ -5074,6 +5124,28 @@ extension on TranslationsFr {
 			'replay.notAdded' => 'La télé de rattrapage n\'est pas encore ajoutée à ce profil.',
 			'replay.add' => 'Ajouter la télé de rattrapage',
 			'replay.needOne' => 'Gardez au moins une chaîne activée.',
+			'replay.availability.geoBlocked' => 'Indisponible dans votre pays',
+			'replay.availability.drm' => 'Flux protégé, lecture impossible ici',
+			'replay.availability.loginRequired' => 'Compte requis',
+			'replay.availability.expired' => 'Plus disponible',
+			'replay.availability.upcoming' => 'Pas encore disponible',
+			_ => null,
+		} ?? switch (path) {
+			'replay.availability.timeSlot' => 'Disponible à certaines heures seulement',
+			'replay.location.title' => 'Votre position',
+			'replay.location.detected' => ({required Object country}) => 'Détectée depuis votre connexion : ${country}',
+			'replay.location.unknown' => 'Pays non détecté',
+			'replay.location.chosen' => ({required Object country}) => '${country} (choisi par vous)',
+			'replay.location.change' => 'Changer',
+			'replay.location.automatic' => 'Détecter automatiquement',
+			'replay.location.pick' => 'Choisissez votre pays',
+			'replay.location.hint' => 'Les chaînes indisponibles depuis votre pays apparaissent grisées.',
+			'replay.setup.enabledCount' => ({required Object enabled, required Object total}) => '${enabled} sur ${total} activées',
+			'replay.setup.everyone' => 'Tout le monde',
+			'replay.setup.notFromHere' => 'Peut ne pas se lire depuis votre position',
+			'replay.setup.alsoIn' => ({required Object languages}) => 'Aussi en ${languages}',
+			'replay.setup.searchHint' => 'Chercher une chaîne',
+			'replay.setup.noMatch' => 'Aucune chaîne ne correspond',
 			_ => null,
 		};
 	}

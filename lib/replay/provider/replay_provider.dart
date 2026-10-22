@@ -75,3 +75,11 @@ abstract interface class ReplayProvider {
 
   void close();
 }
+
+/// A provider that can tell, cheaply and before playing, whether titles are blocked for a viewer's country.
+///
+/// Lists call it for the titles they are about to show, so a blocked title can be greyed out instead of failing when
+/// pressed. Titles the broadcaster cannot judge are left out of the answer.
+abstract interface class ReplayAvailabilityPredictor {
+  Future<Map<ReplayRef, ReplayAvailability>> predictAvailability(List<ReplayTitle> titles, String country);
+}

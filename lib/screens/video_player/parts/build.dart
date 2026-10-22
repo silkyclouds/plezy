@@ -102,7 +102,28 @@ extension _VideoPlayerBuildMethods on VideoPlayerScreenState {
   /// the screen-level [Focus] claims the scope while the loading spinner is
   /// up and Flutter drops a later autofocus request once the scope already
   /// has a focused child. See [VideoPlayerScreenState._initializationErrorFocusNode].
-  Widget _buildPlaybackFailure(String message, {required VoidCallback onRetry}) {
+  /// The catch-up broadcaster the current title belongs to when playback failed because it needs an account.
+  ReplaySourceInfo? _broadcasterToSignInTo(PlaybackFailureReason? reason) {
+    if (reason != PlaybackFailureReason.authenticationRequired || !_currentMetadata.backend.isReplay) return null;
+    final ref = ReplayRef.tryParse(_currentMetadata.id);
+    final info = ref == null ? null : replaySourceInfo(ref.source);
+    return info != null && info.supportsAccount ? info : null;
+  }
+
+  /// Opens the broadcaster's sign-in, then tries playing again once the viewer is signed in.
+  Future<void> _signInToBroadcaster(ReplaySourceInfo info) async {
+    final client =
+        context.read<MultiServerProvider>().serverManager.getClient(ServerId(ReplayConnection.singletonId))
+            as ReplayClient?;
+    final accounts = client?.accounts;
+    if (accounts == null) return;
+    final signedIn = await showReplaySignIn(context, accounts: accounts, info: info);
+    if (signedIn && mounted) _retryPlayerInitialization();
+  }
+
+  Widget _buildPlaybackFailure(String message, {required VoidCallback onRetry, PlaybackFailureReason? reason}) {
+    final signInTo = _broadcasterToSignInTo(reason);
+    final primary = signInTo == null ? onRetry : () => unawaited(_signInToBroadcaster(signInTo));
     return Scaffold(
       backgroundColor: Colors.black,
       body: Center(
@@ -126,8 +147,11 @@ extension _VideoPlayerBuildMethods on VideoPlayerScreenState {
                   children: [
                     FocusableButton(
                       focusNode: _initializationErrorFocusNode,
-                      onPressed: onRetry,
-                      child: FilledButton(onPressed: onRetry, child: Text(t.common.retry)),
+                      onPressed: primary,
+                      child: FilledButton(
+                        onPressed: primary,
+                        child: Text(signInTo == null ? t.common.retry : t.replay.signIn),
+                      ),
                     ),
                     const SizedBox(width: 12),
                     FocusableButton(

@@ -2568,6 +2568,32 @@
     "signInRejected": "The broadcaster refused the sign-in.",
     "notAdded": "Catch-up TV is not added to this profile yet.",
     "add": "Add catch-up TV",
-    "needOne": "Keep at least one broadcaster enabled."
+    "needOne": "Keep at least one broadcaster enabled.",
+    "availability": {
+      "geoBlocked": "Not available in your country",
+      "drm": "Protected stream, cannot be played here",
+      "loginRequired": "Needs an account",
+      "expired": "No longer available",
+      "upcoming": "Not available yet",
+      "timeSlot": "Only available at certain hours"
+    },
+    "location": {
+      "title": "Your location",
+      "detected": "Detected from your connection: ${country}",
+      "unknown": "Could not detect your country",
+      "chosen": "Using ${country} (set by you)",
+      "change": "Change",
+      "automatic": "Detect automatically",
+      "pick": "Choose your country",
+      "hint": "Channels that are not available from your country are shown greyed out."
+    },
+    "setup": {
+      "enabledCount": "${enabled} of ${total} on",
+      "everyone": "Everyone",
+      "notFromHere": "May not play from your location",
+      "alsoIn": "Also in ${languages}",
+      "searchHint": "Search channels",
+      "noMatch": "No channel matches"
+    }
   }
 }

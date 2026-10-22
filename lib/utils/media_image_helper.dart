@@ -12,6 +12,7 @@ import '../services/device_performance.dart';
 import '../services/image_cache_service.dart';
 import '../services/settings_service.dart' show EpisodePosterMode;
 import 'platform_detector.dart';
+import 'knockout_logo_image.dart';
 import 'tone_mapped_logo_image.dart';
 
 /// Image types for different transcoding strategies
@@ -422,6 +423,7 @@ class MediaImageHelper {
     MediaServerClient? client,
     Color? logoToneTarget,
     bool logoToneRemapMixed = true,
+    bool knockOutBackground = false,
   }) {
     final provider = CachedNetworkImageProvider(
       imageUrl,
@@ -432,8 +434,9 @@ class MediaImageHelper {
       headers: const {'User-Agent': 'Plezy'},
     );
     final bounded = boundedDecode(provider, memWidth: memWidth, memHeight: memHeight);
-    if (logoToneTarget == null) return bounded;
-    return ToneMappedLogoImage(bounded, target: logoToneTarget, remapMixed: logoToneRemapMixed);
+    final cleaned = knockOutBackground ? KnockoutLogoImage(bounded) : bounded;
+    if (logoToneTarget == null) return cleaned;
+    return ToneMappedLogoImage(cleaned, target: logoToneTarget, remapMixed: logoToneRemapMixed);
   }
 
   static final _serverArtworkCacheKeys = <String, String>{};

@@ -6,8 +6,7 @@ const _watchOnTheSite = 'https://www.rtlplay.be/';
 /// RTL Play only serves streams to a signed-in viewer.
 ReplayPlayback rtlPlayLoginRequired() => const ReplayPlayback.unavailable(
   ReplayAvailability.loginRequired,
-  message:
-      'RTL Play streams need a free RTL account. Sign in to it in the Plezy settings, or watch at $_watchOnTheSite',
+  message: 'RTL Play streams need a free RTL account. Sign in to continue, or watch at $_watchOnTheSite',
 );
 
 /// A show or season has no stream of its own.

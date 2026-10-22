@@ -6,6 +6,7 @@ import 'package:flutter/painting.dart';
 
 import 'app_logger.dart';
 import 'logo_tone.dart';
+import 'single_frame_codec.dart';
 
 /// Remap target for logo artwork rendered over [surface].
 ///
@@ -138,7 +139,7 @@ class ToneMappedLogoImage extends ImageProvider<ToneMappedLogoKey> {
       }
       final result = remapped ?? image.clone();
       codec.dispose();
-      return _SingleFrameCodec(result);
+      return SingleFrameCodec(result);
     } finally {
       image.dispose();
     }
@@ -193,37 +194,4 @@ class ToneMappedLogoImage extends ImageProvider<ToneMappedLogoKey> {
 
   @override
   String toString() => '${objectRuntimeType(this, 'ToneMappedLogoImage')}($imageProvider, target: $target)';
-}
-
-/// Serves one already-decoded frame, cloning it per pull so every caller owns
-/// its copy. Replaces the engine codec after its lazy single frame has been
-/// consumed for analysis; the engine's raw-pixel codecs decode lazily from
-/// their descriptor, so they cannot outlive the disposal of their buffer the
-/// way this wrapper can.
-class _SingleFrameCodec implements ui.Codec {
-  _SingleFrameCodec(this._image);
-
-  final ui.Image _image;
-
-  @override
-  int get frameCount => 1;
-
-  @override
-  int get repetitionCount => 0;
-
-  @override
-  Future<ui.FrameInfo> getNextFrame() async => _SingleFrameInfo(_image.clone());
-
-  @override
-  void dispose() => _image.dispose();
-}
-
-class _SingleFrameInfo implements ui.FrameInfo {
-  const _SingleFrameInfo(this.image);
-
-  @override
-  final ui.Image image;
-
-  @override
-  Duration get duration => Duration.zero;
 }
