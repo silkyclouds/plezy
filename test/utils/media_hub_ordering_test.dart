@@ -43,6 +43,23 @@ MediaHub _hub(String id, {String? libraryId, Object? serverId = _defaultServerId
 
 void main() {
   group('sortMediaHubsByLibraryOrder', () {
+    test('catch-up suggestions come first, in their own order', () {
+      MediaHub suggestion(String id) => MediaHub(
+        id: id,
+        identifier: 'replay.suggestion.$id',
+        title: id,
+        type: 'mixed',
+        libraryId: '9',
+        serverId: ServerId('server'),
+        items: const [],
+      );
+      final hubs = [_hub('movies', libraryId: '1'), suggestion('b'), _hub('shows', libraryId: '2'), suggestion('a')];
+
+      sortMediaHubsByLibraryOrder(hubs, [_library('1'), _library('2'), _library('9')]);
+
+      expect(hubs.map((h) => h.id), ['b', 'a', 'movies', 'shows']);
+    });
+
     test('sorts explicit library hubs by library order', () {
       final hubs = [_hub('movies', libraryId: '1'), _hub('anime', libraryId: '3'), _hub('shows', libraryId: '2')];
 

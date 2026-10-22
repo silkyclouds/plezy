@@ -24,6 +24,9 @@ import '../utils/media_navigation_helper.dart';
 import 'card_inflation_budget.dart';
 import 'focus_builders.dart';
 import 'media_card.dart';
+import 'replay/replay_hub_context.dart';
+import 'replay/replay_hub_title.dart';
+import 'replay/replay_suggestion_menu.dart';
 import 'media_grid_delegate.dart';
 import 'skeleton_media_card.dart';
 import 'sliver_child_memo.dart';
@@ -515,7 +518,9 @@ class HubSectionState extends State<HubSection> with MountedSetStateMixin, Skele
                       AppIcon(widget.icon, fill: 1, size: isTv ? 28 : null),
                       SizedBox(width: isTv ? 12 : 8),
                       Flexible(
-                        child: Text(widget.hub.title, style: titleStyle, overflow: .ellipsis, maxLines: 1),
+                        child: ReplayHubTitle.appliesTo(widget.hub)
+                            ? ReplayHubTitle(hub: widget.hub, style: titleStyle)
+                            : Text(widget.hub.title, style: titleStyle, overflow: .ellipsis, maxLines: 1),
                       ),
                       if (widget.totalResults case final totalResults?) ...[
                         SizedBox(width: isTv ? 12 : 8),
@@ -529,7 +534,9 @@ class HubSectionState extends State<HubSection> with MountedSetStateMixin, Skele
                           ),
                         ),
                       ],
-                      if (widget.showServerName && widget.hub.serverName != null) ...[
+                      if (widget.showServerName &&
+                          widget.hub.serverName != null &&
+                          !ReplayHubTitle.appliesTo(widget.hub)) ...[
                         const SizedBox(width: 8),
                         Text(
                           '•',
@@ -755,6 +762,8 @@ class HubSectionState extends State<HubSection> with MountedSetStateMixin, Skele
                                   child: MediaCard(
                                     key: _getMediaCardKey(index),
                                     item: item,
+                                    showChannelLogo: replayHubShowsChannelLogo(widget.hub),
+                                    extraMenuEntries: replaySuggestionMenuEntries(context, widget.hub),
                                     width: cardWidth,
                                     height: posterHeight,
                                     onRefresh: widget.onRefresh,

@@ -33,6 +33,9 @@ import 'focus_builders.dart';
 import 'horizontal_scroll_with_arrows.dart';
 import 'listenable_selector.dart';
 import 'media_card.dart';
+import 'replay/replay_hub_context.dart';
+import 'replay/replay_hub_title.dart';
+import 'replay/replay_suggestion_menu.dart';
 import 'media_context_menu.dart';
 import 'optimized_media_image.dart';
 import 'rasterized_gradient.dart';
@@ -1515,7 +1518,8 @@ class TvBrowseRailState extends State<TvBrowseRail> with TickerProviderStateMixi
     final colorScheme = Theme.of(context).colorScheme;
     final titleColor = isActive ? colorScheme.onSurface : colorScheme.onSurface.withValues(alpha: 0.54);
     final iconColor = isActive ? colorScheme.onSurface : colorScheme.onSurface.withValues(alpha: 0.42);
-    final showServerName = widget.showServerName && hub.serverName != null;
+    final isSuggestion = ReplayHubTitle.appliesTo(hub);
+    final showServerName = widget.showServerName && hub.serverName != null && !isSuggestion;
     final serverColor = colorScheme.primary.withValues(alpha: isActive ? 0.7 : 0.4);
     final serverStyle = Theme.of(
       context,
@@ -1534,17 +1538,28 @@ class TvBrowseRailState extends State<TvBrowseRail> with TickerProviderStateMixi
                 child: Row(
                   children: [
                     Flexible(
-                      child: Text(
-                        hub.title,
-                        maxLines: 1,
-                        overflow: .ellipsis,
-                        style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                          color: titleColor,
-                          fontSize: 18 * scale,
-                          height: 1,
-                          fontWeight: isActive ? FontWeight.w800 : FontWeight.w700,
-                        ),
-                      ),
+                      child: isSuggestion
+                          ? ReplayHubTitle(
+                              hub: hub,
+                              scale: scale,
+                              style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                                color: titleColor,
+                                fontSize: 19 * scale,
+                                height: 1,
+                                fontWeight: FontWeight.w600,
+                              ),
+                            )
+                          : Text(
+                              hub.title,
+                              maxLines: 1,
+                              overflow: .ellipsis,
+                              style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                                color: titleColor,
+                                fontSize: 18 * scale,
+                                height: 1,
+                                fontWeight: isActive ? FontWeight.w800 : FontWeight.w700,
+                              ),
+                            ),
                     ),
                     if (showServerName) ...[
                       SizedBox(width: 8 * scale),
@@ -1856,6 +1871,8 @@ class TvBrowseRailState extends State<TvBrowseRail> with TickerProviderStateMixi
         : MediaCard(
             key: _cardKeyFor(hub, itemIndex),
             item: item,
+            showChannelLogo: replayHubShowsChannelLogo(hub),
+                                    extraMenuEntries: replaySuggestionMenuEntries(context, hub),
             width: metrics.cardWidth,
             height: metrics.posterHeight,
             // Forwarded so a memoized card always reaches the current widget's

@@ -67,6 +67,7 @@ import '../watch_together/watch_together.dart';
 import '../providers/companion_remote_provider.dart';
 import '../widgets/companion_remote/remote_session_dialog.dart';
 import 'companion_remote/mobile_remote_screen.dart';
+import '../replay/suggestions/replay_suggestion_events.dart';
 
 class DiscoverScreen extends StatefulWidget {
   const DiscoverScreen({super.key});
@@ -329,6 +330,9 @@ class _DiscoverScreenState extends State<DiscoverScreen>
     MainScreenFocusScope.focusSidebarOf(context);
   }
 
+  /// The viewer changed what catch-up TV offers on the home screen: rebuild the rows now.
+  void _onReplaySuggestionsChanged() => unawaited(_discover.refreshNow());
+
   @override
   void initState() {
     super.initState();
@@ -338,6 +342,7 @@ class _DiscoverScreenState extends State<DiscoverScreen>
     _discover = context.read<DiscoverProvider>();
     _seenLoadGeneration = _discover.loadGeneration;
     _discover.addListener(_onDiscoverChanged);
+    replaySuggestionsChanged.addListener(_onReplaySuggestionsChanged);
     _updateHubKeys();
     unawaited(_discover.load());
     _startAutoScroll();
@@ -451,6 +456,7 @@ class _DiscoverScreenState extends State<DiscoverScreen>
   @override
   void dispose() {
     _discover.removeListener(_onDiscoverChanged);
+    replaySuggestionsChanged.removeListener(_onReplaySuggestionsChanged);
     WidgetsBinding.instance.removeObserver(this);
     _autoScrollTimer?.cancel();
     _indicatorTimer?.cancel();

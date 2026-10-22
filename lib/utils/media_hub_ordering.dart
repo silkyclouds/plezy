@@ -1,6 +1,7 @@
 import '../media/media_hub.dart';
 import '../media/ids.dart';
 import '../media/media_library.dart';
+import '../replay/suggestions/replay_home_suggestions.dart';
 import 'global_key_utils.dart';
 
 /// Sorts home hubs by the user's library order. Hubs without a known library
@@ -15,6 +16,10 @@ bool sortMediaHubsByLibraryOrder(List<MediaHub> hubs, List<MediaLibrary> library
 
   final indexedHubs = [for (var i = 0; i < hubs.length; i++) (index: i, hub: hubs[i])];
   indexedHubs.sort((a, b) {
+    // Catch-up suggestions sit right after Continue Watching, in the order the catch-up client built them.
+    final aSuggestion = ReplayHomeSuggestions.isSuggestion(a.hub);
+    if (aSuggestion != ReplayHomeSuggestions.isSuggestion(b.hub)) return aSuggestion ? -1 : 1;
+    if (aSuggestion) return a.index.compareTo(b.index);
     final aIndex = _hubLibraryOrderIndex(a.hub, orderByGlobalKey);
     final bIndex = _hubLibraryOrderIndex(b.hub, orderByGlobalKey);
     if (aIndex == null && bIndex == null) return a.index.compareTo(b.index);
