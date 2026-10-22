@@ -15,6 +15,7 @@ import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nfb/nfb_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/nrktv/nrktv_provider.dart';
+import '../providers/orftvthek/orftvthek_provider.dart';
 import '../providers/pbs/pbs_provider.dart';
 import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rsi/rsi_provider.dart';
@@ -312,6 +313,13 @@ const replaySourceInfos = [
     country: 'CH',
     languages: ['it'],
   ),
+  ReplaySourceInfo(
+    id: 'orftvthek',
+    name: 'ORF ON',
+    support: ReplayPlaybackSupport.partial,
+    country: 'AT',
+    languages: ['de'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -381,6 +389,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'stvr' => StvrProvider(http),
       'srfplay' => SrfPlayProvider(http),
       'rsi' => RsiProvider(http),
+      'orftvthek' => OrfTvthekProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;
