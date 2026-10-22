@@ -368,6 +368,22 @@ extension _MediaDetailActionButtons on _MediaDetailScreenState {
       ?moreActionsAction,
     ];
 
+    // A catch-up title that cannot be played swaps Play for a notice or a sign-in button.
+    final replayRow = replayDetailActionRow(
+      context,
+      ReplayActionRowSpec(
+        page: metadata,
+        episodes: _episodes,
+        primaryFocusNode: _playButtonFocusNode,
+        actionSize: actionSize,
+        tvScale: tvScale,
+        isTv: isTv,
+        watched: watchedAction,
+        more: moreActionsAction,
+        onSignedIn: () => setStateIfMounted(() {}),
+      ),
+    );
+
     double playButtonWidthEstimate() {
       if (playButtonLabel.isEmpty) return 64.0;
       final textPainter = TextPainter(
@@ -436,9 +452,11 @@ extension _MediaDetailActionButtons on _MediaDetailScreenState {
         final maxWidth = constraints.maxWidth;
         // TV screens are wide and D-pad focus should see every direct action.
         // On smaller online screens, hidden actions remain available from ⋮.
-        final actions = isTv || !maxWidth.isFinite || estimatedRowWidth(allActions) <= maxWidth
-            ? allActions
-            : compactActionsFor(maxWidth);
+        final actions =
+            replayRow ??
+            (isTv || !maxWidth.isFinite || estimatedRowWidth(allActions) <= maxWidth
+                ? allActions
+                : compactActionsFor(maxWidth));
         final status = tracksStatusFor(actions, maxWidth);
         if (status == null) return actionBar(actions);
         return SizedBox(

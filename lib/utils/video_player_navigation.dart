@@ -33,6 +33,7 @@ import 'media_version_resolver.dart';
 import 'provider_extensions.dart';
 import 'quality_preset_labels.dart';
 import '../i18n/strings.g.dart';
+import '../screens/replay/replay_playback_gate.dart';
 
 const String kVideoPlayerRouteName = '/video_player';
 
@@ -326,6 +327,10 @@ Future<bool?> navigateToVideoPlayer(
       (launchObserver?.isCurrent ?? true) &&
       (watchTogetherCopy == null || watchTogether?.roomCopy?.ref == watchTogetherCopy);
   if (!launchCurrent()) return null;
+  // A catch-up title that cannot be played here gets an explanation instead of the player.
+  if (metadata.backend.isReplay && !isOffline && !usePushReplacement) {
+    if (!await replayAllowsPlayback(context, metadata) || !context.mounted) return null;
+  }
   if (resolveWatchState) {
     metadata = context.readFreshWatchState(metadata);
   }

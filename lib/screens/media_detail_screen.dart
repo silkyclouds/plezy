@@ -80,6 +80,7 @@ import '../widgets/horizontal_scroll_with_arrows.dart';
 import '../widgets/media_context_menu.dart';
 import '../widgets/watchlist_source_chooser.dart';
 import 'libraries/state_messages.dart';
+import 'replay/replay_detail_hooks.dart';
 import '../widgets/overlay_sheet.dart';
 import '../widgets/media_details_sheet.dart';
 import '../widgets/placeholder_container.dart';
@@ -1093,7 +1094,7 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
       });
       WidgetsBinding.instance.addPostFrameCallback((_) {
         if (!_canUseDetail) return;
-        if (focusPrimaryAction) {
+        if (focusPrimaryAction || replayActionRowTakesFocus(context, _metadata, _episodes)) {
           _playButtonFocusNode.requestFocus();
         } else {
           _tvDetailRailKey.currentState?.requestFocus();
@@ -3876,14 +3877,18 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
         child: Scaffold(
           body: Stack(
             children: [
-              TvSpotlightBackground(
-                item: metadata,
-                client: _getArtworkMediaClient(context),
-                showInfo: false,
-                localArtworkPathResolver: widget.isOffline
-                    ? (path) => _offlineArtworkCandidatePath(context, path)
-                    : null,
-                allowNetwork: !widget.isOffline,
+              replayTinted(
+                metadata,
+                _episodes,
+                TvSpotlightBackground(
+                  item: metadata,
+                  client: _getArtworkMediaClient(context),
+                  showInfo: false,
+                  localArtworkPathResolver: widget.isOffline
+                      ? (path) => _offlineArtworkCandidatePath(context, path)
+                      : null,
+                  allowNetwork: !widget.isOffline,
+                ),
               ),
               _buildTvDetailRevealGate(revealContent, handleBack),
             ],
@@ -3994,18 +3999,22 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
                           crossAxisAlignment: .start,
                           children: [
                             if (showLogo) ...[
-                              _buildDetailLogoOrTitle(
-                                context,
+                              replayTintedLogo(
                                 metadata,
-                                width: logoWidth,
-                                height: logoHeight,
-                                availableWidth: constraints.maxWidth,
-                                titleBuilder: (context, title) => _buildDetailTitle(
+                                _episodes,
+                                _buildDetailLogoOrTitle(
                                   context,
-                                  title,
-                                  fontSize: 56 * scale,
-                                  fontWeight: .w800,
-                                  shadowBlur: 12,
+                                  metadata,
+                                  width: logoWidth,
+                                  height: logoHeight,
+                                  availableWidth: constraints.maxWidth,
+                                  titleBuilder: (context, title) => _buildDetailTitle(
+                                    context,
+                                    title,
+                                    fontSize: 56 * scale,
+                                    fontWeight: .w800,
+                                    shadowBlur: 12,
+                                  ),
                                 ),
                               ),
                               SizedBox(height: logoMetadataGap),
@@ -4125,9 +4134,6 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
     final lineMetadata = focusedEpisode ?? metadata;
     final parts = <MetadataLinePart>[];
 
-    if (metadata.backend.isReplay && metadata.studio != null) {
-      parts.add(MetadataLineText(metadata.studio!, dropPriority: 0));
-    }
     final episodeLabel = formatSeasonEpisodeLabel(lineMetadata.parentIndex, lineMetadata.index);
     if (lineMetadata.isEpisode && episodeLabel != null) parts.add(MetadataLineText(episodeLabel, dropPriority: 0));
     if (lineMetadata.isEpisode && lineMetadata.originallyAvailableAt != null) {
@@ -4269,14 +4275,20 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
       letterSpacing: 0.1,
     );
     final parts = _tvDetailMetadataParts(metadata);
-    if (parts.isEmpty) return const SizedBox.shrink();
+    if (parts.isEmpty && !metadata.backend.isReplay) return const SizedBox.shrink();
 
-    return FittedMetadataLine(
-      textStyle: textStyle,
-      parts: parts,
-      ratingIconSize: textStyle.fontSize,
-      ratingSpacing: 4 * scale,
-      ratingEntrySpacing: 12 * scale,
+    return replayInfoLine(
+      metadata,
+      textStyle,
+      parts.isEmpty
+          ? null
+          : FittedMetadataLine(
+              textStyle: textStyle,
+              parts: parts,
+              ratingIconSize: textStyle.fontSize,
+              ratingSpacing: 4 * scale,
+              ratingEntrySpacing: 12 * scale,
+            ),
     );
   }
 
@@ -4465,7 +4477,7 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
   String? _tvDetailInitialItemId(MediaItem metadata) {
     if (widget.initialEpisodeId != null) return widget.initialEpisodeId;
     if (!metadata.isShow) return null;
-    return _onDeckEpisode?.id;
+    return replayInitialEpisodeId(context, metadata, _onDeckEpisode, _episodes);
   }
 
   // Cached per metadata object: the TV rail memoizes cards by item identity,
@@ -4723,19 +4735,23 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
                     final heroArtPaths = metadata.heroArtCandidates(containerAspectRatio: containerAspect);
                     if (heroArtPaths.isEmpty) return const PlaceholderContainer();
 
-                    return blurArtwork(
-                      CyclingMediaBackdrop(
-                        mediaKey: metadata.globalKey,
-                        imagePaths: metadata.heroRotationPaths(containerAspectRatio: containerAspect),
-                        fallbackImagePaths: heroArtPaths,
-                        client: _getArtworkMediaClient(context),
-                        localArtworkPathResolver: widget.isOffline
-                            ? (path) => _offlineArtworkCandidatePath(context, path)
-                            : null,
-                        allowNetwork: !widget.isOffline,
-                        width: size.width,
-                        height: artHeight,
-                        fallbackColor: Theme.of(context).colorScheme.surfaceContainerHighest,
+                    return replayTinted(
+                      metadata,
+                      _episodes,
+                      blurArtwork(
+                        CyclingMediaBackdrop(
+                          mediaKey: metadata.globalKey,
+                          imagePaths: metadata.heroRotationPaths(containerAspectRatio: containerAspect),
+                          fallbackImagePaths: heroArtPaths,
+                          client: _getArtworkMediaClient(context),
+                          localArtworkPathResolver: widget.isOffline
+                              ? (path) => _offlineArtworkCandidatePath(context, path)
+                              : null,
+                          allowNetwork: !widget.isOffline,
+                          width: size.width,
+                          height: artHeight,
+                          fallbackColor: Theme.of(context).colorScheme.surfaceContainerHighest,
+                        ),
                       ),
                     );
                   },
