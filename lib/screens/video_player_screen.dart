@@ -566,6 +566,7 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
   /// renders it over the video, so a failed open never leaves a dead player
   /// with only a snackbar behind it.
   String? _playbackFailureMessage;
+  PlaybackFailureReason? _playbackFailureReason;
   VoidCallback? _playbackFailureRetry;
 
   /// The open the screen last dispatched (initial start or in-place reload)
@@ -3086,7 +3087,11 @@ class VideoPlayerScreenState extends State<VideoPlayerScreen>
           builder: (sheetContext) {
             final playbackFailure = _playbackFailureMessage;
             if (playbackFailure != null) {
-              return _buildPlaybackFailure(playbackFailure, onRetry: _playbackFailureRetry!);
+              return _buildPlaybackFailure(
+                playbackFailure,
+                onRetry: _playbackFailureRetry!,
+                reason: _playbackFailureReason,
+              );
             }
             if (_isPlayerInitialized && player != null) return _buildVideoPlayer(sheetContext);
             final initializationError = _playerInitializationError;

@@ -134,7 +134,7 @@ extension _VideoPlayerErrorMethods on VideoPlayerScreenState {
   /// the view has built (see [_initializationErrorFocusNode]). The backend's
   /// end-file verdict always lands; a thrown open only fills an empty view,
   /// since the verdict that preceded it is the more specific of the two.
-  void _presentPlaybackFailure(String message) {
+  void _presentPlaybackFailure(String message, {PlaybackFailureReason? reason}) {
     if (!mounted || _shuttingDown) return;
     _firstFrame.forceUiReadyOnFailure();
     // Nothing plays behind the view, so it must not hold the screen awake
@@ -143,6 +143,7 @@ extension _VideoPlayerErrorMethods on VideoPlayerScreenState {
     unawaited(_wakelockController.setEnabled(false));
     _setPlayerState(() {
       _playbackFailureMessage = message;
+      _playbackFailureReason = reason;
       _playbackFailureRetry = _retryFailedPlayback;
     });
     _focusFailureActionAfterBuild();
@@ -152,6 +153,7 @@ extension _VideoPlayerErrorMethods on VideoPlayerScreenState {
     if (_playbackFailureMessage == null) return;
     _setPlayerState(() {
       _playbackFailureMessage = null;
+      _playbackFailureReason = null;
       _playbackFailureRetry = null;
     });
   }

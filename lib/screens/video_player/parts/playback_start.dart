@@ -380,7 +380,7 @@ extension _VideoPlayerPlaybackStartMethods on VideoPlayerScreenState {
         widget.launchObserver?.mark('failed', failure: e.reason.name);
       }
       appLogger.w('Playback initialization failed', error: e, stackTrace: st);
-      if (attempt.isCurrent && mounted) _reportStartFailure(e.message, primaryMediaOpened: primaryMediaOpened);
+      if (attempt.isCurrent && mounted) _reportStartFailure(e.message, primaryMediaOpened: primaryMediaOpened, reason: e.reason);
     } catch (e, st) {
       if (attempt.isCurrent) widget.launchObserver?.mark('failed', failure: 'playbackFailed');
       appLogger.e('Failed to start playback', error: e, stackTrace: st);
@@ -410,7 +410,7 @@ extension _VideoPlayerPlaybackStartMethods on VideoPlayerScreenState {
   /// services) the picture may well be playing, so the error is only
   /// reported. A backend verdict that already raised the view keeps its
   /// more specific message.
-  void _reportStartFailure(String message, {required bool primaryMediaOpened}) {
+  void _reportStartFailure(String message, {required bool primaryMediaOpened, PlaybackFailureReason? reason}) {
     if (primaryMediaOpened) {
       _firstFrame.forceUiReadyOnFailure();
       showErrorSnackBar(context, message);
@@ -418,6 +418,6 @@ extension _VideoPlayerPlaybackStartMethods on VideoPlayerScreenState {
     }
     _hasFatalPlaybackError = true;
     _detachWatchTogetherAfterFailure();
-    if (_playbackFailureMessage == null) _presentPlaybackFailure(message);
+    if (_playbackFailureMessage == null) _presentPlaybackFailure(message, reason: reason);
   }
 }
