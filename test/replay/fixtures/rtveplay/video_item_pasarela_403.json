@@ -1,0 +1,408 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/videos/1888987",
+    "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/cuentame-como-paso-t1-hablame-capitulo-especial-capitulo-33/1888987/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/v/1888987/",
+    "id": "1888987",
+    "language": "es",
+    "languageOriginal": null,
+    "audioOriginal": null,
+    "otherLanguages": null,
+    "title": "Háblame de ti",
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "longTitle": "Cuéntame cómo pasó - T1 - Episodio 33: Háblame de ti",
+    "shortTitle": "Háblame de ti",
+    "shortDescription": "Victoria Prego presenta un programa resumen de la temporada de 'Cuéntame' y entrevista a sus protagonistas. Hacen un repaso de la época 60-80",
+    "description": "<p>Victoria Prego presenta un programa resumen de la primera temporada de &#039;Cu&eacute;ntame c&oacute;mo pas&oacute;&#039; y entrevista a sus protagonistas. Juntos hacen un repaso de la &eacute;poca desde finales de los 60 hasta principios de los 80. Asimismo, da a conocer los entresijos de la serie con detalles del rodaje y efectos especiales. A lo largo de todo el programa vemos im&aacute;genes de la &eacute;poca: Franco, obreros trabajando, tr&aacute;fico en las calles, manifestaciones callejeras, m&iacute;tines en la universidad, ni&ntilde;os en el colegio y en campamentos de Falange, un programa infantil de TVE... as&iacute; como planos de la propia serie.</p>",
+    "mainCategoryRef": "https://www.rtve.es/api/tematicas/1573",
+    "mainTopic": "Televisión/Programas de TVE/Series/Cuéntame cómo pasó",
+    "topicsName": [],
+    "descriptors": null,
+    "publicationDate": "28-02-2009 18:50:00",
+    "modificationDate": "25-02-2026 10:31:12",
+    "expirationDate": null,
+    "dateOfEmission": "04-07-2002 00:00:00",
+    "publicationDateTimestamp": 1235843400000,
+    "productionDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "breadCrumbRef": "https://www.rtve.es/api/videos/1888987/breadcrumb",
+    "imageSEO": "https://img.rtve.es/v/cuentame-como-paso-t1-hablame-capitulo-especial-capitulo-33_1888987.png",
+    "thumbnail": "https://img.rtve.es/imagenes/cuentame-como-paso-t1-episodio-33-hablame/1655734035883.png",
+    "previews": {
+     "horizontal": null,
+     "horizontal2": null,
+     "vertical": "https://img.rtve.es/imagenes/cuentame-como-paso-t1-episodio-33-hablame/1697817635193.jpg",
+     "vertical2": null,
+     "square": null,
+     "square2": null
+    },
+    "contentType": "video",
+    "consumption": "EMPAQUETADO",
+    "sourceLink": null,
+    "sourceLink2": null,
+    "type": {
+     "id": 39816,
+     "name": "Completo"
+    },
+    "subType": null,
+    "assetType": "video",
+    "alt": "Cuéntame cómo pasó - T1 - Episodio 33: Háblame de ti - Ver ahora",
+    "foot": null,
+    "otherTopicsRefs": "https://www.rtve.es/api/videos/1888987/tematicas",
+    "qualities": [
+     {
+      "identifier": 1701676,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_full/_TOKEN_",
+      "preset": "HD_FULL",
+      "filesize": 2330072620,
+      "type": "application/mp4",
+      "duration": 3956040,
+      "bitRate": 6000,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/hablame/1655734035883.png",
+      "height": 1080,
+      "width": 1920
+     },
+     {
+      "identifier": 1701677,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_ready/_TOKEN_",
+      "preset": "HD_READY",
+      "filesize": 1463827451,
+      "type": "application/mp4",
+      "duration": 3956040,
+      "bitRate": 4000,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/hablame/1655734035883.png",
+      "height": 720,
+      "width": 1280
+     },
+     {
+      "identifier": 1701678,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hq/_TOKEN_",
+      "preset": "HQ",
+      "filesize": 989516217,
+      "type": "application/mp4",
+      "duration": 3956040,
+      "bitRate": 2500,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/hablame/1655734035883.png",
+      "height": 576,
+      "width": 1024
+     },
+     {
+      "identifier": 1701679,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/high/_TOKEN_",
+      "preset": "HIGH",
+      "filesize": 569027498,
+      "type": "application/mp4",
+      "duration": 3956040,
+      "bitRate": 1500,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/hablame/1655734035883.png",
+      "height": 360,
+      "width": 450
+     }
+    ],
+    "qualitiesRef": "https://www.rtve.es/api/videos/1888987/calidades",
+    "duration": 3956040,
+    "programInfo": {
+     "id": "1573",
+     "title": "Cuéntame cómo pasó",
+     "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/",
+     "relatedByLangRefUrl": null,
+     "channelPermalink": "la1",
+     "ageRangeUid": "IF_REDAD5",
+     "ageRange": "No recomendable para menores de 12 años",
+     "ageRangeId": 73570,
+     "programType": "Series Prime Time",
+     "programTypeId": "136519",
+     "outOfEmission": true,
+     "castingIds": [
+      {
+       "id": 1003227,
+       "name": "Ana Duato",
+       "htmlUrl": null
+      },
+      {
+       "id": 1006105,
+       "name": "Carmen Climent",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012294,
+       "name": "Imanol Arias",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012461,
+       "name": "Irene Visedo",
+       "htmlUrl": null
+      },
+      {
+       "id": 1019055,
+       "name": "María Galiana",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022478,
+       "name": "Pablo Rivero",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022607,
+       "name": "Paloma Bloyd",
+       "htmlUrl": null
+      }
+     ],
+     "directorIds": [
+      {
+       "id": 1001964,
+       "name": "Agustín Crespi",
+       "htmlUrl": null
+      },
+      {
+       "id": 1004136,
+       "name": "Antonio Cano",
+       "htmlUrl": null
+      },
+      {
+       "id": 1014156,
+       "name": "Joaquín Oristrell",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022281,
+       "name": "Óscar Aibar",
+       "htmlUrl": null
+      }
+     ],
+     "showFragments": null,
+     "formulaTvUrl": "https://www.formulatv.com/series/cuentame-como-paso/"
+    },
+    "sgce": "P111PGS00147033",
+    "dg": "DG90213310",
+    "sip": null,
+    "temporada": "Temporada 1",
+    "temporadaShortTitle": "T1",
+    "temporadaOrden": 1,
+    "cuePointsRef": "https://www.rtve.es/api/videos/1888987/cuepoints",
+    "configPlayerRef": "https://www.rtve.es/api/videos/1888987/config/video",
+    "transcriptionRef": "https://www.rtve.es/api/videos/1888987/transcripcion",
+    "temporadaId": 40034,
+    "temporadasRef": "https://www.rtve.es/api/videos/1888987/temporadas",
+    "programRef": "https://www.rtve.es/api/programas/1573",
+    "relacionadosRef": "https://www.rtve.es/api/videos/1888987/relacionados",
+    "relManualesRef": "https://www.rtve.es/api/videos/1888987/relacionados/manuales",
+    "publicidadRef": null,
+    "comentariosRef": "https://www.rtve.es/api/videos/1888987/comentarios",
+    "relatedByLangRef": "https://www.rtve.es/api/videos/1888987/relacionados/relacionados-por-idioma",
+    "sign": {
+     "firma": "rtve",
+     "authors": []
+    },
+    "estadisticasRef": "https://www.rtve.es/api/videos/1888987/estadisticas",
+    "ageRangeUid": "IF_REDAD5",
+    "ageRange": "No recomendable para menores de 12 años",
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "disabledAlacarta": false,
+    "notDownloadable": true,
+    "noRegistrationRequired": false,
+    "promoTitle": null,
+    "promoDesc": null,
+    "episode": 33,
+    "subtitleRef": "https://www.rtve.es/api/videos/1888987/subtitulos",
+    "aspectRatio": "r16x9",
+    "idWiki": null,
+    "idImdb": null,
+    "imdbRate": null,
+    "eCarteleraUrl": null,
+    "director": "Agustín Crespi | Antonio Cano | Joaquín Oristrell | Óscar Aibar",
+    "directorIds": [
+     {
+      "id": 1001964,
+      "name": "Agustín Crespi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1004136,
+      "name": "Antonio Cano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1014156,
+      "name": "Joaquín Oristrell",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022281,
+      "name": "Óscar Aibar",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": null,
+    "producedByIds": null,
+    "showMan": null,
+    "showManIds": null,
+    "casting": "Ana Duato | Carmen Climent | Imanol Arias | Irene Visedo | María Galiana | Pablo Rivero | Paloma Bloyd",
+    "castingIds": [
+     {
+      "id": 1003227,
+      "name": "Ana Duato",
+      "htmlUrl": null
+     },
+     {
+      "id": 1006105,
+      "name": "Carmen Climent",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012294,
+      "name": "Imanol Arias",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012461,
+      "name": "Irene Visedo",
+      "htmlUrl": null
+     },
+     {
+      "id": 1019055,
+      "name": "María Galiana",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022478,
+      "name": "Pablo Rivero",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022607,
+      "name": "Paloma Bloyd",
+      "htmlUrl": null
+     }
+    ],
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "audioDescription": null,
+    "allowedInCountry": true,
+    "paidContent": false,
+    "geolocalizado": false,
+    "paidCountries": [
+     "AR",
+     "BO",
+     "BR",
+     "BZ",
+     "CA",
+     "CL",
+     "CO",
+     "CR",
+     "CU",
+     "DO",
+     "EC",
+     "GT",
+     "HN",
+     "HT",
+     "MX",
+     "NI",
+     "PA",
+     "PE",
+     "PR",
+     "PY",
+     "SV",
+     "US",
+     "UY",
+     "VE",
+     "AL",
+     "AD",
+     "DE",
+     "AM",
+     "AT",
+     "AZ",
+     "BE",
+     "BY",
+     "BA",
+     "BG",
+     "VA",
+     "HR",
+     "CY",
+     "DK",
+     "SK",
+     "SI",
+     "EE",
+     "FI",
+     "FR",
+     "GR",
+     "HU",
+     "IE",
+     "IT",
+     "IS",
+     "KZ",
+     "XK",
+     "LV",
+     "LI",
+     "LT",
+     "LU",
+     "MK",
+     "MT",
+     "MD",
+     "MC",
+     "ME",
+     "NO",
+     "NL",
+     "PL",
+     "PT",
+     "CZ",
+     "RO",
+     "RU",
+     "SM",
+     "RS",
+     "SE",
+     "CH",
+     "TR",
+     "UA",
+     "GB",
+     "AU",
+     "KR",
+     "PH",
+     "HK",
+     "IN",
+     "JP"
+    ],
+    "escort": null,
+    "generos": [
+     {
+      "generoInf": "Drama",
+      "generoInfUid": "GE_DRAMA",
+      "generoId": "96131"
+     }
+    ],
+    "consumptionUid": "D_PACK",
+    "av1Codification": false,
+    "hasCuePoints": false,
+    "paidContentPromo": false,
+    "country": "ES",
+    "hasDRM": true,
+    "paidCountriesPromo": null,
+    "requireLogged": true
+   }
+  ],
+  "number": 1,
+  "size": 1,
+  "offset": 0,
+  "total": 1,
+  "totalPages": 1,
+  "numElements": 1
+ }
+}

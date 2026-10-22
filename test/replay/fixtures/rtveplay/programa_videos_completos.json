@@ -1,0 +1,1200 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/videos/7020781",
+    "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/episodio-7-carlos-heredero/7020781/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/v/7020781/",
+    "id": "7020781",
+    "language": "es",
+    "languageOriginal": null,
+    "audioOriginal": null,
+    "otherLanguages": null,
+    "title": "Carlos. El heredero",
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "longTitle": "Cuéntame cómo pasó - T23 - Episodio 7: Carlos. El heredero",
+    "shortTitle": "Carlos. El heredero",
+    "shortDescription": "Septiembre de 2001. Carlos viaja a España para reencontrarse con su familia años después, pero el atentado contra las Torres Gemelas altera los planes",
+    "description": "<p>Septiembre de 2001. Carlos viaja a Espa&ntilde;a para reencontrarse con su abuela y con toda su familia despu&eacute;s de muchos a&ntilde;os sin verse; pero el inesperado atentado contra las Torres Gemelas de Nueva York altera, de repente, todos los planes. Antonio intenta ponerse en contacto con la aerol&iacute;nea pero no consigue confirmar si Carlos iba en uno de los aviones estrellados. Herminia est&aacute; muy angustiada, los muertos se cuentan por miles, y para ella es como si estuvieran, de nuevo, en el 36. Tony sigue el tr&aacute;gico acontecimiento desde Tribuna Digital pero las primeras noticias que llegan son confusas, lo que si est&aacute; claro es que algo muy gordo est&aacute; pasando. In&eacute;s, que en ese momento est&aacute; rodando, sigue las im&aacute;genes desde la sala de maquillaje. Mientras que Mar&iacute;a, que est&aacute; en el hospital con Jorge, no puede contener las l&aacute;grimas al ver la televisi&oacute;n. El terror y la incertidumbre se apodera de los Alc&aacute;ntara y del mundo entero en general; nadie sabe qu&eacute; est&aacute; pasando.</p>",
+    "mainCategoryRef": "https://www.rtve.es/api/tematicas/1573",
+    "mainTopic": "Televisión/Programas de TVE/Series/Cuéntame cómo pasó",
+    "topicsName": [],
+    "descriptors": null,
+    "publicationDate": "29-11-2023 22:45:00",
+    "modificationDate": "02-02-2026 12:37:08",
+    "expirationDate": null,
+    "dateOfEmission": "29-11-2023 22:45:00",
+    "publicationDateTimestamp": 1701294300000,
+    "productionDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "breadCrumbRef": "https://www.rtve.es/api/videos/7020781/breadcrumb",
+    "imageSEO": "https://img.rtve.es/v/episodio-7-carlos-heredero_7020781.png",
+    "thumbnail": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-episodio-7-carlos-heredero/1701366524181.jpg",
+    "previews": {
+     "horizontal": null,
+     "horizontal2": null,
+     "vertical": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-episodio-7-carlos-heredero/1701256138715.jpg",
+     "vertical2": null,
+     "square": null,
+     "square2": null
+    },
+    "contentType": "video",
+    "consumption": "EMPAQUETADO",
+    "sourceLink": null,
+    "sourceLink2": null,
+    "type": {
+     "id": 39816,
+     "name": "Completo"
+    },
+    "subType": null,
+    "assetType": "video",
+    "alt": "Cuéntame cómo pasó - Temporada 23 - Episodio 7: Carlos. El heredero - Ver ahora",
+    "foot": null,
+    "otherTopicsRefs": "https://www.rtve.es/api/videos/7020781/tematicas",
+    "qualities": [
+     {
+      "identifier": 7887171,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_full/_TOKEN_",
+      "preset": "HD_FULL",
+      "filesize": 3011549752,
+      "type": "application/mp4",
+      "duration": 5126000,
+      "bitRate": 4500,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/carlos-heredero/1701366524181.jpg",
+      "height": 1080,
+      "width": 1920
+     },
+     {
+      "identifier": 7887172,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_ready/_TOKEN_",
+      "preset": "HD_READY",
+      "filesize": 1890271932,
+      "type": "application/mp4",
+      "duration": 5126000,
+      "bitRate": 2750,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/carlos-heredero/1701366524181.jpg",
+      "height": 720,
+      "width": 1280
+     },
+     {
+      "identifier": 7887173,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hq/_TOKEN_",
+      "preset": "HQ",
+      "filesize": 1272245952,
+      "type": "application/mp4",
+      "duration": 5126000,
+      "bitRate": 1850,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/carlos-heredero/1701366524181.jpg",
+      "height": 576,
+      "width": 1024
+     },
+     {
+      "identifier": 7887174,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/high/_TOKEN_",
+      "preset": "HIGH",
+      "filesize": 727640207,
+      "type": "application/mp4",
+      "duration": 5126000,
+      "bitRate": 1000,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/carlos-heredero/1701366524181.jpg",
+      "height": 360,
+      "width": 640
+     }
+    ],
+    "qualitiesRef": "https://www.rtve.es/api/videos/7020781/calidades",
+    "duration": 5126000,
+    "programInfo": {
+     "id": "1573",
+     "title": "Cuéntame cómo pasó",
+     "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/",
+     "relatedByLangRefUrl": null,
+     "channelPermalink": "la1",
+     "ageRangeUid": "IF_REDAD5",
+     "ageRange": "No recomendable para menores de 12 años",
+     "ageRangeId": 73570,
+     "programType": "Series Prime Time",
+     "programTypeId": "136519",
+     "outOfEmission": true,
+     "castingIds": [
+      {
+       "id": 1003227,
+       "name": "Ana Duato",
+       "htmlUrl": null
+      },
+      {
+       "id": 1006105,
+       "name": "Carmen Climent",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012294,
+       "name": "Imanol Arias",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012461,
+       "name": "Irene Visedo",
+       "htmlUrl": null
+      },
+      {
+       "id": 1019055,
+       "name": "María Galiana",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022478,
+       "name": "Pablo Rivero",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022607,
+       "name": "Paloma Bloyd",
+       "htmlUrl": null
+      }
+     ],
+     "directorIds": [
+      {
+       "id": 1001964,
+       "name": "Agustín Crespi",
+       "htmlUrl": null
+      },
+      {
+       "id": 1004136,
+       "name": "Antonio Cano",
+       "htmlUrl": null
+      },
+      {
+       "id": 1014156,
+       "name": "Joaquín Oristrell",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022281,
+       "name": "Óscar Aibar",
+       "htmlUrl": null
+      }
+     ],
+     "showFragments": null,
+     "formulaTvUrl": "https://www.formulatv.com/series/cuentame-como-paso/"
+    },
+    "sgce": "P111PGS00147413",
+    "dg": "DG00148335",
+    "sip": null,
+    "temporada": "Temporada 23",
+    "temporadaShortTitle": "T23",
+    "temporadaOrden": 23,
+    "cuePointsRef": "https://www.rtve.es/api/videos/7020781/cuepoints",
+    "configPlayerRef": "https://www.rtve.es/api/videos/7020781/config/video",
+    "transcriptionRef": "https://www.rtve.es/api/videos/7020781/transcripcion",
+    "temporadaId": 176530,
+    "temporadasRef": "https://www.rtve.es/api/videos/7020781/temporadas",
+    "programRef": "https://www.rtve.es/api/programas/1573",
+    "relacionadosRef": "https://www.rtve.es/api/videos/7020781/relacionados",
+    "relManualesRef": "https://www.rtve.es/api/videos/7020781/relacionados/manuales",
+    "publicidadRef": null,
+    "comentariosRef": "https://www.rtve.es/api/videos/7020781/comentarios",
+    "relatedByLangRef": "https://www.rtve.es/api/videos/7020781/relacionados/relacionados-por-idioma",
+    "sign": {
+     "firma": null,
+     "authors": []
+    },
+    "estadisticasRef": "https://www.rtve.es/api/videos/7020781/estadisticas",
+    "ageRangeUid": "IF_REDAD5",
+    "ageRange": "No recomendable para menores de 12 años",
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "disabledAlacarta": false,
+    "notDownloadable": true,
+    "noRegistrationRequired": false,
+    "promoTitle": null,
+    "promoDesc": null,
+    "episode": 7,
+    "subtitleRef": "https://www.rtve.es/api/videos/7020781/subtitulos",
+    "aspectRatio": "r16x9",
+    "idWiki": null,
+    "idImdb": null,
+    "imdbRate": null,
+    "eCarteleraUrl": null,
+    "director": "Agustín Crespi | Antonio Cano | Joaquín Oristrell | Óscar Aibar",
+    "directorIds": [
+     {
+      "id": 1001964,
+      "name": "Agustín Crespi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1004136,
+      "name": "Antonio Cano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1014156,
+      "name": "Joaquín Oristrell",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022281,
+      "name": "Óscar Aibar",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": null,
+    "producedByIds": null,
+    "showMan": null,
+    "showManIds": null,
+    "casting": "Ana Duato | Carmen Climent | Imanol Arias | Irene Visedo | María Galiana | Pablo Rivero | Paloma Bloyd",
+    "castingIds": [
+     {
+      "id": 1003227,
+      "name": "Ana Duato",
+      "htmlUrl": null
+     },
+     {
+      "id": 1006105,
+      "name": "Carmen Climent",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012294,
+      "name": "Imanol Arias",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012461,
+      "name": "Irene Visedo",
+      "htmlUrl": null
+     },
+     {
+      "id": 1019055,
+      "name": "María Galiana",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022478,
+      "name": "Pablo Rivero",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022607,
+      "name": "Paloma Bloyd",
+      "htmlUrl": null
+     }
+    ],
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "audioDescription": "m4a/6/1/1748265255816.m4a",
+    "allowedInCountry": true,
+    "paidContent": false,
+    "geolocalizado": false,
+    "paidCountries": [
+     "AR",
+     "BO",
+     "BR",
+     "BZ",
+     "CA",
+     "CL",
+     "CO",
+     "CR",
+     "CU",
+     "DO",
+     "EC",
+     "GT",
+     "HN",
+     "HT",
+     "MX",
+     "NI",
+     "PA",
+     "PE",
+     "PR",
+     "PY",
+     "SV",
+     "US",
+     "UY",
+     "VE",
+     "AL",
+     "AD",
+     "DE",
+     "AM",
+     "AT",
+     "AZ",
+     "BE",
+     "BY",
+     "BA",
+     "BG",
+     "VA",
+     "HR",
+     "CY",
+     "DK",
+     "SK",
+     "SI",
+     "EE",
+     "FI",
+     "FR",
+     "GR",
+     "HU",
+     "IE",
+     "IT",
+     "IS",
+     "KZ",
+     "XK",
+     "LV",
+     "LI",
+     "LT",
+     "LU",
+     "MK",
+     "MT",
+     "MD",
+     "MC",
+     "ME",
+     "NO",
+     "NL",
+     "PL",
+     "PT",
+     "CZ",
+     "RO",
+     "RU",
+     "SM",
+     "RS",
+     "SE",
+     "CH",
+     "TR",
+     "UA",
+     "GB",
+     "AU",
+     "KR",
+     "PH",
+     "HK",
+     "IN",
+     "JP"
+    ],
+    "escort": null,
+    "generos": [
+     {
+      "generoInf": "Drama",
+      "generoInfUid": "GE_DRAMA",
+      "generoId": "96131"
+     }
+    ],
+    "consumptionUid": "D_PACK",
+    "av1Codification": false,
+    "hasCuePoints": false,
+    "paidContentPromo": false,
+    "country": "ES",
+    "hasDRM": true,
+    "paidCountriesPromo": null,
+    "requireLogged": true
+   },
+   {
+    "uri": "https://www.rtve.es/api/videos/7023665",
+    "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/especial-cuentame-como-fue/7023665/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/v/7023665/",
+    "id": "7023665",
+    "language": "es",
+    "languageOriginal": null,
+    "audioOriginal": "/deliverty/main/resources/m4a/4/0/1748261765104.m4a",
+    "otherLanguages": null,
+    "title": "Cuéntame cómo fue",
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "longTitle": "Cuéntame cómo pasó - T23 - Especial: Cuéntame cómo fue",
+    "shortTitle": "Cuéntame cómo fue",
+    "shortDescription": "Presentado por Imanol Arias y Ana Duato junto a otros actores, recogen los testimonios de sus protagonistas y de los seguidores de la serie.",
+    "description": "<p>Presentado por Imanol Arias y Ana Duato, junto a los actores que han interpretado a los miembros de la familia Alc&aacute;ntara, recogen testimonios de sus protagonistas y de los seguidores de la serie. </p><p>Ocho mil ciento doce d&iacute;as despu&eacute;s del estreno, los actores que han interpretado a los miembros de la familia protagonista son los invitados de este programa: un encuentro donde, como en la serie, se mezclan la alegr&iacute;a, las an&eacute;cdotas, los recuerdos, las sorpresas, y tambi&eacute;n algo de tristeza al decirse adi&oacute;s. </p><p>Mar&iacute;a Galiana, Irene Visedo, Pablo Rivero, Carmen Climent y Paloma Bloyd visitan los plat&oacute;s, su casa durante los &uacute;ltimos 22 a&ntilde;os, para compartir con los anfitriones y presentadores de este especial, Imanol Arias y Ana Duato, an&eacute;cdotas y recuerdos poco conocidos de &#039;Cu&eacute;ntame c&oacute;mo pas&oacute;&#039;, la serie m&aacute;s premiada de la televisi&oacute;n espa&ntilde;ola, que ha reflejado los cambios sociales y culturales de la Espa&ntilde;a de finales del siglo XX. </p><p>Tambi&eacute;n se recuerda a los que han estado y fueron parte de la serie. Sus mejores an&eacute;cdotas durante las grabaciones. Los actores se sorprender&aacute;n con mensajes de su entorno o amigos y con algunas sorpresas. </p><p>El especial incluye tambi&eacute;n historias de rostros an&oacute;nimos que contar&aacute;n c&oacute;mo vivieron ellos la serie y c&oacute;mo la recordaran. Nos acompa&ntilde;ar&aacute;n im&aacute;genes imborrables de hechos que ocurrieron desde 1968 hasta 2001, mezcladas, como siempre, con las vidas de los personajes. Desde 1968, con la victoria de Massiel en Eurovisi&oacute;n, a 2001, con los atentados de las Torres Gemelas.</p>",
+    "mainCategoryRef": "https://www.rtve.es/api/tematicas/1573",
+    "mainTopic": "Televisión/Programas de TVE/Series/Cuéntame cómo pasó",
+    "topicsName": [],
+    "descriptors": null,
+    "publicationDate": "29-11-2023 21:55:00",
+    "modificationDate": "02-02-2026 12:37:10",
+    "expirationDate": null,
+    "dateOfEmission": "29-11-2023 21:55:00",
+    "publicationDateTimestamp": 1701291300000,
+    "productionDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "breadCrumbRef": "https://www.rtve.es/api/videos/7023665/breadcrumb",
+    "imageSEO": "https://img.rtve.es/v/especial-cuentame-como-fue_7023665.png",
+    "thumbnail": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-especial-cuentame-como-fue/1701281385425.jpg",
+    "previews": {
+     "horizontal": null,
+     "horizontal2": null,
+     "vertical": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-especial-cuentame-como-fue/1701281385496.jpg",
+     "vertical2": null,
+     "square": null,
+     "square2": null
+    },
+    "contentType": "video",
+    "consumption": "EMPAQUETADO",
+    "sourceLink": null,
+    "sourceLink2": null,
+    "type": {
+     "id": 39816,
+     "name": "Completo"
+    },
+    "subType": null,
+    "assetType": "video",
+    "alt": "Cuéntame cómo pasó - T23 - Especial: Cuéntame cómo fue - Ver ahora",
+    "foot": null,
+    "otherTopicsRefs": "https://www.rtve.es/api/videos/7023665/tematicas",
+    "qualities": [
+     {
+      "identifier": 7887167,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_full/_TOKEN_",
+      "preset": "HD_FULL",
+      "filesize": 1955667227,
+      "type": "application/mp4",
+      "duration": 3327200,
+      "bitRate": 4500,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/cuentame-como-fue/1701281385425.jpg",
+      "height": 1080,
+      "width": 1920
+     },
+     {
+      "identifier": 7887168,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_ready/_TOKEN_",
+      "preset": "HD_READY",
+      "filesize": 1227879655,
+      "type": "application/mp4",
+      "duration": 3327200,
+      "bitRate": 2750,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/cuentame-como-fue/1701281385425.jpg",
+      "height": 720,
+      "width": 1280
+     },
+     {
+      "identifier": 7887169,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hq/_TOKEN_",
+      "preset": "HQ",
+      "filesize": 826477711,
+      "type": "application/mp4",
+      "duration": 3327200,
+      "bitRate": 1850,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/cuentame-como-fue/1701281385425.jpg",
+      "height": 576,
+      "width": 1024
+     },
+     {
+      "identifier": 7887170,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/high/_TOKEN_",
+      "preset": "HIGH",
+      "filesize": 472990741,
+      "type": "application/mp4",
+      "duration": 3327200,
+      "bitRate": 1000,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/cuentame-como-fue/1701281385425.jpg",
+      "height": 360,
+      "width": 640
+     }
+    ],
+    "qualitiesRef": "https://www.rtve.es/api/videos/7023665/calidades",
+    "duration": 3327200,
+    "programInfo": {
+     "id": "1573",
+     "title": "Cuéntame cómo pasó",
+     "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/",
+     "relatedByLangRefUrl": null,
+     "channelPermalink": "la1",
+     "ageRangeUid": "IF_REDAD5",
+     "ageRange": "No recomendable para menores de 12 años",
+     "ageRangeId": 73570,
+     "programType": "Series Prime Time",
+     "programTypeId": "136519",
+     "outOfEmission": true,
+     "castingIds": [
+      {
+       "id": 1003227,
+       "name": "Ana Duato",
+       "htmlUrl": null
+      },
+      {
+       "id": 1006105,
+       "name": "Carmen Climent",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012294,
+       "name": "Imanol Arias",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012461,
+       "name": "Irene Visedo",
+       "htmlUrl": null
+      },
+      {
+       "id": 1019055,
+       "name": "María Galiana",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022478,
+       "name": "Pablo Rivero",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022607,
+       "name": "Paloma Bloyd",
+       "htmlUrl": null
+      }
+     ],
+     "directorIds": [
+      {
+       "id": 1001964,
+       "name": "Agustín Crespi",
+       "htmlUrl": null
+      },
+      {
+       "id": 1004136,
+       "name": "Antonio Cano",
+       "htmlUrl": null
+      },
+      {
+       "id": 1014156,
+       "name": "Joaquín Oristrell",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022281,
+       "name": "Óscar Aibar",
+       "htmlUrl": null
+      }
+     ],
+     "showFragments": null,
+     "formulaTvUrl": "https://www.formulatv.com/series/cuentame-como-paso/"
+    },
+    "sgce": "P799PGS00287001",
+    "dg": "DG00148745",
+    "sip": null,
+    "temporada": "Temporada 23",
+    "temporadaShortTitle": "T23",
+    "temporadaOrden": 23,
+    "cuePointsRef": "https://www.rtve.es/api/videos/7023665/cuepoints",
+    "configPlayerRef": "https://www.rtve.es/api/videos/7023665/config/video",
+    "transcriptionRef": "https://www.rtve.es/api/videos/7023665/transcripcion",
+    "temporadaId": 176530,
+    "temporadasRef": "https://www.rtve.es/api/videos/7023665/temporadas",
+    "programRef": "https://www.rtve.es/api/programas/1573",
+    "relacionadosRef": "https://www.rtve.es/api/videos/7023665/relacionados",
+    "relManualesRef": "https://www.rtve.es/api/videos/7023665/relacionados/manuales",
+    "publicidadRef": null,
+    "comentariosRef": "https://www.rtve.es/api/videos/7023665/comentarios",
+    "relatedByLangRef": "https://www.rtve.es/api/videos/7023665/relacionados/relacionados-por-idioma",
+    "sign": {
+     "firma": null,
+     "authors": []
+    },
+    "estadisticasRef": "https://www.rtve.es/api/videos/7023665/estadisticas",
+    "ageRangeUid": "IF_REDAD5",
+    "ageRange": "No recomendable para menores de 12 años",
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "disabledAlacarta": false,
+    "notDownloadable": true,
+    "noRegistrationRequired": false,
+    "promoTitle": null,
+    "promoDesc": null,
+    "episode": 8,
+    "subtitleRef": "https://www.rtve.es/api/videos/7023665/subtitulos",
+    "aspectRatio": "r16x9",
+    "idWiki": null,
+    "idImdb": null,
+    "imdbRate": null,
+    "eCarteleraUrl": null,
+    "director": "Agustín Crespi | Antonio Cano | Joaquín Oristrell | Óscar Aibar",
+    "directorIds": [
+     {
+      "id": 1001964,
+      "name": "Agustín Crespi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1004136,
+      "name": "Antonio Cano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1014156,
+      "name": "Joaquín Oristrell",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022281,
+      "name": "Óscar Aibar",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": null,
+    "producedByIds": null,
+    "showMan": null,
+    "showManIds": null,
+    "casting": "Ana Duato | Carmen Climent | Imanol Arias | Irene Visedo | María Galiana | Pablo Rivero | Paloma Bloyd",
+    "castingIds": [
+     {
+      "id": 1003227,
+      "name": "Ana Duato",
+      "htmlUrl": null
+     },
+     {
+      "id": 1006105,
+      "name": "Carmen Climent",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012294,
+      "name": "Imanol Arias",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012461,
+      "name": "Irene Visedo",
+      "htmlUrl": null
+     },
+     {
+      "id": 1019055,
+      "name": "María Galiana",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022478,
+      "name": "Pablo Rivero",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022607,
+      "name": "Paloma Bloyd",
+      "htmlUrl": null
+     }
+    ],
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "audioDescription": null,
+    "allowedInCountry": true,
+    "paidContent": false,
+    "geolocalizado": false,
+    "paidCountries": [
+     "AR",
+     "BO",
+     "BR",
+     "BZ",
+     "CA",
+     "CL",
+     "CO",
+     "CR",
+     "CU",
+     "DO",
+     "EC",
+     "GT",
+     "HN",
+     "HT",
+     "MX",
+     "NI",
+     "PA",
+     "PE",
+     "PR",
+     "PY",
+     "SV",
+     "US",
+     "UY",
+     "VE",
+     "AL",
+     "AD",
+     "DE",
+     "AM",
+     "AT",
+     "AZ",
+     "BE",
+     "BY",
+     "BA",
+     "BG",
+     "VA",
+     "HR",
+     "CY",
+     "DK",
+     "SK",
+     "SI",
+     "EE",
+     "FI",
+     "FR",
+     "GR",
+     "HU",
+     "IE",
+     "IT",
+     "IS",
+     "KZ",
+     "XK",
+     "LV",
+     "LI",
+     "LT",
+     "LU",
+     "MK",
+     "MT",
+     "MD",
+     "MC",
+     "ME",
+     "NO",
+     "NL",
+     "PL",
+     "PT",
+     "CZ",
+     "RO",
+     "RU",
+     "SM",
+     "RS",
+     "SE",
+     "CH",
+     "TR",
+     "UA",
+     "GB",
+     "AU",
+     "KR",
+     "PH",
+     "HK",
+     "IN",
+     "JP"
+    ],
+    "escort": null,
+    "generos": [
+     {
+      "generoInf": "Drama",
+      "generoInfUid": "GE_DRAMA",
+      "generoId": "96131"
+     }
+    ],
+    "consumptionUid": "D_PACK",
+    "av1Codification": false,
+    "hasCuePoints": false,
+    "paidContentPromo": false,
+    "country": "ES",
+    "hasDRM": true,
+    "paidCountriesPromo": null,
+    "requireLogged": true
+   },
+   {
+    "uri": "https://www.rtve.es/api/videos/7015932",
+    "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/episodio-6-herminia-legado/7015932/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/v/7015932/",
+    "id": "7015932",
+    "language": "es",
+    "languageOriginal": null,
+    "audioOriginal": null,
+    "otherLanguages": null,
+    "title": "Herminia. El legado",
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "longTitle": "Cuéntame cómo pasó - T23 - Episodio 6: Herminia. El legado",
+    "shortTitle": "Herminia. El legado",
+    "shortDescription": "Verano de 2001. Los Alcántara se preparan para la boda de María en Sagrillas. El momento de celebración se ve empañado por una decisión que toma Herminia.",
+    "description": "<p>Verano de 2001. Los Alc&aacute;ntara se preparan para asistir a la boda de Mar&iacute;a que se casa con Jorge en Sagrillas. El momento de celebraci&oacute;n se ve empa&ntilde;ado por una dr&aacute;stica decisi&oacute;n que toma Herminia y que afecta a toda la familia. Antonio acompa&ntilde;a a Herminia al m&eacute;dico y all&iacute; les informan que, en los &uacute;ltimos an&aacute;lisis, aparecen alterados algunos par&aacute;metros. Herminia le pide a Antonio que no cuente nada a su hija para no preocuparla. Mientras, Mercedes est&aacute; inmersa en los ajustes del vestido de novia de Mar&iacute;a. Est&aacute; muy ilusionada con la boda aunque le hubiera gustado que hubieran podido juntarse todos. Por su parte, Mar&iacute;a est&aacute; muy nerviosa. Tiene un mal presentimiento y es que las bodas de sus hermanos siempre han acabado saliendo mal. Para la boda, Tony y Deborah se quedan en el Parador de Tobarra y es que la inglesa no quiere pasar estos d&iacute;as con todos los Alc&aacute;ntara. A In&eacute;s tampoco le apetece la boda; despu&eacute;s de su ruptura con Mike est&aacute; muy centrada en su hijo y cerrada al amor.</p>",
+    "mainCategoryRef": "https://www.rtve.es/api/tematicas/1573",
+    "mainTopic": "Televisión/Programas de TVE/Series/Cuéntame cómo pasó",
+    "topicsName": [],
+    "descriptors": null,
+    "publicationDate": "22-11-2023 22:45:00",
+    "modificationDate": "10-02-2026 12:19:21",
+    "expirationDate": null,
+    "dateOfEmission": "22-11-2023 22:45:00",
+    "publicationDateTimestamp": 1700689500000,
+    "productionDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "breadCrumbRef": "https://www.rtve.es/api/videos/7015932/breadcrumb",
+    "imageSEO": "https://img.rtve.es/v/episodio-6-herminia-legado_7015932.png",
+    "thumbnail": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-episodio-6-herminia-legado/1700644271566.jpg",
+    "previews": {
+     "horizontal": null,
+     "horizontal2": null,
+     "vertical": "https://img.rtve.es/imagenes/cuentame-como-paso-t23-episodio-6-herminia-legado/1700644271654.jpg",
+     "vertical2": null,
+     "square": null,
+     "square2": null
+    },
+    "contentType": "video",
+    "consumption": "EMPAQUETADO",
+    "sourceLink": null,
+    "sourceLink2": null,
+    "type": {
+     "id": 39816,
+     "name": "Completo"
+    },
+    "subType": null,
+    "assetType": "video",
+    "alt": "Cuéntame cómo pasó - Temporada 23 - Episodio 6: Herminia. El legado",
+    "foot": null,
+    "otherTopicsRefs": "https://www.rtve.es/api/videos/7015932/tematicas",
+    "qualities": [
+     {
+      "identifier": 7886881,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_full/_TOKEN_",
+      "preset": "HD_FULL",
+      "filesize": 2532099817,
+      "type": "application/mp4",
+      "duration": 4309760,
+      "bitRate": 4500,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/herminia-legado/1700644271566.jpg",
+      "height": 1080,
+      "width": 1920
+     },
+     {
+      "identifier": 7886882,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_ready/_TOKEN_",
+      "preset": "HD_READY",
+      "filesize": 1589375147,
+      "type": "application/mp4",
+      "duration": 4309760,
+      "bitRate": 2750,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/herminia-legado/1700644271566.jpg",
+      "height": 720,
+      "width": 1280
+     },
+     {
+      "identifier": 7886883,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hq/_TOKEN_",
+      "preset": "HQ",
+      "filesize": 1069688331,
+      "type": "application/mp4",
+      "duration": 4309760,
+      "bitRate": 1850,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/herminia-legado/1700644271566.jpg",
+      "height": 576,
+      "width": 1024
+     },
+     {
+      "identifier": 7886884,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/high/_TOKEN_",
+      "preset": "HIGH",
+      "filesize": 611806485,
+      "type": "application/mp4",
+      "duration": 4309760,
+      "bitRate": 1000,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/herminia-legado/1700644271566.jpg",
+      "height": 360,
+      "width": 640
+     }
+    ],
+    "qualitiesRef": "https://www.rtve.es/api/videos/7015932/calidades",
+    "duration": 4309760,
+    "programInfo": {
+     "id": "1573",
+     "title": "Cuéntame cómo pasó",
+     "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/",
+     "relatedByLangRefUrl": null,
+     "channelPermalink": "la1",
+     "ageRangeUid": "IF_REDAD5",
+     "ageRange": "No recomendable para menores de 12 años",
+     "ageRangeId": 73570,
+     "programType": "Series Prime Time",
+     "programTypeId": "136519",
+     "outOfEmission": true,
+     "castingIds": [
+      {
+       "id": 1003227,
+       "name": "Ana Duato",
+       "htmlUrl": null
+      },
+      {
+       "id": 1006105,
+       "name": "Carmen Climent",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012294,
+       "name": "Imanol Arias",
+       "htmlUrl": null
+      },
+      {
+       "id": 1012461,
+       "name": "Irene Visedo",
+       "htmlUrl": null
+      },
+      {
+       "id": 1019055,
+       "name": "María Galiana",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022478,
+       "name": "Pablo Rivero",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022607,
+       "name": "Paloma Bloyd",
+       "htmlUrl": null
+      }
+     ],
+     "directorIds": [
+      {
+       "id": 1001964,
+       "name": "Agustín Crespi",
+       "htmlUrl": null
+      },
+      {
+       "id": 1004136,
+       "name": "Antonio Cano",
+       "htmlUrl": null
+      },
+      {
+       "id": 1014156,
+       "name": "Joaquín Oristrell",
+       "htmlUrl": null
+      },
+      {
+       "id": 1022281,
+       "name": "Óscar Aibar",
+       "htmlUrl": null
+      }
+     ],
+     "showFragments": null,
+     "formulaTvUrl": "https://www.formulatv.com/series/cuentame-como-paso/"
+    },
+    "sgce": "P111PGS00147412",
+    "dg": "DG00148014",
+    "sip": null,
+    "temporada": "Temporada 23",
+    "temporadaShortTitle": "T23",
+    "temporadaOrden": 23,
+    "cuePointsRef": "https://www.rtve.es/api/videos/7015932/cuepoints",
+    "configPlayerRef": "https://www.rtve.es/api/videos/7015932/config/video",
+    "transcriptionRef": "https://www.rtve.es/api/videos/7015932/transcripcion",
+    "temporadaId": 176530,
+    "temporadasRef": "https://www.rtve.es/api/videos/7015932/temporadas",
+    "programRef": "https://www.rtve.es/api/programas/1573",
+    "relacionadosRef": "https://www.rtve.es/api/videos/7015932/relacionados",
+    "relManualesRef": "https://www.rtve.es/api/videos/7015932/relacionados/manuales",
+    "publicidadRef": null,
+    "comentariosRef": "https://www.rtve.es/api/videos/7015932/comentarios",
+    "relatedByLangRef": "https://www.rtve.es/api/videos/7015932/relacionados/relacionados-por-idioma",
+    "sign": {
+     "firma": null,
+     "authors": []
+    },
+    "estadisticasRef": "https://www.rtve.es/api/videos/7015932/estadisticas",
+    "ageRangeUid": "IF_REDAD5",
+    "ageRange": "No recomendable para menores de 12 años",
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "disabledAlacarta": false,
+    "notDownloadable": true,
+    "noRegistrationRequired": false,
+    "promoTitle": null,
+    "promoDesc": null,
+    "episode": 6,
+    "subtitleRef": "https://www.rtve.es/api/videos/7015932/subtitulos",
+    "aspectRatio": "r16x9",
+    "idWiki": null,
+    "idImdb": null,
+    "imdbRate": null,
+    "eCarteleraUrl": null,
+    "director": "Agustín Crespi | Antonio Cano | Joaquín Oristrell | Óscar Aibar",
+    "directorIds": [
+     {
+      "id": 1001964,
+      "name": "Agustín Crespi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1004136,
+      "name": "Antonio Cano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1014156,
+      "name": "Joaquín Oristrell",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022281,
+      "name": "Óscar Aibar",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": null,
+    "producedByIds": null,
+    "showMan": null,
+    "showManIds": null,
+    "casting": "Ana Duato | Carmen Climent | Imanol Arias | Irene Visedo | María Galiana | Pablo Rivero | Paloma Bloyd",
+    "castingIds": [
+     {
+      "id": 1003227,
+      "name": "Ana Duato",
+      "htmlUrl": null
+     },
+     {
+      "id": 1006105,
+      "name": "Carmen Climent",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012294,
+      "name": "Imanol Arias",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012461,
+      "name": "Irene Visedo",
+      "htmlUrl": null
+     },
+     {
+      "id": 1019055,
+      "name": "María Galiana",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022478,
+      "name": "Pablo Rivero",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022607,
+      "name": "Paloma Bloyd",
+      "htmlUrl": null
+     }
+    ],
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "audioDescription": "m4a/9/0/1748264646709.m4a",
+    "allowedInCountry": true,
+    "paidContent": false,
+    "geolocalizado": false,
+    "paidCountries": [
+     "AR",
+     "BO",
+     "BR",
+     "BZ",
+     "CA",
+     "CL",
+     "CO",
+     "CR",
+     "CU",
+     "DO",
+     "EC",
+     "GT",
+     "HN",
+     "HT",
+     "MX",
+     "NI",
+     "PA",
+     "PE",
+     "PR",
+     "PY",
+     "SV",
+     "US",
+     "UY",
+     "VE",
+     "AL",
+     "AD",
+     "DE",
+     "AM",
+     "AT",
+     "AZ",
+     "BE",
+     "BY",
+     "BA",
+     "BG",
+     "VA",
+     "HR",
+     "CY",
+     "DK",
+     "SK",
+     "SI",
+     "EE",
+     "FI",
+     "FR",
+     "GR",
+     "HU",
+     "IE",
+     "IT",
+     "IS",
+     "KZ",
+     "XK",
+     "LV",
+     "LI",
+     "LT",
+     "LU",
+     "MK",
+     "MT",
+     "MD",
+     "MC",
+     "ME",
+     "NO",
+     "NL",
+     "PL",
+     "PT",
+     "CZ",
+     "RO",
+     "RU",
+     "SM",
+     "RS",
+     "SE",
+     "CH",
+     "TR",
+     "UA",
+     "GB",
+     "AU",
+     "KR",
+     "PH",
+     "HK",
+     "IN",
+     "JP"
+    ],
+    "escort": null,
+    "generos": [
+     {
+      "generoInf": "Drama",
+      "generoInfUid": "GE_DRAMA",
+      "generoId": "96131"
+     }
+    ],
+    "consumptionUid": "D_PACK",
+    "av1Codification": false,
+    "hasCuePoints": false,
+    "paidContentPromo": false,
+    "country": "ES",
+    "hasDRM": true,
+    "paidCountriesPromo": null,
+    "requireLogged": true
+   }
+  ],
+  "number": 1,
+  "size": 3,
+  "offset": 0,
+  "total": 418,
+  "totalPages": 140,
+  "numElements": 3
+ }
+}

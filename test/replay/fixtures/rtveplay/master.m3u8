@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Unified Streaming Platform (version=1.15.13-32113)
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=4462000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1920x1080,FRAME-RATE=25
+1720343452515-audio=192862-video=4016000.m3u8?idasset=16177116&hls_client_manifest_version=3

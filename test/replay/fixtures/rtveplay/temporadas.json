@@ -1,0 +1,258 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/programas/175650/temporadas/1000630",
+    "id": 1000630,
+    "title": "T1",
+    "shortTitle": "T1",
+    "longTitle": "Temporada 1",
+    "permalink": "temporada-1",
+    "description": "<p>Un magaz&iacute;n &aacute;gil, entretenido, con una mirada diferente a lo que ocurre en nuestro pa&iacute;s. Con la &uacute;ltima hora de la actualidad y entrevistas a las personalidades del momento.&nbsp; Presentado por Jaime Cantizano, acompa&ntilde;ado de Miriam Moreno y Marc Santandreu.</p><p",
+    "shortDescription": "‘Mañaneros’ es el programa de entretenimiento y actualidad social de las mañanas de Televisión Española.",
+    "image": "https://img.rtve.es/imagenes/temporada-1/01724399753289.jpg",
+    "imgBackground": "https://img.rtve.es/imagenes/temporada-1/01724399735367.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/temporada-1/01724399766385.jpg",
+    "disabledAlacarta": false,
+    "notDownloadable": false,
+    "orden": 1,
+    "numEpisodes": 226,
+    "director": "Eduardo Blanco",
+    "directorIds": [
+     {
+      "id": 1008697,
+      "name": "Eduardo Blanco",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Manuel Jiménez | Rafael Valverde",
+    "producedByIds": [
+     {
+      "id": 1018531,
+      "name": "Manuel Jiménez",
+      "htmlUrl": null
+     },
+     {
+      "id": 1023935,
+      "name": "Rafael Valverde",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Alberto Herrera | Ana Prada | Jaime Cantizano | Marc Santandreu | Miriam Moreno",
+    "showManIds": [
+     {
+      "id": 1002291,
+      "name": "Alberto Herrera",
+      "htmlUrl": null
+     },
+     {
+      "id": 1003318,
+      "name": "Ana Prada",
+      "htmlUrl": null
+     },
+     {
+      "id": 1012913,
+      "name": "Jaime Cantizano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1018744,
+      "name": "Marc Santandreu",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021085,
+      "name": "Miriam Moreno",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Alberto Fructuoso | Juan Manuel López-Pastor",
+    "technicalTeamIds": [
+     {
+      "id": 1002282,
+      "name": "Alberto Fructuoso",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015765,
+      "name": "Juan Manuel López-Pastor",
+      "htmlUrl": null
+     }
+    ],
+    "descriptors": null
+   },
+   {
+    "uri": "https://www.rtve.es/api/programas/175650/temporadas/1000631",
+    "id": 1000631,
+    "title": "T2",
+    "shortTitle": "T2",
+    "longTitle": "Temporada 2",
+    "permalink": "temporada-2",
+    "description": "<p>La familia de &lsquo;Ma&ntilde;aneros&rsquo; crece para acercarse todav&iacute;a m&aacute;s al p&uacute;blico, con contenidos centrados en los temas de actualidad y entretenimiento, sin dejar de lado la actualidad pol&iacute;tica con expertos y analistas.</p><p>El programa seguir&aacute; contando",
+    "shortDescription": "Vuelve ‘Mañaneros’ con Jesús Cintora, Adela González, Miriam Moreno y Alberto Herrera, con el objetivo de ser la mejor compañía para el público.",
+    "image": "https://img.rtve.es/imagenes/temporada-2/01787317442747.jpg",
+    "imgBackground": "https://img.rtve.es/imagenes/temporada-2/01787317433041.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/temporada-2/01787317452644.jpg",
+    "disabledAlacarta": false,
+    "notDownloadable": false,
+    "orden": 2,
+    "numEpisodes": 500,
+    "director": "Eduardo Blanco",
+    "directorIds": [
+     {
+      "id": 1008697,
+      "name": "Eduardo Blanco",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Manuel Jiménez | Rafael Valverde",
+    "producedByIds": [
+     {
+      "id": 1018531,
+      "name": "Manuel Jiménez",
+      "htmlUrl": null
+     },
+     {
+      "id": 1023935,
+      "name": "Rafael Valverde",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Javier Ruiz | Adela González | Miriam Moreno | Alberto Herrera",
+    "showManIds": [
+     {
+      "id": 1013432,
+      "name": "Javier Ruiz",
+      "htmlUrl": null
+     },
+     {
+      "id": 1001807,
+      "name": "Adela González",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021085,
+      "name": "Miriam Moreno",
+      "htmlUrl": null
+     },
+     {
+      "id": 1002291,
+      "name": "Alberto Herrera",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Alberto Fructuoso | Juan Manuel López-Pastor",
+    "technicalTeamIds": [
+     {
+      "id": 1002282,
+      "name": "Alberto Fructuoso",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015765,
+      "name": "Juan Manuel López-Pastor",
+      "htmlUrl": null
+     }
+    ],
+    "descriptors": null
+   },
+   {
+    "uri": "https://www.rtve.es/api/programas/175650/temporadas/1030976",
+    "id": 1030976,
+    "title": "T3",
+    "shortTitle": "T3",
+    "longTitle": "Temporada 3",
+    "permalink": "temporada-3",
+    "description": "<p>&#039;Ma&ntilde;aneros 360&rsquo; estrena nueva temporada. Llega Jes&uacute;s Cintora para seguir la senda del liderazgo junto a Adela Gonz&aacute;lez, presentadora del programa desde septiembre de 2024, y acompa&ntilde;ados por Miriam Moreno y Ane Ibarzabal.</p><p>El espacio mantendr&aacute; int",
+    "shortDescription": "Llega Jesús Cintora para seguir la senda del liderazgo junto a Adela González, acompañados por Miriam Moreno y Ane Ibarzabal.",
+    "image": "https://img.rtve.es/imagenes/temporada-3/01787314130152.jpg",
+    "imgBackground": "https://img.rtve.es/imagenes/temporada-3/01787314117099.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/temporada-3/01787314149888.jpg",
+    "disabledAlacarta": false,
+    "notDownloadable": false,
+    "orden": 3,
+    "numEpisodes": 40,
+    "director": "Dani Fernández | Joseba Gastesi | Pablo del Pozo",
+    "directorIds": [
+     {
+      "id": 1007515,
+      "name": "Dani Fernández",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015342,
+      "name": "Joseba Gastesi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022417,
+      "name": "Pablo del Pozo",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Belén de la Cruz | Noemí Pérez",
+    "producedByIds": [
+     {
+      "id": 1004935,
+      "name": "Belén de la Cruz",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021965,
+      "name": "Noemí Pérez",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Jesús Cintora | Adela González | Ane Ibarzábal | Miriam Moreno",
+    "showManIds": [
+     {
+      "id": 1013808,
+      "name": "Jesús Cintora",
+      "htmlUrl": null
+     },
+     {
+      "id": 1001807,
+      "name": "Adela González",
+      "htmlUrl": null
+     },
+     {
+      "id": 1030922,
+      "name": "Ane Ibarzábal",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021085,
+      "name": "Miriam Moreno",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Alberto Fructuoso | Juan Manuel López-Pastor",
+    "technicalTeamIds": [
+     {
+      "id": 1002282,
+      "name": "Alberto Fructuoso",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015765,
+      "name": "Juan Manuel López-Pastor",
+      "htmlUrl": null
+     }
+    ],
+    "descriptors": null
+   }
+  ],
+  "number": 1,
+  "size": 20,
+  "offset": 0,
+  "total": 3,
+  "totalPages": 1,
+  "numElements": 3
+ }
+}

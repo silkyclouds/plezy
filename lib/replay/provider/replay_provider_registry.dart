@@ -17,6 +17,7 @@ import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
+import '../providers/rtveplay/rtveplay_provider.dart';
 import '../providers/ruv/ruv_provider.dart';
 import '../providers/svtplay/svtplay_provider.dart';
 import '../providers/ted/ted_provider.dart';
@@ -239,6 +240,13 @@ const replaySourceInfos = [
     country: 'ES',
     languages: ['ca'],
   ),
+  ReplaySourceInfo(
+    id: 'rtveplay',
+    name: 'RTVE Play',
+    support: ReplayPlaybackSupport.partial,
+    country: 'ES',
+    languages: ['es'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -299,6 +307,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'ardmediathek' => ArdMediathekProvider(http),
       'france24' => France24Provider(http),
       '3cat' => ThreeCatProvider(http),
+      'rtveplay' => RtvePlayProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

@@ -1,0 +1,240 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/videos/16177116",
+    "htmlUrl": "https://www.rtve.es/play/videos/saber-vivir/07-07-24/16177116/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/v/16177116/",
+    "id": "16177116",
+    "language": "es",
+    "languageOriginal": null,
+    "audioOriginal": "/deliverty/main/resources/m4a/9/8/1720343484289.m4a",
+    "otherLanguages": null,
+    "title": "Saber vivir - 07/07/24",
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "longTitle": "Saber vivir - 07/07/24",
+    "shortTitle": null,
+    "shortDescription": "Ejercicios para ponerse a punto en verano con el entrenador personal David Navarro.",
+    "description": "<p><strong>En buena forma</strong>: ejercicios para ponerse a punto durante el verano, a base de flexiones en todas las posturas, con el entrenador personal David Navarro.&nbsp;<strong>Ciencia y salud / Mente sana</strong>: por qu&eacute; buscamos cada vez m&aacute;s el placer y soportamos cada vez menos el dolor y el malestar, recurriendo a la comida malsana, el abuso de los dispositivos electr&oacute;nicos y otras fuentes de dopamina no deseables, con Silvia &Aacute;lava y Andrea Calder&oacute;n.&nbsp;<strong>La lupa</strong>: analizamos la moda de eliminar los hidratos de carbono en la dieta por miedo al az&uacute;car que hace engordar, aprendiendo a reconocer el az&uacute;car &ldquo;bueno&rdquo; que conviene consumir (junto al ejercicio f&iacute;sico) para controlar el peso y la glucosa a todas las edades, con Ismael Galancho (autor del libro &ldquo;Equilibra tu glucosa&rdquo;) y Paloma Quintana.&nbsp;<strong>Buen provecho</strong>: platos de cocina econ&oacute;mica y f&aacute;cil que lleva ajo, cebolla, puerro, hinojo y otras hortalizas de la familia de los bulbos, con Sergio Fern&aacute;ndez.&nbsp;<strong>Puro sabor</strong>: receta de helado casero con frutos rojos y yogur natural, Marta Verona.</p>",
+    "mainCategoryRef": "https://www.rtve.es/api/tematicas/111570",
+    "mainTopic": "Televisión/Programas de TVE/Magacín/Saber vivir",
+    "topicsName": [],
+    "descriptors": null,
+    "publicationDate": "07-07-2024 10:25:00",
+    "modificationDate": "07-07-2024 11:16:37",
+    "expirationDate": null,
+    "dateOfEmission": "07-07-2024 10:25:00",
+    "publicationDateTimestamp": 1720340700000,
+    "productionDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "breadCrumbRef": "https://www.rtve.es/api/videos/16177116/breadcrumb",
+    "imageSEO": "https://img.rtve.es/v/07-07-24_16177116.png",
+    "thumbnail": "https://img.rtve.es/imagenes/saber-vivir-070724/01720343749071.jpg",
+    "previews": {
+     "horizontal": null,
+     "horizontal2": null,
+     "vertical": null,
+     "vertical2": null,
+     "square": null,
+     "square2": null
+    },
+    "contentType": "video",
+    "consumption": "ondemand",
+    "sourceLink": null,
+    "sourceLink2": null,
+    "type": {
+     "id": 39816,
+     "name": "Completo"
+    },
+    "subType": null,
+    "assetType": "video",
+    "alt": "Saber vivir - 07/07/24 - ver ahora",
+    "foot": null,
+    "otherTopicsRefs": "https://www.rtve.es/api/videos/16177116/tematicas",
+    "qualities": [
+     {
+      "identifier": 7539496,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_full/_TOKEN_",
+      "preset": "HD_FULL",
+      "filesize": 1138951956,
+      "type": "application/mp4",
+      "duration": 2162680,
+      "bitRate": 4292608,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/saber-vivir-070724/01720343749071.jpg",
+      "height": 1080,
+      "width": 1920
+     },
+     {
+      "identifier": 7539497,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hd_ready/_TOKEN_",
+      "preset": "HD_READY",
+      "filesize": 801364173,
+      "type": "application/mp4",
+      "duration": 2162680,
+      "bitRate": 3012608,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/saber-vivir-070724/01720343749071.jpg",
+      "height": 720,
+      "width": 1280
+     },
+     {
+      "identifier": 7539498,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/hq/_TOKEN_",
+      "preset": "HQ",
+      "filesize": 546072437,
+      "type": "application/mp4",
+      "duration": 2162680,
+      "bitRate": 2025472,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/saber-vivir-070724/01720343749071.jpg",
+      "height": 576,
+      "width": 1024
+     },
+     {
+      "identifier": 7539499,
+      "filePath": "https://ztnr.rtve.es/ztnr/res/_PROVIDER_/video/high/_TOKEN_",
+      "preset": "HIGH",
+      "filesize": 308671518,
+      "type": "application/mp4",
+      "duration": 2162680,
+      "bitRate": 1155072,
+      "bitRateUnit": "Kbps",
+      "language": "es",
+      "previewPath": "https://img.rtve.es/imagenes/saber-vivir-070724/01720343749071.jpg",
+      "height": 360,
+      "width": 640
+     }
+    ],
+    "qualitiesRef": "https://www.rtve.es/api/videos/16177116/calidades",
+    "duration": 2162680,
+    "programInfo": {
+     "id": "111570",
+     "title": "Saber vivir",
+     "htmlUrl": "https://www.rtve.es/play/videos/saber-vivir/",
+     "relatedByLangRefUrl": null,
+     "channelPermalink": "la2",
+     "ageRangeUid": "IF_REDAD0",
+     "ageRange": "Recomendable para todos los públicos",
+     "ageRangeId": 51590,
+     "programType": "Magacín semanal",
+     "programTypeId": "136612",
+     "outOfEmission": false,
+     "castingIds": null,
+     "directorIds": [
+      {
+       "id": 1002735,
+       "name": "Alfonso García",
+       "htmlUrl": null
+      },
+      {
+       "id": 1013699,
+       "name": "Jero Fernández",
+       "htmlUrl": null
+      }
+     ],
+     "showFragments": true,
+     "formulaTvUrl": null
+    },
+    "sgce": "P699PGS00997217",
+    "dg": null,
+    "sip": null,
+    "temporada": null,
+    "temporadaShortTitle": null,
+    "temporadaOrden": null,
+    "cuePointsRef": "https://www.rtve.es/api/videos/16177116/cuepoints",
+    "configPlayerRef": "https://www.rtve.es/api/videos/16177116/config/video",
+    "transcriptionRef": "https://www.rtve.es/api/videos/16177116/transcripcion",
+    "temporadaId": null,
+    "temporadasRef": "https://www.rtve.es/api/videos/16177116/temporadas",
+    "programRef": "https://www.rtve.es/api/programas/111570",
+    "relacionadosRef": "https://www.rtve.es/api/videos/16177116/relacionados",
+    "relManualesRef": "https://www.rtve.es/api/videos/16177116/relacionados/manuales",
+    "publicidadRef": null,
+    "comentariosRef": "https://www.rtve.es/api/videos/16177116/comentarios",
+    "relatedByLangRef": "https://www.rtve.es/api/videos/16177116/relacionados/relacionados-por-idioma",
+    "sign": {
+     "firma": null,
+     "authors": []
+    },
+    "estadisticasRef": "https://www.rtve.es/api/videos/16177116/estadisticas",
+    "ageRangeUid": "IF_REDAD0",
+    "ageRange": "Recomendable para todos los públicos",
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "disabledAlacarta": false,
+    "notDownloadable": false,
+    "noRegistrationRequired": false,
+    "promoTitle": null,
+    "promoDesc": null,
+    "episode": 0,
+    "subtitleRef": "https://www.rtve.es/api/videos/16177116/subtitulos",
+    "aspectRatio": "r16x9",
+    "idWiki": null,
+    "idImdb": null,
+    "imdbRate": null,
+    "eCarteleraUrl": null,
+    "director": "Alfonso García | Jero Fernández",
+    "directorIds": [
+     {
+      "id": 1002735,
+      "name": "Alfonso García",
+      "htmlUrl": null
+     },
+     {
+      "id": 1013699,
+      "name": "Jero Fernández",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": null,
+    "producedByIds": null,
+    "showMan": null,
+    "showManIds": null,
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "audioDescription": null,
+    "allowedInCountry": true,
+    "paidContent": false,
+    "geolocalizado": false,
+    "paidCountries": null,
+    "escort": null,
+    "generos": [
+     {
+      "generoInf": "Ciencia y futuro",
+      "generoInfUid": "GE_CIENFU",
+      "generoId": "136650"
+     },
+     {
+      "generoInf": "Cocina",
+      "generoInfUid": "GEN_COCIN",
+      "generoId": "136653"
+     }
+    ],
+    "av1Codification": false,
+    "hasCuePoints": false,
+    "paidContentPromo": false,
+    "country": "ES",
+    "hasDRM": false,
+    "paidCountriesPromo": null,
+    "requireLogged": true
+   }
+  ],
+  "number": 1,
+  "size": 1,
+  "offset": 0,
+  "total": 1,
+  "totalPages": 1,
+  "numElements": 1
+ }
+}

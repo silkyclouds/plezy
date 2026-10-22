@@ -1,0 +1,375 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/programas/1031439",
+    "htmlUrl": "https://www.rtve.es/play/videos/la-cena-de-los-idiotas/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/pr/1031439/",
+    "id": "1031439",
+    "ctvId": null,
+    "oldCtvId": null,
+    "uid": "SHO_LACENT2",
+    "name": "La cena de los idiotas",
+    "permalink": "la-cena-de-los-idiotas",
+    "language": "es",
+    "languageOriginal": null,
+    "longTitle": "La cena de los idiotas",
+    "shortTitle": "La cena de los idiotas",
+    "description": "¿De qué hablamos los españoles cuando dejamos de discutir? ‘La cena de los idiotas’ nace como un espacio de conversación informal en el que Gonzalo Miró reunirá cada semana a diferentes rostros conocidos alrededor de una mesa para abordar un tema del que son protagonistas todos los invitados.",
+    "audioDescription": false,
+    "longDescription": "<p>&iquest;De qu&eacute; hablamos los espa&ntilde;oles cuando dejamos de discutir? &lsquo;La cena de los idiotas&rsquo; nace como un espacio de conversaci&oacute;n informal en el que Gonzalo Mir&oacute; reunir&aacute; cada semana a diferentes rostros conocidos alrededor de una mesa para abordar un t",
+    "contact": null,
+    "emission": null,
+    "publicationDate": "21-10-2026 00:00:00",
+    "expirationDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "orden": 2147483647,
+    "imageSEO": "https://img.rtve.es/p/la-cena-de-los-idiotas_1031439.png",
+    "logo": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579902449.png",
+    "logo2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579912866.png",
+    "thumbnail": "https://img.rtve.es/p/1031439?imgProgApi=imgPortada&w=400",
+    "imgBackground": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579928762.jpg",
+    "imgBackground2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579934118.jpg",
+    "imgPoster": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579968585.jpg",
+    "imgPoster2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579974651.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579981432.jpg",
+    "imgPortada2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579987047.jpg",
+    "imgCol": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579992224.jpg",
+    "imgCol2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792579997913.jpg",
+    "imgCol3": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792580002581.jpg",
+    "imgBanner": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792580008055.jpg",
+    "imgBanner2": "https://img.rtve.es/imagenes/la-cena-de-los-idiotas/01792580014255.jpg",
+    "imgPinta": "",
+    "imagePodcast": "",
+    "outOfEmission": false,
+    "channel": {
+     "uri": "https://www.rtve.es/api/cadenas/135530",
+     "htmlUrl": "https://www.rtve.es/alacarta/undefined/rtve-play/",
+     "htmlShortUrl": "/alacarta/undefined/rtve-play/",
+     "id": "135530",
+     "medioRef": "https://www.rtve.es/api/medios/144790",
+     "uid": "CAD_PLAY",
+     "title": "RTVE Play",
+     "permalink": "rtve-play"
+    },
+    "fanBoxID": null,
+    "ageRangeUid": "IF_REDAD2",
+    "ageRange": null,
+    "ageRangeId": 32530,
+    "recommendAgesForChilds": [],
+    "seccionesRef": "https://www.rtve.es/api/programas/1031439/secciones",
+    "temporadasRef": "https://www.rtve.es/api/programas/1031439/temporadas",
+    "temporadaShortTitle": null,
+    "temporada": null,
+    "agrupadoresRef": "https://www.rtve.es/api/programas/1031439/agrupadores",
+    "videosRef": "https://www.rtve.es/api/programas/1031439/videos",
+    "audiosRef": "https://www.rtve.es/api/programas/1031439/audios",
+    "multimediasRef": "https://www.rtve.es/api/programas/1031439/multimedias",
+    "relacionadosRef": "https://www.rtve.es/api/programas/1031439/relacionados",
+    "otherChannelsRef": "https://www.rtve.es/api/programas/1031439/otras-cadenas",
+    "childrenInfoRef": "https://www.rtve.es/api/programas/1031439/info-infantil",
+    "filtro": null,
+    "webRtve": null,
+    "webOficial": "/play/videos/la-cena-de-los-idiotas/",
+    "promoText": null,
+    "promoDesc": null,
+    "promoTextPubDate": null,
+    "promoTextScheduled": null,
+    "relatedByLangRef": "https://www.rtve.es/api/programas/1031439/relacionados/relacionados-por-idioma",
+    "modificationDate": "21-10-2026 13:19:59",
+    "publicationDateTimestamp": 1792533600000,
+    "contentType": "programa",
+    "sgce": "P611PGS00739",
+    "sgce2": null,
+    "sgceIds": "P611PGS00739",
+    "kantar": null,
+    "generos": [
+     {
+      "generoInf": "Información y actualidad",
+      "generoInfUid": "GE_INFOR",
+      "generoId": "136528"
+     }
+    ],
+    "seasons": null,
+    "numSeasons": 0,
+    "productionDate": "01-01-2026 00:00:00",
+    "rrss": null,
+    "rrssApps": [],
+    "mainTopic": "Televisión/Programas de TVE/Entretenimiento/La cena de los idiotas",
+    "mainTopicUid": "TETVE-TEPROGRA-TEPENTRET-SHOLACENT2",
+    "title": "La cena de los idiotas",
+    "disabledAlacarta": false,
+    "programType": "Entretenimiento",
+    "programTypeId": 132532,
+    "isComplete": false,
+    "inAZList": true,
+    "director": "Javier Ruiz | Álvaro Martín",
+    "directorIds": [
+     {
+      "id": 1013432,
+      "name": "Javier Ruiz",
+      "htmlUrl": null
+     },
+     {
+      "id": 1031442,
+      "name": "Álvaro Martín",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Blanca Santos | Laura Martín",
+    "producedByIds": [
+     {
+      "id": 1031440,
+      "name": "Blanca Santos",
+      "htmlUrl": null
+     },
+     {
+      "id": 1031441,
+      "name": "Laura Martín",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Gonzalo Miró",
+    "showManIds": [
+     {
+      "id": 1011324,
+      "name": "Gonzalo Miró",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Antonio Pino",
+    "technicalTeamIds": [
+     {
+      "id": 1030574,
+      "name": "Antonio Pino",
+      "htmlUrl": null
+     }
+    ],
+    "idWiki": null,
+    "idImdb": null,
+    "showFragments": false,
+    "notDownloadable": false,
+    "paidCountries": null,
+    "escort": {
+     "intention": "Intención / Entretenimiento",
+     "format": "Formato / Estructurado - No ficción / Talk show: programa de entrevistas basado en la conversación",
+     "content": "Contenido / Generalista"
+    },
+    "formulaTvUrl": null,
+    "eCarteleraUrl": null,
+    "descriptors": null
+   },
+   {
+    "uri": "https://www.rtve.es/api/programas/1031448",
+    "htmlUrl": "https://www.rtve.es/play/videos/memes-dramas/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/pr/1031448/",
+    "id": "1031448",
+    "ctvId": null,
+    "oldCtvId": null,
+    "uid": "SHO_MEMENT2",
+    "name": "Memes & Dramas",
+    "permalink": "memes-dramas",
+    "language": "es",
+    "languageOriginal": null,
+    "longTitle": "Memes & Dramas",
+    "shortTitle": "Memes & Dramas",
+    "description": "Marina Rivers y Rubén Avilés capitanean MEMES & DRAMAS, el nuevo videopodcast de ENPLAY donde cuatro amigos se reúnen cada semana para hablar sin filtros, tabúes ni vergüenza de sus experiencias, anécdotas, pensamientos y, sobre todo, de sus dramas más absolutos.",
+    "audioDescription": false,
+    "longDescription": "<p>Un formato coral, gamberro y directo en el que el humor y el entretenimiento toman el control. Cada semana, colaboradores famosos irrumpir&aacute;n en la mesa para aportar su propio lore y sumergirse en los temas que nos obsesionan, nos dividen y nos hacen re&iacute;r. A trav&eacute;s de seccione",
+    "contact": null,
+    "emission": "Jueves a las 16.00 horas en PLAY.",
+    "publicationDate": "21-10-2026 00:00:00",
+    "expirationDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "orden": 2147483647,
+    "imageSEO": "https://img.rtve.es/p/memes-dramas_1031448.png",
+    "logo": "https://img.rtve.es/imagenes/memes-dramas/01792597709062.png",
+    "logo2": "https://img.rtve.es/imagenes/memes-dramas/01792597716224.png",
+    "thumbnail": "https://img.rtve.es/p/1031448?imgProgApi=imgPortada&w=400",
+    "imgBackground": "https://img.rtve.es/imagenes/memes-dramas/01792597733155.jpg",
+    "imgBackground2": "https://img.rtve.es/imagenes/memes-dramas/01792597741252.jpg",
+    "imgPoster": "https://img.rtve.es/imagenes/memes-dramas/01792597749472.jpg",
+    "imgPoster2": "https://img.rtve.es/imagenes/memes-dramas/01792597755332.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/memes-dramas/01792597763805.jpg",
+    "imgPortada2": "https://img.rtve.es/imagenes/memes-dramas/01792597769234.jpg",
+    "imgCol": "https://img.rtve.es/imagenes/memes-dramas/01792597774971.jpg",
+    "imgCol2": "https://img.rtve.es/imagenes/memes-dramas/01792597781446.jpg",
+    "imgCol3": "https://img.rtve.es/imagenes/memes-dramas/01792597786926.jpg",
+    "imgBanner": "https://img.rtve.es/imagenes/memes-dramas/01792597795680.jpg",
+    "imgBanner2": "https://img.rtve.es/imagenes/memes-dramas/01792597802288.jpg",
+    "imgPinta": "",
+    "imagePodcast": "",
+    "outOfEmission": false,
+    "channel": {
+     "uri": "https://www.rtve.es/api/cadenas/135530",
+     "htmlUrl": "https://www.rtve.es/alacarta/undefined/rtve-play/",
+     "htmlShortUrl": "/alacarta/undefined/rtve-play/",
+     "id": "135530",
+     "medioRef": "https://www.rtve.es/api/medios/144790",
+     "uid": "CAD_PLAY",
+     "title": "RTVE Play",
+     "permalink": "rtve-play"
+    },
+    "fanBoxID": null,
+    "ageRangeUid": "IF_REDAD5",
+    "ageRange": null,
+    "ageRangeId": 73570,
+    "recommendAgesForChilds": [],
+    "seccionesRef": "https://www.rtve.es/api/programas/1031448/secciones",
+    "temporadasRef": "https://www.rtve.es/api/programas/1031448/temporadas",
+    "temporadaShortTitle": null,
+    "temporada": null,
+    "agrupadoresRef": "https://www.rtve.es/api/programas/1031448/agrupadores",
+    "videosRef": "https://www.rtve.es/api/programas/1031448/videos",
+    "audiosRef": "https://www.rtve.es/api/programas/1031448/audios",
+    "multimediasRef": "https://www.rtve.es/api/programas/1031448/multimedias",
+    "relacionadosRef": "https://www.rtve.es/api/programas/1031448/relacionados",
+    "otherChannelsRef": "https://www.rtve.es/api/programas/1031448/otras-cadenas",
+    "childrenInfoRef": "https://www.rtve.es/api/programas/1031448/info-infantil",
+    "filtro": null,
+    "webRtve": null,
+    "webOficial": "/play/videos/memes-dramas/",
+    "promoText": null,
+    "promoDesc": null,
+    "promoTextPubDate": null,
+    "promoTextScheduled": null,
+    "relatedByLangRef": "https://www.rtve.es/api/programas/1031448/relacionados/relacionados-por-idioma",
+    "modificationDate": "21-10-2026 17:51:33",
+    "publicationDateTimestamp": 1792533600000,
+    "contentType": "programa",
+    "sgce": "P799PDS00061",
+    "sgce2": null,
+    "sgceIds": "P799PDS00061",
+    "kantar": null,
+    "generos": [
+     {
+      "generoInf": "Moda, famosos y tendencias",
+      "generoInfUid": "GE_MOFAT",
+      "generoId": "136615"
+     },
+     {
+      "generoInf": "Humor",
+      "generoInfUid": "GEN_HUMOR",
+      "generoId": "136634"
+     }
+    ],
+    "seasons": null,
+    "numSeasons": 0,
+    "productionDate": "01-01-2026 00:00:00",
+    "rrss": null,
+    "rrssApps": [],
+    "mainTopic": "Televisión/Programas de TVE/Entretenimiento/Memes & Dramas",
+    "mainTopicUid": "TETVE-TEPROGRA-TEPENTRET-SHOMEMENT2",
+    "title": "Memes & Dramas",
+    "disabledAlacarta": false,
+    "programType": "Videopodcast",
+    "programTypeId": 1001560,
+    "isComplete": false,
+    "inAZList": true,
+    "director": "Daniel Sama",
+    "directorIds": [
+     {
+      "id": 1007680,
+      "name": "Daniel Sama",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Eugenio Saavedra | Raúl Asensio | Diego Díaz Cano | Rocío López Martínez",
+    "producedByIds": [
+     {
+      "id": 1009636,
+      "name": "Eugenio Saavedra",
+      "htmlUrl": null
+     },
+     {
+      "id": 1024155,
+      "name": "Raúl Asensio",
+      "htmlUrl": null
+     },
+     {
+      "id": 1008330,
+      "name": "Diego Díaz Cano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1029483,
+      "name": "Rocío López Martínez",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Marina Rivers | Rubén Avilés",
+    "showManIds": [
+     {
+      "id": 1019410,
+      "name": "Marina Rivers",
+      "htmlUrl": null
+     },
+     {
+      "id": 1029329,
+      "name": "Rubén Avilés",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Mercedes Jaramillo | Casandra Caparrós Bernat | Adriana de los Santos | Irene Urbano | Pedro Zambrano",
+    "technicalTeamIds": [
+     {
+      "id": 1003621,
+      "name": "Mercedes Jaramillo",
+      "htmlUrl": null
+     },
+     {
+      "id": 1006276,
+      "name": "Casandra Caparrós Bernat",
+      "htmlUrl": null
+     },
+     {
+      "id": 1001898,
+      "name": "Adriana de los Santos",
+      "htmlUrl": null
+     },
+     {
+      "id": 1029379,
+      "name": "Irene Urbano",
+      "htmlUrl": null
+     },
+     {
+      "id": 1029628,
+      "name": "Pedro Zambrano",
+      "htmlUrl": null
+     }
+    ],
+    "idWiki": null,
+    "idImdb": null,
+    "showFragments": false,
+    "notDownloadable": false,
+    "paidCountries": null,
+    "escort": {
+     "intention": "Intención / Entretenimiento / Mero Entretenimiento",
+     "format": "Formato / Estructurado - No ficción / Talk show: programa de entrevistas basado en la conversación",
+     "content": "Contenido / No ficción - información / Interés humano / Sociedad - espectáculo - cotilleos"
+    },
+    "formulaTvUrl": null,
+    "eCarteleraUrl": null,
+    "descriptors": null
+   }
+  ],
+  "number": 1,
+  "size": 20,
+  "offset": 0,
+  "total": 4638,
+  "totalPages": 232,
+  "numElements": 20
+ }
+}

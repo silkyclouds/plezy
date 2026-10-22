@@ -1,0 +1,504 @@
+{
+ "page": {
+  "items": [
+   {
+    "ageRange": "No recomendable para menores de 12 años",
+    "ageRangeUid": "IF_REDAD5",
+    "agrupadoresRef": "https://www.rtve.es/api/programas/1573/agrupadores",
+    "audiosRef": "https://www.rtve.es/api/programas/1573/audios",
+    "canonicalUrl": null,
+    "casting": "Ana Duato | Carmen Climent | Imanol Arias | Irene Visedo | María Galiana | Pablo Rivero | Paloma Bloyd",
+    "castingIds": [
+     {
+      "htmlUrl": null,
+      "id": 1003227,
+      "name": "Ana Duato"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1006105,
+      "name": "Carmen Climent"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1012294,
+      "name": "Imanol Arias"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1012461,
+      "name": "Irene Visedo"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1019055,
+      "name": "María Galiana"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1022478,
+      "name": "Pablo Rivero"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1022607,
+      "name": "Paloma Bloyd"
+     }
+    ],
+    "channel": {
+     "permalink": "la1",
+     "title": "La 1"
+    },
+    "characters": null,
+    "childrenInfoRef": "https://www.rtve.es/api/programas/1573/info-infantil",
+    "contact": null,
+    "contentType": "programa",
+    "country": "ES",
+    "ctvId": 101,
+    "description": "A través de la vida de la familia Alcántara, 'Cuéntame' refleja algunos de los acontecimientos más destacados de nuestra historia reciente",
+    "director": "Agustín Crespi | Antonio Cano | Joaquín Oristrell | Óscar Aibar",
+    "directorIds": [
+     {
+      "htmlUrl": null,
+      "id": 1001964,
+      "name": "Agustín Crespi"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1004136,
+      "name": "Antonio Cano"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1014156,
+      "name": "Joaquín Oristrell"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1022281,
+      "name": "Óscar Aibar"
+     }
+    ],
+    "disabledAlacarta": false,
+    "eCarteleraUrl": "https://www.ecartelera.com/series/cuentame-como-paso/",
+    "emission": null,
+    "escort": {
+     "content": "Contenido / Ficción - drama / Otro drama",
+     "format": "Formato / Representación - Actuación - Ficción / Ficción - Representación",
+     "intention": "Intención / Entretenimiento / Mero Entretenimiento"
+    },
+    "expirationDate": null,
+    "fanBoxID": null,
+    "filtro": null,
+    "formulaTvUrl": "https://www.formulatv.com/series/cuentame-como-paso/",
+    "generos": [
+     {
+      "generoInf": "Drama",
+      "generoInfUid": "GE_DRAMA",
+      "generoId": "96131"
+     }
+    ],
+    "htmlShortUrl": "https://www.rtve.es/pr/1573/",
+    "htmlUrl": "https://www.rtve.es/play/videos/cuentame-como-paso/",
+    "id": "1573",
+    "idImdb": "tt0302447",
+    "idWiki": "https://es.wikipedia.org/wiki/Cuéntame_cómo_pasó",
+    "imagePodcast": "",
+    "imageSEO": "https://img.rtve.es/p/cuentame-como-paso_1573.png",
+    "imgBackground": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514566.jpg",
+    "imgBackground2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514458.jpg",
+    "imgBanner": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622515052.jpg",
+    "imgBanner2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514760.jpg",
+    "imgCol": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514850.jpg",
+    "imgCol2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514178.jpg",
+    "imgCol3": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622515132.jpg",
+    "imgPinta": "",
+    "imgPortada": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514639.jpg",
+    "imgPortada2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514279.jpg",
+    "imgPoster": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622515207.jpg",
+    "imgPoster2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514972.jpg",
+    "inAZList": true,
+    "isComplete": false,
+    "kantar": "1402",
+    "language": "es",
+    "languageOriginal": null,
+    "logo": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514438.png",
+    "logo2": "https://img.rtve.es/imagenes/cuentame-como-paso/1697622514096.png",
+    "longDescription": "<p>Como tantos espa&ntilde;oles, los Alc&aacute;ntara emigraron a Madrid desde su pueblo natal en la Mancha, Sagrillas, en los a&ntilde;os 50. A trav&eacute;s de la vida de la familia Alc&aacute;ntara, &lsquo;Cu&eacute;ntame&rsquo; refleja algunos de los acontecimientos m&aacute;s destacados de nues",
+    "longTitle": "Cuéntame cómo pasó",
+    "mainTopic": "Televisión/Programas de TVE/Series/Cuéntame cómo pasó",
+    "mainTopicUid": "TETVE-TEPROGRA-TEPSERIES-TESCUENT",
+    "modificationDate": "13-09-2026 08:00:25",
+    "multimediasRef": "https://www.rtve.es/api/programas/1573/multimedias",
+    "name": "Cuéntame cómo pasó",
+    "noFragments": null,
+    "notDownloadable": true,
+    "numSeasons": 23,
+    "oldCtvId": null,
+    "orden": 1,
+    "otherChannelsRef": "https://www.rtve.es/api/programas/1573/otras-cadenas",
+    "outOfEmission": true,
+    "paidContent": false,
+    "paidCountries": [
+     "AL",
+     "DE",
+     "AD",
+     "AR",
+     "AM",
+     "AT",
+     "AZ",
+     "BE",
+     "BZ",
+     "BY",
+     "BO",
+     "BA",
+     "BR",
+     "BG",
+     "CA",
+     "CL",
+     "CY",
+     "VA",
+     "CO",
+     "CR",
+     "HR",
+     "CU",
+     "DK",
+     "EC",
+     "SV",
+     "SK",
+     "SI",
+     "US",
+     "EE",
+     "FI",
+     "FR",
+     "GB",
+     "GR",
+     "GT",
+     "HT",
+     "HN",
+     "HU",
+     "IE",
+     "IS",
+     "IT",
+     "KZ",
+     "XK",
+     "LV",
+     "LI",
+     "LT",
+     "LU",
+     "MK",
+     "MT",
+     "MX",
+     "MD",
+     "MC",
+     "ME",
+     "NI",
+     "NO",
+     "NL",
+     "PA",
+     "PY",
+     "PE",
+     "PL",
+     "PT",
+     "PR",
+     "CZ",
+     "DO",
+     "RO",
+     "RU",
+     "SM",
+     "RS",
+     "SE",
+     "CH",
+     "TR",
+     "UA",
+     "UY",
+     "VE",
+     "AU",
+     "KR",
+     "PH",
+     "HK",
+     "IN",
+     "JP"
+    ],
+    "permalink": "cuentame-como-paso",
+    "producedBy": "Borja Gálvez | Javier Cuadrado | Miguel Ángel Bernardeau",
+    "producedByIds": [
+     {
+      "htmlUrl": null,
+      "id": 1005361,
+      "name": "Borja Gálvez"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1013294,
+      "name": "Javier Cuadrado"
+     },
+     {
+      "htmlUrl": null,
+      "id": 1020657,
+      "name": "Miguel Ángel Bernardeau"
+     }
+    ],
+    "productionDate": "01-01-2001 00:00:00",
+    "programType": "Series Prime Time",
+    "programTypeId": 136519,
+    "promoDesc": "Recuperamos las 23 temporadas de una serie mítica que ha hecho historia de la televisión. A través de la vida de la familia Alcántara, 'Cuéntame' refleja algunos de los acontecimientos más destacados de nuestra historia reciente.",
+    "promoText": "25 ANIVERSARIO",
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "publicationDate": "07-11-2011 11:35:00",
+    "publicationDateTimestamp": 1320662100000,
+    "recommendAgesForChilds": [],
+    "relacionadosRef": "https://www.rtve.es/api/programas/1573/relacionados",
+    "relatedByLangRef": "https://www.rtve.es/api/programas/1573/relacionados/relacionados-por-idioma",
+    "rrss": "T:cuentametve#F:cuentamecomopaso#I:cuentametve",
+    "rrssApps": [
+     {
+      "facebook": "https://www.facebook.com/cuentamecomopaso/",
+      "instagram": "https://www.instagram.com/cuentametve/",
+      "tikTok": null,
+      "twitter": "https://x.com/cuentametve/",
+      "youtube": null
+     }
+    ],
+    "seasons": [
+     {
+      "id": 40034,
+      "longTitle": "Temporada 1",
+      "numEpisodes": 33,
+      "orden": 1,
+      "shorttitle": "T1"
+     },
+     {
+      "id": 40035,
+      "longTitle": "Temporada 10",
+      "numEpisodes": 19,
+      "orden": 10,
+      "shorttitle": "T10"
+     },
+     {
+      "id": 40025,
+      "longTitle": "Temporada 11",
+      "numEpisodes": 17,
+      "orden": 11,
+      "shorttitle": "T11"
+     },
+     {
+      "id": 40026,
+      "longTitle": "Temporada 12",
+      "numEpisodes": 18,
+      "orden": 12,
+      "shorttitle": "T12"
+     },
+     {
+      "id": 49870,
+      "longTitle": "Temporada 13",
+      "numEpisodes": 18,
+      "orden": 13,
+      "shorttitle": "T13"
+     },
+     {
+      "id": 60652,
+      "longTitle": "Temporada 14",
+      "numEpisodes": 20,
+      "orden": 14,
+      "shorttitle": "T14"
+     },
+     {
+      "id": 72750,
+      "longTitle": "Temporada 15",
+      "numEpisodes": 19,
+      "orden": 15,
+      "shorttitle": "T15"
+     },
+     {
+      "id": 84350,
+      "longTitle": "Temporada 16",
+      "numEpisodes": 19,
+      "orden": 16,
+      "shorttitle": "T16"
+     },
+     {
+      "id": 95090,
+      "longTitle": "Temporada 17",
+      "numEpisodes": 19,
+      "orden": 17,
+      "shorttitle": "T17"
+     },
+     {
+      "id": 105190,
+      "longTitle": "Temporada 18",
+      "numEpisodes": 19,
+      "orden": 18,
+      "shorttitle": "T18"
+     },
+     {
+      "id": 114570,
+      "longTitle": "Temporada 19",
+      "numEpisodes": 19,
+      "orden": 19,
+      "shorttitle": "T19"
+     },
+     {
+      "id": 40017,
+      "longTitle": "Temporada 2",
+      "numEpisodes": 14,
+      "orden": 2,
+      "shorttitle": "T2"
+     },
+     {
+      "id": 124530,
+      "longTitle": "Temporada 20",
+      "numEpisodes": 22,
+      "orden": 20,
+      "shorttitle": "T20"
+     },
+     {
+      "id": 134030,
+      "longTitle": "Temporada 21",
+      "numEpisodes": 20,
+      "orden": 21,
+      "shorttitle": "T21"
+     },
+     {
+      "id": 146010,
+      "longTitle": "Temporada 22",
+      "numEpisodes": 20,
+      "orden": 22,
+      "shorttitle": "T22"
+     },
+     {
+      "id": 176530,
+      "longTitle": "Temporada 23",
+      "numEpisodes": 8,
+      "orden": 23,
+      "shorttitle": "T23"
+     },
+     {
+      "id": 40018,
+      "longTitle": "Temporada 3",
+      "numEpisodes": 13,
+      "orden": 3,
+      "shorttitle": "T3"
+     },
+     {
+      "id": 40019,
+      "longTitle": "Temporada 4",
+      "numEpisodes": 14,
+      "orden": 4,
+      "shorttitle": "T4"
+     },
+     {
+      "id": 40020,
+      "longTitle": "Temporada 5",
+      "numEpisodes": 13,
+      "orden": 5,
+      "shorttitle": "T5"
+     },
+     {
+      "id": 40021,
+      "longTitle": "Temporada 6",
+      "numEpisodes": 14,
+      "orden": 6,
+      "shorttitle": "T6"
+     },
+     {
+      "id": 40022,
+      "longTitle": "Temporada 7",
+      "numEpisodes": 17,
+      "orden": 7,
+      "shorttitle": "T7"
+     },
+     {
+      "id": 40023,
+      "longTitle": "Temporada 8",
+      "numEpisodes": 21,
+      "orden": 8,
+      "shorttitle": "T8"
+     },
+     {
+      "id": 40024,
+      "longTitle": "Temporada 9",
+      "numEpisodes": 22,
+      "orden": 9,
+      "shorttitle": "T9"
+     }
+    ],
+    "seccionesRef": "https://www.rtve.es/api/programas/1573/secciones",
+    "sgce": "P111PGS00147",
+    "sgce2": null,
+    "shortTitle": "Cuéntame cómo pasó",
+    "showFragments": false,
+    "showMan": null,
+    "showManIds": null,
+    "technicalTeam": null,
+    "technicalTeamIds": null,
+    "temporada": null,
+    "temporadaShortTitle": null,
+    "temporadasRef": "https://www.rtve.es/api/programas/1573/temporadas",
+    "thumbnail": "https://img.rtve.es/p/1573?imgProgApi=imgPortada&w=400",
+    "title": "Cuéntame cómo pasó",
+    "uid": "TE_SCUENT",
+    "uri": "https://www.rtve.es/api/programas/1573",
+    "videosRef": "https://www.rtve.es/api/programas/1573/videos",
+    "webOficial": "/play/videos/cuentame-como-paso/",
+    "webRtve": null,
+    "anteTitle": null,
+    "anteTitleUrl": null,
+    "shortDescription": null,
+    "mainCategoryRef": null,
+    "topicsName": null,
+    "dateOfEmission": null,
+    "breadCrumbRef": null,
+    "previews": null,
+    "consumption": null,
+    "type": null,
+    "subType": null,
+    "assetType": null,
+    "alt": null,
+    "foot": null,
+    "otherTopicsRefs": null,
+    "qualities": null,
+    "qualitiesRef": null,
+    "duration": null,
+    "programInfo": null,
+    "dg": null,
+    "sip": null,
+    "temporadaOrden": null,
+    "cuePointsRef": null,
+    "configPlayerRef": null,
+    "transcriptionRef": null,
+    "temporadaId": null,
+    "programRef": null,
+    "relManualesRef": null,
+    "publicidadRef": null,
+    "comentariosRef": null,
+    "sign": null,
+    "estadisticasRef": null,
+    "contentInitDate": null,
+    "contentEndDate": null,
+    "noRegistrationRequired": null,
+    "promoTitle": null,
+    "episode": null,
+    "subtitleRef": null,
+    "aspectRatio": null,
+    "imdbRate": null,
+    "allowedInCountry": null,
+    "geolocalizado": null,
+    "av1Codification": null,
+    "hasCuePoints": null,
+    "hasDRM": null,
+    "requireLogged": null,
+    "context": null
+   }
+  ],
+  "number": 1,
+  "size": 3,
+  "offset": 0,
+  "total": 1,
+  "totalPages": 1,
+  "numElements": 1
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/programas/175650",
+    "htmlUrl": "https://www.rtve.es/play/videos/mananeros-360/",
+    "relatedByLangRefUrl": null,
+    "htmlShortUrl": "https://www.rtve.es/pr/175650/",
+    "id": "175650",
+    "ctvId": 81150,
+    "oldCtvId": null,
+    "uid": "TE_SMANANE",
+    "name": "Mañaneros 360",
+    "permalink": "mananeros-360",
+    "language": "es",
+    "languageOriginal": null,
+    "longTitle": "Mañaneros 360",
+    "shortTitle": "Mañaneros 360",
+    "description": "Magazine centrado en los temas de actualidad y entretenimiento, sin dejar de lado la actualidad política con expertos y analistas.",
+    "audioDescription": false,
+    "longDescription": "<p><p style=\"text-align:justify;\">Un amplio equipo de profesionales desplegados por toda Espa&ntilde;a y el mundo conectan en directo desde todos los puntos donde se produzcan noticias de inter&eacute;s. Con temas propios de investigaci&oacute;n y los testimonios directos de los protagonistas de la ",
+    "contact": null,
+    "emission": "Lunes a viernes de 10:35 a 15:00 horas",
+    "publicationDate": "04-09-2023 09:00:00",
+    "expirationDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "orden": 2147483647,
+    "imageSEO": "https://img.rtve.es/p/mananeros-360_175650.png",
+    "logo": "https://img.rtve.es/imagenes/mananeros-360/01786344696271.png",
+    "logo2": "https://img.rtve.es/imagenes/mananeros-360/01786344710909.png",
+    "thumbnail": "https://img.rtve.es/p/175650?imgProgApi=imgPortada&w=400",
+    "imgBackground": "https://img.rtve.es/imagenes/mananeros-360/01787317568512.jpg",
+    "imgBackground2": "https://img.rtve.es/imagenes/mananeros-360/01787317577240.jpg",
+    "imgPoster": "https://img.rtve.es/imagenes/mananeros-360/01787317585439.jpg",
+    "imgPoster2": "https://img.rtve.es/imagenes/mananeros-360/01787317593225.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/mananeros-360/01787317601398.jpg",
+    "imgPortada2": "https://img.rtve.es/imagenes/mananeros-360/01787317611192.jpg",
+    "imgCol": "https://img.rtve.es/imagenes/mananeros-360/01787317622050.jpg",
+    "imgCol2": "https://img.rtve.es/imagenes/mananeros-360/01787317630499.jpg",
+    "imgCol3": "https://img.rtve.es/imagenes/mananeros-360/01787317639312.jpg",
+    "imgBanner": "https://img.rtve.es/imagenes/mananeros-360/01787317647727.jpg",
+    "imgBanner2": "https://img.rtve.es/imagenes/mananeros-360/01787317656651.jpg",
+    "imgPinta": "",
+    "imagePodcast": "",
+    "outOfEmission": false,
+    "channel": {
+     "uri": "https://www.rtve.es/api/cadenas/748",
+     "htmlUrl": "https://www.rtve.es/alacarta/tve/la1/",
+     "htmlShortUrl": "/alacarta/tve/la1/",
+     "id": "748",
+     "medioRef": "https://www.rtve.es/api/medios/850",
+     "uid": "CTV_LA1",
+     "title": "La 1",
+     "permalink": "la1"
+    },
+    "fanBoxID": null,
+    "ageRangeUid": "IF_REDAD6",
+    "ageRange": "No recomendable para menores de 16 años",
+    "ageRangeId": 80251,
+    "recommendAgesForChilds": [],
+    "seccionesRef": "https://www.rtve.es/api/programas/175650/secciones",
+    "temporadasRef": "https://www.rtve.es/api/programas/175650/temporadas",
+    "temporadaShortTitle": null,
+    "temporada": null,
+    "agrupadoresRef": "https://www.rtve.es/api/programas/175650/agrupadores",
+    "videosRef": "https://www.rtve.es/api/programas/175650/videos",
+    "audiosRef": "https://www.rtve.es/api/programas/175650/audios",
+    "multimediasRef": "https://www.rtve.es/api/programas/175650/multimedias",
+    "relacionadosRef": "https://www.rtve.es/api/programas/175650/relacionados",
+    "otherChannelsRef": "https://www.rtve.es/api/programas/175650/otras-cadenas",
+    "childrenInfoRef": "https://www.rtve.es/api/programas/175650/info-infantil",
+    "filtro": null,
+    "webRtve": null,
+    "webOficial": "/play/videos/mananeros-360/",
+    "promoText": null,
+    "promoDesc": null,
+    "promoTextPubDate": null,
+    "promoTextScheduled": null,
+    "relatedByLangRef": "https://www.rtve.es/api/programas/175650/relacionados/relacionados-por-idioma",
+    "modificationDate": "21-10-2026 11:22:10",
+    "publicationDateTimestamp": 1693810800000,
+    "contentType": "programa",
+    "sgce": "P611PDS00223",
+    "sgce2": null,
+    "sgceIds": "P611PDS00223",
+    "kantar": "34062",
+    "generos": [
+     {
+      "generoInf": "Información y actualidad",
+      "generoInfUid": "GE_INFOR",
+      "generoId": "136528"
+     }
+    ],
+    "seasons": [
+     {
+      "shorttitle": "T1",
+      "longTitle": "Temporada 1",
+      "id": 1000630,
+      "orden": 1,
+      "numEpisodes": 226
+     },
+     {
+      "shorttitle": "T2",
+      "longTitle": "Temporada 2",
+      "id": 1000631,
+      "orden": 2,
+      "numEpisodes": 500
+     },
+     {
+      "shorttitle": "T3",
+      "longTitle": "Temporada 3",
+      "id": 1030976,
+      "orden": 3,
+      "numEpisodes": 40
+     }
+    ],
+    "numSeasons": 3,
+    "productionDate": "01-01-2023 00:00:00",
+    "rrss": "T:MananerosTVE",
+    "rrssApps": [
+     {
+      "Twitter": "https://x.com/MananerosTVE/",
+      "Facebook": null,
+      "Instagram": null,
+      "Youtube": null,
+      "TikTok": null
+     }
+    ],
+    "mainTopic": "Televisión/Programas de TVE/Magacín/Mañaneros 360",
+    "mainTopicUid": "TETVE-TEPROGRA-TEPMAGACI-TESMANANE",
+    "title": "Mañaneros 360",
+    "disabledAlacarta": false,
+    "programType": "Magacines diarios",
+    "programTypeId": 132531,
+    "isComplete": false,
+    "inAZList": true,
+    "director": "Dani Fernández | Joseba Gastesi | Pablo del Pozo",
+    "directorIds": [
+     {
+      "id": 1007515,
+      "name": "Dani Fernández",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015342,
+      "name": "Joseba Gastesi",
+      "htmlUrl": null
+     },
+     {
+      "id": 1022417,
+      "name": "Pablo del Pozo",
+      "htmlUrl": null
+     }
+    ],
+    "producedBy": "Belén de la Cruz | Noemí Pérez",
+    "producedByIds": [
+     {
+      "id": 1004935,
+      "name": "Belén de la Cruz",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021965,
+      "name": "Noemí Pérez",
+      "htmlUrl": null
+     }
+    ],
+    "showMan": "Jesús Cintora | Adela González | Ane Ibarzábal | Miriam Moreno",
+    "showManIds": [
+     {
+      "id": 1013808,
+      "name": "Jesús Cintora",
+      "htmlUrl": null
+     },
+     {
+      "id": 1001807,
+      "name": "Adela González",
+      "htmlUrl": null
+     },
+     {
+      "id": 1030922,
+      "name": "Ane Ibarzábal",
+      "htmlUrl": null
+     },
+     {
+      "id": 1021085,
+      "name": "Miriam Moreno",
+      "htmlUrl": null
+     }
+    ],
+    "casting": null,
+    "castingIds": null,
+    "technicalTeam": "Alberto Fructuoso | Juan Manuel López-Pastor",
+    "technicalTeamIds": [
+     {
+      "id": 1002282,
+      "name": "Alberto Fructuoso",
+      "htmlUrl": null
+     },
+     {
+      "id": 1015765,
+      "name": "Juan Manuel López-Pastor",
+      "htmlUrl": null
+     }
+    ],
+    "idWiki": "https://es.wikipedia.org/wiki/Mañaneros_360",
+    "idImdb": null,
+    "showFragments": true,
+    "notDownloadable": false,
+    "paidCountries": null,
+    "escort": {
+     "intention": "Intención / Entretenimiento / Entretenimiento Informativo",
+     "format": "Formato / Estructurado - No ficción / Magacín",
+     "content": "Contenido / No ficción - información / Noticias y temas de actualidad / Temas actuales. Actualidad"
+    },
+    "formulaTvUrl": null,
+    "eCarteleraUrl": null,
+    "descriptors": null,
+    "paidContent": false,
+    "country": "ES"
+   }
+  ],
+  "number": 1,
+  "size": 1,
+  "offset": 0,
+  "total": 1,
+  "totalPages": 1,
+  "numElements": 1
+ }
+}

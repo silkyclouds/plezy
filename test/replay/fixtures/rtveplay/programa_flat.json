@@ -1,0 +1,80 @@
+{
+ "page": {
+  "items": [
+   {
+    "uri": "https://www.rtve.es/api/programas/117610",
+    "htmlUrl": "https://www.rtve.es/play/videos/cifras-y-letras/",
+    "id": "117610",
+    "name": "Cifras y letras",
+    "permalink": "cifras-y-letras",
+    "language": "es",
+    "longTitle": "Cifras y letras",
+    "shortTitle": "Cifras y letras",
+    "description": "Dos concursantes han de mostrar su rapidez mental con las cifras y su creatividad con las letras para formar palabras.",
+    "audioDescription": true,
+    "longDescription": "<p><p style=\"text-align:justify;\">&quot;Cifras y letras&quot; regresa a TVE como la nueva apuesta diaria de La 2. El concurso, referente internacional, llega con una renovada y ambiciosa apuesta en la que se combinan las pruebas cl&aacute;sicas con nuevos juegos y una Gran Final donde, en cada programa, los concursantes luchar&aacute;n por llevarse el bote acumulado. </p></p><p><p style=\"text-align:justify;\">Aitor Albizua toma las riendas del concurso y, en un plat&oacute; innovador y original en el que se ha apostado por las nuevas tecnolog&iacute;as, contar&aacute; con la colaboraci&oacute;n de Elena Herraiz y David Calle, expertos en letras y cifras, respectivamente.</p></p>",
+    "publicationDate": "22-05-2018 13:57:00",
+    "expirationDate": null,
+    "pubState": {
+     "code": "ENPUB",
+     "description": "En publicación"
+    },
+    "orden": 2147483647,
+    "logo": "https://img.rtve.es/imagenes/cifras-y-letras/01760337415144.png",
+    "thumbnail": "https://img.rtve.es/p/117610?imgProgApi=imgPortada&w=400",
+    "imgPoster": "https://img.rtve.es/imagenes/cifras-y-letras/01760337469244.jpg",
+    "imgPortada": "https://img.rtve.es/imagenes/cifras-y-letras/01760337552996.jpg",
+    "channel": {
+     "uri": "https://www.rtve.es/api/cadenas/310",
+     "htmlUrl": "https://www.rtve.es/alacarta/tve/la2/",
+     "htmlShortUrl": "/alacarta/tve/la2/",
+     "id": "310",
+     "medioRef": "https://www.rtve.es/api/medios/850",
+     "uid": "CTV_LA2",
+     "title": "La 2",
+     "permalink": "la2"
+    },
+    "ageRangeUid": "IF_REDAD0",
+    "ageRange": "Recomendable para todos los públicos",
+    "ageRangeId": 51590,
+    "temporadaShortTitle": null,
+    "temporada": null,
+    "modificationDate": "21-10-2026 23:25:47",
+    "publicationDateTimestamp": 1526990220000,
+    "contentType": "programa",
+    "generos": [
+     {
+      "generoInf": "Cultura",
+      "generoInfUid": "GEN_CULTU",
+      "generoId": "136630"
+     }
+    ],
+    "seasons": null,
+    "numSeasons": 0,
+    "productionDate": "01-01-2024 00:00:00",
+    "mainTopic": "Televisión/Programas de TVE/Concursos/Cifras y letras",
+    "mainTopicUid": "TETVE-TEPROGRA-TEPCONCUR-TESCFX7YY",
+    "title": "Cifras y letras",
+    "programType": "Concursos",
+    "programTypeId": 132871,
+    "isComplete": false,
+    "inAZList": true,
+    "director": "Alfredo Alcelay",
+    "producedBy": null,
+    "showMan": "Aitor Albizua | David Calle | Elena Herraiz",
+    "casting": null,
+    "technicalTeam": "Ainhoa Martínez | Aitor Ormaetxea | Emese Sobrino | Jesús Cano | Laura Figueredo | Mikel Ciganda | Nacho Benítez | Nerea Antes | Pablo Corbacho | Roxana Martínez",
+    "showFragments": false,
+    "paidCountries": null,
+    "paidContent": false,
+    "country": "ES"
+   }
+  ],
+  "number": 1,
+  "size": 1,
+  "offset": 0,
+  "total": 1,
+  "totalPages": 1,
+  "numElements": 1
+ }
+}
