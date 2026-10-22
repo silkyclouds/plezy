@@ -5,7 +5,7 @@ import 'package:plezy/replay/model/replay_title.dart';
 import 'package:plezy/replay/providers/3cat/threecat_geo.dart';
 import 'package:plezy/replay/providers/3cat/threecat_playback.dart';
 
-import '3cat_fake_site.dart';
+import 'threecat_fake_site.dart';
 
 ReplayRef _ref(String id) => ReplayRef('3cat', id);
 

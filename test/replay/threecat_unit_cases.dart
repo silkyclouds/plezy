@@ -8,7 +8,7 @@ import 'package:plezy/replay/providers/3cat/threecat_images.dart';
 import 'package:plezy/replay/providers/3cat/threecat_mapper.dart';
 import 'package:plezy/replay/providers/3cat/threecat_numbering.dart';
 
-import '3cat_fake_site.dart';
+import 'threecat_fake_site.dart';
 
 final _now = DateTime.utc(2026, 10, 22, 12);
 

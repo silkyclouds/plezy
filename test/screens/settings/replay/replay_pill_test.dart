@@ -6,7 +6,9 @@ import 'package:plezy/screens/settings/replay/replay_pill.dart';
 import 'package:plezy/theme/mono_theme.dart';
 
 Color? _fill(WidgetTester tester) {
-  final box = tester.widget<Container>(find.descendant(of: find.byType(ReplayPill), matching: find.byType(Container)));
+  final box = tester.widget<Container>(
+    find.descendant(of: find.byType(ReplayPill).first, matching: find.byType(Container)).first,
+  );
   return (box.decoration as BoxDecoration).color;
 }
 

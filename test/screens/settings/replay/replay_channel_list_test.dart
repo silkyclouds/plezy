@@ -196,11 +196,11 @@ void main() {
   });
 
   testWidgets('Language groups label a country with several languages', (tester) async {
-    await _pump(tester);
+    await _pump(tester, expanded: 'CH');
 
     expect(find.text('French'), findsOneWidget);
-    expect(find.text('Dutch'), findsOneWidget);
-    expect(find.text('Plays some titles · French, Dutch'), findsOneWidget);
+    expect(find.text('German'), findsOneWidget);
+    expect(find.text('Italian'), findsOneWidget);
   });
 
   testWidgets('A search lists the channels found, drawers open, language groups hidden', (tester) async {

@@ -1,3 +1,5 @@
+import '../../../exceptions/media_server_exceptions.dart' show MediaServerHttpException;
+import '../../../utils/app_logger.dart';
 import '../../model/replay_title.dart';
 import 'rtbf_bff.dart';
 import 'rtbf_mapper.dart';
@@ -32,7 +34,17 @@ class RtbfRails {
     ];
   }
 
+  /// One row that the broadcaster fails to serve must not take the whole page down with it.
   Future<ReplayRail?> _rail(Map<String, dynamic> widget) async {
+    try {
+      return await _railFrom(widget);
+    } on MediaServerHttpException catch (error) {
+      appLogger.w('Auvio row ${widget['id']} could not be loaded', error: error);
+      return null;
+    }
+  }
+
+  Future<ReplayRail?> _railFrom(Map<String, dynamic> widget) async {
     final body = await _bff.find(widget['contentPath'] as String);
     if (body == null) return null;
     final data = body['data'];

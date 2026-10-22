@@ -6,7 +6,7 @@ import 'package:plezy/replay/provider/replay_provider.dart';
 import 'package:plezy/replay/providers/3cat/threecat_provider.dart';
 import 'package:plezy/utils/media_server_http_client.dart';
 
-/// Talks to the real 3Cat API. Run with `PLEZY_LIVE_TESTS=1 flutter test test/replay/3cat_live_test.dart` from a
+/// Talks to the real 3Cat API. Run with `PLEZY_LIVE_TESTS=1 flutter test test/replay/threecat_live_test.dart` from a
 /// country other than Spain: it expects Spain-only titles to be refused.
 void main() {
   final live = Platform.environment['PLEZY_LIVE_TESTS'] == '1';

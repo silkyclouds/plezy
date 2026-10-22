@@ -3,10 +3,10 @@ import 'package:plezy/replay/model/replay_ref.dart';
 import 'package:plezy/replay/model/replay_title.dart';
 import 'package:plezy/replay/provider/replay_provider.dart';
 
-import '3cat_fake_site.dart';
-import '3cat_playback_cases.dart';
-import '3cat_season_cases.dart';
-import '3cat_unit_cases.dart';
+import 'threecat_fake_site.dart';
+import 'threecat_playback_cases.dart';
+import 'threecat_season_cases.dart';
+import 'threecat_unit_cases.dart';
 
 ReplayRef _ref(String id) => ReplayRef('3cat', id);
 

@@ -25,6 +25,15 @@ void main() {
       expect(rails.expand((r) => r.titles).every((t) => t.ref.source == 'auvio'), isTrue);
     });
 
+    test('a row the broadcaster fails to serve is skipped, the others stay', () async {
+      final rails = await rtbfProvider(
+        handler: (request) => request.url.path.endsWith('/widgets/22683') ? rtbfReply({'error': 'x'}, status: 500) : null,
+      ).home();
+
+      expect(rails.map((r) => r.id), contains('18601'));
+      expect(rails.map((r) => r.id), isNot(contains('22683')));
+    });
+
     test('a row with more pages points to its full grid', () async {
       final rails = await rtbfProvider().home();
       expect(rails.firstWhere((r) => r.id == '22683').moreBrowseId, 'widget:22683');
