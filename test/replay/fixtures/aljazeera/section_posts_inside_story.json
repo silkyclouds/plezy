@@ -1,0 +1,142 @@
+{
+ "data": {
+  "articles": [
+   {
+    "id": "5066647",
+    "title": "Can a humanitarian crisis in Gaza be averted?",
+    "excerpt": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
+    "date": "2026-10-20T18:45:23",
+    "link": "/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/fdy1j7",
+    "featuredImage": {
+     "id": "5039216",
+     "sourceUrl": "/wp-content/uploads/2026/10/AFP__20261007__D2DK9KK__v5__HighRes__PalestinianIsraelConflictGazaHunger-1791786136.jpg",
+     "credit": "AFP",
+     "caption": "Despite last year&#039;s &#039;ceasefire&#039;, hunger persists for displaced Palestinians as they wait to receive rations at a charity kitchen in Khan Younis, Gaza on October 6, 2026 [File: Bashar Taleb/AFP]",
+     "alt": "Gaza mothers endure endless lines as famine fears persist",
+     "width": 4773,
+     "height": 3182,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407140246112",
+     "duration": "27:45",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37934",
+      "name": "Inside Story",
+      "slug": "inside-story",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5060158",
+    "title": "How will Europe deal with youth-led protests?",
+    "excerpt": "Demonstrations are spreading across the continent.",
+    "date": "2026-10-18T19:15:21",
+    "link": "/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/iuh4y7",
+    "featuredImage": {
+     "id": "5060167",
+     "sourceUrl": "/wp-content/uploads/2026/10/reuters_6ad51660-1792349793.jpg",
+     "credit": "Reuters",
+     "caption": "A person raises their arm during civil unrest, the day after a national day of demonstrations against the cost of living and rising fuel prices, in Paris, France, October 18, 2026 [Abdul Saboor/Reuters]",
+     "alt": "A person raises their arm during civil unrest, the day after a national day of demonstrations against the cost of living and rising fuel prices, in Paris, France, October 18, 2026. REUTERS/Abdul Saboor TPX IMAGES OF THE DAY",
+     "width": 5923,
+     "height": 4000,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407054830112",
+     "duration": "27:50",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37934",
+      "name": "Inside Story",
+      "slug": "inside-story",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5056378",
+    "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+    "excerpt": "US support at risk as Trump-Zelenskyy relations nosedive.",
+    "date": "2026-10-17T19:03:49",
+    "link": "/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/70y71y",
+    "featuredImage": {
+     "id": "5056386",
+     "sourceUrl": "/wp-content/uploads/2026/10/image-1792261027.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407017664112",
+     "duration": "27:40",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37934",
+      "name": "Inside Story",
+      "slug": "inside-story",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5053611",
+    "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+    "excerpt": "The United States calls for dialogue as regional East Africa tension escalates.",
+    "date": "2026-10-16T19:18:13",
+    "link": "/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/0hly5h",
+    "featuredImage": {
+     "id": "5051020",
+     "sourceUrl": "/wp-content/uploads/2026/10/reuters_6ad11039-1792086073.jpg",
+     "credit": "Reuters",
+     "caption": "",
+     "alt": "Houses damaged by a drone strike during fighting between the Ethiopian National Defense Force (ENDF) and the Tigray People’s Liberation Front (TPLF) forces in Rama town, near the Eritrean border, Ethiopia, October 15, 2026. Picture taken with a phone. Obtained by Reuters",
+     "width": 3794,
+     "height": 2160,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6406969682112",
+     "duration": "28:15",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37934",
+      "name": "Inside Story",
+      "slug": "inside-story",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   }
+  ]
+ }
+}

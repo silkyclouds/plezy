@@ -1,0 +1,108 @@
+{
+ "data": {
+  "articles": [
+   {
+    "id": "5072437",
+    "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+    "excerpt": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+    "date": "2026-10-22T05:00:56",
+    "link": "/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/aruf4w",
+    "featuredImage": {
+     "id": "5072442",
+     "sourceUrl": "/wp-content/uploads/2026/10/sayed-v-rogers-horizontal-thumb-1792645208.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407214258112",
+     "duration": "01:19",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37961",
+      "name": "NewsFeed",
+      "slug": "newsfeed",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5072367",
+    "title": "Australian TV reporter rescues man from sinking car",
+    "excerpt": "Australian TV reporter rescues man from sinking car",
+    "date": "2026-10-22T04:19:33",
+    "link": "/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/i0pgxc",
+    "featuredImage": {
+     "id": "5072374",
+     "sourceUrl": "/wp-content/uploads/2026/10/rescue-man-horizontal-thumb-1792642733.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407214726112",
+     "duration": "00:46",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37961",
+      "name": "NewsFeed",
+      "slug": "newsfeed",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5072251",
+    "title": "Can Trump deport Congresswoman Ilhan Omar?",
+    "excerpt": "Can Trump deport Congresswoman Ilhan Omar?",
+    "date": "2026-10-22T02:34:46",
+    "link": "/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/g5kwar",
+    "featuredImage": {
+     "id": "5072254",
+     "sourceUrl": "/wp-content/uploads/2026/10/with-Title-1792636365.png",
+     "credit": "",
+     "caption": "",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "6407212197112",
+     "duration": "",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "",
+    "programs": [
+     {
+      "id": "37961",
+      "name": "NewsFeed",
+      "slug": "newsfeed",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   }
+  ]
+ }
+}

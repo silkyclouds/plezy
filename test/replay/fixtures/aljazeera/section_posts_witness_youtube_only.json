@@ -1,0 +1,108 @@
+{
+ "data": {
+  "articles": [
+   {
+    "id": "5057563",
+    "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+    "excerpt": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
+    "date": "2026-10-18T10:30:00",
+    "link": "/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/imwi8v",
+    "featuredImage": {
+     "id": "5057571",
+     "sourceUrl": "/wp-content/uploads/2026/10/Witness-Thumbnail-1792308215.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "Gaza Family Reunion - Witness Documentary",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "",
+     "duration": "",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "https://youtu.be/01amZqbN-KU",
+    "programs": [
+     {
+      "id": "37956",
+      "name": "Witness",
+      "slug": "witness",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5036629",
+    "title": "Gaza: Still Reporting",
+    "excerpt": "When Israel orders an evacuation of Gaza City, a journalist documents the displacement while living it with her family.",
+    "date": "2026-10-12T12:00:00",
+    "link": "/video/witness/2026/10/12/gaza-still-reporting",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/szitxk",
+    "featuredImage": {
+     "id": "5036809",
+     "sourceUrl": "/wp-content/uploads/2026/10/YT-Thumbnail-1791720134.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "Gaza: Still Reporting - Witness Documentary",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "",
+     "duration": "",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "https://youtu.be/6p5BQVZpNNM",
+    "programs": [
+     {
+      "id": "37956",
+      "name": "Witness",
+      "slug": "witness",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   },
+   {
+    "id": "5021599",
+    "title": "Shoot the People: Global Activism through Misan Harriman’s Lens",
+    "excerpt": "Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.",
+    "date": "2026-10-08T14:02:10",
+    "link": "/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens",
+    "postType": "episode",
+    "shortUrl": "https://aje.news/lpt3h7",
+    "featuredImage": {
+     "id": "5028380",
+     "sourceUrl": "/wp-content/uploads/2026/10/YT-Thumbnail-1791468098.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "Shoot the People - Witness Documentary",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": {
+     "id": "",
+     "duration": "",
+     "__typename": "Video"
+    },
+    "featuredYoutube": "https://www.youtube.com/watch?v=sAjopcQip5k",
+    "programs": [
+     {
+      "id": "37956",
+      "name": "Witness",
+      "slug": "witness",
+      "__typename": "Category"
+     }
+    ],
+    "__typename": "Post"
+   }
+  ]
+ }
+}

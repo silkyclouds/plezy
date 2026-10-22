@@ -1,0 +1,145 @@
+{
+ "data": {
+  "programs": [
+   {
+    "id": "1121147",
+    "title": "Witness",
+    "excerpt": "An inspiring documentary series that brings world issues into focus through compelling human stories.",
+    "date": "2020-07-31T16:13:49",
+    "link": "/video/witness",
+    "postType": "program",
+    "shortUrl": "https://aje.io/4dcmf",
+    "featuredImage": {
+     "id": "896772",
+     "sourceUrl": "/wp-content/uploads/2014/10/04cca55fea2247b2a15d32ca7227291c_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Witness - title logo - big main outside image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121154",
+    "title": "101 East",
+    "excerpt": "Bold, untold stories from across Asia and the Pacific. Al Jazeera’s in-depth, weekly current affairs programme from the world’s most populated region.",
+    "date": "2020-09-11T08:20:58",
+    "link": "/video/101-east",
+    "postType": "program",
+    "shortUrl": "https://aje.io/j7qihq",
+    "featuredImage": {
+     "id": "896784",
+     "sourceUrl": "/wp-content/uploads/2014/10/8e067a0f8b304217b468cbef6d3b28b3_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "101 East - title logo outside image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121126",
+    "title": "Fault Lines",
+    "excerpt": "We live in a world run through with Fault Lines. Al Jazeera’s Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the US’ role in the world. Contact us at FaultLinesTips@aljazeera.net",
+    "date": "2019-06-18T11:29:53",
+    "link": "/video/fault-lines",
+    "postType": "program",
+    "shortUrl": "https://aje.io/wahw5",
+    "featuredImage": {
+     "id": "4017030",
+     "sourceUrl": "/wp-content/uploads/2019/06/FAULT-LINES-MAIN-TEXT-LAYERS-1759915466.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "fault lines new logo",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121146",
+    "title": "Al Jazeera World",
+    "excerpt": "A weekly showcase of one-hour documentary films from across the Al Jazeera Network. \nWatch Al Jazeera World every Tuesday at 2000GMT",
+    "date": "2020-06-09T07:27:20",
+    "link": "/video/al-jazeera-world",
+    "postType": "program",
+    "shortUrl": "https://aje.io/jfnr2j",
+    "featuredImage": {
+     "id": "896781",
+     "sourceUrl": "/wp-content/uploads/2020/06/17981765313a459e8dc194e86ee65228_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "AJW programme redesign",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121149",
+    "title": "People & Power",
+    "excerpt": "Al Jazeera’s weekly investigative documentary programme that looks at the use and abuse of power. \nWatch People & Power every Wednesday at 2230GMT",
+    "date": "2020-09-17T13:45:44",
+    "link": "/video/people-power",
+    "postType": "program",
+    "shortUrl": "https://aje.io/byn29",
+    "featuredImage": {
+     "id": "896787",
+     "sourceUrl": "/wp-content/uploads/2014/10/53be074342184ff989d7de2b1e784941_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "People & Power - title logo - big main outside image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   },
+   {
+    "id": "3865273",
+    "title": "Al Jazeera Untangles",
+    "excerpt": "A documentary series that simplifies complex topics through engaging narratives and visually dynamic storytelling.",
+    "date": "2025-07-30T09:38:19",
+    "link": "/video/aljazeerauntangles",
+    "postType": "program",
+    "shortUrl": "https://aje.io/e8tm03",
+    "featuredImage": {
+     "id": "3865284",
+     "sourceUrl": "/wp-content/uploads/2025/07/al-jazeera-untangles-1-1753868260.jpg",
+     "credit": "",
+     "caption": "",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "Documentary",
+    "__typename": "Post"
+   }
+  ],
+  "_note": "trimmed: 6 of 60"
+ }
+}

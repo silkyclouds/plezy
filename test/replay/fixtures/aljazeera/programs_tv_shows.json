@@ -1,0 +1,145 @@
+{
+ "data": {
+  "programs": [
+   {
+    "id": "4936317",
+    "title": "Let’s Focus",
+    "excerpt": "Beyond the polls and headlines: Josh Rushing and his guests examine the forces shaping America’s political future.",
+    "date": "2026-09-11T19:53:23",
+    "link": "/video/lets-focus",
+    "postType": "program",
+    "shortUrl": "https://aje.news/povpy8",
+    "featuredImage": {
+     "id": "4941287",
+     "sourceUrl": "/wp-content/uploads/2026/09/Lets-Focus-Logo-Transparent-1789156307.png",
+     "credit": "",
+     "caption": "",
+     "alt": "LF Logo",
+     "width": 1920,
+     "height": 1080,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121127",
+    "title": "Inside Story",
+    "excerpt": "Al Jazeera journalists and guests dissect and discuss the day’s top story.",
+    "date": "2019-06-18T11:30:48",
+    "link": "/video/inside-story",
+    "postType": "program",
+    "shortUrl": "https://aje.io/6d4nk1",
+    "featuredImage": {
+     "id": "896770",
+     "sourceUrl": "/wp-content/uploads/2014/10/71fd4736163a411a88d01bfb9b65c601_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Inside Story podcast logo",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121121",
+    "title": "The Listening Post",
+    "excerpt": "A weekly programme that examines and dissects the world’s media, how they operate and the stories they cover.",
+    "date": "2018-05-09T12:59:07",
+    "link": "/video/the-listening-post",
+    "postType": "program",
+    "shortUrl": "https://aje.io/8rwou5",
+    "featuredImage": {
+     "id": "896763",
+     "sourceUrl": "/wp-content/uploads/2014/09/3234a2b34a644e11ad4a06b7c9ef98f6_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Listening Post - title logo - big main image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121151",
+    "title": "Talk to Al Jazeera",
+    "excerpt": "Al Jazeera’s flagship interview show. Conversations with global leaders, icons and alternative voices shaping our times.",
+    "date": "2020-09-03T08:48:58",
+    "link": "/video/talk-to-al-jazeera",
+    "postType": "program",
+    "shortUrl": "https://aje.io/iy2e9b",
+    "featuredImage": {
+     "id": "896792",
+     "sourceUrl": "/wp-content/uploads/2014/10/ef823a58504c4e87aea5d433502fa5b5_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Talk to Al Jazeera - title logo - big main outside image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121133",
+    "title": "Head to Head",
+    "excerpt": "Interviews with attitude, tackling the big issues of our time with Mehdi Hasan.",
+    "date": "2019-06-18T11:35:04",
+    "link": "/video/head-to-head",
+    "postType": "program",
+    "shortUrl": "https://aje.io/3ztjj",
+    "featuredImage": {
+     "id": "896768",
+     "sourceUrl": "/wp-content/uploads/2014/10/3bb4d9be598a4521a13575ac20a49a59_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Head to Head - title logo - outside image",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   },
+   {
+    "id": "1121143",
+    "title": "Counting the Cost",
+    "excerpt": "A weekly look at the world’s top business and economics stories. \nWatch Counting the Cost every Friday 2230GMT",
+    "date": "2020-01-31T12:01:04",
+    "link": "/video/counting-the-cost",
+    "postType": "program",
+    "shortUrl": "https://aje.io/28h63s",
+    "featuredImage": {
+     "id": "896785",
+     "sourceUrl": "/wp-content/uploads/2020/01/8ee1e751ccd34b9d8c9205ac44b93f09_18.jpeg",
+     "credit": "",
+     "caption": "",
+     "alt": "Counting the Cost new web branding logo",
+     "width": 1000,
+     "height": 562,
+     "__typename": "Media"
+    },
+    "video": null,
+    "featuredYoutube": null,
+    "primaryCategoryTermName": "TV Shows",
+    "__typename": "Post"
+   }
+  ],
+  "_note": "trimmed: 6 of 41"
+ }
+}

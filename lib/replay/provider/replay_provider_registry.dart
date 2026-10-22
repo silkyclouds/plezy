@@ -1,6 +1,7 @@
 import '../../utils/media_server_http_client.dart';
 import '../providers/arte/arte_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
+import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
@@ -114,6 +115,13 @@ const replaySourceInfos = [
     languages: ['fr'],
   ),
   ReplaySourceInfo(
+    id: 'aljazeera',
+    name: 'Al Jazeera English',
+    support: ReplayPlaybackSupport.clear,
+    country: 'QA',
+    languages: ['en'],
+  ),
+  ReplaySourceInfo(
     id: 'dw',
     name: 'Deutsche Welle',
     support: ReplayPlaybackSupport.clear,
@@ -171,6 +179,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'tvcom' => TvcomProvider(http),
       'antennecentre' => AntenneCentreProvider(http),
       'canalzoom' => CanalZoomProvider(http),
+      'aljazeera' => AljazeeraProvider(http),
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
       _ => null,

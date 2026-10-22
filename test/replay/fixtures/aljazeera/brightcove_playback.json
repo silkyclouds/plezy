@@ -1,0 +1,87 @@
+{
+ "poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/f117614a-2a2b-4da4-8d78-88b5892c3ab9/1920x1080/match/image.jpg",
+ "thumbnail": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/f0d0d816-83fd-4789-8751-1562e990d1f2/426x240/match/image.jpg",
+ "description": "WFP says it's forced to cut aid for thousands in the strip",
+ "account_id": "665003303001",
+ "sources": [
+  {
+   "codecs": "avc1,mp4a",
+   "ext_x_version": "3",
+   "src": "https://manifest.prod.boltdns.net/manifest/v1/hls/v3/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/10s/master.m3u8?fastly_token=REDACTED",
+   "type": "application/x-mpegURL"
+  },
+  {
+   "codecs": "avc1,mp4a",
+   "ext_x_version": "4",
+   "src": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/10s/master.m3u8?fastly_token=REDACTED",
+   "type": "application/x-mpegURL"
+  },
+  {
+   "codecs": "avc1,mp4a",
+   "profiles": "urn:mpeg:dash:profile:isoff-live:2011",
+   "src": "https://manifest.prod.boltdns.net/manifest/v1/dash/live-baseurl/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/6s/manifest.mpd?fastly_token=REDACTED",
+   "type": "application/dash+xml"
+  },
+  {
+   "avg_bitrate": 3677000,
+   "codec": "H264",
+   "container": "MP4",
+   "duration": 1665010,
+   "height": 1080,
+   "size": 765561214,
+   "src": "https://ajmn-aje-vod.akamaized.net/media/v1/pmp4/static/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/2bdf69d2-0e28-4c5d-a9ad-783533a0688e/main.mp4",
+   "width": 1920
+  },
+  {
+   "avg_bitrate": 2118000,
+   "codec": "H264",
+   "container": "MP4",
+   "duration": 1665010,
+   "height": 720,
+   "size": 441804803,
+   "src": "https://ajmn-aje-vod.akamaized.net/media/v1/pmp4/static/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/12a83d78-e68d-47ca-8198-19303bf86124/main.mp4",
+   "width": 1280
+  },
+  {
+   "avg_bitrate": 789000,
+   "codec": "H264",
+   "container": "MP4",
+   "duration": 1665010,
+   "height": 360,
+   "size": 165003475,
+   "src": "https://ajmn-aje-vod.akamaized.net/media/v1/pmp4/static/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/6987b7a1-cf45-48d5-84a7-be4b1114c944/main.mp4",
+   "width": 640
+  }
+ ],
+ "name": "Can a humanitarian crisis in Gaza be averted?",
+ "reference_id": "ITEM-VX-483403",
+ "long_description": "The US brokered a ceasefire to end Israel's war on Gaza. More than two million people in the Strip were hoping it would change the humanitarian situation there. But since then, Israel has NOT stopped its attacks. And the already scarce food supply is about to be strained even further. The World Food",
+ "duration": 1665056,
+ "economics": "AD_SUPPORTED",
+ "text_tracks": [
+  {
+   "id": "2e6d6ba5-a631-4e10-a21b-d17ec59d6802",
+   "account_id": "665003303001",
+   "src": "http://ajmn-aje-vod.akamaized.net/media/v1/text/vtt/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/2e6d6ba5-a631-4e10-a21b-d17ec59d6802/text.vtt",
+   "srclang": "en-GB",
+   "label": "en-GB",
+   "kind": "captions",
+   "mime_type": "text/webvtt",
+   "asset_id": null,
+   "sources": [
+    {
+     "src": "https://ajmn-aje-vod.akamaized.net/media/v1/text/vtt/clear/665003303001/c4f8bc6d-74cf-4e2b-896f-a3e6df6ceacd/2e6d6ba5-a631-4e10-a21b-d17ec59d6802/text.vtt"
+    }
+   ],
+   "in_band_metadata_track_dispatch_type": "",
+   "default": false
+  }
+ ],
+ "published_at": "2026-10-20T15:57:57.945Z",
+ "created_at": "2026-10-20T15:57:57.950Z",
+ "updated_at": "2026-10-20T16:10:18.377Z",
+ "offline_enabled": false,
+ "link": null,
+ "id": "6407140246112",
+ "ad_keys": null
+}
