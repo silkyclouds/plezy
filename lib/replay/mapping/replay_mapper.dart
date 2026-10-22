@@ -73,7 +73,8 @@ class ReplayMapper {
       index: kind == MediaKind.episode ? t.episodeNumber : t.seasonNumber,
       parentId: t.seasonRef?.toString() ?? t.showRef?.toString(),
       parentTitle: t.showTitle,
-      parentIndex: t.seasonNumber,
+      // A season-less episode of a show is filed under season 1 rather than season 0.
+      parentIndex: t.seasonNumber ?? (kind == MediaKind.episode && t.showRef != null ? 1 : null),
       grandparentId: t.showRef?.toString(),
       grandparentTitle: t.showTitle,
       childCount: t.childCount,

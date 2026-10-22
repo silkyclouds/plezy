@@ -247,6 +247,20 @@ void main() {
     expect(mapper.item(episode('Journal', number: 3)).title, 'Journal');
   });
 
+  test('a title read from its page is kept so a download can pin it for offline lists', () async {
+    final item = (await client.fetchItem('fake:movie'))!;
+    final kept = await ReplayApiCache.instance.getMetadata(client.serverId, item.id);
+    expect(kept?.title, item.title);
+  });
+
+  test('a download carries the subtitle files the broadcaster lists next to the stream', () async {
+    final item = (await client.fetchItem('fake:movie'))!;
+    final resolution = await client.resolveDownload(item);
+    expect(resolution.externalSubtitles.single.languageCode, 'fr');
+    expect(resolution.externalSubtitles.single.codec, 'vtt');
+    expect(resolution.externalSubtitles.single.url, 'https://example.test/fr.vtt');
+  });
+
   test('a title page that arrives bare takes its pictures and its show from the listing', () {
     final mapper = ReplayMapper(serverId: 'replay', source: _source, memory: ReplayTitleMemory());
     final listed = ReplayTitle(

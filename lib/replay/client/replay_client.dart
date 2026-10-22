@@ -20,6 +20,7 @@ import '../../utils/media_server_http_client.dart' show AbortController, MediaSe
 import '../download/replay_download_proxy.dart';
 import '../mapping/replay_title_memory.dart';
 import '../mapping/replay_mapper.dart';
+import '../model/replay_playback.dart';
 import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
 import '../provider/replay_provider.dart';
@@ -147,7 +148,10 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     if (target == null) return null;
     final title = await target.$1.title(target.$2);
     if (title == null) return null;
-    return (await _watch.apply([_mapper(target.$1).item(title)])).single;
+    final item = (await _watch.apply([_mapper(target.$1).item(title)])).single;
+    // Kept so a download can pin it: offline lists resolve titles from this copy.
+    await ReplayApiCache.instance.cacheItem(serverId, item);
+    return item;
   }
 
   @override
@@ -380,10 +384,31 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     final playback = await target.$1.playback(target.$2);
     if (!playback.isPlayable) return const DownloadResolution(videoUrl: null);
     final stream = playback.streams[mediaIndex.clamp(0, playback.streams.length - 1)];
-    if (!stream.url.path.endsWith('.m3u8')) return DownloadResolution(videoUrl: stream.url.toString());
+    final subtitles = _subtitleSpecs(playback);
+    if (!stream.url.path.endsWith('.m3u8')) {
+      return DownloadResolution(videoUrl: stream.url.toString(), externalSubtitles: subtitles);
+    }
     // A playlist of segments cannot be fetched as one file, so it goes through the local MP4 converter.
     final converted = await _downloads.serve(stream.url, headers: stream.headers);
-    return DownloadResolution(videoUrl: converted?.toString());
+    return DownloadResolution(videoUrl: converted?.toString(), externalSubtitles: subtitles);
+  }
+
+  /// The subtitle files that travel next to the video, numbered in the order the broadcaster lists them.
+  List<DownloadSubtitleSpec> _subtitleSpecs(ReplayPlayback playback) => [
+    for (final (index, subtitle) in playback.subtitles.indexed)
+      DownloadSubtitleSpec(
+        id: index,
+        url: subtitle.url.toString(),
+        codec: _subtitleCodec(subtitle.url),
+        languageCode: subtitle.languageCode,
+        forced: subtitle.forced,
+        displayTitle: subtitle.label,
+      ),
+  ];
+
+  String? _subtitleCodec(Uri url) {
+    final dot = url.path.lastIndexOf('.');
+    return dot < 0 ? null : url.path.substring(dot + 1).toLowerCase();
   }
 
   @override
