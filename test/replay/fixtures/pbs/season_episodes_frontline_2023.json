@@ -1,0 +1,215 @@
+[
+ {
+  "slug": "inside-the-uvalde-response-fgxvhb",
+  "title": "Inside the Uvalde Response",
+  "title_sortable": "Inside the Uvalde Response",
+  "duration": 3263,
+  "description_short": "Investigating the chaotic response to the Uvalde school shooting and the missteps.",
+  "description_long": "Drawing on real-time, firsthand accounts and using official bodycam and audio, FRONTLINE, ProPublica and The Texas Tribune reconstruct the chaotic response to the Uvalde school shooting and examine the missteps. The documentary delves into the lessons learned and the lingering trauma of that day.",
+  "legacy_tp_media_id": 3084427035,
+  "item_type": "video",
+  "cid": "8b2daa67-e239-4128-be01-3089a4afc005",
+  "video_type": "full_length",
+  "premiere_date": "2023-12-05T00:00:00-05:00",
+  "encore_date": "2023-12-05T00:00:00-05:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/inside-the-uvalde-response-fgxvhb/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/HRq9cuU-asset-mezzanine-16x9-KcDJ8d8.jpg"
+  },
+  "flags": {
+   "is_new": false,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 20,
+   "slug": "inside-the-uvalde-response",
+   "title": "Inside the Uvalde Response",
+   "season": {
+    "ordinal": 2023,
+    "title": "",
+    "show": {
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "display_episode_number": true,
+     "franchise": null,
+     "seasons_count": 35,
+     "slug": "frontline",
+     "title": "FRONTLINE",
+     "tracking_ga_event": "UA-3988874-2",
+     "tracking_ga_page": "UA-3988874-1",
+     "cid": "6d221f14-f71e-4888-a0a7-d0129e9fc5c5",
+     "resource_type": "show",
+     "funder_message": "Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Trust with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen."
+    },
+    "cid": "9bff00dd-84c8-43b8-b244-a07079c464ef",
+    "resource_type": "season"
+   },
+   "cid": "601ffb6e-b40c-41a5-bf91-4d1e29653e3b",
+   "resource_type": "episode"
+  }
+ },
+ {
+  "slug": "the-astros-edge-ky4pfl",
+  "title": "The Astros Edge",
+  "title_sortable": "Astros Edge",
+  "duration": 5064,
+  "description_short": "The Houston Astros cheating scandal and what it says about baseball today.",
+  "description_long": "FRONTLINE examines the Houston Astros cheating scandal and what it says about baseball today. With reporter Ben Reiter, the documentary traces the making of one of the best teams and worst scandals in modern Major League Baseball history, the limited accountability and how the Astros’ approach to baseball changed the sport.",
+  "legacy_tp_media_id": 3084412847,
+  "item_type": "video",
+  "cid": "2ee500b2-3d17-4576-8f79-448a998c9ab8",
+  "video_type": "full_length",
+  "premiere_date": "2023-10-03T00:00:00-04:00",
+  "encore_date": "2023-10-03T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/the-astros-edge-ky4pfl/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/uzH6nAN-asset-mezzanine-16x9-BsjL01G.jpg"
+  },
+  "flags": {
+   "is_new": false,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 16,
+   "slug": "the-astros-edge",
+   "title": "The Astros Edge",
+   "season": {
+    "ordinal": 2023,
+    "title": "",
+    "show": {
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "display_episode_number": true,
+     "franchise": null,
+     "seasons_count": 35,
+     "slug": "frontline",
+     "title": "FRONTLINE",
+     "tracking_ga_event": "UA-3988874-2",
+     "tracking_ga_page": "UA-3988874-1",
+     "cid": "6d221f14-f71e-4888-a0a7-d0129e9fc5c5",
+     "resource_type": "show",
+     "funder_message": "Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Trust with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen."
+    },
+    "cid": "9bff00dd-84c8-43b8-b244-a07079c464ef",
+    "resource_type": "season"
+   },
+   "cid": "ef09876b-4bc9-4c58-ab66-88e21f13ebd2",
+   "resource_type": "episode"
+  }
+ },
+ {
+  "slug": "two-strikestutwiler-3s2wqr",
+  "title": "Two Strikes/Tutwiler",
+  "title_sortable": "Two Strikes/Tutwiler",
+  "duration": 3263,
+  "description_short": "A two-part special looking at a little-known \"two-strikes\" law, and pregnancy in prison.",
+  "description_long": "In this two-part special, FRONTLINE looks at a little known \"two-strikes\" law and pregnancy in prison. In collaboration with The Marshall Project, the first half examines how a former West Point cadet got life in prison under a \"two-strikes\" law. The second half documents what happens to pregnant women in prison and their newborns.",
+  "legacy_tp_media_id": 3084006787,
+  "item_type": "video",
+  "cid": "93105a3a-25b3-4b6e-8985-add12b148c28",
+  "video_type": "full_length",
+  "premiere_date": "2023-09-05T00:00:00-04:00",
+  "encore_date": "2023-09-05T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/two-strikestutwiler-3s2wqr/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/XbM1o27-asset-mezzanine-16x9-DDSGMD1.jpg"
+  },
+  "flags": {
+   "is_new": false,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 14,
+   "slug": "two-strikes-tutwiler",
+   "title": "Two Strikes/Tutwiler",
+   "season": {
+    "ordinal": 2023,
+    "title": "",
+    "show": {
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "display_episode_number": true,
+     "franchise": null,
+     "seasons_count": 35,
+     "slug": "frontline",
+     "title": "FRONTLINE",
+     "tracking_ga_event": "UA-3988874-2",
+     "tracking_ga_page": "UA-3988874-1",
+     "cid": "6d221f14-f71e-4888-a0a7-d0129e9fc5c5",
+     "resource_type": "show",
+     "funder_message": "Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the Ford Foundation. Additional funding is provided by the Abrams Foundation; the John D. and Catherine T. MacArthur Foundation; Park Foundation; and the FRONTLINE Trust with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen."
+    },
+    "cid": "9bff00dd-84c8-43b8-b244-a07079c464ef",
+    "resource_type": "season"
+   },
+   "cid": "d31db5a9-baf4-4ac9-a8c4-f4dc5cf26270",
+   "resource_type": "episode"
+  }
+ }
+]

@@ -1,0 +1,112 @@
+{
+ "data": {
+  "videos": {
+   "totalCount": 4656,
+   "nodes": [
+    {
+     "id": "190678",
+     "title": "Et si vous pouviez lire l’ADN de votre futur enfant ?",
+     "slug": "noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child",
+     "description": "Depuis toujours, l’ADN d’un bébé se joue au hasard, au moment de la conception : c’est ce qu’on appelle la loterie génétique. « Cette époque est révolue », affirme Noor Siddiqui. Son entreprise conçoit des outils de dépistage capables de lire le génome complet des embryons, pour offrir aux parents bien plus d’informations génétiques qu’une FIV classique. Selon elle, ces technologies aident les familles à mieux comprendre les risques pour la santé et à les réduire. Une question vertigineuse se pose alors : jusqu’où devrions-nous connaître l’ADN de nos enfants avant leur naissance ? (Suivi d’un bref échange avec Sal Khan, garant de la vision de TED.)",
+     "presenterDisplayName": "Noor Siddiqui",
+     "duration": 781,
+     "hlsUrl": "https://hls.ted.com/project_masters/12078/manifest.m3u8",
+     "publishedAt": "2026-10-19T14:23:51Z",
+     "recordedOn": "2026-04-15",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "dna"
+       },
+       {
+        "slug": "genetics"
+       },
+       {
+        "slug": "technology"
+       },
+       {
+        "slug": "science"
+       },
+       {
+        "slug": "health"
+       },
+       {
+        "slug": "medical+research"
+       },
+       {
+        "slug": "health+care"
+       },
+       {
+        "slug": "pregnancy"
+       },
+       {
+        "slug": "ai"
+       },
+       {
+        "slug": "disease"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/5d9cebbc-a466-4a48-a606-16845fb82103/NoorSiddiqui_2026-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/8a48c00d-f933-4ed9-a3df-9c2cd0886064/NoorSiddiqui_2026-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/85b77a2c-1275-43d4-9358-cd4ee9a6892b/NoorSiddiqui_2026-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "189394",
+     "title": "L’IA vous grille le cerveau ? Ce que les dirigeants peuvent y faire.",
+     "slug": "julie_bedard_ai_brain_fry_is_real_here_s_what_leaders_can_do",
+     "description": "Partout, les salariés réinventent discrètement leur travail autour de l’IA. Leur productivité grimpe… mais de nouveaux problèmes apparaissent. Julie Bedard, conseillère en IA, pense avoir trouvé la parade. En s’appuyant sur des recherches inédites, elle identifie trois chantiers prioritaires pour les dirigeants, dont un pour éviter le « cerveau grillé » par l’IA. Elle explique aussi pourquoi nous devons piloter ce changement plutôt que le subir.",
+     "presenterDisplayName": "Julie Bedard",
+     "duration": 546,
+     "hlsUrl": "https://hls.ted.com/project_masters/12031/manifest.m3u8?intro_master_id=9294",
+     "publishedAt": "2026-10-14T14:47:23Z",
+     "recordedOn": "2026-08-17",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "business"
+       },
+       {
+        "slug": "technology"
+       },
+       {
+        "slug": "ai"
+       },
+       {
+        "slug": "leadership"
+       },
+       {
+        "slug": "work"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/40d77cac-b091-4205-89ed-fac29607e374/JulieBedard_2026S-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/d72bc45d-e8e1-46d6-a164-870456721fc9/JulieBedard_2026S-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189394/d68a1d7a-f8a4-491e-9701-2399fd6af541/JulieBedard_2026S-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -67,6 +67,16 @@ class ReplayHomeSuggestions {
     return _roundRobin(perSource, choices.rowsPerChannel);
   }
 
+  /// The rows [sourceId] publishes on its landing page, in its order, for the viewer to pick from.
+  Future<List<({String id, String title})>> rowChoices(String sourceId) async {
+    final provider = providers[sourceId];
+    if (provider == null) return const [];
+    return [
+      for (final rail in await _railsOf(provider))
+        if (rail.titles.isNotEmpty) (id: rail.id, title: rail.title),
+    ];
+  }
+
   Future<List<MediaHub>> _rowsOf(ReplayProvider provider, ReplaySuggestionSettings choices, int itemLimit) async {
     final hubs = <MediaHub>[];
     for (final rail in await _railsOf(provider)) {

@@ -1,0 +1,156 @@
+{
+ "data": {
+  "videos": {
+   "totalCount": 5286,
+   "nodes": [
+    {
+     "id": "190066",
+     "title": "Why we should design cities like Disney",
+     "slug": "zach_deboer_why_we_should_design_cities_like_disney",
+     "description": "Where you live shapes your relationships, your emotions and even how long you live, says community designer Zach DeBoer. After studying what a century of building cities around cars has done to downtowns in the US, he turned to lessons from some of the most walkable, carefully designed streets in the country: the ones inside Disney theme parks. With ideas ranging from narrower roads to buildings that pull you around the next corner, he offers a practical guide to turning ordinary downtowns into magical places people want to explore.",
+     "presenterDisplayName": "Zach DeBoer",
+     "duration": 986,
+     "hlsUrl": "https://hls.ted.com/project_masters/12051/manifest.m3u8",
+     "publishedAt": "2026-09-29T15:58:11Z",
+     "recordedOn": "2023-05-05",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "design"
+       },
+       {
+        "slug": "cities"
+       },
+       {
+        "slug": "urban+planning"
+       },
+       {
+        "slug": "community"
+       },
+       {
+        "slug": "society"
+       },
+       {
+        "slug": "architecture"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190066/67527d43-714b-44a2-bd09-ef6310de6418/ZachDeBoer_2025X-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190066/43baaa50-5e65-4837-9e44-61529c902f2e/ZachDeBoer_2025X-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190066/37ba4373-e183-44c0-80ec-15ca5b5cfa7e/ZachDeBoer_2025X-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "189894",
+     "title": "Why I’m building libraries inside prisons",
+     "slug": "reginald_dwayne_betts_why_i_m_building_libraries_inside_prisons",
+     "description": "At age 16, Reginald Dwayne Betts was sentenced to nine years in prison. He turned to books to help hold onto his sanity — and developed a belief that we find what we look for, even in the toughest places. Now a lawyer and poet, he's opened hundreds of Freedom Libraries inside prisons across the US, putting books he once dreamed of reading into the hands of incarcerated people. In this profound talk, he makes the case that hope is something people pass on to one another. \"We put millions of people in prison. I would put millions of books inside,\" he says.",
+     "presenterDisplayName": "Reginald Dwayne Betts",
+     "duration": 752,
+     "hlsUrl": "https://hls.ted.com/project_masters/12045/manifest.m3u8?intro_master_id=9294",
+     "publishedAt": "2026-09-28T14:51:02Z",
+     "recordedOn": "2026-04-16",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "justice+system"
+       },
+       {
+        "slug": "prison"
+       },
+       {
+        "slug": "books"
+       },
+       {
+        "slug": "library"
+       },
+       {
+        "slug": "social+change"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189894/92000c36-2cff-481f-b5a1-5f793f1919fb/ReginaldDwayneBetts_2026-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189894/e505893d-6bc0-46f3-86c4-bbfb52fa5536/ReginaldDwayneBetts_2026-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_189894/aee13ec3-bfd5-4c0a-8253-d84622068bfa/ReginaldDwayneBetts_2026-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "188006",
+     "title": "How to escape your obsession with productivity",
+     "slug": "rebecca_mcmackin_and_catherine_price_how_to_escape_your_obsession_with_productivity",
+     "description": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control. From growing milkweed to taking up unproductive hobbies, they dig into the benefits of rest — and why doing something for its own sake shouldn't need defending. (This conversation is part of \"TED Intersections,\" a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)",
+     "presenterDisplayName": "Rebecca McMackin and Catherine Price",
+     "duration": 1609,
+     "hlsUrl": "https://hls.ted.com/project_masters/12049/manifest.m3u8",
+     "publishedAt": "2026-09-25T14:51:35Z",
+     "recordedOn": "2026-04-15",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "personal+growth"
+       },
+       {
+        "slug": "play"
+       },
+       {
+        "slug": "nature"
+       },
+       {
+        "slug": "wildlife"
+       },
+       {
+        "slug": "gardening"
+       },
+       {
+        "slug": "science"
+       },
+       {
+        "slug": "plants"
+       },
+       {
+        "slug": "trees"
+       },
+       {
+        "slug": "psychology"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188006/6d9378a8-501a-4679-ac17-80eff33068c1/TED_Intersections_S4_Template_Ep4_1920x1080_1.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188006/30c94756-f84c-4036-8b4b-d3da2ddd5f53/TED_Intersections_S4_Template_Ep4_2400x1800_1.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_188006/e1b981bc-452d-4ab5-8da6-978689ce3fac/TED_Intersections_S4_Template_Ep4_1350x675_1.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

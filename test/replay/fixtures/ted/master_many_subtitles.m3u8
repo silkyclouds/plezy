@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1074542,RESOLUTION=640x480,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=959931,AUDIO="audio0",SUBTITLES="subs"
+index-f9-v1.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=156562,RESOLUTION=240x180,FRAME-RATE=25,CODECS="avc1.42c00d,mp4a.40.2",AVERAGE-BANDWIDTH=146025,AUDIO="audio0",SUBTITLES="subs"
+index-f1-v1.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=239157,RESOLUTION=240x180,FRAME-RATE=25,CODECS="avc1.42c01e,mp4a.40.2",AVERAGE-BANDWIDTH=218619,AUDIO="audio0",SUBTITLES="subs"
+index-f2-v1.m3u8?intro_master_id=9294
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="low",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="1",URI="index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="en"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="medium",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="en"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="el",NAME="Greek",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/el.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/en.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Vietnamese",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/vi.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="it",NAME="Italian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/it.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ar",NAME="Arabic",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ar.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="pt-br",NAME="Portuguese, Brazilian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/pt-br.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="es",NAME="Spanish",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/es.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ru",NAME="Russian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ru.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="nl",NAME="Dutch",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/nl.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="pt",NAME="Portuguese",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/pt.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="zh-tw",NAME="Chinese, Traditional",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/zh-tw.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="tr",NAME="Turkish",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/tr.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="zh-cn",NAME="Chinese, Simplified",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/zh-cn.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="th",NAME="Thai",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/th.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ro",NAME="Romanian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ro.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="fr",NAME="French",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/fr.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="bg",NAME="Bulgarian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/bg.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="hr",NAME="Croatian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/hr.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="de",NAME="German",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/de.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="hu",NAME="Hungarian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/hu.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="fa",NAME="Persian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/fa.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ja",NAME="Japanese",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ja.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="he",NAME="Hebrew",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/he.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ko",NAME="Korean",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ko.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="pl",NAME="Polish",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/pl.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="uk",NAME="Ukrainian",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/uk.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="ta",NAME="Tamil",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="/project_masters/937/subtitles/ta.m3u8?intro_master_id=9294"

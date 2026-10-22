@@ -1,0 +1,412 @@
+{
+ "collections": [
+  {
+   "slug": "popular-shows",
+   "title": "Recommended Popular Shows",
+   "item_type": "show",
+   "collection_type": "inline",
+   "url": "https://content.services.pbs.org/v3/pbsorg/collections/popular-shows/",
+   "has_profile_data": false,
+   "content": [
+    {
+     "description_long": "Hugh Bonneville stars in this crime drama inspired by the true story of one of the largest robberies in British history.",
+     "description_short": "Hugh Bonneville stars in a crime drama inspired by one of the largest robberies in British history.",
+     "images": {
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/nONygtn-show-mezzanine16x9-sjfu0fY.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/AExsSgr-show-poster2x3-2CfrpI0.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/a875kXl-white-logo-41-me5R0cG.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/gsYrj62-color-logo-41-qjnQCH8.png",
+      "background": "https://image.pbs.org/contentchannels/xYVLus8-background-c2qPLts.jpg"
+     },
+     "links": [
+      {
+       "value": "https://www.pbs.org/wgbh/masterpiece/shows/the-gold/",
+       "profile": "producer",
+       "updated_at": "2025-07-02T20:47:04.130378Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtp",
+       "profile": "itunes",
+       "updated_at": "2025-11-04T18:20:04.017333Z"
+      },
+      {
+       "value": "https://www.amazon.com/gp/video/detail/B0CD32PRH6?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0CD34GY25&qid=1761589309857&linkCode=ll2&tag=p05a2-20&linkId=1fabaf2a1a84cb6d1ebeb45abec90757&language=en_US&ref_=as_li_ss_tl",
+       "profile": "amazon",
+       "updated_at": "2025-11-04T18:20:03.962581Z"
+      },
+      {
+       "value": "https://www.facebook.com/masterpiecepbs/",
+       "profile": "facebook",
+       "updated_at": "2025-07-02T20:47:04.196853Z"
+      },
+      {
+       "value": "https://www.instagram.com/masterpiecepbs/",
+       "profile": "instagram",
+       "updated_at": "2025-07-02T20:47:04.253850Z"
+      },
+      {
+       "value": "https://twitter.com/masterpiecepbs",
+       "profile": "twitter",
+       "updated_at": "2025-07-02T20:47:04.311684Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtpiOS",
+       "profile": "ios",
+       "updated_at": "2025-11-04T18:20:04.113782Z"
+      },
+      {
+       "value": "http://athome.fandango.com/content/browse/details/The-Gold-Season-1/4574636",
+       "profile": "roku",
+       "updated_at": "2025-11-04T18:20:04.163361Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtpAppleTV",
+       "profile": "apple-tv",
+       "updated_at": "2025-11-04T18:20:04.067323Z"
+      },
+      {
+       "value": "https://www.tiktok.com/@masterpiecepbs",
+       "profile": "tiktok",
+       "updated_at": "2025-07-02T20:47:04.367965Z"
+      }
+     ],
+     "slug": "the-gold",
+     "title_sortable": "Gold",
+     "title": "The Gold",
+     "tracking_ga_event": "UA-3988763-2",
+     "tracking_ga_page": "UA-3988763-1",
+     "item_type": "show",
+     "cid": "4b4a0ccc-ca75-45d3-9260-cf093af1fe3e",
+     "franchise": {
+      "cid": "e08bf78d-e6a3-44b9-b356-8753d01c7327",
+      "slug": "masterpiece",
+      "title": "Masterpiece",
+      "url": "https://content.services.pbs.org/v3/pbsorg/screens/franchises/masterpiece/"
+     },
+     "genre": {
+      "cid": "a6c8f8a3-fd3a-4ffe-9a0d-d32e6e584d5d",
+      "slug": "drama",
+      "title": "Drama",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/drama/"
+     },
+     "countries": [
+      "MP",
+      "CA",
+      "UM",
+      "AS",
+      "VI",
+      "US",
+      "PR",
+      "GU"
+     ],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/the-gold/",
+     "premiere_date": "2025-10-05",
+     "popularity": null,
+     "popularity_position": 1,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": true,
+      "passport_only": false,
+      "new_episode": true,
+      "my_station": false
+     }
+    },
+    {
+     "description_long": "Millions of Americans turn to PBS for the solid, reliable reporting that has made PBS News Hour one of the most trusted news programs in television.",
+     "description_short": "Top journalists deliver compelling original analysis of the hour's headlines.",
+     "images": {
+      "show-logo": "https://image.pbs.org/contentchannels/0NSigPZ-show-logo-UKTGKYV.png",
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/CaSNwev-show-mezzanine16x9-JtAx0q6.png",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/k1Gwt8I-show-poster2x3-EWWT8oy.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/ReSXiaU-white-logo-41-xYfzfok.png",
+      "background": "https://image.pbs.org/contentchannels/VQrTfgS-background-InYkIfW.jpg"
+     },
+     "links": [
+      {
+       "value": "https://www.pbs.org/newshour/",
+       "profile": "producer",
+       "updated_at": "2021-06-23T14:40:41.386072Z"
+      },
+      {
+       "value": "https://www.facebook.com/newshour",
+       "profile": "facebook",
+       "updated_at": "2017-05-04T19:49:02.265188Z"
+      },
+      {
+       "value": "https://www.instagram.com/newshour/",
+       "profile": "instagram",
+       "updated_at": "2017-05-04T19:49:02.265354Z"
+      },
+      {
+       "value": "https://www.pinterest.com/pbsnewshour/",
+       "profile": "pinterest",
+       "updated_at": "2017-05-04T19:49:02.265300Z"
+      },
+      {
+       "value": "https://twitter.com/NewsHour",
+       "profile": "twitter",
+       "updated_at": "2017-05-04T19:49:02.265245Z"
+      },
+      {
+       "value": "https://dun96pyxwe2yl.cloudfront.net/apple-universal-search/images/newshour.lsr",
+       "profile": "apple-lsr-format",
+       "updated_at": "2021-06-23T14:40:41.643407Z"
+      }
+     ],
+     "slug": "newshour",
+     "title_sortable": "PBS News Hour",
+     "title": "PBS News Hour",
+     "tracking_ga_event": "UA-4133641-2",
+     "tracking_ga_page": "UA-4133641-1",
+     "item_type": "show",
+     "cid": "a3139766-5613-4e45-8854-8c20eeefd056",
+     "franchise": null,
+     "genre": {
+      "cid": "32aabe94-4417-40a9-ab55-bd22707e275f",
+      "slug": "news-and-public-affairs",
+      "title": "News and Public Affairs",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/news-and-public-affairs/"
+     },
+     "countries": [],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/newshour/",
+     "premiere_date": null,
+     "popularity": null,
+     "popularity_position": 4,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": false,
+      "passport_only": false,
+      "new_episode": true,
+      "my_station": false
+     }
+    },
+    {
+     "description_long": "After Season 3’s shocking finale, Dan and Jasper are consumed by grief. Dan throws himself into work while the Professor hides in his lectures, avoiding the police at all costs. But Helena, Jasper’s therapist, helps him face back up to his police work and the team tackles complex and dangerous cases. But through the danger and mystery, love is very much in the air.",
+     "description_short": "Professor Tempest and the police return to solve more complex and intriguing crimes.",
+     "images": {
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/vi4Miqo-show-mezzanine16x9-uDeZs28.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/His3Eab-show-poster2x3-nKgfupv.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/ekJaq4R-white-logo-41-2ZRj91L.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/1XGpJX9-color-logo-41-V9tfcPw.png",
+      "background": "https://image.pbs.org/contentchannels/McKjvYJ-background-DhBGSVL.jpg"
+     },
+     "links": [
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "itunes",
+       "updated_at": "2026-10-13T18:59:24.610186Z"
+      },
+      {
+       "value": "https://link.amazon/A00QsJUuu",
+       "profile": "amazon",
+       "updated_at": "2026-10-13T18:58:47.095195Z"
+      },
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "ios",
+       "updated_at": "2026-10-13T18:59:24.742746Z"
+      },
+      {
+       "value": "http://www.vudu.com/content/browse/details/Professor-T-Season-3/3211591",
+       "profile": "roku",
+       "updated_at": "2024-07-23T17:44:10.753052Z"
+      },
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "apple-tv",
+       "updated_at": "2026-10-13T18:59:24.683115Z"
+      },
+      {
+       "value": "https://sgptv.org/contact-pbs-corporate-sponsorship/?utm_source=professor-t&utm_medium=referral",
+       "profile": "sponsor-info",
+       "updated_at": "2022-07-22T18:44:12.956707Z"
+      }
+     ],
+     "slug": "professor-t-uk",
+     "title_sortable": "Professor T",
+     "title": "Professor T",
+     "tracking_ga_event": "",
+     "tracking_ga_page": "",
+     "item_type": "show",
+     "cid": "6610f448-3e32-4118-9d42-b693c82f592a",
+     "franchise": null,
+     "genre": {
+      "cid": "a6c8f8a3-fd3a-4ffe-9a0d-d32e6e584d5d",
+      "slug": "drama",
+      "title": "Drama",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/drama/"
+     },
+     "countries": [
+      "AS",
+      "US",
+      "UM",
+      "VI",
+      "PR",
+      "MP",
+      "GU",
+      "CA"
+     ],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/professor-t-uk/",
+     "premiere_date": "2024-06-16",
+     "popularity": null,
+     "popularity_position": 3,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": false,
+      "passport_only": false,
+      "new_episode": false,
+      "my_station": false
+     }
+    },
+    {
+     "description_long": "There's a new detective on the streets of Paris! Benjamin Wainwright stars as Jules Maigret in the upcoming contemporary adaptation of Georges Simenon's beloved novels. Don't miss Maigret on MASTERPIECE Mystery!",
+     "description_short": "Benjamin Wainwright stars as Maigret in the contemporary adaptation of Georges Simenon's novels.",
+     "images": {
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/2sxurLA-show-mezzanine16x9-HFF6P1o.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/uEs7hTn-show-poster2x3-sJtOy2Q.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/nU84eFj-white-logo-41-G30lMpU.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/p2t2JmD-color-logo-41-jich0ln.png",
+      "background": "https://image.pbs.org/contentchannels/uO8ti6a-background-oZaogEE.jpg"
+     },
+     "links": [
+      {
+       "value": "https://www.pbs.org/wgbh/masterpiece/shows/maigret/",
+       "profile": "producer",
+       "updated_at": "2025-07-02T20:27:17.277229Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.5c588foa50rfbihbcv7n6hz3g?showId=umc.cmc.6mc4t2ia2dgjq0pchxr4ggs9t&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.5c588foa50rfbihbcv7n6hz3g",
+       "profile": "itunes",
+       "updated_at": "2025-11-04T18:23:29.689541Z"
+      },
+      {
+       "value": "https://www.amazon.com/gp/video/detail/B0FQGRZ5BM?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0FQHLCX5X&qid=1761589596822&linkCode=ll2&tag=p05a2-20&linkId=15af9aaf4394da5a175c1212a5841eda&language=en_US&ref_=as_li_ss_tl",
+       "profile": "amazon",
+       "updated_at": "2025-11-04T18:23:29.619649Z"
+      },
+      {
+       "value": "https://www.facebook.com/masterpiecepbs/",
+       "profile": "facebook",
+       "updated_at": "2025-07-02T20:38:26.748064Z"
+      },
+      {
+       "value": "https://www.instagram.com/masterpiecepbs/",
+       "profile": "instagram",
+       "updated_at": "2025-07-02T20:38:26.883280Z"
+      },
+      {
+       "value": "https://twitter.com/masterpiecepbs",
+       "profile": "twitter",
+       "updated_at": "2025-07-02T20:38:26.823537Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.5c588foa50rfbihbcv7n6hz3g?showId=umc.cmc.6mc4t2ia2dgjq0pchxr4ggs9t&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.5c588foa50rfbihbcv7n6hz3giOS",
+       "profile": "ios",
+       "updated_at": "2025-11-04T18:23:29.797601Z"
+      },
+      {
+       "value": "http://athome.fandango.com/content/browse/details/Maigret-on-Masterpiece-Season-1/4574524",
+       "profile": "roku",
+       "updated_at": "2025-11-04T18:23:29.847960Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.5c588foa50rfbihbcv7n6hz3g?showId=umc.cmc.6mc4t2ia2dgjq0pchxr4ggs9t&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.5c588foa50rfbihbcv7n6hz3gAppleTV",
+       "profile": "apple-tv",
+       "updated_at": "2025-11-04T18:23:29.745676Z"
+      },
+      {
+       "value": "https://www.tiktok.com/@masterpiecepbs",
+       "profile": "tiktok",
+       "updated_at": "2025-07-02T20:38:26.940813Z"
+      }
+     ],
+     "slug": "maigret",
+     "title_sortable": "Maigret",
+     "title": "Maigret",
+     "tracking_ga_event": "UA-3988763-2",
+     "tracking_ga_page": "UA-3988763-1",
+     "item_type": "show",
+     "cid": "bab2a033-2ead-4ab4-8250-856c8b4c068d",
+     "franchise": {
+      "cid": "e08bf78d-e6a3-44b9-b356-8753d01c7327",
+      "slug": "masterpiece",
+      "title": "Masterpiece",
+      "url": "https://content.services.pbs.org/v3/pbsorg/screens/franchises/masterpiece/"
+     },
+     "genre": {
+      "cid": "a6c8f8a3-fd3a-4ffe-9a0d-d32e6e584d5d",
+      "slug": "drama",
+      "title": "Drama",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/drama/"
+     },
+     "countries": [
+      "CA",
+      "UM",
+      "GU",
+      "US",
+      "PR",
+      "VI",
+      "MP",
+      "AS"
+     ],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/maigret/",
+     "premiere_date": "2025-10-05",
+     "popularity": null,
+     "popularity_position": 2,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": true,
+      "passport_only": false,
+      "new_episode": true,
+      "my_station": false
+     }
+    }
+   ],
+   "meta": {
+    "links": {
+     "prev": null,
+     "next": "https://content.services.pbs.org/v3/pbsorg/collections/popular-shows/?start=1&limit=1"
+    }
+   }
+  }
+ ],
+ "meta": {
+  "links": {
+   "self": "https://content.services.pbs.org/v3/pbsorg/screens/search/?q=zzzz&rank=relevance&filter_video_availability=public&page=1&start=0&limit=1",
+   "prev": null,
+   "next": null
+  },
+  "total_count": {
+   "popular-shows": 12
+  },
+  "duration": "0:00:00.221590"
+ }
+}

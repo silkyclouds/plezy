@@ -1,0 +1,162 @@
+{
+ "data": {
+  "topic": {
+   "videos": {
+    "totalCount": 1737,
+    "nodes": [
+     {
+      "id": "187849",
+      "title": "Meet the hydra: Masters of immortality",
+      "slug": "raymond_adkins_meet_the_hydra_masters_of_immortality",
+      "description": "In 1740, naturalist Abraham Trembley found something shocking in pondwater. He couldn't tell if it was a plant or an animal, though its way of moving and consuming things seemed animal-like. But when he cut parts off or even split it in two, it regenerated, which was decidedly plant-like. So, what was this miraculous creature? Raymond Adkins explores the near-immortal biology of the hydra. [Directed by Sharon Colman, narrated by Addison Anderson, music by Cem Misirlioglu, WORKPLAYWORK].",
+      "presenterDisplayName": "Raymond Adkins",
+      "duration": 330,
+      "hlsUrl": "https://hls.ted.com/project_masters/11984/manifest.m3u8",
+      "publishedAt": "2026-10-20T15:01:47Z",
+      "recordedOn": "2026-10-20",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ted+ed"
+        },
+        {
+         "slug": "education"
+        },
+        {
+         "slug": "animals"
+        },
+        {
+         "slug": "animation"
+        },
+        {
+         "slug": "biology"
+        },
+        {
+         "slug": "science"
+        },
+        {
+         "slug": "nature"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_187849/6dc5472d-9dfe-43d2-8768-99c28cc99eb3/hydra_textless.jpg",
+        "aspectRatioName": "16x9"
+       }
+      ]
+     },
+     {
+      "id": "191270",
+      "title": "Why the best learners talk to themselves",
+      "slug": "tania_lombrozo_why_the_best_learners_talk_to_themselves",
+      "description": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning harder — and shares the critical skill all great learners possess.",
+      "presenterDisplayName": "Tania Lombrozo",
+      "duration": 937,
+      "hlsUrl": "https://hls.ted.com/project_masters/12086/manifest.m3u8",
+      "publishedAt": "2026-10-20T14:45:13Z",
+      "recordedOn": "2025-10-30",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "cognitive+science"
+        },
+        {
+         "slug": "brain"
+        },
+        {
+         "slug": "science"
+        },
+        {
+         "slug": "personal+growth"
+        },
+        {
+         "slug": "education"
+        },
+        {
+         "slug": "teaching"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/0a02c62a-c306-4f7c-a524-a70915429c01/TaniaLombrozo_2025X-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/27089395-94b8-48e0-adf0-7693cf741d83/TaniaLombrozo_2025X-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/7486b674-4c4d-4403-ad9a-220b91298a75/TaniaLombrozo_2025X-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "190678",
+      "title": "What if you could read the DNA of your future child?",
+      "slug": "noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child",
+      "description": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF. She makes the case that this kind of technology helps families understand and reduce health risks, raising the question: How much should we know about our children's DNA before birth? (Followed by a brief Q&A with TED’s vision steward Sal Khan)",
+      "presenterDisplayName": "Noor Siddiqui",
+      "duration": 781,
+      "hlsUrl": "https://hls.ted.com/project_masters/12078/manifest.m3u8",
+      "publishedAt": "2026-10-19T14:23:51Z",
+      "recordedOn": "2026-04-15",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "dna"
+        },
+        {
+         "slug": "genetics"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "science"
+        },
+        {
+         "slug": "health"
+        },
+        {
+         "slug": "medical+research"
+        },
+        {
+         "slug": "health+care"
+        },
+        {
+         "slug": "pregnancy"
+        },
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "disease"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/5d9cebbc-a466-4a48-a606-16845fb82103/NoorSiddiqui_2026-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/8a48c00d-f933-4ed9-a3df-9c2cd0886064/NoorSiddiqui_2026-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/85b77a2c-1275-43d4-9358-cd4ee9a6892b/NoorSiddiqui_2026-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

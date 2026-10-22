@@ -1,0 +1,551 @@
+{
+ "data": {
+  "playlist": {
+   "id": "925",
+   "title": "Talks on AI and the future of work",
+   "slug": "talks_on_ai_and_the_future_of_work",
+   "description": "Everyone has an opinion on what AI means for the future of work. These talks cut through the panic to explore what AI actually threatens, what it can't touch and what it means to build a career alongside it.",
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_925/646027d3-8ab8-4fe6-bcf4-cbd9e61b1717/talks_on_AI_and_the_future_of_work-2000x2000.jpg",
+     "aspectRatioName": "1x1"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_925/c54cb76f-dc70-493a-8ce2-c629c2e5c076/talks_on_AI_and_the_future_of_work-1200x627.jpg",
+     "aspectRatioName": "400x209"
+    }
+   ],
+   "videos": {
+    "totalCount": 11,
+    "nodes": [
+     {
+      "id": "165733",
+      "title": "Will AI take your job in the next 10 years? Wrong question ",
+      "slug": "vinciane_beauchene_will_ai_take_your_job_in_the_next_10_years_wrong_question",
+      "description": "As AI agents take over more tasks at work, the question isn’t whether or not humans matter — it’s how we make our impact count. Leadership expert Vinciane Beauchene challenges some commonly held assumptions about how AI will transform the workplace, sharing a blueprint for leaders to design organizations where people can focus on what truly makes a difference.",
+      "presenterDisplayName": "Vinciane Beauchene",
+      "duration": 737,
+      "hlsUrl": "https://hls.ted.com/project_masters/11372/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-02-05T15:41:50Z",
+      "recordedOn": "2025-10-23",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "business"
+        },
+        {
+         "slug": "humanity"
+        },
+        {
+         "slug": "future"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_165733/9b0b19be-9dc2-4f3e-af29-31650f1427ab/VincianeBeauchene_2025S-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_165733/43864661-5d6e-4922-b91a-1e9f27562c6d/VincianeBeauchene_2025S-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_165733/4701a02b-6d7b-4a27-ae18-fd2b2d6f37c4/VincianeBeauchene_2025S-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "164483",
+      "title": "How to stop AI from killing your critical thinking",
+      "slug": "advait_sarkar_how_to_stop_ai_from_killing_your_critical_thinking",
+      "description": "Chatbots might help you get work done faster — but at what cost? When we outsource our reasoning to artificial intelligence, we reduce ourselves to \"middle managers for our own thoughts,\" says AI and design researcher Advait Sarkar. He examines the cognitive trade-offs of using AI at work and introduces a different kind of tool: one that encourages critical thinking, nudges reflection and actually helps you get smarter.",
+      "presenterDisplayName": "Advait Sarkar",
+      "duration": 894,
+      "hlsUrl": "https://hls.ted.com/project_masters/11079/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2025-11-16T15:33:08Z",
+      "recordedOn": "2025-09-26",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "brain"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "personal+growth"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "computers"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_164483/c806ae53-6eab-44fb-a174-334d39bd141d/AdvaitSarkar_2025VE-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_164483/831010f0-0613-4973-92fa-aa63e326500d/AdvaitSarkar_2025VE-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_164483/de316fec-9991-4527-89cd-ee5a74ad0ea0/AdvaitSarkar_2025VE-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "184313",
+      "title": "The kind of AI we actually need",
+      "slug": "van_jones_the_kind_of_ai_we_actually_need",
+      "description": "Social entrepreneur Van Jones believes a new human civilization is being born in real time — and that our technology is racing ahead of our wisdom. In this urgent and hopeful talk, he reframes the AI debate, showing why the real danger isn't the technology itself but rather the communities it leaves behind. His solution? A new deal between big tech and humanity, built on a different kind of \"AI\" that we desperately need.",
+      "presenterDisplayName": "Van Jones",
+      "duration": 963,
+      "hlsUrl": "https://hls.ted.com/project_masters/11844/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-07-06T14:52:08Z",
+      "recordedOn": "2026-04-17",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "activism"
+        },
+        {
+         "slug": "community"
+        },
+        {
+         "slug": "future"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184313/34916f5a-f6db-4b85-9272-ef6e7c4f2540/VanJones_2026-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184313/14b98a39-0a8a-4ce5-bbfa-0b9c0486952d/VanJones_2026-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_184313/05971135-af36-4d97-8078-8d9d3ebb560e/VanJones_2026-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "155787",
+      "title": "I'll probably lose my job to AI. Here's why that's OK",
+      "slug": "megan_j_mcardle_i_ll_probably_lose_my_job_to_ai_here_s_why_that_s_ok",
+      "description": "Artificial intelligence could cost many of us our careers — but that doesn’t mean we should stop its development, says journalist Megan J. McArdle. As she watches AI encroach on her own craft, she shares a fresh take on the 19th-century Luddites, who tried to destroy machines that would upend their trade. Looking back, McArdle reframes today’s fears with a poignant question: If we halt progress to protect the present, what might we be stealing from the future?",
+      "presenterDisplayName": "Megan J. McArdle",
+      "duration": 605,
+      "hlsUrl": "https://hls.ted.com/project_masters/10250/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2025-06-27T14:57:26Z",
+      "recordedOn": "2025-04-09",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "artificial+intelligence"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "career"
+        },
+        {
+         "slug": "society"
+        },
+        {
+         "slug": "innovation"
+        },
+        {
+         "slug": "future"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_155787/1d1639fa-63d0-40d7-afea-6cdc7e8d8171/MeganJMcArdle_2025-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_155787/1e067b4d-c898-4dcf-9999-351365dcd3ae/MeganJMcArdle_2025-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_155787/346940ca-9d57-49ae-af7c-94939d2f21df/MeganJMcArdle_2025-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "146100",
+      "title": "How AI models steal creative work — and what to do about it",
+      "slug": "ed_newton_rex_how_ai_models_steal_creative_work_and_what_to_do_about_it",
+      "description": "Generative AI is built on three key resources: people, compute and data. While companies invest heavily in the first two, they often use unlicensed creative work as training data without permission or payment — a practice that pits AI against the very creators it relies on. AI expert Ed Newton-Rex has a solution: licensing. He unpacks the dark side of today's AI models and outlines a plan to ensure that both AI companies and creators can thrive together.",
+      "presenterDisplayName": "Ed Newton-Rex",
+      "duration": 907,
+      "hlsUrl": "https://hls.ted.com/project_masters/9926/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2025-02-27T15:59:59Z",
+      "recordedOn": "2024-10-22",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "creativity"
+        },
+        {
+         "slug": "data"
+        },
+        {
+         "slug": "art"
+        },
+        {
+         "slug": "policy"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146100/3f3290de-84f4-4650-837f-afcb4fec1a13/EdNewton-Rex_2024S-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146100/ef99726f-4b22-44f3-99a2-72e25dba90c1/EdNewton-Rex_2024S-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146100/0fb69e39-5e7b-453a-b978-da539ed9b7ed/EdNewton-Rex_2024S-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "148366",
+      "title": "The AI revolution is underhyped",
+      "slug": "eric_schmidt_the_ai_revolution_is_underhyped",
+      "description": "The arrival of non-human intelligence is a very big deal, says former Google CEO and chairman Eric Schmidt. In a wide-ranging interview with technologist Bilawal Sidhu, Schmidt makes the case that AI is wildly underhyped, as near-constant breakthroughs give rise to systems capable of doing even the most complex tasks on their own. He explores the staggering opportunities, sobering challenges and urgent risks of AI, showing why everyone will need to engage with this technology in order to remain relevant.",
+      "presenterDisplayName": "Eric Schmidt",
+      "duration": 1537,
+      "hlsUrl": "https://hls.ted.com/project_masters/12018/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2025-05-15T14:52:26Z",
+      "recordedOn": "2025-04-11",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "computers"
+        },
+        {
+         "slug": "machine+learning"
+        },
+        {
+         "slug": "innovation"
+        },
+        {
+         "slug": "future"
+        },
+        {
+         "slug": "data"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_148366/29154634-39fc-4807-90db-05e74cc312ff/EricSchmidt_2025-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_148366/28b7810e-4012-49c7-b1e9-4d2bc09bf02d/EricSchmidt_2025-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_148366/93ff6e99-8d53-4485-8e04-12f50efd0fbd/EricSchmidt_2025-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "185013",
+      "title": "Why AI will never replace a great teacher",
+      "slug": "matt_wu_why_ai_will_never_replace_a_great_teacher",
+      "description": "What's the most powerful tool in any classroom? In the age of AI, education advocate Matt Wu still believes it's the people. In this hopeful talk, he discusses the nonprofit he leads, Schoolhouse, which pairs students with peer tutors from across the globe, building the crucial human connection that every person needs to thrive. Peer tutoring isn't just teaching students how to learn concepts, says Wu. It's teaching them how to better understand one another.",
+      "presenterDisplayName": "Matt Wu",
+      "duration": 703,
+      "hlsUrl": "https://hls.ted.com/project_masters/11865/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-07-15T14:43:11Z",
+      "recordedOn": "2026-04-17",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "education"
+        },
+        {
+         "slug": "teaching"
+        },
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "innovation"
+        },
+        {
+         "slug": "community"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185013/d3be1459-6b37-4ff0-bd21-89a604befa5b/MattWu_2026-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185013/cf046fa8-368b-458c-84f6-1022fe031cf4/MattWu_2026-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185013/2c55f71a-81ad-469e-990f-d4eba6f6816f/MattWu_2026-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "182622",
+      "title": "Why AI is an even bigger deal than you think",
+      "slug": "reed_hastings_and_sal_khan_why_ai_is_an_even_bigger_deal_than_you_think",
+      "description": "Netflix cofounder and Anthropic board member Reed Hastings joins TED's Sal Khan to give a look inside the race to build AI. Hear his take on how the technology could accelerate education — including the possibility of an AI tutor for every student — and reshape the economy faster than anyone expects.",
+      "presenterDisplayName": "Reed Hastings and Sal Khan",
+      "duration": 987,
+      "hlsUrl": "https://hls.ted.com/project_masters/11864/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-07-20T14:50:24Z",
+      "recordedOn": "2026-04-15",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "education"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "teaching"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "economics"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_182622/bf2e1ef9-949b-4647-9aef-83318cd30fd7/ReedHastings_2026-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_182622/056a79b2-bda4-42b8-bb76-8fe655065ec9/ReedHastings_2026-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_182622/76f462eb-14a5-4725-9639-15eebd0c8855/ReedHastings_2026-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "176887",
+      "title": "A plan to stop AI from automating our decline",
+      "slug": "gina_raimondo_a_plan_to_stop_ai_from_automating_our_decline",
+      "description": "The United States is on track to win the AI race — and hollow itself out in the process, says Gina Raimondo, former Governor of Rhode Island and US Secretary of Commerce. In this unflinching look at the threat of AI-induced economic disruption and social unrest, she offers a concrete blueprint to prepare workers for what’s coming next. \"AI is a 100-year technology and needs a 100-year response,\" she says. Is America up to the challenge?",
+      "presenterDisplayName": "Gina Raimondo",
+      "duration": 951,
+      "hlsUrl": "https://hls.ted.com/project_masters/11652/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-04-16T18:23:29Z",
+      "recordedOn": "2026-04-14",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "social+change"
+        },
+        {
+         "slug": "politics"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "business"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_176887/92aef0cd-e6a9-4925-8f22-ccd14513d447/GinaRaimondo_2026-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_176887/315cf9b9-390f-4e31-aef0-1dcf5a3d78e9/GinaRaimondo_2026-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_176887/78f097d8-0b5e-4d3e-80ce-914321c1c605/GinaRaimondo_2026-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "170828",
+      "title": "What you know that AI doesn’t",
+      "slug": "priyanka_vergadia_what_you_know_that_ai_doesn_t",
+      "description": "AI is good at seeing patterns, but it’s humans who figure out what to do next, says technologist Priyanka Vergadia. She shares three stories of human excellence sparked by AI insights and offers a pathway to identify and cultivate your irreplaceable qualities, turning the AI revolution from a threat into an opportunity.",
+      "presenterDisplayName": "Priyanka Vergadia",
+      "duration": 559,
+      "hlsUrl": "https://hls.ted.com/project_masters/11386/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2026-02-18T15:59:19Z",
+      "recordedOn": "2025-11-10",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "career"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "collaboration"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_170828/bc391ff0-6c92-493c-918c-7ca6d59f4efd/PriyankaVergadia_2025N-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_170828/63644d6f-2368-476e-8198-3deca54aa630/PriyankaVergadia_2025N-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_170828/505595f2-4055-4e86-820f-a4fbd9c36744/PriyankaVergadia_2025N-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     },
+     {
+      "id": "167584",
+      "title": "AI is coming for your job. Now what?",
+      "slug": "vlad_tenev_ai_is_coming_for_your_job_now_what",
+      "description": "As anxiety grows around what AI means for the future of work, technologist Vlad Tenev delivers a clear-eyed look at what happens when the majority of today's jobs disappear — and why it's not what you think.",
+      "presenterDisplayName": "Vlad Tenev",
+      "duration": 927,
+      "hlsUrl": "https://hls.ted.com/project_masters/11144/manifest.m3u8?intro_master_id=9294",
+      "publishedAt": "2025-12-16T16:03:27Z",
+      "recordedOn": "2025-10-22",
+      "topics": {
+       "nodes": [
+        {
+         "slug": "ai"
+        },
+        {
+         "slug": "career"
+        },
+        {
+         "slug": "work"
+        },
+        {
+         "slug": "history"
+        },
+        {
+         "slug": "technology"
+        },
+        {
+         "slug": "business"
+        },
+        {
+         "slug": "social+change"
+        },
+        {
+         "slug": "future"
+        }
+       ]
+      },
+      "primaryImageSet": [
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_167584/a9cd7893-43ec-45f0-bf62-516b70a93834/VladTenev_2025VE-embed.jpg",
+        "aspectRatioName": "16x9"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_167584/326f0a88-d8ae-41f6-b206-193e0aa0a5d4/VladTenev_2025VE-stageshot.jpg",
+        "aspectRatioName": "4x3"
+       },
+       {
+        "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_167584/ce84a24c-e99b-43a2-8ec9-1af52be101f9/VladTenev_2025VE-1350x675.jpg",
+        "aspectRatioName": "2x1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

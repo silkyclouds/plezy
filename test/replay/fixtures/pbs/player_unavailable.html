@@ -1,0 +1,140 @@
+
+
+
+<!doctype html>
+<html class="video-error" lang="en-US">
+<head>
+  <title>Video:
+    
+    | Watch
+    
+    Online | PBS
+  </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  <style>
+    @font-face {
+      font-family: 'PBS Sans';
+      font-weight: 400;
+      /* stylelint-disable */
+      src: url('https://www-tc.pbs.org/pbsfonts/v1.2/PBSSans.woff2') format('woff2'),
+        url('https://www-tc.pbs.org/pbsfonts/v1.2/PBSSans.woff') format('woff');
+      /* stylelint-enable */
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: 'PBS Sans';
+      font-weight: 700;
+      /* stylelint-disable */
+      src: url('https://www-tc.pbs.org/pbsfonts/v1.2/PBSSans-Bold.woff2') format('woff2'),
+        url('https://www-tc.pbs.org/pbsfonts/v1.2/PBSSans-Bold.woff') format('woff');
+      /* stylelint-enable */
+      font-display: swap;
+    }
+
+    /* custom properties for use in HTML partials */
+    :root {
+      --onyx: #040613;
+      --midnight: #000525;
+      --white: #ffffff;
+      --fog: #eef0f5;
+      --cloud: #f6f8fa;
+      --yellow: #ffcf00;
+      --yellow-darken-20: #cca600;
+      --light-blue: #486cd8;
+      --light-blue-darken-20: #3a56ad;
+      --duration: 300ms;
+      --easing: ease-in;
+
+      @media (prefers-reduced-motion: reduce) {
+        --duration: 0;
+      }
+
+      background-color: var(--onyx);
+      color: var(--white);
+      font-family: "PBS Sans", sans-serif;
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+    }
+  </style>
+
+  
+</head>
+
+<body>
+  
+    <style>
+  .video-error,
+	.video-error body {
+		height: 100%;
+		margin: 0;
+
+		.page-wrap,
+		.page-wrap-livestream {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100%;
+
+		}
+
+		.page-wrap-livestream {
+			background-color: var(--midnight);
+			font-weight: 700;
+			font-size: 22px;
+			line-height: 30px;
+
+			.error-message {
+				max-width: 750px;
+
+				a {
+					color: var(--light-blue);
+					text-decoration: none;
+				}
+			}
+		}
+
+		.error-message {
+			margin: 0 16px;
+			color: var(--fog);
+			font-size: 16px;
+			text-align: center;
+		}
+	}
+</style>
+
+<div class="page-wrap">
+	<div class="l-error-wrap">
+		<p class="error-message">
+
+			
+
+			
+
+			
+
+			
+				We're sorry, but this video is not available.
+			
+
+			
+
+			
+
+			
+
+			
+		</p>
+	</div>
+</div>
+
+  
+</body>
+</html>

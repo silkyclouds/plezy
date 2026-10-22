@@ -1,0 +1,712 @@
+{
+ "collections": [
+  {
+   "slug": "show-results",
+   "title": "Shows",
+   "item_type": "multiple",
+   "collection_type": "inline",
+   "url": "https://content.services.pbs.org/v3/pbsorg/collections/show-results/?q=nova+black+hole",
+   "has_profile_data": false,
+   "content": [
+    {
+     "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/nova/",
+     "slug": "nova",
+     "title": "NOVA",
+     "title_sortable": "NOVA",
+     "description_short": "Explore scientific discoveries on television's most acclaimed science documentary series.",
+     "description_long": "NOVA brings you stories from the frontlines of science and engineering, answering the big questions of today and tomorrow, from how our ancestors lived, to whether parallel universes exist, to how technology will transform our lives. Visit the official website to watch full-length documentaries, or explore our world through short-form video, on our digital publication NOVA Next.",
+     "tracking_ga_page": "UA-3988832-1",
+     "tracking_ga_event": "UA-3988832-2",
+     "links": [
+      {
+       "value": "https://www.pbs.org/wgbh/nova/",
+       "profile": "producer",
+       "updated_at": "2024-09-30T20:48:30.200080Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.isols7d6bxnwgqbsvwrc2ewl?showId=umc.cmc.4ea0iyht1e3466mbex6illnw6&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.isols7d6bxnwgqbsvwrc2ewl",
+       "profile": "itunes",
+       "updated_at": "2025-12-04T14:32:58.953347Z"
+      },
+      {
+       "value": "https://www.amazon.com/gp/video/detail/B0FXZ9VHQZ?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0FXZ8JYM2&qid=1764624102520&linkCode=ll2&tag=p05a2-20&linkId=924724058c6aed70fdb5bc9ffb2a6830&language=en_US&ref_=as_li_ss_tl",
+       "profile": "amazon",
+       "updated_at": "2025-12-04T14:32:58.895519Z"
+      },
+      {
+       "value": "https://www.facebook.com/NOVApbs/",
+       "profile": "facebook",
+       "updated_at": "2017-05-04T19:01:43.779234Z"
+      },
+      {
+       "value": "https://www.instagram.com/novapbs/",
+       "profile": "instagram",
+       "updated_at": "2018-03-13T16:06:18.737120Z"
+      },
+      {
+       "value": "https://twitter.com/novapbs",
+       "profile": "twitter",
+       "updated_at": "2017-05-04T19:01:43.779290Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.isols7d6bxnwgqbsvwrc2ewl?showId=umc.cmc.4ea0iyht1e3466mbex6illnw6&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.isols7d6bxnwgqbsvwrc2ewliOS",
+       "profile": "ios",
+       "updated_at": "2025-12-04T14:32:58.836967Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.isols7d6bxnwgqbsvwrc2ewl?showId=umc.cmc.4ea0iyht1e3466mbex6illnw6&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.isols7d6bxnwgqbsvwrc2ewlAppleTV",
+       "profile": "apple-tv",
+       "updated_at": "2025-12-04T14:32:58.762154Z"
+      },
+      {
+       "value": "http://dun96pyxwe2yl.cloudfront.net/apple-universal-search/images/nova.lsr",
+       "profile": "apple-lsr-format",
+       "updated_at": "2018-09-25T20:38:56.872374Z"
+      }
+     ],
+     "genre": {
+      "cid": "09684cc5-9a7e-460f-841f-4d95987a8f53",
+      "slug": "science-and-nature",
+      "title": "Science and Nature",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/science-and-nature/"
+     },
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "popularity": null,
+     "images": {
+      "show-logo": "https://image.pbs.org/contentchannels/x84ICtA-show-logo-QwNUUpm.png",
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/0McsXg0-show-mezzanine16x9-4PvNQjz.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/ED6PSZP-show-poster2x3-Ve6hmZh.jpg",
+      "show-banner": "https://image.pbs.org/contentchannels/OXIB9I7-show-banner-gzPZlcB.jpg",
+      "show-showcase": "https://image.pbs.org/contentchannels/mVlNXsP-show-showcase-RFTayxC.jpg",
+      "show-white-logo": "https://image.pbs.org/contentchannels/bpUrnFT-show-white-logo-Lta9Ovj.png",
+      "show-black-logo": "https://image.pbs.org/contentchannels/Mn2m9YZ-show-black-logo-WeZsTgk.png",
+      "show-color-logo": "https://image.pbs.org/contentchannels/ELT3Coa-show-color-logo-lGR9Jbo.png",
+      "white-logo-41": "https://image.pbs.org/contentchannels/iAn87U1-white-logo-41-7WCUoLi.png",
+      "black-logo-41": "https://image.pbs.org/contentchannels/2QgZxea-black-logo-41-Ljoc6Rt.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/6bOWWC4-color-logo-41-OsgcRfx.png"
+     },
+     "popularity_position": 6,
+     "franchise": null,
+     "item_type": "show"
+    },
+    {
+     "cid": "9e119e68-ba22-4359-ae85-522e3c49c939",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/nova-science-now/",
+     "slug": "nova-science-now",
+     "title": "NOVA scienceNOW",
+     "title_sortable": "NOVA scienceNOW",
+     "description_short": "Learn how imperative issues in science, technology and medicine affect your life now. ",
+     "description_long": "From the award-winning producers of NOVA, NOVA scienceNOW is a fast-paced and provocative science magazine show that highlights four timely science and technology stories per episode. Launched in 2005, the show is hosted by renowned astrophysicist Neil deGrasse Tyson.  <a href=\"http://www.shoppbs.org/search/index.jsp?kwCatId=&kw=nova%20sciencenow&origkw=nova%20sciencenow&sr=1\" target=\"_blank\">Buy ",
+     "tracking_ga_page": "UA-3988832-1",
+     "tracking_ga_event": "UA-3988832-2",
+     "links": [
+      {
+       "value": "http://www.pbs.org/wgbh/nova/sciencenow/",
+       "profile": "producer",
+       "updated_at": "2017-04-11T07:17:12.159626Z"
+      }
+     ],
+     "genre": {
+      "cid": "09684cc5-9a7e-460f-841f-4d95987a8f53",
+      "slug": "science-and-nature",
+      "title": "Science and Nature",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/science-and-nature/"
+     },
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "popularity": null,
+     "images": {
+      "show-logo": "https://image.pbs.org/contentchannels/59/voRpaLbuC2foiEA41wkdw.png",
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/59/QkZkG0LNmukJSLcgRfFrOw.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/59/k992uo6MMQNETjyOWET7Rg.jpg",
+      "show-white-logo": "https://image.pbs.org/contentchannels/59/rftdsxh0QKzkVyfOvUZm8w.png",
+      "show-black-logo": "https://image.pbs.org/contentchannels/59/ARzXsMKidVvSe3TwUfq4w.png",
+      "show-color-logo": "https://image.pbs.org/contentchannels/59/QUdDBcOXdOB2HdfuSmv6UQ.png",
+      "white-logo-41": "https://image.pbs.org/contentchannels/deUdWUc-white-logo-41-ODOUAZy.png",
+      "black-logo-41": "https://image.pbs.org/contentchannels/FIStJsf-black-logo-41-ozoOTgW.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/xGuuZEG-color-logo-41-lONVFCn.png"
+     },
+     "popularity_position": null,
+     "franchise": null,
+     "item_type": "show"
+    },
+    {
+     "cid": "7a0f25a7-5b18-439b-8507-a9ef3d6909a7",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/nova-labs/",
+     "slug": "nova-labs",
+     "title": "NOVA Labs",
+     "title_sortable": "NOVA Labs",
+     "description_short": "",
+     "description_long": "NOVA Labs is a new digital platform where \"citizen scientists\" can actively participate in the scientific process. From predicting solar storms and designing renewable energy systems to tracking cloud movements and learning cybersecurity strategies, NOVA Labs participants can take part in real-world investigations by visualizing, analyzing, and sharing the same data that scientists use.",
+     "tracking_ga_page": "",
+     "tracking_ga_event": "",
+     "links": [
+      {
+       "value": "http://www.pbs.org/wgbh/nova/labs/",
+       "profile": "producer",
+       "updated_at": "2017-04-11T07:17:12.159626Z"
+      }
+     ],
+     "genre": {
+      "cid": "09684cc5-9a7e-460f-841f-4d95987a8f53",
+      "slug": "science-and-nature",
+      "title": "Science and Nature",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/science-and-nature/"
+     },
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "popularity": null,
+     "images": {
+      "show-poster2x3": "https://image.pbs.org/contentchannels/HP9gsU8-show-poster2x3-WXa2R0S.png"
+     },
+     "popularity_position": null,
+     "franchise": null,
+     "item_type": "show"
+    }
+   ],
+   "meta": {
+    "links": {
+     "prev": null,
+     "next": "https://content.services.pbs.org/v3/pbsorg/collections/show-results/?q=nova+black+hole&start=20&limit=20"
+    }
+   }
+  },
+  {
+   "slug": "videoasset-results",
+   "title": "Videos",
+   "item_type": "multiple",
+   "collection_type": "inline",
+   "url": "https://content.services.pbs.org/v3/pbsorg/collections/videoasset-results/?q=nova+black+hole",
+   "has_profile_data": false,
+   "content": [
+    {
+     "cid": "15db8c0a-7574-4391-9fe0-dd261c7183ff",
+     "slug": "black-hole-apocalypse-yj34qi",
+     "title": "Black Hole Apocalypse",
+     "title_sortable": "Black Hole Apocalypse",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/black-hole-apocalypse-yj34qi/",
+     "duration": 3206,
+     "description_short": "Take a mind-blowing voyage to the most powerful and mysterious objects in the universe.",
+     "description_long": "Black holes are the most enigmatic and exotic objects in the universe. They’re also the most powerful, with gravity so strong it can actually trap light. And they’re destructive. Anything that falls into them vanishes…gone forever. But now, astrophysicists are realizing that black holes may be essential to understanding how our universe unfolded—possibly leading to life on Earth and us.",
+     "video_type": "full_length",
+     "premiere_date": "2017-12-06T00:00:00-05:00",
+     "encore_date": "2017-12-06T00:00:00-05:00",
+     "expire_date": "2028-01-08T04:59:59Z",
+     "last_expiration_date": "2028-01-08T04:59:59Z",
+     "availability": "available",
+     "seconds_watched": null,
+     "images": {
+      "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/25btnJV-asset-mezzanine-16x9-ySNCKrl.jpg"
+     },
+     "flags": {
+      "is_new": false,
+      "is_mvod": false,
+      "has_captions": true,
+      "is_expiring_soon": false,
+      "is_fully_watched": null
+     },
+     "parent": {
+      "ordinal": 1,
+      "slug": "black-hole-apocalypse-uqs6k8",
+      "title": "Black Hole Apocalypse",
+      "cid": "c148047c-27aa-4e8e-9d50-146ed713c40c",
+      "resource_type": "episode",
+      "season": {
+       "ordinal": 45,
+       "title": "",
+       "cid": "7f613b59-588b-4ec5-bcb1-a3d595b2579c",
+       "resource_type": "season",
+       "show": {
+        "audience": [
+         {
+          "scope": "national",
+          "station": null
+         }
+        ],
+        "display_episode_number": true,
+        "franchise": null,
+        "seasons_count": 28,
+        "slug": "nova",
+        "title": "NOVA",
+        "tracking_ga_event": "UA-3988832-2",
+        "tracking_ga_page": "UA-3988832-1",
+        "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+        "resource_type": "show",
+        "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+       }
+      }
+     },
+     "legacy_tp_media_id": 3008168895,
+     "item_type": "video",
+     "audio": [
+      {
+       "channel": "2.0",
+       "language": "en",
+       "descriptive": false
+      }
+     ]
+    },
+    {
+     "cid": "8a005a21-740f-4432-8ca4-f3dcc1a0edab",
+     "slug": "do-black-holes-have-to-be-black-3h8bvq",
+     "title": "Do Black Holes Have to Be Black?",
+     "title_sortable": "Do Black Holes Have to Be Black?",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/do-black-holes-have-to-be-black-3h8bvq/",
+     "duration": 932,
+     "description_short": "Can we change the color of a black hole?",
+     "description_long": "It turns out there is a way to make a coloured black hole—as long as by colour you mean quantum chromodynamic charge.",
+     "video_type": "full_length",
+     "premiere_date": "2024-08-01T00:00:00-04:00",
+     "encore_date": "2024-08-01T00:00:00-04:00",
+     "expire_date": null,
+     "last_expiration_date": null,
+     "availability": "available",
+     "seconds_watched": null,
+     "images": {
+      "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/1nGmQbk-asset-mezzanine-16x9-koIUM38.jpg"
+     },
+     "flags": {
+      "is_new": false,
+      "is_mvod": false,
+      "has_captions": true,
+      "is_expiring_soon": false,
+      "is_fully_watched": null
+     },
+     "parent": {
+      "ordinal": 17,
+      "slug": "do-black-holes-have-to-be-black-eypfev",
+      "title": "Do Black Holes Have to Be Black?",
+      "cid": "08e7dc38-bd44-462c-8212-925690011f06",
+      "resource_type": "episode",
+      "season": {
+       "ordinal": 10,
+       "title": "",
+       "cid": "f9ccd2b4-b4ee-44cf-9a50-d5197e68b4a7",
+       "resource_type": "season",
+       "show": {
+        "audience": [
+         {
+          "scope": "national",
+          "station": null
+         }
+        ],
+        "display_episode_number": true,
+        "franchise": {
+         "slug": "digital-studios",
+         "title": "Digital Studios",
+         "cid": "b854b857-fd72-40f1-b055-7a67b01e972e",
+         "resource_type": "franchise"
+        },
+        "seasons_count": 11,
+        "slug": "pbs-space-time",
+        "title": "PBS Space Time",
+        "tracking_ga_event": "UA-54540056-1",
+        "tracking_ga_page": "UA-54540056-3",
+        "cid": "c00f241f-17a9-468b-b233-725d96e97e3d",
+        "resource_type": "show"
+       }
+      }
+     },
+     "legacy_tp_media_id": 3093557825,
+     "item_type": "video",
+     "audio": [
+      {
+       "channel": "2.0",
+       "language": "en",
+       "descriptive": false
+      }
+     ]
+    },
+    {
+     "cid": "8bd3cb83-5e35-4607-8aab-3e126c5d218e",
+     "title": "NOVA's \"Black Hole Apocalypse\" Homepage",
+     "description_short": "",
+     "external_url": "http://www.pbs.org/wgbh/nova/space/black-hole-apocalypse.html",
+     "image_url": null,
+     "item_type": "remote_asset"
+    },
+    {
+     "cid": "73633885-d5b9-4ebb-a7c2-51d184633418",
+     "slug": "black-hole-badass-zea6c9",
+     "title": "Interview: Black Hole Badass with Janna Levin",
+     "title_sortable": "Interview: Black Hole Badass with Janna Levin",
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/black-hole-badass-zea6c9/",
+     "duration": 4794,
+     "description_short": "Black holes aren’t just cosmic monsters — they’re simply misunderstood.",
+     "description_long": "Black holes get a bad rap. They’ve been cast as the monsters of the cosmos — gobbling up stars and stretching anything that gets too close into cosmic spaghetti. But Black Hole expert Janna Levin thinks they’re just misunderstood. A theoretical physicist, author, and founding scientific director of Pioneer Works, Janna has spent her career decoding these mysterious objects.",
+     "video_type": "full_length",
+     "premiere_date": "2025-09-05T00:00:00-04:00",
+     "encore_date": "2025-09-05T00:00:00-04:00",
+     "expire_date": null,
+     "last_expiration_date": null,
+     "availability": "available",
+     "seconds_watched": null,
+     "images": {
+      "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/48K3Yqy-asset-mezzanine-16x9-WvpYxDs.jpg"
+     },
+     "flags": {
+      "is_new": false,
+      "is_mvod": false,
+      "has_captions": true,
+      "is_expiring_soon": false,
+      "is_fully_watched": null
+     },
+     "parent": {
+      "slug": "black-hole-badass-zmmrsi",
+      "title": "Interview: Black Hole Badass with Janna Levin",
+      "cid": "50b995b8-6ada-4bf6-9159-c6e6bf7db30f",
+      "resource_type": "special",
+      "show": {
+       "audience": [
+        {
+         "scope": "national",
+         "station": null
+        }
+       ],
+       "display_episode_number": true,
+       "franchise": null,
+       "seasons_count": 28,
+       "slug": "nova",
+       "title": "NOVA",
+       "tracking_ga_event": "UA-3988832-2",
+       "tracking_ga_page": "UA-3988832-1",
+       "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+       "resource_type": "show",
+       "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+      }
+     },
+     "legacy_tp_media_id": 3104283534,
+     "item_type": "video",
+     "audio": [
+      {
+       "channel": "2.0",
+       "language": "en",
+       "descriptive": false
+      }
+     ]
+    }
+   ],
+   "meta": {
+    "links": {
+     "prev": null,
+     "next": "https://content.services.pbs.org/v3/pbsorg/collections/videoasset-results/?q=nova+black+hole&start=20&limit=20"
+    }
+   }
+  },
+  {
+   "slug": "popular-shows",
+   "title": "Recommended Popular Shows",
+   "item_type": "show",
+   "collection_type": "inline",
+   "url": "https://content.services.pbs.org/v3/pbsorg/collections/popular-shows/",
+   "has_profile_data": false,
+   "content": [
+    {
+     "description_long": "Hugh Bonneville stars in this crime drama inspired by the true story of one of the largest robberies in British history.",
+     "description_short": "Hugh Bonneville stars in a crime drama inspired by one of the largest robberies in British history.",
+     "images": {
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/nONygtn-show-mezzanine16x9-sjfu0fY.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/AExsSgr-show-poster2x3-2CfrpI0.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/a875kXl-white-logo-41-me5R0cG.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/gsYrj62-color-logo-41-qjnQCH8.png",
+      "background": "https://image.pbs.org/contentchannels/xYVLus8-background-c2qPLts.jpg"
+     },
+     "links": [
+      {
+       "value": "https://www.pbs.org/wgbh/masterpiece/shows/the-gold/",
+       "profile": "producer",
+       "updated_at": "2025-07-02T20:47:04.130378Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtp",
+       "profile": "itunes",
+       "updated_at": "2025-11-04T18:20:04.017333Z"
+      },
+      {
+       "value": "https://www.amazon.com/gp/video/detail/B0CD32PRH6?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0CD34GY25&qid=1761589309857&linkCode=ll2&tag=p05a2-20&linkId=1fabaf2a1a84cb6d1ebeb45abec90757&language=en_US&ref_=as_li_ss_tl",
+       "profile": "amazon",
+       "updated_at": "2025-11-04T18:20:03.962581Z"
+      },
+      {
+       "value": "https://www.facebook.com/masterpiecepbs/",
+       "profile": "facebook",
+       "updated_at": "2025-07-02T20:47:04.196853Z"
+      },
+      {
+       "value": "https://www.instagram.com/masterpiecepbs/",
+       "profile": "instagram",
+       "updated_at": "2025-07-02T20:47:04.253850Z"
+      },
+      {
+       "value": "https://twitter.com/masterpiecepbs",
+       "profile": "twitter",
+       "updated_at": "2025-07-02T20:47:04.311684Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtpiOS",
+       "profile": "ios",
+       "updated_at": "2025-11-04T18:20:04.113782Z"
+      },
+      {
+       "value": "http://athome.fandango.com/content/browse/details/The-Gold-Season-1/4574636",
+       "profile": "roku",
+       "updated_at": "2025-11-04T18:20:04.163361Z"
+      },
+      {
+       "value": "https://tv.apple.com/season/season-1/umc.cmc.477lzyhok00vg05t01d3n0xtp?showId=umc.cmc.5zmrgegq6qisspepvgwhaqd1v&itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.477lzyhok00vg05t01d3n0xtpAppleTV",
+       "profile": "apple-tv",
+       "updated_at": "2025-11-04T18:20:04.067323Z"
+      },
+      {
+       "value": "https://www.tiktok.com/@masterpiecepbs",
+       "profile": "tiktok",
+       "updated_at": "2025-07-02T20:47:04.367965Z"
+      }
+     ],
+     "slug": "the-gold",
+     "title_sortable": "Gold",
+     "title": "The Gold",
+     "tracking_ga_event": "UA-3988763-2",
+     "tracking_ga_page": "UA-3988763-1",
+     "item_type": "show",
+     "cid": "4b4a0ccc-ca75-45d3-9260-cf093af1fe3e",
+     "franchise": {
+      "cid": "e08bf78d-e6a3-44b9-b356-8753d01c7327",
+      "slug": "masterpiece",
+      "title": "Masterpiece",
+      "url": "https://content.services.pbs.org/v3/pbsorg/screens/franchises/masterpiece/"
+     },
+     "genre": {
+      "cid": "a6c8f8a3-fd3a-4ffe-9a0d-d32e6e584d5d",
+      "slug": "drama",
+      "title": "Drama",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/drama/"
+     },
+     "countries": [
+      "MP",
+      "CA",
+      "UM",
+      "AS",
+      "VI",
+      "US",
+      "PR",
+      "GU"
+     ],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/the-gold/",
+     "premiere_date": "2025-10-05",
+     "popularity": null,
+     "popularity_position": 1,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": true,
+      "passport_only": false,
+      "new_episode": true,
+      "my_station": false
+     }
+    },
+    {
+     "description_long": "Millions of Americans turn to PBS for the solid, reliable reporting that has made PBS News Hour one of the most trusted news programs in television.",
+     "description_short": "Top journalists deliver compelling original analysis of the hour's headlines.",
+     "images": {
+      "show-logo": "https://image.pbs.org/contentchannels/0NSigPZ-show-logo-UKTGKYV.png",
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/CaSNwev-show-mezzanine16x9-JtAx0q6.png",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/k1Gwt8I-show-poster2x3-EWWT8oy.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/ReSXiaU-white-logo-41-xYfzfok.png",
+      "background": "https://image.pbs.org/contentchannels/VQrTfgS-background-InYkIfW.jpg"
+     },
+     "links": [
+      {
+       "value": "https://www.pbs.org/newshour/",
+       "profile": "producer",
+       "updated_at": "2021-06-23T14:40:41.386072Z"
+      },
+      {
+       "value": "https://www.facebook.com/newshour",
+       "profile": "facebook",
+       "updated_at": "2017-05-04T19:49:02.265188Z"
+      },
+      {
+       "value": "https://www.instagram.com/newshour/",
+       "profile": "instagram",
+       "updated_at": "2017-05-04T19:49:02.265354Z"
+      },
+      {
+       "value": "https://www.pinterest.com/pbsnewshour/",
+       "profile": "pinterest",
+       "updated_at": "2017-05-04T19:49:02.265300Z"
+      },
+      {
+       "value": "https://twitter.com/NewsHour",
+       "profile": "twitter",
+       "updated_at": "2017-05-04T19:49:02.265245Z"
+      },
+      {
+       "value": "https://dun96pyxwe2yl.cloudfront.net/apple-universal-search/images/newshour.lsr",
+       "profile": "apple-lsr-format",
+       "updated_at": "2021-06-23T14:40:41.643407Z"
+      }
+     ],
+     "slug": "newshour",
+     "title_sortable": "PBS News Hour",
+     "title": "PBS News Hour",
+     "tracking_ga_event": "UA-4133641-2",
+     "tracking_ga_page": "UA-4133641-1",
+     "item_type": "show",
+     "cid": "a3139766-5613-4e45-8854-8c20eeefd056",
+     "franchise": null,
+     "genre": {
+      "cid": "32aabe94-4417-40a9-ab55-bd22707e275f",
+      "slug": "news-and-public-affairs",
+      "title": "News and Public Affairs",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/news-and-public-affairs/"
+     },
+     "countries": [],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/newshour/",
+     "premiere_date": null,
+     "popularity": null,
+     "popularity_position": 4,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": false,
+      "passport_only": false,
+      "new_episode": true,
+      "my_station": false
+     }
+    },
+    {
+     "description_long": "After Season 3’s shocking finale, Dan and Jasper are consumed by grief. Dan throws himself into work while the Professor hides in his lectures, avoiding the police at all costs. But Helena, Jasper’s therapist, helps him face back up to his police work and the team tackles complex and dangerous cases. But through the danger and mystery, love is very much in the air.",
+     "description_short": "Professor Tempest and the police return to solve more complex and intriguing crimes.",
+     "images": {
+      "show-mezzanine16x9": "https://image.pbs.org/contentchannels/vi4Miqo-show-mezzanine16x9-uDeZs28.jpg",
+      "show-poster2x3": "https://image.pbs.org/contentchannels/His3Eab-show-poster2x3-nKgfupv.jpg",
+      "white-logo-41": "https://image.pbs.org/contentchannels/ekJaq4R-white-logo-41-2ZRj91L.png",
+      "color-logo-41": "https://image.pbs.org/contentchannels/1XGpJX9-color-logo-41-V9tfcPw.png",
+      "background": "https://image.pbs.org/contentchannels/McKjvYJ-background-DhBGSVL.jpg"
+     },
+     "links": [
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "itunes",
+       "updated_at": "2026-10-13T18:59:24.610186Z"
+      },
+      {
+       "value": "https://link.amazon/A00QsJUuu",
+       "profile": "amazon",
+       "updated_at": "2026-10-13T18:58:47.095195Z"
+      },
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "ios",
+       "updated_at": "2026-10-13T18:59:24.742746Z"
+      },
+      {
+       "value": "http://www.vudu.com/content/browse/details/Professor-T-Season-3/3211591",
+       "profile": "roku",
+       "updated_at": "2024-07-23T17:44:10.753052Z"
+      },
+      {
+       "value": "https://apple.co/3UrvKDo",
+       "profile": "apple-tv",
+       "updated_at": "2026-10-13T18:59:24.683115Z"
+      },
+      {
+       "value": "https://sgptv.org/contact-pbs-corporate-sponsorship/?utm_source=professor-t&utm_medium=referral",
+       "profile": "sponsor-info",
+       "updated_at": "2022-07-22T18:44:12.956707Z"
+      }
+     ],
+     "slug": "professor-t-uk",
+     "title_sortable": "Professor T",
+     "title": "Professor T",
+     "tracking_ga_event": "",
+     "tracking_ga_page": "",
+     "item_type": "show",
+     "cid": "6610f448-3e32-4118-9d42-b693c82f592a",
+     "franchise": null,
+     "genre": {
+      "cid": "a6c8f8a3-fd3a-4ffe-9a0d-d32e6e584d5d",
+      "slug": "drama",
+      "title": "Drama",
+      "url": "https://content.services.pbs.org/v3/pbsorg/collections/drama/"
+     },
+     "countries": [
+      "AS",
+      "US",
+      "UM",
+      "VI",
+      "PR",
+      "MP",
+      "GU",
+      "CA"
+     ],
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "url": "https://content.services.pbs.org/v3/pbsorg/screens/shows/professor-t-uk/",
+     "premiere_date": "2024-06-16",
+     "popularity": null,
+     "popularity_position": 3,
+     "flags": {
+      "coming_soon": false,
+      "is_new": false,
+      "new_season": false,
+      "passport_only": false,
+      "new_episode": false,
+      "my_station": false
+     }
+    }
+   ],
+   "meta": {
+    "links": {
+     "prev": null,
+     "next": null
+    }
+   }
+  }
+ ],
+ "meta": {
+  "links": {
+   "self": "https://content.services.pbs.org/v3/pbsorg/screens/search/?q=nova+black+hole&rank=relevance&filter_video_availability=public&page=1&start=0&limit=20",
+   "prev": null,
+   "next": "https://content.services.pbs.org/v3/pbsorg/screens/search/?q=nova+black+hole&rank=relevance&filter_video_availability=public&page=1&start=20&limit=20"
+  },
+  "total_count": {
+   "show-results": 58,
+   "videoasset-results": 3866,
+   "popular-shows": 12
+  },
+  "filters": {},
+  "duration": "0:00:00.308672"
+ }
+}

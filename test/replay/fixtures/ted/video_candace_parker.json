@@ -1,0 +1,51 @@
+{
+ "data": {
+  "video": {
+   "id": "86532",
+   "title": "How to break down barriers and not accept limits",
+   "slug": "candace_parker_how_to_break_down_barriers_and_not_accept_limits",
+   "description": "What can't Candace Parker do? A two-time NCAA champion, two-time Olympic gold medalist and two-time WNBA champion, Parker knows what it takes to fight for your dreams. In this inspiring talk, she shares what she's learned during a career spent not accepting limits -- and how her daughter taught her the best lesson of all. \"Barrier breaking is about not staying in your lane and not being something that the world expects you to be,\" she says. \"It's about not accepting limitations.\"",
+   "presenterDisplayName": "Candace Parker",
+   "duration": 679,
+   "hlsUrl": "https://hls.ted.com/project_masters/7506/manifest.m3u8?intro_master_id=9294",
+   "publishedAt": "2022-01-14T15:39:45Z",
+   "recordedOn": "2021-12-01",
+   "topics": {
+    "nodes": [
+     {
+      "slug": "personal+growth"
+     },
+     {
+      "slug": "equality"
+     },
+     {
+      "slug": "activism"
+     },
+     {
+      "slug": "motivation"
+     },
+     {
+      "slug": "social+change"
+     },
+     {
+      "slug": "sports"
+     }
+    ]
+   },
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4b719f19-34ea-4101-bb47-19419cb3c288/CandaceParker_2021W-1350x675.jpg",
+     "aspectRatioName": "2x1"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fd2ff863-26bb-4a72-8fd4-8380a4a8c0b4/CandaceParker_2021W-embed.jpg",
+     "aspectRatioName": "16x9"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/29df70f7-8c30-4cf6-b6da-4d9a48e82994/CandaceParker_2021W-stageshot.jpg",
+     "aspectRatioName": "4x3"
+    }
+   ]
+  }
+ }
+}

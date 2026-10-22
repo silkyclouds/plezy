@@ -1,0 +1,215 @@
+{
+ "data": {
+  "videos": {
+   "totalCount": 5286,
+   "nodes": [
+    {
+     "id": "190272",
+     "title": "Want someone to change? Ask this question",
+     "slug": "philip_jameson_want_someone_to_change_ask_this_question",
+     "description": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done. He breaks down why people push back against change — and the one question that could help your next idea take flight.",
+     "presenterDisplayName": "Philip Jameson",
+     "duration": 364,
+     "hlsUrl": "https://hls.ted.com/project_masters/12091/manifest.m3u8",
+     "publishedAt": "2026-10-21T16:00:58Z",
+     "recordedOn": "2026-08-18",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "work"
+       },
+       {
+        "slug": "communication"
+       },
+       {
+        "slug": "business"
+       },
+       {
+        "slug": "personal+growth"
+       },
+       {
+        "slug": "relationships"
+       },
+       {
+        "slug": "leadership"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190272/a6c75a37-aecb-4b32-8d5a-9830e37d6649/PhilipJameson_2026S-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190272/0ff259be-2d07-415b-b1f7-e61b45bcfd30/PhilipJameson_2026S-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190272/30491332-f6be-44e4-9c65-849c287b0190/PhilipJameson_2026S-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "185826",
+     "title": "How would you design your dream city?",
+     "slug": "james_rojas_how_would_you_design_your_dream_city",
+     "description": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love.",
+     "presenterDisplayName": "James Rojas",
+     "duration": 518,
+     "hlsUrl": "https://hls.ted.com/project_masters/11886/manifest.m3u8?intro_master_id=9294",
+     "publishedAt": "2026-10-21T14:31:42Z",
+     "recordedOn": "2026-05-14",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "storytelling"
+       },
+       {
+        "slug": "play"
+       },
+       {
+        "slug": "cities"
+       },
+       {
+        "slug": "urban+planning"
+       },
+       {
+        "slug": "empathy"
+       },
+       {
+        "slug": "creativity"
+       },
+       {
+        "slug": "memory"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185826/52faeb14-16c1-4229-bf47-6dce3853698e/JamesRojas_2026S-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185826/27783938-164a-454f-85af-209e868304c6/JamesRojas_2026S-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_185826/09d7dce2-b482-493d-a7e0-5f87cd46114a/JamesRojas_2026S-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "191270",
+     "title": "Why the best learners talk to themselves",
+     "slug": "tania_lombrozo_why_the_best_learners_talk_to_themselves",
+     "description": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning harder — and shares the critical skill all great learners possess.",
+     "presenterDisplayName": "Tania Lombrozo",
+     "duration": 937,
+     "hlsUrl": "https://hls.ted.com/project_masters/12086/manifest.m3u8",
+     "publishedAt": "2026-10-20T14:45:13Z",
+     "recordedOn": "2025-10-30",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "technology"
+       },
+       {
+        "slug": "cognitive+science"
+       },
+       {
+        "slug": "brain"
+       },
+       {
+        "slug": "science"
+       },
+       {
+        "slug": "personal+growth"
+       },
+       {
+        "slug": "education"
+       },
+       {
+        "slug": "teaching"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/0a02c62a-c306-4f7c-a524-a70915429c01/TaniaLombrozo_2025X-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/27089395-94b8-48e0-adf0-7693cf741d83/TaniaLombrozo_2025X-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_191270/7486b674-4c4d-4403-ad9a-220b91298a75/TaniaLombrozo_2025X-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    },
+    {
+     "id": "190678",
+     "title": "What if you could read the DNA of your future child?",
+     "slug": "noor_siddiqui_what_if_you_could_read_the_dna_of_your_future_child",
+     "description": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF. She makes the case that this kind of technology helps families understand and reduce health risks, raising the question: How much should we know about our children's DNA before birth? (Followed by a brief Q&A with TED’s vision steward Sal Khan)",
+     "presenterDisplayName": "Noor Siddiqui",
+     "duration": 781,
+     "hlsUrl": "https://hls.ted.com/project_masters/12078/manifest.m3u8",
+     "publishedAt": "2026-10-19T14:23:51Z",
+     "recordedOn": "2026-04-15",
+     "topics": {
+      "nodes": [
+       {
+        "slug": "dna"
+       },
+       {
+        "slug": "genetics"
+       },
+       {
+        "slug": "technology"
+       },
+       {
+        "slug": "science"
+       },
+       {
+        "slug": "health"
+       },
+       {
+        "slug": "medical+research"
+       },
+       {
+        "slug": "health+care"
+       },
+       {
+        "slug": "pregnancy"
+       },
+       {
+        "slug": "ai"
+       },
+       {
+        "slug": "disease"
+       }
+      ]
+     },
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/5d9cebbc-a466-4a48-a606-16845fb82103/NoorSiddiqui_2026-embed.jpg",
+       "aspectRatioName": "16x9"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/8a48c00d-f933-4ed9-a3df-9c2cd0886064/NoorSiddiqui_2026-stageshot.jpg",
+       "aspectRatioName": "4x3"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_190678/85b77a2c-1275-43d4-9358-cd4ee9a6892b/NoorSiddiqui_2026-1350x675.jpg",
+       "aspectRatioName": "2x1"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

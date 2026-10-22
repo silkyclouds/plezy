@@ -1,0 +1,165 @@
+{
+ "data": {
+  "t0": {
+   "id": "80599",
+   "title": "What happens to the plastic you throw away?",
+   "slug": "ted_climate_what_happens_to_the_plastic_you_throw_away",
+   "description": "Plastic is everywhere. We know we should cut down on it where we can, but is plastic ever the answer? In this episode of TED Climate, a whole world of plastic you never knew about. Starting with: which bag is best -- paper, plastic or cotton? The answer might surprise you. Host Dan Kwartler breaks down the pros and cons of each bag and which you should carry on your next shopping trip. Then we follow the journey of three different plastic bottles after you throw them away, shedding light on the dangers these disposables present to the world. Plus, three things you can do to put a cap on our plastic problem. ",
+   "presenterDisplayName": "TED Climate",
+   "duration": 703,
+   "hlsUrl": "https://hls.ted.com/project_masters/6957/manifest.m3u8",
+   "publishedAt": "2021-08-13T03:45:49Z",
+   "recordedOn": "2021-08-11",
+   "topics": {
+    "nodes": [
+     {
+      "slug": "climate+change"
+     },
+     {
+      "slug": "ted+ed"
+     }
+    ]
+   },
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/cb213816-b0af-47fe-8efa-39b7283e5a84/TAC_TEDClimate_DanKwartler_2021V-embed.jpg",
+     "aspectRatioName": "16x9"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4951f15c-9e45-4248-8c91-b73eed92d41c/TAC_TEDClimate_DanKwartler_2021V-stageshot.jpg",
+     "aspectRatioName": "4x3"
+    }
+   ]
+  },
+  "t1": {
+   "id": "67172",
+   "title": "The state of the climate crisis\tin 2020",
+   "slug": "climate_action_tracker_the_state_of_the_climate_crisis_in_2020",
+   "description": "With the 2015 Paris Climate Agreement, 197 countries agreed to set emission targets that would limit global temperature rise 1.5 degrees Celsius by capping greenhouse emissions at \"net-zero\" -- or absorbing as much carbon as they emit -- by 2050. So far, only two countries (Gambia and Morocco) are hitting their targets, while the biggest emitters are falling flat, or ignoring their goals entirely. How can we hold these countries accountable? Enter the Climate Action Tracker. (Updated September 2020)",
+   "presenterDisplayName": "Climate Action Tracker",
+   "duration": 270,
+   "hlsUrl": "https://hls.ted.com/project_masters/5459/manifest.m3u8",
+   "publishedAt": "2020-10-10T15:36:15Z",
+   "recordedOn": "2020-10-10",
+   "topics": {
+    "nodes": [
+     {
+      "slug": "climate+change"
+     },
+     {
+      "slug": "science"
+     },
+     {
+      "slug": "environment"
+     },
+     {
+      "slug": "countdown"
+     },
+     {
+      "slug": "energy"
+     },
+     {
+      "slug": "sustainability"
+     },
+     {
+      "slug": "data"
+     }
+    ]
+   },
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/52954184-e70d-4f1a-82af-1b7cf8a0be4d/ClimateActionTracker_2020T-embed.jpg",
+     "aspectRatioName": "16x9"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/03aca23c-52f0-4674-8bac-11bd083c8f2f/ClimateActionTracker_2020T-stageshot.jpg",
+     "aspectRatioName": "4x3"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c2d9a88c-9a0e-400c-bff4-9cc4fb4ff485/ClimateActionTracker_2020T-1350x675.jpg",
+     "aspectRatioName": "2x1"
+    }
+   ]
+  },
+  "t2": {
+   "id": "80768",
+   "title": "The state of the climate crisis in 2021",
+   "slug": "climate_action_tracker_the_state_of_the_climate_crisis_in_2021",
+   "description": "2021 is a critical year for climate change. According to the Paris Climate Agreement, governments must decide now on how to reduce the amount of carbon they pump into the atmosphere in order to avoid the most devastating consequences of global warming. So, are we on track to limit global warming to only 1.5 degrees Celsius? The Climate Action Tracker explains the good news and the bad news for the planet. (Updated June 2021)",
+   "presenterDisplayName": "Climate Action Tracker",
+   "duration": 334,
+   "hlsUrl": "https://hls.ted.com/project_masters/7382/manifest.m3u8?intro_master_id=7275",
+   "publishedAt": "2021-09-02T14:52:36Z",
+   "recordedOn": "2021-08-01",
+   "topics": {
+    "nodes": [
+     {
+      "slug": "climate+change"
+     },
+     {
+      "slug": "sustainability"
+     },
+     {
+      "slug": "countdown"
+     },
+     {
+      "slug": "environment"
+     },
+     {
+      "slug": "science"
+     },
+     {
+      "slug": "energy"
+     }
+    ]
+   },
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/553565d7-93f7-448c-9576-b62498287053/ClimateActionTracker_2021-embed.jpg",
+     "aspectRatioName": "16x9"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/373c3099-3be2-4489-93a1-31725d61ced2/ClimateActionTracker_2021-stageshot.jpg",
+     "aspectRatioName": "4x3"
+    },
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/2fb01e24-8aa3-42a7-918e-022c7eda226f/ClimateActionTracker_2021-1350x675.jpg",
+     "aspectRatioName": "2x1"
+    }
+   ]
+  },
+  "t3": {
+   "id": "67191",
+   "title": "Climate Mindset",
+   "slug": "ted_radio_hour_climate_mindset",
+   "description": "Taking on the climate crisis can seem like an insurmountable feat. On part one of TED Radio Hour episode -- Climate Mindset -- climate scientist Tom Rivett-Carnac makes the case that what we may need most to take on the challenge is a mental shift. You can hear from more speakers and listen to the full episode wherever you find your podcasts. If you want to get more involved with these ideas on how we can be catalysts for preventing climate change, join Countdown -- TED's new global initiative to accelerate solutions to the climate crisis. It's live on TED's YouTube channel on October 10 at 11AM ET. (Audio only)",
+   "presenterDisplayName": "TED Radio Hour",
+   "duration": 723,
+   "hlsUrl": "https://hls.ted.com/project_masters/5388/manifest.m3u8",
+   "publishedAt": "2020-10-08T22:51:29Z",
+   "recordedOn": "2020-10-08",
+   "topics": {
+    "nodes": [
+     {
+      "slug": "environment"
+     },
+     {
+      "slug": "climate+change"
+     },
+     {
+      "slug": "sustainability"
+     },
+     {
+      "slug": "global+issues"
+     }
+    ]
+   },
+   "primaryImageSet": [
+    {
+     "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/94f136f6-0190-44dd-8795-ad7169a549ec/trh_mentality_to_fight_climate_change_embed.jpg",
+     "aspectRatioName": "16x9"
+    }
+   ]
+  }
+ }
+}

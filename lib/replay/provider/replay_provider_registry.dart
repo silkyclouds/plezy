@@ -5,11 +5,13 @@ import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
+import '../providers/pbs/pbs_provider.dart';
 import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
 import '../providers/svtplay/svtplay_provider.dart';
+import '../providers/ted/ted_provider.dart';
 import '../providers/tf1plus/tf1plus_provider.dart';
 import '../providers/tvlocales/antennecentre_provider.dart';
 import '../providers/tvlocales/canalzoom_provider.dart';
@@ -130,6 +132,20 @@ const replaySourceInfos = [
     languages: ['sv'],
   ),
   ReplaySourceInfo(
+    id: 'pbs',
+    name: 'PBS',
+    support: ReplayPlaybackSupport.partial,
+    country: 'US',
+    languages: ['en'],
+  ),
+  ReplaySourceInfo(
+    id: 'ted',
+    name: 'TED',
+    support: ReplayPlaybackSupport.clear,
+    country: replayInternational,
+    languages: ['en'],
+  ),
+  ReplaySourceInfo(
     id: 'dw',
     name: 'Deutsche Welle',
     support: ReplayPlaybackSupport.clear,
@@ -189,6 +205,8 @@ Map<String, ReplayProvider> buildReplayProviders(
       'canalzoom' => CanalZoomProvider(http),
       'aljazeera' => AljazeeraProvider(http),
       'svtplay' => SvtPlayProvider(http),
+      'pbs' => PbsProvider(http),
+      'ted' => TedProvider(http),
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
       _ => null,

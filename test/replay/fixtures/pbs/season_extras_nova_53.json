@@ -1,0 +1,336 @@
+[
+ {
+  "slug": "would-a-penny-dropped-from-the-empire-state-building-kill-you-x7shhe",
+  "title": "Would a Penny Dropped from the Empire State Building Kill You?",
+  "title_sortable": "Would a Penny Dropped from the Empire State Building Kill You?",
+  "duration": 352,
+  "description_short": "Falling is more complicated than you might think.",
+  "description_long": "For centuries, scientists argued about how objects fall. The answer eventually led to our modern understanding of gravity, acceleration, and drag.",
+  "legacy_tp_media_id": 3114671774,
+  "item_type": "video",
+  "cid": "d4a6bbd7-9e6e-45e5-9818-da8f829c0e70",
+  "video_type": "clip",
+  "premiere_date": "2026-10-16T00:00:00-04:00",
+  "encore_date": "2026-10-16T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/would-a-penny-dropped-from-the-empire-state-building-kill-you-x7shhe/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/LInlMRq-asset-mezzanine-16x9-n8zDP2N.jpg"
+  },
+  "flags": {
+   "is_new": true,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 53,
+   "title": "",
+   "show": {
+    "audience": [
+     {
+      "scope": "national",
+      "station": null
+     }
+    ],
+    "display_episode_number": true,
+    "franchise": null,
+    "seasons_count": 28,
+    "slug": "nova",
+    "title": "NOVA",
+    "tracking_ga_event": "UA-3988832-2",
+    "tracking_ga_page": "UA-3988832-1",
+    "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+    "resource_type": "show",
+    "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+   },
+   "cid": "f72458fd-42e6-4878-b05b-2eac9e18ad97",
+   "resource_type": "season"
+  }
+ },
+ {
+  "slug": "is-there-a-center-of-the-universe-kjtymm",
+  "title": "Is There a Center of the Universe?",
+  "title_sortable": "Is There a Center of the Universe?",
+  "duration": 356,
+  "description_short": "Physics says the universe is centerless, but a cosmic alignment has scientists asking questions.",
+  "description_long": "Is Earth the center of the universe? Is there a center of the universe at all? Physics relies on the idea that there isn’t – but some strange evidence that  suggests our place in the cosmos may not be as ordinary as we thought.",
+  "legacy_tp_media_id": 3114671140,
+  "item_type": "video",
+  "cid": "8ce1bc7c-47e2-4bf2-9d20-ca78753c81e0",
+  "video_type": "clip",
+  "premiere_date": "2026-10-16T00:00:00-04:00",
+  "encore_date": "2026-10-16T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/is-there-a-center-of-the-universe-kjtymm/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/1FMubc5-asset-mezzanine-16x9-pPBDPPq.jpg"
+  },
+  "flags": {
+   "is_new": true,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 53,
+   "title": "",
+   "show": {
+    "audience": [
+     {
+      "scope": "national",
+      "station": null
+     }
+    ],
+    "display_episode_number": true,
+    "franchise": null,
+    "seasons_count": 28,
+    "slug": "nova",
+    "title": "NOVA",
+    "tracking_ga_event": "UA-3988832-2",
+    "tracking_ga_page": "UA-3988832-1",
+    "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+    "resource_type": "show",
+    "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+   },
+   "cid": "f72458fd-42e6-4878-b05b-2eac9e18ad97",
+   "resource_type": "season"
+  }
+ },
+ {
+  "slug": "cats-accidentally-solved-a-physics-mystery-fdwwfm",
+  "title": "Cats Accidentally Solved a Physics Mystery",
+  "title_sortable": "Cats Accidentally Solved a Physics Mystery",
+  "duration": 377,
+  "description_short": "Falling cats seem to break the rules of motion, but the real explanation is stranger than it looks.",
+  "description_long": "For centuries, scientists have been baffled by how cats land on their feet. Figuring it out took several theories, calculations, and dropped cats. But it’s helped us understand everything from how to move in zero gravity to building better robots.",
+  "legacy_tp_media_id": 3114662965,
+  "item_type": "video",
+  "cid": "42067b91-9f92-49f2-8697-db26b4b92d81",
+  "video_type": "clip",
+  "premiere_date": "2026-10-16T00:00:00-04:00",
+  "encore_date": "2026-10-16T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/cats-accidentally-solved-a-physics-mystery-fdwwfm/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/WHf48r7-asset-mezzanine-16x9-PepsTIB.jpg"
+  },
+  "flags": {
+   "is_new": true,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 53,
+   "title": "",
+   "show": {
+    "audience": [
+     {
+      "scope": "national",
+      "station": null
+     }
+    ],
+    "display_episode_number": true,
+    "franchise": null,
+    "seasons_count": 28,
+    "slug": "nova",
+    "title": "NOVA",
+    "tracking_ga_event": "UA-3988832-2",
+    "tracking_ga_page": "UA-3988832-1",
+    "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+    "resource_type": "show",
+    "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+   },
+   "cid": "f72458fd-42e6-4878-b05b-2eac9e18ad97",
+   "resource_type": "season"
+  }
+ },
+ {
+  "slug": "evolution-brain-power-preview-j1cmxm",
+  "title": "Evolution: Brain Power Preview",
+  "title_sortable": "Evolution: Brain Power Preview",
+  "duration": 60,
+  "description_short": "The story of the dolphin reveals how intelligence evolved, step by step, over billions of years.",
+  "description_long": "Intelligence is the defining trait of our species. Discover how our sophisticated human brains—and those of our clever animal cousins like the dolphin—evolved from the time when our ancestors were tiny senseless sea creatures.",
+  "legacy_tp_media_id": 3113713308,
+  "item_type": "video",
+  "cid": "00ac4dd8-e37b-4e3e-9877-d11be6baec30",
+  "video_type": "preview",
+  "premiere_date": "2026-10-14T00:00:00-04:00",
+  "encore_date": "2026-10-14T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/evolution-brain-power-preview-j1cmxm/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/Fl0gh1m-asset-mezzanine-16x9-6UXed7I.jpg"
+  },
+  "flags": {
+   "is_new": false,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 13,
+   "slug": "evolution-brain-power-rg3irp",
+   "title": "Evolution: Brain Power",
+   "season": {
+    "ordinal": 53,
+    "title": "",
+    "show": {
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "display_episode_number": true,
+     "franchise": null,
+     "seasons_count": 28,
+     "slug": "nova",
+     "title": "NOVA",
+     "tracking_ga_event": "UA-3988832-2",
+     "tracking_ga_page": "UA-3988832-1",
+     "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+     "resource_type": "show",
+     "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+    },
+    "cid": "f72458fd-42e6-4878-b05b-2eac9e18ad97",
+    "resource_type": "season"
+   },
+   "cid": "117ed153-88c4-4ae4-8fdc-793ccf88697d",
+   "resource_type": "episode"
+  }
+ },
+ {
+  "slug": "space-wars-preview-gacadq",
+  "title": "Space Wars Preview",
+  "title_sortable": "Space Wars Preview",
+  "duration": 30,
+  "description_short": "Inside the escalating military struggle to control space and the satellites we rely on.",
+  "description_long": "An arms race is escalating above us, as military powers vie for control of space. Discover how satellites we rely on are vulnerable to attack, how debris is filling increasingly crowded orbits, and what can be done to protect them.",
+  "legacy_tp_media_id": 3113967737,
+  "item_type": "video",
+  "cid": "ae98ef7d-801a-47ad-b404-c21444753384",
+  "video_type": "preview",
+  "premiere_date": "2026-10-07T00:00:00-04:00",
+  "encore_date": "2026-10-07T00:00:00-04:00",
+  "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/space-wars-preview-gacadq/",
+  "images": {
+   "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/Izgy0Po-asset-mezzanine-16x9-qhJ7j8c.jpg"
+  },
+  "flags": {
+   "is_new": false,
+   "is_mvod": false,
+   "has_captions": true,
+   "is_expiring_soon": false,
+   "fvod_to_mvod_soon": false,
+   "is_fully_watched": null,
+   "is_playable": true,
+   "is_playable_explanation": null,
+   "is_uhd": false
+  },
+  "availability": "available",
+  "seconds_watched": null,
+  "expire_date": null,
+  "last_expiration_date": null,
+  "audio": [
+   {
+    "channel": "2.0",
+    "language": "en",
+    "descriptive": false
+   }
+  ],
+  "parent": {
+   "ordinal": 12,
+   "slug": "space-wars-cheylt",
+   "title": "Space Wars",
+   "season": {
+    "ordinal": 53,
+    "title": "",
+    "show": {
+     "audience": [
+      {
+       "scope": "national",
+       "station": null
+      }
+     ],
+     "display_episode_number": true,
+     "franchise": null,
+     "seasons_count": 28,
+     "slug": "nova",
+     "title": "NOVA",
+     "tracking_ga_event": "UA-3988832-2",
+     "tracking_ga_page": "UA-3988832-1",
+     "cid": "adfb2f9d-f61e-4613-ac58-ab3bde582afb",
+     "resource_type": "show",
+     "funder_message": "National Corporate funding for NOVA is provided by <a href=\"https://www.carlisle.com/\" target=\"_blank\">Carlisle Companies</a>. Major funding for NOVA is provided by the NOVA Science Trust and PBS viewers."
+    },
+    "cid": "f72458fd-42e6-4878-b05b-2eac9e18ad97",
+    "resource_type": "season"
+   },
+   "cid": "19830ff1-625f-4fb4-8e91-ad3484628c3e",
+   "resource_type": "episode"
+  }
+ }
+]

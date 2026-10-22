@@ -1,0 +1,57 @@
+{
+ "data": {
+  "playlists": {
+   "totalCount": 771,
+   "nodes": [
+    {
+     "id": "927",
+     "title": "TED Talks on critical thinking and philosophy",
+     "slug": "ted_talks_on_critical_thinking_and_philosophy",
+     "description": "Critical thinking is about asking better questions, whether you’re facing an age-old dilemma or a new technology. These talks offer surprising ways to challenge your assumptions, make hard choices and think for yourself.",
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_927/2082ea46-b8d6-45cf-b8ce-02c727b861da/critical_thinking_and_philosophy-2000x2000.jpg",
+       "aspectRatioName": "1x1"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_927/91e5d78c-2bea-4d43-94c4-be33114ba69f/critical_thinking_and_philosophy-1200x627.jpg",
+       "aspectRatioName": "400x209"
+      }
+     ]
+    },
+    {
+     "id": "926",
+     "title": "Best TED Talks on communication skills",
+     "slug": "best_ted_talks_on_communication_skills",
+     "description": "Great communication isn't a gift you're born with. It's a set of skills — from listening well to giving feedback that actually lands — that you can learn. These talks offer practical, surprising tools for improving your ability to communicate and connect with others.",
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_926/867ab340-575e-46d9-85f0-714735473c62/communication_skills-2000x2000.jpg",
+       "aspectRatioName": "1x1"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_926/4f8d7d86-2f70-4d9e-a373-a70eff4c7a39/communication_skills-1200x627.jpg",
+       "aspectRatioName": "400x209"
+      }
+     ]
+    },
+    {
+     "id": "925",
+     "title": "Talks on AI and the future of work",
+     "slug": "talks_on_ai_and_the_future_of_work",
+     "description": "Everyone has an opinion on what AI means for the future of work. These talks cut through the panic to explore what AI actually threatens, what it can't touch and what it means to build a career alongside it.",
+     "primaryImageSet": [
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_925/646027d3-8ab8-4fe6-bcf4-cbd9e61b1717/talks_on_AI_and_the_future_of_work-2000x2000.jpg",
+       "aspectRatioName": "1x1"
+      },
+      {
+       "url": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_925/c54cb76f-dc70-493a-8ce2-c629c2e5c076/talks_on_AI_and_the_future_of_work-1200x627.jpg",
+       "aspectRatioName": "400x209"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
