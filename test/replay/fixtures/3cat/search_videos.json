@@ -1,0 +1,435 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 5,
+   "item": [
+    {
+     "entradeta": "Coneixem el monestir de Poblet, un espai on el silenci es pot sentir. Vivim en una societat en permanent crisi de silenci: envoltats de sorolls, transitem per la vida sense parar atenció al seu valor reparador. En parlem amb fra Octavi Vilà",
+     "entradeta_promo": "Un camí en què el silenci esdevé patrimoni i una invitació a escoltar-nos i habitar el temps.",
+     "avantitol": "Divulgació",
+     "durada": "00:29:53:06",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 8,
+     "capitol_temporada": 8,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "t1xc8-silenci-reial-monestir-de-santa-maria-de-poblet",
+     "permatitle": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+     "codis_etics": [
+      {
+       "id": "CE_TP",
+       "desc": "Tots els públics",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_TV3EI",
+       "desc": "TV3 Exclusiu internet",
+       "main": true
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "77076",
+       "desc": "Patrimonis",
+       "nom": "PROGRAMA_TELE",
+       "domini": "SENSE",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "patrimonis",
+       "titol": "Patrimonis",
+       "data_publicacio": "13/10/2026 15:31:05",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/5/2/1791899655925.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/6/1791899688062.jpg",
+         "mida": "326x184",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/9/1/1791899656619.png",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/8/1791899674081.png",
+         "mida": "312x180",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/6/1791899697062.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/3/1791899719839.jpg",
+         "mida": "141x51",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/8/1791899728587.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791899740498.jpg",
+         "mida": "400x80",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/7/1791899752473.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/7/1791899761473.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/9/6/1791899769369.png",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMG_LOGO"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/9/1792408702098.jpg",
+         "mida": "MASTER",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/9/1792408713599.jpg",
+         "mida": "1014x570",
+         "alt": "Patrimonis",
+         "titol": "Patrimonis",
+         "rel_name": "IMAGE"
+        }
+       ]
+      }
+     ],
+     "id": 6427755,
+     "titol": "T1xC8 - Silenci (reial monestir de Santa Maria de Poblet)",
+     "data_publicacio": "16/10/2026 08:00:00",
+     "domini": "SENSE",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/1/1791966201215.jpg",
+       "mida": "1014x570",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791966196848.jpg",
+       "mida": "120x68",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/1/1791966197511.jpg",
+       "mida": "200x113",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/5/1791966198259.jpg",
+       "mida": "320x180",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/8/1791966198983.jpg",
+       "mida": "326x184",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/0/1791966199708.jpg",
+       "mida": "426x240",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/1/1791966200418.jpg",
+       "mida": "670x378",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/5/1791966194254.jpg",
+       "mida": "MASTER",
+       "titol": "T1xC8 - Silenci (Reial Monestir de Santa Maria de Poblet)",
+       "rel_name": "KEYVIDEO"
+      }
+     ]
+    },
+    {
+     "entradeta": "Minut de silenci a Granollers pel nen de 12 anys desaparegut des de l'aiguat del 5 d'octubre. Han trobat el seu cos davant la costa de Sitges.\r\n",
+     "avantitol": "Actualitat",
+     "durada": "00:35:04:15",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 7055,
+     "capitol_temporada": -1,
+     "nom_friendly": "telenoticies-comarques-15102026",
+     "permatitle": "Telenotícies comarques - 15/10/2026",
+     "codis_etics": [
+      {
+       "id": "CE_DA",
+       "desc": "Directes actualitat",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_TV3",
+       "desc": "TV3",
+       "main": true
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "136938435",
+       "desc": "Telenotícies",
+       "nom": "PROGRAMA_TELE",
+       "domini": "TVC",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "telenoticies",
+       "titol": "Telenotícies",
+       "data_publicacio": "19/11/2009 12:25:00",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg",
+         "mida": "MASTER",
+         "alt": "Telenotícies",
+         "titol": "TNs_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/6/1758133761768.jpg",
+         "mida": "326x184",
+         "alt": "Telenotícies",
+         "titol": "TNs_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/7/1758133814577.png",
+         "mida": "MASTER",
+         "alt": "Telenotícies",
+         "titol": "TNs_logoPrograma_312x180",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/4/1758133832047.png",
+         "mida": "312x180",
+         "alt": "Telenotícies",
+         "titol": "TNs_logoPrograma_312x180",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/3/1758133893831.jpg",
+         "mida": "MASTER",
+         "titol": "TNs_12col_ambLogo",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/1/1758133903716.jpg",
+         "mida": "1014x570",
+         "titol": "TNs_12col_ambLogo",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/5/5/1758133926155.jpg",
+         "mida": "MASTER",
+         "titol": "TNs_12col_senseLogo",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1758133936419.jpg",
+         "mida": "670x378",
+         "titol": "TNs_12col_senseLogo",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/5/3/1758133993335.jpg",
+         "mida": "MASTER",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/6/1758134079168.jpg",
+         "mida": "1980x200",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/7/1758134180673.jpg",
+         "mida": "MASTER",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/9/1758134215099.jpg",
+         "mida": "768x92",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/8/1758134244384.jpg",
+         "mida": "MASTER",
+         "titol": "TNs_poster_467x684",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/8/1758134262082.jpg",
+         "mida": "288x422",
+         "titol": "TNs_poster_467x684",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/6/1758134362460.jpg",
+         "mida": "MASTER",
+         "titol": "TNs_poster_467x684",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/9/0/1758134382709.png",
+         "mida": "MASTER",
+         "titol": "TNs_IPTV_sony_telenoticies",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/0/5/1758134531950.png",
+         "mida": "128x96",
+         "titol": "TNs_IPTV_sony_telenoticies",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/2/1758134426423.jpg",
+         "mida": "MASTER",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/3/1758134453533.jpg",
+         "mida": "400x80",
+         "titol": "NomPrograma_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/9/1758134964597.png",
+         "mida": "MASTER",
+         "titol": "TNs_logo",
+         "rel_name": "IMG_LOGO"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/3/1758191814434.jpg",
+         "mida": "MASTER",
+         "titol": "TNs_169_1920x1080",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/4/1758192106949.jpg",
+         "mida": "MASTER",
+         "titol": "NomPrograma_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        }
+       ]
+      }
+     ],
+     "id": 6430473,
+     "titol": "Telenotícies comarques - 15/10/2026",
+     "data_publicacio": "15/10/2026 13:54:44",
+     "domini": "SENSE",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/9/1792068136397.jpg",
+       "mida": "1014x570",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/7/1792068132377.jpg",
+       "mida": "120x68",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/2/1792068133021.jpg",
+       "mida": "200x113",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/4/1792068133746.jpg",
+       "mida": "320x180",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/1/1792068134419.jpg",
+       "mida": "326x184",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/9/1792068135092.jpg",
+       "mida": "426x240",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/5/1792068135756.jpg",
+       "mida": "670x378",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/0/1792068130408.jpg",
+       "mida": "MASTER",
+       "titol": "00.- Portada TNC",
+       "rel_name": "KEYVIDEO"
+      }
+     ]
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 1534,
+   "items_pagina": 5,
+   "pagina_actual": 1,
+   "total_pagines": 307
+  }
+ }
+}

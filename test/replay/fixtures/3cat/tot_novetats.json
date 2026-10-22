@@ -1,0 +1,417 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 3,
+   "item": [
+    {
+     "entradeta": "Som-hi i Prou viuen divertides aventures en què hauran d'aturar-se, pensar i trobar solucions als problemes. Amb l'ajuda dels seus amics Blocks, aprendran a planificar, seguir passos, detectar patrons i provar noves idees mentre juguen i s'",
+     "nombonic": "wonderblocks",
+     "entradeta_promo": "Atura't, pensa i prova-ho! Amb Som-hi i Prou, cada problema es converteix en una divertida aventura.",
+     "tipologia": "PTVC_PROGRAMA",
+     "lletra": "W",
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_S3",
+       "desc": "Super3",
+       "main": true
+      },
+      {
+       "id": "PUC_S3_S3",
+       "desc": "S3",
+       "main": false
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_TP",
+       "desc": "Tots els públics",
+       "main": true
+      }
+     ],
+     "programes_grec": [
+      {
+       "id": "528781",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      },
+      {
+       "id": "528784",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      }
+     ],
+     "etiquetes": [
+      {
+       "id": "ETPROGESTREN",
+       "desc": "Estrena",
+       "main": true
+      }
+     ],
+     "id": 76976,
+     "data_modificacio": "19/10/2026 10:29:19",
+     "titol": "Wonderblocks",
+     "data_publicacio": "19/10/2026 08:00:00",
+     "domini": "PUS3",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/png/7/0/1791988105707.png",
+       "mida": "MASTER",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/png/1/4/1791988312341.png",
+       "mida": "326x326",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791988484198.jpg",
+       "mida": "320x466",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988464550.jpg",
+       "mida": "326x184",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/9/1791988412391.jpg",
+       "mida": "670x378",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/4/1791988394943.jpg",
+       "mida": "1014x570",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/5/1791988367653.jpg",
+       "mida": "1014x180",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/2/1791988342126.jpg",
+       "mida": "1600x284",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/9/1791988328499.jpg",
+       "mida": "288x422",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/3/1791988215038.jpg",
+       "mida": "MASTER",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMG_IPTV"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/8/1791988515288.jpg",
+       "mida": "400x80",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMG_IPTV"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/8/1791988231889.jpg",
+       "mida": "MASTER",
+       "alt": "Wonderblocks",
+       "titol": "Wonderblocks",
+       "rel_name": "IMG_IPTV2"
+      }
+     ]
+    },
+    {
+     "info_distribucio": "Cada dilluns, dos nous capítols",
+     "entradeta": "La Blanca, una biòloga de 37 anys en plena recerca de sentit personal i professional, s'incorpora com a embriòloga a una petita clínica de reproducció assistida de Barcelona. Allà s'enfronta a decisions difícils, pacients diversos i un sist",
+     "nombonic": "in-vitro",
+     "entradeta_promo": "Un retrat profund sobre la fertilitat al segle XXI, amb David Verdaguer i Bruna Cusí.",
+     "tipologia": "PTVC_PROGRAMA",
+     "lletra": "I",
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUCTV3",
+       "desc": "TV3",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_12",
+       "desc": "12 anys",
+       "main": true
+      }
+     ],
+     "programes_grec": [
+      {
+       "id": "528762",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      }
+     ],
+     "etiquetes": [
+      {
+       "id": "ETPROGESTREN",
+       "desc": "Estrena",
+       "main": true
+      }
+     ],
+     "id": 77036,
+     "data_modificacio": "20/10/2026 15:47:31",
+     "titol": "In vitro",
+     "data_publicacio": "09/10/2026 08:00:00",
+     "domini": "SENSE",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/png/3/8/1791445038683.png",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/png/2/7/1791445129072.png",
+       "mida": "312x180",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/3/1791445120936.jpg",
+       "mida": "1014x570_logo",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791445113448.jpg",
+       "mida": "326x184",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/4/1791445063841.jpg",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_IPTV"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/7/1791446006579.jpg",
+       "mida": "400x80",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_IPTV"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/3/1791445070831.jpg",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_IPTV2"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/3/1791446023037.jpg",
+       "mida": "141x51",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_IPTV2"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/7/1791445085972.jpg",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMATGE_169"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/7/1791445091975.jpg",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_POSTER"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/png/8/0/1791445098808.png",
+       "mida": "MASTER",
+       "alt": "In vitro",
+       "titol": "In vitro",
+       "rel_name": "IMG_LOGO"
+      }
+     ]
+    },
+    {
+     "lletra": "D",
+     "entradeta": "Històries de dones que treballen incansablement per convertir el món en un lloc millor, que batallen pels seus drets i els de la seva gent. Testimonis de superació, d'esforç, plens de tendresa i emoció, que busquen mostrar el poder transfor",
+     "nombonic": "dones-en-lluita",
+     "tipologia": "WCR_PROGRAMA",
+     "presentador": "Txell Feixas Torras",
+     "poad_pub": "SI",
+     "programes_grec": [
+      {
+       "id": "527211",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      },
+      {
+       "id": "6016078",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      },
+      {
+       "id": "505405",
+       "desc": "",
+       "nom": "PROGRAMA",
+       "tipologia": "EMI_PROGRAMA"
+      }
+     ],
+     "etiquetes": [
+      {
+       "id": "ETTEMPNOUCAP",
+       "desc": "Nous capítols",
+       "main": true
+      }
+     ],
+     "entradeta_promo": "Noves històries de resistència, activisme i superació de la mà de la periodista Txell Feixas.",
+     "id": 2144,
+     "data_modificacio": "20/10/2026 09:55:28",
+     "titol": "Dones en lluita",
+     "url": "https://www.3cat.cat/catradio/dones-en-lluita/",
+     "data_publicacio": "28/02/2025 10:02:00",
+     "domini": "PUCR",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/png/8/7/1740589033178.png",
+       "mida": "MASTER",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMG_LOGO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/1/1740589055314.jpg",
+       "mida": "MASTER",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMG_PODCAST"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/9/1740589168192.jpg",
+       "mida": "MASTER",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/2/1740589481825.jpg",
+       "mida": "670x378",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/1/1740589427412.jpg",
+       "mida": "326x184",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/4/1740589561848.jpg",
+       "mida": "144x144",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/9/1740589624790.jpg",
+       "mida": "300x300",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/0/1740589681807.jpg",
+       "mida": "1400x1400",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/6/1740589325165.jpg",
+       "mida": "288x422",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/2/1740589898228.jpg",
+       "mida": "200x200",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/5/1765905704758.jpg",
+       "mida": "MASTER",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMG_POSTER"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/7/1791884996075.jpg",
+       "mida": "MASTER",
+       "alt": "Dones En Lluita",
+       "titol": "Dones En Lluita",
+       "rel_name": "IMATGE_169"
+      }
+     ]
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 200,
+   "items_pagina": 5,
+   "pagina_actual": 1,
+   "total_pagines": 40
+  }
+ }
+}

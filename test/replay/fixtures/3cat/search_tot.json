@@ -1,0 +1,134 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 5,
+   "item": [
+    {
+     "entradeta": "Els sindicats del sector asseguren que hi ha desenes de grups fent feines de vigilància a les obres sense estar donats d'alta al Departament d'Interior i reclamen mesures",
+     "permatitle": "Qui vigila les obres públiques? Sindicats de seguretat privada denuncien intrusisme de clans",
+     "tipologia": "NOT_NOTICIA",
+     "id": 3434178,
+     "titol": "Qui vigila les obres públiques? Sindicats de seguretat privada denuncien intrusisme de clans",
+     "data_publicacio": "21/10/2026 20:43:07",
+     "domini": "N324",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/8/1792607796386.jpg",
+       "mida": "MASTER",
+       "titol": "lisardos",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/8/1792607798383.jpg",
+       "mida": "670x378",
+       "titol": "lisardos",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/2/1792607798227.jpg",
+       "mida": "650x350",
+       "titol": "lisardos",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/9/1792607798296.jpg",
+       "mida": "326x184",
+       "titol": "lisardos",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/6/1792607797067.jpg",
+       "mida": "240x130",
+       "titol": "lisardos",
+       "rel_name": "IMAGE"
+      }
+     ]
+    },
+    {
+     "entradeta": "Els protagonistes del documental \"Deslligats\" han patit diferents tipus d'abusos molt estesos en el món del ballet i els han viscut en silenci",
+     "permatitle": "\"Deslligats\": El món del ballet va abusar d'ells, però ara aquests ballarins es rebel·len",
+     "avantitol": "\"El documental\"",
+     "tipologia": "NOT_NOTICIA",
+     "id": 3435148,
+     "titol": "\"Deslligats\": El món del ballet va abusar d'ells, però ara aquests ballarins es rebel·len",
+     "data_publicacio": "21/10/2026 12:07:03",
+     "domini": "SENSE",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/1/1792502589215.jpg",
+       "mida": "MASTER",
+       "alt": "Ballarins del Ballet de Barcelona durant la representació d'\"El trencanous\" a l'escenari, mostrant vestuari variat i actitud expressiva",
+       "titol": "Deslligats",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/6/1792502591660.jpg",
+       "mida": "670x378",
+       "alt": "Ballarins del Ballet de Barcelona durant la representació d'\"El trencanous\" a l'escenari, mostrant vestuari variat i actitud expressiva",
+       "titol": "Deslligats",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/4/1792502591549.jpg",
+       "mida": "650x350",
+       "alt": "Ballarins del Ballet de Barcelona durant la representació d'\"El trencanous\" a l'escenari, mostrant vestuari variat i actitud expressiva",
+       "titol": "Deslligats",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/0/1792502591603.jpg",
+       "mida": "326x184",
+       "alt": "Ballarins del Ballet de Barcelona durant la representació d'\"El trencanous\" a l'escenari, mostrant vestuari variat i actitud expressiva",
+       "titol": "Deslligats",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/0/1792502590003.jpg",
+       "mida": "240x130",
+       "alt": "Ballarins del Ballet de Barcelona durant la representació d'\"El trencanous\" a l'escenari, mostrant vestuari variat i actitud expressiva",
+       "titol": "Deslligats",
+       "rel_name": "IMAGE"
+      }
+     ]
+    },
+    {
+     "entradeta": "L'actor malgratenc puja a \"Al cotxe!\" per presentar \"In vitro\", la nova sèrie de ficció dirigida per Marc Crehuet que aborda l'univers de la reproducció assistida",
+     "permatitle": "David Verdaguer, sobre la paternitat: \"Em va agafar una cosa ancestral d'home de les cavernes\"",
+     "avantitol": "\"Al cotxe\"",
+     "tipologia": "NOT_NOTICIA",
+     "id": 3434949,
+     "titol": "David Verdaguer, sobre la paternitat: \"Em va agafar una cosa ancestral d'home de les cavernes\"",
+     "data_publicacio": "21/10/2026 07:30:00",
+     "domini": "TVC",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/9/1792138334296.jpg",
+       "mida": "MASTER",
+       "titol": "David Verdaguer",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/4/1792138340044.jpg",
+       "mida": "670x378",
+       "titol": "David Verdaguer",
+       "rel_name": "IMAGE"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/7/1792138338673.jpg",
+       "mida": "326x184",
+       "titol": "David Verdaguer",
+       "rel_name": "IMAGE"
+      }
+     ]
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 9934,
+   "items_pagina": 5,
+   "pagina_actual": 1,
+   "total_pagines": 1987
+  }
+ }
+}

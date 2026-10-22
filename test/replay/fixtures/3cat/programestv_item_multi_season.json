@@ -1,0 +1,476 @@
+{
+ "resposta": {
+  "status": "OK",
+  "item": {
+   "info_distribucio": "Tres temporades disponibles",
+   "entradeta": "El professor de filosofia Merlí Bergerón (Francesc Orella) tria un grup d'alumnes de batxillerat per ser els Peripatètics del segle XXI. Com si es tractés d'un nou Aristòtil, el Merlí els ensenya a qüestionar les coses, a reflexionar.",
+   "nombonic": "merli",
+   "entradeta_promo": "Deu anys de l'estrena de \"Merlí\", la sèrie emblemàtica que va marcar a tota una generació.",
+   "url_facebook": "https://www.facebook.com/merlitv3",
+   "url_twitter": "https://twitter.com/MerliTV3",
+   "url_instagram": "https://instagram.com/merlitv3oficial",
+   "regles_temporada": "ARXIU",
+   "idiomes": [
+    {
+     "id": "PU_CATALA",
+     "idint": "51305",
+     "desc": "Català",
+     "main": true
+    }
+   ],
+   "temporades": [
+    {
+     "id": "PUTEMP_3",
+     "idint": "50956",
+     "desc": "3a Temporada",
+     "main": true
+    }
+   ],
+   "canals": [
+    {
+     "id": "PUC_TV3",
+     "idint": "50788",
+     "desc": "TV3",
+     "main": true
+    }
+   ],
+   "codis_etics": [
+    {
+     "id": "CE_13",
+     "idint": "49118",
+     "desc": "13 anys",
+     "main": true
+    }
+   ],
+   "agrupacions": [
+    {
+     "id": "PUAG_AD",
+     "idint": "52967",
+     "desc": "Audiodescripció",
+     "main": false
+    },
+    {
+     "id": "TV3MARATONS",
+     "idint": "53614",
+     "desc": "Per fer una marató",
+     "main": false
+    },
+    {
+     "id": "PUAGR_AMISTA",
+     "idint": "54807",
+     "desc": "Més enllà de l'amistat",
+     "main": false
+    }
+   ],
+   "formats": [
+    {
+     "id": "PUFF_SDRAM",
+     "idint": "50731",
+     "desc": "Sèrie dramàtica",
+     "main": true
+    }
+   ],
+   "tematiques": [
+    {
+     "id": "PUFICCIO",
+     "idint": "50590",
+     "desc": "Ficció",
+     "main": true
+    }
+   ],
+   "menu": [
+    {
+     "id": "134980",
+     "desc": "Capítols",
+     "nom": "PU_MENU",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "10",
+     "tag_friendly": "capitols"
+    }
+   ],
+   "info": [
+    {
+     "id": "108760",
+     "desc": "Més info",
+     "nom": "PU_INFO",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "-1",
+     "tag_friendly": "Més info",
+     "text": "<p>Merlí Bergeron (<strong>Francesc Orella</strong>) és molt més que un professor d'institut. És tot un caràcter irònic, càustic, seductor, divertit i amb una bona dosi d'humor negre i, a la vegada,"
+    }
+   ],
+   "dty_desfoto": [
+    {
+     "id": "131941",
+     "desc": "\"Merlí\": la sèrie que ha marcat tota una generació",
+     "nom": "DTY_DESFOTO",
+     "tipologia": "DTY_DESTACAT",
+     "ordre": "1",
+     "url": "https://www.3cat.cat/tv3/alacarta/merli/",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/2/1441616848825.jpg",
+       "mida": "326x184",
+       "alt": "Els protagonistes de \"Merlí\"",
+       "peu": "Els protagonistes de \"Merlí\"",
+       "group_id": "3780476",
+       "asset_id": "3553828",
+       "type_id": "12491611",
+       "titol": "Els protagonistes de \"Merlí\"",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/8/1441616828088.jpg",
+       "mida": "MASTER",
+       "alt": "Els protagonistes de \"Merlí\"",
+       "peu": "Els protagonistes de \"Merlí\"",
+       "group_id": "3780476",
+       "asset_id": "3553828",
+       "type_id": "12491608",
+       "titol": "Els protagonistes de \"Merlí\"",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/5/1441616842659.jpg",
+       "mida": "670x378",
+       "alt": "Els protagonistes de \"Merlí\"",
+       "peu": "Els protagonistes de \"Merlí\"",
+       "group_id": "3780476",
+       "asset_id": "3553828",
+       "type_id": "12491610",
+       "titol": "Els protagonistes de \"Merlí\"",
+       "rel_name": "image"
+      }
+     ]
+    },
+    {
+     "id": "86820",
+     "desc": "Merlí - Temporada 1",
+     "nom": "DTY_DESFOTO",
+     "tipologia": "DTY_DESTACAT",
+     "ordre": "2",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/8/1576057981085.jpg",
+       "mida": "326x184",
+       "alt": "La primera temporada de \"Merlí\", amb Francesc Orella",
+       "font": "Pròpia",
+       "group_id": "5797383",
+       "asset_id": "5191315",
+       "type_id": "22841702",
+       "titol": "La primera temporada de \"Merlí\", amb Francesc Orella",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/8/1576057467480.jpg",
+       "mida": "MASTER",
+       "alt": "La primera temporada de \"Merlí\", amb Francesc Orella",
+       "font": "Pròpia",
+       "group_id": "5797383",
+       "asset_id": "5191315",
+       "type_id": "22841614",
+       "titol": "La primera temporada de \"Merlí\", amb Francesc Orella",
+       "rel_name": "image"
+      }
+     ]
+    },
+    {
+     "id": "86821",
+     "desc": "Merlí - Temporada 2",
+     "nom": "DTY_DESFOTO",
+     "tipologia": "DTY_DESTACAT",
+     "ordre": "3",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/9/1576057600397.jpg",
+       "mida": "MASTER",
+       "alt": "La temporada dos de \"Merlí\". Carlos Cuevas és Pol Rubio",
+       "font": "Pròpia",
+       "group_id": "5797385",
+       "asset_id": "5191317",
+       "type_id": "22841626",
+       "titol": "La temporada dos de \"Merlí\". Carlos Cuevas és Pol Rubio",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/5/1576057957552.jpg",
+       "mida": "326x184",
+       "alt": "La temporada dos de \"Merlí\". Carlos Cuevas és Pol Rubio",
+       "font": "Pròpia",
+       "group_id": "5797385",
+       "asset_id": "5191317",
+       "type_id": "22841688",
+       "titol": "La temporada dos de \"Merlí\". Carlos Cuevas és Pol Rubio",
+       "rel_name": "image"
+      }
+     ]
+    }
+   ],
+   "personatges": [
+    {
+     "id": "108887",
+     "desc": "Pol Rubio (Carlos Cuevas)",
+     "nom": "PU_PERSONA",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "1",
+     "tag_friendly": "/tv3/merli/pol-rubio/fitxa/108887/",
+     "text": "<figure class=\"imatge\"><img alt=\"Pol Rubio (Carlos Cuevas)\" class=\"CKEditorImageContainer_1014x570\" src=\"/multimedia/jpg/8/3/1697404117238.jpg\"></figure><p>El Pol Rubio ha repetit dos cursos. És en ap",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/5/1473698894158.jpg",
+       "mida": "MASTER",
+       "alt": "Pol Rubio (Carlos Cuevas)",
+       "peu": "Pol Rubio (Carlos Cuevas)",
+       "group_id": "4237633",
+       "asset_id": "3912795",
+       "type_id": "14616313",
+       "titol": "Pol Rubio (Carlos Cuevas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/3/1697404117238.jpg",
+       "mida": "1014x570",
+       "alt": "Pol Rubio (Carlos Cuevas)",
+       "peu": "Pol Rubio (Carlos Cuevas)",
+       "group_id": "4237633",
+       "asset_id": "3912795",
+       "type_id": "34395178",
+       "titol": "Pol Rubio (Carlos Cuevas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/0/1473698914407.jpg",
+       "mida": "326x184",
+       "alt": "Pol Rubio (Carlos Cuevas)",
+       "peu": "Pol Rubio (Carlos Cuevas)",
+       "group_id": "4237633",
+       "asset_id": "3912795",
+       "type_id": "14616316",
+       "titol": "Pol Rubio (Carlos Cuevas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/2/1473698908525.jpg",
+       "mida": "670x378",
+       "alt": "Pol Rubio (Carlos Cuevas)",
+       "peu": "Pol Rubio (Carlos Cuevas)",
+       "group_id": "4237633",
+       "asset_id": "3912795",
+       "type_id": "14616315",
+       "titol": "Pol Rubio (Carlos Cuevas)",
+       "rel_name": "image"
+      }
+     ]
+    },
+    {
+     "id": "108880",
+     "desc": "Bruno Bergeron (David Solans)",
+     "nom": "PU_PERSONA",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "2",
+     "tag_friendly": "/tv3/merli/bruno-bergeron/fitxa/108880/",
+     "text": "<figure class=\"imatge\"><img alt=\"Bruno Bergerón (David Solans)\" class=\"CKEditorImageContainer_1200x677\" src=\"/multimedia/jpg/4/0/1697408086404.jpg\"><figcaption>&nbsp;</figcaption></figure><p>El Bruno ",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/2/1473698808121.jpg",
+       "mida": "MASTER",
+       "alt": "Bruno Bergerón (David Solans)",
+       "peu": "Bruno Bergerón (David Solans)",
+       "group_id": "4237632",
+       "asset_id": "3912794",
+       "type_id": "14616309",
+       "titol": "Bruno Bergerón (David Solans)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/0/1697408086404.jpg",
+       "mida": "1200x677",
+       "alt": "Bruno Bergerón (David Solans)",
+       "peu": "Bruno Bergerón (David Solans)",
+       "group_id": "4237632",
+       "asset_id": "3912794",
+       "type_id": "34395317",
+       "titol": "Bruno Bergerón (David Solans)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/9/1473698838398.jpg",
+       "mida": "326x184",
+       "alt": "Bruno Bergerón (David Solans)",
+       "peu": "Bruno Bergerón (David Solans)",
+       "group_id": "4237632",
+       "asset_id": "3912794",
+       "type_id": "14616312",
+       "titol": "Bruno Bergerón (David Solans)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/9/1473698829794.jpg",
+       "mida": "670x378",
+       "alt": "Bruno Bergerón (David Solans)",
+       "peu": "Bruno Bergerón (David Solans)",
+       "group_id": "4237632",
+       "asset_id": "3912794",
+       "type_id": "14616311",
+       "titol": "Bruno Bergerón (David Solans)",
+       "rel_name": "image"
+      }
+     ]
+    },
+    {
+     "id": "108888",
+     "desc": "Tània Illa (Elisabet Casanovas)",
+     "nom": "PU_PERSONA",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "3",
+     "tag_friendly": "/tv3/merli/tania-illa/fitxa/108888/",
+     "text": "<figure class=\"imatge\"><img alt=\"Tània Illa (Elisabet Casanovas)\" class=\"CKEditorImageContainer_1014x570\" src=\"/multimedia/jpg/9/9/1697408159899.jpg\"></figure><p>La Tània és una noia molt extravertida",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/8/1473698999681.jpg",
+       "mida": "MASTER",
+       "alt": "Tània Illa (Elisabet Casanovas)",
+       "peu": "Tània Illa (Elisabet Casanovas)",
+       "group_id": "4237634",
+       "asset_id": "3912796",
+       "type_id": "14616317",
+       "titol": "Tània Illa (Elisabet Casanovas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/9/1473699024898.jpg",
+       "mida": "326x184",
+       "alt": "Tània Illa (Elisabet Casanovas)",
+       "peu": "Tània Illa (Elisabet Casanovas)",
+       "group_id": "4237634",
+       "asset_id": "3912796",
+       "type_id": "14616349",
+       "titol": "Tània Illa (Elisabet Casanovas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/9/1697408159899.jpg",
+       "mida": "1014x570",
+       "alt": "Tània Illa (Elisabet Casanovas)",
+       "peu": "Tània Illa (Elisabet Casanovas)",
+       "group_id": "4237634",
+       "asset_id": "3912796",
+       "type_id": "34395343",
+       "titol": "Tània Illa (Elisabet Casanovas)",
+       "rel_name": "image"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/5/1473699023951.jpg",
+       "mida": "670x378",
+       "alt": "Tània Illa (Elisabet Casanovas)",
+       "peu": "Tània Illa (Elisabet Casanovas)",
+       "group_id": "4237634",
+       "asset_id": "3912796",
+       "type_id": "14616348",
+       "titol": "Tània Illa (Elisabet Casanovas)",
+       "rel_name": "image"
+      }
+     ]
+    }
+   ],
+   "id": 54076,
+   "data_modificacio": "03/09/2026 15:51:28",
+   "titol": "Merlí",
+   "data_publicacio": "24/07/2015 17:36:00",
+   "domini": "TVC",
+   "data_emissio": "24/07/2015 17:35:47",
+   "imatges": [
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/4/0/1441269824604.jpg",
+     "mida": "MASTER",
+     "alt": "Merlí",
+     "font": "CCMA",
+     "group_id": "3777567",
+     "asset_id": "3551428",
+     "type_id": "12480393",
+     "titol": "merli_IPTV_petita",
+     "rel_name": "img_iptv2"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/1/6/1441269848061.jpg",
+     "mida": "Tv3 141x51",
+     "alt": "Merlí",
+     "font": "CCMA",
+     "group_id": "3777567",
+     "asset_id": "3551428",
+     "type_id": "12480395",
+     "titol": "merli_IPTV_petita",
+     "rel_name": "img_iptv2"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/2/8/1678793401682.jpg",
+     "mida": "MASTER",
+     "alt": "Merlí",
+     "peu": "Merlí",
+     "font": "CCMA",
+     "group_id": "7275043",
+     "asset_id": "6477915",
+     "type_id": "32562119",
+     "titol": "merli3_169_1920x1080",
+     "rel_name": "imatge_169"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/7/9/1678793432397.png",
+     "mida": "MASTER",
+     "alt": "Merlí",
+     "peu": "Merlí",
+     "font": "CCMA",
+     "group_id": "7275046",
+     "asset_id": "6477918",
+     "type_id": "32562125",
+     "titol": "merli3_logo",
+     "rel_name": "img_logo"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/4/2/1441269790024.jpg",
+     "mida": "MASTER",
+     "alt": "Merlí",
+     "font": "CCMA",
+     "group_id": "3777566",
+     "asset_id": "3551427",
+     "type_id": "12480390",
+     "titol": "merli_IPTV_gran",
+     "rel_name": "img_iptv"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/0/6/1441269815860.jpg",
+     "mida": "400x80",
+     "alt": "Merlí",
+     "font": "CCMA",
+     "group_id": "3777566",
+     "asset_id": "3551427",
+     "type_id": "12480392",
+     "titol": "merli_IPTV_gran",
+     "rel_name": "img_iptv"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/3/4/1504773190743.png",
+     "mida": "128x96",
+     "alt": "Merlí - 3a temporada",
+     "font": "CCMA",
+     "group_id": "4718109",
+     "asset_id": "4278589",
+     "type_id": "16952567",
+     "titol": "merli3_IPTV_sony",
+     "rel_name": "img_bravia"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/8/7/1504773155778.png",
+     "mida": "MASTER",
+     "alt": "Merlí - 3a temporada",
+     "font": "CCMA",
+     "group_id": "4718109",
+     "asset_id": "4278589",
+     "type_id": "16952563",
+     "titol": "merli3_IPTV_sony",
+     "rel_name": "img_bravia"
+    }
+   ]
+  }
+ }
+}

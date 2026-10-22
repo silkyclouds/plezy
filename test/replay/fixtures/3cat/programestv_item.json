@@ -1,0 +1,312 @@
+{
+ "resposta": {
+  "status": "OK",
+  "item": {
+   "entradeta": "Som-hi i Prou viuen divertides aventures en què hauran d'aturar-se, pensar i trobar solucions als problemes. Amb l'ajuda dels seus amics Blocks, aprendran a planificar, seguir passos, detectar patrons i provar noves idees mentre juguen i s'",
+   "nombonic": "wonderblocks",
+   "entradeta_promo": "Atura't, pensa i prova-ho! Amb Som-hi i Prou, cada problema es converteix en una divertida aventura.",
+   "regles_temporada": "ARXIU",
+   "idiomes": [
+    {
+     "id": "PU_CATALA",
+     "idint": "51305",
+     "desc": "Català",
+     "main": true
+    }
+   ],
+   "canals": [
+    {
+     "id": "PUC_S3",
+     "idint": "50785",
+     "desc": "Super3",
+     "main": true
+    },
+    {
+     "id": "PUC_S3_S3",
+     "idint": "54674",
+     "desc": "S3",
+     "main": false
+    }
+   ],
+   "codis_etics": [
+    {
+     "id": "CE_TP",
+     "idint": "49113",
+     "desc": "Tots els públics",
+     "main": true
+    }
+   ],
+   "agrupacions": [
+    {
+     "id": "PUAG_PETITS3",
+     "idint": "54399",
+     "desc": "Per als més petits",
+     "main": false
+    },
+    {
+     "id": "PUSX3_S3",
+     "idint": "54660",
+     "desc": "S3",
+     "main": false
+    },
+    {
+     "id": "PUSX3_SX3",
+     "idint": "54706",
+     "desc": "SX3",
+     "main": false
+    },
+    {
+     "id": "PUA_NUMBERBL",
+     "idint": "54836",
+     "desc": "Numberblocks",
+     "main": true
+    },
+    {
+     "id": "PUA_ESTRENS3",
+     "idint": "54855",
+     "desc": "Estrenes S3",
+     "main": false
+    },
+    {
+     "id": "PUA_AVENTUS3",
+     "idint": "54879",
+     "desc": "Aventures S3",
+     "main": false
+    },
+    {
+     "id": "PUAG_APRENS3",
+     "idint": "54881",
+     "desc": "Aprendre S3",
+     "main": false
+    },
+    {
+     "id": "PUAG_3PSX3",
+     "idint": "54952",
+     "desc": "SX3 - Web/App",
+     "main": false
+    },
+    {
+     "id": "PUAG_CARHOME",
+     "idint": "55003",
+     "desc": "Carrussel Home - Web/App",
+     "main": false
+    },
+    {
+     "id": "PUA_NOVS3",
+     "idint": "55074",
+     "desc": "Novetats S3",
+     "main": false
+    },
+    {
+     "id": "PUAG_3PSX3ST",
+     "idint": "55262",
+     "desc": "SX3 - SmartTV/HbbTV",
+     "main": false
+    },
+    {
+     "id": "PUAG_CARHOST",
+     "idint": "55275",
+     "desc": "Carrussel Home - SmartTV/HbbTV",
+     "main": false
+    },
+    {
+     "id": "PUAG_PROGVID",
+     "idint": "55553",
+     "desc": "Programes amb vídeo i videopodcasts",
+     "main": false
+    },
+    {
+     "id": "OTT_SX3EXCLU",
+     "idint": "55596",
+     "desc": "OTT Només al SX3",
+     "main": false
+    }
+   ],
+   "formats": [
+    {
+     "id": "PUF_SIJ",
+     "idint": "55059",
+     "desc": "Sèrie inf/juv",
+     "main": true
+    }
+   ],
+   "tematiques": [
+    {
+     "id": "PUFICCIO",
+     "idint": "50590",
+     "desc": "Ficció",
+     "main": true
+    }
+   ],
+   "menu": [
+    {
+     "id": "166381",
+     "desc": "Vídeos",
+     "nom": "PU_MENU",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "-1",
+     "tag_friendly": "videos"
+    }
+   ],
+   "info": [
+    {
+     "id": "166380",
+     "desc": "De què va?",
+     "nom": "PU_INFO",
+     "tipologia": "PTVC_SECCIO",
+     "ordre": "-1",
+     "tag_friendly": "De què va?",
+     "text": "<p>\"Wonderblocks\" és una sèrie educativa que introdueix els infants en la resolució de problemes i les bases del pensament computacional d'una manera divertida i adaptada a la seva edat. A través d'històries, humor i cançons, fomenta la lògica, la planificació, les seqüències i el reconeixement de patrons.</p><p>La sèrie també anima els més petits a dividir els problemes en passos senzills, provar diferents solucions, aprendre dels errors i perseverar quan alguna cosa no surt a la primera. A més, potencia la creativitat, la confiança i el treball en equip, i converteix cada repte en una oportunitat per pensar, experimentar i aprendre.</p><p><strong>Origen:</strong> Regne Unit</p><p><strong>Any:</strong> 2025</p>"
+    }
+   ],
+   "etiquetes": [
+    {
+     "id": "ETPROGESTREN",
+     "idint": "55438",
+     "desc": "Estrena",
+     "main": true
+    }
+   ],
+   "id": 76976,
+   "data_modificacio": "19/10/2026 10:29:19",
+   "titol": "Wonderblocks",
+   "data_publicacio": "19/10/2026 08:00:00",
+   "domini": "PUS3",
+   "data_emissio": "01/10/2026 15:52:27",
+   "imatges": [
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/9/8/1791988231889.jpg",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264848",
+     "asset_id": "8242315",
+     "type_id": "47876622",
+     "titol": "Wonderblocks",
+     "rel_name": "img_iptv2"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791988549548.jpg",
+     "mida": "141x51",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264848",
+     "asset_id": "8242315",
+     "type_id": "47876690",
+     "titol": "Wonderblocks",
+     "rel_name": "img_iptv2"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/2/2/1791988249322.jpg",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264853",
+     "asset_id": "8242319",
+     "type_id": "47876626",
+     "titol": "Wonderblocks",
+     "rel_name": "imatge_169"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/7/0/1791988281707.png",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264862",
+     "asset_id": "8242328",
+     "type_id": "47876658",
+     "titol": "Wonderblocks",
+     "rel_name": "img_logo"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/8/3/1791988215038.jpg",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264847",
+     "asset_id": "8242314",
+     "type_id": "47876620",
+     "titol": "Wonderblocks",
+     "rel_name": "img_iptv"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/8/8/1791988515288.jpg",
+     "mida": "400x80",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264847",
+     "asset_id": "8242314",
+     "type_id": "47876685",
+     "titol": "Wonderblocks",
+     "rel_name": "img_iptv"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/4/6/1791988267464.jpg",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264860",
+     "asset_id": "8242326",
+     "type_id": "47876646",
+     "titol": "Wonderblocks",
+     "rel_name": "img_poster"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/1/4/1791988312341.png",
+     "mida": "326x326",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264837",
+     "asset_id": "8242304",
+     "type_id": "47876660",
+     "titol": "Wonderblocks",
+     "rel_name": "image"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/png/7/0/1791988105707.png",
+     "mida": "MASTER",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264837",
+     "asset_id": "8242304",
+     "type_id": "47876596",
+     "titol": "Wonderblocks",
+     "rel_name": "image"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791988484198.jpg",
+     "mida": "320x466",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264838",
+     "asset_id": "8242305",
+     "type_id": "47876684",
+     "titol": "Wonderblocks",
+     "rel_name": "image"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988464550.jpg",
+     "mida": "326x184",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264839",
+     "asset_id": "8242306",
+     "type_id": "47876683",
+     "titol": "Wonderblocks",
+     "rel_name": "image"
+    },
+    {
+     "text": "https://img.3cat.cat/multimedia/jpg/9/9/1791988328499.jpg",
+     "mida": "288x422",
+     "alt": "Wonderblocks",
+     "font": "3Cat",
+     "group_id": "9264844",
+     "asset_id": "8242311",
+     "type_id": "47876661",
+     "titol": "Wonderblocks",
+     "rel_name": "image"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "informacio": {
+  "estat": {
+   "actiu": true,
+   "id": 0
+  },
+  "id": 6431752,
+  "op": 4000343,
+  "aspectratio": "16:9",
+  "programa_id": 136938435,
+  "capitol": 7365,
+  "titol": "Telenotícies migdia - 21/10/2026",
+  "titol_complet": "Telenotícies migdia",
+  "slug": "telenoticies-migdia-21102026",
+  "programa": "Telenotícies",
+  "permalink": "https://www.3cat.cat/3cat/telenoticies-migdia-21102026/video/6431752/",
+  "tipus_contingut": "PPD",
+  "descripcio": "L'exconseller Lluís Puig ja és a casa, després de 9 anys d'exili.",
+  "durada": {
+   "text": "00:52:48",
+   "milisegons": 3168000
+  },
+  "data_emissio": {
+   "text": "21/10/2026 14:30",
+   "utc": "2026-10-21T14:30:00+02:00"
+  },
+  "tematica": {
+   "text": "Actualitat",
+   "id": "50482"
+  },
+  "codi_etic": {
+   "text": "Aquest vídeo és per majors de Directes actualitat",
+   "id": "CE_DA"
+  },
+  "logo": "https://statics.3cat.cat/img/logos/tv3_colorBgNegre.svg"
+ },
+ "media": {
+  "geo": "TOTS",
+  "format": "MP4",
+  "url": [
+   {
+    "file": "https://ott-vod.3catvideos.cat/2/5/6431752/525764638/stream.mpd",
+    "label": "DASH",
+    "ott": false,
+    "active": true
+   },
+   {
+    "file": "https://mp4-down-high-int.3catvideos.cat/3/7/1792589924873.mp4",
+    "label": "720p",
+    "ott": false,
+    "active": false
+   }
+  ]
+ },
+ "idiomes": [
+  {
+   "id": "PU_CATALA",
+   "desc": "Català",
+   "main": true
+  }
+ ],
+ "subtitols": [
+  {
+   "text": "Català (SPS)",
+   "iso": "ca",
+   "url": "https://statics.3cat.cat/multimedia/vtt/9/5/1792591256959.vtt",
+   "format": "vtt"
+  }
+ ],
+ "sprites": {
+  "file": "https://ott-vod.3catvideos.cat/2/5/6431752/525764638/sprites/sprite.vtt"
+ },
+ "imatges": {
+  "amplada": 670,
+  "alcada": 378,
+  "url": "https://img.3cat.cat/multimedia/jpg/4/3/1792590100734.jpg"
+ }
+}

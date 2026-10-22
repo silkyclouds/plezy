@@ -1,0 +1,72 @@
+{
+ "informacio": {
+  "estat": {
+   "actiu": true,
+   "id": 0
+  },
+  "id": 6431644,
+  "op": 6017550,
+  "aspectratio": "16:9",
+  "programa_id": 76318,
+  "capitol": 1,
+  "titol": "Resum del PSG-Barça (4-2) / Champions / J3",
+  "titol_complet": "CHA_J03_PSG_BAR_RES_90SEG_FTP - Resums Futbol Masculí Competicions Europees (3CAT)",
+  "slug": "resum-del-psg-barca-4-2-champions-j3",
+  "programa": "Resums de la Champions",
+  "permalink": "https://www.3cat.cat/3cat/resum-del-psg-barca-4-2-champions-j3/video/6431644/",
+  "tipus_contingut": "PPW",
+  "descripcio": "Els homes de Hansi Flick han lluitat a París per aconseguir capgirar el marcador, que se'ls ha posat advers fins a 3 vegades al llarg del partit. Les aturades de Joan Garcia i els gols de Xavi Espart i Lamine han mantingut els blaugranes amb opcions. Vitinha i Fabián han sentenciat el matx en els últims minuts.",
+  "durada": {
+   "text": "00:01:52",
+   "milisegons": 112000
+  },
+  "data_emissio": {
+   "text": "20/10/2026 23:27",
+   "utc": "2026-10-20T23:27:41+02:00"
+  },
+  "tematica": {
+   "text": "Futbol",
+   "id": "50426"
+  },
+  "codi_etic": {
+   "text": "Aquest vídeo és per tots els públics",
+   "id": "CE_TP"
+  },
+  "drets": {
+   "text": "Emissió no disponible fora de l'Estat Espanyol"
+  }
+ },
+ "media": {
+  "geo": "ESPANYA",
+  "format": "MP4",
+  "url": [
+   {
+    "file": "https://adaptive-es.3catvideos.cat/4/4/6431644/71849180/stream.mpd",
+    "label": "DASH",
+    "ott": false,
+    "active": true
+   },
+   {
+    "file": "https://mp4-down-high-es.3catvideos.cat/3/7/1792531061573.mp4",
+    "label": "720p",
+    "ott": false,
+    "active": false
+   }
+  ]
+ },
+ "idiomes": [
+  {
+   "id": "PU_CATALA",
+   "desc": "Català",
+   "main": true
+  }
+ ],
+ "sprites": {
+  "file": "https://ott-vod.3catvideos.cat/es/4/4/6431644/71849180/sprites/sprite.vtt"
+ },
+ "imatges": {
+  "amplada": 670,
+  "alcada": 378,
+  "url": "https://img.3cat.cat/multimedia/jpg/4/7/1792531172574.jpg"
+ }
+}

@@ -1,0 +1,970 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 3,
+   "item": [
+    {
+     "embedable": false,
+     "entradeta": "La wonderblock Som-hi fa que tot i tothom es posi en marxa! Quin esvalot tan divertit i emocionant! Però la cosa aviat es comença a tòrcer, fins que arriba la wonderblock Prou.",
+     "entradeta_promo": "La Som-hi posa tothom en marxa. Quina gresca! Però tot s'embolica fins que arriba la Prou.",
+     "avantitol": "Wonderblocks",
+     "produccio": 6017415,
+     "tipus_contingut": "PPD",
+     "durada": "00:04:59:23",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 1,
+     "capitol_temporada": 1,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "t1xc1-som-hi",
+     "permatitle": "T1xC1 - Som-hi",
+     "programa": "Wonderblocks",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_TP",
+       "desc": "Tots els públics",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_INF",
+       "desc": "Infantil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_S3",
+       "desc": "Super3",
+       "main": true
+      },
+      {
+       "id": "PUC_S3_S3",
+       "desc": "S3",
+       "main": false
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "76976",
+       "desc": "Wonderblocks",
+       "nom": "PROGRAMA_TELE",
+       "domini": "PUS3",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "wonderblocks",
+       "titol": "Wonderblocks",
+       "data_publicacio": "19/10/2026 08:00:00",
+       "data_modificacio": "19/10/2026 10:29:19",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988105707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/4/1791988312341.png",
+         "mida": "326x326",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/3/1791988105939.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791988484198.jpg",
+         "mida": "320x466",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1791988106080.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988464550.jpg",
+         "mida": "326x184",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/9/1791988106297.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/9/1791988412391.jpg",
+         "mida": "670x378",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1791988108383.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/4/1791988394943.jpg",
+         "mida": "1014x570",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988108550.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/5/1791988367653.jpg",
+         "mida": "1014x180",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1791988108824.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/2/1791988342126.jpg",
+         "mida": "1600x284",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1791988109119.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/9/1791988328499.jpg",
+         "mida": "288x422",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/3/1791988215038.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/8/1791988515288.jpg",
+         "mida": "400x80",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/8/1791988231889.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791988549548.jpg",
+         "mida": "141x51",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/2/1791988249322.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/6/1791988267464.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988281707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDIBU",
+       "desc": "Sèrie animació",
+       "main": true
+      }
+     ],
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 6430199,
+     "data_modificacio": "20/10/2026 13:02:30",
+     "titol": "T1xC1 - Som-hi",
+     "data_publicacio": "19/10/2026 08:00:00",
+     "data_caducitat": "29/05/2029 23:59:59",
+     "domini": "SENSE",
+     "data_emissio": "19/10/2026 08:00:00",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/4/1792249131843.jpg",
+       "mida": "1014x570",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/9/1792249128590.jpg",
+       "mida": "120x68",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/1/1792249129116.jpg",
+       "mida": "200x113",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/5/1792249129653.jpg",
+       "mida": "320x180",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/0/1792249130207.jpg",
+       "mida": "326x184",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/4/1792249130746.jpg",
+       "mida": "426x240",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/7/1792249131273.jpg",
+       "mida": "670x378",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/3/1792249122136.jpg",
+       "mida": "MASTER",
+       "titol": "T1xC1 - Som-hi",
+       "rel_name": "KEYVIDEO"
+      }
+     ],
+     "end_pub_date": "29/05/2029 23:59:59"
+    },
+    {
+     "embedable": false,
+     "entradeta": "La Som-hi i la Prou coneixen la Granoteta i un nou wonderblock, en Bot. Tots tres wonderblocks descobriran que tenen màgia per ajudar la Granoteta a saltar.",
+     "entradeta_promo": "La Granoteta no pot saltar! Per això demana ajuda a la Som-hi, la Prou i en Bot, un nou wonderblock.",
+     "avantitol": "Wonderblocks",
+     "produccio": 6017415,
+     "tipus_contingut": "PPD",
+     "durada": "00:04:59:23",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 3,
+     "capitol_temporada": 3,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "t1xc3-bot",
+     "permatitle": "T1xC3 - Bot",
+     "programa": "Wonderblocks",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_TP",
+       "desc": "Tots els públics",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_INF",
+       "desc": "Infantil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_S3",
+       "desc": "Super3",
+       "main": true
+      },
+      {
+       "id": "PUC_S3_S3",
+       "desc": "S3",
+       "main": false
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "76976",
+       "desc": "Wonderblocks",
+       "nom": "PROGRAMA_TELE",
+       "domini": "PUS3",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "wonderblocks",
+       "titol": "Wonderblocks",
+       "data_publicacio": "19/10/2026 08:00:00",
+       "data_modificacio": "19/10/2026 10:29:19",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988105707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/4/1791988312341.png",
+         "mida": "326x326",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/3/1791988105939.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791988484198.jpg",
+         "mida": "320x466",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1791988106080.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988464550.jpg",
+         "mida": "326x184",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/9/1791988106297.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/9/1791988412391.jpg",
+         "mida": "670x378",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1791988108383.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/4/1791988394943.jpg",
+         "mida": "1014x570",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988108550.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/5/1791988367653.jpg",
+         "mida": "1014x180",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1791988108824.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/2/1791988342126.jpg",
+         "mida": "1600x284",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1791988109119.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/9/1791988328499.jpg",
+         "mida": "288x422",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/3/1791988215038.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/8/1791988515288.jpg",
+         "mida": "400x80",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/8/1791988231889.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791988549548.jpg",
+         "mida": "141x51",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/2/1791988249322.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/6/1791988267464.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988281707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDIBU",
+       "desc": "Sèrie animació",
+       "main": true
+      }
+     ],
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 6430200,
+     "data_modificacio": "20/10/2026 13:02:30",
+     "titol": "T1xC3 - Bot",
+     "data_publicacio": "19/10/2026 08:00:00",
+     "data_caducitat": "29/05/2029 23:59:59",
+     "domini": "SENSE",
+     "data_emissio": "19/10/2026 08:00:00",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/1/1792249322718.jpg",
+       "mida": "1014x570",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/7/1792249319179.jpg",
+       "mida": "120x68",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/1/1792249319711.jpg",
+       "mida": "200x113",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/1/1792249320319.jpg",
+       "mida": "320x180",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/6/1792249320968.jpg",
+       "mida": "326x184",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/8/1792249321586.jpg",
+       "mida": "426x240",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/1/1792249322214.jpg",
+       "mida": "670x378",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/0/1792249316806.jpg",
+       "mida": "MASTER",
+       "titol": "T1xC3 - Bot",
+       "rel_name": "KEYVIDEO"
+      }
+     ],
+     "end_pub_date": "29/05/2029 23:59:59"
+    },
+    {
+     "embedable": false,
+     "entradeta": "La wonderblock Prou és la nova millor amiga de la Som-hi! Li agrada pensar-se bé les coses i li ensenya a la nova amiga que aturar-se una estona a pensar pot resoldre tota mena de problemes.",
+     "entradeta_promo": "La Prou es pensa bé les coses abans de fer-les, i això és el que ensenya a la seva amiga, la Som-hi.",
+     "avantitol": "Wonderblocks",
+     "produccio": 6017415,
+     "tipus_contingut": "PPD",
+     "durada": "00:04:59:09",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 2,
+     "capitol_temporada": 2,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "t1xc2-prou",
+     "permatitle": "T1xC2 - Prou",
+     "programa": "Wonderblocks",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_TP",
+       "desc": "Tots els públics",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_INF",
+       "desc": "Infantil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_S3",
+       "desc": "Super3",
+       "main": true
+      },
+      {
+       "id": "PUC_S3_S3",
+       "desc": "S3",
+       "main": false
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "76976",
+       "desc": "Wonderblocks",
+       "nom": "PROGRAMA_TELE",
+       "domini": "PUS3",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "wonderblocks",
+       "titol": "Wonderblocks",
+       "data_publicacio": "19/10/2026 08:00:00",
+       "data_modificacio": "19/10/2026 10:29:19",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988105707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/4/1791988312341.png",
+         "mida": "326x326",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/3/1791988105939.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/9/1791988484198.jpg",
+         "mida": "320x466",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1791988106080.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988464550.jpg",
+         "mida": "326x184",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/9/1791988106297.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/9/1791988412391.jpg",
+         "mida": "670x378",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1791988108383.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/4/1791988394943.jpg",
+         "mida": "1014x570",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/5/1791988108550.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/5/1791988367653.jpg",
+         "mida": "1014x180",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1791988108824.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/2/1791988342126.jpg",
+         "mida": "1600x284",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1791988109119.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/9/1791988328499.jpg",
+         "mida": "288x422",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/3/1791988215038.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/8/1791988515288.jpg",
+         "mida": "400x80",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/8/1791988231889.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/4/1791988549548.jpg",
+         "mida": "141x51",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/2/1791988249322.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/6/1791988267464.jpg",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/0/1791988281707.png",
+         "mida": "MASTER",
+         "alt": "Wonderblocks",
+         "titol": "Wonderblocks",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDIBU",
+       "desc": "Sèrie animació",
+       "main": true
+      }
+     ],
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 6430201,
+     "data_modificacio": "20/10/2026 13:02:30",
+     "titol": "T1xC2 - Prou",
+     "data_publicacio": "19/10/2026 08:00:00",
+     "data_caducitat": "29/05/2029 23:59:59",
+     "domini": "SENSE",
+     "data_emissio": "19/10/2026 08:00:00",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/6/1792249271266.jpg",
+       "mida": "1014x570",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/0/1792249267504.jpg",
+       "mida": "120x68",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/9/1792249268094.jpg",
+       "mida": "200x113",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/1/1792249268814.jpg",
+       "mida": "320x180",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/7/1792249269475.jpg",
+       "mida": "326x184",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/9/1792249270096.jpg",
+       "mida": "426x240",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/0/1792249270706.jpg",
+       "mida": "670x378",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/9/1792249263594.jpg",
+       "mida": "MASTER",
+       "titol": "T1xC2 - Prou",
+       "rel_name": "KEYVIDEO"
+      }
+     ],
+     "end_pub_date": "29/05/2029 23:59:59"
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 30,
+   "items_pagina": 5,
+   "pagina_actual": 1,
+   "total_pagines": 6
+  }
+ }
+}

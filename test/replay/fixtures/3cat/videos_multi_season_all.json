@@ -1,0 +1,1142 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 3,
+   "item": [
+    {
+     "embedable": false,
+     "entradeta": "L'arribada del Merlí Bergeron, nou professor de filosofia, a l'Institut Àngel Guimerà, provoca reaccions adverses. Mentre es posa els alumnes a la butxaca, al professorat li molesta la seva manera de ser i de relacionar-se amb la plantilla.",
+     "entradeta_promo": "Un nou professor de filosofia arriba a l'institut: la vida del centre canviarà per sempre.",
+     "avantitol": "Merlí",
+     "produccio": 6010315,
+     "tipus_contingut": "PPD",
+     "durada": "00:54:00:23",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 1,
+     "capitol_temporada": 1,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "merli-els-peripatetics-capitol-1",
+     "permatitle": "Merlí - Els peripatètics (capítol 1)",
+     "programa": "Merlí",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": false
+      }
+     ],
+     "bbands": [
+      {
+       "id": "CAT51205",
+       "desc": "Merlí",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_13",
+       "desc": "13 anys",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_JUV",
+       "desc": "Juvenil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_TV3EI",
+       "desc": "TV3 Exclusiu internet",
+       "main": false
+      },
+      {
+       "id": "PUC_TV3",
+       "desc": "TV3",
+       "main": true
+      }
+     ],
+     "variants": [
+      {
+       "id": "AUD",
+       "desc": "Audiodescripció",
+       "main": true
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "54076",
+       "desc": "Merlí",
+       "nom": "PROGRAMA_TELE",
+       "domini": "TVC",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "merli",
+       "titol": "Merlí",
+       "data_publicacio": "24/07/2015 17:36:00",
+       "data_modificacio": "03/09/2026 15:51:28",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1441269790024.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/6/1441269815860.jpg",
+         "mida": "400x80",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/0/1441269824604.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/6/1441269848061.jpg",
+         "mida": "Tv3 141x51",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/8/1504705596987.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705693880.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705715480.jpg",
+         "mida": "326x184",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/0/1504705758501.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/0/1504705780208.jpg",
+         "mida": "670x378",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/8/7/1504773155778.png",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/3/4/1504773190743.png",
+         "mida": "128x96",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/4/1514557520340.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/5/1516634327251.jpg",
+         "mida": "bgrUinver",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1528280678219.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap_solid",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1528280915824.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/3/1528280950532.jpg",
+         "mida": "bgrSkin",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/6/1561541888264.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/0/1561541920104.png",
+         "mida": "288x422",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/3/1576148041037.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1576148092224.jpg",
+         "mida": "768x92",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/0/1576148041403.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/0/1576148073506.jpg",
+         "mida": "1980x200",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/6/9/1611784545396.png",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/8/1611784736281.png",
+         "mida": "1014x570_logo",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/8/1678793401682.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_169_1920x1080",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1678793416483.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_poster_467x684",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/9/1678793432397.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_logo",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDRAM",
+       "desc": "Sèrie dramàtica",
+       "main": true
+      }
+     ],
+     "titol_promo": "Capítol 1 - Els peripatètics",
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 5549976,
+     "data_modificacio": "27/10/2025 17:02:05",
+     "titol": "T1xC1 - Els peripatètics",
+     "data_publicacio": "14/09/2015 21:55:08",
+     "domini": "SENSE",
+     "data_emissio": "14/09/2015 21:55:08",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/5/1721375514852.jpg",
+       "mida": "MASTER",
+       "alt": "\"Merlí\"",
+       "titol": "\"Merlí\"",
+       "rel_name": "IMG_POSTER"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/4/1683946175045.jpg",
+       "mida": "1014x570",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/3/1683946172333.jpg",
+       "mida": "120x68",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/6/1465396435664.jpg",
+       "mida": "151x85",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/3/1683946174434.jpg",
+       "mida": "200x113",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/2/1465396436522.jpg",
+       "mida": "246x138",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/png/2/4/1661779795642.png",
+       "mida": "288x422",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/8/6/1683946174568.jpg",
+       "mida": "320x180",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/9/1683946174696.jpg",
+       "mida": "326x184",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/0/1683946174801.jpg",
+       "mida": "426x240",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/5/1465396434250.jpg",
+       "mida": "55x31",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/2/1683946174921.jpg",
+       "mida": "670x378",
+       "titol": "223179_1386494_Merli___1___14_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      }
+     ]
+    },
+    {
+     "embedable": false,
+     "entradeta": "El Toni, director de l'institut, adverteix al Merlí que s'ha de cenyir a les normes del centre, però el Merlí va a la seva, i proposa als alumnes saltar-se les regles del certamen literari. El Merlí i l'Eugeni es barallen per encarregar-se ",
+     "entradeta_promo": "L'enfrontament entre el Toni, director del centre, i el Merlí fa trontollar el certamen literari.",
+     "avantitol": "Merlí",
+     "produccio": 6010315,
+     "tipus_contingut": "PPD",
+     "durada": "00:50:09:02",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 2,
+     "capitol_temporada": 2,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "merli-plato-capitol-2",
+     "permatitle": "Merlí - Plató (capítol 2)",
+     "programa": "Merlí",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": false
+      }
+     ],
+     "bbands": [
+      {
+       "id": "CAT51205",
+       "desc": "Merlí",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_13",
+       "desc": "13 anys",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_JUV",
+       "desc": "Juvenil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_TV3",
+       "desc": "TV3",
+       "main": true
+      },
+      {
+       "id": "PUC_TV3EI",
+       "desc": "TV3 Exclusiu internet",
+       "main": false
+      }
+     ],
+     "variants": [
+      {
+       "id": "AUD",
+       "desc": "Audiodescripció",
+       "main": true
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "54076",
+       "desc": "Merlí",
+       "nom": "PROGRAMA_TELE",
+       "domini": "TVC",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "merli",
+       "titol": "Merlí",
+       "data_publicacio": "24/07/2015 17:36:00",
+       "data_modificacio": "03/09/2026 15:51:28",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1441269790024.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/6/1441269815860.jpg",
+         "mida": "400x80",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/0/1441269824604.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/6/1441269848061.jpg",
+         "mida": "Tv3 141x51",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/8/1504705596987.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705693880.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705715480.jpg",
+         "mida": "326x184",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/0/1504705758501.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/0/1504705780208.jpg",
+         "mida": "670x378",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/8/7/1504773155778.png",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/3/4/1504773190743.png",
+         "mida": "128x96",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/4/1514557520340.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/5/1516634327251.jpg",
+         "mida": "bgrUinver",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1528280678219.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap_solid",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1528280915824.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/3/1528280950532.jpg",
+         "mida": "bgrSkin",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/6/1561541888264.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/0/1561541920104.png",
+         "mida": "288x422",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/3/1576148041037.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1576148092224.jpg",
+         "mida": "768x92",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/0/1576148041403.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/0/1576148073506.jpg",
+         "mida": "1980x200",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/6/9/1611784545396.png",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/8/1611784736281.png",
+         "mida": "1014x570_logo",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/8/1678793401682.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_169_1920x1080",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1678793416483.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_poster_467x684",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/9/1678793432397.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_logo",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDRAM",
+       "desc": "Sèrie dramàtica",
+       "main": true
+      }
+     ],
+     "titol_promo": "Capítol 2 - Plató",
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 5552234,
+     "data_modificacio": "01/10/2025 05:39:22",
+     "titol": "T1xC2 - Plató",
+     "data_publicacio": "21/09/2015 21:59:30",
+     "domini": "SENSE",
+     "data_emissio": "21/09/2015 21:59:30",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/2/1683946495827.jpg",
+       "mida": "1014x570",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/5/1683946493750.jpg",
+       "mida": "120x68",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/9/1465478656792.jpg",
+       "mida": "151x85",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/2/5/1683946495252.jpg",
+       "mida": "200x113",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/0/1465478658201.jpg",
+       "mida": "246x138",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/7/1683946495373.jpg",
+       "mida": "320x180",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/0/1683946495503.jpg",
+       "mida": "326x184",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/6/9/1683946495596.jpg",
+       "mida": "426x240",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/1/1465478654917.jpg",
+       "mida": "55x31",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/2/1683946495724.jpg",
+       "mida": "670x378",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/4/7/1465478655374.jpg",
+       "mida": "71x40",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/9/2/1683946492329.jpg",
+       "mida": "MASTER",
+       "titol": "224288_1392375_Merli___2___Plato___21_09_2015_0001",
+       "rel_name": "KEYVIDEO"
+      }
+     ]
+    },
+    {
+     "embedable": false,
+     "entradeta": "La mare del Gerard felicita el Merlí per com fa les classes i per haver animat el seu fill. Arriba una nova alumna: la Mònica. El Bruno creu que suspèn exàmens per culpa de la presència del Merlí a l'institut, i l'amenaça d'anar-se'n a viur",
+     "entradeta_promo": "Els intents del Merlí perquè el seu fill no se'n vagi a casa de la mare semblen no ser suficients.",
+     "avantitol": "Merlí",
+     "produccio": 6010315,
+     "tipus_contingut": "PPD",
+     "durada": "00:50:01:04",
+     "tipologia": "DTY_VIDEO_MM",
+     "capitol": 3,
+     "capitol_temporada": 3,
+     "temporades": [
+      {
+       "id": "PUTEMP_1",
+       "desc": "1a Temporada",
+       "main": true
+      }
+     ],
+     "nom_friendly": "merli-maquiavel-capitol-3",
+     "permatitle": "Merlí - Maquiavel (capítol 3)",
+     "programa": "Merlí",
+     "versio": 1,
+     "geolocalitzacions": [
+      {
+       "id": "ESPANYA",
+       "desc": "Geolocalitzat-ES",
+       "main": false
+      }
+     ],
+     "bbands": [
+      {
+       "id": "CAT51205",
+       "desc": "Merlí",
+       "main": true
+      }
+     ],
+     "codis_etics": [
+      {
+       "id": "CE_13",
+       "desc": "13 anys",
+       "main": true
+      }
+     ],
+     "idiomes": [
+      {
+       "id": "PU_CATALA",
+       "desc": "Català",
+       "main": true
+      }
+     ],
+     "targets": [
+      {
+       "id": "PUT_JUV",
+       "desc": "Juvenil",
+       "main": true
+      }
+     ],
+     "canals": [
+      {
+       "id": "PUC_TV3",
+       "desc": "TV3",
+       "main": true
+      },
+      {
+       "id": "PUC_TV3EI",
+       "desc": "TV3 Exclusiu internet",
+       "main": false
+      }
+     ],
+     "variants": [
+      {
+       "id": "AUD",
+       "desc": "Audiodescripció",
+       "main": true
+      }
+     ],
+     "programes_tv": [
+      {
+       "id": "54076",
+       "desc": "Merlí",
+       "nom": "PROGRAMA_TELE",
+       "domini": "TVC",
+       "tipologia": "PTVC_PROGRAMA",
+       "nom_bonic": "merli",
+       "titol": "Merlí",
+       "data_publicacio": "24/07/2015 17:36:00",
+       "data_modificacio": "03/09/2026 15:51:28",
+       "imatges": [
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1441269790024.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/6/1441269815860.jpg",
+         "mida": "400x80",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_gran",
+         "rel_name": "IMG_IPTV"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/0/1441269824604.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/6/1441269848061.jpg",
+         "mida": "Tv3 141x51",
+         "alt": "Merlí",
+         "titol": "merli_IPTV_petita",
+         "rel_name": "IMG_IPTV2"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/8/1504705596987.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705693880.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/8/1504705715480.jpg",
+         "mida": "326x184",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_4col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/0/1504705758501.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/8/0/1504705780208.jpg",
+         "mida": "670x378",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_8col (1)",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/8/7/1504773155778.png",
+         "mida": "MASTER",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/3/4/1504773190743.png",
+         "mida": "128x96",
+         "alt": "Merlí - 3a temporada",
+         "titol": "merli3_IPTV_sony",
+         "rel_name": "IMG_BRAVIA"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/0/4/1514557520340.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/1/5/1516634327251.jpg",
+         "mida": "bgrUinver",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "Background Merlí i Cacaolat",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/9/1/1528280678219.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap_solid",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1528280915824.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/3/1528280950532.jpg",
+         "mida": "bgrSkin",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_skin",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/6/1561541888264.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/4/0/1561541920104.png",
+         "mida": "288x422",
+         "alt": "Merlí",
+         "titol": "Merlí",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/7/3/1576148041037.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/4/2/1576148092224.jpg",
+         "mida": "768x92",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli2_cap_phablet",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/0/1576148041403.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/6/0/1576148073506.jpg",
+         "mida": "1980x200",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_cap",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/6/9/1611784545396.png",
+         "mida": "MASTER",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/1/8/1611784736281.png",
+         "mida": "1014x570_logo",
+         "alt": "Merlí - Tercera temporada",
+         "titol": "merli3_12col",
+         "rel_name": "IMAGE"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/2/8/1678793401682.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_169_1920x1080",
+         "rel_name": "IMATGE_169"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/jpg/3/8/1678793416483.jpg",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli_poster_467x684",
+         "rel_name": "IMG_POSTER"
+        },
+        {
+         "text": "https://img.3cat.cat/multimedia/png/7/9/1678793432397.png",
+         "mida": "MASTER",
+         "alt": "Merlí",
+         "titol": "merli3_logo",
+         "rel_name": "IMG_LOGO"
+        }
+       ]
+      }
+     ],
+     "subtitols": [
+      {
+       "id": "CAT_CA",
+       "desc": "Català",
+       "main": false
+      }
+     ],
+     "formats": [
+      {
+       "id": "PUFF_SDRAM",
+       "desc": "Sèrie dramàtica",
+       "main": true
+      }
+     ],
+     "titol_promo": "Capítol 3 - Maquiavel",
+     "tematiques": [
+      {
+       "id": "PUFICCIO",
+       "desc": "Ficció",
+       "main": true
+      }
+     ],
+     "id": 5552854,
+     "data_modificacio": "20/04/2026 16:15:35",
+     "titol": "T1xC3 - Maquiavel",
+     "data_publicacio": "28/09/2015 21:55:00",
+     "domini": "SENSE",
+     "data_emissio": "28/09/2015 21:55:20",
+     "imatges": [
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/8/1776694530880.jpg",
+       "mida": "MASTER",
+       "titol": "2f755f51-7dfd-4c16-81ea-7d654a92cc28",
+       "rel_name": "IMG_POSTER"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/5/0/1604332316905.jpg",
+       "mida": "120x68",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/2/1604332317323.jpg",
+       "mida": "200x113",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/0/3/1604332317730.jpg",
+       "mida": "320x180",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/3/5/1604332318153.jpg",
+       "mida": "326x184",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/9/1604332318597.jpg",
+       "mida": "426x240",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/1/1/1604332319111.jpg",
+       "mida": "670x378",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      },
+      {
+       "text": "https://img.3cat.cat/multimedia/jpg/7/0/1604332313507.jpg",
+       "mida": "MASTER",
+       "titol": "1465464036299",
+       "rel_name": "KEYVIDEO"
+      }
+     ]
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 40,
+   "items_pagina": 100,
+   "pagina_actual": 1,
+   "total_pagines": 1
+  }
+ }
+}

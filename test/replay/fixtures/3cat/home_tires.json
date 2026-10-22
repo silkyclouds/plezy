@@ -1,0 +1,294 @@
+{
+ "resposta": {
+  "status": "OK",
+  "items": {
+   "num": 12,
+   "item": [
+    {
+     "nom": "Carrussel",
+     "tipus": "PROGRAMES",
+     "format": "CARRUSSEL",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplay-carrouhome&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&no_id=249744,251246&items_pagina=12",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      }
+     ],
+     "url_dades_tv": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplay-carrouapp&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&items_pagina=12&limit_items=12",
+     "url_dades_mobil": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplay-carrouhome&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&items_pagina=12",
+     "id": 690,
+     "data_modificacio": "14/10/2026 16:39:23",
+     "data_publicacio": "08/06/2022 11:07:21"
+    },
+    {
+     "nom": "Temàtiques",
+     "tipus": "TEMATIQUES",
+     "format": "PASTILLA",
+     "has_link": false,
+     "url_dades": "https://statics.3cat.cat/recursos/3play/tires/3play_home_tematiques_web_v1.json",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      }
+     ],
+     "url_dades_tv": "https://statics.3cat.cat/recursos/3play/tires/3play_home_tematiques_appmobil_smarttv_v2.json",
+     "url_dades_mobil": "https://statics.3cat.cat/recursos/3play/tires/3play_home_tematiques_appmobil_smarttv_v2.json",
+     "id": 630,
+     "data_modificacio": "05/10/2026 11:46:27",
+     "data_publicacio": "23/01/2023 13:37:39"
+    },
+    {
+     "nom": "Directes",
+     "tipus": "DIRECTES",
+     "format": "KEYFRAME",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/arafem?_format=json&tipus=tv&version=1.0&cache=30&https=true&master=yes&r=yes&geo=cat",
+     "seccions": [
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      }
+     ],
+     "url_dades_tv": "https://api.3cat.cat/arafem?_format=json&tipus=video&version=1.0&cache=30&https=true&master=yes&r=yes&geo=cat",
+     "url_dades_mobil": "https://api.3cat.cat/arafem?_format=json&tipus=tv&version=1.0&cache=30&https=true&master=yes&r=yes&geo=cat",
+     "id": 90,
+     "data_modificacio": "01/07/2024 10:52:32",
+     "data_publicacio": "10/05/2022 10:14:59"
+    },
+    {
+     "nom": "*[Directes àudio]*",
+     "tipus": "DIRECTES",
+     "format": "KEYFRAME",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/arafem?_format=json&tipus=radio&version=1.0&cache=30&https=true&master=yes&r=yes",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      }
+     ],
+     "url_dades_mobil": "https://api.3cat.cat/arafem?_format=json&tipus=radio&version=1.0&cache=30&https=true&master=yes&r=yes",
+     "id": 2250,
+     "data_modificacio": "11/09/2024 16:44:57",
+     "data_publicacio": "10/05/2022 10:16:55"
+    },
+    {
+     "nom": "Canals temàtics",
+     "tipus": "FAST_CHANNEL",
+     "format": "KEYFRAME",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/destacats?_format=json&frontal=trescat-tresplay-fastchanne&origen=frontal&sdom=img&version=2.0&cache=180&https=true&master=yes",
+     "seccions": [
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": false
+      }
+     ],
+     "id": 10690,
+     "data_modificacio": "17/10/2024 11:17:40",
+     "data_publicacio": "03/10/2024 12:09:45"
+    },
+    {
+     "nom": "Novetats",
+     "tipus": "PROGRAMES",
+     "format": "POSTER_PETIT",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplay-novtotweb&items_pagina=25&limit_items=25&pagina=1&sdom=img&debug=no&version=2.0&cache=180&https=true&master=yes",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      }
+     ],
+     "url_dades_tv": "https://api.3cat.cat/videos?_format=json&frontal=trescat-tresplay-novtotsmar&origen=frontal&items_pagina=25&limit_items=25&pagina=1&sdom=img&debug=no&version=2.0&cache=180&https=true&master=yes",
+     "url_dades_mobil": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplay-novtotweb&items_pagina=25&limit_items=25&pagina=1&sdom=img&debug=no&version=2.0&cache=180&https=true&master=yes",
+     "id": 710,
+     "data_modificacio": "18/08/2026 10:05:31",
+     "data_publicacio": "03/05/2023 11:03:00"
+    },
+    {
+     "nom": "Estic veient",
+     "tipus": "ESTAS_VEIENT",
+     "format": "KEYFRAME",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&version=2.0&tipus=CCMA_NEXT&usuari_id={{USUARI_ID}}&uuid={{UUID}}&items_pagina=20&pagina=1&dispositiu={{DEVICE}}&pid={{PID}}&mrech={{MRECH}}&mrecy={{MRECY}}&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      }
+     ],
+     "url_dades_mobil": "https://api.3cat.cat/usuaris/recomanacions/videos?_format=json&version=2.0&tipus=CCMA_NEXT&usuari_id={{USUARI_ID}}&uuid={{UUID}}&items_pagina=20&pagina=1&dispositiu={{DEVICE}}&pid={{PID}}&mrech={{MRECH}}&mrecy={{MRECY}}&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "id": 990,
+     "data_modificacio": "26/07/2024 13:41:32",
+     "data_publicacio": "16/05/2023 08:11:47"
+    },
+    {
+     "nom": "Estic escoltant",
+     "tipus": "ESTAS_VEIENT",
+     "format": "KEYFRAME",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/usuaris/llistes/obtenircontinguts?_format=json&tipus_llista=continuareproduint&tipologia=WCR_AUDIO_MM&usuari_id={{USUARI_ID}}&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      }
+     ],
+     "id": 1970,
+     "data_modificacio": "01/07/2024 10:52:32",
+     "data_publicacio": "16/05/2023 08:11:48"
+    },
+    {
+     "nom": "Sèries destacades",
+     "tipus": "PROGRAMES",
+     "format": "POSTER_PETIT",
+     "has_link": true,
+     "url_dades": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplseri-prodesweb&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": true
+      }
+     ],
+     "url_dades_tv": "https://api.3cat.cat/programestv?_format=json&agrupar=false&frontal=trescat-tresplseri-prodessmar&origen=frontal&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes",
+     "url_dades_mobil": "https://api.3cat.cat/tot?_format=json&frontal=trescat-tresplseri-prodesweb&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "id": 16590,
+     "data_modificacio": "17/08/2026 18:03:38",
+     "data_publicacio": "12/05/2025 08:00:00"
+    },
+    {
+     "nom": "Grans pel·lícules",
+     "tipus": "VIDEOS",
+     "format": "POSTER_PETIT",
+     "has_link": true,
+     "url_dades": "https://api.3cat.cat/videos?_format=json&frontal=pucollecio-pucolvid-dty_colleccio26350&origen=frontal&items_pagina=25&limit_items=25&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": false
+      }
+     ],
+     "id": 16592,
+     "data_modificacio": "17/08/2026 18:03:23",
+     "data_publicacio": "02/05/2025 13:04:21"
+    },
+    {
+     "nom": "Zombis i teranyines",
+     "tipus": "VIDEOS",
+     "format": "POSTER_PETIT",
+     "has_link": true,
+     "url_dades": "https://api.3cat.cat/videos?_format=json&frontal=pucollecio-pucolvid-dty_colleccio22050&origen=frontal&items_pagina=12&limit_items=20&pagina=1&sdom=img&version=2.0&cache=90&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PPELST",
+       "desc": "Pel·lícules - SmartTV/HbbTV",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PPELIC",
+       "desc": "Pel·lícules - Web/App",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": false
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": false
+      }
+     ],
+     "id": 10632,
+     "data_modificacio": "14/10/2026 11:49:35",
+     "data_publicacio": "01/10/2026 08:00:00"
+    },
+    {
+     "nom": "Entreteniment",
+     "tipus": "PROGRAMES",
+     "format": "POSTER_PETIT",
+     "has_link": false,
+     "url_dades": "https://api.3cat.cat/tot?_format=json&frontal=trescat-entretenim-prodesweb&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "seccions": [
+      {
+       "id": "PUAG_3PHMST",
+       "desc": "Home - SmartTV/HbbTV",
+       "main": true
+      },
+      {
+       "id": "PUAG_3PHOME",
+       "desc": "Home - Web/App",
+       "main": false
+      }
+     ],
+     "url_dades_tv": "https://api.3cat.cat/programestv?_format=json&agrupar=false&frontal=trescat-entretenim-prodessmar&origen=frontal&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes",
+     "url_dades_mobil": "https://api.3cat.cat/tot?_format=json&frontal=trescat-entretenim-prodesweb&items_pagina=25&pagina=1&sdom=img&version=2.0&cache=180&https=true&master=yes&perfils_extra=imatges_minim_master",
+     "id": 3431,
+     "data_modificacio": "25/08/2025 13:15:09",
+     "data_publicacio": "27/06/2023 15:59:40"
+    }
+   ]
+  },
+  "paginacio": {
+   "total_items": 30,
+   "items_pagina": 30,
+   "pagina_actual": 1,
+   "total_pagines": 1
+  }
+ }
+}

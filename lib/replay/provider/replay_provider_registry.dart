@@ -1,4 +1,5 @@
 import '../../utils/media_server_http_client.dart';
+import '../providers/3cat/3cat_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
@@ -231,6 +232,13 @@ const replaySourceInfos = [
     country: 'FR',
     languages: ['fr'],
   ),
+  ReplaySourceInfo(
+    id: '3cat',
+    name: '3Cat',
+    support: ReplayPlaybackSupport.partial,
+    country: 'ES',
+    languages: ['ca'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -290,6 +298,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'nfb' => NfbProvider(http),
       'ardmediathek' => ArdMediathekProvider(http),
       'france24' => France24Provider(http),
+      '3cat' => ThreeCatProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;
