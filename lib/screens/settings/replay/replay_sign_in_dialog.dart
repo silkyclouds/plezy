@@ -1,13 +1,19 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:material_symbols_icons/symbols.dart';
 
-import '../../../focus/focusable_text_field.dart';
 import '../../../i18n/strings.g.dart';
 import '../../../replay/auth/replay_auth.dart';
 import '../../../replay/client/replay_accounts.dart';
 import '../../../replay/provider/replay_source_info.dart';
 import '../../../utils/dialogs.dart';
+import '../../../widgets/app_icon.dart';
+import '../../../widgets/replay_channel_logo.dart';
+import 'replay_dialog_frame.dart';
+import 'replay_palette.dart';
+import 'replay_pill.dart';
+import 'replay_text_field.dart';
 
 /// Opens the sign-in dialog of a broadcaster and returns whether the viewer ended up signed in.
 Future<bool> showReplaySignIn(
@@ -25,6 +31,8 @@ Future<bool> showReplaySignIn(
   return accounts.accountLabel(info.id) != null;
 }
 
+/// E-mail and password for a broadcaster. A refusal keeps the dialog open, clears the password and puts the focus
+/// back on it.
 class ReplaySignInDialog extends StatefulWidget {
   final ReplaySourceInfo info;
   final Future<void> Function(String login, String password) onSubmit;
@@ -38,6 +46,10 @@ class ReplaySignInDialog extends StatefulWidget {
 class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
   final _login = TextEditingController();
   final _password = TextEditingController();
+  final _loginNode = FocusNode(debugLabel: 'ReplaySignInLogin');
+  final _passwordNode = FocusNode(debugLabel: 'ReplaySignInPassword');
+  final _cancelNode = FocusNode(debugLabel: 'ReplaySignInCancel');
+  final _submitNode = FocusNode(debugLabel: 'ReplaySignInSubmit');
   bool _busy = false;
   String? _error;
 
@@ -45,11 +57,15 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
   void dispose() {
     _login.dispose();
     _password.dispose();
+    _loginNode.dispose();
+    _passwordNode.dispose();
+    _cancelNode.dispose();
+    _submitNode.dispose();
     super.dispose();
   }
 
   Future<void> _submit() async {
-    if (_login.text.trim().isEmpty || _password.text.isEmpty) return;
+    if (_busy || _login.text.trim().isEmpty || _password.text.isEmpty) return;
     setState(() {
       _busy = true;
       _error = null;
@@ -58,17 +74,18 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
       await widget.onSubmit(_login.text.trim(), _password.text);
       if (mounted) Navigator.pop(context);
     } on ReplayAuthException catch (e) {
-      if (mounted) {
-        setState(() {
-          _busy = false;
-          _error = _message(e);
-        });
-      }
+      if (!mounted) return;
+      _password.clear();
+      setState(() {
+        _busy = false;
+        _error = _message(e);
+      });
+      WidgetsBinding.instance.addPostFrameCallback((_) => _passwordNode.requestFocus());
     }
   }
 
   String _message(ReplayAuthException e) => switch (e.reason) {
-    ReplayAuthFailure.invalidCredentials => t.replay.signInFailed,
+    ReplayAuthFailure.invalidCredentials => t.replay.signInFailed(name: widget.info.name),
     ReplayAuthFailure.rateLimited => t.replay.signInRateLimited,
     ReplayAuthFailure.captchaRequired => t.replay.signInCaptcha,
     ReplayAuthFailure.network => t.replay.signInNetwork,
@@ -77,42 +94,96 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
 
   @override
   Widget build(BuildContext context) {
-    return AlertDialog(
-      title: Text(t.replay.signInTitle(name: widget.info.name)),
-      content: Column(
+    final palette = ReplayPalette.of(context);
+    return ReplayDialogFrame(
+      width: 720,
+      padding: 40,
+      child: Column(
         mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Text(t.replay.signInHint(name: widget.info.name)),
-          const SizedBox(height: 12),
-          FocusableTextFormField(
+          Row(
+            children: [
+              ReplayChannelLogo.tile(sourceId: widget.info.id, name: widget.info.name),
+              const SizedBox(width: 14),
+              Expanded(
+                child: Text(
+                  t.replay.signInTitle(name: widget.info.name),
+                  style: const TextStyle(fontSize: 28, fontWeight: FontWeight.w600),
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 24),
+          _label(t.replay.login, palette),
+          ReplayTextField(
             controller: _login,
+            focusNode: _loginNode,
+            height: 60,
+            fontSize: 22,
             autofocus: true,
-            autocorrect: false,
-            enableSuggestions: false,
             enabled: !_busy,
             keyboardType: TextInputType.emailAddress,
             textInputAction: TextInputAction.next,
-            decoration: InputDecoration(labelText: t.replay.login),
+            onSubmitted: (_) => _passwordNode.requestFocus(),
+            onNavigateDown: _passwordNode.requestFocus,
           ),
-          const SizedBox(height: 12),
-          FocusableTextFormField(
+          const SizedBox(height: 24),
+          _label(t.replay.password, palette),
+          ReplayTextField(
             controller: _password,
-            obscureText: true,
+            focusNode: _passwordNode,
+            height: 60,
+            fontSize: 22,
+            obscure: true,
             enabled: !_busy,
             textInputAction: TextInputAction.done,
-            onFieldSubmitted: (_) => unawaited(_submit()),
-            decoration: InputDecoration(labelText: t.replay.password),
+            onSubmitted: (_) => unawaited(_submit()),
+            onNavigateUp: _loginNode.requestFocus,
+            onNavigateDown: _submitNode.requestFocus,
           ),
-          if (_error != null) ...[
-            const SizedBox(height: 12),
-            Text(_error!, style: TextStyle(color: Theme.of(context).colorScheme.error)),
-          ],
+          if (_error != null) ...[const SizedBox(height: 12), _failure(_error!, palette)],
+          const SizedBox(height: 24),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.end,
+            children: [
+              ReplayPill(
+                focusNode: _cancelNode,
+                label: t.common.cancel,
+                height: 56,
+                fontSize: 20,
+                horizontalPadding: 32,
+                onPressed: () => Navigator.pop(context),
+                onRight: _submitNode.requestFocus,
+              ),
+              const SizedBox(width: 16),
+              ReplayPill(
+                focusNode: _submitNode,
+                label: _busy ? t.replay.signingIn : t.replay.signIn,
+                height: 56,
+                fontSize: 20,
+                horizontalPadding: 32,
+                enabled: !_busy,
+                onPressed: () => unawaited(_submit()),
+                onLeft: _cancelNode.requestFocus,
+              ),
+            ],
+          ),
         ],
       ),
-      actions: [
-        TextButton(onPressed: _busy ? null : () => Navigator.pop(context), child: Text(t.common.cancel)),
-        FilledButton(onPressed: _busy ? null : () => unawaited(_submit()), child: Text(t.replay.signIn)),
-      ],
     );
   }
+
+  Widget _label(String text, ReplayPalette palette) => Padding(
+    padding: const EdgeInsets.only(bottom: 8),
+    child: Text(text, style: TextStyle(color: palette.muted, fontSize: 18)),
+  );
+
+  Widget _failure(String message, ReplayPalette palette) => Row(
+    children: [
+      AppIcon(Symbols.error_rounded, size: 22, color: palette.ink),
+      const SizedBox(width: 10),
+      Expanded(child: Text(message, style: TextStyle(color: palette.ink, fontSize: 18))),
+    ],
+  );
 }

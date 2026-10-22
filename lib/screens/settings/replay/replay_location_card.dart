@@ -5,14 +5,28 @@ import '../../../i18n/strings.g.dart';
 import '../../../replay/provider/replay_regions.dart';
 import '../../../widgets/app_icon.dart';
 import '../../../widgets/app_menu.dart';
-import '../../../widgets/focusable_list_tile.dart';
+import 'replay_country_phrases.dart';
+import 'replay_menu.dart';
+import 'replay_palette.dart';
+import 'replay_pill.dart';
+import 'replay_row.dart';
 
 /// Where the app thinks the viewer is, and a way to correct it. Catch-up rights follow the viewer's country, so the
 /// rest of the screen is judged against this.
-class ReplayLocationCard extends StatelessWidget {
+class ReplayLocationCard extends StatefulWidget {
+  /// The country in use: the viewer's choice when [overridden], else the detected one.
   final String? country;
   final bool overridden;
+
+  /// The country found from the connection, shown when the viewer chose another.
+  final String? detected;
+
+  /// Countries that have channels, in the order the menu lists them.
+  final List<String> countries;
   final String locale;
+
+  /// Opens the menu as soon as the card is shown.
+  final bool openMenuOnShow;
 
   /// Called with a country code, or null to go back to automatic detection.
   final ValueChanged<String?> onChanged;
@@ -21,62 +35,96 @@ class ReplayLocationCard extends StatelessWidget {
     super.key,
     required this.country,
     required this.overridden,
+    required this.detected,
+    required this.countries,
     required this.locale,
     required this.onChanged,
+    this.openMenuOnShow = false,
   });
 
-  String _summary() {
-    if (country == null) return t.replay.location.unknown;
-    final name = replayCountryName(country!, locale);
-    return overridden ? t.replay.location.chosen(country: name) : t.replay.location.detected(country: name);
+  @override
+  State<ReplayLocationCard> createState() => _ReplayLocationCardState();
+}
+
+class _ReplayLocationCardState extends State<ReplayLocationCard> {
+  final _button = GlobalKey();
+
+  @override
+  void initState() {
+    super.initState();
+    if (widget.openMenuOnShow) WidgetsBinding.instance.addPostFrameCallback((_) => _openMenu());
   }
 
-  Future<void> _pick(BuildContext context) async {
-    final box = context.findRenderObject() as RenderBox?;
-    if (box == null) return;
-    final topLeft = box.localToGlobal(Offset.zero);
-    final countries = replayKnownCountries()
-      ..sort((a, b) => replayCountryName(a, locale).compareTo(replayCountryName(b, locale)));
-    const automatic = '';
-    final choice = await showAdaptiveAppMenu<String>(
+  String _name(String code) => replayCountryName(code, widget.locale);
+
+  String get _title =>
+      widget.country == null ? t.replay.location.titleUnknown : t.replay.location.title(country: _name(widget.country!));
+
+  String get _hint {
+    final country = widget.country;
+    if (country == null) return t.replay.location.unknown;
+    if (!widget.overridden) {
+      return t.replay.location.detected(country: replayCountryFrom(country, widget.locale));
+    }
+    final detected = widget.detected;
+    return detected == null
+        ? t.replay.location.chosenOnly
+        : t.replay.location.chosen(country: _name(detected));
+  }
+
+  Future<void> _openMenu() async {
+    final context = _button.currentContext;
+    if (context == null || !context.mounted) return;
+    final detected = widget.detected;
+    final automatic = detected == null
+        ? t.replay.location.automaticUnknown
+        : t.replay.location.automatic(country: _name(detected));
+    final choice = await showReplayMenu<String>(
       context,
-      title: t.replay.location.pick,
+      anchor: replayAnchorRect(context),
+      alignment: AppMenuAnchorAlignment.end,
       entries: [
-        AppMenuItem<String>(
-          value: automatic,
-          icon: Symbols.my_location_rounded,
-          label: t.replay.location.automatic,
-          selected: !overridden,
-        ),
-        for (final code in countries)
-          AppMenuItem<String>(
-            value: code,
-            label: replayCountryName(code, locale),
-            selected: overridden && code == country,
-          ),
+        ReplayMenuEntry(value: '', label: automatic, selected: !widget.overridden),
+        for (final code in widget.countries)
+          ReplayMenuEntry(value: code, label: _name(code), selected: widget.overridden && code == widget.country),
       ],
-      anchorRect: Rect.fromLTWH(topLeft.dx, topLeft.dy, box.size.width, box.size.height),
-      focusFirstItem: true,
     );
-    if (choice != null) onChanged(choice.isEmpty ? null : choice);
+    if (choice != null) widget.onChanged(choice.isEmpty ? null : choice);
   }
 
   @override
   Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
-      child: Container(
-        decoration: BoxDecoration(color: scheme.surfaceContainerHigh, borderRadius: BorderRadius.circular(12)),
-        child: Builder(
-          builder: (tileContext) => FocusableListTile(
-            leading: const AppIcon(Symbols.location_on_rounded, fill: 1),
-            title: Text(t.replay.location.title),
-            subtitle: Text('${_summary()}\n${t.replay.location.hint}'),
-            trailing: Text(t.replay.location.change, style: TextStyle(color: scheme.primary)),
-            onTap: () => _pick(tileContext),
+    final palette = ReplayPalette.of(context);
+    return Container(
+      margin: const EdgeInsets.symmetric(horizontal: 20),
+      constraints: const BoxConstraints(minHeight: 96),
+      padding: const EdgeInsets.fromLTRB(
+        ReplayRow.groupInset + 2 + 18,
+        12,
+        ReplayRow.groupInset + 2 + 8,
+        12,
+      ),
+      decoration: BoxDecoration(color: palette.group, borderRadius: BorderRadius.circular(12)),
+      child: Row(
+        children: [
+          const SizedBox(width: ReplayRow.leadWidth, child: Center(child: AppIcon(Symbols.location_on_rounded, size: 26))),
+          const SizedBox(width: ReplayRow.leadGap),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(_title, style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w600)),
+                const SizedBox(height: 2),
+                Text(_hint, style: TextStyle(fontSize: 15, color: palette.muted, height: 1.35)),
+              ],
+            ),
           ),
-        ),
+          const SizedBox(width: 16),
+          KeyedSubtree(
+            key: _button,
+            child: ReplayPill(label: t.replay.location.change, onPressed: _openMenu),
+          ),
+        ],
       ),
     );
   }
