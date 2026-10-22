@@ -1,0 +1,695 @@
+{
+ "teasers": [
+  {
+   "availableTo": "2027-07-30T20:00:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2025-11-28T19:15:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2908,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e2b12c2f0ef4b9f9?w={width}&ch=52ed581a6b9f82c5"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ed3ed88dc3f9cc7f?w={width}&ch=c36b41641cee5044"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:8ea0f41c12350b85?w={width}&ch=a53121bbacea2ebf"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 29: Martha Hari (S03/E01)",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Folge 29: Martha Hari (S03/E01)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA",
+     "partner": "br",
+     "title": "Folge 29: Martha Hari (S03/E01)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA",
+     "partner": "br",
+     "title": "Folge 29: Martha Hari (S03/E01)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA"
+    }
+   },
+   "shortTitle": "Folge 29: Martha Hari (S03/E01)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-07-30T20:45:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2025-11-28T20:00:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2889,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c8ac17a2a70c95fb?w={width}&ch=2e6aaf7d7a315247"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c723e3006a01e07d?w={width}&ch=2abdf83b3e8eb4b4"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c7807a08ebc3f067?w={width}&ch=e402a658c11fe14b"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 30: Fremde Heimat (S03/E02)",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Folge 30: Fremde Heimat (S03/E02)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA",
+     "partner": "br",
+     "title": "Folge 30: Fremde Heimat (S03/E02)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA",
+     "partner": "br",
+     "title": "Folge 30: Fremde Heimat (S03/E02)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcxQTA"
+    }
+   },
+   "shortTitle": "Folge 30: Fremde Heimat (S03/E02)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-03-18T11:05:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2025-12-05T19:15:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2906,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:566ea77e2c82b911?w={width}&ch=5ae048d80c3ffce8"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:2c06ed0ec65bab7f?w={width}&ch=86a925233019dc91"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0194513bebc57665?w={width}&ch=abcece8426f07b7a"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 31: Die entführte Braut (S03/E03)",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Folge 31: Die entführte Braut (S03/E03)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA",
+     "partner": "br",
+     "title": "Folge 31: Die entführte Braut (S03/E03)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA",
+     "partner": "br",
+     "title": "Folge 31: Die entführte Braut (S03/E03)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc1QTA"
+    }
+   },
+   "shortTitle": "Folge 31: Die entführte Braut (S03/E03)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-03-19T11:05:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2025-12-05T20:00:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2881,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a45886556882ffd0?w={width}&ch=bc6480e45115c880"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abd772f7a58f8a56?w={width}&ch=ea2f524742523c67"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:1523adc5e15815b0?w={width}&ch=e73fcaa9c7a4e336"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 32: Verbissen (S03/E04)",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Folge 32: Verbissen (S03/E04)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA",
+     "partner": "br",
+     "title": "Folge 32: Verbissen (S03/E04)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA",
+     "partner": "br",
+     "title": "Folge 32: Verbissen (S03/E04)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDczQTA"
+    }
+   },
+   "shortTitle": "Folge 32: Verbissen (S03/E04)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-02-10T13:20:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2025-12-19T19:15:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2855,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ca216b561944feb2?w={width}&ch=7906e81ac4adba15"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c5ae9ff4d4498b34?w={width}&ch=031a9e5fee918478"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:74195b3ae34b96ad?w={width}&ch=e5cce29e98c1989f"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 33: Bienenstich (S03/E05)",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Folge 33: Bienenstich (S03/E05)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA",
+     "partner": "br",
+     "title": "Folge 33: Bienenstich (S03/E05)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA",
+     "partner": "br",
+     "title": "Folge 33: Bienenstich (S03/E05)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDc2QTA"
+    }
+   },
+   "shortTitle": "Folge 33: Bienenstich (S03/E05)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  }
+ ],
+ "compilationType": "itemsOfSeason",
+ "personalized": false,
+ "pagination": {
+  "pageNumber": 0,
+  "pageSize": 48,
+  "totalElements": 8
+ },
+ "isChildContent": false,
+ "userVisibility": "ALWAYS",
+ "binaryFeatures": [],
+ "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/widgets/br/asset/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY?pageNumber=0&pageSize=48&embedded=true&seasoned=true&seasonNumber=3&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+   "partner": "br",
+   "title": "Staffel 3",
+   "type": "application/vnd.ard.widget+json",
+   "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY"
+  }
+ },
+ "seasonNumber": "3",
+ "size": "m",
+ "swipeable": true,
+ "title": "Staffel 3",
+ "titleVisible": true,
+ "type": "gridlist",
+ "withAudiodescription": false,
+ "withOriginalVersion": false,
+ "withOriginalWithSubtitle": false,
+ "withSignLanguage": false
+}

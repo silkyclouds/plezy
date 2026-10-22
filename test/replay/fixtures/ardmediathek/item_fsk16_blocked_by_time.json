@@ -1,0 +1,85 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": null,
+   "blockedByLoginOnly": false,
+   "embeddable": false,
+   "personalized": false,
+   "isChildContent": false,
+   "binaryFeatures": [
+    "UT"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": "2027-04-01T03:00:00Z",
+   "blockedByFsk": true,
+   "broadcastedOn": "2026-10-18T03:00:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL2FydGUudHYvcHVibGljYXRpb24vMDczMDEwLTAwMC1B",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0206094ae4f794a9?w={width}&ch=81d08852083e7669"
+   },
+   "maturityContentRating": "FSK16",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "ARTE",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "arte",
+    "id": "b3JnYW5pemF0aW9uX0FSVEU",
+    "coreId": "urn:ard:publisher:f55305390e4f183e"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/arte/editorials/player_on_demand_widget_arte/item/Y3JpZDovL2FydGUudHYvcHVibGljYXRpb24vMDczMDEwLTAwMC1B?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_arte",
+     "partner": "arte",
+     "title": "Mord im Fahrpreis inbegriffen",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_arte"
+    }
+   },
+   "show": {
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT"
+    ],
+    "coreAssetType": "SINGLE",
+    "id": "Y3JpZDovL2FydGUudHYvc2hvdy8wNzMwMTAtMDAwLUE",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b6794a5f927cafdb?w={width}&ch=81d08852083e7669"
+    },
+    "isChildContent": false,
+    "title": "Mord im Fahrpreis inbegriffen"
+   },
+   "synopsis": "In einem Nachtzug von Marseille nach Paris: Der junge Daniel hat keine Fahrkarte und versteckt er sich in der Toilette. Der Schaffner bewegt sich durch den Zug auf ihn zu, doch im letzten Moment erlöst ihn die junge Bambi. Als die Luft rein ist, lädt sie ihn in ihr Abteil ein. Dort schlafen bereits ",
+   "title": "Mord im Fahrpreis inbegriffen",
+   "type": "player_ondemand"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "Mord im Nachtzug: Yves Montand ermittelt in Costa-Gavras' Thriller mit komödiantischen Elementen.",
+ "fskRating": "FSK16",
+ "id": "player_ondemand-page-arte",
+ "isChildContent": false,
+ "isFamilyFriendly": true,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/arte/item/Y3JpZDovL2FydGUudHYvcHVibGljYXRpb24vMDczMDEwLTAwMC1B?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-arte",
+   "partner": "arte",
+   "title": "Mord im Fahrpreis inbegriffen",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-arte"
+  }
+ },
+ "targetAudienceAgeMax": null,
+ "targetAudienceAgeMin": null,
+ "title": "Mord im Fahrpreis inbegriffen",
+ "titleSeo": "Mord im Fahrpreis inbegriffen - Mord im Fahrpreis inbegriffen - hier anschauen"
+}

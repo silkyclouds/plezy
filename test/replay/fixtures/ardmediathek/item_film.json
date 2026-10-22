@@ -1,0 +1,643 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": {
+    "embedded": {
+     "id": "urn:ard:publication:b41ca065a785e90d",
+     "meta": {
+      "images": [
+       {
+        "kind": "preview",
+        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:48bfb2399435e3cf?w=960&ch=1d5805ebbc0a649c",
+        "imageSourceName": "ARD Degeto/BR / Kerstin Stelter",
+        "title": "Matthias ist endlich angekommen: Nicht nur, dass er demnächst in Regensburg seine Stelle als neuer Verwalter der Walhalla antritt. Auch hat er sich entschlossen, mit der lebensfrohen Flugbegleiterin Diana den Rest seines Lebens zu verbringen. Die...",
+        "alt": "Diana und Matthias",
+        "aspectRatio": "16x9"
+       }
+      ],
+      "durationSeconds": 5314,
+      "maturityContentRating": {
+       "kind": "other",
+       "age": 0,
+       "isBlocked": false,
+       "descriptors": []
+      },
+      "title": "Göttliche Funken",
+      "seriesTitle": "Filme in der ARD",
+      "synopsis": "Spielfilm Deutschland 2014\n\nMatthias (Devid Striesow) ist endlich angekommen: Nicht nur, dass er demnächst in Regensburg seine Stelle als neuer Verwalter der Walhalla antritt. Auch hat er sich entschlossen, mit der lebensfrohen Flugbegleiterin Diana (Anna Maria Mühe) den Rest seines Lebens zu verbri",
+      "broadcastedOnDateTime": "2023-11-03T23:00:25.915Z",
+      "clipSourceName": "deg",
+      "publicationService": {
+       "name": "ARD",
+       "partner": "ard"
+      },
+      "availableToDateTime": "2027-09-12T16:45:00Z"
+     },
+     "streams": [
+      {
+       "media": [
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529002__sendeton_640x360-50p-1200kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529002__sendeton_960x540-50p-1600kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529002__sendeton_1920x1080-50p-5000kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529002__sendeton_1280x720-50p-3200kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://universal-vod.daserste.de/i/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/,JOB_529002__sendeton_480x270-50p-700kbit.mp4,JOB_529002__sendeton_640x360-50p-1200kbit.mp4,JOB_529002__sendeton_960x540-50p-1600kbit.mp4,JOB_529002__sendeton_1280x720-50p-3200kbit.mp4,JOB_529002__sendeton_1920x1080-50p-5000kbit.mp4,.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://universal-vod.daserste.de/i/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/,JOB_529003__internationalerton_480x270-50p-700kbit.mp4,JOB_529003__internationalerton_640x360-50p-1200kbit.mp4,JOB_529003__internationalerton_960x540-50p-1600kbit.mp4,JOB_529003__internationalerton_1280x720-50p-3200kbit.mp4,JOB_529003__internationalerton_1920x1080-50p-5000kbit.mp4,.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529003__internationalerton_960x540-50p-1600kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529003__internationalerton_1280x720-50p-3200kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529003__internationalerton_1920x1080-50p-5000kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://ctv-videos.daserste.de/int/2023/10/24/594855b1-44bc-4c51-ba6e-7447fcebe026/JOB_529003__internationalerton_640x360-50p-1200kbit.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        }
+       ],
+       "kind": "main",
+       "kindName": "Normal",
+       "videoLanguageCode": ""
+      }
+     ],
+     "isGeoBlocked": false,
+     "subtitles": [
+      {
+       "kind": "normal",
+       "languageCode": "deu",
+       "sources": [
+        {
+         "kind": "ebutt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/ebutt/urn:ard:subtitle:6222eb954647a70d"
+        },
+        {
+         "kind": "webvtt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/webvtt/urn:ard:subtitle:6222eb954647a70d.vtt"
+        }
+       ]
+      }
+     ]
+    },
+    "href": "https://api.ardmediathek.de/page-gateway/mediacollectionv6/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0xMS0wNF8xNC0wMC1NRVo?isTv=false"
+   },
+   "blockedByLoginOnly": false,
+   "embeddable": false,
+   "personalized": false,
+   "isChildContent": false,
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": "2027-09-12T16:45:00Z",
+   "blockedByFsk": false,
+   "broadcastedOn": "2026-01-10T09:15:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0xMS0wNF8xNC0wMC1NRVo",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:48bfb2399435e3cf?w={width}&ch=1d5805ebbc0a649c"
+   },
+   "maturityContentRating": "FSK0",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "ARD",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "ard",
+    "id": "b3JnYW5pemF0aW9uX0FSRA",
+    "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/ard/editorials/player_on_demand_widget_ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0xMS0wNF8xNC0wMC1NRVo?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_ard",
+     "partner": "ard",
+     "title": "Göttliche Funken",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_ard"
+    }
+   },
+   "show": {
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT",
+     "AD",
+     "OV"
+    ],
+    "coreAssetType": "INFINITE_SERIES",
+    "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:427dc6c1e14eea89?w={width}&ch=0917d4265d4f4928"
+    },
+    "isChildContent": false,
+    "title": "Filme in der ARD"
+   },
+   "synopsis": "Spielfilm Deutschland 2014\n\nMatthias (Devid Striesow) ist endlich angekommen: Nicht nur, dass er demnächst in Regensburg seine Stelle als neuer Verwalter der Walhalla antritt. Auch hat er sich entschlossen, mit der lebensfrohen Flugbegleiterin Diana (Anna Maria Mühe) den Rest seines Lebens zu verbri",
+   "title": "Göttliche Funken",
+   "type": "player_ondemand"
+  },
+  {
+   "teasers": [
+    {
+     "availableTo": "2027-12-20T22:59:00Z",
+     "binaryFeatures": [
+      "UT",
+      "AD"
+     ],
+     "broadcastedOn": "2026-11-20T11:55:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 5376,
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:92ac7802cd2cf493?w={width}&ch=f2ebd54b47075689"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:18de3e46c5dca5ac?w={width}&ch=9660170344e7a01e"
+      },
+      "aspect3x4": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ceceec7f8d4307e1?w={width}&ch=6c115f90a1a5a432"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:305603b67527f037?w={width}&ch=55c66042c97f612a"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": true,
+     "longTitle": "Und dann steht einer auf und öffnet das Fenster",
+     "maturityContentRating": "FSK6",
+     "mediumTitle": "Und dann steht einer auf und öffnet das Fenster",
+     "personalized": false,
+     "publicationService": {
+      "name": "ARD",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "ard",
+      "id": "b3JnYW5pemF0aW9uX0FSRA",
+      "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa",
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa",
+       "partner": "ard",
+       "title": "Und dann steht einer auf und öffnet das Fenster",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa",
+       "partner": "ard",
+       "title": "Und dann steht einer auf und öffnet das Fenster",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNa"
+      }
+     },
+     "shortTitle": "Und dann steht einer auf und öffnet das Fenster",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT",
+       "AD",
+       "OV"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:464cf32364cb5712",
+      "coremediaId": 1933898,
+      "descriptionSeo": null,
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://daserste.de/fernsehfilme im ersten",
+       "title": "Filme in der ARD",
+       "href": "https://www.ardmediathek.de/filme",
+       "type": ""
+      },
+      "id": "crid://daserste.de/fernsehfilme im ersten",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:427dc6c1e14eea89?w={width}&ch=0917d4265d4f4928"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:457cfdfa214124a6?w={width}&ch=bac408e733fbeada"
+       },
+       "3x4": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:288512a944b45c2e?w={width}&ch=b652048b03aade4a"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b2295d9461e8ad6c?w={width}&ch=cc99349a749068c2"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "ARD",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "ard",
+       "id": "b3JnYW5pemF0aW9uX0FSRA",
+       "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+      },
+      "self": {
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+       "title": "Filme in der ARD",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "synopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "Filme in der ARD",
+      "titleSeo": null
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    },
+    {
+     "availableTo": "2027-12-20T22:59:00Z",
+     "binaryFeatures": [
+      "AD",
+      "UT"
+     ],
+     "broadcastedOn": "2026-11-20T11:55:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 5376,
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:92ac7802cd2cf493?w={width}&ch=f2ebd54b47075689"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:18de3e46c5dca5ac?w={width}&ch=9660170344e7a01e"
+      },
+      "aspect3x4": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ceceec7f8d4307e1?w={width}&ch=6c115f90a1a5a432"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:305603b67527f037?w={width}&ch=55c66042c97f612a"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": true,
+     "longTitle": "Und dann steht einer auf und öffnet das Fenster (Audiodeskription)",
+     "maturityContentRating": "FSK6",
+     "mediumTitle": "Und dann steht einer auf und öffnet das Fenster (Audiodeskription)",
+     "personalized": false,
+     "publicationService": {
+      "name": "ARD",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "ard",
+      "id": "b3JnYW5pemF0aW9uX0FSRA",
+      "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+       "partner": "ard",
+       "title": "Und dann steht einer auf und öffnet das Fenster (Audiodeskription)",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+       "partner": "ard",
+       "title": "Und dann steht einer auf und öffnet das Fenster (Audiodeskription)",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0wN18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24"
+      }
+     },
+     "shortTitle": "Und dann steht einer auf und öffnet das Fenster (Audiodeskription)",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT",
+       "AD",
+       "OV"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:464cf32364cb5712",
+      "coremediaId": 1933898,
+      "descriptionSeo": null,
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://daserste.de/fernsehfilme im ersten",
+       "title": "Filme in der ARD",
+       "href": "https://www.ardmediathek.de/filme",
+       "type": ""
+      },
+      "id": "crid://daserste.de/fernsehfilme im ersten",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:427dc6c1e14eea89?w={width}&ch=0917d4265d4f4928"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:457cfdfa214124a6?w={width}&ch=bac408e733fbeada"
+       },
+       "3x4": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:288512a944b45c2e?w={width}&ch=b652048b03aade4a"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b2295d9461e8ad6c?w={width}&ch=cc99349a749068c2"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "ARD",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "ard",
+       "id": "b3JnYW5pemF0aW9uX0FSRA",
+       "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+      },
+      "self": {
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+       "title": "Filme in der ARD",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "synopsis": "Komödien, Dramen, Dramedys, Krimis und mehr ... Ausgewählte Spielfilme und Fernsehfilme der ARD.",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "Filme in der ARD",
+      "titleSeo": null
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    }
+   ],
+   "compilationType": "itemsOfShow",
+   "personalized": false,
+   "pagination": {
+    "pageNumber": 0,
+    "pageSize": 24,
+    "totalElements": 897
+   },
+   "isChildContent": false,
+   "userVisibility": "ALWAYS",
+   "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/ard/asset/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4?excludedAssetIds=Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0xMS0wNF8xNC0wMC1NRVo&pageNumber=0&pageSize=24&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4",
+     "partner": "ard",
+     "title": "Filme in der ARD",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4"
+    }
+   },
+   "size": "m",
+   "swipeable": true,
+   "title": "Filme in der ARD",
+   "titleVisible": true,
+   "type": "gridlist"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "Matthias, der gerade im Begriff ist, seine geliebte Diana vor den Traualtar zu führen, traut seinen Augen nicht: Als kurzfristig eingesprungene Pfarrerin erscheint ausgerechnet Lily, die ehemalige Liebe seines Lebens! 25 Jahre haben sich …",
+ "fskRating": "FSK0",
+ "id": "player_ondemand-page-ard",
+ "isChildContent": false,
+ "isFamilyFriendly": true,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0xMS0wNF8xNC0wMC1NRVo?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-ard",
+   "partner": "ard",
+   "title": "Göttliche Funken",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-ard"
+  }
+ },
+ "targetAudienceAgeMax": null,
+ "targetAudienceAgeMin": null,
+ "title": "Göttliche Funken",
+ "titleSeo": "Filme in der ARD - Göttliche Funken - hier anschauen"
+}

@@ -1,0 +1,306 @@
+{
+ "teasers": [
+  {
+   "availableSeasons": null,
+   "binaryFeatures": [
+    "UT",
+    "DGS",
+    "AD"
+   ],
+   "coreAssetType": "INFINITE_SERIES",
+   "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a8959bc57bedd88a?w={width}&ch=389e8f7aef781c55"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:57559fd8493b090e?w={width}&ch=bfa7f51159a70920"
+    },
+    "aspect3x4": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c82ca21f13bac66f?w={width}&ch=81a039028bec1df2"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c55e01954532da6?w={width}&ch=b8eff11ee60b8401"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Tatort",
+   "mediumTitle": "Tatort",
+   "personalized": false,
+   "publicationService": {
+    "name": "ARD",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "ard",
+    "id": "b3JnYW5pemF0aW9uX0FSRA",
+    "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/ard/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "partner": "ard",
+     "title": "Tatort",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/ard/grouping/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA?embedded=true",
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "partner": "ard",
+     "title": "Tatort",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA"
+    }
+   },
+   "shortTitle": "Tatort",
+   "titleVisible": true,
+   "type": "show"
+  },
+  {
+   "availableSeasons": [
+    "1"
+   ],
+   "binaryFeatures": [
+    "UT"
+   ],
+   "coreAssetType": "SEASON_SERIES",
+   "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9de380169a983d18?w={width}&ch=c8b6cb0950486b82"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4e081807dbcff210?w={width}&ch=b82b6028c9aa2474"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:79098f174aaad577?w={width}&ch=5a45c862ea81d538"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Tatort Israel",
+   "mediumTitle": "Tatort Israel",
+   "personalized": false,
+   "publicationService": {
+    "name": "ZDF",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "zdf",
+    "id": "b3JnYW5pemF0aW9uX1pERg",
+    "coreId": "urn:ard:publisher:87c0b50ef749b7cc"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/zdf/groupings/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA",
+     "partner": "zdf",
+     "title": "Tatort Israel",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/zdf/grouping/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA?embedded=true",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA",
+     "partner": "zdf",
+     "title": "Tatort Israel",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TX2U1ODVmZmQ3LTQ3NTMtNDY2Yi1iMWYwLTE5OWIzNmNhOTFmNA"
+    }
+   },
+   "shortTitle": "Tatort Israel",
+   "titleVisible": true,
+   "type": "show"
+  },
+  {
+   "availableSeasons": [
+    "1"
+   ],
+   "binaryFeatures": [
+    "UT"
+   ],
+   "coreAssetType": "SEASON_SERIES",
+   "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4a25409c49a5c464?w={width}&ch=a3298cd0bbbf6db9"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5ffb135e4525c45a?w={width}&ch=cd078d5e7360a7cb"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:aecf4f9d99972c0b?w={width}&ch=038bf4920d7b4855"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Tatort Syrien",
+   "mediumTitle": "Tatort Syrien",
+   "personalized": false,
+   "publicationService": {
+    "name": "ZDF",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "zdf",
+    "id": "b3JnYW5pemF0aW9uX1pERg",
+    "coreId": "urn:ard:publisher:87c0b50ef749b7cc"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/zdf/groupings/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw",
+     "partner": "zdf",
+     "title": "Tatort Syrien",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/zdf/grouping/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw?embedded=true",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw",
+     "partner": "zdf",
+     "title": "Tatort Syrien",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzY0ZTFhNjExLTNjNWEtNDg5ZC1hMjAxLWJhZGU1NDhjYzYyYw"
+    }
+   },
+   "shortTitle": "Tatort Syrien",
+   "titleVisible": true,
+   "type": "show"
+  },
+  {
+   "availableSeasons": null,
+   "binaryFeatures": [],
+   "coreAssetType": "INFINITE_SERIES",
+   "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0d598014b961f50f?w={width}&ch=9ca77a8e973610ae"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7cb7044d0e0efd3b?w={width}&ch=e100eeb1f8fc10b9"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e9b38f1569531d60?w={width}&ch=23e3875b434252c9"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Tatort Antike",
+   "mediumTitle": "Tatort Antike",
+   "personalized": false,
+   "publicationService": {
+    "name": "ZDF",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "zdf",
+    "id": "b3JnYW5pemF0aW9uX1pERg",
+    "coreId": "urn:ard:publisher:87c0b50ef749b7cc"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/zdf/groupings/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg",
+     "partner": "zdf",
+     "title": "Tatort Antike",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/zdf/grouping/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg?embedded=true",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg",
+     "partner": "zdf",
+     "title": "Tatort Antike",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVmZmU5YTBmLTNjMDctNDkwNS1iNGZlLTEwNzY4NDkwOWE4Mg"
+    }
+   },
+   "shortTitle": "Tatort Antike",
+   "titleVisible": true,
+   "type": "show"
+  },
+  {
+   "availableSeasons": null,
+   "binaryFeatures": [],
+   "coreAssetType": "INFINITE_SERIES",
+   "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:80b2620881ad7bee?w={width}&ch=f0e6bb0cefb9126a"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:d199caf009d1edc9?w={width}&ch=11fb1d29f4fc7945"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:64586d09519f9381?w={width}&ch=0e7f21d79e83ff52"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Tatort Mittelalter",
+   "mediumTitle": "Tatort Mittelalter",
+   "personalized": false,
+   "publicationService": {
+    "name": "ZDF",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "zdf",
+    "id": "b3JnYW5pemF0aW9uX1pERg",
+    "coreId": "urn:ard:publisher:87c0b50ef749b7cc"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/zdf/groupings/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw",
+     "partner": "zdf",
+     "title": "Tatort Mittelalter",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/zdf/grouping/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw?embedded=true",
+     "id": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw",
+     "partner": "zdf",
+     "title": "Tatort Mittelalter",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzVlNDM0ZGJhLWYxMDgtNDY3NS04NjlhLTcxOGJhZDFkZjE1Mw"
+    }
+   },
+   "shortTitle": "Tatort Mittelalter",
+   "titleVisible": true,
+   "type": "show"
+  }
+ ],
+ "personalized": false,
+ "pagination": {
+  "pageNumber": 0,
+  "pageSize": 10,
+  "totalElements": 47
+ },
+ "isChildContent": false,
+ "id": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA",
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/widgets/ard/search/grouping?searchString=tatort&pageNumber=0&pageSize=10&embedded=true",
+   "id": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA",
+   "partner": "ard",
+   "title": "SearchCompilationWidget:tatort",
+   "type": "application/vnd.ard.widget+json",
+   "urlId": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA"
+  }
+ },
+ "size": "m",
+ "title": "SearchCompilationWidget:tatort",
+ "titleVisible": false,
+ "type": "gridlist"
+}

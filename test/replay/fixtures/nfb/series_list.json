@@ -1,0 +1,556 @@
+{
+ "items": [
+  {
+   "thumbnail": "thumbs_xlarge/2025/beauy-begins-inside.jpg",
+   "jacket": null,
+   "tagline": "A wild, witty and refreshingly real journey through body image, puberty and healthy eating.",
+   "id": 170096,
+   "title": "Beauty Begins Inside",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/beauty-begins-inside/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "beauty-begins-inside",
+   "duration": 0.0,
+   "year": 1995,
+   "directors": [],
+   "description": "<strong><em>Beauty Begins Inside</em></strong> is a lively and offbeat three-part video series designed to help ’90s teens build healthier relationships with food, their bodies and themselves. <strong><em>Pressure Zone</em></strong> takes aim at the diet and image industries, encouraging teens to ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1023380,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 3,
+   "year_min": 1995,
+   "year_max": 1995
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/freedomroad_en_keyart_16x9.jpg",
+   "jacket": "jackets/freedomroad_en_keyart_2x3.jpg",
+   "tagline": null,
+   "id": 1021029,
+   "title": "Freedom Road",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/freedom-road-series/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "freedom-road-series",
+   "duration": 4274.0,
+   "year": 2019,
+   "directors": [
+    {
+     "first_name": "Angelina",
+     "last_name": "McLeod",
+     "slug": "angelina-mcleod",
+     "image": null
+    }
+   ],
+   "description": "Freedom Road is a five-part documentary series that tells the inspiring story of Shoal Lake 40 Anishinaabe First Nation and their battle to build a road, after their community was forcibly relocated and cut off from the mainland over 100 years ago, so that water could be diverted to the city of ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1003590,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 5,
+   "year_min": 2019,
+   "year_max": 2019
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/ramaillage_en_keyart_16x9.jpg",
+   "jacket": "jackets/ramaillage_en_keyart_2x3.jpg",
+   "tagline": null,
+   "id": 1021131,
+   "title": "Gatherings",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/gatherings/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "gatherings",
+   "duration": 11837.0,
+   "year": 2020,
+   "directors": [
+    {
+     "first_name": "Moïse",
+     "last_name": "Marcoux-Chabot",
+     "slug": "moise-marcoux-chabot",
+     "image": null
+    }
+   ],
+   "description": "A must-see documentary series that offers fresh perspectives and a sensitive, hopeful look at environmental challenges through the eyes of some colourful and inspiring characters.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1014606,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 6,
+   "year_min": 2020,
+   "year_max": 2020
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/thegreatlistofeverything_s2_en_keyart_16x9.jpg",
+   "jacket": "jackets/thegreatlistofeverything_s2_en_keyart_2x3.jpg",
+   "tagline": null,
+   "id": 1026917,
+   "title": "The Great List of Everything",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/the-great-list-of-everything-series/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "the-great-list-of-everything-series",
+   "duration": 0.0,
+   "year": 2019,
+   "directors": [
+    {
+     "first_name": "Iris",
+     "last_name": "Boudreau",
+     "slug": "iris-boudreau",
+     "image": null
+    },
+    {
+     "first_name": "",
+     "last_name": "Cathon",
+     "slug": "cathon",
+     "image": null
+    },
+    {
+     "first_name": "Francis",
+     "last_name": "Papillon",
+     "slug": "francis-papillon",
+     "image": null
+    }
+   ],
+   "description": "Based on a French-language comic book, The Great List of Everything features artists Cathon and Iris, two wildly imaginative young women who share their unbridled passion for everyday objects.\r\n\r\nThe two friends’ quirky humour, broad knowledge, and endless curiosity will make you want to learn more ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1026916,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 2,
+   "episodes_count": 26,
+   "year_min": 2019,
+   "year_max": 2022
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2026/InTheCloset_NFB-Platform-Serie_Keyart_3840x2160_EN_DxTfQGf.jpg",
+   "jacket": "jackets/InTheCloset_NFB-Platform-Serie_Keyart_1440x2160_EN_Qly4SwI.jpg",
+   "tagline": null,
+   "id": 1031602,
+   "title": "In the Closet",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/in-the-closet-series/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "in-the-closet-series",
+   "duration": 0.0,
+   "year": 2026,
+   "directors": [
+    {
+     "first_name": "Ajahnis",
+     "last_name": "Charley",
+     "slug": "ajahnis-charley",
+     "image": null
+    }
+   ],
+   "description": "You are what you wear.Yes, they’re in a literal closet, but these non-binary artists are anything but closeted. Ajahnis Charley hosts a hilarious and intimate docu-series that isn’t afraid to wear its heart on its drop sleeves.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1031603,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 6,
+   "year_min": 2026,
+   "year_max": 2026
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/thelakewinnipegproject_en_keyart_16x9.jpg",
+   "jacket": "jackets/thelakewinnipegproject_en_keyart_2x3.jpg",
+   "tagline": "The Lake Winnipeg Project is a four-part documentary series that calls attention to stories of ingenuity and resilience in four diverse communities surrounding Lake Winnipeg, at a time when many external forces are imposing change.",
+   "id": 1016278,
+   "title": "The Lake Winnipeg Project",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/lake-winnipeg-project/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "lake-winnipeg-project",
+   "duration": 3197.0,
+   "year": 2021,
+   "directors": [
+    {
+     "first_name": "Kevin",
+     "last_name": "Settee",
+     "slug": "kevin-settee",
+     "image": null
+    }
+   ],
+   "description": "<strong><em>The Lake Winnipeg Project</em></strong>is a four-part documentary series that calls attention to stories of ingenuity and resilience in four diverse communities surrounding Lake Winnipeg, at a time when many external forces are imposing change. Anishinaabe/Cree director Kevin Settee ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1016279,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 4,
+   "year_min": 2021,
+   "year_max": 2021
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/le-son-des-francais-damerique-serie.jpg",
+   "jacket": null,
+   "tagline": "Francophone culture in North America is largely rooted in music, songs, and folk dances passed on from generation to generation.",
+   "id": 1028752,
+   "title": "Le son des Français d'Amérique (English Version)",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/le-son-des-francais-damerique-english-version/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "le-son-des-francais-damerique-english-version",
+   "duration": 43800.0,
+   "year": 1976,
+   "directors": [
+    {
+     "first_name": "Michel",
+     "last_name": "Brault",
+     "slug": "michel-brault",
+     "image": null
+    },
+    {
+     "first_name": "André",
+     "last_name": "Gladu",
+     "slug": "andre-gladu",
+     "image": null
+    }
+   ],
+   "description": "Francophone culture in North America is largely rooted in music, songs and folk dances passed on from generation to generation. And there is a connection between the vibrancy of these traditions and their minority status, since French-speaking communities have been able to preserve their identities ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1017654,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 27,
+   "year_min": 1975,
+   "year_max": 1980
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/magicalcaresses_en_keyart_16x9.jpg",
+   "jacket": "jackets/magicalcaresses_en_keyart_2x3.jpg",
+   "tagline": "An animated documentary series in which Lori Malépart-Traversy takes a playful and uninhibited look at solo sexuality.",
+   "id": 1023654,
+   "title": "Magical Caresses",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/magical-caresses/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "magical-caresses",
+   "duration": 1225.0,
+   "year": 2022,
+   "directors": [
+    {
+     "first_name": "Lori",
+     "last_name": "Malépart-Traversy",
+     "slug": "lori-malepart-traversy",
+     "image": null
+    }
+   ],
+   "description": "Magical Caresses is a series of animated documentaries by Lori Malépart-Traversy, creator of the popular short film Le clitoris. A skillful blend of humour and confession, these four-minute episodes provide a range of female perspectives, taking a healthy and uninhibited approach to demystifying ...",
+   "rating": "",
+   "warning_code": "N",
+   "warning": "This film contains scenes of nudity and/or sexuality. Viewer discretion is advised.",
+   "work_id": 1016008,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 5,
+   "year_min": 2022,
+   "year_max": 2022
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/Maisonneuve_keyart3840x2160ENG-FRA_v02.jpg",
+   "jacket": "jackets/APPROB_Maisonneuve_keyart1440x2160ENG-FRA_v03.jpg",
+   "tagline": "<strong><em>Maisonneuve</em></strong> highlights the importance—and the fragility—of living together in harmony in Quebec, examining the fallout of a shocking event that shook Collège de Maisonneuve.",
+   "id": 1027098,
+   "title": "Maisonneuve",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/maisonneuve-en/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "maisonneuve-en",
+   "duration": 9167.0,
+   "year": 2023,
+   "directors": [
+    {
+     "first_name": "Jean-Martin",
+     "last_name": "Gagnon",
+     "slug": "jean-martin-gagnon",
+     "image": null
+    }
+   ],
+   "description": "Over six episodes, <strong><em>Maisonneuve</em></strong> looks at the repercussions flowing from the arrest of 11 students at Montreal’s Collège de Maisonneuve as they prepared to join the ranks of the Islamic State in Syria. From the initial shock to a gradual opening for dialogue, the series ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1024202,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 6,
+   "year_min": 2023,
+   "year_max": 2023
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2023/north-star-XL.jpg",
+   "jacket": "jackets/EDN_keyart_1440x2160_EN.jpg",
+   "tagline": "<strong><em>North Star</em></strong> chronicles the exceptional journey of Laurie Rousseau-Nepton, a young, Quebec-born Innu astrophysicist who’s leading a massive research project at the Canada-France-Hawaii Telescope",
+   "id": 1026161,
+   "title": "North Star",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/north-star/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "north-star",
+   "duration": 4613.0,
+   "year": 2023,
+   "directors": [
+    {
+     "first_name": "Patrick",
+     "last_name": "Bossé",
+     "slug": "patrick-bosse",
+     "image": null
+    }
+   ],
+   "description": "Laurie Rousseau-Nepton is a young, Quebec-born Innu astrophysicist who’s leading a massive research project at the Canada-France-Hawaii Telescope. Drawing on a worldview rooted in a love of nature, as well as her talents as a science communicator, she shares her passion for the study of celestial ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1021830,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 5,
+   "year_min": 2023,
+   "year_max": 2023
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/therwandaseries_en_keyart_16x9.jpg",
+   "jacket": "jackets/therwandaseries_en_keyart_2x3.jpg",
+   "tagline": null,
+   "id": 170101,
+   "title": "The Rwanda Series",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/rwanda-series/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "rwanda-series",
+   "duration": 0.0,
+   "year": 1996,
+   "directors": [],
+   "description": "In April 1994, the international community sat by and watched while a million Tutsi men, women and children were massacred in the central African nation of Rwanda. The Rwanda Series, featuring Hand of God, Hand of the Devil (1996), the three-part Chronicle of a Genocide Foretold (1996) and Sitting ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1024788,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 5,
+   "year_min": 1996,
+   "year_max": 1996
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/NFB_SoundsPressure_Key_Art_3840x2160_tk1.jpg",
+   "jacket": "jackets/NFB_SoundsPressure_Key_Art_1440x2160_tk1.jpg",
+   "tagline": "At the height of the golden age of reggae, some of Jamaica’s brightest stars left their homeland behind to shine their light in an unlikely hub of Caribbean creativity: Toronto.﻿",
+   "id": 1018489,
+   "title": "Sounds & Pressure: Reggae in a Foreign Land",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/sounds-pressure/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "sounds-pressure",
+   "duration": 4860.0,
+   "year": 2024,
+   "directors": [
+    {
+     "first_name": "Chris",
+     "last_name": "Flanagan",
+     "slug": "chris-flanagan",
+     "image": null
+    },
+    {
+     "first_name": "Graeme",
+     "last_name": "Mathieson",
+     "slug": "graeme-mathieson",
+     "image": null
+    }
+   ],
+   "description": "<em><strong>Sounds & Pressure: Reggae in a Foreign Land</strong></em> follows the journeys of these icons. Through rare archives and infectious beats, this captivating five-part anthology series takes you from Kingston to Kensington Market to see and hear how reggae made roots in Canada against all ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1018490,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": true,
+   "seasons_count": 1,
+   "episodes_count": 5,
+   "year_min": 2024,
+   "year_max": 2024
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/truenorth_en_keyart_16x9.jpg",
+   "jacket": "jackets/truenorth_en_keyart_2x3.jpg",
+   "tagline": null,
+   "id": 1003559,
+   "title": "True North: Inside the Rise of Toronto Basketball",
+   "category": "series",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/series/true-north-inside-the-rise-of-toronto-basketball/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "true-north-inside-the-rise-of-toronto-basketball",
+   "duration": 8981.0,
+   "year": 2018,
+   "directors": [
+    {
+     "first_name": "Ryan",
+     "last_name": "Sidhoo",
+     "slug": "ryan-sidhoo",
+     "image": null
+    },
+    {
+     "first_name": "Ryan",
+     "last_name": "Sidhoo",
+     "slug": "ryan-sidhoo",
+     "image": null
+    }
+   ],
+   "description": "An intimate look at the rise of five aspiring athletes, Ryan Sidhoo’s nine-part docu-series captures the raw emotion of navigating today’s youth basketball machine.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1003560,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "seasons_count": 1,
+   "episodes_count": 9,
+   "year_min": 2018,
+   "year_max": 2018
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "total": 13,
+   "pages": 1,
+   "page": 1,
+   "size": 100
+  },
+  "year_range": {
+   "min": 1976,
+   "max": 2026
+  },
+  "media": {
+   "original_url": "https://assets.nfbcdn.ca/medias/norman/{path}",
+   "thumbnail_url": "https://assets.nfbcdn.ca/medias/norman/{path}?w={width}&h={height}"
+  }
+ }
+}

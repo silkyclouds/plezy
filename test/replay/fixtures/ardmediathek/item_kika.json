@@ -1,0 +1,515 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": {
+    "embedded": {
+     "id": "urn:ard:publication:2b5a2c75a2f9690d",
+     "meta": {
+      "images": [
+       {
+        "kind": "preview",
+        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ccb48e93fc5d3fd8?w=960&ch=6a5bf7f40c09f47c",
+        "imageSourceName": "ZDF/Riccardo Menicatti",
+        "title": "Pasta und Couscous: Basma kocht für alle",
+        "alt": "Rechts Basma lächelnd. Neben ihr der Text Ich koche für alle. Hinter ihr Personen, die an einem großen Tisch zusammen essen.",
+        "aspectRatio": "16x9"
+       }
+      ],
+      "durationSeconds": 877,
+      "title": "Pasta und Couscous: Basma kocht für alle",
+      "seriesTitle": "STORY TIME",
+      "synopsis": "Basma (11) lebt in Italien. In ihrem Haus wohnen Menschen aus vielen Ländern. Basma kocht gern und will ein großes Essen für alle Nachbarn zubereiten. Wird sie das schaffen? Basmas Familie stammt aus Marokko, lebt aber schon lange in Italien. Beim Festessen soll es daher von Pasta bis Couscous alles",
+      "broadcastedOnDateTime": "2026-10-04T18:30:00Z",
+      "clipSourceName": "KiKA",
+      "publicationService": {
+       "name": "KiKA",
+       "partner": "kika"
+      },
+      "availableToDateTime": "2031-10-04T18:30:00Z",
+      "ovLanguageCode": "deu"
+     },
+     "streams": [
+      {
+       "media": [
+        {
+         "url": "https://kika-progressive.ard-mcdn.de/kika_de-prod/online/mp4dyn/f/FCMS-f6c7de11-9793-408c-84de-63f611dfc974-5a2c8da1cdb7_f6.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://kika-progressive.ard-mcdn.de/kika_de-prod/online/mp4dyn/f/FCMS-f6c7de11-9793-408c-84de-63f611dfc974-6b00429f6b07_f6.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://kika-progressive.ard-mcdn.de/kika_de-prod/online/mp4dyn/f/FCMS-f6c7de11-9793-408c-84de-63f611dfc974-087bde46997e_f6.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://kika-progressive.ard-mcdn.de/kika_de-prod/online/mp4dyn/f/FCMS-f6c7de11-9793-408c-84de-63f611dfc974-31e0be270130_f6.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://kika-vod.ard-mcdn.de/hls-od/kika/online/mp4dyn/f/FCMS-f6c7de11-9793-408c-84de-63f611dfc974-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,_f6.mp4.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        }
+       ],
+       "kind": "main",
+       "kindName": "Normal",
+       "videoLanguageCode": ""
+      }
+     ],
+     "isGeoBlocked": false,
+     "subtitles": [
+      {
+       "kind": "normal",
+       "languageCode": "deu",
+       "sources": [
+        {
+         "kind": "ebutt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/ebutt/urn:ard:subtitle:e434bf396aa920f4"
+        },
+        {
+         "kind": "webvtt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/webvtt/urn:ard:subtitle:e434bf396aa920f4.vtt"
+        }
+       ]
+      }
+     ]
+    },
+    "href": "https://api.ardmediathek.de/page-gateway/mediacollectionv6/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODE1Ml8xNzkxMTM4NjAwMDAw?isTv=false"
+   },
+   "blockedByLoginOnly": false,
+   "embeddable": false,
+   "personalized": false,
+   "isChildContent": true,
+   "binaryFeatures": [
+    "UT"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": "2031-10-04T18:30:00Z",
+   "blockedByFsk": false,
+   "broadcastedOn": "2026-10-04T18:30:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODE1Ml8xNzkxMTM4NjAwMDAw",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ccb48e93fc5d3fd8?w={width}&ch=6a5bf7f40c09f47c"
+   },
+   "maturityContentRating": "NONE",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "KiKA",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "KiKa",
+    "id": "b3JnYW5pemF0aW9uX0tpS0E",
+    "coreId": "urn:ard:publisher:d974dc16b65aef8b"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/kika/editorials/player_on_demand_widget_kika/item/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODE1Ml8xNzkxMTM4NjAwMDAw?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_kika",
+     "partner": "kika",
+     "title": "Pasta und Couscous: Basma kocht für alle",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_kika"
+    }
+   },
+   "show": {
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT",
+     "DGS"
+    ],
+    "coreAssetType": "INFINITE_SERIES",
+    "id": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0a67f8a727627b35?w={width}&ch=ea5bfa3c291d80af"
+    },
+    "isChildContent": true,
+    "title": "STORY TIME"
+   },
+   "synopsis": "Basma (11) lebt in Italien. In ihrem Haus wohnen Menschen aus vielen Ländern. Basma kocht gern und will ein großes Essen für alle Nachbarn zubereiten. Wird sie das schaffen? Basmas Familie stammt aus Marokko, lebt aber schon lange in Italien. Beim Festessen soll es daher von Pasta bis Couscous alles",
+   "title": "Pasta und Couscous: Basma kocht für alle",
+   "type": "player_ondemand"
+  },
+  {
+   "teasers": [
+    {
+     "availableTo": "2031-10-18T18:30:00Z",
+     "binaryFeatures": [
+      "UT"
+     ],
+     "broadcastedOn": "2026-10-18T18:30:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 874,
+     "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:21f5b89e001792d3?w={width}&ch=112176ffdd7b1225"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:bbfecaa3efddcb1a?w={width}&ch=22ac406547011589"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:52ce806ab46bab5d?w={width}&ch=3164ff612d80fd3d"
+      }
+     },
+     "isChildContent": true,
+     "isFamilyFriendly": false,
+     "longTitle": "Turnen: Schafft Ela den Salto?",
+     "maturityContentRating": "NONE",
+     "mediumTitle": "Turnen: Schafft Ela den Salto?",
+     "personalized": false,
+     "publicationService": {
+      "name": "KiKA",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "KiKa",
+      "id": "b3JnYW5pemF0aW9uX0tpS0E",
+      "coreId": "urn:ard:publisher:d974dc16b65aef8b"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/kika/items/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw",
+       "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw",
+       "partner": "kika",
+       "title": "Turnen: Schafft Ela den Salto?",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/kika/item/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw",
+       "partner": "kika",
+       "title": "Turnen: Schafft Ela den Salto?",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODM3M18xNzkyMzQ4MjAwMDAw"
+      }
+     },
+     "shortTitle": "Turnen: Schafft Ela den Salto?",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT",
+       "DGS"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:bca0dd13858a9569",
+      "coremediaId": 16332879,
+      "descriptionSeo": "STORY TIME: Spannende Dokus für Kinder mit echten Erlebnissen, starken Gefühlen und coolen Einblicken - kostenlos streamen bei KiKA!",
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://kika.de/sendereihen/infinite_series/content-87853",
+       "title": "STORY TIME",
+       "href": "https://www.kika.de/story-time/story-time-100?at_campaign=ard-mediathek&at_medium=ard-mediathek&at_title=story-time",
+       "type": ""
+      },
+      "id": "crid://kika.de/sendereihen/infinite_series/content-87853",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0a67f8a727627b35?w={width}&ch=ea5bfa3c291d80af"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a7c9800da59c3590?w={width}&ch=1864c027b0658343"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:591cb1b91a9cbe18?w={width}&ch=6fdf00bf471ed4b2"
+       }
+      },
+      "isChildContent": true,
+      "isFamilyFriendly": false,
+      "longSynopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "KiKA",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "KiKa",
+       "id": "b3JnYW5pemF0aW9uX0tpS0E",
+       "coreId": "urn:ard:publisher:d974dc16b65aef8b"
+      },
+      "self": {
+       "id": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+       "title": "STORY TIME",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "synopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "targetAudienceAgeMax": 13,
+      "targetAudienceAgeMin": 6,
+      "title": "STORY TIME",
+      "titleSeo": "STORY TIME - alle verfügbaren Videos - hier anschauen"
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    },
+    {
+     "availableTo": "2031-10-18T18:15:00Z",
+     "binaryFeatures": [
+      "UT"
+     ],
+     "broadcastedOn": "2026-10-18T18:15:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 1026,
+     "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ffe77ab6156f636b?w={width}&ch=9842cdf3e151d2f2"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:65ec088bfaa53aa2?w={width}&ch=cfafddbf1f62a2d3"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:8cdc4242a1135ae5?w={width}&ch=17bdb8a43b7a7eb5"
+      }
+     },
+     "isChildContent": true,
+     "isFamilyFriendly": false,
+     "longTitle": "Long Covid: Annabelle kämpft gegen ME/CFS",
+     "maturityContentRating": "NONE",
+     "mediumTitle": "Long Covid: Annabelle kämpft gegen ME/CFS",
+     "personalized": false,
+     "publicationService": {
+      "name": "KiKA",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "KiKa",
+      "id": "b3JnYW5pemF0aW9uX0tpS0E",
+      "coreId": "urn:ard:publisher:d974dc16b65aef8b"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/kika/items/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw",
+       "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw",
+       "partner": "kika",
+       "title": "Long Covid: Annabelle kämpft gegen ME/CFS",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/kika/item/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw",
+       "partner": "kika",
+       "title": "Long Covid: Annabelle kämpft gegen ME/CFS",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04OTA5MF8xNzkyMzQ3MzAwMDAw"
+      }
+     },
+     "shortTitle": "Long Covid: Annabelle kämpft gegen ME/CFS",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT",
+       "DGS"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:bca0dd13858a9569",
+      "coremediaId": 16332879,
+      "descriptionSeo": "STORY TIME: Spannende Dokus für Kinder mit echten Erlebnissen, starken Gefühlen und coolen Einblicken - kostenlos streamen bei KiKA!",
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://kika.de/sendereihen/infinite_series/content-87853",
+       "title": "STORY TIME",
+       "href": "https://www.kika.de/story-time/story-time-100?at_campaign=ard-mediathek&at_medium=ard-mediathek&at_title=story-time",
+       "type": ""
+      },
+      "id": "crid://kika.de/sendereihen/infinite_series/content-87853",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0a67f8a727627b35?w={width}&ch=ea5bfa3c291d80af"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a7c9800da59c3590?w={width}&ch=1864c027b0658343"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:591cb1b91a9cbe18?w={width}&ch=6fdf00bf471ed4b2"
+       }
+      },
+      "isChildContent": true,
+      "isFamilyFriendly": false,
+      "longSynopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "KiKA",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "KiKa",
+       "id": "b3JnYW5pemF0aW9uX0tpS0E",
+       "coreId": "urn:ard:publisher:d974dc16b65aef8b"
+      },
+      "self": {
+       "id": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+       "title": "STORY TIME",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "synopsis": "STORY TIME sind Dokus für dich: Die Folgen zeigen Kinder und ihre echten Erlebnisse: Familie, Schule, Freundschaft, Sport oder besondere Probleme. Du siehst, wie Kinder ihren Alltag schaffen. Die Geschichten sind ehrlich, einfach erklärt und nah dran. Das Doku-Format STORY TIME zeigt dir, wie andere",
+      "targetAudienceAgeMax": 13,
+      "targetAudienceAgeMin": 6,
+      "title": "STORY TIME",
+      "titleSeo": "STORY TIME - alle verfügbaren Videos - hier anschauen"
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    }
+   ],
+   "compilationType": "itemsOfShow",
+   "personalized": false,
+   "pagination": {
+    "pageNumber": 0,
+    "pageSize": 24,
+    "totalElements": 34
+   },
+   "isChildContent": true,
+   "userVisibility": "ALWAYS",
+   "id": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/kika/asset/Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM?excludedAssetIds=Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODE1Ml8xNzkxMTM4NjAwMDAw&pageNumber=0&pageSize=24&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+     "id": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM",
+     "partner": "kika",
+     "title": "STORY TIME",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "Y3JpZDovL2tpa2EuZGUvc2VuZGVyZWloZW4vaW5maW5pdGVfc2VyaWVzL2NvbnRlbnQtODc4NTM"
+    }
+   },
+   "size": "m",
+   "swipeable": true,
+   "title": "STORY TIME",
+   "titleVisible": true,
+   "type": "gridlist"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "Basma (11) lebt in Italien. In ihrem Haus wohnen Menschen aus vielen Ländern. Basma kocht gern und will ein großes Essen für alle Nachbarn zubereiten.",
+ "fskRating": "NONE",
+ "id": "player_ondemand-page-kika",
+ "isChildContent": true,
+ "isFamilyFriendly": false,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/kika/item/Y3JpZDovL2tpa2EuZGUvcHVibGlrYXRpb24vY29udGVudC04ODE1Ml8xNzkxMTM4NjAwMDAw?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-kika",
+   "partner": "kika",
+   "title": "Pasta und Couscous: Basma kocht für alle",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-kika"
+  }
+ },
+ "targetAudienceAgeMax": 13,
+ "targetAudienceAgeMin": 6,
+ "title": "Pasta und Couscous: Basma kocht für alle",
+ "titleSeo": "STORY TIME - Pasta und Couscous: Basma kocht für alle - hier anschauen"
+}

@@ -1,0 +1,520 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": {
+    "embedded": {
+     "id": "urn:ard:publication:620a9af1afcbeac3",
+     "meta": {
+      "images": [
+       {
+        "kind": "preview",
+        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e2b12c2f0ef4b9f9?w=960&ch=52ed581a6b9f82c5",
+        "imageSourceName": "ARD/Lucky Bird Pictures/Savoy Film Productions",
+        "title": "Watzmann ermittelt",
+        "alt": "Sophia Strasser (Katharina Leonore Goebel, links) und Jerry Paulsen (Peter Marton, Mitte) befragen die Zeugin Dani Sturm (Emily Schmeller, rechts).",
+        "aspectRatio": "16x9"
+       }
+      ],
+      "durationSeconds": 2908,
+      "title": "Folge 29: Martha Hari (S03/E01)",
+      "seriesTitle": "Watzmann ermittelt",
+      "synopsis": "An der Ache wird die Leiche des Internet-Bloggers Niklas Denz gefunden. Offenbar hatte es der Täter auf den Laptop des Bloggers abgesehen. Beissl (Andreas Giebel), Jerry (Peter Marton) und ihre neue Kollegin Sophia (Katharina Leonore Goebel) bringen in Erfahrung, dass Niklas Denz an einer Story über",
+      "broadcastedOnDateTime": "2024-02-22T08:55:00Z",
+      "clipSourceName": "BR",
+      "publicationService": {
+       "name": "BR",
+       "partner": "br"
+      },
+      "availableToDateTime": "2027-07-30T20:00:00Z"
+     },
+     "streams": [
+      {
+       "media": [
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_71S/dfa3cd6e-e736-46cb-9074-1ee537b600a6_HD.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_71S/dfa3cd6e-e736-46cb-9074-1ee537b600a6_X.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://br-vod.ard-mcdn.de/i/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_71S/dfa3cd6e-e736-46cb-9074-1ee537b600a6_,C,X,A,HD,E,.mp4.csmil/master.m3u8?__b__=200",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_71S/dfa3cd6e-e736-46cb-9074-1ee537b600a6_E.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_71S/dfa3cd6e-e736-46cb-9074-1ee537b600a6_C.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://br-vod.ard-mcdn.de/i/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_H1S/22d8e383-061e-4963-9d62-e5e55cd84be9_,X,E,A,C,HD,.mp4.csmil/master.m3u8?__b__=200",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_H1S/22d8e383-061e-4963-9d62-e5e55cd84be9_E.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_H1S/22d8e383-061e-4963-9d62-e5e55cd84be9_C.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_H1S/22d8e383-061e-4963-9d62-e5e55cd84be9_HD.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://cdn-storage.br.de/MUJIuUOVBwQIbtC2uKJDM6OhuLnC_2rH5U1S/_-OS/_2Fg_Ar6_H1S/22d8e383-061e-4963-9d62-e5e55cd84be9_X.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        }
+       ],
+       "kind": "main",
+       "kindName": "Normal",
+       "videoLanguageCode": ""
+      }
+     ],
+     "isGeoBlocked": false,
+     "subtitles": [
+      {
+       "kind": "normal",
+       "languageCode": "deu",
+       "sources": [
+        {
+         "kind": "ebutt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/ebutt/urn:ard:subtitle:367a65ace14c866b"
+        },
+        {
+         "kind": "webvtt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/webvtt/urn:ard:subtitle:367a65ace14c866b.vtt"
+        }
+       ]
+      }
+     ]
+    },
+    "href": "https://api.ardmediathek.de/page-gateway/mediacollectionv6/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA?isTv=false"
+   },
+   "blockedByLoginOnly": false,
+   "embeddable": true,
+   "personalized": false,
+   "isChildContent": false,
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": "2027-07-30T20:00:00Z",
+   "blockedByFsk": false,
+   "broadcastedOn": "2025-11-28T19:15:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e2b12c2f0ef4b9f9?w={width}&ch=52ed581a6b9f82c5"
+   },
+   "maturityContentRating": "NONE",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/br/editorials/player_on_demand_widget_br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_br",
+     "partner": "br",
+     "title": "Folge 29: Martha Hari (S03/E01)",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_br"
+    }
+   },
+   "show": {
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "coreAssetType": "SEASON_SERIES",
+    "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+    },
+    "isChildContent": false,
+    "title": "Watzmann ermittelt"
+   },
+   "synopsis": "An der Ache wird die Leiche des Internet-Bloggers Niklas Denz gefunden. Offenbar hatte es der Täter auf den Laptop des Bloggers abgesehen. Beissl (Andreas Giebel), Jerry (Peter Marton) und ihre neue Kollegin Sophia (Katharina Leonore Goebel) bringen in Erfahrung, dass Niklas Denz an einer Story über",
+   "title": "Folge 29: Martha Hari (S03/E01)",
+   "type": "player_ondemand"
+  },
+  {
+   "teasers": [
+    {
+     "availableTo": "2027-10-22T20:45:00Z",
+     "binaryFeatures": [
+      "UT",
+      "AD"
+     ],
+     "broadcastedOn": "2026-11-20T20:00:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 2903,
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:d8fc4caefc15a7e6?w={width}&ch=7f291db58958cc86"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:d773b80c3118d260?w={width}&ch=98c0317cdc4cba2b"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c6e1ac0440803b78?w={width}&ch=0f9a01642c5df514"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": false,
+     "longTitle": "Folge 52: Tödliche Familien (S05/E04)",
+     "maturityContentRating": "FSK6",
+     "mediumTitle": "Folge 52: Tödliche Familien (S05/E04)",
+     "personalized": false,
+     "publicationService": {
+      "name": "BR",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "br",
+      "id": "b3JnYW5pemF0aW9uX0JS",
+      "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA",
+       "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA",
+       "partner": "br",
+       "title": "Folge 52: Tödliche Familien (S05/E04)",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA",
+       "partner": "br",
+       "title": "Folge 52: Tödliche Familien (S05/E04)",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDk1QTA"
+      }
+     },
+     "shortTitle": "Folge 52: Tödliche Familien (S05/E04)",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": [
+       "1",
+       "2",
+       "3",
+       "4",
+       "5",
+       "6",
+       "7"
+      ],
+      "binaryFeatures": [
+       "UT",
+       "AD"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "SEASON_SERIES",
+      "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+      "coremediaId": 92303168,
+      "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+      "groupingType": "SHOW",
+      "hasSeasons": true,
+      "homepage": {
+       "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+       "title": "Watzmann ermittelt",
+       "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+       "type": ""
+      },
+      "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+       },
+       "3x4": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "BR",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "br",
+       "id": "b3JnYW5pemF0aW9uX0JS",
+       "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+      },
+      "self": {
+       "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+       "title": "Watzmann ermittelt",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+      "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "Watzmann ermittelt",
+      "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    }
+   ],
+   "compilationType": "itemsOfShow",
+   "personalized": false,
+   "pagination": {
+    "pageNumber": 0,
+    "pageSize": 24,
+    "totalElements": 147
+   },
+   "isChildContent": false,
+   "userVisibility": "ALWAYS",
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/br/asset/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY?excludedAssetIds=Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA&pageNumber=0&pageSize=24&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "partner": "br",
+     "title": "Watzmann ermittelt",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY"
+    }
+   },
+   "size": "m",
+   "swipeable": true,
+   "title": "Watzmann ermittelt",
+   "titleVisible": true,
+   "type": "gridlist"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "Ein toter Blogger wird in der Ache gefunden. Der Täter hatte es auf dessen Laptop abgesehen. Licht ins Dunkel des Falls bringt ausgerechnet die neue im Ermittlerteam, Sophia Strasser (Katharina Leonore Goebel), die eine interessante Entdeckung macht.",
+ "fskRating": "NONE",
+ "id": "player_ondemand-page-br",
+ "isChildContent": false,
+ "isFamilyFriendly": false,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDcyQTA?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-br",
+   "partner": "br",
+   "title": "Folge 29: Martha Hari (S03/E01)",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-br"
+  }
+ },
+ "targetAudienceAgeMax": null,
+ "targetAudienceAgeMin": null,
+ "title": "Folge 29: Martha Hari (S03/E01)",
+ "titleSeo": "Watzmann ermittelt - Folge 29: Martha Hari (S03/E01) - hier anschauen"
+}

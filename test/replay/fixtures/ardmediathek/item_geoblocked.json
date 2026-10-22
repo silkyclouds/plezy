@@ -1,0 +1,629 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": {
+    "embedded": {
+     "id": "urn:ard:publication:746dd6011db1d3bc",
+     "meta": {
+      "images": [
+       {
+        "kind": "preview",
+        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:984fd34d68059090?w=960&ch=49b1675d8f0a2712",
+        "imageSourceName": "SWR, Benno Kraehahn",
+        "title": "Mila (Purnima Grätz) ist mit ihrer Mutter Jessie in deren Elternhaus im Schwarzwald gekommen.",
+        "alt": "Mila (Purnima Grätz) ist mit ihrer Mutter Jessie in deren Elternhaus im Schwarzwald gekommen.",
+        "aspectRatio": "16x9"
+       }
+      ],
+      "durationSeconds": 1456,
+      "maturityContentRating": {
+       "kind": "other",
+       "age": 12,
+       "isBlocked": false,
+       "descriptors": [
+        "Belastende Szenen",
+        "Bedrohung",
+        "Diskriminierung"
+       ]
+      },
+      "title": "Folge 1: Jessie",
+      "seriesTitle": "House of Yang",
+      "synopsis": "Jessie Alzenberg muss sich mit ihrer Teenagertochter Mila im Schlepptau nicht nur dem Verkauf ihres Elternhauses im Schwarzwald stellen, sondern auch dem traumatischsten Erlebnis ihrer eigenen Jugend, bei dem ihre kleine Schwester Isabel auf unerklärliche Weise verschwand.\r\nMit Elisa Hofmann, Purnim",
+      "broadcastedOnDateTime": "2026-10-09T02:58:00Z",
+      "clipSourceName": "SWR",
+      "publicationService": {
+       "name": "SWR",
+       "partner": "swr"
+      },
+      "availableToDateTime": "2027-10-09T03:00:00Z"
+     },
+     "streams": [
+      {
+       "media": [
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/geo/de-at-ch/video/house-of-yang/2355440.avc-720.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-adaptive.ard-mcdn.de/i/swr/geo/de-at-ch/video/house-of-yang/2355440,.avc-270,.avc-360,.avc-540,.avc-720,.avc-1080,.mp4.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/geo/de-at-ch/video/house-of-yang/2355440.avc-540.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/geo/de-at-ch/video/house-of-yang/2355440.avc-360.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/geo/de-at-ch/video/house-of-yang/2355440.avc-1080.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/video/house-of-yang/2355440.audio_description.avc-540.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/video/house-of-yang/2355440.audio_description.avc-1080.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-adaptive.ard-mcdn.de/i/swr/video/house-of-yang/2355440.audio_description,.avc-270,.avc-360,.avc-540,.avc-720,.avc-1080,.mp4.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/video/house-of-yang/2355440.audio_description.avc-720.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://swr-pd.ard-mcdn.de/swr/video/house-of-yang/2355440.audio_description.avc-360.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "audio-description",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        }
+       ],
+       "kind": "main",
+       "kindName": "Normal",
+       "videoLanguageCode": ""
+      }
+     ],
+     "isGeoBlocked": true,
+     "subtitles": [
+      {
+       "kind": "closed-captions",
+       "languageCode": "deu",
+       "sources": [
+        {
+         "kind": "ebutt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/ebutt/urn:ard:subtitle:4b8dc872c9221e68"
+        },
+        {
+         "kind": "webvtt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/webvtt/urn:ard:subtitle:4b8dc872c9221e68.vtt"
+        }
+       ]
+      }
+     ]
+    },
+    "href": "https://api.ardmediathek.de/page-gateway/mediacollectionv6/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDA?isTv=false"
+   },
+   "blockedByLoginOnly": false,
+   "embeddable": true,
+   "personalized": false,
+   "isChildContent": false,
+   "binaryFeatures": [
+    "UT",
+    "AD"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": "2027-10-09T03:00:00Z",
+   "blockedByFsk": false,
+   "broadcastedOn": "2026-10-09T02:58:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDA",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:984fd34d68059090?w={width}&ch=49b1675d8f0a2712"
+   },
+   "maturityContentRating": "FSK12",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "SWR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "swr",
+    "id": "b3JnYW5pemF0aW9uX1NXUg",
+    "coreId": "urn:ard:publisher:6478b1e3557817e3"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/swr/editorials/player_on_demand_widget_swr/item/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDA?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_swr",
+     "partner": "swr",
+     "title": "Folge 1: Jessie (S01/E01)",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_swr"
+    }
+   },
+   "show": {
+    "availableSeasons": [
+     "1"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "coreAssetType": "SEASON_SERIES",
+    "id": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e5fea83e129315b0?w={width}&ch=fba6cafa8c7c5121"
+    },
+    "isChildContent": false,
+    "title": "House of Yang"
+   },
+   "synopsis": "Jessie Alzenberg muss sich mit ihrer Teenagertochter Mila im Schlepptau nicht nur dem Verkauf ihres Elternhauses im Schwarzwald stellen, sondern auch dem traumatischsten Erlebnis ihrer eigenen Jugend, bei dem ihre kleine Schwester Isabel auf unerklärliche Weise verschwand.\r\nMit Elisa Hofmann, Purnim",
+   "title": "Folge 1: Jessie (S01/E01)",
+   "type": "player_ondemand"
+  },
+  {
+   "teasers": [
+    {
+     "availableTo": "2027-10-09T03:00:00Z",
+     "binaryFeatures": [
+      "AD",
+      "UT"
+     ],
+     "broadcastedOn": "2026-10-09T02:58:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 1456,
+     "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:984fd34d68059090?w={width}&ch=49b1675d8f0a2712"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": false,
+     "longTitle": "Folge 1: Jessie (S01/E01) (Audiodeskription)",
+     "maturityContentRating": "FSK12",
+     "mediumTitle": "Folge 1: Jessie (S01/E01) (Audiodeskription)",
+     "personalized": false,
+     "publicationService": {
+      "name": "SWR",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "swr",
+      "id": "b3JnYW5pemF0aW9uX1NXUg",
+      "coreId": "urn:ard:publisher:6478b1e3557817e3"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/swr/items/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg",
+       "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg",
+       "partner": "swr",
+       "title": "Folge 1: Jessie (S01/E01) (Audiodeskription)",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/swr/item/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg",
+       "partner": "swr",
+       "title": "Folge 1: Jessie (S01/E01) (Audiodeskription)",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDAvYXVkaW9kZXNrcmlwdGlvbg"
+      }
+     },
+     "shortTitle": "Folge 1: Jessie (S01/E01) (Audiodeskription)",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": [
+       "1"
+      ],
+      "binaryFeatures": [
+       "UT",
+       "AD"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "SEASON_SERIES",
+      "coreId": "urn:ard:show:49ccd8bf45c8aa8f",
+      "coremediaId": 11006737,
+      "descriptionSeo": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch...",
+      "groupingType": "SHOW",
+      "hasSeasons": true,
+      "homepage": {
+       "id": "crid://swr.de/sdb/stId/1921",
+       "title": "House of Yang",
+       "href": "https://www.ardmediathek.de/serie/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "type": ""
+      },
+      "id": "crid://swr.de/sdb/stId/1921",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e5fea83e129315b0?w={width}&ch=fba6cafa8c7c5121"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ea715c9cdf9e6036?w={width}&ch=9eb36d3b2d992204"
+       },
+       "3x4": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b67cd4f62463018a?w={width}&ch=b14868fd6e9a3cd4"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5dc815846ad10168?w={width}&ch=7d4958261a3b1b59"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "SWR",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "swr",
+       "id": "b3JnYW5pemF0aW9uX1NXUg",
+       "coreId": "urn:ard:publisher:6478b1e3557817e3"
+      },
+      "self": {
+       "id": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "title": "House of Yang",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "synopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "House of Yang",
+      "titleSeo": "House of Yang - alle verfügbaren Videos - hier anschauen"
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    },
+    {
+     "availableTo": "2027-10-09T03:00:00Z",
+     "binaryFeatures": [],
+     "broadcastedOn": "2026-10-09T03:00:00Z",
+     "coreAssetType": "EXTRA_TRAILER",
+     "duration": 80,
+     "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:946bd8211b672a1c?w={width}&ch=31726ce61c7a956d"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": false,
+     "longTitle": "Trailer House of Yang",
+     "maturityContentRating": "FSK12",
+     "mediumTitle": "Trailer House of Yang",
+     "personalized": false,
+     "publicationService": {
+      "name": "SWR",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "swr",
+      "id": "b3JnYW5pemF0aW9uX1NXUg",
+      "coreId": "urn:ard:publisher:6478b1e3557817e3"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/swr/items/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk",
+       "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk",
+       "partner": "swr",
+       "title": "Trailer House of Yang",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/swr/item/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk",
+       "partner": "swr",
+       "title": "Trailer House of Yang",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0Mzk"
+      }
+     },
+     "shortTitle": "Trailer House of Yang",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": [
+       "1"
+      ],
+      "binaryFeatures": [
+       "UT",
+       "AD"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "SEASON_SERIES",
+      "coreId": "urn:ard:show:49ccd8bf45c8aa8f",
+      "coremediaId": 11006737,
+      "descriptionSeo": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch...",
+      "groupingType": "SHOW",
+      "hasSeasons": true,
+      "homepage": {
+       "id": "crid://swr.de/sdb/stId/1921",
+       "title": "House of Yang",
+       "href": "https://www.ardmediathek.de/serie/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "type": ""
+      },
+      "id": "crid://swr.de/sdb/stId/1921",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e5fea83e129315b0?w={width}&ch=fba6cafa8c7c5121"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ea715c9cdf9e6036?w={width}&ch=9eb36d3b2d992204"
+       },
+       "3x4": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b67cd4f62463018a?w={width}&ch=b14868fd6e9a3cd4"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5dc815846ad10168?w={width}&ch=7d4958261a3b1b59"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "SWR",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "swr",
+       "id": "b3JnYW5pemF0aW9uX1NXUg",
+       "coreId": "urn:ard:publisher:6478b1e3557817e3"
+      },
+      "self": {
+       "id": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "title": "House of Yang",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "synopsis": "Ein kleiner, abgeschiedener Ort im tiefsten Schwarzwald. Zwei Mädchen verschwinden aus ein und demselben Haus. Das erste Mädchen 1949 das zweite 1999. Sie tauchen nie wieder auf. Als Jessie das Haus erbt, begreift sie zu spät, welche Gefahr auch für sie und ihre Teenager-Tochter Mila in der Dunkelhe",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "House of Yang",
+      "titleSeo": "House of Yang - alle verfügbaren Videos - hier anschauen"
+     },
+     "subtitled": false,
+     "titleVisible": true,
+     "type": "ondemand"
+    }
+   ],
+   "compilationType": "itemsOfShow",
+   "personalized": false,
+   "pagination": {
+    "pageNumber": 0,
+    "pageSize": 24,
+    "totalElements": 14
+   },
+   "isChildContent": false,
+   "userVisibility": "ALWAYS",
+   "id": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/swr/asset/Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx?excludedAssetIds=Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDA&pageNumber=0&pageSize=24&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+     "id": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx",
+     "partner": "swr",
+     "title": "House of Yang",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "Y3JpZDovL3N3ci5kZS9zZGIvc3RJZC8xOTIx"
+    }
+   },
+   "size": "m",
+   "swipeable": true,
+   "title": "House of Yang",
+   "titleVisible": true,
+   "type": "gridlist"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "Jessie Alzenberg muss sich mit ihrer Teenagertochter Mila im Schlepptau nicht nur dem Verkauf ihres Elternhauses im Schwarzwald stellen, sondern auch dem traumatischsten Erlebnis ihrer eigenen Jugend, bei dem ihre kleine Schwester Isabel auf...",
+ "fskRating": "FSK12",
+ "id": "player_ondemand-page-swr",
+ "isChildContent": false,
+ "isFamilyFriendly": false,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/swr/item/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTU0NDA?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-swr",
+   "partner": "swr",
+   "title": "Folge 1: Jessie (S01/E01)",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-swr"
+  }
+ },
+ "targetAudienceAgeMax": null,
+ "targetAudienceAgeMin": null,
+ "title": "Folge 1: Jessie (S01/E01)",
+ "titleSeo": "House of Yang - Folge 1: Jessie - hier anschauen"
+}

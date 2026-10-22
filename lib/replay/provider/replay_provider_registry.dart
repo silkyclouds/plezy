@@ -1,11 +1,13 @@
 import '../../utils/media_server_http_client.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
+import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/lrt/lrt_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
+import '../providers/nfb/nfb_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/nrktv/nrktv_provider.dart';
 import '../providers/pbs/pbs_provider.dart';
@@ -207,6 +209,20 @@ const replaySourceInfos = [
     country: 'LT',
     languages: ['lt'],
   ),
+  ReplaySourceInfo(
+    id: 'nfb',
+    name: 'NFB',
+    support: ReplayPlaybackSupport.clear,
+    country: 'CA',
+    languages: ['en'],
+  ),
+  ReplaySourceInfo(
+    id: 'ardmediathek',
+    name: 'ARD Mediathek',
+    support: ReplayPlaybackSupport.clear,
+    country: 'DE',
+    languages: ['de'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -263,6 +279,8 @@ Map<String, ReplayProvider> buildReplayProviders(
       'urplay' => UrPlayProvider(http),
       'nrktv' => NrkTvProvider(http),
       'lrt' => LrtProvider(http),
+      'nfb' => NfbProvider(http),
+      'ardmediathek' => ArdMediathekProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

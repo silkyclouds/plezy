@@ -1,0 +1,225 @@
+{
+ "items": [
+  {
+   "thumbnail": "thumbs_xlarge/2024/ryan_keyart_16x9.jpg",
+   "jacket": "jackets/ryan_keyart_2x3.jpg",
+   "id": 426034,
+   "title": "Ryan",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/ryan/",
+    "buy": true,
+    "dvd": true,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "ryan",
+   "duration": 838.0,
+   "year": 2004,
+   "directors": [
+    {
+     "first_name": "Chris",
+     "last_name": "Landreth",
+     "slug": "chris-landreth",
+     "image": null
+    }
+   ],
+   "description": "This animated short from Chris Landreth is based on the life of Ryan Larkin, a Canadian animator who produced some of the most influential animated films of his time. Ryan is living every artist's worst nightmare - succumbing to addiction, panhandling on the ...",
+   "rating": "G",
+   "warning_code": "M",
+   "warning": "This film deals with mature subject matter. Viewer discretion is advised.",
+   "work_id": 419482,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": true,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2021/ryan-reynolds-im-a-laureate-XL.jpg",
+   "jacket": null,
+   "id": 1020702,
+   "title": "Ryan Reynolds: I'm a Laureate?",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/ryan-reynolds-im-a-laureate/",
+    "buy": true,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "ryan-reynolds-im-a-laureate",
+   "duration": 287.0,
+   "year": 2021,
+   "directors": [
+    {
+     "first_name": "Christopher",
+     "last_name": "Auchter",
+     "slug": "christopher-auchter",
+     "image": null
+    }
+   ],
+   "description": "Ryan Reynolds reflects on his childhood, family and career—punctuated by diversions into the charitable side of Twitter to appeal to his Canadian sense of self.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1020703,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": true,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": [
+    {
+     "category": "collection",
+     "registry_id": 1027677,
+     "slug": "governor-generals-performing-arts-awards"
+    }
+   ]
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2016/Cityscape_XL_POBbLms.jpg",
+   "jacket": null,
+   "id": 216745,
+   "title": "Cityscape",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/cityscape/",
+    "buy": false,
+    "dvd": true,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "cityscape",
+   "duration": 86.0,
+   "year": 1966,
+   "directors": [
+    {
+     "first_name": "Ryan",
+     "last_name": "Larkin",
+     "slug": "ryan-larkin",
+     "image": null
+    }
+   ],
+   "description": "In this experimental animated short, Ryan Larkin  creates a series of figures who move across the screen and disappear into a hole. Eventually, the hole metamorphoses into a bridge, on top of which stands the young man from whom the others figures originated.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 412044,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2016/Street-musique_563_XL_zxjnRLO.jpg",
+   "jacket": "jackets/street_musique_en.jpg",
+   "id": 146703,
+   "title": "Street Musique",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/street_musique_en/",
+    "buy": true,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "street_musique_en",
+   "duration": 525.0,
+   "year": 1972,
+   "directors": [
+    {
+     "first_name": "Ryan",
+     "last_name": "Larkin",
+     "slug": "ryan-larkin",
+     "image": null
+    }
+   ],
+   "description": "Animator Ryan Larkin does a visual improvisation to music performed by a popular group presented as sidewalk entertainers. His take-off point is the music, but his own beat is more boisterous than that of the musicians. The illustrations range from convoluted ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 410893,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/walking_en_keyart_16x9.jpg",
+   "jacket": "jackets/walking_en_keyart_2x3.jpg",
+   "id": 213612,
+   "title": "Walking",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/walking/",
+    "buy": true,
+    "dvd": true,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "walking",
+   "duration": 306.0,
+   "year": 1968,
+   "directors": [
+    {
+     "first_name": "Ryan",
+     "last_name": "Larkin",
+     "slug": "ryan-larkin",
+     "image": null
+    }
+   ],
+   "description": "Animator Ryan Larkin uses an artist's sensibility to illustrate the way people walk. He employs a variety of techniques--line drawing, colour wash, etc.--to catch and reproduce the motion of people afoot. The springing gait of youth, the mincing step of the ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 559480,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": true,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  }
+ ],
+ "meta": {
+  "age_level_range": {
+   "min": 5,
+   "max": 18
+  },
+  "pagination": {
+   "total": 178,
+   "pages": 36,
+   "page": 1,
+   "size": 5
+  },
+  "year_range": {
+   "min": 1939,
+   "max": 2026
+  },
+  "media": {
+   "original_url": "https://assets.nfbcdn.ca/medias/norman/{path}",
+   "thumbnail_url": "https://assets.nfbcdn.ca/medias/norman/{path}?w={width}&h={height}"
+  }
+ }
+}

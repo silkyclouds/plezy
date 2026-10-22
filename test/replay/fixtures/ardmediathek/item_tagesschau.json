@@ -1,0 +1,510 @@
+{
+ "personalized": false,
+ "widgets": [
+  {
+   "mediaCollection": {
+    "embedded": {
+     "id": "urn:ard:publication:dd6533d600de5644",
+     "meta": {
+      "images": [
+       {
+        "kind": "preview",
+        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a34e0a86dc6e23f5?w=960&ch=c16a1d81b4904bec",
+        "imageSourceName": "ARD-aktuell",
+        "title": "Sendungsbild",
+        "alt": "Sendungsbild",
+        "aspectRatio": "16x9"
+       }
+      ],
+      "durationSeconds": 934,
+      "title": "tagesschau 20:00 Uhr, 21.10.2026",
+      "seriesTitle": "tagesschau",
+      "synopsis": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Onlinedienste, Vereinte Nationen",
+      "broadcastedOnDateTime": "2026-10-21T18:00:00Z",
+      "clipSourceName": "Das Erste",
+      "publicationService": {
+       "name": "Das Erste",
+       "partner": "daserste"
+      }
+     },
+     "streams": [
+      {
+       "media": [
+        {
+         "url": "https://tagesschau-progressive.ard-mcdn.de/video/2026/1021/TV-20261021-2028-0200.webl.h264.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 960,
+         "maxVResolutionPx": 540,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 540p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://tagesschau-progressive.ard-mcdn.de/video/2026/1021/TV-20261021-2028-0200.webm.h264.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 640,
+         "maxVResolutionPx": 360,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "SD 360p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://tagesschau-progressive.ard-mcdn.de/video/2026/1021/TV-20261021-2028-0200.webxl.h264.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1280,
+         "maxVResolutionPx": 720,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 720p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://tagesschau-progressive.ard-mcdn.de/video/2026/1021/TV-20261021-2028-0200.webxxl.h264.mp4",
+         "mimeType": "video/mp4",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "HD 1080p",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        },
+        {
+         "url": "https://adaptive.tagesschau.de/i/video/2026/1021/TV-20261021-2028-0200.,webm.h264,webxxl.h264,webxl.h264,webl.h264,webs.h264,.mp4.csmil/master.m3u8",
+         "mimeType": "application/vnd.apple.mpegurl",
+         "audios": [
+          {
+           "kind": "standard",
+           "languageCode": "deu"
+          }
+         ],
+         "isAdaptiveQualitySelectable": false,
+         "maxHResolutionPx": 1920,
+         "maxVResolutionPx": 1080,
+         "isHighDynamicRange": false,
+         "videoCodec": "H.264",
+         "aspectRatio": "16:9",
+         "forcedLabel": "Auto",
+         "isProtocolRelative": false,
+         "isHbbtv": false,
+         "hasEmbeddedSubtitles": false,
+         "subtitles": []
+        }
+       ],
+       "kind": "main",
+       "kindName": "Normal",
+       "videoLanguageCode": ""
+      }
+     ],
+     "isGeoBlocked": false,
+     "subtitles": [
+      {
+       "kind": "normal",
+       "languageCode": "deu",
+       "sources": [
+        {
+         "kind": "ebutt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/ebutt/urn:ard:subtitle:a504ca83519e3a16"
+        },
+        {
+         "kind": "webvtt",
+         "url": "https://api.ardmediathek.de/player-service/subtitle/webvtt/urn:ard:subtitle:a504ca83519e3a16.vtt"
+        }
+       ]
+      }
+     ]
+    },
+    "href": "https://api.ardmediathek.de/page-gateway/mediacollectionv6/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGJkN2JjNDAtMjg2YS00M2FmLWE3M2ItZTBmM2QyMmJiMGE4LVNFTkRVTkdTVklERU8?isTv=false"
+   },
+   "blockedByLoginOnly": false,
+   "embeddable": true,
+   "personalized": false,
+   "isChildContent": false,
+   "binaryFeatures": [
+    "UT"
+   ],
+   "loginOnlyUntil": null,
+   "loginOnlyAfter": null,
+   "availableTo": null,
+   "blockedByFsk": false,
+   "broadcastedOn": "2026-10-21T18:00:00Z",
+   "geoblocked": false,
+   "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGJkN2JjNDAtMjg2YS00M2FmLWE3M2ItZTBmM2QyMmJiMGE4LVNFTkRVTkdTVklERU8",
+   "image": {
+    "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a34e0a86dc6e23f5?w={width}&ch=c16a1d81b4904bec"
+   },
+   "maturityContentRating": "NONE",
+   "pagination": null,
+   "playerConfig": null,
+   "publicationService": {
+    "name": "Das Erste",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "das_erste",
+    "id": "b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ",
+    "coreId": "urn:ard:publisher:a42e4291cd9eaf0b"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/daserste/editorials/player_on_demand_widget_daserste/item/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGJkN2JjNDAtMjg2YS00M2FmLWE3M2ItZTBmM2QyMmJiMGE4LVNFTkRVTkdTVklERU8?pageNumber=0&pageSize=100&embedded=true",
+     "id": "player_on_demand_widget_daserste",
+     "partner": "daserste",
+     "title": "tagesschau 20:00 Uhr, 21.10.2026",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "player_on_demand_widget_daserste"
+    }
+   },
+   "show": {
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT"
+    ],
+    "coreAssetType": "INFINITE_SERIES",
+    "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+    "image": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:defa25098cd03a2c?w={width}&ch=4c0812e9bf3625ec"
+    },
+    "isChildContent": false,
+    "title": "tagesschau"
+   },
+   "synopsis": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Onlinedienste, Vereinte Nationen",
+   "title": "tagesschau 20:00 Uhr, 21.10.2026",
+   "type": "player_ondemand"
+  },
+  {
+   "teasers": [
+    {
+     "availableTo": "2026-10-28T23:20:40.764Z",
+     "binaryFeatures": [
+      "UT"
+     ],
+     "broadcastedOn": "2026-10-21T22:05:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 622,
+     "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b999b997686a7ec0?w={width}&ch=b03325cb31cfd75f"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:0648d8bc32657be5?w={width}&ch=ec5cfc9be526d75e"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b76995ae5e555d30?w={width}&ch=b259b98be442fa10"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": false,
+     "longTitle": "tagesschau 00:05 Uhr, 22.10.2026",
+     "maturityContentRating": "NONE",
+     "mediumTitle": "tagesschau 00:05 Uhr, 22.10.2026",
+     "personalized": false,
+     "publicationService": {
+      "name": "Das Erste",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "das_erste",
+      "id": "b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ",
+      "coreId": "urn:ard:publisher:a42e4291cd9eaf0b"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/daserste/items/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8",
+       "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8",
+       "partner": "daserste",
+       "title": "tagesschau 00:05 Uhr, 22.10.2026",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/daserste/item/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8",
+       "partner": "daserste",
+       "title": "tagesschau 00:05 Uhr, 22.10.2026",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvM2E0ZTQ4MGQtZTUzZi00MWM1LWI2ZGItNTJiYjZlMmQ2YThhLVNFTkRVTkdTVklERU8"
+      }
+     },
+     "shortTitle": "tagesschau 00:05 Uhr, 22.10.2026",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:5b43cccc3d987b41",
+      "coremediaId": 4326,
+      "descriptionSeo": null,
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://daserste.de/tagesschau",
+       "title": "tagesschau",
+       "href": "https://www.tagesschau.de",
+       "type": ""
+      },
+      "id": "crid://daserste.de/tagesschau",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:defa25098cd03a2c?w={width}&ch=4c0812e9bf3625ec"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c4eccb83cb9b264?w={width}&ch=efee52113519c3af"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:cae711f2f15184d8?w={width}&ch=b208b07d3ab5323c"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "Das Erste",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "das_erste",
+       "id": "b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ",
+       "coreId": "urn:ard:publisher:a42e4291cd9eaf0b"
+      },
+      "self": {
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+       "title": "tagesschau",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "synopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "tagesschau",
+      "titleSeo": null
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    },
+    {
+     "availableTo": "2026-10-28T16:16:35.419Z",
+     "binaryFeatures": [
+      "UT"
+     ],
+     "broadcastedOn": "2026-10-21T15:00:00Z",
+     "coreAssetType": "EPISODE",
+     "duration": 898,
+     "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8",
+     "images": {
+      "aspect16x9": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c7796cb29696c927?w={width}&ch=ead29811eb42798a"
+      },
+      "aspect16x7": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:89b8398f7aba738d?w={width}&ch=7c5e79a094d1fdab"
+      },
+      "aspect1x1": {
+       "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c1abe555fcad79a9?w={width}&ch=521f6b18d88b32b1"
+      }
+     },
+     "isChildContent": false,
+     "isFamilyFriendly": false,
+     "longTitle": "tagesschau 17:00 Uhr, 21.10.2026",
+     "maturityContentRating": "NONE",
+     "mediumTitle": "tagesschau 17:00 Uhr, 21.10.2026",
+     "personalized": false,
+     "publicationService": {
+      "name": "Das Erste",
+      "logo": {
+       "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+      },
+      "publisherType": "TV",
+      "partner": "das_erste",
+      "id": "b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ",
+      "coreId": "urn:ard:publisher:a42e4291cd9eaf0b"
+     },
+     "links": {
+      "self": {
+       "href": "https://api.ardmediathek.de/page-gateway/teasers/daserste/items/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8",
+       "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8",
+       "partner": "daserste",
+       "title": "tagesschau 17:00 Uhr, 21.10.2026",
+       "type": "application/vnd.ard.teaser+json",
+       "urlId": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8"
+      },
+      "target": {
+       "href": "https://api.ardmediathek.de/page-gateway/pages/daserste/item/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8?devicetype=pc&embedded=true",
+       "id": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8",
+       "partner": "daserste",
+       "title": "tagesschau 17:00 Uhr, 21.10.2026",
+       "type": "application/vnd.ard.page+json",
+       "urlId": "Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMTVmZGQ0MzctMjFmYS00MGRiLTk3NzYtYWFkNDQ0MTY1ZGI5LVNFTkRVTkdTVklERU8"
+      }
+     },
+     "shortTitle": "tagesschau 17:00 Uhr, 21.10.2026",
+     "show": {
+      "assetSource": null,
+      "availableSeasons": null,
+      "binaryFeatures": [
+       "UT"
+      ],
+      "categories": null,
+      "categoryIds": null,
+      "coreAssetType": "INFINITE_SERIES",
+      "coreId": "urn:ard:show:5b43cccc3d987b41",
+      "coremediaId": 4326,
+      "descriptionSeo": null,
+      "groupingType": "SHOW",
+      "hasSeasons": false,
+      "homepage": {
+       "id": "crid://daserste.de/tagesschau",
+       "title": "tagesschau",
+       "href": "https://www.tagesschau.de",
+       "type": ""
+      },
+      "id": "crid://daserste.de/tagesschau",
+      "images": {
+       "16x9": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:defa25098cd03a2c?w={width}&ch=4c0812e9bf3625ec"
+       },
+       "16x7": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c4eccb83cb9b264?w={width}&ch=efee52113519c3af"
+       },
+       "1x1": {
+        "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:cae711f2f15184d8?w={width}&ch=b208b07d3ab5323c"
+       }
+      },
+      "isChildContent": false,
+      "isFamilyFriendly": false,
+      "longSynopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "modificationDate": null,
+      "noIndexSeo": false,
+      "publisher": {
+       "name": "Das Erste",
+       "logo": {
+        "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+       },
+       "publisherType": "TV",
+       "partner": "das_erste",
+       "id": "b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ",
+       "coreId": "urn:ard:publisher:a42e4291cd9eaf0b"
+      },
+      "self": {
+       "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+       "title": "tagesschau",
+       "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+       "type": "application/vnd.ard.grouping+json"
+      },
+      "shortSynopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "synopsis": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+      "targetAudienceAgeMax": null,
+      "targetAudienceAgeMin": null,
+      "title": "tagesschau",
+      "titleSeo": null
+     },
+     "subtitled": true,
+     "titleVisible": true,
+     "type": "ondemand"
+    }
+   ],
+   "compilationType": "itemsOfShow",
+   "personalized": false,
+   "pagination": {
+    "pageNumber": 0,
+    "pageSize": 24,
+    "totalElements": 4652
+   },
+   "isChildContent": false,
+   "userVisibility": "ALWAYS",
+   "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/widgets/daserste/asset/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU?excludedAssetIds=Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGJkN2JjNDAtMjg2YS00M2FmLWE3M2ItZTBmM2QyMmJiMGE4LVNFTkRVTkdTVklERU8&pageNumber=0&pageSize=24&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false&single=false",
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+     "partner": "daserste",
+     "title": "tagesschau",
+     "type": "application/vnd.ard.widget+json",
+     "urlId": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU"
+    }
+   },
+   "size": "m",
+   "swipeable": true,
+   "title": "tagesschau",
+   "titleVisible": true,
+   "type": "gridlist"
+  }
+ ],
+ "coreAssetType": "EPISODE",
+ "descriptionSeo": "tagesschau 20:00 Uhr",
+ "fskRating": "NONE",
+ "id": "player_ondemand-page-daserste",
+ "isChildContent": false,
+ "isFamilyFriendly": false,
+ "noIndexSeo": false,
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/pages/daserste/item/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGJkN2JjNDAtMjg2YS00M2FmLWE3M2ItZTBmM2QyMmJiMGE4LVNFTkRVTkdTVklERU8?devicetype=pc&embedded=true",
+   "id": "player_ondemand-page-daserste",
+   "partner": "daserste",
+   "title": "tagesschau 20:00 Uhr, 21.10.2026",
+   "type": "application/vnd.ard.page+json",
+   "urlId": "player_ondemand-page-daserste"
+  }
+ },
+ "targetAudienceAgeMax": null,
+ "targetAudienceAgeMin": null,
+ "title": "tagesschau 20:00 Uhr, 21.10.2026",
+ "titleSeo": "tagesschau 20:00 Uhr"
+}

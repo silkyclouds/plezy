@@ -1,0 +1,385 @@
+{
+ "items": [
+  {
+   "thumbnail": "thumbs_xlarge/2024/ryan_keyart_16x9.jpg",
+   "jacket": "jackets/ryan_keyart_2x3.jpg",
+   "id": 426034,
+   "title": "Ryan",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/ryan/",
+    "buy": true,
+    "dvd": true,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "ryan",
+   "duration": 838.0,
+   "year": 2004,
+   "directors": [
+    {
+     "first_name": "Chris",
+     "last_name": "Landreth",
+     "slug": "chris-landreth",
+     "image": null
+    }
+   ],
+   "description": "This animated short from Chris Landreth is based on the life of Ryan Larkin, a Canadian animator who produced some of the most influential animated films of his time. Ryan is living every artist's worst nightmare - succumbing to addiction, panhandling on the ...",
+   "rating": "G",
+   "warning_code": "M",
+   "warning": "This film deals with mature subject matter. Viewer discretion is advised.",
+   "work_id": 419482,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": true,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2024/iwantadog_en_keyart_16x9.jpg",
+   "jacket": "jackets/iwantadog_en_keyart_2x3.jpg",
+   "id": 426094,
+   "title": "I Want a Dog",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/i_want_a_dog/",
+    "buy": true,
+    "dvd": true,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "i_want_a_dog",
+   "duration": 609.0,
+   "year": 2003,
+   "directors": [
+    {
+     "first_name": "Sheldon",
+     "last_name": "Cohen",
+     "slug": "sheldon-cohen",
+     "image": null
+    }
+   ],
+   "description": "In this animated short by Sheldon Cohen, young May wants a dog more than anything else in the world. She thinks about dogs all the time; she talks about them, reads about them and covers the walls of her bedroom with dog pictures. But every time she asks her ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 416363,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": true,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2016/1-2-3-coco_27879_XL_CltnwZh.jpg",
+   "jacket": null,
+   "id": 213447,
+   "title": "1, 2, 3, Coco",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/1_2_3_coco/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "1_2_3_coco",
+   "duration": 217.0,
+   "year": 1991,
+   "directors": [
+    {
+     "first_name": "Pierre M.",
+     "last_name": "Trudeau",
+     "slug": "pierre-m-trudeau",
+     "image": null
+    }
+   ],
+   "description": "An animated film for five- to eight-year-olds on children's right to receive an education. A teacher gives extra, individualized help to a student who is having difficulty with arithmetic and helps her find fun in numbers.",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 413217,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": false,
+   "dv": false,
+   "geoblocked": true,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2016/acting-blind_XL_GpZy52r.jpg",
+   "jacket": "jackets/acting-blind_DTO.jpg",
+   "id": 516420,
+   "title": "Acting Blind",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/acting_blind/",
+    "buy": true,
+    "dvd": true,
+    "is_public": false,
+    "rent": false
+   },
+   "slug": "acting_blind",
+   "duration": 3128.0,
+   "year": 2006,
+   "directors": [
+    {
+     "first_name": "Martin",
+     "last_name": "Duckworth",
+     "slug": "martin-duckworth",
+     "image": null
+    }
+   ],
+   "description": "This touching documentary follows a cast of blind and visually impaired actors as they prepare <em>Dancing to Beethoven</em>, a play about blindness. The film takes us deep into the lives of the actors. We hear stories of their shock and disbelief at first ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 515797,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2026/SaigonStory_Keyart_3840x2160_EN.jpg",
+   "jacket": "jackets/SaigonStory_Keyart_1440x2160_EN.jpg",
+   "id": 1026261,
+   "title": "Saigon Story : Two Shootings in the Forest Kingdom",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/saigon-story/",
+    "buy": false,
+    "dvd": false,
+    "is_public": false,
+    "rent": false
+   },
+   "slug": "saigon-story",
+   "duration": 5469.0,
+   "year": 2026,
+   "directors": [
+    {
+     "first_name": "Kim",
+     "last_name": "Nguyen",
+     "slug": "kim-nguyen",
+     "image": null
+    }
+   ],
+   "description": "A woman in Washington State lives with the scars of a devastating family secret, while in Saigon, a veteran journalist helps a brother and sister unravel a painful mystery surrounding their father. Connecting their stories is Eddie Adams’ “Saigon Execution,” ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1026262,
+   "coming_soon": "2026-10-26T00:00:00",
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": true,
+   "geoblocked": true,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2017/goldtooth_XL.jpg",
+   "jacket": null,
+   "id": 1014583,
+   "title": "Goldtooth",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/goldtooth/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "goldtooth",
+   "duration": 1777.0,
+   "year": 1994,
+   "directors": [
+    {
+     "first_name": "Derek",
+     "last_name": "Lamb",
+     "slug": "derek-lamb",
+     "image": null
+    }
+   ],
+   "description": "An adventure film on substance abuse prevention. <strong>Goldtooth</strong> is a dramatic adventure story about the childhood and youth of Karate, the hero of the NFB cartoon <em><strong>Karate Kids</strong></em>. As a boy Karate gets into drugs and falls ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1014584,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": "2027-05-08T00:00:00",
+   "cc": false,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2020/le-telephone-XL_apJyODY.jpg",
+   "jacket": null,
+   "id": 1020040,
+   "title": "The Phone",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/great-list-of-everything-e1-the-phone/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "great-list-of-everything-e1-the-phone",
+   "duration": 164.0,
+   "year": 2019,
+   "directors": [
+    {
+     "first_name": "Iris",
+     "last_name": "Boudreau",
+     "slug": "iris-boudreau",
+     "image": null
+    },
+    {
+     "first_name": "Francis",
+     "last_name": "Papillon",
+     "slug": "francis-papillon",
+     "image": null
+    }
+   ],
+   "description": "Iris has finally acquired a cell phone—her first. Cathon would love to help her learn how to use it, but Iris insists on figuring it out all by herself. How did people communicate before the telephone was invented, anyway?",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1020039,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": 156.0,
+   "opening_credits_timecode": null,
+   "part_of": [
+    {
+     "category": "series",
+     "registry_id": 1026917,
+     "slug": "the-great-list-of-everything-series"
+    }
+   ]
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2026/22_KEYART_APRÈS_MOI_LE_DÉLUGE_MM_3840X2160_EN_vBbhXFH.jpg",
+   "jacket": "jackets/23_KEYART_APRÈS_MOI_LE_DÉLUGE_MM_1440X2160_EN_PDFJ09d.jpg",
+   "id": 1029851,
+   "title": "After Me, the Deluge –Short Film",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/after-me-the-deluge-short-film-mounir/",
+    "buy": false,
+    "dvd": false,
+    "is_public": true,
+    "rent": false
+   },
+   "slug": "after-me-the-deluge-short-film-mounir",
+   "duration": 1945.0,
+   "year": 2026,
+   "directors": [
+    {
+     "first_name": "Mounir",
+     "last_name": "Kaddouri",
+     "slug": "mounir-kaddouri",
+     "image": null
+    }
+   ],
+   "description": "In the first edition of <strong><em>ON FILME</em></strong>, Mounir Kaddouri (@mairedelaval) explores the growing gap between Quebec’s cultural industry and Gen Z. Why are young people turning away from traditional media? And, more importantly, what do they ...",
+   "rating": "",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 1029850,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": [
+    {
+     "category": "collection",
+     "registry_id": 1031332,
+     "slug": "on-filme-en"
+    }
+   ]
+  },
+  {
+   "thumbnail": "thumbs_xlarge/2025/alpheeofthestars_en_keyart_16x9.jpg",
+   "jacket": "jackets/alpheeofthestars_en_keyart_2x3.jpg",
+   "id": 558402,
+   "title": "Alphée of the Stars",
+   "category": "film",
+   "availability": {
+    "resource_url": "https://www.nfb.ca/film/alphee_of_the_stars/",
+    "buy": true,
+    "dvd": false,
+    "is_public": false,
+    "rent": true
+   },
+   "slug": "alphee_of_the_stars",
+   "duration": 4953.0,
+   "year": 2012,
+   "directors": [
+    {
+     "first_name": "Hugo",
+     "last_name": "Latulippe",
+     "slug": "hugo-latulippe",
+     "image": null
+    }
+   ],
+   "description": "Alphée has a rare genetic disorder that hampers her development. Yet she continues to defy medical expectations. In a moving declaration of love for his daughter, filmmaker Hugo Latulippe and his family steal away for a year, focusing on his daughter's ...",
+   "rating": "G",
+   "warning_code": null,
+   "warning": null,
+   "work_id": 552296,
+   "coming_soon": null,
+   "is_new_release": false,
+   "leaving_soon": null,
+   "cc": true,
+   "dv": false,
+   "geoblocked": false,
+   "ending_credits_timecode": null,
+   "opening_credits_timecode": null,
+   "part_of": []
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "total": 4579,
+   "pages": 191,
+   "page": 1,
+   "size": 24
+  },
+  "media": {
+   "original_url": "https://assets.nfbcdn.ca/medias/norman/{path}",
+   "thumbnail_url": "https://assets.nfbcdn.ca/medias/norman/{path}?w={width}&h={height}"
+  }
+ }
+}

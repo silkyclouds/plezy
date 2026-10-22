@@ -1,0 +1,655 @@
+{
+ "teasers": [
+  {
+   "availableTo": "2031-06-22T05:35:00Z",
+   "binaryFeatures": [
+    "UT"
+   ],
+   "broadcastedOn": "2026-12-04T06:30:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 1453,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:8be24991c5f0fee0?w={width}&ch=e3379bc3dba419ab"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:846dbd3308fd8b66?w={width}&ch=4acc8b06f65b2dbd"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:012319149f6bc4d8?w={width}&ch=8a8ac8dfb5363494"
+    }
+   },
+   "isChildContent": true,
+   "isFamilyFriendly": false,
+   "longTitle": "Wer hat Recht?",
+   "maturityContentRating": "NONE",
+   "mediumTitle": "Wer hat Recht?",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA",
+     "partner": "br",
+     "title": "Wer hat Recht?",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA",
+     "partner": "br",
+     "title": "Wer hat Recht?",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDExNzUyQTA"
+    }
+   },
+   "shortTitle": "Wer hat Recht?",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "INFINITE_SERIES",
+    "coreId": "urn:ard:show:e4f51f7c3076f949",
+    "coremediaId": 12376485,
+    "descriptionSeo": "Willi ist in ganz Deutschland unterwegs, um Berufe, Orte, Abläufe und Zusammenhänge zu erkunden. Schafft er das auch bei schwierigen und unangenehmen Themen?",
+    "groupingType": "SHOW",
+    "hasSeasons": false,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/77e3058b-0247-44b0-bdc2-c04bc3f88176",
+     "title": "Willi wills wissen",
+     "href": "https://www.ardmediathek.de/br",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/77e3058b-0247-44b0-bdc2-c04bc3f88176",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:8f4c08afe1026b61?w={width}&ch=34f6cee7de4c4b28"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:80c3fc0d2c0f1ee7?w={width}&ch=136fe8e5ddb7650d"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:d2901726adedbe98?w={width}&ch=1259e9c8ace0622f"
+     }
+    },
+    "isChildContent": true,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Willi ist in ganz Deutschland unterwegs, um Berufe, Orte, Abläufe und Zusammenhänge zu erkunden. Schafft er das auch bei schwierigen und unangenehmen Themen?",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy83N2UzMDU4Yi0wMjQ3LTQ0YjAtYmRjMi1jMDRiYzNmODgxNzY",
+     "title": "Willi wills wissen",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy83N2UzMDU4Yi0wMjQ3LTQ0YjAtYmRjMi1jMDRiYzNmODgxNzY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Willi ist in ganz Deutschland unterwegs, um Berufe, Orte, Abläufe und Zusammenhänge zu erkunden. Schafft er das auch bei schwierigen und unangenehmen Themen?",
+    "synopsis": "Willi ist in ganz Deutschland unterwegs, um Berufe, Orte, Abläufe und Zusammenhänge zu erkunden. Schafft er das auch bei schwierigen und unangenehmen Themen?",
+    "targetAudienceAgeMax": 13,
+    "targetAudienceAgeMin": 5,
+    "title": "Willi wills wissen",
+    "titleSeo": "Willi wills wissen - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-05-17T18:15:00Z",
+   "binaryFeatures": [
+    "UT",
+    "AD",
+    "DGS"
+   ],
+   "broadcastedOn": "2026-11-17T21:00:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 5361,
+   "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:77243ed8b2b78643?w={width}&ch=0bcf34aed93d2b63"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:3b3fa393cc27075c?w={width}&ch=92159657733d1e6a"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7b5082640b0a19a8?w={width}&ch=c1ba986132e6bb1f"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Schweigen",
+   "maturityContentRating": "FSK12",
+   "mediumTitle": "Schweigen",
+   "personalized": false,
+   "publicationService": {
+    "name": "NDR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "ndr",
+    "id": "b3JnYW5pemF0aW9uX05EUg",
+    "coreId": "urn:ard:publisher:59786080a6371d6a"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/ndr/items/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n",
+     "partner": "ndr",
+     "title": "Schweigen",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/ndr/item/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n",
+     "partner": "ndr",
+     "title": "Schweigen",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5n"
+    }
+   },
+   "shortTitle": "Schweigen",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT",
+     "DGS",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "INFINITE_SERIES",
+    "coreId": "urn:ard:show:24a41843cd919fb8",
+    "coremediaId": 602916,
+    "descriptionSeo": null,
+    "groupingType": "SHOW",
+    "hasSeasons": false,
+    "homepage": {
+     "id": "crid://daserste.de/tatort",
+     "title": "Tatort",
+     "href": "https://www.ardmediathek.de/tatort",
+     "type": ""
+    },
+    "id": "crid://daserste.de/tatort",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a8959bc57bedd88a?w={width}&ch=389e8f7aef781c55"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:57559fd8493b090e?w={width}&ch=bfa7f51159a70920"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c82ca21f13bac66f?w={width}&ch=81a039028bec1df2"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c55e01954532da6?w={width}&ch=b8eff11ee60b8401"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "ARD",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "ard",
+     "id": "b3JnYW5pemF0aW9uX0FSRA",
+     "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+    },
+    "self": {
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "title": "Tatort",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "synopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Tatort",
+    "titleSeo": null
+   },
+   "subtitled": true,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-05-17T18:15:00Z",
+   "binaryFeatures": [
+    "AD",
+    "UT",
+    "DGS"
+   ],
+   "broadcastedOn": "2026-11-17T21:00:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 5361,
+   "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:77243ed8b2b78643?w={width}&ch=0bcf34aed93d2b63"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:3b3fa393cc27075c?w={width}&ch=92159657733d1e6a"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7b5082640b0a19a8?w={width}&ch=c1ba986132e6bb1f"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Schweigen (Audiodeskription)",
+   "maturityContentRating": "FSK12",
+   "mediumTitle": "Schweigen (Audiodeskription)",
+   "personalized": false,
+   "publicationService": {
+    "name": "NDR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "ndr",
+    "id": "b3JnYW5pemF0aW9uX05EUg",
+    "coreId": "urn:ard:publisher:59786080a6371d6a"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/ndr/items/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
+     "partner": "ndr",
+     "title": "Schweigen (Audiodeskription)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/ndr/item/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
+     "partner": "ndr",
+     "title": "Schweigen (Audiodeskription)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24"
+    }
+   },
+   "shortTitle": "Schweigen (Audiodeskription)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT",
+     "DGS",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "INFINITE_SERIES",
+    "coreId": "urn:ard:show:24a41843cd919fb8",
+    "coremediaId": 602916,
+    "descriptionSeo": null,
+    "groupingType": "SHOW",
+    "hasSeasons": false,
+    "homepage": {
+     "id": "crid://daserste.de/tatort",
+     "title": "Tatort",
+     "href": "https://www.ardmediathek.de/tatort",
+     "type": ""
+    },
+    "id": "crid://daserste.de/tatort",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a8959bc57bedd88a?w={width}&ch=389e8f7aef781c55"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:57559fd8493b090e?w={width}&ch=bfa7f51159a70920"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c82ca21f13bac66f?w={width}&ch=81a039028bec1df2"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c55e01954532da6?w={width}&ch=b8eff11ee60b8401"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "ARD",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "ard",
+     "id": "b3JnYW5pemF0aW9uX0FSRA",
+     "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+    },
+    "self": {
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "title": "Tatort",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "synopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Tatort",
+    "titleSeo": null
+   },
+   "subtitled": false,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-05-17T18:15:00Z",
+   "binaryFeatures": [
+    "DGS",
+    "UT",
+    "AD"
+   ],
+   "broadcastedOn": "2026-11-17T21:00:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 5361,
+   "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:77243ed8b2b78643?w={width}&ch=0bcf34aed93d2b63"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:3b3fa393cc27075c?w={width}&ch=92159657733d1e6a"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7b5082640b0a19a8?w={width}&ch=c1ba986132e6bb1f"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Schweigen (mit Gebärdensprache)",
+   "maturityContentRating": "FSK12",
+   "mediumTitle": "Schweigen (mit Gebärdensprache)",
+   "personalized": false,
+   "publicationService": {
+    "name": "NDR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "ndr",
+    "id": "b3JnYW5pemF0aW9uX05EUg",
+    "coreId": "urn:ard:publisher:59786080a6371d6a"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/ndr/items/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU",
+     "partner": "ndr",
+     "title": "Schweigen (mit Gebärdensprache)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/ndr/item/Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU",
+     "partner": "ndr",
+     "title": "Schweigen (mit Gebärdensprache)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL25kci5kZS9kNjhiNGZiMC04YmE0LTQyNjUtODk1Yi1mMWRhZDM4NWJmNjFfZ2FuemVTZW5kdW5nL2dlYmFlcmRlbnNwcmFjaGU"
+    }
+   },
+   "shortTitle": "Schweigen (mit Gebärdensprache)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": null,
+    "binaryFeatures": [
+     "UT",
+     "DGS",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "INFINITE_SERIES",
+    "coreId": "urn:ard:show:24a41843cd919fb8",
+    "coremediaId": 602916,
+    "descriptionSeo": null,
+    "groupingType": "SHOW",
+    "hasSeasons": false,
+    "homepage": {
+     "id": "crid://daserste.de/tatort",
+     "title": "Tatort",
+     "href": "https://www.ardmediathek.de/tatort",
+     "type": ""
+    },
+    "id": "crid://daserste.de/tatort",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a8959bc57bedd88a?w={width}&ch=389e8f7aef781c55"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:57559fd8493b090e?w={width}&ch=bfa7f51159a70920"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c82ca21f13bac66f?w={width}&ch=81a039028bec1df2"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:4c55e01954532da6?w={width}&ch=b8eff11ee60b8401"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "ARD",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "ard",
+     "id": "b3JnYW5pemF0aW9uX0FSRA",
+     "coreId": "urn:ard:publisher:d6c3befc4d6b7e76"
+    },
+    "self": {
+     "id": "Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "title": "Tatort",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydA",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "synopsis": "In der dienstältesten Krimireihe des deutschen Fernsehens gehen die unterschiedlichsten Ermittlertypen auf Verbrecherjagd. Hier finden Krimifans alle Tatort-Folgen, die aktuell als Video zum Abruf verfügbar sind. Von Thiel und Boerne (Münster), über Ballauf und Schenk (Köln), Batic und Leitmayr (Mün",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Tatort",
+    "titleSeo": null
+   },
+   "subtitled": false,
+   "titleVisible": true,
+   "type": "ondemand"
+  },
+  {
+   "availableTo": "2027-10-15T20:00:00Z",
+   "binaryFeatures": [
+    "AD",
+    "UT"
+   ],
+   "broadcastedOn": "2026-11-13T19:15:00Z",
+   "coreAssetType": "EPISODE",
+   "duration": 2832,
+   "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg",
+   "images": {
+    "aspect16x9": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9f5081a5da36520c?w={width}&ch=783be2081ad515b1"
+    },
+    "aspect16x7": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:90df7507173b278a?w={width}&ch=874d350cfdfbe042"
+    },
+    "aspect1x1": {
+     "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:cd126a148ac0a7be?w={width}&ch=dc2ea7689417ef6c"
+    }
+   },
+   "isChildContent": false,
+   "isFamilyFriendly": false,
+   "longTitle": "Folge 49: Die Moorleiche (S05/E01) (Audiodeskription)",
+   "maturityContentRating": "FSK6",
+   "mediumTitle": "Folge 49: Die Moorleiche (S05/E01) (Audiodeskription)",
+   "personalized": false,
+   "publicationService": {
+    "name": "BR",
+    "logo": {
+     "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+    },
+    "publisherType": "TV",
+    "partner": "br",
+    "id": "b3JnYW5pemF0aW9uX0JS",
+    "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+   },
+   "links": {
+    "self": {
+     "href": "https://api.ardmediathek.de/page-gateway/teasers/br/items/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg",
+     "partner": "br",
+     "title": "Folge 49: Die Moorleiche (S05/E01) (Audiodeskription)",
+     "type": "application/vnd.ard.teaser+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg"
+    },
+    "target": {
+     "href": "https://api.ardmediathek.de/page-gateway/pages/br/item/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg?devicetype=pc&embedded=true",
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg",
+     "partner": "br",
+     "title": "Folge 49: Die Moorleiche (S05/E01) (Audiodeskription)",
+     "type": "application/vnd.ard.page+json",
+     "urlId": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDAxMDkzQTAvYXVkaW9kZXNrcmlwdGlvbg"
+    }
+   },
+   "shortTitle": "Folge 49: Die Moorleiche (S05/E01) (Audiodeskription)",
+   "show": {
+    "assetSource": null,
+    "availableSeasons": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "binaryFeatures": [
+     "UT",
+     "AD"
+    ],
+    "categories": null,
+    "categoryIds": null,
+    "coreAssetType": "SEASON_SERIES",
+    "coreId": "urn:ard:show:e9abfe2694ee3d3b",
+    "coremediaId": 92303168,
+    "descriptionSeo": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle.",
+    "groupingType": "SHOW",
+    "hasSeasons": true,
+    "homepage": {
+     "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+     "title": "Watzmann ermittelt",
+     "href": "https://www.ardmediathek.de/br/watzmann-ermittelt",
+     "type": ""
+    },
+    "id": "crid://br.de/broadcastSeries/e3958a26-0b6b-4bfc-9172-5407b1ab404f",
+    "images": {
+     "16x9": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9467afa06a079e2b?w={width}&ch=96b85d6c3e51648f"
+     },
+     "16x7": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:93f20af77ce49fef?w={width}&ch=22b90f417418290d"
+     },
+     "3x4": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:abc6ea9dd7038833?w={width}&ch=37660ccf9d9511d9"
+     },
+     "1x1": {
+      "src": "https://api.ardmediathek.de/image-service/images/urn:ard:image:be60b6c2517a42f5?w={width}&ch=209d56a71a88aa7b"
+     }
+    },
+    "isChildContent": false,
+    "isFamilyFriendly": false,
+    "longSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "modificationDate": null,
+    "noIndexSeo": false,
+    "publisher": {
+     "name": "BR",
+     "logo": {
+      "src": "https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}"
+     },
+     "publisherType": "TV",
+     "partner": "br",
+     "id": "b3JnYW5pemF0aW9uX0JS",
+     "coreId": "urn:ard:publisher:e78748ebe4a9d534"
+    },
+    "self": {
+     "id": "Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "title": "Watzmann ermittelt",
+     "href": "http://asset-gateway:8080/asset-gateway/groupings/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNlcmllcy9lMzk1OGEyNi0wYjZiLTRiZmMtOTE3Mi01NDA3YjFhYjQwNGY",
+     "type": "application/vnd.ard.grouping+json"
+    },
+    "shortSynopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "synopsis": "Ab 7. Januar 2026 gibt es neue Folgen der bayerischen Krimi-Serie. Auch in der 6. Staffel warten auf die Kommissare Benedikt Beissl (Andreas Giebel), Jerry Paulsen (Peter Marton) und Sophia Strasser (Katharina Leonore Goebel) spannende Fälle und turbulentes Familienleben - gut bewacht vom Watzmann u",
+    "targetAudienceAgeMax": null,
+    "targetAudienceAgeMin": null,
+    "title": "Watzmann ermittelt",
+    "titleSeo": "Watzmann ermittelt - alle verfügbaren Videos - hier anschauen"
+   },
+   "subtitled": false,
+   "titleVisible": true,
+   "type": "ondemand"
+  }
+ ],
+ "personalized": false,
+ "pagination": {
+  "pageNumber": 0,
+  "pageSize": 10,
+  "totalElements": 2171
+ },
+ "isChildContent": false,
+ "id": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA",
+ "links": {
+  "self": {
+   "href": "https://api.ardmediathek.de/page-gateway/widgets/ard/search/vod?searchString=tatort&pageNumber=0&pageSize=10&embedded=true",
+   "id": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA",
+   "partner": "ard",
+   "title": "SearchCompilationWidget:tatort",
+   "type": "application/vnd.ard.widget+json",
+   "urlId": "U2VhcmNoQ29tcGlsYXRpb25XaWRnZXQ6IEFSRHRhdG9ydA"
+  }
+ },
+ "size": "m",
+ "title": "SearchCompilationWidget:tatort",
+ "titleVisible": false,
+ "type": "gridlist"
+}
