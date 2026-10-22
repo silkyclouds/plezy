@@ -1,0 +1,20 @@
+{
+ "total": "1",
+ "blocks": {
+  "video_series": {
+   "title": "TV relácie",
+   "total": "1",
+   "more": 0,
+   "hits": [
+    {
+     "score": "4.6113596",
+     "name": "Agatha Christie : Poirot",
+     "name_hl": "Agatha Christie : <em>Poirot</em>",
+     "uri": "https://www.stvr.sk/televizia/archiv/8438/624605",
+     "description": "Kultová postava Poirot z pera Agathy Christie opäť ožíva.",
+     "thumbnail": "https://www.stvr.sk/media/a501/image/file/13/1548/stvr-placeholder.jpg"
+    }
+   ]
+  }
+ }
+}

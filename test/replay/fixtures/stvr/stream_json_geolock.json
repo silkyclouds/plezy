@@ -1,0 +1,19 @@
+{
+ "clip": {
+  "backend": "e1",
+  "title": "Agatha Christie: Poirot",
+  "datetime_create": "2026-10-18 15:38",
+  "authors": " ",
+  "sources": [
+   {
+    "src": "https://n10.stv.livebox.sk/stv-tv-arch/_definst_/smil:a510/00/0018/001839/00183991.smil/playlist.m3u8?auth=b64%3Atest-token",
+    "type": "application/x-mpegurl"
+   }
+  ],
+  "description": "Kultová postava Poirot z pera  Agathy Christie opäť ožíva.\n",
+  "mediaid": "191428",
+  "image": "https://www.stvr.sk/media/a501/image/file/2/0027/Z53G.poirot700_jpg.jpg",
+  "length": "00:46:31"
+ },
+ "request": "test"
+}

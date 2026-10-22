@@ -10,6 +10,7 @@ void main() {
       enabled: false,
       languages: {'fr', 'en'},
       channels: {'rtlplay': false},
+      onlyChosenChannels: true,
       chosenRows: {
         'arte': {'docs', 'magazines'},
       },
@@ -44,5 +45,13 @@ void main() {
     expect(const ReplaySuggestionSettings().offers('lrt', _lithuanian, automatic), isFalse);
     expect(const ReplaySuggestionSettings(languages: {'lt'}).offers('lrt', _lithuanian, automatic), isTrue);
     expect(const ReplaySuggestionSettings(languages: {'lt'}).offers('arte', _multilingual, automatic), isFalse);
+  });
+
+  test('Only chosen channels: a channel never chosen stays off in any language', () {
+    const settings = ReplaySuggestionSettings(onlyChosenChannels: true, channels: {'arte': true});
+
+    expect(settings.offers('arte', _multilingual, {'fr'}), isTrue);
+    expect(settings.offers('auvio', const ['fr'], {'fr'}), isFalse);
+    expect(settings.offers('newchannel', const ['en'], {'en'}), isFalse);
   });
 }

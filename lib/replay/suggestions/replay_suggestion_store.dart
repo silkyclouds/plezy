@@ -22,5 +22,7 @@ class ReplaySuggestionStore {
   Future<void> save(ReplaySuggestionSettings settings) async {
     _current = settings;
     await _cache?.put(_serverId, _endpoint, settings.toJson());
+    // Pinned so that clearing the volatile cache never resets the viewer's choices.
+    await _cache?.pin(_serverId, _endpoint);
   }
 }

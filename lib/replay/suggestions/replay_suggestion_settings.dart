@@ -17,6 +17,10 @@ class ReplaySuggestionSettings {
   /// The viewer's own decision for a channel, when they made one. It beats the language rule in both directions.
   final Map<String, bool> channels;
 
+  /// Offer only the channels switched on in [channels], whatever their language and however many channels are added
+  /// later.
+  final bool onlyChosenChannels;
+
   /// For a channel the viewer narrowed down, the only rows to offer (row ids).
   final Map<String, Set<String>> chosenRows;
 
@@ -29,6 +33,7 @@ class ReplaySuggestionSettings {
     this.enabled = true,
     this.languages = const {},
     this.channels = const {},
+    this.onlyChosenChannels = false,
     this.chosenRows = const {},
     this.mutedRows = const {},
     this.rowsPerChannel = defaultRowsPerChannel,
@@ -40,6 +45,7 @@ class ReplaySuggestionSettings {
     if (!enabled) return false;
     final chosen = channels[sourceId];
     if (chosen != null) return chosen;
+    if (onlyChosenChannels) return false;
     final followed = languages.isEmpty ? automaticLanguages : languages;
     return sourceLanguages.any(followed.contains);
   }
@@ -55,6 +61,7 @@ class ReplaySuggestionSettings {
     bool? enabled,
     Set<String>? languages,
     Map<String, bool>? channels,
+    bool? onlyChosenChannels,
     Map<String, Set<String>>? chosenRows,
     Set<String>? mutedRows,
     int? rowsPerChannel,
@@ -62,6 +69,7 @@ class ReplaySuggestionSettings {
     enabled: enabled ?? this.enabled,
     languages: languages ?? this.languages,
     channels: channels ?? this.channels,
+    onlyChosenChannels: onlyChosenChannels ?? this.onlyChosenChannels,
     chosenRows: chosenRows ?? this.chosenRows,
     mutedRows: mutedRows ?? this.mutedRows,
     rowsPerChannel: (rowsPerChannel ?? this.rowsPerChannel).clamp(1, maxRowsPerChannel),
@@ -71,6 +79,7 @@ class ReplaySuggestionSettings {
     'enabled': enabled,
     'languages': languages.toList()..sort(),
     'channels': channels,
+    'onlyChosenChannels': onlyChosenChannels,
     'chosenRows': {for (final e in chosenRows.entries) e.key: e.value.toList()..sort()},
     'mutedRows': mutedRows.toList()..sort(),
     'rowsPerChannel': rowsPerChannel,
@@ -89,6 +98,7 @@ class ReplaySuggestionSettings {
                 if (e.key is String && e.value is bool) e.key as String: e.value as bool,
             }
           : const {},
+      onlyChosenChannels: json['onlyChosenChannels'] == true,
       chosenRows: chosen is Map
           ? {
               for (final e in chosen.entries)

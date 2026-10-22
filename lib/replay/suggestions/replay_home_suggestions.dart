@@ -18,6 +18,8 @@ class ReplayHomeSuggestions {
   /// Prefix of the identifier of every row built here, so screens can tell a suggestion from a channel's own row.
   static const suggestionIdentifierPrefix = 'replay.suggestion.';
 
+  static bool isSuggestion(MediaHub hub) => hub.identifier?.startsWith(suggestionIdentifierPrefix) ?? false;
+
   /// Rows offered in total.
   static const maxRows = 12;
 
