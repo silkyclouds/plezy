@@ -1321,6 +1321,8 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
     }
 
     if (!scoresOnly) {
+      // A broadcaster's name is what tells where catch-up content comes from.
+      if (metadata.backend.isReplay && metadata.studio != null) addTextChip(metadata.studio!, 0);
       if (metadata.year != null) addTextChip('${metadata.year}', 0);
       if (metadata case PlexMediaItem(:final editionTitle?)) addTextChip(editionTitle, 3);
       if (metadata.contentRating != null) addTextChip(formatContentRating(metadata.contentRating!), 2);
@@ -4123,6 +4125,7 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
     final lineMetadata = focusedEpisode ?? metadata;
     final parts = <MetadataLinePart>[];
 
+    if (metadata.backend.isReplay && metadata.studio != null) parts.add(MetadataLineText(metadata.studio!, dropPriority: 0));
     final episodeLabel = formatSeasonEpisodeLabel(lineMetadata.parentIndex, lineMetadata.index);
     if (lineMetadata.isEpisode && episodeLabel != null) parts.add(MetadataLineText(episodeLabel, dropPriority: 0));
     if (lineMetadata.isEpisode && lineMetadata.originallyAvailableAt != null) {

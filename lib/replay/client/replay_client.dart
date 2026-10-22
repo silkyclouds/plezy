@@ -18,6 +18,7 @@ import '../../services/playback_initialization_types.dart';
 import '../../utils/app_logger.dart';
 import '../../utils/media_server_http_client.dart' show AbortController, MediaServerHttpClient;
 import '../download/replay_download_proxy.dart';
+import '../mapping/replay_artwork_memory.dart';
 import '../mapping/replay_mapper.dart';
 import '../model/replay_ref.dart';
 import '../model/replay_title.dart';
@@ -111,8 +112,10 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   @override
   Map<String, String> get streamHeaders => const {};
 
+  final ReplayArtworkMemory _artwork = ReplayArtworkMemory();
+
   ReplayMapper _mapper(ReplayProvider provider) =>
-      ReplayMapper(serverId: connection.id, source: provider.source, serverName: serverName);
+      ReplayMapper(serverId: connection.id, source: provider.source, serverName: serverName, artwork: _artwork);
 
   (ReplayProvider, ReplayRef)? _resolve(String id) {
     final ref = ReplayRef.tryParse(id);

@@ -43,7 +43,15 @@ class RtbfCatalog {
     final page = await _bff.find('pages/media/$mediaId');
     final content = _content(page);
     if (content == null) return null;
-    return _mapper.mediaPage(content, rights: await _rights.predict([mediaId]));
+    return _mapper.mediaPage(content, rights: await _rights.predict([mediaId]), image: _pageImage(page));
+  }
+
+  /// The picture of the page's own video: a media page carries it in its SEO block rather than in the content.
+  String? _pageImage(Map<String, dynamic>? page) {
+    final seo = (page?['meta'] as Map?)?['seo'];
+    final image = seo is Map ? seo['image'] : null;
+    final url = image is Map ? image['url'] : null;
+    return url is String && url.isNotEmpty ? url : null;
   }
 
   Future<List<ReplayTitle>> seasons(String programId) async {

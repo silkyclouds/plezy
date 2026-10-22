@@ -92,7 +92,11 @@ class RtbfMapper {
   }
 
   /// A media page (`pages/media/{id}`), which also knows its programme, cast and genre.
-  ReplayTitle? mediaPage(Map<String, dynamic> content, {Map<String, ReplayAvailability> rights = const {}}) {
+  ReplayTitle? mediaPage(
+    Map<String, dynamic> content, {
+    Map<String, ReplayAvailability> rights = const {},
+    String? image,
+  }) {
     final program = content['program'];
     final programMap = program is Map<String, dynamic> ? program : null;
     final programId = _id(programMap?['id']);
@@ -104,7 +108,7 @@ class RtbfMapper {
             episodes: true,
           )
         : RtbfContext.none;
-    return _media(content, context: context, rights: rights, includeAudio: true);
+    return _media(content, context: context, rights: rights, includeAudio: true, fallbackBackdrop: image);
   }
 
   ReplayTitle? _programCard(Map<String, dynamic> card) {
@@ -127,6 +131,7 @@ class RtbfMapper {
     required Map<String, ReplayAvailability> rights,
     String? programTitle,
     bool includeAudio = false,
+    String? fallbackBackdrop,
   }) {
     final id = _id(card['id']);
     if (id == null) return null;
@@ -153,7 +158,7 @@ class RtbfMapper {
       title: isEpisode ? numbering.episodeTitle : (programTitle ?? numbering.showTitle),
       subtitle: isEpisode ? null : tagline,
       summary: _text(card['description']) ?? _text(card['shortDescription']),
-      backdropUrl: rtbfIllustration(card['illustration'], rtbfStillSize),
+      backdropUrl: rtbfIllustration(card['illustration'], rtbfStillSize) ?? fallbackBackdrop,
       durationSeconds: (card['duration'] as num?)?.toInt(),
       genres: _genres(card),
       directors: _directors(card),

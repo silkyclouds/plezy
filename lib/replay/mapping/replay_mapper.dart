@@ -5,15 +5,16 @@ import '../../media/media_kind.dart';
 import '../../media/media_library.dart';
 import '../../media/media_role.dart';
 import '../model/replay_title.dart';
+import 'replay_artwork_memory.dart';
 import '../provider/replay_provider.dart';
 
 /// Key under which [ReplayAvailability] travels in `MediaItem.raw`.
 const replayAvailabilityKey = 'replayAvailability';
 
-/// True when the broadcaster gave one landscape image and no separate portrait poster. Providers repeat the same
-/// reference for both fields in that case, so equal fields mean there is no poster to show.
-bool replayHasLandscapeOnlyArtwork(ReplayTitle t) =>
-    t.backdropUrl != null && (t.posterUrl == null || t.posterUrl == t.backdropUrl);
+/// True when there is one landscape image and no separate portrait poster. Providers repeat the same reference for both
+/// fields in that case, so equal fields mean there is no poster to show.
+bool replayHasLandscapeOnlyArtwork(String? poster, String? backdrop) =>
+    backdrop != null && (poster == null || poster == backdrop);
 
 MediaKind replayKindToMediaKind(ReplayKind kind) => switch (kind) {
   ReplayKind.movie => MediaKind.movie,
@@ -29,21 +30,39 @@ ReplayAvailability replayAvailabilityOf(MediaItem item) {
   return ReplayAvailability.values.asNameMap()[name] ?? ReplayAvailability.playable;
 }
 
+/// An episode named only after its show ("Journal") cannot be told apart from its neighbours in a list, so the air date
+/// is appended when the title carries no number of its own.
+String _displayTitle(ReplayTitle t) {
+  final date = t.airDate;
+  if (t.kind != ReplayKind.episode || date == null || t.episodeNumber != null || t.title.contains(RegExp(r'\d'))) {
+    return t.title;
+  }
+  String two(int n) => n.toString().padLeft(2, '0');
+  return '${t.title} · ${two(date.day)}/${two(date.month)}/${date.year}';
+}
+
 /// Maps broadcaster titles to the neutral items the rest of the app renders.
 class ReplayMapper {
   final String serverId;
   final String? serverName;
   final ReplaySource source;
+  final ReplayArtworkMemory? artwork;
 
-  const ReplayMapper({required this.serverId, required this.source, this.serverName});
+  const ReplayMapper({required this.serverId, required this.source, this.serverName, this.artwork});
 
   MediaItem item(ReplayTitle t) {
     final kind = replayKindToMediaKind(t.kind);
-    final poster = t.posterUrl ?? t.backdropUrl;
+    final seen = artwork?.recall(t.ref);
+    final posterUrl = t.posterUrl ?? seen?.poster;
+    final backdropUrl = t.backdropUrl ?? seen?.backdrop;
+    if (posterUrl != null || backdropUrl != null) {
+      artwork?.remember(t.ref, ReplayArtwork(poster: posterUrl, backdrop: backdropUrl));
+    }
+    final poster = posterUrl ?? backdropUrl;
     return MediaItem.replay(
       id: t.ref.toString(),
       kind: kind,
-      title: t.title,
+      title: _displayTitle(t),
       titleSort: t.title,
       tagline: t.subtitle,
       summary: t.summary,
@@ -52,8 +71,8 @@ class ReplayMapper {
       contentRating: t.contentRating,
       studio: source.name,
       thumbPath: poster,
-      artPath: t.backdropUrl,
-      backdropPaths: t.backdropUrl == null ? null : [t.backdropUrl!],
+      artPath: backdropUrl,
+      backdropPaths: backdropUrl == null ? null : [backdropUrl],
       clearLogoPath: t.logoUrl,
       durationMs: t.durationSeconds == null ? null : t.durationSeconds! * 1000,
       index: kind == MediaKind.episode ? t.episodeNumber : t.seasonNumber,
@@ -73,7 +92,7 @@ class ReplayMapper {
       serverName: serverName,
       raw: {
         replayAvailabilityKey: t.availability.name,
-        if (replayHasLandscapeOnlyArtwork(t)) landscapeOnlyArtworkRawKey: true,
+        if (replayHasLandscapeOnlyArtwork(posterUrl, backdropUrl)) landscapeOnlyArtworkRawKey: true,
       },
     );
   }

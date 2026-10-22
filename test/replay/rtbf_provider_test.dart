@@ -286,6 +286,11 @@ void main() {
       expect(episode.availability, ReplayAvailability.loginRequired);
     });
 
+    test('a media page takes its picture from the page, which has none in its content', () async {
+      final episode = await rtbfProvider().title(rtbfRef('m3507958'));
+      expect(episode!.backdropUrl, startsWith('https://static-content.rtbf.be/image/media/object/'));
+    });
+
     test('a film without a programme is a movie with its crew', () async {
       final film = await rtbfProvider().title(rtbfRef('m3530011'));
       expect(film!.kind, ReplayKind.movie);

@@ -6,6 +6,7 @@ import 'package:plezy/media/library_query.dart';
 import 'package:plezy/media/media_kind.dart';
 import 'package:plezy/replay/client/replay_api_cache.dart';
 import 'package:plezy/replay/client/replay_client.dart';
+import 'package:plezy/replay/mapping/replay_artwork_memory.dart';
 import 'package:plezy/replay/mapping/replay_mapper.dart';
 import 'package:plezy/services/settings_service.dart' show EpisodePosterMode;
 import 'package:plezy/replay/model/replay_playback.dart';
@@ -230,6 +231,31 @@ void main() {
     );
     addTearDown(both.close);
     expect((await both.searchItems('film')).map((i) => i.title), ['film']);
+  });
+
+  test('an episode named like its show carries its air date so a list can tell episodes apart', () {
+    const mapper = ReplayMapper(serverId: 'replay', source: _source);
+    ReplayTitle episode(String title, {int? number}) => ReplayTitle(
+      ref: _r('e'),
+      kind: ReplayKind.episode,
+      title: title,
+      airDate: DateTime(2026, 10, 5),
+      episodeNumber: number,
+    );
+    expect(mapper.item(episode('Journal')).title, 'Journal · 05/10/2026');
+    expect(mapper.item(episode('Journal du 5 octobre')).title, 'Journal du 5 octobre');
+    expect(mapper.item(episode('Journal', number: 3)).title, 'Journal');
+  });
+
+  test('a title page that arrives without pictures reuses the ones its listing had', () {
+    final memory = ReplayArtworkMemory();
+    final mapper = ReplayMapper(serverId: 'replay', source: _source, artwork: memory);
+    final listed = ReplayTitle(ref: _r('x'), kind: ReplayKind.episode, title: 'X', backdropUrl: 'https://img.test/still');
+    final bare = ReplayTitle(ref: _r('x'), kind: ReplayKind.episode, title: 'X');
+    expect(mapper.item(listed).artPath, 'https://img.test/still');
+    expect(mapper.item(bare).artPath, 'https://img.test/still');
+    expect(mapper.item(bare).usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
+    expect(ReplayMapper(serverId: 'replay', source: _source).item(bare).artPath, isNull);
   });
 }
 

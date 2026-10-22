@@ -47,7 +47,12 @@ class ReplayDownloadProxy {
       await response.close();
       return;
     }
-    final process = await Process.start(_ffmpegPath!, _arguments(source));
+    final process = await Process.start(
+      _ffmpegPath!,
+      _arguments(source),
+      environment: _cleanEnvironment(),
+      includeParentEnvironment: false,
+    );
     // ffmpeg's error log is only worth keeping when the copy fails.
     final errors = StringBuffer();
     unawaited(process.stderr.transform(const SystemEncoding().decoder).forEach(errors.write));
@@ -69,6 +74,15 @@ class ReplayDownloadProxy {
       await response.close().catchError((Object _) {});
     }
   }
+
+  /// The app runs with its own bundled libraries first on the loader path; the system's ffmpeg must not see them or it
+  /// fails on symbols they do not provide.
+  static Map<String, String> _cleanEnvironment() => {
+    for (final entry in Platform.environment.entries)
+      if (!_loaderVariables.contains(entry.key)) entry.key: entry.value,
+  };
+
+  static const _loaderVariables = {'LD_LIBRARY_PATH', 'LD_PRELOAD', 'DYLD_LIBRARY_PATH'};
 
   List<String> _arguments(_Source source) => [
     '-nostdin',
