@@ -113,21 +113,18 @@ class _FocusableTabChipState extends State<FocusableTabChip> with FocusableChipS
     // Only show focus effects during keyboard/d-pad navigation
     final showFocus = isFocused && InputModeTracker.isKeyboardMode(context);
 
-    // Determine background color based on focus and selection state
-    // - Selected + Focused: slightly dimmed primary (to show focus distinction)
-    // - Selected only: primary color
-    // - Focused only: primary color
+    // Focus is the strongest state: the chip under the cursor is always the brightest.
+    // - Focused (selected or not): full primary
+    // - Selected only: primary, toned down a little so the cursor still stands out
     // - Neither: surface color
     Color backgroundColor;
     Color foregroundColor;
 
-    if (widget.isSelected && showFocus) {
-      // Selected + focused: dim the primary color slightly
-      backgroundColor = Color.lerp(colorScheme.primary, colorScheme.surface, 0.25)!;
-      foregroundColor = colorScheme.onPrimary;
-    } else if (widget.isSelected || showFocus) {
-      // Selected or focused (but not both): full primary
+    if (showFocus) {
       backgroundColor = colorScheme.primary;
+      foregroundColor = colorScheme.onPrimary;
+    } else if (widget.isSelected) {
+      backgroundColor = Color.lerp(colorScheme.primary, colorScheme.surface, 0.25)!;
       foregroundColor = colorScheme.onPrimary;
     } else {
       // Neither selected nor focused
