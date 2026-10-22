@@ -1,0 +1,428 @@
+{
+ "mainContent": {
+  "id": 903574,
+  "updated": 1608540360,
+  "scheduleStart": 1788199200,
+  "heading": "Allo Allo!",
+  "subHeading": "Britid tulevad",
+  "lead": "<p>Nouvioni küla okupeeritud Prantsusmaal 1941. aastal. Prantsuse vastupanuliikumine on saatnud kaks põgenenud Briti lendurit varjule Rene kohvikusse, kus keegi ei oska sõnagi inglise keelt ja keegi pole valmis järgnevateks segadusteks.</p>",
+  "body": "",
+  "primaryCategoryId": 4423,
+  "iframeMediaUrl": "",
+  "parentContentId": 1038279,
+  "parentContentPath": "[1038279]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 10174961044,
+  "color": "#000000",
+  "season": 1,
+  "episode": 1,
+  "country": "Suurbritannia",
+  "originalTitle": "Allo Allo!",
+  "year": "1982",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/903574/allo-allo-hooaeg-1-osa-1",
+  "radiomanId": 0,
+  "lastChangedBy": 76492,
+  "commenting": 2,
+  "progId": 10043010521,
+  "photos": [
+   {
+    "id": 594678,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h41c2t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h096ft2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h6a34t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h79aft8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 594678,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h41c2t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h096ft2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h6a34t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h79aft8.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 3789127,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2026/08/31/3789127he6c6t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2026/08/31/3789127he1c8t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2026/08/31/3789127hfd91t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2026/08/31/3789127h83ebt8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1038279,
+    "type": "series",
+    "photos": [
+     {
+      "id": 772942,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 772942,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 3789127,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 772942,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [
+     {
+      "id": 870274,
+      "photoTypes": {}
+     }
+    ],
+    "squarePhotos": [
+     {
+      "id": 3793387,
+      "photoTypes": {}
+     }
+    ]
+   }
+  ],
+  "rootContentId": 1038279,
+  "statsHeading": "Allo Allo! H1 O1",
+  "statsSeriesTitle": "Allo Allo!",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/903574",
+  "fancyUrl": "allo-allo",
+  "anotherDomainContent": true,
+  "created": 1548334800,
+  "publicStart": 1608540360,
+  "clips": [],
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/903574/allo-allo",
+  "relatedRadiomanIds": [],
+  "medias": [
+   {
+    "id": 1143628,
+    "ord": 0,
+    "type": "video",
+    "headingEt": "",
+    "headingRu": "",
+    "headingEn": "",
+    "podcastUrl": "",
+    "bodyEt": "",
+    "bodyEn": "",
+    "bodyRu": "",
+    "embedDisabled": 1,
+    "publicEnd": 1613858400,
+    "mediaRadiomanId": 0,
+    "photoId": 0,
+    "ld": 0,
+    "sd": 1,
+    "hd": 1,
+    "fhd": 1,
+    "4k": 0,
+    "folder": "gb",
+    "mediaHash": null,
+    "skd": "",
+    "jwt": null,
+    "file": "2008-020157-0001_0002_D10_ALLO-ALLO_ERR.mp4",
+    "version": 1,
+    "filename": "2008-020157-0001_0002_D10_ALLO-ALLO_ERR.mp4",
+    "cacheIndex": 0,
+    "versionId": 10053866295,
+    "isPg": false,
+    "mediaInfo": {
+     "aspectRatio": "4:3",
+     "duration": "2087"
+    },
+    "src": {
+     "id": 1143628,
+     "ratio": "4:3",
+     "hls2": "//vod.err.ee/hls/gb/1143628/2/v/master.m3u8",
+     "hls": "//vod.err.ee/hls/gb/1143628/2/v/master.m3u8",
+     "file": "//vod.err.ee/file/gb/1143628.mp4",
+     "hlsNew": "//vod.err.ee/hls/gb/1143628/2/v/master.m3u8",
+     "dashNew": "//vod.err.ee/dash/gb/1143628/2/v/manifest.mpd",
+     "dash": "//vod.err.ee/dash/gb/1143628/2/v/manifest.mpd",
+     "hlsNoSub": "//vod.err.ee/hls/gb/1143628/2/v/nosub/master.m3u8",
+     "dashNoSub": "//vod.err.ee/dash/gb/1143628/2/v/nosub/manifest.mpd"
+    },
+    "mediaId": 1143628,
+    "periods": [
+     {
+      "publicStart": 1608501600,
+      "publicEnd": 1613858400,
+      "vodReqId": 10431195245
+     },
+     {
+      "publicStart": 1622461100,
+      "publicEnd": 1625053100,
+      "vodReqId": 10500141710
+     },
+     {
+      "publicStart": 1788123600,
+      "publicEnd": 1798668000,
+      "vodReqId": 11366013686
+     },
+     {
+      "publicStart": 1788201335,
+      "publicEnd": 1790793335,
+      "vodReqId": 11365758107
+     }
+    ],
+    "catchupDays": 70,
+    "restrictions": {
+     "drm": false,
+     "geoBlock": true
+    },
+    "subtitles": [
+     {
+      "id": 0,
+      "subId": 69424,
+      "name": "eesti",
+      "srclang": "ET",
+      "version": 1,
+      "exported": 1,
+      "src": "https://services.err.ee/subtitles/file/69424/69424_ET.vtt",
+      "filename": "69424_ET.vtt"
+     }
+    ],
+    "photos": []
+   }
+  ],
+  "galleries": [],
+  "polls": [],
+  "bodyMedias": [],
+  "bodyTrustedHtmls": [],
+  "bodyPhotos": [],
+  "bodyGalleries": []
+ },
+ "seasonList": {
+  "type": "seasonal",
+  "contentOrder": "asc",
+  "items": [
+   {
+    "id": 1,
+    "name": "1",
+    "url": "/903574/allo-allo",
+    "firstContentId": 903574,
+    "contents": [
+     {
+      "id": 903574,
+      "heading": "Allo Allo!",
+      "subHeading": "Britid tulevad",
+      "season": 1,
+      "episode": 1,
+      "type": "episode",
+      "scheduleStart": 1788199200,
+      "publicStart": 1608540360
+     },
+     {
+      "id": 903589,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 2,
+      "type": "episode",
+      "scheduleStart": 1788285600,
+      "publicStart": 1608540420
+     },
+     {
+      "id": 903604,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 3,
+      "type": "episode",
+      "scheduleStart": 1788372000,
+      "publicStart": 1548334800
+     },
+     {
+      "id": 903619,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 4,
+      "type": "episode",
+      "scheduleStart": 1788458400,
+      "publicStart": 1548334800
+     },
+     {
+      "id": 903636,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 5,
+      "type": "episode",
+      "scheduleStart": 1788544800,
+      "publicStart": 1548334800
+     },
+     {
+      "id": 905981,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 6,
+      "type": "episode",
+      "scheduleStart": 1788803700,
+      "publicStart": 1548939600
+     },
+     {
+      "id": 905996,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 7,
+      "type": "episode",
+      "scheduleStart": 1788890400,
+      "publicStart": 1548939600
+     },
+     {
+      "id": 906010,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "season": 1,
+      "episode": 8,
+      "type": "episode",
+      "scheduleStart": 1789063500,
+      "publicStart": 1548939600
+     }
+    ],
+    "active": true
+   },
+   {
+    "id": 2,
+    "name": "2",
+    "url": "/906025/allo-allo",
+    "firstContentId": 906025
+   },
+   {
+    "id": 3,
+    "name": "3",
+    "url": "/911479/allo-allo",
+    "firstContentId": 911479
+   },
+   {
+    "id": 4,
+    "name": "4",
+    "url": "/912795/allo-allo",
+    "firstContentId": 912795
+   },
+   {
+    "id": 5,
+    "name": "5",
+    "url": "/915221/allo-allo",
+    "firstContentId": 915221
+   },
+   {
+    "id": 6,
+    "name": "6",
+    "url": "/929031/allo-allo",
+    "firstContentId": 929031
+   },
+   {
+    "id": 7,
+    "name": "7",
+    "url": "/931369/allo-allo",
+    "firstContentId": 931369
+   },
+   {
+    "id": 8,
+    "name": "8",
+    "url": "/935498/allo-allo",
+    "firstContentId": 935498
+   },
+   {
+    "id": 9,
+    "name": "9",
+    "url": "/940072/allo-allo",
+    "firstContentId": 940072
+   }
+  ]
+ },
+ "nextContent": {
+  "id": 903589,
+  "heading": "Allo Allo!",
+  "season": 1,
+  "episode": 2
+ }
+}

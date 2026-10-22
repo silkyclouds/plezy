@@ -1,0 +1,371 @@
+{
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/srf/mediaList/video/latestEpisodes?pageSize=30&next=1",
+ "mediaList": [
+  {
+   "id": "c986bab3-6c0d-4eaa-90fe-c21bd83e9dfd",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:c986bab3-6c0d-4eaa-90fe-c21bd83e9dfd",
+   "title": "Vom tiefsten zum höchsten Punkt der Schweiz (Staffel 4, Folge 4)",
+   "lead": "In zehn Tagen vom tiefsten bis zum höchsten Punkt der Schweiz – von den Brissago-Inseln bis zur Dufourspitze. Das Ziel scheint zum Greifen nah, doch eine Schlechtwetterfront lässt es wieder in weite Ferne rücken.  Aber eine Chance gibt es noch.",
+   "description": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni",
+   "mediaDescription": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-13836297795108886199",
+   "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-11-06T21:00:00+01:00",
+   "duration": 2622960,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/hochhinaus/2026/10/hochhinaus_20261006_140846_19671855_v_webcast_h264_q50.mp4?d=ap&assetId=c986bab3-6c0d-4eaa-90fe-c21bd83e9dfd",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/hochhinaus/2026/10/hochhinaus_20261006_140846_19671855_v_webcast_h264_q50.mp4?d=ap&assetId=c986bab3-6c0d-4eaa-90fe-c21bd83e9dfd",
+   "validFrom": "2026-10-16T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Vom tiefsten zum höchsten Punkt der Schweiz (Staffel 4, Folge 4)",
+    "lead": "In zehn Tagen vom tiefsten bis zum höchsten Punkt der Schweiz – von den Brissago-Inseln bis zur Dufourspitze. Das Ziel scheint zum Greifen nah, doch eine Schlechtwetterfront lässt es wieder in weite Ferne rücken.  Aber eine Chance gibt es noch.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-13836297795108886199",
+    "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-11-06T21:00:00+01:00",
+    "seasonNumber": 4,
+    "id": "70435555-bbe1-4d42-8e8e-dea04e19b54b",
+    "number": 4,
+    "description": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni"
+   },
+   "show": {
+    "id": "c66487b3-0990-0001-d92c-55501cb0144d",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:c66487b3-0990-0001-d92c-55501cb0144d",
+    "title": "DOK – Hoch hinaus",
+    "lead": "Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen.",
+    "description": "«Hoch hinaus» begleitet Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen. Ob in der Schweiz oder auf der ganzen Welt.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+    "imageTitle": "DOK – Hoch hinaus",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/317dc807c1104b87bb4156afa9e36f0a.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+    "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "numberOfEpisodes": 59,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "title": "SRF zwei",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/66ff9008b3c6467a89be36202cad2998.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/0bd3a6.svg",
+    "imageTitle": "SRF zwei",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-13836297795108886199",
+   "bannerImageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "df944260-253e-4b76-b535-d1d78a5a2dcd",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:df944260-253e-4b76-b535-d1d78a5a2dcd",
+   "title": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription (Staffel 4, Folge 4)",
+   "lead": "In zehn Tagen vom tiefsten bis zum höchsten Punkt der Schweiz – von den Brissago-Inseln bis zur Dufourspitze. Das Ziel scheint zum Greifen nah, doch eine Schlechtwetterfront lässt es wieder in weite Ferne rücken. Aber eine Chance gibt es noch.",
+   "description": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni",
+   "mediaDescription": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/df944260-253e-4b76-b535-d1d78a5a2dcd-2570s112ms.png",
+   "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription",
+   "type": "EPISODE",
+   "date": "2026-11-06T21:00:00+01:00",
+   "duration": 2622960,
+   "validFrom": "2026-10-16T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription (Staffel 4, Folge 4)",
+    "lead": "In zehn Tagen vom tiefsten bis zum höchsten Punkt der Schweiz – von den Brissago-Inseln bis zur Dufourspitze. Das Ziel scheint zum Greifen nah, doch eine Schlechtwetterfront lässt es wieder in weite Ferne rücken. Aber eine Chance gibt es noch.",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/df944260-253e-4b76-b535-d1d78a5a2dcd-2570s112ms.png",
+    "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription",
+    "publishedDate": "2026-11-06T21:00:00+01:00",
+    "seasonNumber": 4,
+    "id": "bde90256-66d7-40e0-bffd-255f9cb3b425",
+    "number": 4,
+    "description": "Es hat geschneit und das Wetter, am Tag der geplanten Besteigung der Dufourspitze, ist unsicher. Bergführer Yannick Glatthard hat sich einen Mageninfekt geholt und muss nach acht Tagen aufgeben. Nun sind die beiden Bergführerinnen Rita Christen und Nicole Berthod verantwortlich.  Gemeinsam mit Yanni"
+   },
+   "show": {
+    "id": "4a41e7a3-ae0c-41c3-afa5-622a40596b70",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:4a41e7a3-ae0c-41c3-afa5-622a40596b70",
+    "title": "DOK – Hoch hinaus mit Audiodeskription",
+    "lead": "Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen.",
+    "description": "«Hoch hinaus» begleitet Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen. Ob in der Schweiz oder auf der ganzen Welt.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Webvisual.jpg",
+    "imageTitle": "DOK – Hoch hinaus mit Audiodeskription",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Webvisual.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Poster.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/4a41e7a3-ae0c-41c3-afa5-622a40596b70.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/4a41e7a3-ae0c-41c3-afa5-622a40596b70.xml",
+    "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "numberOfEpisodes": 18,
+    "topicList": [
+     {
+      "id": "4acf86dd-7ff7-45d3-baf8-33375340d976",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:4acf86dd-7ff7-45d3-baf8-33375340d976",
+      "title": "Audiodeskription",
+      "lead": "Hier finden Sie Inhalte mit Audiodeskription.",
+      "description": "SRF bietet diverse Sendungen mit Audiodeskription an. Hier finden Sie die entsprechenden Inhalte.",
+      "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/ce8375274a3c4984ac765001dcae19db.jpg",
+      "imageTitle": "Audiodeskription"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "title": "SRF zwei",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/66ff9008b3c6467a89be36202cad2998.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/0bd3a6.svg",
+    "imageTitle": "SRF zwei",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/df944260-253e-4b76-b535-d1d78a5a2dcd-2570s112ms.png",
+   "bannerImageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription"
+  },
+  {
+   "id": "0aeb79c4-465f-4bfe-b2d7-b9db2632878e",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:0aeb79c4-465f-4bfe-b2d7-b9db2632878e",
+   "title": "Vom tiefsten zum höchsten Punkt der Schweiz (Staffel 4, Folge 3)",
+   "lead": "Fünf Tage nach ihrem Start auf den Brissago-Inseln steht die Gruppe vor ihrer ersten grossen Herausforderung im Hochgebirge – dem Allalinhorn mit 4027 Metern. Für die Bergführer ein Test, ob alle technisch und mental stark genug sind, um auch die Dufourspitze zu meistern.",
+   "description": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle",
+   "mediaDescription": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-17448631861613263249",
+   "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-10-30T21:00:00+01:00",
+   "duration": 2563080,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/hochhinaus/2026/10/hochhinaus_20261006_140813_19671854_v_webcast_h264_q50.mp4?d=ap&assetId=0aeb79c4-465f-4bfe-b2d7-b9db2632878e",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/hochhinaus/2026/10/hochhinaus_20261006_140813_19671854_v_webcast_h264_q50.mp4?d=ap&assetId=0aeb79c4-465f-4bfe-b2d7-b9db2632878e",
+   "validFrom": "2026-10-16T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Vom tiefsten zum höchsten Punkt der Schweiz (Staffel 4, Folge 3)",
+    "lead": "Fünf Tage nach ihrem Start auf den Brissago-Inseln steht die Gruppe vor ihrer ersten grossen Herausforderung im Hochgebirge – dem Allalinhorn mit 4027 Metern. Für die Bergführer ein Test, ob alle technisch und mental stark genug sind, um auch die Dufourspitze zu meistern.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-17448631861613263249",
+    "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-10-30T21:00:00+01:00",
+    "seasonNumber": 4,
+    "id": "fcf415e9-59f5-4741-bde0-00d51a1c449d",
+    "number": 3,
+    "description": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle"
+   },
+   "show": {
+    "id": "c66487b3-0990-0001-d92c-55501cb0144d",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:c66487b3-0990-0001-d92c-55501cb0144d",
+    "title": "DOK – Hoch hinaus",
+    "lead": "Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen.",
+    "description": "«Hoch hinaus» begleitet Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen. Ob in der Schweiz oder auf der ganzen Welt.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+    "imageTitle": "DOK – Hoch hinaus",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/317dc807c1104b87bb4156afa9e36f0a.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+    "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "numberOfEpisodes": 59,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "title": "SRF zwei",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/66ff9008b3c6467a89be36202cad2998.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/0bd3a6.svg",
+    "imageTitle": "SRF zwei",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-17448631861613263249",
+   "bannerImageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "b759543d-073a-448a-8cdf-7ca045656fb5",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:b759543d-073a-448a-8cdf-7ca045656fb5",
+   "title": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription (Staffel 4, Folge 3)",
+   "lead": "Fünf Tage nach ihrem Start auf den Brissago-Inseln steht die Gruppe vor ihrer ersten grossen Herausforderung im Hochgebirge – dem Allalinhorn mit 4027 Metern. Für die Bergführer ein Test, ob alle technisch und mental stark genug sind, um auch die Dufourspitze zu meistern.",
+   "description": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle",
+   "mediaDescription": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/b759543d-073a-448a-8cdf-7ca045656fb5-748s357ms.png",
+   "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription",
+   "type": "EPISODE",
+   "date": "2026-10-30T21:00:00+01:00",
+   "duration": 2563080,
+   "validFrom": "2026-10-16T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription (Staffel 4, Folge 3)",
+    "lead": "Fünf Tage nach ihrem Start auf den Brissago-Inseln steht die Gruppe vor ihrer ersten grossen Herausforderung im Hochgebirge – dem Allalinhorn mit 4027 Metern. Für die Bergführer ein Test, ob alle technisch und mental stark genug sind, um auch die Dufourspitze zu meistern.",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/b759543d-073a-448a-8cdf-7ca045656fb5-748s357ms.png",
+    "imageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription",
+    "publishedDate": "2026-10-30T21:00:00+01:00",
+    "seasonNumber": 4,
+    "id": "c1f5125f-5bf3-4ed3-8623-8513188e9147",
+    "number": 3,
+    "description": "Seit über fünf Tagen sind sie unterwegs – per Stand Up Paddle, Rennvelo, zu Fuss und Mountainbike ohne Pause. Jetzt steht der erste grosse Test bevor: das Allalinhorn mit 4027 Metern sowie die ausgesetzte Kletterpassage über den Feechopf bis zur Täschhütte.   Für Serge Grazioli ist es eine spezielle"
+   },
+   "show": {
+    "id": "4a41e7a3-ae0c-41c3-afa5-622a40596b70",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:4a41e7a3-ae0c-41c3-afa5-622a40596b70",
+    "title": "DOK – Hoch hinaus mit Audiodeskription",
+    "lead": "Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen.",
+    "description": "«Hoch hinaus» begleitet Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen. Ob in der Schweiz oder auf der ganzen Welt.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Webvisual.jpg",
+    "imageTitle": "DOK – Hoch hinaus mit Audiodeskription",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Webvisual.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2024/09/Hochhinaus-Poster.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/4a41e7a3-ae0c-41c3-afa5-622a40596b70.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/4a41e7a3-ae0c-41c3-afa5-622a40596b70.xml",
+    "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "numberOfEpisodes": 18,
+    "topicList": [
+     {
+      "id": "4acf86dd-7ff7-45d3-baf8-33375340d976",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:4acf86dd-7ff7-45d3-baf8-33375340d976",
+      "title": "Audiodeskription",
+      "lead": "Hier finden Sie Inhalte mit Audiodeskription.",
+      "description": "SRF bietet diverse Sendungen mit Audiodeskription an. Hier finden Sie die entsprechenden Inhalte.",
+      "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/ce8375274a3c4984ac765001dcae19db.jpg",
+      "imageTitle": "Audiodeskription"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "title": "SRF zwei",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/66ff9008b3c6467a89be36202cad2998.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/0bd3a6.svg",
+    "imageTitle": "SRF zwei",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/b759543d-073a-448a-8cdf-7ca045656fb5-748s357ms.png",
+   "bannerImageTitle": "Vom tiefsten zum höchsten Punkt der Schweiz – mit Audiodeskription"
+  }
+ ]
+}

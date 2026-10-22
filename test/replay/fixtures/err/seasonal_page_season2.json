@@ -1,0 +1,786 @@
+{
+ "mainContent": {
+  "id": 906025,
+  "updated": 1550066400,
+  "scheduleStart": 1789149600,
+  "heading": "Allo Allo!",
+  "subHeading": "",
+  "lead": "<p>Herr Flicki käes on nii \"Langenud Madonna\" kui ka selle kaks koopiat. René loodab, et elu kohvikus on taas peaaegu normaalne, aga siis on Briti lendurid tagasi ja seekord nunnadeks maskeerituna.</p>",
+  "primaryCategoryId": 4423,
+  "iframeMediaUrl": "",
+  "parentContentId": 1038279,
+  "parentContentPath": "[1038279]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 10174961148,
+  "color": "#000000",
+  "season": 2,
+  "episode": 1,
+  "country": "Suurbritannia",
+  "originalTitle": "Allo Allo!",
+  "year": "1985",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/906025/allo-allo-hooaeg-2-osa-1",
+  "radiomanId": 0,
+  "lastChangedBy": 76492,
+  "commenting": 2,
+  "progId": 10043010549,
+  "photos": [
+   {
+    "id": 594678,
+    "ord": 0,
+    "type": 0,
+    "created": 1549022508,
+    "version": 1,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h096ft2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h6a34t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h79aft8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h7718t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h866dt48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678hda9ct60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h15d5t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h8012t80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 594678,
+    "ord": 0,
+    "type": 0,
+    "created": 1549022508,
+    "version": 1,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h096ft2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h6a34t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h79aft8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h7718t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h866dt48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678hda9ct60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h15d5t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594678h8012t80.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 594679,
+    "ord": 0,
+    "type": 1,
+    "created": 1549022537,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679h536at2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679hae0ft6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679h4498t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679hc45at26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679h5c94t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679hd71ft60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679h1765t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2019/02/01/594679h2117t80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1038279,
+    "type": "series",
+    "photos": [
+     {
+      "id": 772942,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 772942,
+      "ord": 0,
+      "type": 0,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 3789127,
+      "ord": 0,
+      "type": 1,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 772942,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [
+     {
+      "id": 870274,
+      "ord": 0,
+      "type": 3,
+      "photoTypes": {}
+     }
+    ],
+    "squarePhotos": [
+     {
+      "id": 3793387,
+      "ord": 0,
+      "type": 4,
+      "photoTypes": {}
+     }
+    ]
+   }
+  ],
+  "rootContentId": 1038279,
+  "rootContent": {
+   "id": 1038279,
+   "heading": "Allo Allo!",
+   "lead": "<p>Nouvioni küla okupeeritud Prantsusmaal 1941. aastal. Prantsuse vastupanuliikumine on saatnud kaks põgenenud Briti lendurit varjule Rene kohvikusse, kus keegi ei oska sõnagi inglise keelt ja keegi pole valmis järgnevateks segadusteks.</p>",
+   "url": "allo-allo",
+   "color": "#000000",
+   "contentOrder": 2,
+   "seriesType": 2,
+   "primaryCategoryId": 4423,
+   "playlistStyle": 1,
+   "autoPlay": 0,
+   "contentVisible": 1,
+   "newsSiteUrl": "",
+   "eMail": "",
+   "allowContentPhoto": 1,
+   "commenting": 2,
+   "categoryCommenting": 0,
+   "host": "",
+   "type": "series",
+   "hideEpisodeNumber": 0,
+   "visibleEpisodeDays": 0,
+   "visibilityStart": 0,
+   "photos": [
+    {
+     "id": 772942,
+     "ord": 0,
+     "type": 2,
+     "created": 1587725856,
+     "version": 5,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h862et2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hafe0t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hefc7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h3f4et26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h0d08t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h47eet60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h8b56t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h6c9dt80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPhotos": [
+    {
+     "id": 772942,
+     "ord": 0,
+     "type": 0,
+     "created": 1587725856,
+     "version": 5,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h862et2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hafe0t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hefc7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h3f4et26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h0d08t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h47eet60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h8b56t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h6c9dt80.jpg"
+      }
+     }
+    }
+   ],
+   "verticalPhotos": [
+    {
+     "id": 3789127,
+     "ord": 0,
+     "type": 1,
+     "created": 1788178540,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127he1c8t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127hfd91t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127h83ebt8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127hb3act26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127h942at48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127h68adt60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127h94dft61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/08/31/3789127hb4b0t80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPoster": [
+    {
+     "id": 772942,
+     "ord": 0,
+     "type": 2,
+     "created": 1587725856,
+     "version": 5,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h862et2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hafe0t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942hefc7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h3f4et26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h0d08t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h47eet60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h8b56t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2020/04/24/772942h6c9dt80.jpg"
+      }
+     }
+    }
+   ],
+   "heroImage": [
+    {
+     "id": 870274,
+     "ord": 0,
+     "type": 3,
+     "created": 1608551240,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h7810t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h3409t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h8e12t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h2876t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274hb292t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h2cd2t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h692et61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2020/12/21/870274h7873t80.jpg"
+      }
+     }
+    }
+   ],
+   "squarePhotos": [
+    {
+     "id": 3793387,
+     "ord": 0,
+     "type": 4,
+     "created": 1788493151,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387h346et2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387hac65t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387h2bf9t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387hd820t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387hb066t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387h3c26t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387he757t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/09/04/3793387h8678t80.jpg"
+      }
+     }
+    }
+   ],
+   "relatedRadiomanIds": []
+  },
+  "statsHeading": "Allo Allo! H2 O1",
+  "statsSeriesTitle": "Allo Allo!",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/906025",
+  "fancyUrl": "allo-allo",
+  "anotherDomainContent": true,
+  "created": 1548939600,
+  "publicStart": 1548939600,
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/906025/allo-allo",
+  "relatedRadiomanIds": [],
+  "makers": []
+ },
+ "seasonList": {
+  "type": "seasonal",
+  "contentOrder": "asc",
+  "items": [
+   {
+    "id": 1,
+    "name": "1",
+    "url": "/903574/allo-allo",
+    "firstContentId": 903574
+   },
+   {
+    "id": 2,
+    "name": "2",
+    "url": "/906025/allo-allo",
+    "firstContentId": 906025,
+    "contents": [
+     {
+      "id": 906025,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "scheduleStart": 1789149600,
+      "publicStart": 1548939600,
+      "updated": 1550066400,
+      "primaryCategoryId": 4423,
+      "parentContentPath": "[1038279]",
+      "season": 2,
+      "episode": 1,
+      "type": "episode",
+      "rootCategoryId": 3905,
+      "url": "https://jupiter.err.ee/906025/allo-allo",
+      "canonicalUrl": "https://jupiter.err.ee/906025",
+      "fancyUrl": "allo-allo",
+      "anotherDomainContent": true,
+      "catchupDays": 70,
+      "active": true
+     },
+     {
+      "id": 906041,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "scheduleStart": 1789408500,
+      "publicStart": 1548939600,
+      "updated": 1550066400,
+      "primaryCategoryId": 4423,
+      "parentContentPath": "[1038279]",
+      "season": 2,
+      "episode": 2,
+      "type": "episode",
+      "rootCategoryId": 3905,
+      "url": "https://jupiter.err.ee/906041/allo-allo",
+      "canonicalUrl": "https://jupiter.err.ee/906041",
+      "fancyUrl": "allo-allo",
+      "anotherDomainContent": true,
+      "catchupDays": 70
+     },
+     {
+      "id": 908214,
+      "heading": "Allo Allo!",
+      "subHeading": "",
+      "scheduleStart": 1789494900,
+      "publicStart": 1549544400,
+      "updated": 1550526900,
+      "primaryCategoryId": 4423,
+      "parentContentPath": "[1038279]",
+      "season": 2,
+      "episode": 3,
+      "type": "episode",
+      "rootCategoryId": 3905,
+      "url": "https://jupiter.err.ee/908214/allo-allo",
+      "canonicalUrl": "https://jupiter.err.ee/908214",
+      "fancyUrl": "allo-allo",
+      "anotherDomainContent": true,
+      "catchupDays": 70
+     }
+    ],
+    "active": true
+   },
+   {
+    "id": 3,
+    "name": "3",
+    "url": "/911479/allo-allo",
+    "firstContentId": 911479
+   },
+   {
+    "id": 4,
+    "name": "4",
+    "url": "/912795/allo-allo",
+    "firstContentId": 912795
+   },
+   {
+    "id": 5,
+    "name": "5",
+    "url": "/915221/allo-allo",
+    "firstContentId": 915221
+   },
+   {
+    "id": 6,
+    "name": "6",
+    "url": "/929031/allo-allo",
+    "firstContentId": 929031
+   },
+   {
+    "id": 7,
+    "name": "7",
+    "url": "/931369/allo-allo",
+    "firstContentId": 931369
+   },
+   {
+    "id": 8,
+    "name": "8",
+    "url": "/935498/allo-allo",
+    "firstContentId": 935498
+   },
+   {
+    "id": 9,
+    "name": "9",
+    "url": "/940072/allo-allo",
+    "firstContentId": 940072
+   }
+  ]
+ }
+}

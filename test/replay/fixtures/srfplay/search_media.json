@@ -1,0 +1,487 @@
+{
+ "total": 10964,
+ "searchTerm": "kassensturz",
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/srf/searchResultMediaList?q=kassensturz&pageSize=5&next=5",
+ "searchResultMediaList": [
+  {
+   "id": "17aa8f58-f0c6-4a06-b8a1-a8777b494d50",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:17aa8f58-f0c6-4a06-b8a1-a8777b494d50",
+   "title": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+   "lead": "Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?",
+   "description": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h",
+   "mediaDescription": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-6421275467267598284",
+   "imageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+   "imageCopyright": "SRF/Gian Vaitl",
+   "type": "EPISODE",
+   "date": "2026-10-21T12:25:00+02:00",
+   "duration": 1977080,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261021_093405_19948897_v_webcast_h264_q50.mp4?d=ap&assetId=17aa8f58-f0c6-4a06-b8a1-a8777b494d50",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261021_093405_19948897_v_webcast_h264_q50.mp4?d=ap&assetId=17aa8f58-f0c6-4a06-b8a1-a8777b494d50",
+   "validFrom": "2026-10-21T13:24:51+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+    "lead": "Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-6421275467267598284",
+    "imageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+    "imageCopyright": "SRF/Gian Vaitl",
+    "publishedDate": "2026-10-21T12:25:00+02:00",
+    "id": "5affcd3d-616a-4bdc-8af3-dbe47871a295",
+    "description": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h"
+   },
+   "show": {
+    "id": "78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "title": "Kassensturz",
+    "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+    "description": "Das wöchentliche Magazin für Konsum, Geld und Arbeit. Produkte-Tests gehören ebenso zur Sendung wie kritische Fragen an Wirtschaftsbosse zu aktuellen Konsumenten-Themen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "imageTitle": "Kassensturz",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Posterformat-MASTER.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso",
+      "title": "Mehr zur Sendung"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1579,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     },
+     {
+      "id": "b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "title": "Wissen",
+      "lead": "Man hat nie ausgelernt. Das zeigen die SRF-Sendungen, die bei allem Wissenswerten genauer hinschauen.",
+      "description": "Neben «Kassensturz», «Puls» oder «Einstein» vermitteln auch andere Sendungen von SRF viel Wissenswertes. Dabei gibt es nicht nur über Konsum, Gesundheit, oder Wissenschaft viel Neues zu entdecken. Auch kleine tägliche Fragen finden hier ihre Antwort.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-6",
+      "imageTitle": "Wissen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-6421275467267598284",
+   "bannerImageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+   "bannerImageCopyright": "SRF/Gian Vaitl"
+  },
+  {
+   "id": "02a2f42a-c527-4c30-9a6f-00722debcc6c",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:02a2f42a-c527-4c30-9a6f-00722debcc6c",
+   "title": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+   "lead": "Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?",
+   "description": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h",
+   "mediaDescription": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/02a2f42a-c527-4c30-9a6f-00722debcc6c-338s24ms.png",
+   "imageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+   "type": "EPISODE",
+   "date": "2026-10-21T08:10:00+02:00",
+   "duration": 1976920,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/kassensturz_geb/2026/10/kassensturz_geb_20261020_161746_19935981_v_webcast_h264_q50.mp4?d=ap&assetId=02a2f42a-c527-4c30-9a6f-00722debcc6c",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/kassensturz_geb/2026/10/kassensturz_geb_20261020_161746_19935981_v_webcast_h264_q50.mp4?d=ap&assetId=02a2f42a-c527-4c30-9a6f-00722debcc6c",
+   "validFrom": "2026-10-20T21:15:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+    "lead": "Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/02a2f42a-c527-4c30-9a6f-00722debcc6c-338s24ms.png",
+    "imageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen",
+    "publishedDate": "2026-10-21T08:10:00+02:00",
+    "id": "879f342f-7766-4379-b9f4-5d7b3bc087cf",
+    "description": "Immer mehr Lebensmittel sind hochverarbeitet 70 bis 80 Prozent der Lebensmittel aus dem Supermarkt sind heute hochverarbeitet. Sie enthalten Zusatzstoffe und sind industriell hergestellt. Selbst unverdächtige Produkte wie Joghurt oder Brot können in diese Kategorie fallen. «Kassensturz» zeigt, wie h"
+   },
+   "show": {
+    "id": "c52bbcf3-e560-0001-7dd8-b260ec101d2c",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:c52bbcf3-e560-0001-7dd8-b260ec101d2c",
+    "title": "Kassensturz in Gebärdensprache",
+    "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+    "description": "Neben Produkte-Tests stehen kritische Fragen an Wirtschaftsbosse zu aktuellen Themen im Zentrum des Konsumentenmagazins.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER-Gebaerdensprache.jpg",
+    "imageTitle": "Kassensturz in Gebärdensprache",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER-Gebaerdensprache.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Posterformat-MASTER-Gebaerdensprache.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso",
+      "title": "Mehr zur Sendung"
+     }
+    ],
+    "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "numberOfEpisodes": 624,
+    "topicList": [
+     {
+      "id": "593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+      "title": "Gebärdensprache",
+      "lead": "Hier finden Sie Inhalte mit Gebärdensprache.",
+      "description": "SRF bietet diverse Sendungen mit Gebärdensprache an. Hier finden Sie die entsprechenden Inhalte.",
+      "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/5d97efb369a44527bda0eb2278a0db3b.jpg",
+      "imageTitle": "Gebärdensprache"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+    "title": "SRF zwei",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/66ff9008b3c6467a89be36202cad2998.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/0bd3a6.svg",
+    "imageTitle": "SRF zwei",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/02a2f42a-c527-4c30-9a6f-00722debcc6c-338s24ms.png",
+   "bannerImageTitle": "Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen"
+  },
+  {
+   "id": "988e784c-ea32-4345-a702-ca4edc63a6d2",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:988e784c-ea32-4345-a702-ca4edc63a6d2",
+   "title": "Hochverarbeitete Lebensmittel – Wenn Essen krank macht",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Schwerpunkt-hochverarbeitet.jpg",
+   "imageTitle": "Hochverarbeitete Lebensmittel – Wenn Essen krank macht",
+   "type": "EPISODE",
+   "date": "2026-10-20T21:05:00+02:00",
+   "duration": 1345000,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261020_104817_19931595_v_webcast_h264_q50.mp4?d=ap&assetId=988e784c-ea32-4345-a702-ca4edc63a6d2",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261020_104817_19931595_v_webcast_h264_q50.mp4?d=ap&assetId=988e784c-ea32-4345-a702-ca4edc63a6d2",
+   "validFrom": "2026-10-20T21:05:00+02:00",
+   "validTo": "2099-12-31T23:59:00+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Hochverarbeitete Lebensmittel – Wenn Essen krank macht",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Schwerpunkt-hochverarbeitet.jpg",
+    "imageTitle": "Hochverarbeitete Lebensmittel – Wenn Essen krank macht",
+    "publishedDate": "2026-10-20T21:05:00+02:00",
+    "id": "98d7fcf9-5935-4dcd-8131-f9ca6e31615b"
+   },
+   "show": {
+    "id": "78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "title": "Kassensturz",
+    "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+    "description": "Das wöchentliche Magazin für Konsum, Geld und Arbeit. Produkte-Tests gehören ebenso zur Sendung wie kritische Fragen an Wirtschaftsbosse zu aktuellen Konsumenten-Themen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "imageTitle": "Kassensturz",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Posterformat-MASTER.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso",
+      "title": "Mehr zur Sendung"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1579,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     },
+     {
+      "id": "b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "title": "Wissen",
+      "lead": "Man hat nie ausgelernt. Das zeigen die SRF-Sendungen, die bei allem Wissenswerten genauer hinschauen.",
+      "description": "Neben «Kassensturz», «Puls» oder «Einstein» vermitteln auch andere Sendungen von SRF viel Wissenswertes. Dabei gibt es nicht nur über Konsum, Gesundheit, oder Wissenschaft viel Neues zu entdecken. Auch kleine tägliche Fragen finden hier ihre Antwort.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-6",
+      "imageTitle": "Wissen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "tagList": [
+    "kmain"
+   ],
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Schwerpunkt-hochverarbeitet.jpg",
+   "bannerImageTitle": "Hochverarbeitete Lebensmittel – Wenn Essen krank macht"
+  },
+  {
+   "id": "0d1ceb0f-b935-44f9-a211-b2bf45794cf8",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:0d1ceb0f-b935-44f9-a211-b2bf45794cf8",
+   "title": "Identitätsdiebstahl – Das grosse Geld mit Fake-Profilen",
+   "lead": "Identitätsdiebstahl nimmt rasant zu, doch die Polizei ist meistens machtlos. «Kassensturz» hat mit drei Betroffenen gesprochen: Unter dem Namen der Truckerin Lexie kursieren hunderte falsche Social Media Accounts. Diese gefälschten Profile dienen Betrügern als Geldmaschine: Mit ihnen knüpfen sie gut",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Thumbnail-Identitatsdiebstahl-Favorit-1.png",
+   "imageTitle": "Identitätsdiebstahl – Das grosse Geld mit Fake-Profilen",
+   "type": "EPISODE",
+   "date": "2026-10-15T17:00:00+02:00",
+   "duration": 1076520,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261016_101715_19873903_v_webcast_h264_q50.mp4?d=ap&assetId=0d1ceb0f-b935-44f9-a211-b2bf45794cf8",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/kassensturz/2026/10/kassensturz_20261016_101715_19873903_v_webcast_h264_q50.mp4?d=ap&assetId=0d1ceb0f-b935-44f9-a211-b2bf45794cf8",
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "validTo": "2099-12-31T23:59:00+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Identitätsdiebstahl – Das grosse Geld mit Fake-Profilen",
+    "lead": "Identitätsdiebstahl nimmt rasant zu, doch die Polizei ist meistens machtlos. «Kassensturz» hat mit drei Betroffenen gesprochen: Unter dem Namen der Truckerin Lexie kursieren hunderte falsche Social Media Accounts. Diese gefälschten Profile dienen Betrügern als Geldmaschine: Mit ihnen knüpfen sie gut",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Thumbnail-Identitatsdiebstahl-Favorit-1.png",
+    "imageTitle": "Identitätsdiebstahl – Das grosse Geld mit Fake-Profilen",
+    "publishedDate": "2026-10-15T17:00:00+02:00",
+    "id": "c2803b7e-0b59-4071-81bf-88c0792df42a"
+   },
+   "show": {
+    "id": "78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:78a6014e-8058-4bdd-88aa-824f846ca6f0",
+    "title": "Kassensturz",
+    "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+    "description": "Das wöchentliche Magazin für Konsum, Geld und Arbeit. Produkte-Tests gehören ebenso zur Sendung wie kritische Fragen an Wirtschaftsbosse zu aktuellen Konsumenten-Themen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "imageTitle": "Kassensturz",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Posterformat-MASTER.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso",
+      "title": "Mehr zur Sendung"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1579,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     },
+     {
+      "id": "b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "title": "Wissen",
+      "lead": "Man hat nie ausgelernt. Das zeigen die SRF-Sendungen, die bei allem Wissenswerten genauer hinschauen.",
+      "description": "Neben «Kassensturz», «Puls» oder «Einstein» vermitteln auch andere Sendungen von SRF viel Wissenswertes. Dabei gibt es nicht nur über Konsum, Gesundheit, oder Wissenschaft viel Neues zu entdecken. Auch kleine tägliche Fragen finden hier ihre Antwort.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-6",
+      "imageTitle": "Wissen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "tagList": [
+    "kmain"
+   ],
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Thumbnail-Identitatsdiebstahl-Favorit-1.png",
+   "bannerImageTitle": "Identitätsdiebstahl – Das grosse Geld mit Fake-Profilen"
+  }
+ ]
+}

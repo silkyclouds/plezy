@@ -1,0 +1,694 @@
+[
+ {
+  "id": 3,
+  "position": 1,
+  "headline_title": null,
+  "_links": {
+   "self": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/startpage/highlight/3"
+   },
+   "video_item": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224409"
+   }
+  },
+  "_embedded": {
+   "video_item": {
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224409"
+     }
+    },
+    "_embedded": {
+     "item": {
+      "age_classification": null,
+      "ai_generated": false,
+      "countdown": "185 Tage",
+      "date": "2026-10-27T20:15:00+01:00",
+      "delete_date": "2027-05-25T20:15:00+02:00",
+      "vod_ressort": null,
+      "description": "Zwischen Chorproben, Fanliebe und Eifersucht ermittelt die Kripo Linz in einem brutalen Mordfall.\n\nDer gefeierte Gesangspädagoge Darko Labrovic wird während einer frühen Radtour ermordet aufgefunden. Die Ermittlungen der Kripo Linz führen tief in das traditionsreiche Umfeld der St. Florianer Sängerk",
+      "duration_seconds": 2639,
+      "field_descriptor": null,
+      "genre_id": 13776494,
+      "genre_title": "Serie",
+      "right": "austria",
+      "growing": true,
+      "has_active_youth_protection": false,
+      "focus": false,
+      "show_countdown": false,
+      "has_subtitle": false,
+      "has_youth_protection": false,
+      "headline": "Soko Linz: Verstummt",
+      "id": 14344351,
+      "is_archive": false,
+      "audio_description_service_available": true,
+      "is_drm_protected": false,
+      "is_oegs": false,
+      "two_channel_audio": false,
+      "uhd": false,
+      "killdate": "2027-04-25T20:15:00+02:00",
+      "main_channel_id": 1180,
+      "orf_label": "original",
+      "time_section": "hauptabend",
+      "production_country": null,
+      "production_year": 2026,
+      "related_audiodescription_episode_image_url": null,
+      "related_audiodescription_episode_title": null,
+      "related_oegs_episode_image_url": null,
+      "related_oegs_episode_title": null,
+      "segments_complete": true,
+      "episodes_reference": "",
+      "sub_headline": "Die neueste Folge vorab im Stream",
+      "teaser_text": "Zwischen Chorproben, Fanliebe und Eifersucht ermittelt die Kripo Linz in einem brutalen Mordfall.",
+      "title": "Soko Linz (7/10): Verstummt",
+      "video_type": "episode",
+      "youth_protection_type": "limited-20-06",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344351"
+       },
+       "image": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23896384"
+       },
+       "image16x9_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23896386"
+       },
+       "image2x3_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/22977127"
+       },
+       "image2x3": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23896385"
+       }
+      },
+      "_embedded": {
+       "image": {
+        "dynamic_color": "#2972a3",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/97/thumb_23896384_segments_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/97/thumb_23896384_segments_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/97/thumb_23896384_segments_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/97/thumb_23896384_segments_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/97/6e287dbee051e5dac46e597f6eb3b3a77f1e89e7.jpg"
+         }
+        }
+       },
+       "image16x9_with_logo": {
+        "dynamic_color": "#987964",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/97/thumb_23896386_segment_16x9-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/97/thumb_23896386_segment_16x9-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/97/thumb_23896386_segment_16x9-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/97/thumb_23896386_segment_16x9-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/97/93f75206b91b8d8ae87ecdcfe2558e63bd7a21d2.jpg"
+         }
+        }
+       },
+       "image2x3_with_logo": {
+        "dynamic_color": "#2d6ab4",
+        "is_fallback": true,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/profile_2x3-with-logo/0230/78/thumb_22977127_profile_2x3-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/profile_2x3-with-logo/0230/78/thumb_22977127_profile_2x3-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/profile_2x3-with-logo/0230/78/thumb_22977127_profile_2x3-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/profile_2x3-with-logo/0230/78/thumb_22977127_profile_2x3-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/profile_2x3-with-logo/0230/78/63577e66606023c5074812bf482a80eea0bf7cd9.jpg"
+         }
+        }
+       },
+       "image2x3": {
+        "dynamic_color": "#27749d",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/97/thumb_23896385_segment_2x3_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/97/thumb_23896385_segment_2x3_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/97/thumb_23896385_segment_2x3_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/97/thumb_23896385_segment_2x3_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/97/725dd481e6e6682d8960af3d0cdf347b67c38abe.jpg"
+         }
+        }
+       }
+      },
+      "share_body": "https://on.orf.at/video/14344351/soko-linz-7-10-verstummt"
+     }
+    }
+   }
+  }
+ },
+ {
+  "id": 1,
+  "position": 2,
+  "headline_title": null,
+  "_links": {
+   "self": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/startpage/highlight/1"
+   },
+   "video_item": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224650"
+   }
+  },
+  "_embedded": {
+   "video_item": {
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224650"
+     }
+    },
+    "_embedded": {
+     "item": {
+      "age_classification": null,
+      "ai_generated": false,
+      "countdown": "",
+      "date": "2026-10-22T21:05:58+02:00",
+      "delete_date": null,
+      "vod_ressort": null,
+      "description": "Zwischen letzter Wille und Erbstreit: Wer vom Boom der Testamentsspenden profitiert.\n\n122 Millionen Euro werden in Österreich jährlich per Testament an gemeinnützige Vereine vererbt – mehr als doppelt so viel wie vor zehn Jahren. Besonders Tierschutz-, Sozial- und Gesundheitsorganisationen profitier",
+      "duration_seconds": 2932,
+      "field_descriptor": null,
+      "genre_id": 1173,
+      "genre_title": "Reportagen & Dokus",
+      "right": "worldwide",
+      "growing": true,
+      "has_active_youth_protection": false,
+      "focus": false,
+      "show_countdown": false,
+      "has_subtitle": false,
+      "has_youth_protection": false,
+      "headline": "Am Schauplatz: Mein Wille geschehe",
+      "id": 14344233,
+      "is_archive": false,
+      "audio_description_service_available": false,
+      "is_drm_protected": false,
+      "is_oegs": false,
+      "two_channel_audio": false,
+      "uhd": false,
+      "killdate": null,
+      "main_channel_id": 1181,
+      "orf_label": null,
+      "time_section": "hauptabend",
+      "production_country": "Österreich",
+      "production_year": null,
+      "related_audiodescription_episode_image_url": null,
+      "related_audiodescription_episode_title": null,
+      "related_oegs_episode_image_url": null,
+      "related_oegs_episode_title": null,
+      "segments_complete": true,
+      "episodes_reference": "",
+      "sub_headline": "Spenden über den Tod hinaus",
+      "teaser_text": "Zwischen letzter Wille und Erbstreit: Wer vom Boom der Testamentsspenden profitiert.",
+      "title": "Am Schauplatz: Mein Wille geschehe",
+      "video_type": "episode",
+      "youth_protection_type": "limited-20-06",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344233"
+       },
+       "image": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897498"
+       },
+       "image16x9_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897554"
+       },
+       "image2x3_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897555"
+       },
+       "image2x3": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897499"
+       }
+      },
+      "_embedded": {
+       "image": {
+        "dynamic_color": "#9b7866",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897498_segments_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897498_segments_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897498_segments_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897498_segments_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/6b8803d50a5625da8e7eaeed83fda77a160912d0.jpg"
+         }
+        }
+       },
+       "image16x9_with_logo": {
+        "dynamic_color": "#2a70a9",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897554_segment_16x9-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897554_segment_16x9-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897554_segment_16x9-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897554_segment_16x9-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/755b66d333c8f06017b774c91876de665b4af145.jpg"
+         }
+        }
+       },
+       "image2x3_with_logo": {
+        "dynamic_color": "#d35050",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0239/98/thumb_23897555_segment_2x3-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0239/98/thumb_23897555_segment_2x3-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0239/98/thumb_23897555_segment_2x3-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0239/98/thumb_23897555_segment_2x3-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0239/98/c6716362d24a59e69b8b81ce7a8adf47a5dcb6e3.jpg"
+         }
+        }
+       },
+       "image2x3": {
+        "dynamic_color": "#987964",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897499_segment_2x3_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897499_segment_2x3_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897499_segment_2x3_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897499_segment_2x3_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/40c8830555e98c71495d3ce953b7d6ad9e89d274.jpg"
+         }
+        }
+       }
+      },
+      "share_body": "https://on.orf.at/video/14344233/am-schauplatz-mein-wille-geschehe"
+     }
+    }
+   }
+  }
+ },
+ {
+  "id": 4,
+  "position": 3,
+  "headline_title": null,
+  "_links": {
+   "self": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/startpage/highlight/4"
+   },
+   "video_item": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224028"
+   }
+  },
+  "_embedded": {
+   "video_item": {
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224028"
+     }
+    },
+    "_embedded": {
+     "item": {
+      "age_classification": null,
+      "ai_generated": false,
+      "countdown": "176 Tage",
+      "date": "2026-10-19T20:15:22+02:00",
+      "delete_date": "2027-05-17T20:15:22+02:00",
+      "vod_ressort": null,
+      "description": "Eine Polizistin mit Alzheimer sucht ihre vermisste Nichte – und riskiert dabei alles.\n\nSeit dem Verschwinden der 17-jährigen Amelie herrscht im Ort Engelsberg Ausnahmezustand. Polizistin Pia Kraus steht unter Druck: Während sie gemeinsam mit ihrem Kollegen Tarek neue Hinweise verfolgt, erhält sie di",
+      "duration_seconds": 2615,
+      "field_descriptor": null,
+      "genre_id": 13776494,
+      "genre_title": "Serie",
+      "right": "austria",
+      "growing": true,
+      "has_active_youth_protection": false,
+      "focus": false,
+      "show_countdown": false,
+      "has_subtitle": true,
+      "has_youth_protection": false,
+      "headline": "Das Vergessen - Spurlos im Moor",
+      "id": 14343824,
+      "is_archive": false,
+      "audio_description_service_available": true,
+      "is_drm_protected": false,
+      "is_oegs": false,
+      "two_channel_audio": false,
+      "uhd": false,
+      "killdate": "2027-04-16T20:15:00+02:00",
+      "main_channel_id": 1180,
+      "orf_label": null,
+      "time_section": "hauptabend",
+      "production_country": null,
+      "production_year": 2025,
+      "related_audiodescription_episode_image_url": null,
+      "related_audiodescription_episode_title": null,
+      "related_oegs_episode_image_url": null,
+      "related_oegs_episode_title": null,
+      "segments_complete": true,
+      "episodes_reference": "",
+      "sub_headline": "Alle Folgen der Thriller-Serie",
+      "teaser_text": "Eine Polizistin mit Alzheimer sucht ihre vermisste Nichte – und riskiert dabei alles.",
+      "title": "Das Vergessen - Spurlos im Moor (1/6): Vermisst",
+      "video_type": "episode",
+      "youth_protection_type": "limited-20-06",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343824"
+       },
+       "image": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23822221"
+       },
+       "image16x9_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23822224"
+       },
+       "image2x3_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23909900"
+       },
+       "image2x3": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23822222"
+       }
+      },
+      "_embedded": {
+       "image": {
+        "dynamic_color": "#267597",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/23/thumb_23822221_segments_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/23/thumb_23822221_segments_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/23/thumb_23822221_segments_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/23/thumb_23822221_segments_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/23/58aaf23e341c37f690df7ca782829a6ec365b641.jpg"
+         }
+        }
+       },
+       "image16x9_with_logo": {
+        "dynamic_color": "#1d7474",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/23/thumb_23822224_segment_16x9-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/23/thumb_23822224_segment_16x9-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/23/thumb_23822224_segment_16x9-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/23/thumb_23822224_segment_16x9-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/23/9d675e8bc55e0c18ecfd2d7bedfb77401a9da975.jpg"
+         }
+        }
+       },
+       "image2x3_with_logo": {
+        "dynamic_color": "#247691",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0240/10/thumb_23909900_segment_2x3-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0240/10/thumb_23909900_segment_2x3-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0240/10/thumb_23909900_segment_2x3-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0240/10/thumb_23909900_segment_2x3-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3-with-logo/0240/10/45be32d93198704f3c1994a4608b09705e075823.jpg"
+         }
+        }
+       },
+       "image2x3": {
+        "dynamic_color": "#267597",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/23/thumb_23822222_segment_2x3_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/23/thumb_23822222_segment_2x3_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/23/thumb_23822222_segment_2x3_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/23/thumb_23822222_segment_2x3_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/23/0a8909052d8089427bafcb9507c12384cf576bdf.jpg"
+         }
+        }
+       }
+      },
+      "share_body": "https://on.orf.at/video/14343824/das-vergessen-spurlos-im-moor-1-6-vermisst"
+     }
+    }
+   }
+  }
+ },
+ {
+  "id": 2,
+  "position": 4,
+  "headline_title": null,
+  "_links": {
+   "self": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/startpage/highlight/2"
+   },
+   "video_item": {
+    "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224619"
+   }
+  },
+  "_embedded": {
+   "video_item": {
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/videoitem/1224619"
+     }
+    },
+    "_embedded": {
+     "item": {
+      "age_classification": null,
+      "ai_generated": false,
+      "countdown": "179 Tage",
+      "date": "2026-10-21T20:15:00+02:00",
+      "delete_date": "2027-05-19T20:15:00+02:00",
+      "vod_ressort": null,
+      "description": "Österreich gegen Deutschland, Wissen gegen Promis: Wer holt 100.000 Euro und den Quiz-Thron?\n\nKandidatenpaare aus Österreich und Deutschland treten zunächst in einer Schnellwissensrunde an und messen sich danach in fünf Kategorien mit prominenten Experten-Duos. Mit dabei sind unter anderem Melissa N",
+      "duration_seconds": 5329,
+      "field_descriptor": null,
+      "genre_id": 1177,
+      "genre_title": "Unterhaltung",
+      "right": "worldwide",
+      "growing": true,
+      "has_active_youth_protection": false,
+      "focus": false,
+      "show_countdown": false,
+      "has_subtitle": true,
+      "has_youth_protection": false,
+      "headline": "Der Quiz Champion: Das Österreich-Deutschland-Special",
+      "id": 14344002,
+      "is_archive": false,
+      "audio_description_service_available": false,
+      "is_drm_protected": false,
+      "is_oegs": false,
+      "two_channel_audio": false,
+      "uhd": false,
+      "killdate": "2027-04-19T20:15:00+02:00",
+      "main_channel_id": 1180,
+      "orf_label": null,
+      "time_section": "hauptabend",
+      "production_country": null,
+      "production_year": null,
+      "related_audiodescription_episode_image_url": null,
+      "related_audiodescription_episode_title": null,
+      "related_oegs_episode_image_url": null,
+      "related_oegs_episode_title": null,
+      "segments_complete": true,
+      "episodes_reference": "",
+      "sub_headline": "Wissen unter Hochspannung",
+      "teaser_text": "Österreich gegen Deutschland, Wissen gegen Promis: Wer holt 100.000 Euro und den Quiz-Thron?",
+      "title": "Der Quiz Champion - Das Österreich-Deutschland-Special",
+      "video_type": "episode",
+      "youth_protection_type": "limited-20-06",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344002"
+       },
+       "image": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897646"
+       },
+       "image16x9_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897648"
+       },
+       "image2x3_with_logo": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897647"
+       },
+       "image2x3": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/media/23897647"
+       }
+      },
+      "_embedded": {
+       "image": {
+        "dynamic_color": "#3359cb",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897646_segments_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897646_segments_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897646_segments_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/thumb_23897646_segments_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segments/0239/98/91a68f62cd5f8592e5bb23cf30fd7d4b2f47b5e1.jpg"
+         }
+        }
+       },
+       "image16x9_with_logo": {
+        "dynamic_color": "#2d6ab4",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897648_segment_16x9-with-logo_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897648_segment_16x9-with-logo_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897648_segment_16x9-with-logo_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/thumb_23897648_segment_16x9-with-logo_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_16x9-with-logo/0239/98/cc4fe6384ce74f40b9afc6ea126a2e5da90eed18.jpg"
+         }
+        }
+       },
+       "image2x3_with_logo": {
+        "dynamic_color": "#315ec6",
+        "is_fallback": true,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/06833bef534a6a7fd2b34decbc8d1860b7c4a63b.jpg"
+         }
+        }
+       },
+       "image2x3": {
+        "dynamic_color": "#315ec6",
+        "is_fallback": false,
+        "public_urls": {
+         "highlight_teaser": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_highlight_teaser.jpg"
+         },
+         "player": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_player.jpg"
+         },
+         "list": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_list.jpg"
+         },
+         "small": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/thumb_23897647_segment_2x3_small.jpg"
+         },
+         "reference": {
+          "url": "https://api-tvthek.orf.at/assets/segment_2x3/0239/98/06833bef534a6a7fd2b34decbc8d1860b7c4a63b.jpg"
+         }
+        }
+       }
+      },
+      "share_body": "https://on.orf.at/video/14344002/der-quiz-champion-das-oesterreich-deutschland-special"
+     }
+    }
+   }
+  }
+ }
+]

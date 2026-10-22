@@ -1,12 +1,13 @@
+import '../srg/srg_images.dart';
+
 const _imageHost = 'https://img.rts.ch/';
-const _fallbackHost = 'https://il.srgssr.ch/image-service/';
 
 /// Widths worth asking the image server for, so neighbouring requests share a cached file.
 const _widths = [160, 320, 448, 640, 960, 1280, 1920];
 
 final _ratioSuffix = RegExp(r'/(16x9|2x3|1x1)$');
 
-bool isRtsPlayImage(String reference) => reference.startsWith(_imageHost) || reference.startsWith(_fallbackHost);
+bool isRtsPlayImage(String reference) => reference.startsWith(_imageHost) || isSrgFallbackImage(reference);
 
 /// Adds the crop and width segments the image server understands to an `img.rts.ch` reference.
 ///
@@ -19,6 +20,16 @@ String rtsPlayImageUrl(String reference, {int? width, int? height}) {
   final crop = ratio ?? (portrait ? '2x3' : '16x9');
   final base = ratio == null ? reference : reference.substring(0, reference.length - ratio.length - 1);
   final wanted = width ?? (crop == '16x9' ? 640 : 320);
-  final size = _widths.firstWhere((w) => w >= wanted, orElse: () => _widths.last);
-  return '$base/$crop/scale/width/$size';
+  return '$base/$crop/scale/width/${srgWidthBucket(_widths, wanted)}';
+}
+
+/// Artwork of RTS Play.
+class RtsPlayImages implements SrgImageResizer {
+  const RtsPlayImages();
+
+  @override
+  bool owns(String reference) => isRtsPlayImage(reference);
+
+  @override
+  String url(String reference, {int? width, int? height}) => rtsPlayImageUrl(reference, width: width, height: height);
 }

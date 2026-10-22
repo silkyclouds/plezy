@@ -1,0 +1,52 @@
+{
+ "total": 3,
+ "searchTerm": "kassensturz",
+ "searchResultShowList": [
+  {
+   "title": "Kassensturz",
+   "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+   "description": "Das wöchentliche Magazin für Konsum, Geld und Arbeit. Produkte-Tests gehören ebenso zur Sendung wie kritische Fragen an Wirtschaftsbosse zu aktuellen Konsumenten-Themen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER.jpg",
+   "imageTitle": "Kassensturz",
+   "id": "78a6014e-8058-4bdd-88aa-824f846ca6f0",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:78a6014e-8058-4bdd-88aa-824f846ca6f0",
+   "broadcastInformation": {
+    "hintText": "Nächste Sendung: 23. August ",
+    "startDate": "2022-06-30T08:41:00+02:00",
+    "endDate": "2022-08-23T21:05:00+02:00"
+   },
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Kassensturz - Dein Recht",
+   "lead": "Jurist Sven Ivanić klärt Konsumentinnen über Ihre Rechte auf.",
+   "description": "Jurist Sven Ivanić klärt Konsumentinnen und Konsumenten über ihre Rechte auf, ordnet ein und hilft weiter. Jurist und Comedian Ivanić greift Fragen aus dem Konsumalltag auf und beantwortet einfach und verständlich, was Konsumentinnen wissen müssen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2023/02/1a9f4d8bcddc49e99229b7f23be4dc6b.jpg",
+   "imageTitle": "Kassensturz - Dein Recht",
+   "id": "1168e6ae-21f5-4820-acce-a8409ceb663c",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:1168e6ae-21f5-4820-acce-a8409ceb663c",
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Kassensturz in Gebärdensprache",
+   "lead": "Konsumentenmagazin: Produkte-Tests und kritische Fragen an Wirtschaftsbosse zu aktuellen Themen.",
+   "description": "Neben Produkte-Tests stehen kritische Fragen an Wirtschaftsbosse zu aktuellen Themen im Zentrum des Konsumentenmagazins.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/Kassensturz-Webvisual-MASTER-Gebaerdensprache.jpg",
+   "imageTitle": "Kassensturz in Gebärdensprache",
+   "id": "c52bbcf3-e560-0001-7dd8-b260ec101d2c",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:c52bbcf3-e560-0001-7dd8-b260ec101d2c",
+   "broadcastInformation": {
+    "hintText": "Nächste Sendung 28. August ",
+    "startDate": "2022-07-04T08:42:00+02:00",
+    "endDate": "2022-08-28T21:05:00+02:00"
+   },
+   "podcastImageIsFallbackUrl": true
+  }
+ ]
+}

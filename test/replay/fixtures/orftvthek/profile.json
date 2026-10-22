@@ -1,0 +1,71 @@
+{
+ "audio_description": false,
+ "break_text": null,
+ "break_title": null,
+ "dataset_name": null,
+ "dds_identifier": "",
+ "description": "Aktuelle Nachrichten aus aller Welt",
+ "has_active_youth_protection": false,
+ "has_youth_protection": false,
+ "headline": "ZIB 1",
+ "hide_in_letter_group": false,
+ "id": 1203,
+ "letter_group": "Z",
+ "livestream_sub_headline": null,
+ "newest_episode_id": 14344034,
+ "oegs": false,
+ "oewa_base_path": "RedCont/Nachrichten/Nachrichtenueberblick",
+ "online_episode_count": 30,
+ "profile_website": "https://tv.orf.at/zeitimbild/index.html",
+ "prefer_profile_overview": true,
+ "secondary_genres": [],
+ "sub_headline": null,
+ "title": "ZIB 1",
+ "type": "temporary",
+ "updated_at": "2025-08-13T14:27:18+02:00",
+ "youth_protection_type": "limited-20-06",
+ "_links": {
+  "self": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203"
+  },
+  "image": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/14972315"
+  },
+  "image16x9_with_logo": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/14972315"
+  },
+  "image2x3_with_logo": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+  },
+  "image2x3": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+  },
+  "image12x5": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/20535737"
+  },
+  "genre": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825"
+  },
+  "links": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/links"
+  },
+  "episodes": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episodes"
+  },
+  "related_profiles": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/related"
+  },
+  "latest_episode": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episode/latest"
+  },
+  "tags": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/tags"
+  },
+  "advertising_tags": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/advertising/tags"
+  },
+  "oegs_profile": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/145302"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": 1348877,
+ "parsed_at": null,
+ "sami_url": "https://api-tvthek.orf.at/assets/subtitles/0239/93/16ce849795ba96666e8b816beec8cdd8b0cdc73b.sami",
+ "srt_url": "https://api-tvthek.orf.at/assets/subtitles/0239/93/b514913180f3c47029a4562a9c2fe1b288135573.srt",
+ "stl_url": null,
+ "ttml_url": "https://api-tvthek.orf.at/assets/subtitles/0239/93/6caa0f2033f1de0afa5cb3a546609c63366f6528.ttml",
+ "updated_at": "2026-10-19T20:57:48+02:00",
+ "vtt_url": "https://api-tvthek.orf.at/assets/subtitles/0239/93/6d1231c784aa00c14188907ccdf254a02b0dcd49.vtt",
+ "xml_url": "https://api-tvthek.orf.at/assets/subtitles/0239/93/6559938899c77419ec926315d5747a5f6bc681fe.xml",
+ "_links": {
+  "self": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/subtitle/1348877"
+  },
+  "xml_file": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/23892548"
+  },
+  "srt_file": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/23892549"
+  },
+  "vtt_file": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/23892550"
+  },
+  "sami_file": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/23892551"
+  },
+  "ttml_file": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/media/23892552"
+  }
+ }
+}

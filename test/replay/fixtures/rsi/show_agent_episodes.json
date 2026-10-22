@@ -1,0 +1,569 @@
+{
+ "mediaList": [
+  {
+   "id": "3606570",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3606570",
+   "title": "Episodio 6",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3053537",
+   "imageTitle": "Episodio 6",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:06:00+02:00",
+   "duration": 3265061,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 6",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3053537",
+    "imageTitle": "Episodio 6",
+    "publishedDate": "2026-04-20T00:06:00+02:00",
+    "seasonNumber": 2,
+    "id": "3606570",
+    "number": 6,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3053537",
+   "bannerImageTitle": "Episodio 6"
+  },
+  {
+   "id": "3647370",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3647370",
+   "title": "Episodio 5",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3053180",
+   "imageTitle": "Episodio 5",
+   "blockReason": "GEOBLOCK",
+   "youthProtectionColor": "YELLOW",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:05:00+02:00",
+   "duration": 3417240,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 5",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3053180",
+    "imageTitle": "Episodio 5",
+    "publishedDate": "2026-04-20T00:05:00+02:00",
+    "seasonNumber": 2,
+    "id": "3647370",
+    "number": 5,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3053180",
+   "bannerImageTitle": "Episodio 5"
+  },
+  {
+   "id": "3647373",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3647373",
+   "title": "Episodio 4",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3050939",
+   "imageTitle": "Episodio 4",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:04:00+02:00",
+   "duration": 3176160,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 4",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3050939",
+    "imageTitle": "Episodio 4",
+    "publishedDate": "2026-04-20T00:04:00+02:00",
+    "seasonNumber": 2,
+    "id": "3647373",
+    "number": 4,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3050939",
+   "bannerImageTitle": "Episodio 4"
+  },
+  {
+   "id": "3647364",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3647364",
+   "title": "Episodio 3",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3050747",
+   "imageTitle": "Episodio 3",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:03:00+02:00",
+   "duration": 3332200,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 3",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3050747",
+    "imageTitle": "Episodio 3",
+    "publishedDate": "2026-04-20T00:03:00+02:00",
+    "seasonNumber": 2,
+    "id": "3647364",
+    "number": 3,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3050747",
+   "bannerImageTitle": "Episodio 3"
+  },
+  {
+   "id": "3647358",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3647358",
+   "title": "Episodio 2",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3040730",
+   "imageTitle": "Episodio 2",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:01:00+02:00",
+   "duration": 3249320,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 2",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3040730",
+    "imageTitle": "Episodio 2",
+    "publishedDate": "2026-04-20T00:01:00+02:00",
+    "seasonNumber": 2,
+    "id": "3647358",
+    "number": 2,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3040730",
+   "bannerImageTitle": "Episodio 2"
+  },
+  {
+   "id": "3647361",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:3647361",
+   "title": "Episodio 1",
+   "lead": "Stagione 2",
+   "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3040355",
+   "imageTitle": "Episodio 1",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-04-20T00:00:00+02:00",
+   "duration": 3436000,
+   "validFrom": "2026-04-20T00:00:00+02:00",
+   "validTo": "2026-10-31T00:00:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Episodio 1",
+    "lead": "Stagione 2",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3040355",
+    "imageTitle": "Episodio 1",
+    "publishedDate": "2026-04-20T00:00:00+02:00",
+    "seasonNumber": 2,
+    "id": "3647361",
+    "number": 1,
+    "description": "Lea, Gabriele, Vittorio ed Elvira sono soci della storica agenzia romana di spettacolo Claudio Maiorana Agency, nota a tutti come CMA, pronti a tutto pur di far brillare le loro star. Con i loro fidati assistenti, ci accompagnano in un universo luccicante fatto di red carpet, eventi montani e set cinematografici, ma anche e soprattutto di duro lavoro, rivalità, alleanze e molti, moltissimi imprevisti.\n"
+   },
+   "show": {
+    "id": "3063383",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:3063383",
+    "title": "Call My Agent - Italia",
+    "lead": "",
+    "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+    "imageTitle": "Call My Agent - Italia",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 6,
+    "topicList": [
+     {
+      "id": "600",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:600",
+      "title": "Serie TV",
+      "lead": "Serie TV",
+      "description": "i contenuti della RSI per la  categoria Serie TV",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+      "imageTitle": "Serie TV",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3040355",
+   "bannerImageTitle": "Episodio 1"
+  }
+ ]
+}

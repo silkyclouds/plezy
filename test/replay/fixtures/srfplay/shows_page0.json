@@ -1,0 +1,185 @@
+{
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/srf/showList/tv/alphabetical?pageSize=100&next=1",
+ "showList": [
+  {
+   "id": "ae38a513-e3ae-4bc2-a75e-965bf5bec8fc",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:ae38a513-e3ae-4bc2-a75e-965bf5bec8fc",
+   "title": "#SayHi",
+   "lead": "SRF setzt sich mit #SayHi gemeinsam mit der EBU gegen Mobbing ein. Mach mit auf srfkids.ch/say-hi",
+   "description": "Gegen Mobbing fühlt man sich oft machtlos, doch schon ein «Hallo» kann Mut machen. Das ist die Aktion #SayHi! Tausende Kinder tanzen zusammen und sagen damit «Ja» zu Freundschaft und «Nein» zu Mobbing. Mach mit auf srfkids.ch/say-hi",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/13204e8dcdb341a3b3a4c390c820524a.jpg",
+   "imageTitle": "#SayHi",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/13204e8dcdb341a3b3a4c390c820524a.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/7a825cba1d26439c966b9bd0d3491223.jpeg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "primaryChannelId": "be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "primaryChannelUrn": "urn:srf:channel:tv:be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "numberOfEpisodes": 42,
+   "topicList": [
+    {
+     "id": "1d7d9cfb-6682-4d5b-9e36-322e8fa93c03",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:1d7d9cfb-6682-4d5b-9e36-322e8fa93c03",
+     "title": "Kids",
+     "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/e6efd4e2784e427caec845c1dfcfe82b.jpg",
+     "imageTitle": "Kinder"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "7669950d-262e-4546-83f2-eadaee5f0a13",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:7669950d-262e-4546-83f2-eadaee5f0a13",
+   "title": "#SayHi in Gebärdensprache",
+   "lead": "SRF setzt sich mit #SayHi gemeinsam mit der EBU gegen Mobbing ein. Mach mit auf srfkids.ch/say-hi",
+   "description": "Gegen Mobbing fühlt man sich oft machtlos, doch schon ein «Hallo» kann Mut machen. Das ist die Aktion #SayHi! Tausende Kinder tanzen zusammen und sagen damit «Ja» zu Freundschaft und «Nein» zu Mobbing. Mach mit auf srfkids.ch/say-hi",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/06/SayHi-Webvisual-GEBARDENSPRACHE.jpg",
+   "imageTitle": "#SayHi in Gebärdensprache",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/06/SayHi-Webvisual-GEBARDENSPRACHE.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/default/2026/06/SayHi-Posterformat-GEBARDENSPRACHE.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "primaryChannelId": "be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "primaryChannelUrn": "urn:srf:channel:tv:be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "numberOfEpisodes": 6,
+   "topicList": [
+    {
+     "id": "593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+     "title": "Gebärdensprache",
+     "lead": "Hier finden Sie Inhalte mit Gebärdensprache.",
+     "description": "SRF bietet diverse Sendungen mit Gebärdensprache an. Hier finden Sie die entsprechenden Inhalte.",
+     "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/5d97efb369a44527bda0eb2278a0db3b.jpg",
+     "imageTitle": "Gebärdensprache"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "e25dd766-a6a9-4b92-92be-3e67fcb66d5c",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:e25dd766-a6a9-4b92-92be-3e67fcb66d5c",
+   "title": "#SayHi – Eure Videos",
+   "lead": "Gemeinsam für Freundschaft und gegen Mobbing einstehen – das ist #SayHi.",
+   "description": "Gemeinsam für Freundschaft und gegen Mobbing einstehen – das ist #SayHi. Weitere Informationen zu der Internationalen Aktion findest du auf srf.ch/kids/sayhi",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/318ab2e0a934470a90a716f7bcfcaf1b.jpg",
+   "imageTitle": "#SayHi – Eure Videos",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/318ab2e0a934470a90a716f7bcfcaf1b.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/07/215ec1f3e62c401f80f4bb0dbeff37d7.jpeg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "links": [
+    {
+     "link": "https://www.srf.ch/kids",
+     "title": "Kids"
+    }
+   ],
+   "primaryChannelId": "be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "primaryChannelUrn": "urn:srf:channel:tv:be35e233-9500-4a0e-af0a-e3b0d17385c6",
+   "numberOfEpisodes": 1685,
+   "allowIndexing": true
+  },
+  {
+   "id": "6fd27ab0-d10f-450f-aaa9-836f1cac97bd",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:6fd27ab0-d10f-450f-aaa9-836f1cac97bd",
+   "title": "1 gegen 100",
+   "lead": "1 KandidatIn, 100 GegnerInnen und knifflige Fragen. Das ist das härteste Quiz der Schweiz.",
+   "description": "1 KandidatIn, 100 GegnerInnen und knifflige Fragen. Taktik, starke Nerven und ein grosses Allgemeinwissen sind wichtig – denn 100 Gegner warten nur darauf, selbst in den Ring zu steigen! Nur wer clever und  risikofreudig ist, schafft es, die Quiz-Insel als grosser Sieger zu verlassen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/b759eb2139ed439b8b43ec16cdc8447d.jpg",
+   "imageTitle": "1 gegen 100",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/b759eb2139ed439b8b43ec16cdc8447d.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/51bf882222794975b8cc08fb8db9c062.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "links": [
+    {
+     "link": "https://www.srf.ch/sendungen/1gegen100/1-gegen-100-die-bestenliste",
+     "title": "Die Bestenliste"
+    },
+    {
+     "link": "https://www.srf.ch/sendungen/1gegen100/1-gegen-100-zuschauer-wettbewerb-bei-1-gegen-100",
+     "title": "Zuschauer-Wettbewerb"
+    },
+    {
+     "link": "https://www.srf.ch/sendungen/1gegen100/mehr-zur-sendung-2",
+     "title": "Mehr zur Sendung"
+    }
+   ],
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 172,
+   "topicList": [
+    {
+     "id": "e52080fc-f36b-481e-955f-071b6c8d6dc3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:e52080fc-f36b-481e-955f-071b6c8d6dc3",
+     "title": "Show & Comedy",
+     "lead": "Zeit zum Verweilen und zum Lachen. Hier bietet SRF viele unterhaltende Sendungen und grosse Shows.",
+     "description": "Grosse Shows, unvergessene Sendungen, klassische Comedy oder spitzfindige Satire - hier bietet SRF alle Sendungen, die für kurzweilige Unterhaltung sorgen.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-3",
+     "imageTitle": "Show & Comedy"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "21927b22-7c21-4126-93dc-3a745a4274c3",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:21927b22-7c21-4126-93dc-3a745a4274c3",
+   "title": "1 gegen 100 mit Audiodeskription",
+   "lead": "1 KandidatIn, 100 GegnerInnen und knifflige Fragen. Das ist das härteste Quiz der Schweiz.",
+   "description": "1 KandidatIn, 100 GegnerInnen und knifflige Fragen. Taktik, starke Nerven und ein grosses Allgemeinwissen sind wichtig – denn 100 Gegner warten nur darauf, selbst in den Ring zu steigen! Nur wer clever und  risikofreudig ist, schafft es, die Quiz-Insel als grosser Sieger zu verlassen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/27610d3ad16d44bca45dfaa70632c618.jpg",
+   "imageTitle": "1 gegen 100 mit Audiodeskription",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/27610d3ad16d44bca45dfaa70632c618.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2021/09/c3d42d1dc7a84bd693414aa7c54bc822.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "links": [
+    {
+     "link": "https://www.srf.ch/sendungen/1gegen100/barrierefrei-studiobeschreibung-fuer-blinde-und-sehbehinderte-menschen",
+     "title": "Hier geht’s zur Studiobeschreibung"
+    },
+    {
+     "link": "https://www.srf.ch/sendungen/1gegen100/mehr-zur-sendung-2",
+     "title": "Mehr zur Sendung"
+    }
+   ],
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 169,
+   "topicList": [
+    {
+     "id": "4acf86dd-7ff7-45d3-baf8-33375340d976",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:4acf86dd-7ff7-45d3-baf8-33375340d976",
+     "title": "Audiodeskription",
+     "lead": "Hier finden Sie Inhalte mit Audiodeskription.",
+     "description": "SRF bietet diverse Sendungen mit Audiodeskription an. Hier finden Sie die entsprechenden Inhalte.",
+     "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/ce8375274a3c4984ac765001dcae19db.jpg",
+     "imageTitle": "Audiodeskription"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

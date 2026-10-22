@@ -17,11 +17,13 @@ import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/nrktv/nrktv_provider.dart';
 import '../providers/pbs/pbs_provider.dart';
 import '../providers/publicsenat/publicsenat_provider.dart';
+import '../providers/rsi/rsi_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
 import '../providers/rtveplay/rtveplay_provider.dart';
 import '../providers/ruv/ruv_provider.dart';
+import '../providers/srfplay/srfplay_provider.dart';
 import '../providers/stvplayer/stvplayer_provider.dart';
 import '../providers/stvr/stvr_provider.dart';
 import '../providers/svtplay/svtplay_provider.dart';
@@ -296,6 +298,20 @@ const replaySourceInfos = [
     country: 'SK',
     languages: ['sk'],
   ),
+  ReplaySourceInfo(
+    id: 'srfplay',
+    name: 'SRF Play',
+    support: ReplayPlaybackSupport.clear,
+    country: 'CH',
+    languages: ['de'],
+  ),
+  ReplaySourceInfo(
+    id: 'rsi',
+    name: 'RSI Play',
+    support: ReplayPlaybackSupport.clear,
+    country: 'CH',
+    languages: ['it'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -363,6 +379,8 @@ Map<String, ReplayProvider> buildReplayProviders(
       'bbciplayer' => BbcIplayerProvider(http),
       'stvplayer' => StvPlayerProvider(http),
       'stvr' => StvrProvider(http),
+      'srfplay' => SrfPlayProvider(http),
+      'rsi' => RsiProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

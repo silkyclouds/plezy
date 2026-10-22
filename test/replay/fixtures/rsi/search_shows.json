@@ -1,0 +1,68 @@
+{
+ "total": 29,
+ "searchTerm": "falo",
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/rsi/searchResultShowList?q=falo&pageSize=20&next=20",
+ "searchResultShowList": [
+  {
+   "title": "Falò",
+   "lead": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità grazie ai servizi e agli ospiti ",
+   "description": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. A capo della testata: Valerio Selle.\nScopo principale della trasmissione: offrire una lettura critica della realtà. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità.\nL’ospite, o gli ospiti, gestiti in studio dai conduttori Michele Galfetti e Alessandra Maffioli, sono un’altra componente fondamentale della trasmissione.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+   "imageTitle": "Falò",
+   "id": "703565",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:show:tv:703565",
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Film",
+   "lead": "",
+   "description": "Una selezione dei migliori film andati in onda alla RSI da rivedere in qualunque momento.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/234783",
+   "imageTitle": "Film",
+   "id": "702738",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:show:tv:702738",
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Il Faro del TG",
+   "lead": "L'approfondimento settimanale del Telegiornale per orientarsi in un presente in cui è sempre più difficile navigare nel mare delle informazioni senza schiantarsi contro gli scogli dell'attualità. \nConducono Laura Giovara e Gianmaria Giulini.",
+   "description": "Nel mare delle informazioni da cui siamo sommersi ogni giorno non è semplice navigare e orientarsi. “Il Faro” è nato da un’idea di Pietro Bernaschina per divulgare, spiegare e capire il mondo che ci circonda.\nI conduttori - Laura Giovara e Gianmaria Giulini - grazie ai loro ospiti, settimanalmente, gettano uno sguardo più ampio sulle notizie.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3084875",
+   "imageTitle": "Il Faro del TG",
+   "id": "702517",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:show:tv:702517",
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Filo diretto",
+   "lead": "",
+   "description": "A Filo diretto, con Carlotta Gallino, scopriamo la realtà che ci circonda e i suoi protagonisti, il territorio, i suoi profumi, le storie di chi lo ama e lo abita tutti i giorni.\nDavide Riva si presta a imprese impossibili e affronta le sue peggiori paure per farci scoprire luoghi diversi.\nIn cucina c’è Christian Frapolli con le sue sfiziose ricette e i trucchetti per facilitare la nostra vita ai fornelli. Al suo fianco ci sono numerosi ospiti che ci deliziano con ricette legate ad altre culture, vegane, vegetariane e, per i più golosi, piccoli capolavori di pasticceria. \n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/297815",
+   "imageTitle": "Filo diretto",
+   "id": "703488",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:show:tv:703488",
+   "podcastImageIsFallbackUrl": true
+  },
+  {
+   "title": "Diamoci una mano",
+   "lead": "",
+   "description": "Torna l’appuntamento con “Diamoci una mano “, il programma che dà una mano a chi ne ha più bisogno. \nAl microfono Clarissa Tami darà voce a tanti ospiti e soprattutto tante storie di vita. \nUn viaggio alla scoperta di sentimenti ed emozioni che danno significato alla nostra vita. \nVi aspettiamo. \n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3616050",
+   "imageTitle": "Diamoci una mano",
+   "id": "1759173",
+   "vendor": "RSI",
+   "transmission": "RADIO",
+   "urn": "urn:rsi:show:radio:1759173",
+   "podcastImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/PODCAST/2407618",
+   "podcastImageIsFallbackUrl": false
+  }
+ ]
+}

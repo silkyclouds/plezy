@@ -1,0 +1,1249 @@
+{
+ "page": 1,
+ "limit": 20,
+ "pages": 1,
+ "total": 18,
+ "_links": {
+  "self": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/genres?page=1&limit=20"
+  },
+  "first": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/genres?page=1&limit=20"
+  },
+  "last": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/genres?page=1&limit=20"
+  }
+ },
+ "_embedded": {
+  "items": [
+   {
+    "id": 2703825,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420075,
+       "tbar": 4420076,
+       "pre": 4420077,
+       "post": 4420078
+      },
+      "mob": {
+       "par": 4420079,
+       "pre": 4420222,
+       "post": 4420081
+      },
+      "app": {
+       "par": 4420082,
+       "pre": 4420083,
+       "post": 4420084
+      },
+      "smart": {
+       "pre": 4420085,
+       "post": 4420086
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420450,
+       "tbar": 4420451,
+       "pre": 4420452,
+       "post": 4420453
+      },
+      "mob": {
+       "par": 4420454,
+       "pre": 4420455,
+       "post": 4420456
+      },
+      "app": {
+       "par": 4420457,
+       "pre": 4420458,
+       "post": 4420459
+      },
+      "smart": {
+       "pre": 4420460,
+       "post": 4420461
+      }
+     }
+    },
+    "sorting": 1,
+    "title": "ZIB & Info",
+    "updated_at": "2024-05-17T16:44:15+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703825/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 13776491,
+    "advertising_mapping": {
+     "live": null,
+     "vod": null
+    },
+    "sorting": 2,
+    "title": "Bundesland heute",
+    "updated_at": "2024-07-10T09:24:46+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776491/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1173,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4716830,
+       "tbar": 4420052,
+       "pre": 4420053,
+       "post": 4420054
+      },
+      "mob": {
+       "par": 4420055,
+       "pre": 4420220,
+       "post": 4420057
+      },
+      "app": {
+       "par": 4420058,
+       "pre": 4420059,
+       "post": 4420060
+      },
+      "smart": {
+       "pre": 4420061,
+       "post": 4420062
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420426,
+       "tbar": 4420427,
+       "pre": 4420428,
+       "post": 4420429
+      },
+      "mob": {
+       "par": 4420430,
+       "pre": 4420431,
+       "post": 4420432
+      },
+      "app": {
+       "par": 4420433,
+       "pre": 4420434,
+       "post": 4420435
+      },
+      "smart": {
+       "pre": 4420436,
+       "post": 4420437
+      }
+     }
+    },
+    "sorting": 3,
+    "title": "Reportagen & Dokus",
+    "updated_at": "2026-09-03T14:22:04+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1173/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 2703833,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420063,
+       "tbar": 4420064,
+       "pre": 4420065,
+       "post": 4420066
+      },
+      "mob": {
+       "par": 4420067,
+       "pre": 4420221,
+       "post": 4420069
+      },
+      "app": {
+       "par": 4420070,
+       "pre": 4420071,
+       "post": 4420072
+      },
+      "smart": {
+       "pre": 4420073,
+       "post": 4420074
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420438,
+       "tbar": 4420439,
+       "pre": 4420440,
+       "post": 4420441
+      },
+      "mob": {
+       "par": 4420442,
+       "pre": 4420443,
+       "post": 4420444
+      },
+      "app": {
+       "par": 4420445,
+       "pre": 4420446,
+       "post": 4420447
+      },
+      "smart": {
+       "pre": 4420448,
+       "post": 4420449
+      }
+     }
+    },
+    "sorting": 4,
+    "title": "Film",
+    "updated_at": "2026-09-03T14:21:56+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703833/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 13776494,
+    "advertising_mapping": {
+     "live": null,
+     "vod": null
+    },
+    "sorting": 5,
+    "title": "Serie",
+    "updated_at": "2026-09-11T13:26:27+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776494/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1176,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420111,
+       "tbar": 4420112,
+       "pre": 4420113,
+       "post": 4420114
+      },
+      "mob": {
+       "par": 4420115,
+       "pre": 4420225,
+       "post": 4420117
+      },
+      "app": {
+       "par": 4420118,
+       "pre": 4420119,
+       "post": 4420120
+      },
+      "smart": {
+       "pre": 4420121,
+       "post": 4420122
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420474,
+       "tbar": 4420475,
+       "pre": 4420476,
+       "post": 4420477
+      },
+      "mob": {
+       "par": 4420478,
+       "pre": 4420479,
+       "post": 4420480
+      },
+      "app": {
+       "par": 4420481,
+       "pre": 4420482,
+       "post": 4420483
+      },
+      "smart": {
+       "pre": 4420484,
+       "post": 4420485
+      }
+     }
+    },
+    "sorting": 6,
+    "title": "Magazin",
+    "updated_at": "2025-01-14T10:48:50+01:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1176/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 13776488,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420159,
+       "tbar": 4420160,
+       "pre": 4420161,
+       "post": 4420162
+      },
+      "mob": {
+       "par": 4420163,
+       "pre": 4420229,
+       "post": 4420165
+      },
+      "app": {
+       "par": 4420166,
+       "pre": 4420167,
+       "post": 4420168
+      },
+      "smart": {
+       "pre": 4420169,
+       "post": 4420170
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420522,
+       "tbar": 4420523,
+       "pre": 4420524,
+       "post": 4420525
+      },
+      "mob": {
+       "par": 4420526,
+       "pre": 4420527,
+       "post": 4420528
+      },
+      "app": {
+       "par": 4420529,
+       "pre": 4420530,
+       "post": 4420531
+      },
+      "smart": {
+       "pre": 4420532,
+       "post": 4420533
+      }
+     }
+    },
+    "sorting": 7,
+    "title": "Talk",
+    "updated_at": "2025-01-14T10:49:02+01:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776488/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1175,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420099,
+       "tbar": 4420100,
+       "pre": 4420101,
+       "post": 4420102
+      },
+      "mob": {
+       "par": 4420103,
+       "pre": 4420224,
+       "post": 4420105
+      },
+      "app": {
+       "par": 4420106,
+       "pre": 4420107,
+       "post": 4420108
+      },
+      "smart": {
+       "pre": 4420109,
+       "post": 4420110
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420582,
+       "tbar": 4420583,
+       "pre": 4420584,
+       "post": 4420585
+      },
+      "mob": {
+       "par": 4420586,
+       "pre": 4420587,
+       "post": 4420588
+      },
+      "app": {
+       "par": 4420589,
+       "pre": 4420590,
+       "post": 4420591
+      },
+      "smart": {
+       "pre": 4420592,
+       "post": 4420593
+      }
+     }
+    },
+    "sorting": 8,
+    "title": "Kultur",
+    "updated_at": "2025-01-14T10:49:08+01:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1175/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 2703801,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4423852,
+       "tbar": 4423851,
+       "pre": 4423862,
+       "post": 4423861
+      },
+      "mob": {
+       "par": 4423850,
+       "pre": 4423858,
+       "post": 4423857
+      },
+      "app": {
+       "par": 4423849,
+       "pre": 4423856,
+       "post": 4423855
+      },
+      "smart": {
+       "pre": 4423860,
+       "post": 4423859,
+       "lane": 4423853,
+       "bar": 4423854
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4423852,
+       "tbar": 4423851,
+       "pre": 4423862,
+       "post": 4423861
+      },
+      "mob": {
+       "par": 4423850,
+       "pre": 4423858,
+       "post": 4423857
+      },
+      "app": {
+       "par": 4423849,
+       "pre": 4423856,
+       "post": 4423855
+      },
+      "smart": {
+       "pre": 4423860,
+       "post": 4423859,
+       "lane": 4423853,
+       "bar": 4423854
+      }
+     }
+    },
+    "sorting": 9,
+    "title": "Kinder & Familie",
+    "updated_at": "2024-10-24T11:24:17+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16717000"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703801/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1178,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420147,
+       "tbar": 4420148,
+       "pre": 4420149,
+       "post": 4420150
+      },
+      "mob": {
+       "par": 4420151,
+       "pre": 4420228,
+       "post": 4420153
+      },
+      "app": {
+       "par": 4420154,
+       "pre": 4420155,
+       "post": 4420156
+      },
+      "smart": {
+       "pre": 4420157,
+       "post": 4420158
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420510,
+       "tbar": 4420511,
+       "pre": 4420512,
+       "post": 4420513
+      },
+      "mob": {
+       "par": 4420514,
+       "pre": 4420515,
+       "post": 4420516
+      },
+      "app": {
+       "par": 4420517,
+       "pre": 4420518,
+       "post": 4420519
+      },
+      "smart": {
+       "pre": 4420520,
+       "post": 4420521
+      }
+     }
+    },
+    "sorting": 12,
+    "title": "Sport",
+    "updated_at": "2024-05-29T13:46:29+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1178/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 2703835,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420039,
+       "tbar": 4420040,
+       "pre": 4420041,
+       "post": 4420042
+      },
+      "mob": {
+       "par": 4420043,
+       "pre": 4420219,
+       "post": 4420045
+      },
+      "app": {
+       "par": 4420046,
+       "pre": 4420047,
+       "post": 4420048
+      },
+      "smart": {
+       "pre": 4420049,
+       "post": 4420050
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420414,
+       "tbar": 4420415,
+       "pre": 4420416,
+       "post": 4420417
+      },
+      "mob": {
+       "par": 4420418,
+       "pre": 4420419,
+       "post": 4420420
+      },
+      "app": {
+       "par": 4420421,
+       "pre": 4420422,
+       "post": 4420423
+      },
+      "smart": {
+       "pre": 4420424,
+       "post": 4420425
+      }
+     }
+    },
+    "sorting": 13,
+    "title": "Comedy & Satire",
+    "updated_at": "2024-05-14T11:09:42+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703835/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1177,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420171,
+       "tbar": 4420172,
+       "pre": 4420173,
+       "post": 4420174
+      },
+      "mob": {
+       "par": 4420175,
+       "pre": 4420230,
+       "post": 4420177
+      },
+      "app": {
+       "par": 4420178,
+       "pre": 4420179,
+       "post": 4420180
+      },
+      "smart": {
+       "pre": 4420181,
+       "post": 4420182
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420534,
+       "tbar": 4420535,
+       "pre": 4420536,
+       "post": 4420537
+      },
+      "mob": {
+       "par": 4420538,
+       "pre": 4420539,
+       "post": 4420540
+      },
+      "app": {
+       "par": 4420541,
+       "pre": 4420542,
+       "post": 4420543
+      },
+      "smart": {
+       "pre": 4420544,
+       "post": 4420545
+      }
+     }
+    },
+    "sorting": 14,
+    "title": "Unterhaltung",
+    "updated_at": "2024-05-14T11:10:36+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1177/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 1655,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420135,
+       "tbar": 4420136,
+       "pre": 4420137,
+       "post": 4420138
+      },
+      "mob": {
+       "par": 4420139,
+       "pre": 4420227,
+       "post": 4420141
+      },
+      "app": {
+       "par": 4420142,
+       "pre": 4420143,
+       "post": 4420144
+      },
+      "smart": {
+       "pre": 4420145,
+       "post": 4420146
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420498,
+       "tbar": 4420499,
+       "pre": 4420500,
+       "post": 4420501
+      },
+      "mob": {
+       "par": 4420502,
+       "pre": 4420503,
+       "post": 4420504
+      },
+      "app": {
+       "par": 4420505,
+       "pre": 4420506,
+       "post": 4420507
+      },
+      "smart": {
+       "pre": 4420508,
+       "post": 4420509
+      }
+     }
+    },
+    "sorting": 57,
+    "title": "Religion",
+    "updated_at": "2019-12-10T13:35:56+01:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/1655/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 3309573,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420123,
+       "tbar": 4420124,
+       "pre": 4420125,
+       "post": 4420126
+      },
+      "mob": {
+       "par": 4420127,
+       "pre": 4420226,
+       "post": 4420129
+      },
+      "app": {
+       "par": 4420130,
+       "pre": 4420131,
+       "post": 4420132
+      },
+      "smart": {
+       "pre": 4420133,
+       "post": 4420134
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420486,
+       "tbar": 4420487,
+       "pre": 4420488,
+       "post": 4420489
+      },
+      "mob": {
+       "par": 4420490,
+       "pre": 4420491,
+       "post": 4420492
+      },
+      "app": {
+       "par": 4420493,
+       "pre": 4420494,
+       "post": 4420495
+      },
+      "smart": {
+       "pre": 4420496,
+       "post": 4420497
+      }
+     }
+    },
+    "sorting": 67,
+    "title": "Regionales",
+    "updated_at": "2024-07-10T09:25:48+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/3309573/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 13776490,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420207,
+       "tbar": 4420208,
+       "pre": 4420209,
+       "post": 4420210
+      },
+      "mob": {
+       "par": 4420211,
+       "pre": 4420233,
+       "post": 4420213
+      },
+      "app": {
+       "par": 4420214,
+       "pre": 4420215,
+       "post": 4420216
+      },
+      "smart": {
+       "pre": 4420217,
+       "post": 4420218
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420570,
+       "tbar": 4420571,
+       "pre": 4420572,
+       "post": 4420573
+      },
+      "mob": {
+       "par": 4420574,
+       "pre": 4420575,
+       "post": 4420576
+      },
+      "app": {
+       "par": 4420577,
+       "pre": 4420578,
+       "post": 4420579
+      },
+      "smart": {
+       "pre": 4420580,
+       "post": 4420581
+      }
+     }
+    },
+    "sorting": 72,
+    "title": "Wissenschaft",
+    "updated_at": "2024-05-13T15:58:21+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776490/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 2703827,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420195,
+       "tbar": 4420196,
+       "pre": 4420197,
+       "post": 4420198
+      },
+      "mob": {
+       "par": 4420199,
+       "pre": 4420232,
+       "post": 4420201
+      },
+      "app": {
+       "par": 4420202,
+       "pre": 4420203,
+       "post": 4420204
+      },
+      "smart": {
+       "pre": 4420205,
+       "post": 4420206
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420558,
+       "tbar": 4420559,
+       "pre": 4420560,
+       "post": 4420561
+      },
+      "mob": {
+       "par": 4420562,
+       "pre": 4420563,
+       "post": 4420564
+      },
+      "app": {
+       "par": 4420565,
+       "pre": 4420566,
+       "post": 4420567
+      },
+      "smart": {
+       "pre": 4420568,
+       "post": 4420569
+      }
+     }
+    },
+    "sorting": 77,
+    "title": "Wetter",
+    "updated_at": "2019-05-22T11:15:01+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/42"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/2703827/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 70443,
+    "advertising_mapping": {
+     "live": {
+      "web": {
+       "sb": 4420183,
+       "tbar": 4420184,
+       "pre": 4420185,
+       "post": 4420186
+      },
+      "mob": {
+       "par": 4420187,
+       "pre": 4420231,
+       "post": 4420189
+      },
+      "app": {
+       "par": 4420190,
+       "pre": 4420191,
+       "post": 4420192
+      },
+      "smart": {
+       "pre": 4420193,
+       "post": 4420194
+      }
+     },
+     "vod": {
+      "web": {
+       "sb": 4420546,
+       "tbar": 4420547,
+       "pre": 4420548,
+       "post": 4420549
+      },
+      "mob": {
+       "par": 4420550,
+       "pre": 4420551,
+       "post": 4420552
+      },
+      "app": {
+       "par": 4420553,
+       "pre": 4420554,
+       "post": 4420555
+      },
+      "smart": {
+       "pre": 4420556,
+       "post": 4420557
+      }
+     }
+    },
+    "sorting": 97,
+    "title": "Volksgruppen",
+    "updated_at": "2019-12-10T13:39:38+01:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/70443/advertising/tags"
+     }
+    }
+   },
+   {
+    "id": 13776493,
+    "advertising_mapping": {
+     "live": null,
+     "vod": null
+    },
+    "sorting": 100,
+    "title": "Slow TV",
+    "updated_at": "2026-06-25T12:28:01+02:00",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596302"
+     },
+     "profiles": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493/profiles"
+     },
+     "episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493/episodes"
+     },
+     "latest_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493/episode/latest"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/genre/13776493/advertising/tags"
+     }
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "3063383",
+ "vendor": "RSI",
+ "transmission": "TV",
+ "urn": "urn:rsi:show:tv:3063383",
+ "title": "Call My Agent - Italia",
+ "lead": "",
+ "description": "Dopo il successo della serie francese “Dix pour cent” e del suo adattamento italiano, ecco finalmente la seconda stagione di “Call My Agent - Italia”. Sei nuovi episodi tornano a svelare il dietro le quinte del mondo dello spettacolo e di chi si occupa di gestirlo.\nRitroviamo Lea, Gabriele, Vittorio ed Elvira: i soci della storica agenzia di spettacolo romana Claudio Maiorana Agency, nota a tutti come “CMA”, sono pronti ad affrontare altre sfide. \n",
+ "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3544249",
+ "imageTitle": "Call My Agent - Italia",
+ "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3544255",
+ "posterImageIsFallbackUrl": false,
+ "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+ "podcastImageIsFallbackUrl": true,
+ "timeTableUrl": "https://www.rsi.ch/palinsesto",
+ "primaryChannelId": "la1",
+ "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+ "numberOfEpisodes": 6,
+ "topicList": [
+  {
+   "id": "600",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:600",
+   "title": "Serie TV",
+   "lead": "Serie TV",
+   "description": "i contenuti della RSI per la  categoria Serie TV",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+   "imageTitle": "Serie TV",
+   "imageCopyright": "RSI"
+  }
+ ],
+ "allowIndexing": true
+}

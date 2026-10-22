@@ -1,0 +1,154 @@
+{
+ "page": "1",
+ "limit": "20",
+ "page_count": 1,
+ "total": 18,
+ "next": null,
+ "title": "Alle Highlights der Champions League",
+ "description": "Alle Tore und Highlights der dritten Runde der Königsklasse.",
+ "oewa_base_path": "RedCont/Sport/Fußball",
+ "sub_headline": null,
+ "_items": [
+  {
+   "order": 0,
+   "countdown": "15 Stunden",
+   "episode_date": "2026-10-22T00:12:00+02:00",
+   "vod_ressort": null,
+   "duration_seconds": 363,
+   "episode_id": 14344005,
+   "episode_title": "Mehr Fußball - Die UEFA Champions League Highlights: Spieltag 3",
+   "flimmit_link_text": "",
+   "flimmit_link": "",
+   "genre_id": 1178,
+   "genre_title": "Sport",
+   "right": "austria",
+   "focus": false,
+   "show_countdown": true,
+   "headline": "LASK feiert gegen Sporting ersten CL-Sieg",
+   "id": 16173844,
+   "is_archive": false,
+   "is_drm_protected": false,
+   "killdate": "2026-10-23T00:12:00+02:00",
+   "episodes_reference": "",
+   "sub_headline": "Fußball: Champions League",
+   "teaser_text": null,
+   "title": "LASK feiert gegen Sporting ersten CL-Sieg",
+   "video_type": "segment",
+   "_links": {
+    "self": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/segment/16173844"
+    },
+    "episode": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344005"
+    },
+    "image": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23916132"
+    },
+    "image16x9_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23916132"
+    },
+    "image2x3_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    },
+    "image2x3": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    }
+   },
+   "share_body": "https://on.orf.at/video/14344005/16173844/lask-feiert-gegen-sporting-ersten-cl-sieg"
+  },
+  {
+   "order": 1,
+   "countdown": "15 Stunden",
+   "episode_date": "2026-10-22T00:12:00+02:00",
+   "vod_ressort": null,
+   "duration_seconds": 200,
+   "episode_id": 14344005,
+   "episode_title": "Mehr Fußball - Die UEFA Champions League Highlights: Spieltag 3",
+   "flimmit_link_text": "",
+   "flimmit_link": "",
+   "genre_id": 1178,
+   "genre_title": "Sport",
+   "right": "austria",
+   "focus": false,
+   "show_countdown": true,
+   "headline": "Bayern und Arsenal trennen sich 2:2",
+   "id": 16173840,
+   "is_archive": false,
+   "is_drm_protected": false,
+   "killdate": "2026-10-23T00:12:00+02:00",
+   "episodes_reference": "",
+   "sub_headline": "Fußball: Champions League",
+   "teaser_text": null,
+   "title": "Bayern und Arsenal trennen sich 2:2",
+   "video_type": "segment",
+   "_links": {
+    "self": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/segment/16173840"
+    },
+    "episode": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344005"
+    },
+    "image": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23915612"
+    },
+    "image16x9_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23915612"
+    },
+    "image2x3_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    },
+    "image2x3": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    }
+   },
+   "share_body": "https://on.orf.at/video/14344005/16173840/bayern-und-arsenal-trennen-sich-2-2"
+  },
+  {
+   "order": 2,
+   "countdown": "15 Stunden",
+   "episode_date": "2026-10-22T00:12:00+02:00",
+   "vod_ressort": null,
+   "duration_seconds": 199,
+   "episode_id": 14344005,
+   "episode_title": "Mehr Fußball - Die UEFA Champions League Highlights: Spieltag 3",
+   "flimmit_link_text": "",
+   "flimmit_link": "",
+   "genre_id": 1178,
+   "genre_title": "Sport",
+   "right": "austria",
+   "focus": false,
+   "show_countdown": true,
+   "headline": "PSG schießt Barcelona im Finish k. o.",
+   "id": 16173833,
+   "is_archive": false,
+   "is_drm_protected": false,
+   "killdate": "2026-10-23T00:12:00+02:00",
+   "episodes_reference": "",
+   "sub_headline": "Fußball: Champions League",
+   "teaser_text": null,
+   "title": "PSG schießt Barcelona im Finish k. o.",
+   "video_type": "segment",
+   "_links": {
+    "self": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/segment/16173833"
+    },
+    "episode": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344005"
+    },
+    "image": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23910453"
+    },
+    "image16x9_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/23910453"
+    },
+    "image2x3_with_logo": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    },
+    "image2x3": {
+     "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+    }
+   },
+   "share_body": "https://on.orf.at/video/14344005/16173833/psg-schiesst-barcelona-im-finish-k-o"
+  }
+ ]
+}

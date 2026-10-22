@@ -1,0 +1,700 @@
+{
+ "page": 1,
+ "limit": 5,
+ "pages": 6,
+ "total": 30,
+ "_links": {
+  "self": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episodes?page=1&limit=5"
+  },
+  "first": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episodes?page=1&limit=5"
+  },
+  "last": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episodes?page=6&limit=5"
+  },
+  "next": {
+   "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203/episodes?page=2&limit=5"
+  }
+ },
+ "_embedded": {
+  "items": [
+   {
+    "age_classification": null,
+    "ai_generated": false,
+    "ai_subtitles": false,
+    "countdown": "29 Tage",
+    "date": "2026-10-21T19:30:00+02:00",
+    "delete_date": "2026-12-20T19:30:00+01:00",
+    "vod_ressort": null,
+    "description": "USA drängen Ukraine zu Gebietsaufgabe | Schneider: Russland nur mit Donbass zufrieden | Vertrauen verloren: Frankreichs Wirtschaft in Not | Gasnetz-Entgelte steigen 2026 deutlich an | Verlängerung des Pilnacek U-Ausschusses | Wien feiert diplomatischen Coup im UNO-City | Sicherheitslücke in PHP bedr",
+    "exact_duration": 1197401,
+    "duration_seconds": 1197,
+    "field_descriptor": null,
+    "flimmit_link_text": "",
+    "flimmit_link": "",
+    "gapless_sources_austria": {
+     "hls": [],
+     "dash": []
+    },
+    "genre_id": 2703825,
+    "genre_title": "ZIB & Info",
+    "right": "worldwide",
+    "growing": true,
+    "growing_type": "chronology",
+    "has_active_youth_protection": false,
+    "focus": false,
+    "show_countdown": false,
+    "has_subtitle": true,
+    "has_thumbnail": false,
+    "has_youth_protection": false,
+    "headline": "ZIB 1 vom 21.10.2026",
+    "hide_in_new_section": false,
+    "hide_in_schedule_section": false,
+    "hide_latest_episodes": false,
+    "id": 14344034,
+    "is_archive": false,
+    "audio_description_service_available": false,
+    "is_drm_protected": false,
+    "is_gapless_austria": false,
+    "is_gapless": true,
+    "gmf_merged_content": false,
+    "is_oegs": false,
+    "thumbnail_activated": false,
+    "thumbnail_distributed": false,
+    "two_channel_audio": false,
+    "uhd": false,
+    "killdate_extern": "2026-11-20T19:30:00+01:00",
+    "killdate": "2026-11-20T19:30:00+01:00",
+    "livedate": "2026-10-21T19:30:00+02:00",
+    "livedate_extern": "2026-10-21T19:30:00+02:00",
+    "orf_label": null,
+    "disable_display_ads_orf_platforms": false,
+    "disable_instream_ads_orf_platforms": false,
+    "production_country_is_europe": false,
+    "production_country": null,
+    "production_year": null,
+    "profile_title": "ZIB 1",
+    "website": "https://tv.orf.at/zeitimbild/index.html",
+    "related_audiodescription_episode_image_url": null,
+    "related_audiodescription_episode_title": null,
+    "related_oegs_episode_image_url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913779_segments_highlight_teaser.jpg",
+    "related_oegs_episode_title": "ZIB 1 (ÖGS)",
+    "release_date": "2026-10-21T19:46:36+02:00",
+    "secondary_genres": [],
+    "segments_complete": true,
+    "episodes_reference": "",
+    "share_subject": "ZIB 1 vom 21.10.2026 um 19:30 Uhr",
+    "show_display_ads": true,
+    "show_instream_ads": false,
+    "closing_credits_duration_seconds": 0,
+    "sources": {
+     "hls": [
+      {
+       "is_uhd": false,
+       "quality_key": "Q4A",
+       "quality_description": "Mittel",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14344034_0013_Q4A.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q6A",
+       "quality_description": "Hoch",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14344034_0013_Q6A.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q8C",
+       "quality_description": "Sehr hoch",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14344034_0013_Q8C.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXA",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14344034_0013_QXA.mp4/playlist.m3u8",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXB",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14344034_0013_QXB.mp4/playlist.m3u8",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      }
+     ],
+     "dash": [
+      {
+       "is_uhd": false,
+       "quality_key": "Q4A",
+       "quality_description": "Mittel",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14344034_0013_Q4A.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q6A",
+       "quality_description": "Hoch",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14344034_0013_Q6A.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q8C",
+       "quality_description": "Sehr hoch",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14344034_0013_Q8C.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXA",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14344034_0013_QXA.mp4/manifest.mpd",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXB",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14344034_0013_QXB.mp4/manifest.mpd",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      }
+     ]
+    },
+    "statistics_source": "02",
+    "statistics_type": "tl",
+    "sub_headline": "ZIB 1",
+    "teaser_text": null,
+    "teaser_title": null,
+    "text": null,
+    "thumbnail_sources": null,
+    "title": "ZIB 1 vom 21.10.2026",
+    "type": "default",
+    "updated_at": "2026-10-21T20:02:54+02:00",
+    "video_type": "episode",
+    "youth_protection_type": "limited-20-06",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034"
+     },
+     "channel": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181"
+     },
+     "profile": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203"
+     },
+     "segments": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/segments"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/advertising/tags"
+     },
+     "links": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/links"
+     },
+     "oegs_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344597"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/23913085"
+     },
+     "image16x9_with_logo": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/23913085"
+     },
+     "image2x3_with_logo": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+     },
+     "image2x3": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+     },
+     "subtitle": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/subtitle/1350193"
+     },
+     "related_episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/related"
+     },
+     "accompanying": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/accompanying"
+     },
+     "next_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344034/next-episode"
+     },
+     "dds_item": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/dds/ddsitem/639109"
+     }
+    },
+    "_embedded": {
+     "channel": {
+      "bitmovin_stream_id": "b86c179d-0505-4a90-b207-bc02d1159f3b",
+      "channel_restart_url_hbbtv": "https://playerapi-restarttv.ors.at/livestreams/b86c179d-0505-4a90-b207-bc02d1159f3b/sections/?state=active&X-Api-Key=REDACTED",
+      "id": 1181,
+      "is_drm_protected": true,
+      "is_main_channel": true,
+      "looprecorders": [
+       []
+      ],
+      "name": "ORF 2",
+      "reel": "orf2",
+      "updated_at": "2026-09-03T16:03:34+02:00",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181"
+       },
+       "children": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181/children"
+       },
+       "oegs_channel": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1897433"
+       }
+      }
+     },
+     "image": {
+      "dynamic_color": "#d15648",
+      "is_fallback": false,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_highlight_teaser.jpg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_player.jpg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_list.jpg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_small.jpg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/99db950092cfbb140ec2da8ff53c94918bc0e9de.jpg"
+       }
+      }
+     },
+     "image16x9_with_logo": {
+      "dynamic_color": "#d15648",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_highlight_teaser.jpg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_player.jpg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_list.jpg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/thumb_23913085_segments_small.jpg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0240/14/99db950092cfbb140ec2da8ff53c94918bc0e9de.jpg"
+       }
+      }
+     },
+     "image2x3_with_logo": {
+      "dynamic_color": "#697191",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_highlight_teaser.jpeg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_player.jpeg"
+       },
+       "legacy": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_legacy.jpeg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_list.jpeg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_small.jpeg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/56745f92b28e3a6f176e66acf9e9d0aea5e0c611.jpeg"
+       }
+      }
+     },
+     "image2x3": {
+      "dynamic_color": "#697191",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_highlight_teaser.jpeg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_player.jpeg"
+       },
+       "legacy": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_legacy.jpeg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_list.jpeg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_small.jpeg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/56745f92b28e3a6f176e66acf9e9d0aea5e0c611.jpeg"
+       }
+      }
+     }
+    },
+    "share_body": "https://on.orf.at/video/14344034/zib-1"
+   },
+   {
+    "age_classification": null,
+    "ai_generated": false,
+    "ai_subtitles": false,
+    "countdown": "28 Tage",
+    "date": "2026-10-20T19:30:00+02:00",
+    "delete_date": "2026-12-19T19:30:00+01:00",
+    "vod_ressort": null,
+    "description": "USA und Ukraine treffen sich zu Beratungen | Korrespondenten zu Ukraine-USA-Treffen in Oslo | EU-Kommission präsentiert neue Arktis-Strategie | Causa Wolf-Schelling Prozessauftakt in Wiener Neustadt | Verzögerung beim Brennerbasistunnel bis 2034 | Zukunftsdepot bietet Startgeld für Neugeborene | Pro",
+    "exact_duration": 1234376,
+    "duration_seconds": 1234,
+    "field_descriptor": null,
+    "flimmit_link_text": "",
+    "flimmit_link": "",
+    "gapless_sources_austria": {
+     "hls": [],
+     "dash": []
+    },
+    "genre_id": 2703825,
+    "genre_title": "ZIB & Info",
+    "right": "worldwide",
+    "growing": true,
+    "growing_type": "completion",
+    "has_active_youth_protection": false,
+    "focus": false,
+    "show_countdown": false,
+    "has_subtitle": true,
+    "has_thumbnail": false,
+    "has_youth_protection": false,
+    "headline": "ZIB 1 vom 20.10.2026",
+    "hide_in_new_section": false,
+    "hide_in_schedule_section": false,
+    "hide_latest_episodes": false,
+    "id": 14343940,
+    "is_archive": false,
+    "audio_description_service_available": false,
+    "is_drm_protected": false,
+    "is_gapless_austria": false,
+    "is_gapless": true,
+    "gmf_merged_content": false,
+    "is_oegs": false,
+    "thumbnail_activated": false,
+    "thumbnail_distributed": false,
+    "two_channel_audio": false,
+    "uhd": false,
+    "killdate_extern": "2026-11-19T19:30:00+01:00",
+    "killdate": "2026-11-19T19:30:00+01:00",
+    "livedate": "2026-10-20T19:30:00+02:00",
+    "livedate_extern": "2026-10-20T19:30:00+02:00",
+    "orf_label": null,
+    "disable_display_ads_orf_platforms": false,
+    "disable_instream_ads_orf_platforms": false,
+    "production_country_is_europe": false,
+    "production_country": null,
+    "production_year": null,
+    "profile_title": "ZIB 1",
+    "website": "https://tv.orf.at/zeitimbild/index.html",
+    "related_audiodescription_episode_image_url": null,
+    "related_audiodescription_episode_title": null,
+    "related_oegs_episode_image_url": "https://api-tvthek.orf.at/assets/segments/0239/100/thumb_23899838_segments_highlight_teaser.jpg",
+    "related_oegs_episode_title": "ZIB 1 (ÖGS)",
+    "release_date": "2026-10-20T19:38:36+02:00",
+    "secondary_genres": [],
+    "segments_complete": true,
+    "episodes_reference": "",
+    "share_subject": "ZIB 1 vom 20.10.2026 um 19:30 Uhr",
+    "show_display_ads": true,
+    "show_instream_ads": false,
+    "closing_credits_duration_seconds": 0,
+    "sources": {
+     "hls": [
+      {
+       "is_uhd": false,
+       "quality_key": "Q4A",
+       "quality_description": "Mittel",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14343940_0016_Q4A.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q6A",
+       "quality_description": "Hoch",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14343940_0016_Q6A.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q8C",
+       "quality_description": "Sehr hoch",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14343940_0016_Q8C.mp4/playlist.m3u8",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXA",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14343940_0016_QXA.mp4/playlist.m3u8",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXB",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/ipad/cms-worldwide_episodes/14343940_0016_QXB.mp4/playlist.m3u8",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      }
+     ],
+     "dash": [
+      {
+       "is_uhd": false,
+       "quality_key": "Q4A",
+       "quality_description": "Mittel",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14343940_0016_Q4A.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q6A",
+       "quality_description": "Hoch",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14343940_0016_Q6A.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "Q8C",
+       "quality_description": "Sehr hoch",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14343940_0016_Q8C.mp4/manifest.mpd",
+       "is_adaptive_stream": false,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXA",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14343940_0016_QXA.mp4/manifest.mpd",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      },
+      {
+       "is_uhd": false,
+       "quality_key": "QXB",
+       "quality_description": "Adaptiv",
+       "src": "https://apasfiis.sf.apa.at/dash/cms-worldwide_episodes/14343940_0016_QXB.mp4/manifest.mpd",
+       "is_adaptive_stream": true,
+       "is_drm_protected": false
+      }
+     ]
+    },
+    "statistics_source": "02",
+    "statistics_type": "tl",
+    "sub_headline": "ZIB 1",
+    "teaser_text": null,
+    "teaser_title": null,
+    "text": null,
+    "thumbnail_sources": null,
+    "title": "ZIB 1 vom 20.10.2026",
+    "type": "default",
+    "updated_at": "2026-10-20T20:45:02+02:00",
+    "video_type": "episode",
+    "youth_protection_type": "limited-20-06",
+    "_links": {
+     "self": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940"
+     },
+     "channel": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181"
+     },
+     "profile": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/profile/1203"
+     },
+     "segments": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/segments"
+     },
+     "tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/tags"
+     },
+     "advertising_tags": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/advertising/tags"
+     },
+     "links": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/links"
+     },
+     "oegs_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14344427"
+     },
+     "image": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/23898732"
+     },
+     "image16x9_with_logo": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/23898732"
+     },
+     "image2x3_with_logo": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+     },
+     "image2x3": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/media/16596204"
+     },
+     "subtitle": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/subtitle/1349584"
+     },
+     "related_episodes": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/related"
+     },
+     "accompanying": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/accompanying"
+     },
+     "next_episode": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/episode/14343940/next-episode"
+     },
+     "dds_item": {
+      "href": "https://api-tvthek.orf.at/api/v4.3/dds/ddsitem/638805"
+     }
+    },
+    "_embedded": {
+     "channel": {
+      "bitmovin_stream_id": "b86c179d-0505-4a90-b207-bc02d1159f3b",
+      "channel_restart_url_hbbtv": "https://playerapi-restarttv.ors.at/livestreams/b86c179d-0505-4a90-b207-bc02d1159f3b/sections/?state=active&X-Api-Key=REDACTED",
+      "id": 1181,
+      "is_drm_protected": true,
+      "is_main_channel": true,
+      "looprecorders": [
+       []
+      ],
+      "name": "ORF 2",
+      "reel": "orf2",
+      "updated_at": "2026-09-03T16:03:34+02:00",
+      "_links": {
+       "self": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181"
+       },
+       "children": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1181/children"
+       },
+       "oegs_channel": {
+        "href": "https://api-tvthek.orf.at/api/v4.3/channel/1897433"
+       }
+      }
+     },
+     "image": {
+      "dynamic_color": "#d05944",
+      "is_fallback": false,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_highlight_teaser.jpg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_player.jpg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_list.jpg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_small.jpg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/45feae1bc46d01ceda82a6caa09d35e4ea28e793.jpg"
+       }
+      }
+     },
+     "image16x9_with_logo": {
+      "dynamic_color": "#d05944",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_highlight_teaser.jpg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_player.jpg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_list.jpg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/thumb_23898732_segments_small.jpg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/segments/0239/99/45feae1bc46d01ceda82a6caa09d35e4ea28e793.jpg"
+       }
+      }
+     },
+     "image2x3_with_logo": {
+      "dynamic_color": "#697191",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_highlight_teaser.jpeg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_player.jpeg"
+       },
+       "legacy": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_legacy.jpeg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_list.jpeg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_small.jpeg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/56745f92b28e3a6f176e66acf9e9d0aea5e0c611.jpeg"
+       }
+      }
+     },
+     "image2x3": {
+      "dynamic_color": "#697191",
+      "is_fallback": true,
+      "public_urls": {
+       "highlight_teaser": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_highlight_teaser.jpeg"
+       },
+       "player": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_player.jpeg"
+       },
+       "legacy": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_legacy.jpeg"
+       },
+       "list": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_list.jpeg"
+       },
+       "small": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/thumb_16596204_default_2x3_small.jpeg"
+       },
+       "reference": {
+        "url": "https://api-tvthek.orf.at/assets/default_2x3/0166/97/56745f92b28e3a6f176e66acf9e9d0aea5e0c611.jpeg"
+       }
+      }
+     }
+    },
+    "share_body": "https://on.orf.at/video/14343940/zib-1"
+   }
+  ]
+ }
+}

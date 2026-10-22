@@ -1,0 +1,648 @@
+{
+ "mediaList": [
+  {
+   "id": "2677457",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2677457",
+   "title": "Ep. 1 - La selezione",
+   "lead": "",
+   "description": "Chi vuole entrare a far parte della squadra di spedizione del CAS deve possedere un alto livello di abilità alpinistica. La concorrenza è forte. Solo i migliori saranno selezionati e seguiranno due anni di addestramento all'alpinismo classico.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2687720",
+   "imageTitle": "Ep. 1 - La selezione",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-03-30T21:50:00+02:00",
+   "duration": 1520238,
+   "validFrom": "2025-03-30T22:24:10+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 1 - La selezione",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2687720",
+    "imageTitle": "Ep. 1 - La selezione",
+    "publishedDate": "2025-03-30T21:50:00+02:00",
+    "seasonNumber": 1,
+    "id": "2677457",
+    "number": 1,
+    "description": "Chi vuole entrare a far parte della squadra di spedizione del CAS deve possedere un alto livello di abilità alpinistica. La concorrenza è forte. Solo i migliori saranno selezionati e seguiranno due anni di addestramento all'alpinismo classico.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2687720",
+   "bannerImageTitle": "Ep. 1 - La selezione"
+  },
+  {
+   "id": "2694155",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2694155",
+   "title": "Ep. 2 - Le prime pareti verticali",
+   "lead": "",
+   "description": "La squadra maschile si riunisce a Kandersteg per un primo weekend insieme. \rI giovani talenti non fanno conoscenza solo in cordata, ma anche in un ambiente più rilassato ed intimo.\r\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2694809",
+   "imageTitle": "Ep. 2 - Le prime pareti verticali",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-04-06T21:45:00+02:00",
+   "duration": 1540298,
+   "validFrom": "2025-04-06T22:18:02+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 2 - Le prime pareti verticali",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2694809",
+    "imageTitle": "Ep. 2 - Le prime pareti verticali",
+    "publishedDate": "2025-04-06T21:45:00+02:00",
+    "seasonNumber": 1,
+    "id": "2694155",
+    "number": 2,
+    "description": "La squadra maschile si riunisce a Kandersteg per un primo weekend insieme. \rI giovani talenti non fanno conoscenza solo in cordata, ma anche in un ambiente più rilassato ed intimo.\r\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2694809",
+   "bannerImageTitle": "Ep. 2 - Le prime pareti verticali"
+  },
+  {
+   "id": "2713834",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2713834",
+   "title": "Ep. 3 - Martello e piccozza",
+   "lead": "",
+   "description": "Accompagniamo la squadra femminile al workshop di arrampicata in Italia, in Val d'Ossola. L'uso di dispositivi di sicurezza mobili e la prima salita di gruppo su più tiri, sarà molto impegnativa.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2717861",
+   "imageTitle": "Ep. 3 - Martello e piccozza",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-04-13T21:50:00+02:00",
+   "duration": 1724322,
+   "validFrom": "2025-04-13T22:16:01+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 3 - Martello e piccozza",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2717861",
+    "imageTitle": "Ep. 3 - Martello e piccozza",
+    "publishedDate": "2025-04-13T21:50:00+02:00",
+    "seasonNumber": 1,
+    "id": "2713834",
+    "number": 3,
+    "description": "Accompagniamo la squadra femminile al workshop di arrampicata in Italia, in Val d'Ossola. L'uso di dispositivi di sicurezza mobili e la prima salita di gruppo su più tiri, sarà molto impegnativa.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2717861",
+   "bannerImageTitle": "Ep. 3 - Martello e piccozza"
+  },
+  {
+   "id": "2735183",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2735183",
+   "title": "Ep. 4 - Tuoni e fulmini",
+   "lead": "",
+   "description": "Seguiamo la squadra maschile nell'avventura sui Gastlosen, una catena montuosa situata tra i cantoni Friburgo, Berna e Vaud. Il loro percorso di scalata è minacciato dall'avvicinarsi di un temporale. Sarà necessario agire rapidamente.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727046",
+   "imageTitle": "Ep. 4 - Tuoni e fulmini",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-04-20T21:45:00+02:00",
+   "duration": 1755273,
+   "validFrom": "2025-04-20T22:16:57+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 4 - Tuoni e fulmini",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2727046",
+    "imageTitle": "Ep. 4 - Tuoni e fulmini",
+    "publishedDate": "2025-04-20T21:45:00+02:00",
+    "seasonNumber": 1,
+    "id": "2735183",
+    "number": 4,
+    "description": "Seguiamo la squadra maschile nell'avventura sui Gastlosen, una catena montuosa situata tra i cantoni Friburgo, Berna e Vaud. Il loro percorso di scalata è minacciato dall'avvicinarsi di un temporale. Sarà necessario agire rapidamente.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727046",
+   "bannerImageTitle": "Ep. 4 - Tuoni e fulmini"
+  },
+  {
+   "id": "2751746",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2751746",
+   "title": "Ep. 5 - Alla ricerca di nuove vie",
+   "lead": "",
+   "description": "La squadra femminile si reca nel Basso Vallese. A Champex-Lac, le partecipanti impareranno a maneggiare le corde e a scalare percorsi raramente battuti.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727049",
+   "imageTitle": "Ep. 5 - Alla ricerca di nuove vie",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-04-27T21:50:00+02:00",
+   "duration": 1669267,
+   "validFrom": "2025-04-27T22:17:01+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 5 - Alla ricerca di nuove vie",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2727049",
+    "imageTitle": "Ep. 5 - Alla ricerca di nuove vie",
+    "publishedDate": "2025-04-27T21:50:00+02:00",
+    "seasonNumber": 1,
+    "id": "2751746",
+    "number": 5,
+    "description": "La squadra femminile si reca nel Basso Vallese. A Champex-Lac, le partecipanti impareranno a maneggiare le corde e a scalare percorsi raramente battuti.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727049",
+   "bannerImageTitle": "Ep. 5 - Alla ricerca di nuove vie"
+  },
+  {
+   "id": "2768964",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2768964",
+   "title": "Ep. 6 - Neve e ghiaccio",
+   "lead": "",
+   "description": "La situazione si fa burrascosa in questo episodio. Entrambe le squadre, maschile e femminile, si riuniscono sulle Alpi bernesi per sperimentare l'asprezza delle montagne durante un weekend di addestramento nella Bächlital, dove saranno esposte alle intemperie invernali.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727034",
+   "imageTitle": "Ep. 6 - Neve e ghiaccio",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-05-04T21:50:00+02:00",
+   "duration": 1733251,
+   "validFrom": "2025-05-04T22:15:58+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 6 - Neve e ghiaccio",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2727034",
+    "imageTitle": "Ep. 6 - Neve e ghiaccio",
+    "publishedDate": "2025-05-04T21:50:00+02:00",
+    "seasonNumber": 1,
+    "id": "2768964",
+    "number": 6,
+    "description": "La situazione si fa burrascosa in questo episodio. Entrambe le squadre, maschile e femminile, si riuniscono sulle Alpi bernesi per sperimentare l'asprezza delle montagne durante un weekend di addestramento nella Bächlital, dove saranno esposte alle intemperie invernali.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727034",
+   "bannerImageTitle": "Ep. 6 - Neve e ghiaccio"
+  },
+  {
+   "id": "2783746",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:2783746",
+   "title": "Ep. 7 - Speranze e obiettivi",
+   "lead": "",
+   "description": "I giovani talenti del CAS imparano alcune ultime tecniche e conoscenze utili per le loro spedizioni finali. Le ragazze si esercitano a dormire su una parete verticale, mentre i ragazzi fanno pratica con l'arrampicata artificiale. Infine, ciascuna squadra, decide la destinazione della spedizione finale.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727052",
+   "imageTitle": "Ep. 7 - Speranze e obiettivi",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2025-05-11T21:50:00+02:00",
+   "duration": 1779257,
+   "validFrom": "2025-05-11T22:18:00+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "it",
+     "language": "Italiano",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Ep. 7 - Speranze e obiettivi",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/2727052",
+    "imageTitle": "Ep. 7 - Speranze e obiettivi",
+    "publishedDate": "2025-05-11T21:50:00+02:00",
+    "seasonNumber": 1,
+    "id": "2783746",
+    "number": 7,
+    "description": "I giovani talenti del CAS imparano alcune ultime tecniche e conoscenze utili per le loro spedizioni finali. Le ragazze si esercitano a dormire su una parete verticale, mentre i ragazzi fanno pratica con l'arrampicata artificiale. Infine, ciascuna squadra, decide la destinazione della spedizione finale.\n"
+   },
+   "show": {
+    "id": "2649987",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:2649987",
+    "title": "Scuola di alpinismo",
+    "lead": "",
+    "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+    "imageTitle": "Scuola di alpinismo",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 7,
+    "topicList": [
+     {
+      "id": "40",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:40",
+      "title": "Documentari",
+      "lead": "Documentari",
+      "description": "i contenuti della RSI per la  categoria Documentari",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+      "imageTitle": "Documentari",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2727052",
+   "bannerImageTitle": "Ep. 7 - Speranze e obiettivi"
+  }
+ ]
+}

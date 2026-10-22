@@ -1,0 +1,361 @@
+{
+ "total": 2551,
+ "searchTerm": "falo",
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/rsi/searchResultMediaList?q=falo&pageSize=20&includeAggregations=false&next=20",
+ "searchResultMediaList": [
+  {
+   "id": "4181717",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:4181717",
+   "title": "Anteprima dell’edizione di martedì 27 ottobre 2027",
+   "lead": "",
+   "description": "",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4181714",
+   "imageTitle": "Anteprima dell’edizione di martedì 27 ottobre 2027",
+   "type": "EPISODE",
+   "date": "2026-10-21T15:19:12+02:00",
+   "duration": 44320,
+   "validFrom": "2026-10-21T15:19:12+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Anteprima dell’edizione di martedì 27 ottobre 2027",
+    "lead": "",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/4181714",
+    "imageTitle": "Anteprima dell’edizione di martedì 27 ottobre 2027",
+    "publishedDate": "2026-10-21T15:19:12+02:00",
+    "id": "4181717",
+    "description": ""
+   },
+   "show": {
+    "id": "703565",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:703565",
+    "title": "Falò",
+    "lead": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità grazie ai servizi e agli ospiti ",
+    "description": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. A capo della testata: Valerio Selle.\nScopo principale della trasmissione: offrire una lettura critica della realtà. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità.\nL’ospite, o gli ospiti, gestiti in studio dai conduttori Michele Galfetti e Alessandra Maffioli, sono un’altra componente fondamentale della trasmissione.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "imageTitle": "Falò",
+    "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2831996",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "links": [
+     {
+      "link": "https://www.rsi.ch/s/1885611",
+      "title": "Prese di posizione"
+     }
+    ],
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 2924,
+    "topicList": [
+     {
+      "id": "7",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:7",
+      "title": "Info",
+      "lead": "Info",
+      "description": "i contenuti della RSI per la  categoria News",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+      "imageTitle": "Info",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4181714",
+   "bannerImageTitle": "Anteprima dell’edizione di martedì 27 ottobre 2027"
+  },
+  {
+   "id": "4180313",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:4180313",
+   "title": "Israele, la campagna dell’odio",
+   "lead": "di Davide Mattei",
+   "description": "Le imminenti elezioni legislative israeliane del 27 ottobre si annunciano come un passaggio cruciale per il futuro del Paese.  A dominare la campagna è soprattutto il tema della sicurezza. Il trauma degli attacchi del 7 ottobre 2023 continua a segnare la società israeliana e alimenta una politica sempre più polarizzata, nella quale le posizioni moderate faticano a trovare spazio. \n\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180433",
+   "imageTitle": "Israele, la campagna dell’odio",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-20T21:10:00+02:00",
+   "duration": 912520,
+   "validFrom": "2026-10-20T21:10:00+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Israele, la campagna dell’odio",
+    "lead": "di Davide Mattei",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/4180433",
+    "imageTitle": "Israele, la campagna dell’odio",
+    "publishedDate": "2026-10-20T21:10:00+02:00",
+    "id": "4180313",
+    "description": "Le imminenti elezioni legislative israeliane del 27 ottobre si annunciano come un passaggio cruciale per il futuro del Paese.  A dominare la campagna è soprattutto il tema della sicurezza. Il trauma degli attacchi del 7 ottobre 2023 continua a segnare la società israeliana e alimenta una politica sempre più polarizzata, nella quale le posizioni moderate faticano a trovare spazio. \n\n"
+   },
+   "show": {
+    "id": "703565",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:703565",
+    "title": "Falò",
+    "lead": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità grazie ai servizi e agli ospiti ",
+    "description": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. A capo della testata: Valerio Selle.\nScopo principale della trasmissione: offrire una lettura critica della realtà. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità.\nL’ospite, o gli ospiti, gestiti in studio dai conduttori Michele Galfetti e Alessandra Maffioli, sono un’altra componente fondamentale della trasmissione.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "imageTitle": "Falò",
+    "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2831996",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "links": [
+     {
+      "link": "https://www.rsi.ch/s/1885611",
+      "title": "Prese di posizione"
+     }
+    ],
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 2924,
+    "topicList": [
+     {
+      "id": "7",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:7",
+      "title": "Info",
+      "lead": "Info",
+      "description": "i contenuti della RSI per la  categoria News",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+      "imageTitle": "Info",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180433",
+   "bannerImageTitle": "Israele, la campagna dell’odio"
+  },
+  {
+   "id": "4180298",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:4180298",
+   "title": "Papà nonostante tutto",
+   "lead": "di Marzio Pescia e Alessandro Ferraro",
+   "description": "Custodia alternata, un piano d’accudimento dei figli condiviso tra entrambi i genitori. Una soluzione nuova e ancora minoritaria che la politica federale potrebbe però decidere di privilegiare, per il bene, dicono i suoi fautori, dei genitori e dei loro bambini.\nA Falò gli esempi di chi l’ha applicata con successo, i fallimenti e le storie, anche drammatiche, di genitori che dopo divorzio o separazione sono stati tagliati fuori dalla vita dei loro figli.\n\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180373",
+   "imageTitle": "Papà nonostante tutto",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-20T21:00:00+02:00",
+   "duration": 923080,
+   "validFrom": "2026-10-21T08:25:50+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Papà nonostante tutto",
+    "lead": "di Marzio Pescia e Alessandro Ferraro",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/4180373",
+    "imageTitle": "Papà nonostante tutto",
+    "publishedDate": "2026-10-20T21:00:00+02:00",
+    "id": "4180298",
+    "description": "Custodia alternata, un piano d’accudimento dei figli condiviso tra entrambi i genitori. Una soluzione nuova e ancora minoritaria che la politica federale potrebbe però decidere di privilegiare, per il bene, dicono i suoi fautori, dei genitori e dei loro bambini.\nA Falò gli esempi di chi l’ha applicata con successo, i fallimenti e le storie, anche drammatiche, di genitori che dopo divorzio o separazione sono stati tagliati fuori dalla vita dei loro figli.\n\n"
+   },
+   "show": {
+    "id": "703565",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:703565",
+    "title": "Falò",
+    "lead": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità grazie ai servizi e agli ospiti ",
+    "description": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. A capo della testata: Valerio Selle.\nScopo principale della trasmissione: offrire una lettura critica della realtà. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità.\nL’ospite, o gli ospiti, gestiti in studio dai conduttori Michele Galfetti e Alessandra Maffioli, sono un’altra componente fondamentale della trasmissione.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "imageTitle": "Falò",
+    "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2831996",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "links": [
+     {
+      "link": "https://www.rsi.ch/s/1885611",
+      "title": "Prese di posizione"
+     }
+    ],
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 2924,
+    "topicList": [
+     {
+      "id": "7",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:7",
+      "title": "Info",
+      "lead": "Info",
+      "description": "i contenuti della RSI per la  categoria News",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+      "imageTitle": "Info",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180373",
+   "bannerImageTitle": "Papà nonostante tutto"
+  },
+  {
+   "id": "4180304",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:4180304",
+   "title": "Separati ma genitori",
+   "lead": "di Marzio Pescia e Alessandro Ferraro",
+   "description": "Dopo un divorzio o una separazione, come garantire ai figli la presenza di entrambi i genitori? La cosiddetta custodia alternata si fa strada nel dibattito politico, ma divide le opinioni, tra esperienze riuscite e vicende conflittuali.\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180442",
+   "imageTitle": "Separati ma genitori",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-20T20:50:00+02:00",
+   "duration": 1519760,
+   "validFrom": "2026-10-20T20:50:00+02:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Separati ma genitori",
+    "lead": "di Marzio Pescia e Alessandro Ferraro",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/4180442",
+    "imageTitle": "Separati ma genitori",
+    "publishedDate": "2026-10-20T20:50:00+02:00",
+    "id": "4180304",
+    "description": "Dopo un divorzio o una separazione, come garantire ai figli la presenza di entrambi i genitori? La cosiddetta custodia alternata si fa strada nel dibattito politico, ma divide le opinioni, tra esperienze riuscite e vicende conflittuali.\n"
+   },
+   "show": {
+    "id": "703565",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:show:tv:703565",
+    "title": "Falò",
+    "lead": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità grazie ai servizi e agli ospiti ",
+    "description": "L'attualità approfondita in tutte le sue sfaccettature.\nFalò è un magazine settimanale d’approfondimento che da oltre 20 anni offre un giornalismo critico, indipendente. A capo della testata: Valerio Selle.\nScopo principale della trasmissione: offrire una lettura critica della realtà. Andare dietro i fatti, dietro le notizie, descrivere gli eventi spiegandoli nella loro complessità.\nL’ospite, o gli ospiti, gestiti in studio dai conduttori Michele Galfetti e Alessandra Maffioli, sono un’altra componente fondamentale della trasmissione.\n",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "imageTitle": "Falò",
+    "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2242467",
+    "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2831996",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "timeTableUrl": "https://www.rsi.ch/palinsesto",
+    "links": [
+     {
+      "link": "https://www.rsi.ch/s/1885611",
+      "title": "Prese di posizione"
+     }
+    ],
+    "primaryChannelId": "la1",
+    "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+    "numberOfEpisodes": 2924,
+    "topicList": [
+     {
+      "id": "7",
+      "vendor": "RSI",
+      "transmission": "TV",
+      "urn": "urn:rsi:topic:tv:7",
+      "title": "Info",
+      "lead": "Info",
+      "description": "i contenuti della RSI per la  categoria News",
+      "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+      "imageTitle": "Info",
+      "imageCopyright": "RSI"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "la1",
+    "vendor": "RSI",
+    "urn": "urn:rsi:channel:tv:la1",
+    "title": "La 1",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+    "imageTitle": "La1 Logo",
+    "imageCopyright": "RSI",
+    "transmission": "TV",
+    "timeTableUrl": ""
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/4180442",
+   "bannerImageTitle": "Separati ma genitori"
+  }
+ ]
+}

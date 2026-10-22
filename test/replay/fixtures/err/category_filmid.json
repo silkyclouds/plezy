@@ -1,0 +1,292 @@
+{
+ "frontPage": [
+  {
+   "header": "",
+   "headerUrl": "",
+   "highTimeline": false,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": false,
+    "banner": true
+   },
+   "data": [
+    {
+     "id": 1610156504,
+     "heading": "Luureoperatsioon \"Mincemeat\"",
+     "lead": "<p>Tõsielusündmustel põhinev sõjadraama viib 1943. aastasse, mil liitlased plaanisid dessanti Sitsiiliasse, et Euroopat sealtkaudu Mussolini ja Hitleri haardest päästa.</p>",
+     "primaryCategoryId": 4435,
+     "type": "movie",
+     "parentContentPath": "[]",
+     "scheduleStart": 1792268700,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1610156504",
+     "fancyUrl": "luureoperatsioon-mincemeat",
+     "anotherDomainContent": true,
+     "photos": [
+      {
+       "id": 3830794,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830794h393ct2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830794h0a3et17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830794hc33bt34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830794h11b7t60.jpg"
+        }
+       }
+      }
+     ],
+     "verticalPhotos": [
+      {
+       "id": 3840739,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/12/3840739hef72t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/12/3840739h6d26t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/12/3840739h4311t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/12/3840739h5829t60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": [
+      {
+       "id": 3830797,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830797had6ct2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830797h8477t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830797h2654t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830797hf4f6t60.jpg"
+        }
+       }
+      }
+     ],
+     "mediaType": "vod"
+    }
+   ]
+  },
+  {
+   "header": "Eesti",
+   "headerUrl": "/eesti",
+   "highTimeline": true,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": true,
+    "banner": false
+   },
+   "data": [
+    {
+     "id": 1609940002,
+     "heading": "O2",
+     "primaryCategoryId": 3199,
+     "type": "movie",
+     "parentContentPath": "[]",
+     "scheduleStart": 1791655500,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1609940002",
+     "fancyUrl": "o2",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 3222710,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/02/23/3222710hf884t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/02/23/3222710h132bt17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/02/23/3222710h3fa2t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/02/23/3222710h178ft60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": [
+      {
+       "id": 3770257,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/08/17/3770257h8634t2.png"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/08/17/3770257hfcb2t17.png"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/08/17/3770257h739ft34.png"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/08/17/3770257h81fct60.png"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": 1191115,
+     "heading": "Indrek",
+     "primaryCategoryId": 4441,
+     "type": "movie",
+     "parentContentPath": "[]",
+     "scheduleStart": 1662294300,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1191115",
+     "fancyUrl": "indrek",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 3830179,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830179h5e7dt2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830179h7472t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830179h4291t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/05/3830179h109ft60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": [
+      {
+       "id": 3832711,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/07/3832711h399dt2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/07/3832711h1840t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/07/3832711h072ct34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/07/3832711h3f37t60.jpg"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "frontPage": [
+  {
+   "header": "",
+   "headerUrl": "",
+   "highTimeline": false,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": false,
+    "banner": true
+   },
+   "data": [
+    {
+     "id": 1610096426,
+     "heading": "Räpane äri",
+     "lead": "<p>Julge tõsielusündmustel põhinev draama paljastab valusa tõe Inglismaa kanalisatsioonimajanduses toimunud kriisist, mis tõi kaasa üleriigilise skandaali, paljastades vee-ettevõtete ebaseadusliku tegevuse.</p>",
+     "primaryCategoryId": 4417,
+     "type": "series",
+     "parentContentPath": "[]",
+     "scheduleStart": 0,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1610096426",
+     "fancyUrl": "rapane-ari",
+     "anotherDomainContent": true,
+     "photos": [
+      {
+       "id": 3841855,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841855hb37et2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841855he301t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841855h10b2t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841855h8908t60.jpg"
+        }
+       }
+      }
+     ],
+     "verticalPhotos": [
+      {
+       "id": 3849391,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/19/3849391h4d80t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/19/3849391h8d9dt17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/19/3849391h0427t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/19/3849391h3fcbt60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": [
+      {
+       "id": 3841858,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841858ha472t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841858hdf66t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841858h006ft34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/13/3841858h73fet60.jpg"
+        }
+       }
+      }
+     ],
+     "mediaType": "vod"
+    }
+   ]
+  },
+  {
+   "header": "Enim vaadatud",
+   "headerUrl": "",
+   "highTimeline": true,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": true,
+    "banner": false
+   },
+   "data": [
+    {
+     "id": 1038278,
+     "heading": "Aktuaalne kaamera",
+     "primaryCategoryId": 4135,
+     "type": "series",
+     "parentContentPath": "[]",
+     "scheduleStart": 0,
+     "subHeading": "Aktuaalne kaamera",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1038278",
+     "fancyUrl": "aktuaalne-kaamera",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 3789334,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/08/31/3789334h5916t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/08/31/3789334h0e1bt17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/08/31/3789334h1a1bt34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/08/31/3789334h2525t60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": []
+    },
+    {
+     "id": 1610094860,
+     "heading": "La Promesa",
+     "primaryCategoryId": 4417,
+     "type": "episode",
+     "parentContentPath": "[1609403068]",
+     "scheduleStart": 1792420200,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 1609403068,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1610094860",
+     "fancyUrl": "la-promesa",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 3599527,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/05/29/3599527h0709t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/05/29/3599527h7e59t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/05/29/3599527hb4fct34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/05/29/3599527ha2cet60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": []
+    }
+   ]
+  },
+  {
+   "header": "Päevakajaline",
+   "headerUrl": "",
+   "highTimeline": false,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": false,
+    "banner": false
+   },
+   "data": [
+    {
+     "id": 1610161037,
+     "heading": "Esimene stuudio",
+     "primaryCategoryId": 4135,
+     "type": "episode",
+     "parentContentPath": "[1038319]",
+     "scheduleStart": 1792521600,
+     "subHeading": "Taavet Hinrikus: pole ühtki valdkonda, kuhu tehisaru ei tungiks",
+     "hasActiveMedia": true,
+     "rootContentId": 1038319,
+     "useSubheading": true,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1610161037",
+     "fancyUrl": "esimene-stuudio",
+     "anotherDomainContent": true,
+     "photos": [
+      {
+       "id": 3662014,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/06/16/3662014h5524t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/06/16/3662014h002dt17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/06/16/3662014hd274t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/06/16/3662014ha87at60.jpg"
+        }
+       }
+      }
+     ],
+     "verticalPhotos": [],
+     "squarePhotos": []
+    },
+    {
+     "id": 1610171461,
+     "heading": "Prantsusmaal on nädalaid kestnud elukalliduse tõusust ajendatud protestid",
+     "primaryCategoryId": 4135,
+     "type": "clip",
+     "parentContentPath": "[1038506,1610160941]",
+     "scheduleStart": 0,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 1038506,
+     "useSubheading": true,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1610171461",
+     "fancyUrl": "prantsusmaal-on-nadalaid-kestnud-elukalliduse-tousust-ajendatud-protestid",
+     "anotherDomainContent": true,
+     "photos": [
+      {
+       "id": 3851026,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/20/3851026hf591t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/20/3851026h7012t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/20/3851026h402ct34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/20/3851026h1a16t60.jpg"
+        }
+       }
+      }
+     ],
+     "verticalPhotos": [],
+     "squarePhotos": []
+    }
+   ]
+  },
+  {
+   "header": "Mati Põldre 90",
+   "headerUrl": "",
+   "highTimeline": true,
+   "liveBlock": false,
+   "manual": {
+    "highTimeline": true,
+    "banner": false
+   },
+   "data": [
+    {
+     "id": 1608275568,
+     "heading": "Tähelaev",
+     "primaryCategoryId": 4135,
+     "type": "episode",
+     "parentContentPath": "[1234606]",
+     "scheduleStart": 1792949400,
+     "subHeading": "Mati Põldre",
+     "hasActiveMedia": true,
+     "rootContentId": 1234606,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1608275568",
+     "fancyUrl": "tahelaev",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 3852184,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2026/10/21/3852184h5e8at2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2026/10/21/3852184h0088t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2026/10/21/3852184h4af2t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2026/10/21/3852184he02bt60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": []
+    },
+    {
+     "id": 1609334438,
+     "heading": "Perpetuum mobile",
+     "primaryCategoryId": 2864,
+     "type": "movie",
+     "parentContentPath": "[]",
+     "scheduleStart": 1792743600,
+     "subHeading": "",
+     "hasActiveMedia": true,
+     "rootContentId": 0,
+     "rootCategoryId": 3905,
+     "canonicalUrl": "https://jupiter.err.ee/1609334438",
+     "fancyUrl": "perpetuum-mobile",
+     "anotherDomainContent": true,
+     "verticalPhotos": [
+      {
+       "id": 2393202,
+       "photoTypes": {
+        "2": {
+         "type": 2,
+         "w": 1920,
+         "h": 1080,
+         "url": "https://s.err.ee/photo/crop/2024/05/13/2393202h8611t2.jpg"
+        },
+        "17": {
+         "type": 17,
+         "w": 600,
+         "h": 338,
+         "url": "https://s.err.ee/photo/crop/2024/05/13/2393202h8215t17.jpg"
+        },
+        "34": {
+         "type": 34,
+         "w": 324,
+         "h": 182,
+         "url": "https://s.err.ee/photo/crop/2024/05/13/2393202hae58t34.jpg"
+        },
+        "60": {
+         "type": 60,
+         "w": 180,
+         "h": 270,
+         "url": "https://s.err.ee/photo/crop/2024/05/13/2393202hb113t60.jpg"
+        }
+       }
+      }
+     ],
+     "squarePhotos": []
+    }
+   ]
+  }
+ ]
+}

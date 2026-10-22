@@ -1,0 +1,416 @@
+{
+ "mediaList": [
+  {
+   "id": "331e14a8-19e9-4f2d-bf9c-e6d31ca8ce10",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:331e14a8-19e9-4f2d-bf9c-e6d31ca8ce10",
+   "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 1)",
+   "lead": "Der Westen will die russische Elite durch Sanktionen spalten. Sie soll Präsident Putin vom Kriegskurs abbringen. Dieser Plan geht bisher nicht auf. Reporter Christof Franzen trifft Menschen, die sich den neuen Lebensumständen anpassen. Politischen Widerstand leisten sie nicht.",
+   "description": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "mediaDescription": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/59d995d0-d1ef-492b-8b89-5011bcba3f76.jpeg",
+   "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 1)",
+   "imageCopyright": "SRG SSR",
+   "imageFocalPoint": {
+    "percentageX": 59,
+    "percentageY": 16
+   },
+   "type": "EPISODE",
+   "date": "2026-09-09T21:05:00+02:00",
+   "duration": 2021160,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260908_144231_18926100_v_webcast_h264_q50.mp4?d=ap&assetId=331e14a8-19e9-4f2d-bf9c-e6d31ca8ce10",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260908_144231_18926100_v_webcast_h264_q50.mp4?d=ap&assetId=331e14a8-19e9-4f2d-bf9c-e6d31ca8ce10",
+   "validFrom": "2026-09-09T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 1)",
+    "lead": "Der Westen will die russische Elite durch Sanktionen spalten. Sie soll Präsident Putin vom Kriegskurs abbringen. Dieser Plan geht bisher nicht auf. Reporter Christof Franzen trifft Menschen, die sich den neuen Lebensumständen anpassen. Politischen Widerstand leisten sie nicht.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-9025732363565647602",
+    "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 1)",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-09-09T21:05:00+02:00",
+    "id": "0eebe2a2-9e81-449d-a273-10d6d46c11b6",
+    "description": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität."
+   },
+   "show": {
+    "id": "18477e06-560d-4305-85f0-fd397d43ad1c",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:18477e06-560d-4305-85f0-fd397d43ad1c",
+    "title": "Reporter",
+    "lead": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert.",
+    "description": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert. Nah dran. Mit offenem und wachem Blick.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "imageTitle": "Reporter",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/99286a54eed64f0287a72c1ee5547860.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/dok",
+      "title": "Mehr zu DOK"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 964,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-9025732363565647602",
+   "bannerImageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 1)",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "15b0fa53-9333-4af4-9a65-0752119af865",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:15b0fa53-9333-4af4-9a65-0752119af865",
+   "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 2)",
+   "lead": "Der russische Präsident Wladimir Putin hält an seinen Kriegszielen in der Ukraine fest. Und seine Politik wird immer autoritärer. «Reporter» reist in die russische Stadt Nischni Nowgorod. Einst eine Hochburg liberaler Reformen. Wie leben Menschen, die immer noch an ein europäisches Russland glauben?",
+   "description": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "mediaDescription": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/23cf3eb3-9f18-4ce8-a6f6-92ec18563a7f.jpeg",
+   "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 2)",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-09-16T21:05:00+02:00",
+   "duration": 2013000,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260915_091111_19120331_v_webcast_h264_q50.mp4?d=ap&assetId=15b0fa53-9333-4af4-9a65-0752119af865",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260915_091111_19120331_v_webcast_h264_q50.mp4?d=ap&assetId=15b0fa53-9333-4af4-9a65-0752119af865",
+   "validFrom": "2026-09-09T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 2)",
+    "lead": "Der russische Präsident Wladimir Putin hält an seinen Kriegszielen in der Ukraine fest. Und seine Politik wird immer autoritärer. «Reporter» reist in die russische Stadt Nischni Nowgorod. Einst eine Hochburg liberaler Reformen. Wie leben Menschen, die immer noch an ein europäisches Russland glauben?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-7984347314165403276",
+    "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 2)",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-09-16T21:05:00+02:00",
+    "id": "7a8901ca-a54a-46e8-983a-df56fd39f600",
+    "description": "Wie geht es weiter mit Russland? Diese Frage umtreibt die Welt. Die Antwort darauf: schwierig. Zuviel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität."
+   },
+   "show": {
+    "id": "18477e06-560d-4305-85f0-fd397d43ad1c",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:18477e06-560d-4305-85f0-fd397d43ad1c",
+    "title": "Reporter",
+    "lead": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert.",
+    "description": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert. Nah dran. Mit offenem und wachem Blick.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "imageTitle": "Reporter",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/99286a54eed64f0287a72c1ee5547860.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/dok",
+      "title": "Mehr zu DOK"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 964,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-7984347314165403276",
+   "bannerImageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 2)",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "a4f50662-7e84-4585-819a-dd68cb4787de",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:a4f50662-7e84-4585-819a-dd68cb4787de",
+   "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 3)",
+   "lead": "Der Graben zwischen Europa und Russland wird immer tiefer. In vielen Bereichen springt China für die Russen als Partner ein. Reporter Christof Franzen reist in den Fernen Osten Russlands und geht dort dem wachsenden Einfluss nach.",
+   "description": "Wie geht es weiter mit Russland? Diese Frage beschäftigt die Welt. Die Antwort darauf: schwierig. Zu viel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "mediaDescription": "Wie geht es weiter mit Russland? Diese Frage beschäftigt die Welt. Die Antwort darauf: schwierig. Zu viel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität.",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/111c0a64-6457-47c0-bb67-0fe9b09c5b82.jpeg",
+   "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 3)",
+   "imageCopyright": "SRG SSR",
+   "imageFocalPoint": {
+    "percentageX": 62,
+    "percentageY": 28
+   },
+   "type": "EPISODE",
+   "date": "2026-09-23T21:05:00+02:00",
+   "duration": 2033079,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260915_092253_19120373_v_webcast_h264_q50.mp4?d=ap&assetId=a4f50662-7e84-4585-819a-dd68cb4787de",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/reporter/2026/09/reporter_20260915_092253_19120373_v_webcast_h264_q50.mp4?d=ap&assetId=a4f50662-7e84-4585-819a-dd68cb4787de",
+   "validFrom": "2026-09-09T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Russlands Zukunft – Leben in der Ungewissheit (Teil 3)",
+    "lead": "Der Graben zwischen Europa und Russland wird immer tiefer. In vielen Bereichen springt China für die Russen als Partner ein. Reporter Christof Franzen reist in den Fernen Osten Russlands und geht dort dem wachsenden Einfluss nach.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-14403141353441379740",
+    "imageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 3)",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-09-23T21:05:00+02:00",
+    "id": "65aaa0d8-f20f-48a0-8ae8-bbf6674a60e3",
+    "description": "Wie geht es weiter mit Russland? Diese Frage beschäftigt die Welt. Die Antwort darauf: schwierig. Zu viel hängt von den schwer vorhersehbaren Entscheidungen des Präsidenten Wladimir Putin ab. Reporter Christof Franzen ist in verschiedene Regionen Russlands gereist. Und hat Menschen gefragt, wie sie sich die Zukunft vorstellen. Die Bandbreite der Emotionen ist gross. Während die einen den imperialen Kurs des Präsidenten feiern, packen andere im Stillen ihre Koffer. Und die Mehrheit? Sie arrangiert sich mit einer immer düstereren Realität."
+   },
+   "show": {
+    "id": "18477e06-560d-4305-85f0-fd397d43ad1c",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:18477e06-560d-4305-85f0-fd397d43ad1c",
+    "title": "Reporter",
+    "lead": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert.",
+    "description": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert. Nah dran. Mit offenem und wachem Blick.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "imageTitle": "Reporter",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/99286a54eed64f0287a72c1ee5547860.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/dok",
+      "title": "Mehr zu DOK"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 964,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    },
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": true,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/09/imported-image-14403141353441379740",
+   "bannerImageTitle": "Russlands Zukunft – Leben in der Ungewissheit (Teil 3)",
+   "bannerImageCopyright": "SRG SSR"
+  }
+ ],
+ "show": {
+  "id": "18477e06-560d-4305-85f0-fd397d43ad1c",
+  "vendor": "SRF",
+  "transmission": "TV",
+  "urn": "urn:srf:show:tv:18477e06-560d-4305-85f0-fd397d43ad1c",
+  "title": "Reporter",
+  "lead": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert.",
+  "description": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert. Nah dran. Mit offenem und wachem Blick.",
+  "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+  "imageTitle": "Reporter",
+  "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+  "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/99286a54eed64f0287a72c1ee5547860.jpg",
+  "posterImageIsFallbackUrl": false,
+  "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+  "podcastImageIsFallbackUrl": true,
+  "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+  "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+  "links": [
+   {
+    "link": "https://www.srf.ch/sendungen/dok",
+    "title": "Mehr zu DOK"
+   }
+  ],
+  "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "numberOfEpisodes": 964,
+  "topicList": [
+   {
+    "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+    "title": "Dokus & Reportagen",
+    "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+    "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+    "imageTitle": "Dokus & Reportagen"
+   }
+  ],
+  "allowIndexing": true
+ }
+}

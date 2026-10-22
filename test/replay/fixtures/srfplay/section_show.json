@@ -1,0 +1,226 @@
+{
+ "showList": [
+  {
+   "id": "c66487b3-0990-0001-d92c-55501cb0144d",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:c66487b3-0990-0001-d92c-55501cb0144d",
+   "title": "DOK – Hoch hinaus",
+   "lead": "Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen.",
+   "description": "«Hoch hinaus» begleitet Menschen, die etwas wagen und für die das Abenteuer und die Berge im Vordergrund stehen. Ob in der Schweiz oder auf der ganzen Welt.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+   "imageTitle": "DOK – Hoch hinaus",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/e8417959f2a744e8aeba8dc49b9abcab.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2022/07/317dc807c1104b87bb4156afa9e36f0a.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/c66487b3-0990-0001-d92c-55501cb0144d.xml",
+   "primaryChannelId": "e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+   "primaryChannelUrn": "urn:srf:channel:tv:e4d5ad08-c1e8-46a3-bb58-4875051d60d2",
+   "numberOfEpisodes": 59,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+   "title": "DOK",
+   "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+   "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+   "imageTitle": "DOK",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 1158,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "187d27f8-1cb8-4afa-8b88-1524c6bef530",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:187d27f8-1cb8-4afa-8b88-1524c6bef530",
+   "title": "rec.",
+   "lead": "Die Reporter:innen berichten über Themen, die sie selbst bewegen – echt, ungeschönt und im Moment.",
+   "description": "«rec.» steht für «record». Die Reporter:innen berichten über Themen, die sie selbst und die Community bewegen. Sie gehen dorthin, wo es etwas zu entdecken oder aufzudecken gibt, und zeigen die Welt so, wie sie sie auffinden: echt, ohne Filter, aufgenommen im Moment. «rec.» liefert Gesprächsstoff, die Themen sind kontrovers und wecken Emotionen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/07/515f35f7f5b94261a6b36e0d59bf9df8.jpg",
+   "imageTitle": "rec.",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2021/07/515f35f7f5b94261a6b36e0d59bf9df8.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2021/07/411ece76ddf54e71a32d350da05f2d55.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/187d27f8-1cb8-4afa-8b88-1524c6bef530.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/187d27f8-1cb8-4afa-8b88-1524c6bef530.xml",
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 324,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "18477e06-560d-4305-85f0-fd397d43ad1c",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:18477e06-560d-4305-85f0-fd397d43ad1c",
+   "title": "Reporter",
+   "lead": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert.",
+   "description": "Reporter erzählt, was Menschen in der Schweiz bewegt – und was unsere Gesellschaft verändert. Nah dran. Mit offenem und wachem Blick.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+   "imageTitle": "Reporter",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/faa57aa11b3648369d22bcd2a75ba2da.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/99286a54eed64f0287a72c1ee5547860.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/18477e06-560d-4305-85f0-fd397d43ad1c.xml",
+   "links": [
+    {
+     "link": "https://www.srf.ch/sendungen/dok",
+     "title": "Mehr zu DOK"
+    }
+   ],
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 964,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "1347ecb5-7ec5-424d-a9eb-fbba814976f0",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:1347ecb5-7ec5-424d-a9eb-fbba814976f0",
+   "title": "SRF bi de Lüt – Hüttengeschichten",
+   "lead": "Die Serie verbringt eine Saison lang auf drei SAC-Hütten.",
+   "description": "«SRF bi de Lüt – Hüttengeschichten» verbringt eine Saison lang, von Frühling bis Herbst, auf drei SAC-Hütten und taucht ein in das arbeitsintensive Alltagsleben der Hüttenwarte und ihrer Familien.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2024/02/40414c1d144e4fd393760ad1463c873d.jfif",
+   "imageTitle": "SRF bi de Lüt – Hüttengeschichten",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2024/02/40414c1d144e4fd393760ad1463c873d.jfif",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2024/02/f07373f657344651b6887a9a67126ba7.jfif",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/1347ecb5-7ec5-424d-a9eb-fbba814976f0.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/1347ecb5-7ec5-424d-a9eb-fbba814976f0.xml",
+   "links": [
+    {
+     "link": "https://www.srf.ch/sendungen/srf-bi-de-luet/mehr-zur-sendung",
+     "title": "SRF bi de Lüt"
+    }
+   ],
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 102,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  },
+  {
+   "id": "c4cc1736-da30-4563-ab01-42a3b07231d1",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:show:tv:c4cc1736-da30-4563-ab01-42a3b07231d1",
+   "title": "Mona mittendrin",
+   "lead": "Auf nichts vorbereitet, aber auf alles gefasst: Mona Vetsch wird ins kalte Wasser geworfen.",
+   "description": "Auf nichts vorbereitet, aber auf alles gefasst: Mona Vetsch wird ins kalte Wasser geworfen. Und kommt dabei immer wieder mal an den Anschlag.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2020/08/20f037fd7b934a1da870bd0e941f358f.jpg",
+   "imageTitle": "Mona mittendrin",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2020/08/20f037fd7b934a1da870bd0e941f358f.jpg",
+   "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/08/0b1a8ef964a54c4e9167aae2139bca50.jpg",
+   "posterImageIsFallbackUrl": false,
+   "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+   "podcastImageIsFallbackUrl": true,
+   "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/c4cc1736-da30-4563-ab01-42a3b07231d1.xml",
+   "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/c4cc1736-da30-4563-ab01-42a3b07231d1.xml",
+   "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+   "numberOfEpisodes": 80,
+   "topicList": [
+    {
+     "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "vendor": "SRF",
+     "transmission": "TV",
+     "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+     "title": "Dokus & Reportagen",
+     "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+     "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+     "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+     "imageTitle": "Dokus & Reportagen"
+    }
+   ],
+   "allowIndexing": true
+  }
+ ]
+}

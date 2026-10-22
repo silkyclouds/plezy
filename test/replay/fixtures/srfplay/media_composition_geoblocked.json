@@ -1,0 +1,118 @@
+{
+ "chapterUrn": "urn:srf:video:f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+ "episode": {
+  "title": "Gletscher – Wettlauf gegen die Zeit",
+  "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+  "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+  "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+  "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+  "publishedDate": "2026-10-22T20:10:00+02:00",
+  "id": "d3f19eed-ea22-4c58-ba0d-4ae0053b3a30",
+  "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt"
+ },
+ "show": {
+  "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+  "vendor": "SRF",
+  "transmission": "TV",
+  "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+  "title": "DOK",
+  "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+  "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+  "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+  "imageTitle": "DOK",
+  "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+  "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+  "posterImageIsFallbackUrl": false,
+  "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+  "podcastImageIsFallbackUrl": true,
+  "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+  "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+  "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "numberOfEpisodes": 1158,
+  "topicList": [
+   {
+    "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+    "title": "Dokus & Reportagen",
+    "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+    "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+    "imageTitle": "Dokus & Reportagen"
+   }
+  ],
+  "allowIndexing": true
+ },
+ "channel": {
+  "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "vendor": "SRF",
+  "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+  "title": "SRF 1",
+  "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+  "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+  "imageTitle": "SRF 1",
+  "transmission": "TV"
+ },
+ "chapterList": [
+  {
+   "id": "f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "title": "Gletscher – Wettlauf gegen die Zeit",
+   "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+   "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt",
+   "mediaDescription": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+   "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-22T20:10:00+02:00",
+   "duration": 5314160,
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "validTo": "2027-01-20T23:59:00+01:00",
+   "playableAbroad": false,
+   "displayable": true,
+   "position": -1,
+   "noEmbed": false,
+   "subtitleList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH",
+     "url": "https://subtitles.eai-general.aws.srf.ch/srf/d3f19eed-ea22-4c58-ba0d-4ae0053b3a30/episode/de/vod/vod.vtt",
+     "format": "VTT"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH",
+     "url": "https://subtitles.eai-general.aws.srf.ch/srf/d3f19eed-ea22-4c58-ba0d-4ae0053b3a30/episode/de/hbbtv/hbbtv.xml",
+     "format": "TTML"
+    }
+   ],
+   "aspectRatio": "16:9",
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+   "bannerImageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "bannerImageCopyright": "SRG SSR/GEDEON programmes 2025"
+  }
+ ],
+ "topicList": [
+  {
+   "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+   "title": "Dokus & Reportagen",
+   "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+   "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+   "imageTitle": "Dokus & Reportagen"
+  }
+ ]
+}

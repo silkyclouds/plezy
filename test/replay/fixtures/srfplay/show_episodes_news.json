@@ -1,0 +1,302 @@
+{
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/srf/mediaList/video/latest/byShow/ff969c14-c5a7-44ab-ab72-14d4c9e427a9?pageSize=5&next=1",
+ "mediaList": [
+  {
+   "id": "3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "title": "Tagesschau vom 21.10.2026: Hauptausgabe",
+   "lead": "SVP-Nationalrat Rémy Wyssmann kandidiert für den Bundesrat, Schnellverfahren nach Krawallen in Frankreich, Eisenkot fordert Netanjahu bei den israelischen Parlamentswahlen heraus, Alice Schwarzer stellt feministisches Magazin «Emma» ein",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+   "imageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe",
+   "type": "EPISODE",
+   "date": "2026-10-21T19:30:00+02:00",
+   "duration": 1429560,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261021_193000_19956550_v_webcast_h264_q60.mp4?d=ap&assetId=3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261021_193000_19956550_v_webcast_h264_q60.mp4?d=ap&assetId=3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "validFrom": "2026-10-21T19:30:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Tagesschau vom 21.10.2026: Hauptausgabe",
+    "lead": "SVP-Nationalrat Rémy Wyssmann kandidiert für den Bundesrat, Schnellverfahren nach Krawallen in Frankreich, Eisenkot fordert Netanjahu bei den israelischen Parlamentswahlen heraus, Alice Schwarzer stellt feministisches Magazin «Emma» ein",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+    "imageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe",
+    "publishedDate": "2026-10-21T19:30:00+02:00",
+    "id": "83fa71cd-2819-4347-bfd1-8e7372223330"
+   },
+   "show": {
+    "id": "ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "title": "Tagesschau",
+    "lead": "Nationale und internationale Nachrichten vom Tag.",
+    "description": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "imageTitle": "Tagesschau",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/04/96e8a418e34a466c861ef6cefd19defd.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/play/tv/sendung/tagesschau-spezial?id=c4b213cd-9790-0001-3063-e4001037ebe0",
+      "title": "Tagesschau Spezial"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 20460,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+   "bannerImageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe"
+  },
+  {
+   "id": "deed17ca-4570-4d4f-8c24-6969fa3a372c",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:deed17ca-4570-4d4f-8c24-6969fa3a372c",
+   "title": "Tagesschau vom 20.10.2026: Hauptausgabe",
+   "lead": "Trump verschärft verbale Angriffe auf Selenski, EU stellt ihre neue Arktisstrategie vor, Schweizer Skigebiete werden immer teurer, Kinofilm «Frank and Louis» von Petra Volpe",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/deed17ca-4570-4d4f-8c24-6969fa3a372c-125s2ms.png",
+   "imageTitle": "Tagesschau vom 20.10.2026: Hauptausgabe",
+   "type": "EPISODE",
+   "date": "2026-10-20T19:30:00+02:00",
+   "duration": 1496800,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261020_193000_19940872_v_webcast_h264_q60.mp4?d=ap&assetId=deed17ca-4570-4d4f-8c24-6969fa3a372c",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261020_193000_19940872_v_webcast_h264_q60.mp4?d=ap&assetId=deed17ca-4570-4d4f-8c24-6969fa3a372c",
+   "validFrom": "2026-10-20T19:30:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Tagesschau vom 20.10.2026: Hauptausgabe",
+    "lead": "Trump verschärft verbale Angriffe auf Selenski, EU stellt ihre neue Arktisstrategie vor, Schweizer Skigebiete werden immer teurer, Kinofilm «Frank and Louis» von Petra Volpe",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/deed17ca-4570-4d4f-8c24-6969fa3a372c-125s2ms.png",
+    "imageTitle": "Tagesschau vom 20.10.2026: Hauptausgabe",
+    "publishedDate": "2026-10-20T19:30:00+02:00",
+    "id": "6e6f0faf-63ad-446c-85f6-c60687ef400e"
+   },
+   "show": {
+    "id": "ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "title": "Tagesschau",
+    "lead": "Nationale und internationale Nachrichten vom Tag.",
+    "description": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "imageTitle": "Tagesschau",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/04/96e8a418e34a466c861ef6cefd19defd.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/play/tv/sendung/tagesschau-spezial?id=c4b213cd-9790-0001-3063-e4001037ebe0",
+      "title": "Tagesschau Spezial"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 20460,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/deed17ca-4570-4d4f-8c24-6969fa3a372c-125s2ms.png",
+   "bannerImageTitle": "Tagesschau vom 20.10.2026: Hauptausgabe"
+  },
+  {
+   "id": "bf030dd2-16ed-4142-b9ca-7a61893a1cab",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:bf030dd2-16ed-4142-b9ca-7a61893a1cab",
+   "title": "Tagesschau vom 19.10.2026: Hauptausgabe",
+   "lead": "Zürcher SVP-Regierungsrätin Nathalie Rickli verzichtet auf Bundesratskandidatur, Frankreich verhängt lokale Ausgangssperren nach schweren Ausschreitungen, Lindt & Sprüngli trennt sich von Konzernchef, Gletscherschmelze gibt Kristalle frei",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/bf030dd2-16ed-4142-b9ca-7a61893a1cab-21s98ms.png",
+   "imageTitle": "Tagesschau vom 19.10.2026: Hauptausgabe",
+   "type": "EPISODE",
+   "date": "2026-10-19T19:30:00+02:00",
+   "duration": 1501200,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261019_202822_19923356_v_podcast_h264_q30.mp4?d=ap&assetId=bf030dd2-16ed-4142-b9ca-7a61893a1cab",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261019_202822_19923356_v_podcast_h264_q30.mp4?d=ap&assetId=bf030dd2-16ed-4142-b9ca-7a61893a1cab",
+   "validFrom": "2026-10-19T19:30:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Tagesschau vom 19.10.2026: Hauptausgabe",
+    "lead": "Zürcher SVP-Regierungsrätin Nathalie Rickli verzichtet auf Bundesratskandidatur, Frankreich verhängt lokale Ausgangssperren nach schweren Ausschreitungen, Lindt & Sprüngli trennt sich von Konzernchef, Gletscherschmelze gibt Kristalle frei",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/bf030dd2-16ed-4142-b9ca-7a61893a1cab-21s98ms.png",
+    "imageTitle": "Tagesschau vom 19.10.2026: Hauptausgabe",
+    "publishedDate": "2026-10-19T19:30:00+02:00",
+    "id": "15870537-9649-4107-9a91-acc44cbf7e72"
+   },
+   "show": {
+    "id": "ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "title": "Tagesschau",
+    "lead": "Nationale und internationale Nachrichten vom Tag.",
+    "description": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "imageTitle": "Tagesschau",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/04/96e8a418e34a466c861ef6cefd19defd.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/play/tv/sendung/tagesschau-spezial?id=c4b213cd-9790-0001-3063-e4001037ebe0",
+      "title": "Tagesschau Spezial"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 20460,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/bf030dd2-16ed-4142-b9ca-7a61893a1cab-21s98ms.png",
+   "bannerImageTitle": "Tagesschau vom 19.10.2026: Hauptausgabe"
+  }
+ ]
+}

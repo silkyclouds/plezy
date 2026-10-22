@@ -1,0 +1,262 @@
+{
+ "mainContent": {
+  "id": 1609804523,
+  "updated": 1759494000,
+  "scheduleStart": 1759863600,
+  "heading": "Kõik on hästi",
+  "subHeading": "",
+  "lead": "<p>Tunnustatud filmiloojad Petra ja Peter Lataster elavad kaasa Ukraina emadele ning lastele, kellel on tore elu Hollandis, kuid kes päevast päeva igatsevad tagasi isade ning poegade juurde kodumaale.</p>",
+  "body": "",
+  "primaryCategoryId": 4437,
+  "iframeMediaUrl": "",
+  "parentContentId": 0,
+  "parentContentPath": "[]",
+  "seriesType": 0,
+  "type": "movie",
+  "txReqId": 1,
+  "color": "#000000",
+  "season": 0,
+  "episode": 0,
+  "country": "Holland",
+  "originalTitle": "All Is Well",
+  "year": "2024",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/1609804523/koik-on-hasti",
+  "radiomanId": 0,
+  "lastChangedBy": 76492,
+  "commenting": 2,
+  "progId": 11227106770,
+  "photos": [
+   {
+    "id": 3041316,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h566et1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316hdb79t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h84c8t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h3a5ct8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [],
+  "verticalPhotos": [
+   {
+    "id": 3041214,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041214h1af0t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041214h89cat2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041214hf85ct6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041214h266ft8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [
+   {
+    "id": 3041316,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h566et1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316hdb79t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h84c8t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/10/06/3041316h3a5ct8.jpg"
+     }
+    }
+   }
+  ],
+  "heroImage": [],
+  "squarePhotos": [],
+  "rootContentId": 0,
+  "statsHeading": "Kõik on hästi",
+  "statsSeriesTitle": "",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/1609804523",
+  "fancyUrl": "koik-on-hasti",
+  "anotherDomainContent": true,
+  "created": 1758190800,
+  "publicStart": 1758190800,
+  "clips": [],
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1609804523/koik-on-hasti",
+  "relatedRadiomanIds": [],
+  "medias": [
+   {
+    "id": 2369253,
+    "ord": 0,
+    "type": "video",
+    "headingEt": "\"Kõik on hästi\" - režissöörid Petra ja Peter Lataster",
+    "headingRu": "",
+    "headingEn": "",
+    "podcastUrl": "",
+    "bodyEt": "",
+    "bodyEn": "",
+    "bodyRu": "",
+    "embedDisabled": 1,
+    "publicEnd": 0,
+    "mediaRadiomanId": 0,
+    "photoId": 3041118,
+    "ld": 0,
+    "sd": 1,
+    "hd": 1,
+    "fhd": 1,
+    "4k": 0,
+    "folder": "gb",
+    "mediaHash": "331d26afba5fbebcfca501670205a843",
+    "skd": "",
+    "jwt": "",
+    "file": "2025-029169-0001_0001_XHD_ALL-IS-WELL_ERR.mp4",
+    "version": 2,
+    "filename": "2025-029169-0001_0001_XHD_ALL-IS-WELL_ERR_2.mp4",
+    "cacheIndex": 0,
+    "versionId": 11228533406,
+    "isPg": false,
+    "mediaInfo": {
+     "aspectRatio": "16:9",
+     "duration": "4842"
+    },
+    "src": {
+     "id": 2369253,
+     "ratio": "16:9",
+     "hls2": "//vod.err.ee/hls/gb/331d26afba5fbebcfca501670205a843/3/v/master.m3u8",
+     "hls": "//vod.err.ee/hls/gb/331d26afba5fbebcfca501670205a843/3/v/master.m3u8",
+     "file": "//vod.err.ee/file/gb/331d26afba5fbebcfca501670205a843.mp4",
+     "hlsNew": "//vod.err.ee/hls/gb/331d26afba5fbebcfca501670205a843/3/v/master.m3u8",
+     "dashNew": "//vod.err.ee/dash/gb/331d26afba5fbebcfca501670205a843/3/v/manifest.mpd",
+     "dash": "//vod.err.ee/dash/gb/331d26afba5fbebcfca501670205a843/3/v/manifest.mpd",
+     "hlsNoSub": "//vod.err.ee/hls/gb/331d26afba5fbebcfca501670205a843/3/v/nosub/master.m3u8",
+     "dashNoSub": "//vod.err.ee/dash/gb/331d26afba5fbebcfca501670205a843/3/v/nosub/manifest.mpd"
+    },
+    "mediaId": "331d26afba5fbebcfca501670205a843",
+    "periods": [
+     {
+      "publicStart": 1759698000,
+      "publicEnd": 1853874000,
+      "vodReqId": 11241379057
+     },
+     {
+      "publicStart": 1759738152,
+      "publicEnd": 1760256553,
+      "vodReqId": 0
+     },
+     {
+      "publicStart": 1759869072,
+      "publicEnd": 1765056672,
+      "vodReqId": 11244953438
+     }
+    ],
+    "catchupDays": 709,
+    "restrictions": {
+     "drm": false,
+     "geoBlock": true
+    },
+    "subtitles": [
+     {
+      "id": 0,
+      "subId": 397023,
+      "name": "eesti",
+      "srclang": "ET",
+      "version": 1,
+      "exported": 1,
+      "src": "https://services.err.ee/subtitles/file/397023/397023_ET.vtt",
+      "filename": "397023_ET.vtt"
+     }
+    ],
+    "photos": [
+     {
+      "id": 3041118,
+      "photoTypes": {
+       "1": {
+        "type": 1,
+        "w": 120,
+        "h": 80,
+        "url": "https://s.err.ee/photo/crop/2025/10/06/3041118hecdbt1.png"
+       },
+       "2": {
+        "type": 2,
+        "w": 1920,
+        "h": 1080,
+        "url": "https://s.err.ee/photo/crop/2025/10/06/3041118hf6e8t2.png"
+       },
+       "6": {
+        "type": 6,
+        "w": 800,
+        "h": 500,
+        "url": "https://s.err.ee/photo/crop/2025/10/06/3041118h3e7bt6.png"
+       },
+       "8": {
+        "type": 8,
+        "w": 400,
+        "h": 250,
+        "url": "https://s.err.ee/photo/crop/2025/10/06/3041118hb7eet8.png"
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "galleries": [],
+  "polls": [],
+  "bodyMedias": [],
+  "bodyTrustedHtmls": [],
+  "bodyPhotos": [],
+  "bodyGalleries": []
+ }
+}

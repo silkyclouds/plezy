@@ -1,0 +1,168 @@
+{
+ "id": "85dd8f46-7fd8-4fcb-be22-f824d6b59bee",
+ "isPublished": true,
+ "vendor": "RSI",
+ "title": "Info",
+ "topicUrn": "urn:rsi:topic:tv:7",
+ "sectionList": [
+  {
+   "id": "1cdccc9e-d928-425f-8b17-c053a60dd90e",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "La nostra proposta"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "8af77879-82a3-4e63-a54e-f49d178aa63c",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "I video più recenti",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "6b6c5100-8fa7-484a-bb9c-c11a03d29e52",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Ti potrebbero interessare",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "76c7fb19-04b0-43c6-a6a3-01fdbfb34522",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "MediaElement",
+    "properties": {
+     "title": "Da rivedere",
+     "pickRandomElement": true
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "779905fa-21b5-4a92-85f2-170d9b5e0b6f",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Inchieste"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "b37c831e-13fe-43ca-8fd4-d70a8cf7ec11",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Ticino, Grigioni e Insubria",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "ff0a9298-ae7f-4849-8b14-09000214c1f0",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Svizzera",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "3758bcee-2a0e-4bb0-ab23-74c39ce0957e",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Mondo",
+     "hasDetailPage": true,
+     "link": {
+      "targetType": "DETAIL_PAGE"
+     }
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "fb5ba11d-1c60-4f58-9962-320bba3c8a7e",
+   "isPublished": true,
+   "vendor": "RSI",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Svizzerando",
+     "description": "Uno sguardo dietro le quinte della Confederazione"
+    }
+   },
+   "isGlobal": false
+  }
+ ],
+ "nextSectionChange": "2026-10-23T01:59:59+02:00",
+ "type": "TOPIC_PAGE"
+}

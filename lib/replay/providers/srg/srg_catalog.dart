@@ -1,20 +1,15 @@
 import '../../model/replay_title.dart';
 import '../../provider/replay_provider.dart';
-import 'rtsplay_api.dart';
-import 'rtsplay_mapper.dart';
+import 'srg_api.dart';
+import 'srg_ids.dart';
+import 'srg_mapper.dart';
+import 'srg_show_filter.dart';
+import 'srg_unit.dart';
 
 const _listingPageSize = 100;
 const _rowSize = 30;
 const _maxRows = 10;
 const _maxShowPages = 10;
-
-/// Rows of the landing page, in the order shown. Each is a video list the Integration Layer ranks itself.
-const _homeRows = [
-  (id: 'latest', title: 'Derniers épisodes', path: 'mediaList/video/latestEpisodes', size: 30),
-  (id: 'trending', title: 'Tendances', path: 'mediaList/video/trending', size: 50),
-  (id: 'mostClicked', title: 'Les plus vus', path: 'mediaList/video/mostClicked', size: 50),
-  (id: 'soonExpiring', title: 'Bientôt retirés', path: 'mediaList/video/soonExpiring', size: 20),
-];
 
 /// Editorial rows of a topic page that hold content; the others are promotion banners and topic pickers.
 const _rowKinds = {'Swimlane', 'Highlight', 'Grid'};
@@ -23,31 +18,41 @@ const _sectionTypes = {'ShowSection', 'MediaSection', 'MediaSectionWithShow'};
 final _pictographs = RegExp(r'[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{200D}]', unicode: true);
 
 /// Home rows, topic pages, flat listings and search over the Integration Layer.
-class RtsPlayCatalog {
-  final RtsPlayApi _api;
+class SrgCatalog {
+  final SrgUnit _unit;
+  final SrgApi _api;
+  final SrgMapper _mapper;
 
-  RtsPlayCatalog(this._api);
+  SrgCatalog(this._unit, this._api, this._mapper);
 
   Future<List<ReplayCategory>> categories() async {
     final list = (await _api.unit('topicList/tv'))?['topicList'];
     if (list is! List) return const [];
     return [
       for (final topic in list.whereType<Map<String, dynamic>>())
-        if (topic['id'] != null && topic['title'] is String)
+        if (topic['id'] != null && topic['title'] is String && !_unit.hiddenTopics.contains('${topic['id']}'))
           ReplayCategory(id: '${topic['id']}', title: topic['title'] as String),
     ];
   }
 
+  /// Rows of the landing page, in the order shown. Each is a video list the Integration Layer ranks itself.
   Future<List<ReplayRail>> home() async {
+    final texts = _unit.texts;
+    final rows = [
+      ('latest', texts.latest, 'mediaList/video/latestEpisodes', 30),
+      ('trending', texts.trending, 'mediaList/video/trending', 50),
+      ('mostClicked', texts.mostClicked, 'mediaList/video/mostClicked', 50),
+      ('soonExpiring', texts.soonExpiring, 'mediaList/video/soonExpiring', 20),
+    ];
     final rails = await Future.wait([
-      for (final row in _homeRows) _videoRail(row.id, row.title, row.path, {'pageSize': '${row.size}'}),
+      for (final (id, title, path, size) in rows) _videoRail(id, title, path, {'pageSize': '$size'}),
     ]);
     return [for (final rail in rails) ?rail];
   }
 
   Future<List<ReplayRail>> category(String categoryId) async {
-    if (!RegExp(r'^\d+$').hasMatch(categoryId)) return const [];
-    final page = await _api.unit('page/byTopicUrn/urn:rts:topic:tv:$categoryId');
+    if (!isSrgSafeId(categoryId)) return const [];
+    final page = await _api.unit('page/byTopicUrn/urn:${_unit.businessUnit}:topic:tv:$categoryId');
     final sections = page?['sectionList'];
     if (sections is! List) return const [];
     final rows = [
@@ -62,8 +67,9 @@ class RtsPlayCatalog {
     if (browseId == replayAllBrowseId) return _allShows(page);
     final cut = browseId.indexOf('/');
     final type = cut > 0 ? browseId.substring(0, cut) : '';
-    if (!_sectionTypes.contains(type)) return const ReplayPage(titles: [], totalCount: 0);
-    final body = await _section(type, browseId.substring(cut + 1), pageSize: _listingPageSize, page: page);
+    final id = cut > 0 ? browseId.substring(cut + 1) : '';
+    if (!_sectionTypes.contains(type) || !isSrgSafeId(id)) return const ReplayPage(titles: [], totalCount: 0);
+    final body = await _section(type, id, pageSize: _listingPageSize, page: page);
     final titles = _sectionTitles(type, body, playableOnly: false);
     final more = body?['next'] is String ? 1 : 0;
     return ReplayPage(titles: titles, totalCount: page * _listingPageSize + titles.length + more);
@@ -77,18 +83,17 @@ class RtsPlayCatalog {
     ]);
     final seen = <String>{};
     return [
-      for (final show in _maps(results[0]?['searchResultShowList']))
-        if (!rtsIsSignedShow(show['title'] as String? ?? ''))
-          if (rtsTitleFromShow(show) case final title? when seen.add(title.ref.nativeId)) title,
+      for (final show in srgVisibleShows(_unit, _maps(results[0]?['searchResultShowList'])))
+        if (_mapper.fromShow(show) case final title? when seen.add(title.ref.nativeId)) title,
       for (final media in _maps(results[1]?['searchResultMediaList']))
-        if (rtsTitleFromMedia(media) case final title? when seen.add(title.ref.nativeId)) title,
+        if (_mapper.fromMedia(media) case final title? when seen.add(title.ref.nativeId)) title,
     ];
   }
 
   Future<ReplayRail?> _videoRail(String id, String title, String path, Map<String, String> query) async {
     final titles = [
       for (final media in _maps((await _api.unit(path, query))?['mediaList']))
-        if (rtsTitleFromMedia(media) case final t? when t.availability == ReplayAvailability.playable) t,
+        if (_mapper.fromMedia(media) case final t? when t.availability == ReplayAvailability.playable) t,
     ];
     return titles.isEmpty ? null : ReplayRail(id: id, title: title, titles: titles);
   }
@@ -122,19 +127,20 @@ class RtsPlayCatalog {
     if (type == 'ShowSection') return _shows(_maps(body?['showList']));
     return [
       for (final media in _maps(body?['mediaList']))
-        if (rtsTitleFromMedia(media) case final t? when !playableOnly || t.availability == ReplayAvailability.playable)
+        if (_mapper.fromMedia(media) case final t? when !playableOnly || t.availability == ReplayAvailability.playable)
           t,
     ];
   }
 
   Future<ReplayPage> _allShows(int page) async {
-    final shows = <ReplayTitle>[];
+    final all = <Map<String, dynamic>>[];
     var body = await _api.unit('showList/tv/alphabetical', {'pageSize': '$_listingPageSize'});
     for (var pages = 0; body != null && pages < _maxShowPages; pages++) {
-      shows.addAll(_shows(_maps(body['showList'])));
+      all.addAll(_maps(body['showList']));
       final next = body['next'];
       body = next is String ? await _api.link(next) : null;
     }
+    final shows = _shows(all);
     final from = (page * _listingPageSize).clamp(0, shows.length);
     final to = (from + _listingPageSize).clamp(from, shows.length);
     return ReplayPage(titles: shows.sublist(from, to), totalCount: shows.length);
@@ -142,8 +148,8 @@ class RtsPlayCatalog {
 
   List<ReplayTitle> _shows(List<Map<String, dynamic>> shows) {
     return [
-      for (final show in shows)
-        if (!rtsIsSignedShow(show['title'] as String? ?? '') && rtsEpisodeCount(show) != 0) ?rtsTitleFromShow(show),
+      for (final show in srgVisibleShows(_unit, shows))
+        if (srgEpisodeCount(show) != 0) ?_mapper.fromShow(show),
     ];
   }
 

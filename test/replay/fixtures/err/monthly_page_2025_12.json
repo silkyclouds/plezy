@@ -1,0 +1,677 @@
+{
+ "mainContent": {
+  "id": 1609876568,
+  "updated": 1791204001,
+  "scheduleStart": 1766119500,
+  "heading": "Terevisioon",
+  "subHeading": "",
+  "lead": "„Terevisioonis\" on koos uudised, ilmateade, olulised jutuajamised ja mõnusad külalised. Säravad saatejuhid Katrin Viirpalu, Martha-Beryl Grauberg, Juhan Kilumets ja Reimo Sildvee annavad endast parima, et kõik teie päevad algaksid energiliselt ning hästi. Režissöörid Elo Selirand ja Johanna Maria Vilgats, produtsent Rait Roland Veskemaa.",
+  "primaryCategoryId": 4135,
+  "iframeMediaUrl": "",
+  "parentContentId": 1038506,
+  "parentContentPath": "[1038506]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 1,
+  "color": "#000000",
+  "season": 26,
+  "episode": 202,
+  "country": "Eesti",
+  "originalTitle": "",
+  "year": "2025",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/1609876568/terevisioon",
+  "radiomanId": 0,
+  "lastChangedBy": 31507,
+  "commenting": 2,
+  "progId": 11104359297,
+  "photos": [
+   {
+    "id": 2981544,
+    "ord": 0,
+    "type": 0,
+    "created": 1755766643,
+    "version": 1,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hb434t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h9728t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544ha99ct8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h1704t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hf903t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hab34t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h9e5ct61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h777dt80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 2981544,
+    "ord": 0,
+    "type": 0,
+    "created": 1755766643,
+    "version": 1,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hb434t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h9728t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544ha99ct8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h1704t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hf903t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544hab34t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h9e5ct61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2025/08/21/2981544h777dt80.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 3780313,
+    "ord": 0,
+    "type": 1,
+    "created": 1787555584,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h27b1t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h1e81t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h3771t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h41c7t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h739et48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313hd337t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h27e1t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h85cft80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1038506,
+    "type": "series",
+    "photos": [
+     {
+      "id": 3780112,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 3780112,
+      "ord": 0,
+      "type": 0,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 3780313,
+      "ord": 0,
+      "type": 1,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 3780112,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [],
+    "squarePhotos": []
+   }
+  ],
+  "rootContentId": 1038506,
+  "rootContent": {
+   "id": 1038506,
+   "heading": "Terevisioon",
+   "lead": "<p>\"Terevisioonis\" on koos uudised, ilmateade, olulised jutuajamised ja mõnusad külalised. Säravad saatejuhid Katrin Viirpalu, Martha-Beryl Grauberg, Juhan Kilumets ja Margus Saar annavad endast parima, et kõik teie päevad algaksid energiliselt ning hästi.</p>",
+   "url": "terevisioon",
+   "color": "#000000",
+   "contentOrder": 1,
+   "seriesType": 1,
+   "primaryCategoryId": 4135,
+   "playlistStyle": 1,
+   "autoPlay": 0,
+   "contentVisible": 1,
+   "newsSiteUrl": "",
+   "eMail": "terevisioon[ät]err.ee, 6284 553",
+   "allowContentPhoto": 1,
+   "commenting": 1,
+   "categoryCommenting": 1,
+   "host": "",
+   "type": "series",
+   "hideEpisodeNumber": 0,
+   "visibleEpisodeDays": 0,
+   "visibilityStart": 0,
+   "photos": [
+    {
+     "id": 3780112,
+     "ord": 0,
+     "type": 2,
+     "created": 1787505939,
+     "version": 2,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h2e17t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hb610t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h1b90t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hfe7dt26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h8987t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h576dt60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hc221t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h22f8t80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPhotos": [
+    {
+     "id": 3780112,
+     "ord": 0,
+     "type": 0,
+     "created": 1787505939,
+     "version": 2,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h2e17t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hb610t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h1b90t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hfe7dt26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h8987t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h576dt60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hc221t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h22f8t80.jpg"
+      }
+     }
+    }
+   ],
+   "verticalPhotos": [
+    {
+     "id": 3780313,
+     "ord": 0,
+     "type": 1,
+     "created": 1787555584,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h27b1t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h1e81t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h3771t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h41c7t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h739et48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313hd337t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h27e1t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/08/24/3780313h85cft80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPoster": [
+    {
+     "id": 3780112,
+     "ord": 0,
+     "type": 2,
+     "created": 1787505939,
+     "version": 2,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h2e17t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hb610t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h1b90t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hfe7dt26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h8987t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h576dt60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112hc221t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/08/23/3780112h22f8t80.jpg"
+      }
+     }
+    }
+   ],
+   "heroImage": [],
+   "squarePhotos": [],
+   "relatedRadiomanIds": []
+  },
+  "statsHeading": "Terevisioon 2025.12.19 06:45",
+  "statsSeriesTitle": "Terevisioon",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/1609876568",
+  "fancyUrl": "terevisioon",
+  "anotherDomainContent": true,
+  "created": 1764861601,
+  "publicStart": 1764861601,
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1609876568/terevisioon",
+  "relatedRadiomanIds": [],
+  "makers": [
+   {
+    "typeId": 17,
+    "type": "Produtsent",
+    "name": "Rait Roland Veskemaa"
+   },
+   {
+    "typeId": 4,
+    "type": "Saatejuhid",
+    "name": "Martha-Beryl Grauberg"
+   },
+   {
+    "typeId": 4,
+    "type": "Saatejuhid",
+    "name": "Reimo Sildvee"
+   },
+   {
+    "typeId": 14,
+    "type": "Toimetaja",
+    "name": "Liisbeth Rats"
+   },
+   {
+    "typeId": 13,
+    "type": "Vastutav toimetaja",
+    "name": "Reimo Sildvee"
+   },
+   {
+    "typeId": 10,
+    "type": "Režissöörid",
+    "name": "Elo Selirand"
+   },
+   {
+    "typeId": 10,
+    "type": "Režissöörid",
+    "name": "Johanna Maria Vilgats"
+   }
+  ]
+ },
+ "seasonList": {
+  "type": "monthly",
+  "contentOrder": "desc",
+  "items": [
+   {
+    "id": 2026,
+    "name": "2026",
+    "url": "/1610160944/terevisioon",
+    "firstContentId": 1610160944,
+    "items": [
+     {
+      "id": 10,
+      "name": "oktoober",
+      "url": "/1610160944/terevisioon",
+      "firstContentId": 1610160944
+     },
+     {
+      "id": 9,
+      "name": "september",
+      "url": "/1610140841/terevisioon",
+      "firstContentId": 1610140841
+     }
+    ]
+   },
+   {
+    "id": 2025,
+    "name": "2025",
+    "url": "/1609876568/terevisioon",
+    "firstContentId": 1609876568,
+    "items": [
+     {
+      "id": 12,
+      "name": "detsember",
+      "url": "/1609876568/terevisioon",
+      "firstContentId": 1609876568,
+      "contents": [
+       {
+        "id": 1609876568,
+        "heading": "Terevisioon",
+        "subHeading": "",
+        "scheduleStart": 1766119500,
+        "publicStart": 1764861601,
+        "updated": 1791204001,
+        "primaryCategoryId": 4135,
+        "parentContentPath": "[1038506]",
+        "season": 26,
+        "episode": 202,
+        "type": "episode",
+        "rootCategoryId": 3905,
+        "url": "https://jupiter.err.ee/1609876568/terevisioon",
+        "canonicalUrl": "https://jupiter.err.ee/1609876568",
+        "fancyUrl": "terevisioon",
+        "anotherDomainContent": true,
+        "catchupDays": 99693,
+        "active": true
+       },
+       {
+        "id": 1609876565,
+        "heading": "Terevisioon",
+        "subHeading": "",
+        "scheduleStart": 1766033100,
+        "publicStart": 1764861601,
+        "updated": 1791204001,
+        "primaryCategoryId": 4135,
+        "parentContentPath": "[1038506]",
+        "season": 26,
+        "episode": 201,
+        "type": "episode",
+        "rootCategoryId": 3905,
+        "url": "https://jupiter.err.ee/1609876565/terevisioon",
+        "canonicalUrl": "https://jupiter.err.ee/1609876565",
+        "fancyUrl": "terevisioon",
+        "anotherDomainContent": true,
+        "catchupDays": 99692
+       },
+       {
+        "id": 1609876562,
+        "heading": "Terevisioon",
+        "subHeading": "",
+        "scheduleStart": 1765946700,
+        "publicStart": 1764861601,
+        "updated": 1791204001,
+        "primaryCategoryId": 4135,
+        "parentContentPath": "[1038506]",
+        "season": 26,
+        "episode": 200,
+        "type": "episode",
+        "rootCategoryId": 3905,
+        "url": "https://jupiter.err.ee/1609876562/terevisioon",
+        "canonicalUrl": "https://jupiter.err.ee/1609876562",
+        "fancyUrl": "terevisioon",
+        "anotherDomainContent": true,
+        "catchupDays": 99691
+       }
+      ],
+      "active": true
+     },
+     {
+      "id": 11,
+      "name": "november",
+      "url": "/1609850767/terevisioon",
+      "firstContentId": 1609850767
+     }
+    ],
+    "active": true
+   }
+  ]
+ }
+}

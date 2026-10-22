@@ -1,0 +1,279 @@
+{
+ "mainContent": {
+  "id": 1608311720,
+  "updated": 1637155800,
+  "scheduleStart": 1637772900,
+  "heading": "Aegluubis maailm. Etioopia",
+  "subHeading": "Etioopia 1/4",
+  "lead": "<p>Gabriele Saluci ja Ludovico de Maistre on kaks itaallasest sõpra ning tänapäeva maadeavastajat, kes jutustavad vahetult ja lõbusalt oma seiklustest ning kogemustest, mida nad ebatavaliste sõidukitega maailma eri paigus on läbi teinud. Esimeses osas üritavad nad Etioopias tuk-tuk'idega mitte ära eksida, sest eesmärgiks on vaadata kaunist päikeseloojangut Aafrikas, veeta öö hameri hõimu juures ning maitsta traditsioonilist kohvi kohas, kust see jook väidetavalt pärineb.</p>",
+  "body": "",
+  "primaryCategoryId": 4437,
+  "iframeMediaUrl": "",
+  "parentContentId": 1608412322,
+  "parentContentPath": "[1608412322]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 1,
+  "color": "#000000",
+  "season": 1,
+  "episode": 1,
+  "country": "Itaalia",
+  "originalTitle": "The World in Slow Motion",
+  "year": "2018",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/1608311720/aegluubis-maailm-etioopia",
+  "radiomanId": 0,
+  "lastChangedBy": 15921,
+  "commenting": 2,
+  "progId": 10472262809,
+  "photos": [
+   {
+    "id": 1049592,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h8795t1.png"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h807at2.png"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h8504t6.png"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592hb03bt8.png"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 1049592,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h8795t1.png"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h807at2.png"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592h8504t6.png"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2021/06/25/1049592hb03bt8.png"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 2774141,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2025/03/10/2774141h8888t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/03/10/2774141h8f48t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/03/10/2774141hd478t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/03/10/2774141hc18et8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1608412322,
+    "type": "series",
+    "photos": [
+     {
+      "id": 1049592,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 1557967,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 2774141,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 1049592,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [],
+    "squarePhotos": []
+   }
+  ],
+  "rootContentId": 1608412322,
+  "statsHeading": "Aegluubis maailm. Etioopia H1 O1",
+  "statsSeriesTitle": "Aegluubis maailm. Etioopia",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/1608311720",
+  "fancyUrl": "aegluubis-maailm-etioopia",
+  "anotherDomainContent": true,
+  "created": 1629318000,
+  "publicStart": 1629318000,
+  "clips": [],
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1608311720/aegluubis-maailm-etioopia",
+  "relatedRadiomanIds": [],
+  "medias": [
+   {
+    "id": 1328346,
+    "ord": 0,
+    "type": "video",
+    "headingEt": "Aegluubis maailm: Etioopia 1/4",
+    "headingRu": "Мир в замедленном темпе: Эфиопия, часть 1",
+    "headingEn": "",
+    "podcastUrl": "",
+    "bodyEt": "Gabriele Saluci ja Ludovico de Maistre on kaks itaallasest sõpra ning tänapäeva maadeavastajat, kes jutustavad vahetult ja lõbusalt oma seiklustest ning kogemustest, mida nad ebatavaliste sõidukitega maailma eri paigus on läbi teinud. Esimeses osas üritavad nad Etioopias tuk-tuk’idega mitte ära eksida, sest eesmärgiks on vaadata kaunist päikeseloojangut Aafrikas, veeta öö hameri hõimu juures ning maitsta traditsioonilist kohvi kohas, kust see jook väidetavalt pärineb.",
+    "bodyEn": null,
+    "bodyRu": "Прибыв в Дебре Зейт, путешественники отправляются в путь на своих тук-туках. Переночевав у племени хамер и встретив свой первый африканский закат, они берут курс на Арба-Минч. Они побывали в школе, открытой Итальянской ассоциацией в рамках проекта помощи детям, и попробовали традиционный местный кофе именно там, откуда, согласно преданию, и берет свое начало этот напиток.",
+    "embedDisabled": 1,
+    "publicEnd": 0,
+    "mediaRadiomanId": 0,
+    "photoId": 0,
+    "ld": 0,
+    "sd": 1,
+    "hd": 1,
+    "fhd": 1,
+    "4k": 0,
+    "folder": "drm",
+    "mediaHash": null,
+    "skd": "kid:key",
+    "jwt": null,
+    "file": "2021-026890-0001_0002_XHD_AEGLUUBIS-MAAILM_ETIOOPIA-14_ERR.mp4",
+    "version": 1,
+    "filename": "2021-026890-0001_0002_XHD_AEGLUUBIS-MAAILM_ETIOOPIA-14_ERR.mp4",
+    "cacheIndex": 0,
+    "versionId": 10524456795,
+    "isPg": false,
+    "mediaInfo": {
+     "aspectRatio": "16:9",
+     "duration": "625"
+    },
+    "src": {
+     "id": 1328346,
+     "ratio": "16:9",
+     "hls2": "//vod.err.ee/hls/drm/1328346/2/v/master.m3u8",
+     "hls": "//vod.err.ee/hls/drm/1328346/3/skd/kid:key/v/master.m3u8",
+     "file": "//vod.err.ee/file/drm/1328346.mp4",
+     "hlsNew": "//vod.err.ee/hls/drm/1328346/3/skd/kid:key/v/master.m3u8",
+     "dashNew": "//vod.err.ee/dash/drm/1328346/3/v/manifest.mpd",
+     "dash": "//vod.err.ee/dash/drm/1328346/3/v/manifest.mpd",
+     "hlsNoSub": "//vod.err.ee/hls/drm/1328346/3/skd/kid:key/v/nosub/master.m3u8",
+     "dashNoSub": "//vod.err.ee/dash/drm/1328346/3/v/nosub/manifest.mpd"
+    },
+    "mediaId": 1328346,
+    "periods": [
+     {
+      "publicStart": 1619626103,
+      "publicEnd": 1622218103,
+      "vodReqId": 10484371674
+     },
+     {
+      "publicStart": 1626106285,
+      "publicEnd": 1628698285,
+      "vodReqId": 10518797495
+     },
+     {
+      "publicStart": 1630346415,
+      "publicEnd": 1632938415,
+      "vodReqId": 10539877012
+     },
+     {
+      "publicStart": 1632404154,
+      "publicEnd": 1634996154,
+      "vodReqId": 10549510445
+     },
+     {
+      "publicStart": 1637773714,
+      "publicEnd": 1640365714,
+      "vodReqId": 10578176127
+     },
+     {
+      "publicStart": 1637773717,
+      "publicEnd": 1640365717,
+      "vodReqId": 10580843485
+     }
+    ],
+    "catchupDays": 174,
+    "restrictions": {
+     "drm": true,
+     "geoBlock": true
+    },
+    "subtitles": [
+     {
+      "id": 0,
+      "subId": 101595,
+      "name": "eesti",
+      "srclang": "ET",
+      "version": 1,
+      "exported": 1,
+      "src": "https://services.err.ee/subtitles/file/101595/101595_ET.vtt",
+      "filename": "101595_ET.vtt"
+     }
+    ],
+    "photos": []
+   }
+  ],
+  "galleries": [],
+  "polls": [],
+  "bodyMedias": [],
+  "bodyTrustedHtmls": [],
+  "bodyPhotos": [],
+  "bodyGalleries": []
+ }
+}

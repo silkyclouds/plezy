@@ -1,66 +1,72 @@
+import '../../model/replay_ref.dart';
 import '../../model/replay_title.dart';
-import 'rtsplay_api.dart';
-import 'rtsplay_episodes.dart';
-import 'rtsplay_ids.dart';
-import 'rtsplay_mapper.dart';
-import 'rtsplay_numbering.dart';
+import 'srg_api.dart';
+import 'srg_episodes.dart';
+import 'srg_ids.dart';
+import 'srg_mapper.dart';
+import 'srg_unit.dart';
 
 const _pageSize = 100;
 
-/// Resolves the show -> season -> episode structure of RTS Play.
+/// Resolves the show -> season -> episode structure of an SRG business unit.
 ///
-/// RTS has no season endpoint. Seasons come from the numbers on the episodes. A show with numbered
-/// episodes gets one season per number, plus "Bonus" for episodes without one. A show with no numbers
-/// gets one synthetic season, or one season per broadcast year when it has more than
-/// [rtsLongShowThreshold] episodes, because only the newest pages of a daily show are worth loading.
-class RtsPlayShows {
-  final RtsPlayApi _api;
-  final RtsEpisodeSource _source;
+/// The Integration Layer has no season endpoint. Seasons come from the numbers on the episodes. A show with
+/// numbered episodes gets one season per number, plus an extras season for episodes without one. A show with
+/// no numbers gets one synthetic season, or one season per broadcast year when it has more than
+/// [srgLongShowThreshold] episodes, because only the newest pages of a daily show are worth loading.
+class SrgShows {
+  final SrgUnit _unit;
+  final SrgApi _api;
+  final SrgMapper _mapper;
+  final SrgEpisodeSource _source;
 
-  RtsPlayShows(this._api) : _source = RtsEpisodeSource(_api);
+  SrgShows(this._unit, this._api, this._mapper) : _source = SrgEpisodeSource(_unit, _api);
 
   Future<ReplayTitle?> show(String showId) async {
     final raw = await _api.unit('show/tv/$showId');
-    return raw == null ? null : rtsTitleFromShow(raw);
+    return raw == null ? null : _mapper.fromShow(raw);
   }
 
   Future<List<ReplayTitle>> seasons(String showId) async {
     final raw = await _api.unit('show/tv/$showId');
-    final show = raw == null ? null : rtsTitleFromShow(raw);
+    final show = raw == null ? null : _mapper.fromShow(raw);
     if (raw == null || show == null) return const [];
-    final expected = rtsEpisodeCount(raw) ?? 0;
+    final expected = srgEpisodeCount(raw) ?? 0;
 
     final first = (await _source.page0(showId)) ?? const {};
     final firstItems = _items(first);
-    final isLong = first['next'] is String && expected > rtsLongShowThreshold && firstItems.isNotEmpty;
-    if (isLong && !firstItems.any((i) => rtsNumbers(i).season != null)) {
+    final isLong = first['next'] is String && expected > srgLongShowThreshold && firstItems.isNotEmpty;
+    if (isLong && !firstItems.any((i) => _unit.numbering.numbers(i).season != null)) {
       return _yearSeasons(showId, show, firstItems, expected);
     }
 
     final loaded = await _source.load(showId, expected: expected);
-    return _seasonTitles(showId, show, RtsSeasonGroups.of(loaded.items), known: !loaded.truncated);
+    final groups = SrgSeasonGroups.of(_unit, loaded.items);
+    if (!loaded.truncated) _noteGeo(show.ref, loaded.items);
+    return _seasonTitles(showId, show, groups, known: !loaded.truncated);
   }
 
-  Future<List<ReplayTitle>> episodes(RtsSeasonId id) async {
+  Future<List<ReplayTitle>> episodes(SrgSeasonId id) async {
     final raw = await _api.unit('show/tv/${id.showId}');
-    final show = raw == null ? null : rtsTitleFromShow(raw);
+    final show = raw == null ? null : _mapper.fromShow(raw);
     if (raw == null || show == null) return const [];
 
     final year = id.key.year;
-    if (year != null) return _yearEpisodes(id, show, year, rtsEpisodeCount(raw) ?? 0);
+    if (year != null) return _yearEpisodes(id, show, year, srgEpisodeCount(raw) ?? 0);
 
-    final loaded = await _source.load(id.showId, expected: rtsEpisodeCount(raw) ?? 0);
-    final groups = RtsSeasonGroups.of(loaded.items);
-    final context = RtsContext(
+    final loaded = await _source.load(id.showId, expected: srgEpisodeCount(raw) ?? 0);
+    final groups = SrgSeasonGroups.of(_unit, loaded.items);
+    final context = SrgContext(
       show: show.ref,
       showTitle: show.title,
-      season: rtsSeasonRef(id.showId, id.key),
+      season: _unit.seasonRef(id.showId, id.key),
       seasonNumber: groups.numberOf(id.key),
     );
-    return rtsOrderEpisodes(_episodeTitles(groups.groups[id.key] ?? const [], context));
+    return srgOrderEpisodes(_episodeTitles(groups.groups[id.key] ?? const [], context));
   }
 
-  List<ReplayTitle> _seasonTitles(String showId, ReplayTitle show, RtsSeasonGroups groups, {required bool known}) {
+  List<ReplayTitle> _seasonTitles(String showId, ReplayTitle show, SrgSeasonGroups groups, {required bool known}) {
+    final texts = _unit.texts;
     return [
       for (final MapEntry(:key, value: items) in groups.groups.entries)
         _season(
@@ -69,11 +75,12 @@ class RtsPlayShows {
           key,
           number: groups.numberOf(key),
           title: key.number != null
-              ? 'Saison ${key.number}'
+              ? '${texts.season} ${key.number}'
               : groups.hasNumberedSeasons
-              ? 'Bonus'
+              ? texts.extras
               : show.title,
           count: known ? items.length : null,
+          items: known ? items : null,
         ),
     ];
   }
@@ -81,13 +88,16 @@ class RtsPlayShows {
   ReplayTitle _season(
     String showId,
     ReplayTitle show,
-    RtsSeasonKey key, {
+    SrgSeasonKey key, {
     required int number,
     required String title,
     int? count,
+    List<Map<String, dynamic>>? items,
   }) {
+    final ref = _unit.seasonRef(showId, key);
+    if (items != null) _noteGeo(ref, items);
     return ReplayTitle(
-      ref: rtsSeasonRef(showId, key),
+      ref: ref,
       kind: ReplayKind.season,
       title: title,
       posterUrl: show.posterUrl,
@@ -97,6 +107,13 @@ class RtsPlayShows {
       showRef: show.ref,
       showTitle: show.title,
     );
+  }
+
+  /// A title is blocked abroad when every one of its episodes is; one open episode keeps it open.
+  void _noteGeo(ReplayRef ref, List<Map<String, dynamic>> items) {
+    final flags = [for (final item in items) item['playableAbroad']].whereType<bool>().toList();
+    if (items.isEmpty || flags.length != items.length) return;
+    _mapper.geo?.note(ref, playableAbroad: flags.any((open) => open));
   }
 
   /// Years from the newest broadcast back to the oldest page, found by looking at the last non-empty page.
@@ -113,15 +130,15 @@ class RtsPlayShows {
     if (newestYear == null || oldestYear == null) return const [];
     return [
       for (var year = oldestYear; year <= newestYear; year++)
-        _season(showId, show, RtsSeasonKey.year(year), number: year, title: '$year'),
+        _season(showId, show, SrgSeasonKey.year(year), number: year, title: '$year'),
     ];
   }
 
-  Future<List<ReplayTitle>> _yearEpisodes(RtsSeasonId id, ReplayTitle show, int year, int expected) async {
-    final context = RtsContext(
+  Future<List<ReplayTitle>> _yearEpisodes(SrgSeasonId id, ReplayTitle show, int year, int expected) async {
+    final context = SrgContext(
       show: show.ref,
       showTitle: show.title,
-      season: rtsSeasonRef(id.showId, id.key),
+      season: _unit.seasonRef(id.showId, id.key),
       seasonNumber: year,
     );
     final items = <Map<String, dynamic>>[];
@@ -167,11 +184,11 @@ class RtsPlayShows {
     return low;
   }
 
-  List<ReplayTitle> _episodeTitles(List<Map<String, dynamic>> items, RtsContext context) {
+  List<ReplayTitle> _episodeTitles(List<Map<String, dynamic>> items, SrgContext context) {
     final seen = <String>{};
     return [
       for (final item in items)
-        if (rtsTitleFromMedia(item, context: context) case final title? when seen.add(title.ref.nativeId)) title,
+        if (_mapper.fromMedia(item, context: context) case final title? when seen.add(title.ref.nativeId)) title,
     ];
   }
 }

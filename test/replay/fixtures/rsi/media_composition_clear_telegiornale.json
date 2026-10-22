@@ -1,0 +1,153 @@
+{
+ "chapterUrn": "urn:rsi:video:4141499",
+ "episode": {
+  "title": "TG Notte",
+  "lead": "Le ultime notizie della giornata",
+  "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/EPISODE_IMAGE/3065850",
+  "imageTitle": "TG Notte",
+  "publishedDate": "2026-10-21T22:15:00+02:00",
+  "id": "4141499",
+  "description": "\n\n"
+ },
+ "show": {
+  "id": "703571",
+  "vendor": "RSI",
+  "transmission": "TV",
+  "urn": "urn:rsi:show:tv:703571",
+  "title": "Telegiornale",
+  "lead": "La spina dorsale dell'offerta informativa quotidiana alla televisione",
+  "description": "Il Telegiornale, con le sue edizioni, offre al pubblico la sintesi ragionata delle principali notizie del giorno, delle immagini che contano, dei temi che suscitano interesse. Vi si racconta l'attualità, ma lo si fa con uno stile diretto, senza fronzoli, cercando di cogliere l'attenzione del pubblic",
+  "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3065850",
+  "imageTitle": "Telegiornale",
+  "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3065850",
+  "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/3065865",
+  "posterImageIsFallbackUrl": false,
+  "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+  "podcastImageIsFallbackUrl": true,
+  "timeTableUrl": "https://www.rsi.ch/palinsesto",
+  "primaryChannelId": "la1",
+  "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+  "numberOfEpisodes": 26450,
+  "topicList": [
+   {
+    "id": "7",
+    "vendor": "RSI",
+    "transmission": "TV",
+    "urn": "urn:rsi:topic:tv:7",
+    "title": "Info",
+    "lead": "Info",
+    "description": "i contenuti della RSI per la  categoria News",
+    "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+    "imageTitle": "Info",
+    "imageCopyright": "RSI"
+   }
+  ],
+  "allowIndexing": true
+ },
+ "channel": {
+  "id": "la1",
+  "vendor": "RSI",
+  "urn": "urn:rsi:channel:tv:la1",
+  "title": "La 1",
+  "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/la1.png",
+  "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/7156bf6.svg",
+  "imageTitle": "La1 Logo",
+  "imageCopyright": "RSI",
+  "transmission": "TV",
+  "timeTableUrl": ""
+ },
+ "chapterList": [
+  {
+   "id": "4141499",
+   "mediaType": "VIDEO",
+   "vendor": "RSI",
+   "urn": "urn:rsi:video:4141499",
+   "title": "TG Notte",
+   "lead": "Le ultime notizie della giornata",
+   "description": "\n\n",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3065850",
+   "imageTitle": "TG Notte",
+   "type": "EPISODE",
+   "date": "2026-10-21T22:15:00+02:00",
+   "duration": 675920,
+   "validFrom": "2026-10-21T22:37:10+02:00",
+   "playableAbroad": true,
+   "displayable": true,
+   "position": -1,
+   "noEmbed": false,
+   "resourceList": [
+    {
+     "url": "https://rsi-vod-il-amd.akamaized.net/ww/4141499/20261021223210/master.m3u8?start=0.0&end=675.0",
+     "quality": "HD",
+     "protocol": "HLS",
+     "encoding": "H264",
+     "mimeType": "application/x-mpegURL",
+     "presentation": "DEFAULT",
+     "streaming": "HLS",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "MP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE"
+    },
+    {
+     "url": "https://rsi-vod-il-amd.akamaized.net/ww/4141499/20261021223210/master.m3u8?start=0.0&end=675.0",
+     "quality": "SD",
+     "protocol": "HLS",
+     "encoding": "H264",
+     "mimeType": "application/x-mpegURL",
+     "presentation": "DEFAULT",
+     "streaming": "HLS",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "MP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE"
+    },
+    {
+     "url": "https://rsi-vod-il-dd.akamaized.net/ww/4141499.mp4?ts=20261021223210",
+     "quality": "HD",
+     "protocol": "HTTPS",
+     "encoding": "H264",
+     "mimeType": "video/mp4",
+     "presentation": "DEFAULT",
+     "streaming": "PROGRESSIVE",
+     "dvr": false,
+     "live": false,
+     "mediaContainer": "MP4",
+     "audioCodec": "AAC",
+     "videoCodec": "H264",
+     "tokenType": "NONE"
+    }
+   ],
+   "aspectRatio": "16:9",
+   "spriteSheet": {
+    "urn": "urn:rsi:video:4141499",
+    "rows": 17,
+    "columns": 20,
+    "thumbnailHeight": 84,
+    "thumbnailWidth": 150,
+    "interval": 2000,
+    "url": "https://il.srgssr.ch/spritesheet/urn/rsi/video/4141499/sprite-4141499.jpeg"
+   },
+   "bannerImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/3065850",
+   "bannerImageTitle": "TG Notte"
+  }
+ ],
+ "topicList": [
+  {
+   "id": "7",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:7",
+   "title": "Info",
+   "lead": "Info",
+   "description": "i contenuti della RSI per la  categoria News",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+   "imageTitle": "Info",
+   "imageCopyright": "RSI"
+  }
+ ]
+}

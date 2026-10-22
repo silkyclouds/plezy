@@ -1,0 +1,522 @@
+{
+ "mainContent": {
+  "id": 1210984,
+  "updated": 1608210000,
+  "scheduleStart": 1791893400,
+  "heading": "Kaamera käib! Võte!!!",
+  "subHeading": "",
+  "lead": "<p>Lõbusad tele- ja filmiteemalised katkendid ETV arhiivi huumorisaadetest.</p>",
+  "primaryCategoryId": 4135,
+  "iframeMediaUrl": "",
+  "parentContentId": 0,
+  "parentContentPath": "[]",
+  "seriesType": 0,
+  "type": "movie",
+  "txReqId": 10424436002,
+  "color": "#000000",
+  "season": 0,
+  "episode": 0,
+  "country": "ETV",
+  "originalTitle": "",
+  "year": "2018",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/1210984/kaamera-kaib-vote",
+  "radiomanId": 0,
+  "lastChangedBy": 76492,
+  "commenting": 2,
+  "progId": 10157777080,
+  "photos": [
+   {
+    "id": 780739,
+    "ord": 0,
+    "type": 2,
+    "created": 1589980383,
+    "version": 2,
+    "format": "png",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hc7fct2.png"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h29d4t6.png"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hf1f3t8.png"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hfdf5t26.png"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hd7c2t48.png"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h339bt60.png"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h66a5t61.png"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h6ce3t80.png"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 2350764,
+    "ord": 0,
+    "type": 0,
+    "created": 1712920744,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h19c3t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h6110t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h1d74t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h8834t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h09c1t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h1056t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764hecf7t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2024/04/12/2350764hfb13t80.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 2678329,
+    "ord": 0,
+    "type": 1,
+    "created": 1735829084,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329hcb0at2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329h03cct6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329hd8cdt8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329hfbf4t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329h0503t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329h860ct60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329h24e9t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2025/01/02/2678329hd495t80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [
+   {
+    "id": 780739,
+    "ord": 0,
+    "type": 2,
+    "created": 1589980383,
+    "version": 2,
+    "format": "png",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hc7fct2.png"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h29d4t6.png"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hf1f3t8.png"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hfdf5t26.png"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739hd7c2t48.png"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h339bt60.png"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h66a5t61.png"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780739h6ce3t80.png"
+     }
+    }
+   }
+  ],
+  "heroImage": [],
+  "squarePhotos": [],
+  "rootContentId": 0,
+  "statsHeading": "Kaamera käib! Võte!!!",
+  "statsSeriesTitle": "",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/1210984",
+  "fancyUrl": "kaamera-kaib-vote",
+  "anotherDomainContent": true,
+  "created": 1608210000,
+  "publicStart": 1608210000,
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1210984/kaamera-kaib-vote",
+  "relatedRadiomanIds": [],
+  "medias": [
+   {
+    "id": 1145707,
+    "ord": 0,
+    "type": "video",
+    "headingEt": "",
+    "headingRu": "",
+    "headingEn": "",
+    "podcastUrl": "",
+    "bodyEt": null,
+    "bodyEn": null,
+    "bodyRu": null,
+    "embedDisabled": 0,
+    "publicEnd": 0,
+    "mediaRadiomanId": 0,
+    "photoId": 0,
+    "ld": 0,
+    "sd": 1,
+    "hd": 1,
+    "fhd": 1,
+    "4k": 0,
+    "folder": "vod",
+    "mediaHash": null,
+    "skd": "",
+    "file": "2018-003797-0001_0001_XHD_KAAMERA-KAIB-VOTE_ERR.mp4",
+    "version": 2,
+    "filename": "2018-003797-0001_0001_XHD_KAAMERA-KAIB-VOTE_ERR_2.mp4",
+    "licenseServerUrl": {
+     "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+     "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense",
+     "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense"
+    },
+    "cacheIndex": 0,
+    "versionId": 10158857391,
+    "isPg": false,
+    "mediaInfo": {
+     "aspectRatio": "16:9",
+     "duration": "1718"
+    },
+    "src": {
+     "id": 1145707,
+     "ratio": "16:9",
+     "hls2": "//vod.err.ee/hls/vod/1145707/3/v/master.m3u8",
+     "hls": "//vod.err.ee/hls/vod/1145707/3/v/master.m3u8",
+     "file": "//vod.err.ee/file/vod/1145707.mp4",
+     "hlsNew": "//vod.err.ee/hls/vod/1145707/3/v/master.m3u8",
+     "dashNew": "//vod.err.ee/dash/vod/1145707/3/v/manifest.mpd",
+     "dash": "//vod.err.ee/dash/vod/1145707/3/v/manifest.mpd",
+     "hlsNoSub": "//vod.err.ee/hls/vod/1145707/3/v/nosub/master.m3u8",
+     "dashNoSub": "//vod.err.ee/dash/vod/1145707/3/v/nosub/manifest.mpd"
+    },
+    "mediaId": 1145707,
+    "periods": [
+     {
+      "publicStart": 1609399683,
+      "publicEnd": 10249309683,
+      "vodReqId": 10441192196
+     },
+     {
+      "publicStart": 1618740282,
+      "publicEnd": 10258657482,
+      "vodReqId": 10478253900
+     },
+     {
+      "publicStart": 1629994416,
+      "publicEnd": 10269908016,
+      "vodReqId": 10537183344
+     },
+     {
+      "publicStart": 1642339692,
+      "publicEnd": 10282253292,
+      "vodReqId": 10601201241
+     },
+     {
+      "publicStart": 1642377650,
+      "publicEnd": 10282291250,
+      "vodReqId": 10601201242
+     },
+     {
+      "publicStart": 1673777640,
+      "publicEnd": 10313691240,
+      "vodReqId": 10770678186
+     },
+     {
+      "publicStart": 1687537011,
+      "publicEnd": 10327454211,
+      "vodReqId": 10847417835
+     },
+     {
+      "publicStart": 1693231103,
+      "publicEnd": 10333144703,
+      "vodReqId": 10877354625
+     },
+     {
+      "publicStart": 1736080057,
+      "publicEnd": 10375990057,
+      "vodReqId": 11110915025
+     },
+     {
+      "publicStart": 1766668626,
+      "publicEnd": 10406578626,
+      "vodReqId": 11285320847
+     },
+     {
+      "publicStart": 1766967179,
+      "publicEnd": 10406877179,
+      "vodReqId": 11285320848
+     },
+     {
+      "publicStart": 1791895327,
+      "publicEnd": 10431808927,
+      "vodReqId": 11375473226
+     }
+    ],
+    "catchupDays": 99991,
+    "restrictions": {
+     "drm": false,
+     "geoBlock": false
+    },
+    "subtitles": [
+     {
+      "id": 0,
+      "subId": 263932,
+      "name": "eesti",
+      "srclang": "VA",
+      "version": 1,
+      "exported": 1,
+      "src": "https://services.err.ee/subtitles/file/263932/263932_VA.vtt",
+      "filename": "263932_VA.vtt"
+     }
+    ],
+    "photos": []
+   }
+  ],
+  "makers": [
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Andrus Vaarik"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Arlet Palmiste"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Tõnis Niinemets"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Elmo Nüganen"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Märt Avandi"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Ott Sepp"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Eino Baskin"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Henrik Normann"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Peeter Oja"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Hannes Võrno"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Tarmo Leinatamm"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Juss Haasma"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Alo Kõrve"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Indrek Ojari"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Roland Laos"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Raivo E. Tamm"
+   },
+   {
+    "typeId": 8,
+    "type": "Näitlejad",
+    "name": "Merle Palmiste"
+   },
+   {
+    "typeId": 17,
+    "type": "Produtsent",
+    "name": "Kadi Priske"
+   }
+  ]
+ },
+ "seasonList": [],
+ "category": [
+  {
+   "id": 4135,
+   "name": "Saated"
+  },
+  {
+   "id": 4503,
+   "name": "Meelelahutus"
+  }
+ ]
+}

@@ -3,22 +3,23 @@ import 'dart:collection';
 
 import '../../../exceptions/media_server_exceptions.dart';
 import '../../../utils/media_server_http_client.dart';
+import 'srg_unit.dart';
 
 /// The broadcaster asked us to slow down; no request is sent until [retryAfter] has passed.
-class RtsPlayRateLimitedException implements Exception {
+class SrgRateLimitedException implements Exception {
   final Duration retryAfter;
 
-  const RtsPlayRateLimitedException(this.retryAfter);
+  const SrgRateLimitedException(this.retryAfter);
 
   @override
   String toString() => 'Rate limited, retry in ${retryAfter.inSeconds}s';
 }
 
-/// Thin JSON access to the SRG Integration Layer, RTS business unit.
+/// Thin JSON access to the SRG Integration Layer for one business unit.
 ///
 /// Lists are cached for as long as the server allows (20 minutes) and at most [_maxInFlight] requests
 /// run at once, so opening a category page does not fire a dozen calls together.
-class RtsPlayApi {
+class SrgApi {
   static const _base = 'https://il.srgssr.ch/integrationlayer/2.0';
   static const _headers = {
     'Accept': 'application/json',
@@ -28,6 +29,7 @@ class RtsPlayApi {
   static const _maxCached = 150;
   static const _maxInFlight = 4;
 
+  final SrgUnit _unit;
   final MediaServerHttpClient _http;
   final DateTime Function() _now;
   final LinkedHashMap<String, ({DateTime at, Map<String, dynamic>? body})> _cache = LinkedHashMap();
@@ -35,18 +37,19 @@ class RtsPlayApi {
   int _inFlight = 0;
   DateTime? _pausedUntil;
 
-  RtsPlayApi(this._http, {DateTime Function()? now}) : _now = now ?? DateTime.now;
+  SrgApi(this._unit, this._http, {DateTime Function()? now}) : _now = now ?? DateTime.now;
 
-  /// A catalogue call under the RTS business unit, such as `topicList/tv`. Null when the server has no such resource.
+  /// A catalogue call under the unit's business unit, such as `topicList/tv`. Null when the server has no such
+  /// resource.
   Future<Map<String, dynamic>?> unit(String path, [Map<String, String>? query]) =>
-      _cached(Uri.parse('$_base/rts/$path').replace(queryParameters: query));
+      _cached(Uri.parse('$_base/${_unit.businessUnit}/$path').replace(queryParameters: query));
 
   /// A pagination link exactly as the server returned it.
   Future<Map<String, dynamic>?> link(String absoluteUrl) => _cached(Uri.parse(absoluteUrl));
 
   /// Playback resolution for a video id. Never cached: stream URLs and rights change with the moment.
   Future<Map<String, dynamic>?> mediaComposition(String videoId) =>
-      _fetch(Uri.parse('$_base/mediaComposition/byUrn/urn:rts:video:$videoId'));
+      _fetch(Uri.parse('$_base/mediaComposition/byUrn/${_unit.videoUrnPrefix}$videoId'));
 
   Future<Map<String, dynamic>?> _cached(Uri uri) async {
     final key = uri.toString();
@@ -63,7 +66,7 @@ class RtsPlayApi {
 
   Future<Map<String, dynamic>?> _fetch(Uri uri) async {
     final paused = _pausedUntil;
-    if (paused != null && _now().isBefore(paused)) throw RtsPlayRateLimitedException(paused.difference(_now()));
+    if (paused != null && _now().isBefore(paused)) throw SrgRateLimitedException(paused.difference(_now()));
     await _enter();
     try {
       return _body(await _http.get(uri.toString(), headers: _headers), uri);
@@ -77,7 +80,7 @@ class RtsPlayApi {
     if (response.statusCode == 429) {
       final seconds = int.tryParse(response.headers['retry-after'] ?? '') ?? 60;
       _pausedUntil = _now().add(Duration(seconds: seconds));
-      throw RtsPlayRateLimitedException(Duration(seconds: seconds));
+      throw SrgRateLimitedException(Duration(seconds: seconds));
     }
     throwIfHttpError(response);
     final data = response.data;

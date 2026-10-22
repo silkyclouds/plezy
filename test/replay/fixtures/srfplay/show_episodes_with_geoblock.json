@@ -1,0 +1,304 @@
+{
+ "next": "https://il.srgssr.ch/integrationlayer/2.0/srf/mediaList/video/latest/byShow/3b016ffc-afa2-466d-a694-c48b7ffe1783?pageSize=3&next=1",
+ "mediaList": [
+  {
+   "id": "f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "title": "Gletscher – Wettlauf gegen die Zeit",
+   "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+   "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt",
+   "mediaDescription": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+   "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-22T20:10:00+02:00",
+   "duration": 5314160,
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "validTo": "2027-01-20T23:59:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Gletscher – Wettlauf gegen die Zeit",
+    "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+    "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+    "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+    "publishedDate": "2026-10-22T20:10:00+02:00",
+    "id": "d3f19eed-ea22-4c58-ba0d-4ae0053b3a30",
+    "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätt"
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+   "bannerImageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "bannerImageCopyright": "SRG SSR/GEDEON programmes 2025"
+  },
+  {
+   "id": "fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "title": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "lead": "Es ist einer der grössten Spionagefälle der Schweizer Geschichte. Und noch heute, fünfzig Jahre nach der Aufdeckung des Skandals, wirft der Fall Fragen auf, sorgt für Kontroversen und weckt Emotionen.",
+   "description": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Ag",
+   "mediaDescription": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Ag",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-14302147385660032954",
+   "imageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "imageCopyright": "SRG SSR/RTS",
+   "type": "EPISODE",
+   "date": "2026-10-18T22:45:00+02:00",
+   "duration": 3113360,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261015_000644_19851012_v_webcast_h264_q50.mp4?d=ap&assetId=fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261015_000644_19851012_v_webcast_h264_q50.mp4?d=ap&assetId=fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "validFrom": "2026-10-18T20:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+    "lead": "Es ist einer der grössten Spionagefälle der Schweizer Geschichte. Und noch heute, fünfzig Jahre nach der Aufdeckung des Skandals, wirft der Fall Fragen auf, sorgt für Kontroversen und weckt Emotionen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-14302147385660032954",
+    "imageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+    "imageCopyright": "SRG SSR/RTS",
+    "publishedDate": "2026-10-18T22:45:00+02:00",
+    "id": "8c538320-7842-4737-850e-db263a35aacb",
+    "description": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Ag"
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-14302147385660032954",
+   "bannerImageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "bannerImageCopyright": "SRG SSR/RTS"
+  },
+  {
+   "id": "04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "title": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "lead": "Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement – und wie gelingt das Zusammenleben?",
+   "description": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst",
+   "mediaDescription": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+   "imageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-10-15T20:10:00+02:00",
+   "duration": 5449040,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261012_095243_19797730_v_webcast_h264_q50.mp4?d=ap&assetId=04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261012_095243_19797730_v_webcast_h264_q50.mp4?d=ap&assetId=04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+    "lead": "Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement – und wie gelingt das Zusammenleben?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+    "imageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-10-15T20:10:00+02:00",
+    "id": "601aa648-de0b-4610-a7dc-dde48379d0b9",
+    "description": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst"
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+   "bannerImageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "bannerImageCopyright": "SRG SSR"
+  }
+ ]
+}

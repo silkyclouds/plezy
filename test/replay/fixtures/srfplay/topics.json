@@ -1,0 +1,142 @@
+{
+ "topicList": [
+  {
+   "id": "a709c610-b275-4c0c-a496-cba304c36712",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+   "title": "News & Hintergründe",
+   "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+   "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+   "imageTitle": "News & Hintergründe"
+  },
+  {
+   "id": "649e36d7-ff57-41c8-9c1b-7892daf15e78",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:649e36d7-ff57-41c8-9c1b-7892daf15e78",
+   "title": "Sport",
+   "lead": "Das aktuelle Sportgeschehen im In- und Ausland steht im Mittelpunkt der Sportsendungen von SRF. Hier finden Sie alle Sportsendungen zum Nachschauen.",
+   "description": "Im Fokus der Sportsendungen von SRF stehen alle relevanten Sportarten mit Highlights, Zusammenfassungen und Analysen wichtiger Spiele und Turniere sowie Interviews mit Sportler*innen und Sportfunktionären.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-8",
+   "imageTitle": "Sport"
+  },
+  {
+   "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+   "title": "Dokus & Reportagen",
+   "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+   "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+   "imageTitle": "Dokus & Reportagen"
+  },
+  {
+   "id": "1d7d9cfb-6682-4d5b-9e36-322e8fa93c03",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:1d7d9cfb-6682-4d5b-9e36-322e8fa93c03",
+   "title": "Kids",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/e6efd4e2784e427caec845c1dfcfe82b.jpg",
+   "imageTitle": "Kinder"
+  },
+  {
+   "id": "67f812fd-19a3-4c22-9e6b-ec36e65a4703",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:67f812fd-19a3-4c22-9e6b-ec36e65a4703",
+   "title": "Film",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/57731e5ed53c499f86713d642d07d8d6.jpg",
+   "imageTitle": "Film"
+  },
+  {
+   "id": "fa793c13-bebc-41b9-9710-bf8a34192c15",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:fa793c13-bebc-41b9-9710-bf8a34192c15",
+   "title": "Serien",
+   "lead": "Von der täglichen Telenovela über Top US-Serien und Krimi-Serien bis zu exklusiven Eigenproduktionen - hier finden User alle Serien, die SRF online zur Verfügung stellt.",
+   "description": "Zu einen werden Top-Serien wie «Grey's Anatomy» oder «Chicago Fire» geboten. Zum anderen stehen die Geschichten der «Wege zum Glück»-Telenovelas zur Verfügung, oder spannende Krimiserien aus dem Norden sowie Eigenproduktion sorgen für Nervenkitzel.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/4ddf8ed493b0492398348e3063c35474.jpg",
+   "imageTitle": "Filme & Serien"
+  },
+  {
+   "id": "641223fa-f112-4d98-8aec-cb22262a1182",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:641223fa-f112-4d98-8aec-cb22262a1182",
+   "title": "Lifestyle & Gesellschaft",
+   "lead": "Aus unterschiedlichen Blickwinkeln wirf SRF mit diesen Sendungen einen Blick auf alle gesellschaftlichen Themen, die die Schweiz bewegen.",
+   "description": "Aus unterschiedlichen Blickwinkeln wirf SRF mit diesen Sendungen einen Blick auf alle gesellschaftlichen Themen, die die Schweiz bewegen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-9",
+   "imageTitle": "Lifestyle & Gesellschaft"
+  },
+  {
+   "id": "e52080fc-f36b-481e-955f-071b6c8d6dc3",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:e52080fc-f36b-481e-955f-071b6c8d6dc3",
+   "title": "Show & Comedy",
+   "lead": "Zeit zum Verweilen und zum Lachen. Hier bietet SRF viele unterhaltende Sendungen und grosse Shows.",
+   "description": "Grosse Shows, unvergessene Sendungen, klassische Comedy oder spitzfindige Satire - hier bietet SRF alle Sendungen, die für kurzweilige Unterhaltung sorgen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-3",
+   "imageTitle": "Show & Comedy"
+  },
+  {
+   "id": "b58dcf14-96ac-4046-8676-fd8a942c0e88",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:b58dcf14-96ac-4046-8676-fd8a942c0e88",
+   "title": "Wissen",
+   "lead": "Man hat nie ausgelernt. Das zeigen die SRF-Sendungen, die bei allem Wissenswerten genauer hinschauen.",
+   "description": "Neben «Kassensturz», «Puls» oder «Einstein» vermitteln auch andere Sendungen von SRF viel Wissenswertes. Dabei gibt es nicht nur über Konsum, Gesundheit, oder Wissenschaft viel Neues zu entdecken. Auch kleine tägliche Fragen finden hier ihre Antwort.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-6",
+   "imageTitle": "Wissen"
+  },
+  {
+   "id": "882cb264-cf81-4a9c-b660-d42519b7ce28",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:882cb264-cf81-4a9c-b660-d42519b7ce28",
+   "title": "Kultur",
+   "description": "Hier können Sie Sendungen und Videos von SRF Kultur zu den Themen Gesellschaft, Kultur, Philosophie und Religion streamen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-7",
+   "imageTitle": "Kultur"
+  },
+  {
+   "id": "fe4a911a-8355-4c5f-a2db-ea8483cf420c",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:fe4a911a-8355-4c5f-a2db-ea8483cf420c",
+   "title": "Musik",
+   "lead": "Musik in ihrer ganzen Breite bei SRF",
+   "description": "Hier bietet SRF ein breites Spektrum an Inhalten rund ums Thema Musik in allen Stilrichtungen.\r\nKonzerte von angesagten oder unbekannten Künstlern wie auch Talks mit Musikern und Musikerinnen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/MUSIK-667x375-NEU.jpg",
+   "imageTitle": "Musik"
+  },
+  {
+   "id": "593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:593eb926-d892-41ba-8b1f-eccbcfd7f15f",
+   "title": "Gebärdensprache",
+   "lead": "Hier finden Sie Inhalte mit Gebärdensprache.",
+   "description": "SRF bietet diverse Sendungen mit Gebärdensprache an. Hier finden Sie die entsprechenden Inhalte.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/5d97efb369a44527bda0eb2278a0db3b.jpg",
+   "imageTitle": "Gebärdensprache"
+  },
+  {
+   "id": "4acf86dd-7ff7-45d3-baf8-33375340d976",
+   "vendor": "SRF",
+   "transmission": "TV",
+   "urn": "urn:srf:topic:tv:4acf86dd-7ff7-45d3-baf8-33375340d976",
+   "title": "Audiodeskription",
+   "lead": "Hier finden Sie Inhalte mit Audiodeskription.",
+   "description": "SRF bietet diverse Sendungen mit Audiodeskription an. Hier finden Sie die entsprechenden Inhalte.",
+   "imageUrl": "https://download-media.srf.ch/world/image/audio/2021/12/ce8375274a3c4984ac765001dcae19db.jpg",
+   "imageTitle": "Audiodeskription"
+  }
+ ]
+}

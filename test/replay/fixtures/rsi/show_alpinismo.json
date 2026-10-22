@@ -1,0 +1,34 @@
+{
+ "id": "2649987",
+ "vendor": "RSI",
+ "transmission": "TV",
+ "urn": "urn:rsi:show:tv:2649987",
+ "title": "Scuola di alpinismo",
+ "lead": "",
+ "description": "La serie “Scuola di alpinismo” ci porta alla scoperta del programma di formazione del Club Alpino Svizzero (CAS) per giovani alpinisti. I telespettatori possono vivere in prima persona l’avventuroso allenamento, si immergono in paesaggi spettacolari e ampliano le loro conoscenze sugli sport di montagna.\n",
+ "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/WEBVISUAL/2898114",
+ "imageTitle": "Scuola di alpinismo",
+ "posterImageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/POSTER/2898129",
+ "posterImageIsFallbackUrl": false,
+ "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/cf9050e.jpg",
+ "podcastImageIsFallbackUrl": true,
+ "timeTableUrl": "https://www.rsi.ch/palinsesto",
+ "primaryChannelId": "la1",
+ "primaryChannelUrn": "urn:rsi:channel:tv:la1",
+ "numberOfEpisodes": 7,
+ "topicList": [
+  {
+   "id": "40",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:40",
+   "title": "Documentari",
+   "lead": "Documentari",
+   "description": "i contenuti della RSI per la  categoria Documentari",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+   "imageTitle": "Documentari",
+   "imageCopyright": "RSI"
+  }
+ ],
+ "allowIndexing": true
+}

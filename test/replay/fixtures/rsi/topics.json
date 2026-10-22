@@ -1,0 +1,136 @@
+{
+ "topicList": [
+  {
+   "id": "7",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:7",
+   "title": "Info",
+   "lead": "Info",
+   "description": "i contenuti della RSI per la  categoria News",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/news.png",
+   "imageTitle": "Info",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "8",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:8",
+   "title": "Sport",
+   "lead": "Sport",
+   "description": "i contenuti della RSI per la  categoria Sport",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/sport.png",
+   "imageTitle": "Sport",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "6000",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:6000",
+   "title": "Film",
+   "lead": "Film",
+   "description": "i contenuti della RSI per la  categoria Film",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/film.png",
+   "imageTitle": "Film",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "600",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:600",
+   "title": "Serie TV",
+   "lead": "Serie TV",
+   "description": "i contenuti della RSI per la  categoria Serie TV",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/serietv.png",
+   "imageTitle": "Serie TV",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "11",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:11",
+   "title": "Kids",
+   "lead": "Kids",
+   "description": "i contenuti della RSI per la  categoria Kids",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/kids.png",
+   "imageTitle": "Kids",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "40",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:40",
+   "title": "Documentari",
+   "lead": "Documentari",
+   "description": "i contenuti della RSI per la  categoria Documentari",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/documentari.png",
+   "imageTitle": "Documentari",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "100",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:100",
+   "title": "Musica",
+   "lead": "Musica",
+   "description": "i contenuti della RSI per la  categoria Musica",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/musica.png",
+   "imageTitle": "Musica",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "4",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:4",
+   "title": "Intrattenimento",
+   "lead": "Intrattenimento",
+   "description": "i contenuti della RSI per la  categoria Intrattenimento",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/intrattenimento.png",
+   "imageTitle": "Intrattenimento",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "1",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:1",
+   "title": "Archivi",
+   "lead": "Archivi",
+   "description": "i contenuti della RSI per la  categoria Archivi",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/archivi.png",
+   "imageTitle": "Archivi",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "80",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:80",
+   "title": "Lingua dei segni",
+   "lead": "Lingua dei segni",
+   "description": "i contenuti della RSI per la  categoria Lingua dei segni",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/linguadeisegni.png",
+   "imageTitle": "Lingua dei segni",
+   "imageCopyright": "RSI"
+  },
+  {
+   "id": "90",
+   "vendor": "RSI",
+   "transmission": "TV",
+   "urn": "urn:rsi:topic:tv:90",
+   "title": "Audiodescrizioni",
+   "lead": "Audiodescrizioni",
+   "description": "i contenuti della RSI per la  categoria Audiodescrizioni",
+   "imageUrl": "https://il.rsi.ch/rsi-api/resize/image/v2/public/binary/audiodescrizioni.png",
+   "imageTitle": "Audiodescrizioni",
+   "imageCopyright": "RSI"
+  }
+ ]
+}

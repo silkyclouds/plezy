@@ -1,0 +1,266 @@
+{
+ "id": "d4b42d96-7999-49e8-8aa2-f0656db8910b",
+ "isPublished": true,
+ "vendor": "SRF",
+ "title": "DOK",
+ "topicUrn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+ "sectionList": [
+  {
+   "id": "f0c9649d-c8e3-4761-84d5-5e7522443bed",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {}
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "16b39727-1133-488a-a581-88c34c5f71d6",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Unsere neusten Dokumentationen"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "ef13de5f-57f2-4846-a80b-c690d32b66a8",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "DOK – Hoch hinaus: Die neue Staffel"
+    }
+   },
+   "start": "2026-10-16T17:00:00+02:00",
+   "isGlobal": false
+  },
+  {
+   "id": "86c7af51-be89-4492-8c79-817abc938ba5",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSectionWithShow",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Neue Reporter-Serie von Christof Franzen"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "31ae9f43-377f-4ce3-b3bb-e52ec71fb55f",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Die neue Sendung: Im Einsatz"
+    }
+   },
+   "start": "2026-03-13T05:00:00+01:00",
+   "isGlobal": false
+  },
+  {
+   "id": "09b06928-2ca1-4dd4-8240-018f56fd7a55",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Berge & Abenteuer"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "ead17b6e-3d57-4f92-8c54-e193b7ed3160",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Menschen & Schicksale"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "a6ae08f9-d2e1-40c7-b830-20149dee62b9",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "ShowSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Alle SRF bi de Lüt-Serien"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "71aa5b54-aea5-4d12-9ca3-7d2fdb5d3381",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Recht & Verbrechen"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "9cd47384-b20b-4269-b7e5-4b3d1b024f60",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Liebe & Sexualität"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "c19b9717-247b-45ea-b174-13df3601e5a8",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Politik & Gesellschaft"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "371121da-910a-45c6-9035-bf1f025643be",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Nachhaltigkeit & Umwelt"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "8732715d-5df1-4296-9dc8-7eb5675bbe4d",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Gesundheit & Krankheit"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "7e29ec6b-c5ce-478c-810a-4ecdeb90a311",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Religion"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "4fd40bff-12e2-49ba-a01b-9d87a60ee20f",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Kunst & Kultur"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "83ed287b-ceae-4355-82f5-b5a7bd8bc67e",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Musik"
+    }
+   },
+   "isGlobal": false
+  },
+  {
+   "id": "93dabac8-01e3-49d3-a7a0-848ea4784885",
+   "isPublished": true,
+   "vendor": "SRF",
+   "sectionType": "MediaSection",
+   "mediaType": "VIDEO",
+   "hasPersonalizedContent": false,
+   "representation": {
+    "name": "Swimlane",
+    "properties": {
+     "title": "Sport"
+    }
+   },
+   "isGlobal": false
+  }
+ ],
+ "nextSectionChange": "2026-10-23T01:59:59+02:00",
+ "type": "TOPIC_PAGE"
+}

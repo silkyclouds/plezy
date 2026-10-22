@@ -1,0 +1,452 @@
+{
+ "mediaList": [
+  {
+   "id": "086efedc-fa00-4f08-8213-b0d7501a0ec8",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:086efedc-fa00-4f08-8213-b0d7501a0ec8",
+   "title": "Kämpfen oder fliehen? Junge Ukrainer im Dilemma",
+   "lead": "Die Ukraine braucht Soldaten, doch nicht alle wollen kämpfen. Viele junge Männer stehen vor einem Dilemma: Kämpfen oder fliehen?",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/308f3883-bf17-421c-acb7-c52a19123358.jpeg",
+   "imageTitle": "Kämpfen oder fliehen? Junge Ukrainer im Dilemma",
+   "imageFocalPoint": {
+    "percentageX": 64,
+    "percentageY": 60
+   },
+   "type": "EPISODE",
+   "date": "2026-10-21T13:00:00+02:00",
+   "duration": 979480,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/rundschau/2026/10/rundschau_20261021_162039_19955182_v_webcast_h264_q50.mp4?d=ap&assetId=086efedc-fa00-4f08-8213-b0d7501a0ec8",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/rundschau/2026/10/rundschau_20261021_162039_19955182_v_webcast_h264_q50.mp4?d=ap&assetId=086efedc-fa00-4f08-8213-b0d7501a0ec8",
+   "validFrom": "2026-10-21T13:00:00+02:00",
+   "validTo": "2099-12-31T23:59:00+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": false,
+   "episode": {
+    "title": "Kämpfen oder fliehen? Junge Ukrainer im Dilemma",
+    "lead": "Die Ukraine braucht Soldaten, doch nicht alle wollen kämpfen. Viele junge Männer stehen vor einem Dilemma: Kämpfen oder fliehen?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Thumbnail-Play-ohne.png",
+    "imageTitle": "Kämpfen oder fliehen? Junge Ukrainer im Dilemma",
+    "publishedDate": "2026-10-21T13:00:00+02:00",
+    "id": "b09273de-72c1-44f6-9add-e0ed7d1e12e7"
+   },
+   "show": {
+    "id": "49863a84-1ab7-4abb-8e69-d8e8bda6c989",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:49863a84-1ab7-4abb-8e69-d8e8bda6c989",
+    "title": "Rundschau",
+    "lead": "Reportagen nah am Geschehen in Politik, Wirtschaft und Gesellschaft.",
+    "description": "Reportagen und Magazinberichte nah am Geschehen in Politik, Wirtschaft und Gesellschaft, oft mitten drin, ohne die kritisch-journalistische Distanz zu verlieren.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2017/03/d0bd21da1159448bbfac0b5d4a8dcc31.jpg",
+    "imageTitle": "Rundschau",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2017/03/d0bd21da1159448bbfac0b5d4a8dcc31.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/b11a13fbd31c4ff5b2233cb780829884.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/49863a84-1ab7-4abb-8e69-d8e8bda6c989.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/49863a84-1ab7-4abb-8e69-d8e8bda6c989.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/rundschau/mehr-zur-sendung",
+      "title": "Mehr zur Sendung"
+     },
+     {
+      "link": "https://www.srf.ch/sendungen/rundschau/nutzen-sie-unsere-srf-investigativ-box",
+      "title": "SRF Investigativ-Box"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 2691,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Thumbnail-Play-ohne.png",
+   "bannerImageTitle": "Kämpfen oder fliehen? Junge Ukrainer im Dilemma"
+  },
+  {
+   "id": "22dd8bd4-de49-4a7f-b0aa-986b5cd5bdc4",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:22dd8bd4-de49-4a7f-b0aa-986b5cd5bdc4",
+   "title": "Midterms: Wer macht Cash, wenn Trump regiert?",
+   "lead": "Wer profitiert von Trumps Wirtschaftspolitik, wer verliert – und wie beeinflusst das die Wahlentscheidung bei den Midterms?",
+   "description": "Wir treffen auf eine Bitcoin-Szene, die in Trump einen Verbündeten gefunden hat, und besuchen Unternehmer, die in seiner Wirtschaftspolitik grosse Chacen sehen. Doch der KI-Boom braucht Rechenzentren, die Energie verschlingen, während sich Anwohnerinnen und Anwohner gegen den Ausbau und die Umweltbe",
+   "mediaDescription": "Wir treffen auf eine Bitcoin-Szene, die in Trump einen Verbündeten gefunden hat, und besuchen Unternehmer, die in seiner Wirtschaftspolitik grosse Chacen sehen. Doch der KI-Boom braucht Rechenzentren, die Energie verschlingen, während sich Anwohnerinnen und Anwohner gegen den Ausbau und die Umweltbe",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/e541133f-49b2-49ec-97a3-b57d14ed6b32.png",
+   "imageTitle": "Wer macht Cash, wenn Trump regiert?",
+   "imageFocalPoint": {
+    "percentageX": 56,
+    "percentageY": 42
+   },
+   "type": "EPISODE",
+   "date": "2026-10-20T22:25:00+02:00",
+   "duration": 3987400,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/club/2026/10/club_20261020_113700_19932216_v_webcast_h264_q50.mp4?d=ap&assetId=22dd8bd4-de49-4a7f-b0aa-986b5cd5bdc4",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/club/2026/10/club_20261020_113700_19932216_v_webcast_h264_q50.mp4?d=ap&assetId=22dd8bd4-de49-4a7f-b0aa-986b5cd5bdc4",
+   "validFrom": "2026-10-20T16:30:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Wer macht Cash, wenn Trump regiert?",
+    "lead": "Donald Trump verspricht den USA einen neuen Wirtschaftsboom: weniger Regulierung, mehr Investitionen, neue Technologien und neue Jobs. Milliarden fliessen in künstliche Intelligenz, Rechenzentren und Kryptowährungen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Folge2-NuS.png",
+    "imageTitle": "Wer macht Cash, wenn Trump regiert?",
+    "publishedDate": "2026-10-20T22:25:00+02:00",
+    "id": "282a6f30-2ba5-4581-a395-6b21c9c85017",
+    "description": "Wir treffen auf eine Bitcoin-Szene, die in Trump einen Verbündeten gefunden hat, und besuchen Unternehmer, die in seiner Wirtschaftspolitik grosse Chacen sehen. Doch der KI-Boom braucht Rechenzentren, die Energie verschlingen, während sich Anwohnerinnen und Anwohner gegen den Ausbau und die Umweltbe"
+   },
+   "show": {
+    "id": "0f532a74-d501-4470-be25-527a4fbb82fa",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:0f532a74-d501-4470-be25-527a4fbb82fa",
+    "title": "Club",
+    "lead": "Die Gäste mit ihren authentischen Geschichten und Fachwissen prägen die Sendung.",
+    "description": "Alles, was Menschen bewegt, wird hier diskutiert. Die Moderatoren und die Diskussionsgäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen die Sendung.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/01/8789062d5349441986ac21626673f36f.jpg",
+    "imageTitle": "Club",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/01/8789062d5349441986ac21626673f36f.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/ee9a823df5cc4c4b9e06a495fe6cbf22.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/0f532a74-d501-4470-be25-527a4fbb82fa.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/0f532a74-d501-4470-be25-527a4fbb82fa.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1610,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "deu",
+     "language": "Deutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/Folge2-NuS.png",
+   "bannerImageTitle": "Wer macht Cash, wenn Trump regiert?"
+  },
+  {
+   "id": "7254c3fe-48bd-4fa9-a2cd-448d7417192b",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:7254c3fe-48bd-4fa9-a2cd-448d7417192b",
+   "title": "Organspende: Hoffnung zwischen Leben und Tod",
+   "lead": "Was passiert, wenn ein fremdes Organ über Leben und Tod entscheidet? ",
+   "description": "Neues Organ, neues Leben? Daniela Lager trifft im Juni 2025 auf Paul Baumann. Zum Zeitpunkt wartet er bereits über zwei Jahre auf eine neue Leber. Er leidet an einer fortschreitenden Leberzirrhose. Um zu leben, ist er ist auf ein fremdes Organ angewiesen. Doch auf ihn wartet eine herausfordernde Zei",
+   "mediaDescription": "Neues Organ, neues Leben? Daniela Lager trifft im Juni 2025 auf Paul Baumann. Zum Zeitpunkt wartet er bereits über zwei Jahre auf eine neue Leber. Er leidet an einer fortschreitenden Leberzirrhose. Um zu leben, ist er ist auf ein fremdes Organ angewiesen. Doch auf ihn wartet eine herausfordernde Zei",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/f8511ffc-96c7-4865-b201-236655103c17.jpeg",
+   "imageTitle": "Organspende: Hoffnung zwischen Leben und Tod",
+   "imageCopyright": "SRG SSR",
+   "imageFocalPoint": {
+    "percentageX": 41,
+    "percentageY": 45
+   },
+   "type": "EPISODE",
+   "date": "2026-10-19T21:05:00+02:00",
+   "duration": 2137520,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/puls/2026/10/puls_20261016_000539_19867682_v_webcast_h264_q50.mp4?d=ap&assetId=7254c3fe-48bd-4fa9-a2cd-448d7417192b",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/puls/2026/10/puls_20261016_000539_19867682_v_webcast_h264_q50.mp4?d=ap&assetId=7254c3fe-48bd-4fa9-a2cd-448d7417192b",
+   "validFrom": "2026-10-19T08:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "relatedContentList": [
+    {
+     "id": "fcd8a939-0e8c-4709-9d63-d9557f320520",
+     "title": "Pauls neue Leber: Hoffen, Bangen und eine tragische Wende",
+     "url": "https://www.srf.ch/wissen/mensch/organspende-pauls-neue-leber-hoffen-bangen-und-eine-tragische-wende",
+     "isExternal": true
+    },
+    {
+     "id": "27cfeee6-a4d5-4aac-9924-b412fef52cc7",
+     "title": "Puls-Chat: Organspende",
+     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-organspende-werden-juengere-menschen-bei-der-organvergabe-bevorzugt",
+     "isExternal": true
+    }
+   ],
+   "episode": {
+    "title": "Organspende: Hoffnung zwischen Leben und Tod",
+    "lead": "Was passiert, wenn ein fremdes Organ über Leben und Tod entscheidet? «Puls» begleitet einen Leberpatienten auf dem langen Weg zur Transplantation, erzählt die Geschichte einer Familie nach einem tödlichen Unfall – und zeigt, was sich bei der Organspende in der Schweiz verändert.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-4673798940592399215",
+    "imageTitle": "Organspende: Hoffnung zwischen Leben und Tod",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-10-19T21:05:00+02:00",
+    "id": "67757035-700b-4267-95ec-047f05b331fb",
+    "description": "Neues Organ, neues Leben? Daniela Lager trifft im Juni 2025 auf Paul Baumann. Zum Zeitpunkt wartet er bereits über zwei Jahre auf eine neue Leber. Er leidet an einer fortschreitenden Leberzirrhose. Um zu leben, ist er ist auf ein fremdes Organ angewiesen. Doch auf ihn wartet eine herausfordernde Zei"
+   },
+   "show": {
+    "id": "709898cb-2dba-45da-8e21-b1f416c39dc9",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:709898cb-2dba-45da-8e21-b1f416c39dc9",
+    "title": "Puls",
+    "lead": "Das Magazin berichtet über alles rund um die Gesundheit - unabhängig, fundiert und unterhaltend.",
+    "description": "Das Gesundheitsmagazin «Puls» berichtet aktuell und hintergründig über Themen aus den Bereichen Medizin, Psychologie, Ernährung und Fitness. «Puls» fragt kritisch nach belegter Wirkung und Nebenwirkungen. Der konkrete Nutzen für das Publikum steht dabei im Zentrum.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2024/10/SRF-WISSEN-PULS-Webvisual-MASTER.jpg",
+    "imageTitle": "Puls",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2024/10/SRF-WISSEN-PULS-Webvisual-MASTER.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2024/10/SRF-WISSEN-PULS-Posterformat-MASTER.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/709898cb-2dba-45da-8e21-b1f416c39dc9.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/709898cb-2dba-45da-8e21-b1f416c39dc9.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/sendungen/puls/uebersicht-2",
+      "title": "Mehr zur Sendung"
+     },
+     {
+      "link": "https://www.srf.ch/sendungen/puls/puls-chats",
+      "title": "Alle «Puls»-Chats"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1005,
+    "topicList": [
+     {
+      "id": "b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:b58dcf14-96ac-4046-8676-fd8a942c0e88",
+      "title": "Wissen",
+      "lead": "Man hat nie ausgelernt. Das zeigen die SRF-Sendungen, die bei allem Wissenswerten genauer hinschauen.",
+      "description": "Neben «Kassensturz», «Puls» oder «Einstein» vermitteln auch andere Sendungen von SRF viel Wissenswertes. Dabei gibt es nicht nur über Konsum, Gesundheit, oder Wissenschaft viel Neues zu entdecken. Auch kleine tägliche Fragen finden hier ihre Antwort.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-6",
+      "imageTitle": "Wissen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "gsw",
+     "language": "Schweizerdeutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-4673798940592399215",
+   "bannerImageTitle": "Organspende: Hoffnung zwischen Leben und Tod",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "title": "Tagesschau vom 21.10.2026: Hauptausgabe",
+   "lead": "SVP-Nationalrat Rémy Wyssmann kandidiert für den Bundesrat, Schnellverfahren nach Krawallen in Frankreich, Eisenkot fordert Netanjahu bei den israelischen Parlamentswahlen heraus, Alice Schwarzer stellt feministisches Magazin «Emma» ein",
+   "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+   "imageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe",
+   "type": "EPISODE",
+   "date": "2026-10-21T19:30:00+02:00",
+   "duration": 1429560,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261021_193000_19956550_v_webcast_h264_q60.mp4?d=ap&assetId=3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/ts20/2026/10/ts20_20261021_193000_19956550_v_webcast_h264_q60.mp4?d=ap&assetId=3e408dd4-2e13-4d03-ab6f-55ef0d0e9019",
+   "validFrom": "2026-10-21T19:30:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Tagesschau vom 21.10.2026: Hauptausgabe",
+    "lead": "SVP-Nationalrat Rémy Wyssmann kandidiert für den Bundesrat, Schnellverfahren nach Krawallen in Frankreich, Eisenkot fordert Netanjahu bei den israelischen Parlamentswahlen heraus, Alice Schwarzer stellt feministisches Magazin «Emma» ein",
+    "imageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+    "imageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe",
+    "publishedDate": "2026-10-21T19:30:00+02:00",
+    "id": "83fa71cd-2819-4347-bfd1-8e7372223330"
+   },
+   "show": {
+    "id": "ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+    "title": "Tagesschau",
+    "lead": "Nationale und internationale Nachrichten vom Tag.",
+    "description": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "imageTitle": "Tagesschau",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2020/12/917e4ef8986a460d94f3bd9e7139e6a9.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2023/04/96e8a418e34a466c861ef6cefd19defd.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/ff969c14-c5a7-44ab-ab72-14d4c9e427a9.xml",
+    "links": [
+     {
+      "link": "https://www.srf.ch/play/tv/sendung/tagesschau-spezial?id=c4b213cd-9790-0001-3063-e4001037ebe0",
+      "title": "Tagesschau Spezial"
+     }
+    ],
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 20460,
+    "topicList": [
+     {
+      "id": "a709c610-b275-4c0c-a496-cba304c36712",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:a709c610-b275-4c0c-a496-cba304c36712",
+      "title": "News & Hintergründe",
+      "lead": "Hier finden Sie alle Sendungen von SRF zum Themenbereich News & Hintergründe: aktuell, informativ und tiefgründig.",
+      "description": "Tagesschau, Meteo, 10vor10, Schweiz aktuell, Börse, Kinder News, Forward, Arena, SRF Börse und viele mehr - die News- und Hintergrund-Sendungen von SRF stehen für seriös recherchierte Berichterstattung und kompetente Hintergrundberichterstattung.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-4",
+      "imageTitle": "News & Hintergründe"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/video/2026/10/3e408dd4-2e13-4d03-ab6f-55ef0d0e9019-117s8ms.png",
+   "bannerImageTitle": "Tagesschau vom 21.10.2026: Hauptausgabe"
+  }
+ ]
+}

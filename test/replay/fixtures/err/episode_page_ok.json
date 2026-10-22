@@ -1,0 +1,269 @@
+{
+ "mainContent": {
+  "id": 1092243,
+  "updated": 1589975640,
+  "scheduleStart": 1782109800,
+  "heading": "Pätu",
+  "subHeading": "",
+  "lead": "<p>Loo ühe perekonna elust Lasnamäe korteris kirjutas Astrid Reinla, lavastas Tõnu Oja.</p>\n<p>Mängivad Tiina Tõnis, Kadri Selmet, Tõnu Oja, Aita Vaher, Linda Vaher ja Tõnu Saar. Režissöör Karin Nurm.</p>",
+  "body": "",
+  "primaryCategoryId": 4384,
+  "iframeMediaUrl": "",
+  "parentContentId": 1092236,
+  "parentContentPath": "[1092236]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 0,
+  "color": "#000000",
+  "season": 1,
+  "episode": 1,
+  "country": "ETV",
+  "originalTitle": "",
+  "year": "1990",
+  "contentOrder": 1,
+  "editor": "",
+  "url": "https://lasteekraan.err.ee/1092243/patu",
+  "radiomanId": 0,
+  "lastChangedBy": 15920,
+  "commenting": 2,
+  "progId": 10009750513,
+  "photos": [
+   {
+    "id": 678134,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134hd79bt1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134he1a8t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134hbd9et6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134he2e8t8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 678134,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134hd79bt1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134he1a8t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134hbd9et6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2019/08/29/678134he2e8t8.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 780772,
+    "photoTypes": {
+     "1": {
+      "type": 1,
+      "w": 120,
+      "h": 80,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780772h9974t1.jpg"
+     },
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780772h6d81t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780772hc22at6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2020/05/20/780772he4dct8.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1092236,
+    "type": "series",
+    "photos": [
+     {
+      "id": 759233,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 759233,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 780772,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 759233,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [],
+    "squarePhotos": []
+   }
+  ],
+  "rootContentId": 1092236,
+  "statsHeading": "Pätu H1 O1",
+  "statsSeriesTitle": "Pätu",
+  "rootCategoryId": 3592,
+  "canonicalUrl": "https://lasteekraan.err.ee/1092243",
+  "fancyUrl": "patu",
+  "anotherDomainContent": true,
+  "created": 1589975640,
+  "publicStart": 1589975640,
+  "clips": [],
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1092243/patu",
+  "relatedRadiomanIds": [],
+  "medias": [
+   {
+    "id": 1937672,
+    "ord": 0,
+    "type": "video",
+    "headingEt": "",
+    "headingRu": "",
+    "headingEn": "",
+    "podcastUrl": "",
+    "bodyEt": null,
+    "bodyEn": null,
+    "bodyRu": null,
+    "embedDisabled": 0,
+    "publicEnd": 0,
+    "mediaRadiomanId": 0,
+    "photoId": 0,
+    "ld": 0,
+    "sd": 1,
+    "hd": 1,
+    "fhd": 1,
+    "4k": 0,
+    "folder": "vod",
+    "mediaHash": "0d21cd541e3b83d98c2c28b817fa38fb",
+    "skd": "",
+    "jwt": null,
+    "file": "1990-080322-0001_0004_D10_PATU_ERR.mp4",
+    "version": 1,
+    "filename": "1990-080322-0001_0004_D10_PATU_ERR.mp4",
+    "cacheIndex": 1,
+    "versionId": 10834626207,
+    "isPg": false,
+    "mediaInfo": {
+     "aspectRatio": "4:3",
+     "duration": "1590"
+    },
+    "src": {
+     "id": 1937672,
+     "ratio": "4:3",
+     "hls2": "//vod.err.ee/hls/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/master.m3u8",
+     "hls": "//vod.err.ee/hls/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/master.m3u8",
+     "file": "//vod.err.ee/file/vod/0d21cd541e3b83d98c2c28b817fa38fb.mp4",
+     "hlsNew": "//vod.err.ee/hls/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/master.m3u8",
+     "dashNew": "//vod.err.ee/dash/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/manifest.mpd",
+     "dash": "//vod.err.ee/dash/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/manifest.mpd",
+     "hlsNoSub": "//vod.err.ee/hls/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/nosub/master.m3u8",
+     "dashNoSub": "//vod.err.ee/dash/vod/0d21cd541e3b83d98c2c28b817fa38fb/3/v/nosub/manifest.mpd"
+    },
+    "mediaId": "0d21cd541e3b83d98c2c28b817fa38fb",
+    "periods": [
+     {
+      "publicStart": 1642975200,
+      "publicEnd": 4269967200,
+      "vodReqId": 10611065584
+     },
+     {
+      "publicStart": 1686747413,
+      "publicEnd": 10326664613,
+      "vodReqId": 10842140555
+     },
+     {
+      "publicStart": 1721197776,
+      "publicEnd": 10361114976,
+      "vodReqId": 11030080551
+     },
+     {
+      "publicStart": 1782111491,
+      "publicEnd": 10422025091,
+      "vodReqId": 11356969904
+     }
+    ],
+    "catchupDays": 99878,
+    "restrictions": {
+     "drm": false,
+     "geoBlock": false
+    },
+    "subtitles": [
+     {
+      "id": 0,
+      "subId": 256783,
+      "name": "eesti",
+      "srclang": "VA",
+      "version": 1,
+      "exported": 1,
+      "src": "https://services.err.ee/subtitles/file/256783/256783_VA.vtt",
+      "filename": "256783_VA.vtt"
+     }
+    ],
+    "photos": []
+   }
+  ],
+  "galleries": [],
+  "polls": [],
+  "bodyMedias": [],
+  "bodyTrustedHtmls": [],
+  "bodyPhotos": [],
+  "bodyGalleries": []
+ }
+}

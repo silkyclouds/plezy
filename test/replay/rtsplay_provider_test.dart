@@ -7,15 +7,17 @@ import 'package:http/testing.dart';
 import 'package:plezy/replay/model/replay_ref.dart';
 import 'package:plezy/replay/model/replay_title.dart';
 import 'package:plezy/replay/provider/replay_provider.dart';
-import 'package:plezy/replay/providers/rtsplay/rtsplay_api.dart';
-import 'package:plezy/replay/providers/rtsplay/rtsplay_ids.dart';
 import 'package:plezy/replay/providers/rtsplay/rtsplay_images.dart';
-import 'package:plezy/replay/providers/rtsplay/rtsplay_mapper.dart';
-import 'package:plezy/replay/providers/rtsplay/rtsplay_numbering.dart';
 import 'package:plezy/replay/providers/rtsplay/rtsplay_provider.dart';
+import 'package:plezy/replay/providers/rtsplay/rtsplay_unit.dart';
+import 'package:plezy/replay/providers/srg/srg_api.dart';
+import 'package:plezy/replay/providers/srg/srg_ids.dart';
+import 'package:plezy/replay/providers/srg/srg_mapper.dart';
+import 'package:plezy/replay/providers/srg/srg_numbering.dart';
 import 'package:plezy/utils/media_server_http_client.dart';
 
 const _fixtures = 'test/replay/fixtures/rtsplay';
+final _mapper = SrgMapper(rtsPlayUnit);
 const _clearId = '9a456c6b-899e-321a-8589-dc41eb60fcad';
 const _drmId = '77664424-7f00-3e17-977e-9887e03ab687';
 const _geoId = '0d9865f7-9973-3886-b61c-89a5a98c430e';
@@ -243,7 +245,7 @@ RtsPlayProvider _provider({List<http.Request>? log, http.Response Function(http.
       return (route ?? _route)(request);
     }),
   );
-  return RtsPlayProvider.withApi(RtsPlayApi(client));
+  return RtsPlayProvider.withApi(SrgApi(rtsPlayUnit, client));
 }
 
 ReplayRef _ref(String native) => ReplayRef('rtsplay', native);
@@ -458,7 +460,7 @@ void main() {
 
     test('an unnumbered episode of a long show points at its year', () async {
       final composition = jsonDecode(_fixture('media_composition_clear')) as Map<String, dynamic>;
-      final title = rtsTitleFromComposition(composition);
+      final title = _mapper.fromComposition(composition);
       expect(title!.seasonRef, _ref('season:385418/y2026'));
       expect(title.showRef, _ref('show:385418'));
     });
@@ -481,7 +483,7 @@ void main() {
         ..._video('film1', '2020-01-01T20:00:00+01:00', show: '1800017', count: 900),
         'episode': {'title': 'Telefilm'},
       };
-      final title = rtsTitleFromMedia(film)!;
+      final title = _mapper.fromMedia(film)!;
       expect((title.kind, title.showRef, title.seasonRef), (ReplayKind.movie, null, null));
     });
 
@@ -500,13 +502,13 @@ void main() {
     test('rights that ended or have not begun are predicted', () {
       final ended = {..._video('e1', '2020-01-01T20:00:00+01:00'), 'validTo': '2021-01-01T00:00:00+01:00'};
       final later = {..._video('e2', '2020-01-01T20:00:00+01:00'), 'validFrom': '2999-01-01T00:00:00+01:00'};
-      expect(rtsTitleFromMedia(ended)!.availability, ReplayAvailability.expired);
-      expect(rtsTitleFromMedia(later)!.availability, ReplayAvailability.upcoming);
+      expect(_mapper.fromMedia(ended)!.availability, ReplayAvailability.expired);
+      expect(_mapper.fromMedia(later)!.availability, ReplayAvailability.upcoming);
     });
 
     test('audio and live items are not titles', () {
-      expect(rtsTitleFromMedia({'id': 'a', 'urn': 'urn:rts:audio:a', 'mediaType': 'AUDIO', 'type': 'EPISODE'}), isNull);
-      expect(rtsTitleFromMedia(_video('l1', '2026-01-01T00:00:00+01:00', type: 'LIVESTREAM')), isNull);
+      expect(_mapper.fromMedia({'id': 'a', 'urn': 'urn:rts:audio:a', 'mediaType': 'AUDIO', 'type': 'EPISODE'}), isNull);
+      expect(_mapper.fromMedia(_video('l1', '2026-01-01T00:00:00+01:00', type: 'LIVESTREAM')), isNull);
     });
   });
 
@@ -603,7 +605,8 @@ void main() {
   });
 
   group('RTS Play numbering', () {
-    RtsNumbers read(String title, {Map<String, dynamic>? episode}) => rtsNumbers({'title': title, 'episode': ?episode});
+    SrgNumbers read(String title, {Map<String, dynamic>? episode}) =>
+        rtsPlayUnit.numbering.numbers({'title': title, 'episode': ?episode});
 
     test('the structured fields win over the title', () {
       expect(read('Un titre (Episode 9 - Saison 9)', episode: {'seasonNumber': 2, 'number': 5}), (
@@ -632,9 +635,9 @@ void main() {
     });
 
     test('the label is removed from the displayed title only', () {
-      expect(rtsCleanTitle('Tamara (1/8) (Episode 1)'), 'Tamara (1/8)');
-      expect(rtsCleanTitle('Femmes-orchestres (Episode 6 - Saison 14)'), 'Femmes-orchestres');
-      expect(rtsCleanTitle('(Episode 2)'), '(Episode 2)');
+      expect(rtsPlayUnit.numbering.cleanTitle('Tamara (1/8) (Episode 1)'), 'Tamara (1/8)');
+      expect(rtsPlayUnit.numbering.cleanTitle('Femmes-orchestres (Episode 6 - Saison 14)'), 'Femmes-orchestres');
+      expect(rtsPlayUnit.numbering.cleanTitle('(Episode 2)'), '(Episode 2)');
     });
   });
 
@@ -671,11 +674,11 @@ void main() {
       ]) {
         final parsed = ReplayRef.tryParse('rtsplay:$native');
         expect(parsed, ReplayRef('rtsplay', native));
-        expect(RtsId.tryParse(parsed!.nativeId), isNotNull, reason: native);
+        expect(SrgId.tryParse(parsed!.nativeId), isNotNull, reason: native);
       }
-      expect(RtsId.tryParse('video:a/b'), isNull);
-      expect(RtsId.tryParse('season:x/z3'), isNull);
-      expect(RtsId.tryParse('season:x'), isNull);
+      expect(SrgId.tryParse('video:a/b'), isNull);
+      expect(SrgId.tryParse('season:x/z3'), isNull);
+      expect(SrgId.tryParse('season:x'), isNull);
     });
   });
 }

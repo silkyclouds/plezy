@@ -1,0 +1,582 @@
+{
+ "mainContent": {
+  "id": 1610145707,
+  "updated": 1790148000,
+  "scheduleStart": 0,
+  "heading": "Neeme Järvi meistrikursus",
+  "subHeading": "Olari Elts",
+  "lead": "<p>Salvestatud juulis 2000 Pärnus Agape keskuses, David Oistrahhi muusikafestivali raames toimunud Neeme Järvi meistrikursustel. Esinejad Olari Elts ja Pärnu Linnaorkester.</p>",
+  "primaryCategoryId": 4135,
+  "iframeMediaUrl": "",
+  "parentContentId": 1610145704,
+  "parentContentPath": "[1610145704]",
+  "seriesType": 0,
+  "type": "episode",
+  "txReqId": 1,
+  "color": "#000000",
+  "season": 0,
+  "episode": 2,
+  "country": "Eesti",
+  "originalTitle": "",
+  "year": "2000",
+  "contentOrder": 0,
+  "editor": "",
+  "url": "https://jupiter.err.ee/1610145707/neeme-jarvi-meistrikursus",
+  "radiomanId": 0,
+  "lastChangedBy": 76492,
+  "commenting": 2,
+  "progId": 10010595036,
+  "photos": [
+   {
+    "id": 3825847,
+    "ord": 0,
+    "type": 0,
+    "created": 1790874795,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h6444t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h3331t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h1df7t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h9a43t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847hb6f7t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h62a4t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h7cd0t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847haa7ft80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPhotos": [
+   {
+    "id": 3825847,
+    "ord": 0,
+    "type": 0,
+    "created": 1790874795,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h6444t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h3331t6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h1df7t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h9a43t26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847hb6f7t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h62a4t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h7cd0t61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2026/10/01/3825847haa7ft80.jpg"
+     }
+    }
+   }
+  ],
+  "verticalPhotos": [
+   {
+    "id": 3823015,
+    "ord": 0,
+    "type": 1,
+    "created": 1790681489,
+    "version": 0,
+    "format": "jpg",
+    "photoTypes": {
+     "2": {
+      "type": 2,
+      "w": 1920,
+      "h": 1080,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h90a5t2.jpg"
+     },
+     "6": {
+      "type": 6,
+      "w": 800,
+      "h": 500,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h39aat6.jpg"
+     },
+     "8": {
+      "type": 8,
+      "w": 400,
+      "h": 250,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h9794t8.jpg"
+     },
+     "26": {
+      "type": 26,
+      "w": 400,
+      "h": 225,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h518ct26.jpg"
+     },
+     "48": {
+      "type": 48,
+      "w": 1440,
+      "h": 810,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h7209t48.jpg"
+     },
+     "60": {
+      "type": 60,
+      "w": 180,
+      "h": 270,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h66d4t60.jpg"
+     },
+     "61": {
+      "type": 61,
+      "w": 768,
+      "h": 432,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h616dt61.jpg"
+     },
+     "80": {
+      "type": 80,
+      "w": 400,
+      "h": 600,
+      "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h3ca1t80.jpg"
+     }
+    }
+   }
+  ],
+  "horizontalPoster": [],
+  "heroImage": [],
+  "squarePhotos": [],
+  "parentContent": [
+   {
+    "id": 1610145704,
+    "type": "series",
+    "photos": [
+     {
+      "id": 3825847,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPhotos": [
+     {
+      "id": 3825847,
+      "ord": 0,
+      "type": 0,
+      "photoTypes": {}
+     }
+    ],
+    "verticalPhotos": [
+     {
+      "id": 3823015,
+      "ord": 0,
+      "type": 1,
+      "photoTypes": {}
+     }
+    ],
+    "horizontalPoster": [
+     {
+      "id": 3825847,
+      "ord": 0,
+      "type": 2,
+      "photoTypes": {}
+     }
+    ],
+    "heroImage": [],
+    "squarePhotos": []
+   }
+  ],
+  "rootContentId": 1610145704,
+  "rootContent": {
+   "id": 1610145704,
+   "heading": "Neeme Järvi meistrikursus",
+   "lead": "",
+   "url": "neeme-jarvi-meistrikursus",
+   "color": "#000000",
+   "contentOrder": 1,
+   "seriesType": 5,
+   "primaryCategoryId": 4135,
+   "playlistStyle": 0,
+   "autoPlay": 0,
+   "contentVisible": 1,
+   "newsSiteUrl": "",
+   "eMail": "",
+   "allowContentPhoto": 0,
+   "commenting": 2,
+   "categoryCommenting": 0,
+   "host": "",
+   "type": "series",
+   "hideEpisodeNumber": 1,
+   "visibleEpisodeDays": 0,
+   "visibilityStart": 0,
+   "photos": [
+    {
+     "id": 3825847,
+     "ord": 0,
+     "type": 2,
+     "created": 1790874795,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h6444t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h3331t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h1df7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h9a43t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847hb6f7t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h62a4t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h7cd0t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847haa7ft80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPhotos": [
+    {
+     "id": 3825847,
+     "ord": 0,
+     "type": 0,
+     "created": 1790874795,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h6444t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h3331t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h1df7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h9a43t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847hb6f7t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h62a4t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h7cd0t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847haa7ft80.jpg"
+      }
+     }
+    }
+   ],
+   "verticalPhotos": [
+    {
+     "id": 3823015,
+     "ord": 0,
+     "type": 1,
+     "created": 1790681489,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h90a5t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h39aat6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h9794t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h518ct26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h7209t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h66d4t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h616dt61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/09/29/3823015h3ca1t80.jpg"
+      }
+     }
+    }
+   ],
+   "horizontalPoster": [
+    {
+     "id": 3825847,
+     "ord": 0,
+     "type": 2,
+     "created": 1790874795,
+     "version": 0,
+     "format": "jpg",
+     "photoTypes": {
+      "2": {
+       "type": 2,
+       "w": 1920,
+       "h": 1080,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h6444t2.jpg"
+      },
+      "6": {
+       "type": 6,
+       "w": 800,
+       "h": 500,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h3331t6.jpg"
+      },
+      "8": {
+       "type": 8,
+       "w": 400,
+       "h": 250,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h1df7t8.jpg"
+      },
+      "26": {
+       "type": 26,
+       "w": 400,
+       "h": 225,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h9a43t26.jpg"
+      },
+      "48": {
+       "type": 48,
+       "w": 1440,
+       "h": 810,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847hb6f7t48.jpg"
+      },
+      "60": {
+       "type": 60,
+       "w": 180,
+       "h": 270,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h62a4t60.jpg"
+      },
+      "61": {
+       "type": 61,
+       "w": 768,
+       "h": 432,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847h7cd0t61.jpg"
+      },
+      "80": {
+       "type": 80,
+       "w": 400,
+       "h": 600,
+       "url": "https://s.err.ee/photo/crop/2026/10/01/3825847haa7ft80.jpg"
+      }
+     }
+    }
+   ],
+   "heroImage": [],
+   "squarePhotos": [],
+   "relatedRadiomanIds": []
+  },
+  "statsHeading": "Neeme Järvi meistrikursus",
+  "statsSeriesTitle": "Neeme Järvi meistrikursus",
+  "rootCategoryId": 3905,
+  "canonicalUrl": "https://jupiter.err.ee/1610145707",
+  "fancyUrl": "neeme-jarvi-meistrikursus",
+  "anotherDomainContent": true,
+  "created": 1790148000,
+  "publicStart": 1790148000,
+  "vodSiteContent": "video",
+  "vodSiteDomain": "jupiter.err.ee",
+  "vodSiteUrl": "https://jupiter.err.ee/1610145707/neeme-jarvi-meistrikursus",
+  "relatedRadiomanIds": [],
+  "makers": [
+   {
+    "typeId": 17,
+    "type": "Produtsent",
+    "name": "Heidi Pruuli"
+   },
+   {
+    "typeId": 14,
+    "type": "Toimetaja",
+    "name": "Lii Kuldmäe"
+   },
+   {
+    "typeId": 10,
+    "type": "Režissöör",
+    "name": "Ülle Õun"
+   }
+  ]
+ },
+ "seasonList": {
+  "type": "shortSeriesList",
+  "contentOrder": "desc",
+  "items": [
+   {
+    "firstContentId": 1610145707,
+    "contents": [
+     {
+      "id": 1610145707,
+      "heading": "Neeme Järvi meistrikursus",
+      "subHeading": "Olari Elts",
+      "scheduleStart": 0,
+      "publicStart": 1790148000,
+      "updated": 1790148000,
+      "primaryCategoryId": 4135,
+      "parentContentPath": "[1610145704]",
+      "season": 0,
+      "episode": 2,
+      "type": "episode",
+      "rootCategoryId": 3905,
+      "url": "https://jupiter.err.ee/1610145707/neeme-jarvi-meistrikursus",
+      "canonicalUrl": "https://jupiter.err.ee/1610145707",
+      "fancyUrl": "neeme-jarvi-meistrikursus",
+      "anotherDomainContent": true,
+      "catchupDays": 1085937,
+      "active": true
+     }
+    ],
+    "active": true
+   }
+  ]
+ },
+ "category": []
+}

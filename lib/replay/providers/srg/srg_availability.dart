@@ -4,9 +4,9 @@ import '../../model/replay_title.dart';
 ///
 /// `blockReason` is filled in for the requester's own IP address, which is why it is trusted over
 /// `playableAbroad`: the latter is false for every Swiss-only item even when the caller is in Switzerland.
-ReplayAvailability rtsAvailability(Map<String, dynamic> item, DateTime now) {
+ReplayAvailability srgAvailability(Map<String, dynamic> item, DateTime now) {
   final reason = item['blockReason'] as String?;
-  if (reason != null) return rtsBlockReason(reason);
+  if (reason != null) return srgBlockReason(reason);
   final until = DateTime.tryParse(item['validTo'] as String? ?? '');
   if (until != null && until.isBefore(now)) return ReplayAvailability.expired;
   final from = DateTime.tryParse(item['validFrom'] as String? ?? '');
@@ -14,7 +14,7 @@ ReplayAvailability rtsAvailability(Map<String, dynamic> item, DateTime now) {
   return ReplayAvailability.playable;
 }
 
-ReplayAvailability rtsBlockReason(String reason) => switch (reason) {
+ReplayAvailability srgBlockReason(String reason) => switch (reason) {
   'GEOBLOCK' || 'VPNORPROXYDETECTED' => ReplayAvailability.geoBlocked,
   'STARTDATE' => ReplayAvailability.upcoming,
   'ENDDATE' => ReplayAvailability.expired,

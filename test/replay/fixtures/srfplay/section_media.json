@@ -1,0 +1,411 @@
+{
+ "mediaList": [
+  {
+   "id": "7931d71f-6680-4bc3-a2e2-d45e27df9a3b",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:7931d71f-6680-4bc3-a2e2-d45e27df9a3b",
+   "title": "Illegale Sportwetten – Undercover im Wettlokal",
+   "lead": "Ob in Bars, Restaurants, Kiosken oder Vereinslokalen: illegale Sportwetten sind in der Schweiz weit verbreitet. Wie funktioniert das Millionenbusiness?",
+   "description": "Die interkantonale Geldspielaufsicht Gespa spricht von «struktureller Kriminalität» und schätzt, dass die Szene in der Schweiz rund 300 Millionen Franken illegal erwirtschaftet. Wie funktioniert das Geschäft? Und wohin fliesst das Geld? Um das herauszufinden, geht SRF Investigativ undercover in eine Luzerner Bar – und wettet. Mit verdeckten Aufnahmen zeigt das Team, wie das verbotene Wettbusiness funktioniert. Erhalten sie ihren Wetteinsatz zurück?",
+   "mediaDescription": "Die interkantonale Geldspielaufsicht Gespa spricht von «struktureller Kriminalität» und schätzt, dass die Szene in der Schweiz rund 300 Millionen Franken illegal erwirtschaftet. Wie funktioniert das Geschäft? Und wohin fliesst das Geld? Um das herauszufinden, geht SRF Investigativ undercover in eine Luzerner Bar – und wettet. Mit verdeckten Aufnahmen zeigt das Team, wie das verbotene Wettbusiness funktioniert. Erhalten sie ihren Wetteinsatz zurück?",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-3616820834165963355",
+   "imageTitle": "Illegale Sportwetten – Undercover im Wettlokal",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-10-21T17:00:00+02:00",
+   "duration": 1440080,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/investigativ/2026/10/investigativ_20261021_152800_19953982_v_webcast_h264_q50.mp4?d=ap&assetId=7931d71f-6680-4bc3-a2e2-d45e27df9a3b",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/investigativ/2026/10/investigativ_20261021_152800_19953982_v_webcast_h264_q50.mp4?d=ap&assetId=7931d71f-6680-4bc3-a2e2-d45e27df9a3b",
+   "validFrom": "2026-10-21T17:00:00+02:00",
+   "validTo": "2099-12-31T23:59:00+01:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Illegale Sportwetten – Undercover im Wettlokal",
+    "lead": "Ob in Bars, Restaurants, Kiosken oder Vereinslokalen: illegale Sportwetten sind in der Schweiz weit verbreitet. Wie funktioniert das Millionenbusiness?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-3616820834165963355",
+    "imageTitle": "Illegale Sportwetten – Undercover im Wettlokal",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-10-21T17:00:00+02:00",
+    "id": "b42cb31f-57f1-4afa-a6a0-2a78a580cc2e",
+    "description": "Die interkantonale Geldspielaufsicht Gespa spricht von «struktureller Kriminalität» und schätzt, dass die Szene in der Schweiz rund 300 Millionen Franken illegal erwirtschaftet. Wie funktioniert das Geschäft? Und wohin fliesst das Geld? Um das herauszufinden, geht SRF Investigativ undercover in eine Luzerner Bar – und wettet. Mit verdeckten Aufnahmen zeigt das Team, wie das verbotene Wettbusiness funktioniert. Erhalten sie ihren Wetteinsatz zurück?"
+   },
+   "show": {
+    "id": "b7ea7f5e-afb6-408c-b4a0-17226f93c970",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:b7ea7f5e-afb6-408c-b4a0-17226f93c970",
+    "title": "Impact Investigativ",
+    "lead": "Impact Investigativ deckt auf, was im Verborgenen liegt.",
+    "description": "Impact Investigativ deckt auf, was im Verborgenen liegt. Wir gehen Missständen auf den Grund – gegen Widerstände und mit der Gefahr zu scheitern. Aus investigativen Recherchen entstehen Reportagen, die ungeschönt und ehrlich sind und neue Fakten schaffen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2025/07/IMPACT-Investigativ-Webvisual.jpg",
+    "imageTitle": "Impact Investigativ",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2025/07/IMPACT-Investigativ-Webvisual.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/default/2025/07/IMPACT-Investigativ-Posterformat.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 48,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "audioTrackList": [
+    {
+     "locale": "gsw",
+     "language": "Schweizerdeutsch",
+     "source": "HLS",
+     "isAudioDescription": false,
+     "isOriginalVersion": false
+    }
+   ],
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-3616820834165963355",
+   "bannerImageTitle": "Illegale Sportwetten – Undercover im Wettlokal",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:f28c7b5e-d2ef-4ff9-bd6a-73fe15ec29c3",
+   "title": "Gletscher – Wettlauf gegen die Zeit",
+   "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+   "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätten verschwunden sein.   Michael Zemp ist Glaziologe und Direktor des «World Glacier Monitoring Service», der an der Universität Zürich seinen Sitz hat. Hier werden Daten zu Gletschern aus der ganzen Welt zusammengetragen und analysiert. «Wie gross die Verluste sind, ist regional unterschiedlich», sagt Zemp. «In den europäischen Alpen haben wir seit dem Jahr 2000 rund 40 Prozent der Gletschermasse verloren.»  Ausgehend vom verheerenden Gletscherabbruch im Walliser Bergdorf Blatten im Mai 2025 führt die Dokumentation in die besonders betroffenen Regionen der Erde: von den Alpen über die Anden und Zentralasien bis nach Grönland und in die Antarktis. Forschende, politische Entscheidungsträgerinnen und Entscheidungsträger sowie Menschen, deren Lebensgrundlage unmittelbar vom Eis abhängt, zeigen, welche Folgen die Gletscherschmelze bereits heute hat und was der Welt noch bevorstehen könnte. Die Bevölkerung der Berggebiete spürt die Folgen bereits: Sei es in Form von Naturkatastrophen oder durch das allmähliche Versiegen der Wasserreserven für die Landwirtschaft und den täglichen Gebrauch. «Wut. Ich spüre Wut, weil wir kein Wasser mehr haben», sagt etwa Ana Romero Pinto, Bewohnerin eines kleinen Dorfes in den chilenischen Anden. Ihre Waschmaschine benutzt sie nicht mehr. Und auch die Blumen in ihrem Garten kann sie nicht mehr giessen. Das Dorf, in dem noch vor Kurzem das Gletscherwasser plätscherte, ist heute auf Wassertransporte per Lieferwagen angewiesen. Das erzeuge Konflikte, erzählt Ana. Ständig werfe man sich gegenseitig vor, zu viel Wasser zu verbrauchen.  Dass solche Konflikte auch auf internationaler Ebene ausbrechen können, weiss man in Zentralasien. Dort kam es aufgrund der Wasserknappheit bereits zu gewalttätigen Auseinandersetzungen zwischen benachbarten Staaten. Der kirgisische Landwirt Samat Saparbekovich fasst es so zusammen: «Keine Gletscher, kein Wasser. Kein Wasser, kein Leben.»  Was also tun, um diese Entwicklung aufzuhalten oder zumindest zu verlangsamen? In diesem DOK geben Forscherinnen und Forscher Antwort und berichten von ihrer Arbeit in den Bergen, den Weiten Grönlands und der Antarktis.",
+   "mediaDescription": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätten verschwunden sein.   Michael Zemp ist Glaziologe und Direktor des «World Glacier Monitoring Service», der an der Universität Zürich seinen Sitz hat. Hier werden Daten zu Gletschern aus der ganzen Welt zusammengetragen und analysiert. «Wie gross die Verluste sind, ist regional unterschiedlich», sagt Zemp. «In den europäischen Alpen haben wir seit dem Jahr 2000 rund 40 Prozent der Gletschermasse verloren.»  Ausgehend vom verheerenden Gletscherabbruch im Walliser Bergdorf Blatten im Mai 2025 führt die Dokumentation in die besonders betroffenen Regionen der Erde: von den Alpen über die Anden und Zentralasien bis nach Grönland und in die Antarktis. Forschende, politische Entscheidungsträgerinnen und Entscheidungsträger sowie Menschen, deren Lebensgrundlage unmittelbar vom Eis abhängt, zeigen, welche Folgen die Gletscherschmelze bereits heute hat und was der Welt noch bevorstehen könnte. Die Bevölkerung der Berggebiete spürt die Folgen bereits: Sei es in Form von Naturkatastrophen oder durch das allmähliche Versiegen der Wasserreserven für die Landwirtschaft und den täglichen Gebrauch. «Wut. Ich spüre Wut, weil wir kein Wasser mehr haben», sagt etwa Ana Romero Pinto, Bewohnerin eines kleinen Dorfes in den chilenischen Anden. Ihre Waschmaschine benutzt sie nicht mehr. Und auch die Blumen in ihrem Garten kann sie nicht mehr giessen. Das Dorf, in dem noch vor Kurzem das Gletscherwasser plätscherte, ist heute auf Wassertransporte per Lieferwagen angewiesen. Das erzeuge Konflikte, erzählt Ana. Ständig werfe man sich gegenseitig vor, zu viel Wasser zu verbrauchen.  Dass solche Konflikte auch auf internationaler Ebene ausbrechen können, weiss man in Zentralasien. Dort kam es aufgrund der Wasserknappheit bereits zu gewalttätigen Auseinandersetzungen zwischen benachbarten Staaten. Der kirgisische Landwirt Samat Saparbekovich fasst es so zusammen: «Keine Gletscher, kein Wasser. Kein Wasser, kein Leben.»  Was also tun, um diese Entwicklung aufzuhalten oder zumindest zu verlangsamen? In diesem DOK geben Forscherinnen und Forscher Antwort und berichten von ihrer Arbeit in den Bergen, den Weiten Grönlands und der Antarktis.",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/55667422-6fde-4a8d-941b-53ac7c0e1b3e.jpeg",
+   "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+   "blockReason": "GEOBLOCK",
+   "type": "EPISODE",
+   "date": "2026-10-22T20:10:00+02:00",
+   "duration": 5314160,
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "validTo": "2027-01-20T23:59:00+01:00",
+   "playableAbroad": false,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Gletscher – Wettlauf gegen die Zeit",
+    "lead": "Die Schweiz gilt als Wasserschloss Europas. Doch wie lange noch? Die Gletscher schmelzen so schnell, dass man ihnen dabei zusehen kann. Nicht nur in den Alpen, überall auf der Welt. Welche Folgen hat dieses Verschwinden für Menschen und Natur?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+    "imageTitle": "Gletscher – Wettlauf gegen die Zeit",
+    "imageCopyright": "SRG SSR/GEDEON programmes 2025",
+    "publishedDate": "2026-10-22T20:10:00+02:00",
+    "id": "d3f19eed-ea22-4c58-ba0d-4ae0053b3a30",
+    "description": "Gletscher sind weit mehr als spektakuläre Eislandschaften: Sie speichern lebenswichtiges Süsswasser, stabilisieren Ökosysteme und gehören zu den deutlichsten Indikatoren des Klimawandels. Doch weltweit schwinden sie in rasantem Tempo. Bis 2050 könnte ein Drittel der Gletscher in UNESCO-Welterbestätten verschwunden sein.   Michael Zemp ist Glaziologe und Direktor des «World Glacier Monitoring Service», der an der Universität Zürich seinen Sitz hat. Hier werden Daten zu Gletschern aus der ganzen Welt zusammengetragen und analysiert. «Wie gross die Verluste sind, ist regional unterschiedlich», sagt Zemp. «In den europäischen Alpen haben wir seit dem Jahr 2000 rund 40 Prozent der Gletschermasse verloren.»  Ausgehend vom verheerenden Gletscherabbruch im Walliser Bergdorf Blatten im Mai 2025 führt die Dokumentation in die besonders betroffenen Regionen der Erde: von den Alpen über die Anden und Zentralasien bis nach Grönland und in die Antarktis. Forschende, politische Entscheidungsträgerinnen und Entscheidungsträger sowie Menschen, deren Lebensgrundlage unmittelbar vom Eis abhängt, zeigen, welche Folgen die Gletscherschmelze bereits heute hat und was der Welt noch bevorstehen könnte. Die Bevölkerung der Berggebiete spürt die Folgen bereits: Sei es in Form von Naturkatastrophen oder durch das allmähliche Versiegen der Wasserreserven für die Landwirtschaft und den täglichen Gebrauch. «Wut. Ich spüre Wut, weil wir kein Wasser mehr haben», sagt etwa Ana Romero Pinto, Bewohnerin eines kleinen Dorfes in den chilenischen Anden. Ihre Waschmaschine benutzt sie nicht mehr. Und auch die Blumen in ihrem Garten kann sie nicht mehr giessen. Das Dorf, in dem noch vor Kurzem das Gletscherwasser plätscherte, ist heute auf Wassertransporte per Lieferwagen angewiesen. Das erzeuge Konflikte, erzählt Ana. Ständig werfe man sich gegenseitig vor, zu viel Wasser zu verbrauchen.  Dass solche Konflikte auch auf internationaler Ebene ausbrechen können, weiss man in Zentralasien. Dort kam es aufgrund der Wasserknappheit bereits zu gewalttätigen Auseinandersetzungen zwischen benachbarten Staaten. Der kirgisische Landwirt Samat Saparbekovich fasst es so zusammen: «Keine Gletscher, kein Wasser. Kein Wasser, kein Leben.»  Was also tun, um diese Entwicklung aufzuhalten oder zumindest zu verlangsamen? In diesem DOK geben Forscherinnen und Forscher Antwort und berichten von ihrer Arbeit in den Bergen, den Weiten Grönlands und der Antarktis."
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE",
+    "ENDDATE",
+    "GEOBLOCK"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-16578301983760669410",
+   "bannerImageTitle": "Gletscher – Wettlauf gegen die Zeit",
+   "bannerImageCopyright": "SRG SSR/GEDEON programmes 2025"
+  },
+  {
+   "id": "04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "title": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "lead": "Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement – und wie gelingt das Zusammenleben?",
+   "description": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst zu verhindern.  Was das genau bedeutet, ist zwischen Wolfsbefürwortern und Gegnern sehr umstritten. Und die Umsetzung ist komplex:  Die Verbreitung des Wolfes wird mittels sogenanntem Monitoring minutiös verfolgt. Die Kantone müssen zusätzliche Wildhüterinnen und Wildhüter anstellen, DNA-Proben nehmen und Gesuche schreiben, um eine Abschussbewilligung zu erhalten. Für Behörden, Alpbesitzer, Hirtinnen und Wildhüter bedeutet dies einen enormen Aufwand.  Wo steht das Wolfsmanagement in der Schweiz nach den ersten Erfahrungen mit dem neuen Regime? «DOK x Einstein» hat sich bei den Betroffenen umgesehen und sucht nach Lösungen.",
+   "mediaDescription": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst zu verhindern.  Was das genau bedeutet, ist zwischen Wolfsbefürwortern und Gegnern sehr umstritten. Und die Umsetzung ist komplex:  Die Verbreitung des Wolfes wird mittels sogenanntem Monitoring minutiös verfolgt. Die Kantone müssen zusätzliche Wildhüterinnen und Wildhüter anstellen, DNA-Proben nehmen und Gesuche schreiben, um eine Abschussbewilligung zu erhalten. Für Behörden, Alpbesitzer, Hirtinnen und Wildhüter bedeutet dies einen enormen Aufwand.  Wo steht das Wolfsmanagement in der Schweiz nach den ersten Erfahrungen mit dem neuen Regime? «DOK x Einstein» hat sich bei den Betroffenen umgesehen und sucht nach Lösungen.",
+   "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+   "imageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "imageCopyright": "SRG SSR",
+   "type": "EPISODE",
+   "date": "2026-10-15T20:10:00+02:00",
+   "duration": 5449040,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261012_095243_19797730_v_webcast_h264_q50.mp4?d=ap&assetId=04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261012_095243_19797730_v_webcast_h264_q50.mp4?d=ap&assetId=04ceecaf-3ad5-4463-9ca8-0ca2339d0d1c",
+   "validFrom": "2026-10-15T17:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+    "lead": "Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement – und wie gelingt das Zusammenleben?",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+    "imageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+    "imageCopyright": "SRG SSR",
+    "publishedDate": "2026-10-15T20:10:00+02:00",
+    "id": "601aa648-de0b-4610-a7dc-dde48379d0b9",
+    "description": "Rund 43 Wolfsrudel leben mittlerweile in der Schweiz. Etwa 200 Tiere wurden seit 2023 geschossen. Denn seit dann darf der Wolf in der Schweiz proaktiv reguliert werden. Das heisst: Unter bestimmten Bedingungen dürfen Kantone Teile eines Rudels oder sogar ganze Rudel abschiessen, um Schäden möglichst zu verhindern.  Was das genau bedeutet, ist zwischen Wolfsbefürwortern und Gegnern sehr umstritten. Und die Umsetzung ist komplex:  Die Verbreitung des Wolfes wird mittels sogenanntem Monitoring minutiös verfolgt. Die Kantone müssen zusätzliche Wildhüterinnen und Wildhüter anstellen, DNA-Proben nehmen und Gesuche schreiben, um eine Abschussbewilligung zu erhalten. Für Behörden, Alpbesitzer, Hirtinnen und Wildhüter bedeutet dies einen enormen Aufwand.  Wo steht das Wolfsmanagement in der Schweiz nach den ersten Erfahrungen mit dem neuen Regime? «DOK x Einstein» hat sich bei den Betroffenen umgesehen und sucht nach Lösungen."
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-5017246659520957220",
+   "bannerImageTitle": "Der Wolf in der Schweiz – Wie viele Wölfe verträgt das Land?",
+   "bannerImageCopyright": "SRG SSR"
+  },
+  {
+   "id": "fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "mediaType": "VIDEO",
+   "vendor": "SRF",
+   "urn": "urn:srf:video:fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "title": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "lead": "Es ist einer der grössten Spionagefälle der Schweizer Geschichte. Und noch heute, fünfzig Jahre nach der Aufdeckung des Skandals, wirft der Fall Fragen auf, sorgt für Kontroversen und weckt Emotionen.",
+   "description": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Agent. Die Untersuchungen zeigen, dass Denissenko nicht nur mit Jeanmaire eine Freundschaft, sondern mit dessen Frau, Marie-Louise, eine Affäre hatte. Spionage, Manipulation und geopolitische Interessen verdichten sich zu einem Geflecht, in dem die Grenze zwischen Privatem und Politischem verschwimmt. War Jean-Louis Jeanmaire ein Verräter, der sein Land an den Feind verkauft hatte? Oder das Opfer einer vom KGB sorgfältig inszenierten Einflussnahme? Dank minutiöser Recherchen und Gesprächen mit Zeitzeugen, die sich erstmals äussern, liefert der Film neue Erkenntnisse und wirft ein neues Licht auf die bis heute rätselhafte «Affäre Jeanmaire». Erstausstrahlung: 18.10.2026",
+   "mediaDescription": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Agent. Die Untersuchungen zeigen, dass Denissenko nicht nur mit Jeanmaire eine Freundschaft, sondern mit dessen Frau, Marie-Louise, eine Affäre hatte. Spionage, Manipulation und geopolitische Interessen verdichten sich zu einem Geflecht, in dem die Grenze zwischen Privatem und Politischem verschwimmt. War Jean-Louis Jeanmaire ein Verräter, der sein Land an den Feind verkauft hatte? Oder das Opfer einer vom KGB sorgfältig inszenierten Einflussnahme? Dank minutiöser Recherchen und Gesprächen mit Zeitzeugen, die sich erstmals äussern, liefert der Film neue Erkenntnisse und wirft ein neues Licht auf die bis heute rätselhafte «Affäre Jeanmaire». Erstausstrahlung: 18.10.2026",
+   "imageUrl": "https://play-pac-public-storage-prd.s3.eu-central-1.amazonaws.com/images/53572018-bc7e-4882-a1cc-e6255f668cd2.jpeg",
+   "imageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "imageCopyright": "SRG SSR/RTS",
+   "type": "EPISODE",
+   "date": "2026-10-18T22:45:00+02:00",
+   "duration": 3113360,
+   "podcastSdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261015_000644_19851012_v_webcast_h264_q50.mp4?d=ap&assetId=fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "podcastHdUrl": "https://download-media.srf.ch/world/video/dok/2026/10/dok_20261015_000644_19851012_v_webcast_h264_q50.mp4?d=ap&assetId=fdbad0dc-045e-4e2a-a927-2421fcef34ca",
+   "validFrom": "2026-10-18T20:00:00+02:00",
+   "playableAbroad": true,
+   "subtitlesAvailable": true,
+   "subtitleInformationList": [
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "HLS",
+     "type": "SDH"
+    },
+    {
+     "locale": "de",
+     "language": "Deutsch",
+     "source": "EXTERNAL",
+     "type": "SDH"
+    }
+   ],
+   "episode": {
+    "title": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+    "lead": "Es ist einer der grössten Spionagefälle der Schweizer Geschichte. Und noch heute, fünfzig Jahre nach der Aufdeckung des Skandals, wirft der Fall Fragen auf, sorgt für Kontroversen und weckt Emotionen.",
+    "imageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-14302147385660032954",
+    "imageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+    "imageCopyright": "SRG SSR/RTS",
+    "publishedDate": "2026-10-18T22:45:00+02:00",
+    "id": "8c538320-7842-4737-850e-db263a35aacb",
+    "description": "Mitten im Kalten Krieg wird Brigadier Jean-Louis Jeanmaire, ein angesehener Generaloffizier der Schweizer Armee, beschuldigt, hochsensible Informationen an die Sowjetunion weitergegeben zu haben. Sein wichtigster Ansprechpartner: Wassili Denissenko, russischer Militärattaché und mutmasslicher KGB-Agent. Die Untersuchungen zeigen, dass Denissenko nicht nur mit Jeanmaire eine Freundschaft, sondern mit dessen Frau, Marie-Louise, eine Affäre hatte. Spionage, Manipulation und geopolitische Interessen verdichten sich zu einem Geflecht, in dem die Grenze zwischen Privatem und Politischem verschwimmt. War Jean-Louis Jeanmaire ein Verräter, der sein Land an den Feind verkauft hatte? Oder das Opfer einer vom KGB sorgfältig inszenierten Einflussnahme? Dank minutiöser Recherchen und Gesprächen mit Zeitzeugen, die sich erstmals äussern, liefert der Film neue Erkenntnisse und wirft ein neues Licht auf die bis heute rätselhafte «Affäre Jeanmaire». Erstausstrahlung: 18.10.2026"
+   },
+   "show": {
+    "id": "3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "vendor": "SRF",
+    "transmission": "TV",
+    "urn": "urn:srf:show:tv:3b016ffc-afa2-466d-a694-c48b7ffe1783",
+    "title": "DOK",
+    "lead": "Dokumentarfilme und Reportagen, so einzigartig wie das Leben.",
+    "description": "Dokumentarfilme zu Themen aus Gesellschaft, Natur, Politik, Sport und Wirtschaft. Es sind Geschichten, so einzigartig wie das Leben.",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "imageTitle": "DOK",
+    "bannerImageUrl": "https://download-media.srf.ch/world/image/audio/2019/10/8de150439fef400cad83f1a9635c6ee1.jpg",
+    "posterImageUrl": "https://download-media.srf.ch/world/image/audio/2020/05/689a9337d68e42238e2ae27fe9cf9c18.jpg",
+    "posterImageIsFallbackUrl": false,
+    "podcastImageUrl": "https://il.srgssr.ch/image-service/dynamic/f8a856c.jpg",
+    "podcastImageIsFallbackUrl": true,
+    "podcastFeedSdUrl": "https://www.srf.ch/feed/podcast/sd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "podcastFeedHdUrl": "https://www.srf.ch/feed/podcast/hd/3b016ffc-afa2-466d-a694-c48b7ffe1783.xml",
+    "primaryChannelId": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "primaryChannelUrn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "numberOfEpisodes": 1158,
+    "topicList": [
+     {
+      "id": "516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "vendor": "SRF",
+      "transmission": "TV",
+      "urn": "urn:srf:topic:tv:516421f0-ec89-43ba-823b-1b5ceec262f3",
+      "title": "Dokus & Reportagen",
+      "lead": "Reportagen, Dokumentarfilme, dokumentarische Serien. Dok erzählt Geschichten, so einzigartig wie das Leben.",
+      "description": "Gesellschaft, Natur, Tiere, Politik, Geschichte, Sport und Wirtschaft. Die Dokus von SRF beleuchten alle Bereiche des Lebens. Feinfühlig, nachfragend, überraschend und unterhaltsam.",
+      "imageUrl": "https://download-media.srf.ch/world/image/default/2025/08/blob-5",
+      "imageTitle": "Dokus & Reportagen"
+     }
+    ],
+    "allowIndexing": true
+   },
+   "channel": {
+    "id": "23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "vendor": "SRF",
+    "urn": "urn:srf:channel:tv:23ffbe1b-65ce-4188-add2-c724186c2c9f",
+    "title": "SRF 1",
+    "imageUrl": "https://download-media.srf.ch/world/image/audio/2015/07/74e9378315a24db285b8cf2e80b3d902.png",
+    "imageUrlRaw": "https://il.srgssr.ch/image-service/dynamic/536ef7.svg",
+    "imageTitle": "SRF 1",
+    "transmission": "TV"
+   },
+   "presentation": "DEFAULT",
+   "aspectRatio": "16:9",
+   "possibleBlockReasons": [
+    "STARTDATE"
+   ],
+   "displayable": true,
+   "bannerImageUrl": "https://download-media.srf.ch/world/image/default/2026/10/imported-image-14302147385660032954",
+   "bannerImageTitle": "Jeanmaire – Ein Schweizer General in den Fängen des KGB",
+   "bannerImageCopyright": "SRG SSR/RTS"
+  }
+ ]
+}
