@@ -1,0 +1,656 @@
+{
+ "data": {
+  "categoryPage": {
+   "lazyLoadedTabs": [
+    {
+     "slug": "recommended",
+     "selections": []
+    },
+    {
+     "slug": "upcoming",
+     "selections": []
+    },
+    {
+     "slug": "all",
+     "selections": [
+      {
+       "itemsPaginated": {
+        "totalSize": 1179,
+        "items": [
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1391557-001",
+           "svtId": "eDma313",
+           "slug": "aalto-kanslornas-arkitekt",
+           "name": "Aalto: Känslornas arkitekt",
+           "shortDescription": "K special",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52997807",
+             "changed": 1753350363
+            },
+            "portrait": {
+             "id": "52997804",
+             "changed": 1753350363
+            }
+           },
+           "duration": 3124,
+           "productionYear": 2020,
+           "validFrom": "2025-07-20T02:00:00+02:00",
+           "validTo": "2027-07-25T23:59:59+02:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1413820-001",
+           "svtId": "j16GY3J",
+           "slug": "ac-dc-forever-young",
+           "name": "AC/DC: Forever Young",
+           "shortDescription": "Dokumentär om ett av världens största rockband",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52922938",
+             "changed": 1750814395
+            },
+            "portrait": {
+             "id": "52922941",
+             "changed": 1750814395
+            }
+           },
+           "duration": 3166,
+           "productionYear": 2022,
+           "validFrom": "2025-07-25T02:00:00+02:00",
+           "validTo": "2027-08-16T23:59:59+02:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "e2dodXB",
+           "svtId": "e2dodXB",
+           "slug": "adolf",
+           "name": "Adolf",
+           "shortDescription": "Dokumentärserie om Adolf Hitler",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52316227",
+             "changed": 1736237197
+            },
+            "portrait": {
+             "id": "52316231",
+             "changed": 1736237198
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvShow",
+           "id": "jLdbDAE",
+           "svtId": "jLdbDAE",
+           "slug": "afrikaner-i-sverige",
+           "name": "Afrikaner i Sverige",
+           "shortDescription": "Dokumentär",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "36809111",
+             "changed": 1686132977
+            },
+            "portrait": {
+             "id": "36809111",
+             "changed": 1686132977
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1402014-001",
+           "svtId": "8opadbm",
+           "slug": "after-work",
+           "name": "After work",
+           "shortDescription": "Dox",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "50936780",
+             "changed": 1703232957
+            },
+            "portrait": {
+             "id": "50936784",
+             "changed": 1703232957
+            }
+           },
+           "duration": 4606,
+           "productionYear": 2023,
+           "validFrom": "2024-01-07T02:00:00+01:00",
+           "validTo": "2028-01-06T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "eory6YE",
+           "svtId": "eory6YE",
+           "slug": "agenten-pappas-liv-och-logner",
+           "name": "Agenten - Pappas liv och lögner",
+           "shortDescription": "Norsk dokumentärserie från 2025",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53550247",
+             "changed": 1765870596
+            },
+            "portrait": {
+             "id": "53550241",
+             "changed": 1765870595
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1412043-001",
+           "svtId": "ep3XVaz",
+           "slug": "agenten-och-morklaggningen",
+           "name": "Agenten och mörkläggningen",
+           "shortDescription": "Svensk dokumentär",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53847680",
+             "changed": 1772199965
+            },
+            "portrait": {
+             "id": "53847683",
+             "changed": 1772199967
+            }
+           },
+           "duration": 3439,
+           "productionYear": 2026,
+           "validFrom": "2026-02-27T06:00:00+01:00",
+           "validTo": "2028-03-03T23:59:59+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "eWvBv2W",
+           "svtId": "eWvBv2W",
+           "slug": "agenternas-varldskrig-jan-guillou-berattar",
+           "name": "Agenternas världskrig – Jan Guillou berättar",
+           "shortDescription": "Fyra kvinnoöden",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "24905363",
+             "changed": 1686136936
+            },
+            "portrait": {
+             "id": "36820967",
+             "changed": 1686132922
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1374622-001",
+           "svtId": "eyPLJM8",
+           "slug": "ainbusk-singers-bondbrudar-i-narbild",
+           "name": "Ainbusk Singers - Bondbrudar i närbild",
+           "shortDescription": "",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "36809235",
+             "changed": 1686132976
+            },
+            "portrait": {
+             "id": "36809235",
+             "changed": 1686132976
+            }
+           },
+           "duration": 3143,
+           "productionYear": 1990,
+           "validFrom": "2017-04-03T06:00:00+02:00",
+           "validTo": "2060-12-31T22:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1415513-001",
+           "svtId": "KVk4Zxy",
+           "slug": "ai-skrapet-som-dodar-internet",
+           "name": "AI-skräpet som dödar internet",
+           "shortDescription": "Dokument utifrån",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53617339",
+             "changed": 1767786925
+            },
+            "portrait": {
+             "id": "53617342",
+             "changed": 1767786925
+            }
+           },
+           "duration": 3075,
+           "productionYear": 2026,
+           "validFrom": "2026-03-08T02:00:00+01:00",
+           "validTo": "2029-03-08T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1411765-001",
+           "svtId": "eXYgm7o",
+           "slug": "akropolis",
+           "name": "Akropolis",
+           "shortDescription": "Ett världsarv i Aten",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52217443",
+             "changed": 1733474796
+            },
+            "portrait": {
+             "id": "52217447",
+             "changed": 1733474797
+            }
+           },
+           "duration": 3128,
+           "productionYear": 2021,
+           "validFrom": "2025-01-14T02:00:00+01:00",
+           "validTo": "2027-12-31T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "84dM4An",
+           "svtId": "84dM4An",
+           "slug": "akuten",
+           "name": "Akuten",
+           "shortDescription": "Dokumentärserie",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "51472892",
+             "changed": 1714383359
+            },
+            "portrait": {
+             "id": "51472896",
+             "changed": 1714383359
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1414045-001",
+           "svtId": "KrJX4VY",
+           "slug": "aleque-och-issay",
+           "name": "Aleque & Issay",
+           "shortDescription": "",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "54190042",
+             "changed": 1779275066
+            },
+            "portrait": {
+             "id": "54129541",
+             "changed": 1777986471
+            }
+           },
+           "duration": 3540,
+           "productionYear": 2025,
+           "validFrom": "2026-05-24T02:00:00+02:00",
+           "validTo": "2028-05-27T23:59:59+02:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "82dbVkB",
+           "svtId": "82dbVkB",
+           "slug": "alexandra-syns-vi-inte-finns-vi-inte",
+           "name": "Alexandra - syns vi inte, finns vi inte",
+           "shortDescription": "Svensk dokumentärserie från 2026",
+           "restrictions": {
+            "onlyAvailableInSweden": false,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53887969",
+             "changed": 1773043652
+            },
+            "portrait": {
+             "id": "53887972",
+             "changed": 1773043653
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "e9dyyQr",
+           "svtId": "e9dyyQr",
+           "slug": "alfred-nobel-karlek-och-dynamit",
+           "name": "Alfred Nobel - kärlek och dynamit",
+           "shortDescription": "Dramadokumentärserie",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53370718",
+             "changed": 1762527015
+            },
+            "portrait": {
+             "id": "53370721",
+             "changed": 1762527015
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "jQrqkQq",
+           "svtId": "jQrqkQq",
+           "slug": "aliens-striden-om-utomjordingarna",
+           "name": "Aliens - striden om utomjordingarna",
+           "shortDescription": "Svensk dokumentärserie från 2024",
+           "restrictions": {
+            "onlyAvailableInSweden": false,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52013803",
+             "changed": 1728635300
+            },
+            "portrait": {
+             "id": "52013807",
+             "changed": 1728635301
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1372544-001",
+           "svtId": "ePvMzgP",
+           "slug": "alla-gar-och-haller-masken",
+           "name": "Alla går och håller masken",
+           "shortDescription": "Dokumentär om artisten Ola Magnell",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "36809199",
+             "changed": 1686132976
+            },
+            "portrait": {
+             "id": "36809199",
+             "changed": 1686132976
+            }
+           },
+           "duration": 1190,
+           "productionYear": 1975,
+           "validFrom": "2021-05-21T06:00:00+02:00",
+           "validTo": "2060-12-31T22:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "eEqY23n",
+           "svtId": "eEqY23n",
+           "slug": "alla-mina-bokstaver",
+           "name": "Alla mina bokstäver",
+           "shortDescription": "Svensk dokumentärserie",
+           "restrictions": {
+            "onlyAvailableInSweden": false,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "54746984",
+             "changed": 1787132765
+            },
+            "portrait": {
+             "id": "54746987",
+             "changed": 1787132765
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1354012-001",
+           "svtId": "jnRqVXj",
+           "slug": "alltid-pa-mors-dag-elitloppet",
+           "name": "Alltid på mors dag - Elitloppet",
+           "shortDescription": "Svensk dokumentär från 2014 av Tom Alandh",
+           "restrictions": {
+            "onlyAvailableInSweden": false,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "36809699",
+             "changed": 1686132972
+            },
+            "portrait": {
+             "id": "36809699",
+             "changed": 1686132972
+            }
+           },
+           "duration": 1538,
+           "productionYear": 2014,
+           "validFrom": "2025-05-25T02:00:00+02:00",
+           "validTo": "2027-12-31T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1378144-001",
+           "svtId": "8MMzdDY",
+           "slug": "ambulansen",
+           "name": "Ambulansen",
+           "shortDescription": "Norsk dokumentär från 2016",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "53402455",
+             "changed": 1763122619
+            },
+            "portrait": {
+             "id": "53402458",
+             "changed": 1763122619
+            }
+           },
+           "duration": 3524,
+           "productionYear": 2016,
+           "validFrom": "2025-11-30T02:00:00+01:00",
+           "validTo": "2028-11-04T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "eroEkQm",
+           "svtId": "eroEkQm",
+           "slug": "amelia-adamo-le-och-leverera",
+           "name": "Amelia Adamo - le och leverera",
+           "shortDescription": "Svensk porträttserie",
+           "restrictions": {
+            "onlyAvailableInSweden": false,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "37862299",
+             "changed": 1686132341
+            },
+            "portrait": {
+             "id": "37862287",
+             "changed": 1686132340
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "TvSeries",
+           "id": "KZxA3RR",
+           "svtId": "KZxA3RR",
+           "slug": "andra-varldskriget",
+           "name": "Andra världskriget",
+           "shortDescription": "Dokumentärserie om andra världskrigets uppgång och fall",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52726891",
+             "changed": 1745911881
+            },
+            "portrait": {
+             "id": "52726895",
+             "changed": 1745911883
+            }
+           }
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1411432-001",
+           "svtId": "jE4Bbpd",
+           "slug": "andra-varldskrigets-kvinnliga-hjaltar",
+           "name": "Andra världskrigets kvinnliga hjältar",
+           "shortDescription": "De kämpade för frihet under WWII",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "52411843",
+             "changed": 1738593693
+            },
+            "portrait": {
+             "id": "52411847",
+             "changed": 1738593694
+            }
+           },
+           "duration": 2826,
+           "productionYear": 2023,
+           "validFrom": "2025-03-04T10:30:00+01:00",
+           "validTo": "2027-03-04T23:59:00+01:00"
+          }
+         },
+         {
+          "item": {
+           "__typename": "Single",
+           "id": "1411431-001",
+           "svtId": "ePvVgmn",
+           "slug": "andra-varldskrigets-kvinnliga-piloter",
+           "name": "Andra världskrigets kvinnliga piloter",
+           "shortDescription": "Brittisk dokumentär från 2023",
+           "restrictions": {
+            "onlyAvailableInSweden": true,
+            "drmCopyProtection": false
+           },
+           "images": {
+            "wide": {
+             "id": "55145690",
+             "changed": 1791532193
+            },
+            "portrait": {
+             "id": "55145693",
+             "changed": 1791532193
+            }
+           },
+           "duration": 2828,
+           "productionYear": 2023,
+           "validFrom": "2026-10-17T02:00:00+02:00",
+           "validTo": "2027-05-31T17:59:59.999+02:00"
+          }
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

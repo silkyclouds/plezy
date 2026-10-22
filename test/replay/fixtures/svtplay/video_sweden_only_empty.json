@@ -1,0 +1,34 @@
+{
+ "svtId": "86ddvEn",
+ "programVersionId": "1414995-001A",
+ "contentDuration": 5961,
+ "blockedForChildren": false,
+ "live": false,
+ "liveStatus": null,
+ "hasVodReferences": false,
+ "programTitle": "A Christmas Feast",
+ "episodeTitle": "A Christmas Feast",
+ "rights": null,
+ "videoReferences": [],
+ "variants": {
+  "default": null,
+  "audioDescribed": null,
+  "signInterpreted": null
+ },
+ "subtitleReferences": [],
+ "mmsStatistics": {
+  "mms_tid": "1414995-001A",
+  "ns_st_pl": "1020-biografvisad-film",
+  "ns_st_pr": "a-christmas-feast",
+  "ns_st_ep": "a-christmas-feast",
+  "ns_st_cl": 5961000,
+  "ns_st_li": 0,
+  "svt_taggar": "drama,karlek-och-romantik,filmer,komedier,julstamning,Romantisk_komedi,amerikansk,2010-tal,julfilmer,feelgood,p1-harligt-och-inspirerande,p0-applicerbart-lofte-saknas,julen-i-svt,komedifilmer,romantiska-filmer,amerikanska-filmer,l2-spannande-fiktion,jul-tv-filmer",
+  "svt_contenttype": "program",
+  "svt_content_type": "program"
+ },
+ "uhd": false,
+ "liveManifestExists": null,
+ "mergeableVariants": true,
+ "firstFrame": null
+}

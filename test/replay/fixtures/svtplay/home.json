@@ -1,0 +1,981 @@
+{
+ "data": {
+  "startForSvtPlay": {
+   "selections": [
+    {
+     "id": "recommended_start",
+     "name": "Vi rekommenderar",
+     "selectionType": "recommended",
+     "items": [
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415199-210",
+        "svtId": "jVwwWpo",
+        "slug": "idag-06-00",
+        "name": "Idag 06:00",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55171462",
+          "changed": 1791895563
+         },
+         "portrait": {
+          "id": "55171465",
+          "changed": 1791895563
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 14400,
+        "validFrom": "2026-10-22T06:00:00+02:00",
+        "validTo": "2026-10-29T23:59:00+01:00",
+        "parent": {
+         "id": "8r9wQQg",
+         "svtId": "8r9wQQg",
+         "name": "Morgonstudion"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "jBwagy2",
+        "svtId": "jBwagy2",
+        "slug": "sexpredikanten",
+        "name": "Sexpredikanten",
+        "shortDescription": "Dokumentärserie",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55161775",
+          "changed": 1791806830
+         },
+         "portrait": {
+          "id": "55161778",
+          "changed": 1791806830
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1416746-009",
+        "svtId": "jBwJLnL",
+        "slug": "vems-sida-star-hon-pa",
+        "name": "Vems sida står hon på?",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55224655",
+          "changed": 1792498560
+         },
+         "portrait": {
+          "id": "55224661",
+          "changed": 1792498560
+         }
+        },
+        "nameRaw": "Vems sida står hon på?",
+        "number": 9,
+        "duration": 1695,
+        "validFrom": "2026-10-21T19:30:00+02:00",
+        "validTo": "2027-06-14T23:59:00+02:00",
+        "parent": {
+         "id": "e7ovrxY",
+         "svtId": "e7ovrxY",
+         "name": "Politikbyrån"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvShow",
+        "id": "KQYbQZD",
+        "svtId": "KQYbQZD",
+        "slug": "fraga-lund",
+        "name": "Fråga Lund",
+        "shortDescription": "Underhållande faktaprogram",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54766676",
+          "changed": 1787312765
+         },
+         "portrait": {
+          "id": "54766679",
+          "changed": 1787312766
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvShow",
+        "id": "jdwGa9o",
+        "svtId": "jdwGa9o",
+        "slug": "kulturfragan-kontrapunkt",
+        "name": "Kulturfrågan Kontrapunkt",
+        "shortDescription": "Frågesport om musik, konst och litteratur",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54970847",
+          "changed": 1789478762
+         },
+         "portrait": {
+          "id": "54970850",
+          "changed": 1789478763
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "ep5Do4G",
+        "svtId": "ep5Do4G",
+        "slug": "nepobaby",
+        "name": "Nepobaby",
+        "shortDescription": "Norsk dramaserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55108130",
+          "changed": 1791207267
+         },
+         "portrait": {
+          "id": "55108133",
+          "changed": 1791207268
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1417390-003",
+        "svtId": "KVw6AW5",
+        "slug": "3-den-storsta-hemligheten",
+        "name": "3. Den största hemligheten",
+        "shortDescription": "Svensk dokumentärserie från 2026",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55058081",
+          "changed": 1790595967
+         },
+         "portrait": {
+          "id": "55058093",
+          "changed": 1790595967
+         }
+        },
+        "nameRaw": "Den största hemligheten",
+        "number": 3,
+        "duration": 2931,
+        "validFrom": "2026-10-20T06:00:00+02:00",
+        "validTo": "2028-10-19T23:59:59+02:00",
+        "parent": {
+         "id": "85dVVJv",
+         "svtId": "85dVVJv",
+         "name": "Dokument inifrån: Pojkarna - regissören och sanningen"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "popular_start",
+     "name": "Populärt",
+     "selectionType": "popular",
+     "items": [
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "jpmQD3q",
+        "svtId": "jpmQD3q",
+        "slug": "gift-vid-forsta-ogonkastet",
+        "name": "Gift vid första ögonkastet",
+        "shortDescription": "Omdiskuterat relationsprogram",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54606008",
+          "changed": 1785318356
+         },
+         "portrait": {
+          "id": "54606011",
+          "changed": 1785318357
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "ed6Mxbg",
+        "svtId": "ed6Mxbg",
+        "slug": "hjalp-vi-har-kopt-ett-franskt-ruckel",
+        "name": "Hjälp, vi har köpt ett franskt ruckel!",
+        "shortDescription": "Svensk realityserie",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54608408",
+          "changed": 1785343731
+         },
+         "portrait": {
+          "id": "54608411",
+          "changed": 1785343732
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "j3d1134",
+        "svtId": "j3d1134",
+        "slug": "boyfriends",
+        "name": "Boyfriends",
+        "shortDescription": "Realityserie om vänskap, kärlek och gränser",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55057247",
+          "changed": 1790587616
+         },
+         "portrait": {
+          "id": "55057250",
+          "changed": 1790587618
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvShow",
+        "id": "eoVPJNz",
+        "svtId": "eoVPJNz",
+        "slug": "rapport",
+        "name": "Rapport",
+        "shortDescription": "Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         },
+         "portrait": {
+          "id": "38032931",
+          "changed": 1686132140
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "85dVVJv",
+        "svtId": "85dVVJv",
+        "slug": "dokument-inifran-pojkarna-regissoren-och-sanningen",
+        "name": "Dokument inifrån: Pojkarna - regissören och sanningen",
+        "shortDescription": "Svensk dokumentärserie från 2026",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55058186",
+          "changed": 1790597589
+         },
+         "portrait": {
+          "id": "55058189",
+          "changed": 1790597590
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415186-139",
+        "svtId": "erQQN3B",
+        "slug": "man-19-okt-21-00",
+        "name": "Mån 19 okt 21:00",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55216963",
+          "changed": 1792422799
+         },
+         "portrait": {
+          "id": "55216966",
+          "changed": 1792422800
+         }
+        },
+        "nameRaw": "",
+        "number": 139,
+        "duration": 2345,
+        "validFrom": "2026-10-19T21:00:00+02:00",
+        "validTo": "2026-10-26T23:59:59+01:00",
+        "parent": {
+         "id": "jpmQ9xw",
+         "svtId": "jpmQ9xw",
+         "name": "Aktuellt"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "keepWatching_start",
+     "name": "Fortsätt titta",
+     "selectionType": "keepWatching",
+     "items": []
+    },
+    {
+     "id": "list_1204",
+     "name": "Nytt på Play",
+     "selectionType": "Default",
+     "items": [
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "ep5Do4G",
+        "svtId": "ep5Do4G",
+        "slug": "nepobaby",
+        "name": "Nepobaby",
+        "shortDescription": "Norsk dramaserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55108130",
+          "changed": 1791207267
+         },
+         "portrait": {
+          "id": "55108133",
+          "changed": 1791207268
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "8rQBdDG",
+        "svtId": "8rQBdDG",
+        "slug": "sveriges-nasta-stjarnkock-new-york",
+        "name": "Sveriges nästa stjärnkock – New York",
+        "shortDescription": "Realityserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54947843",
+          "changed": 1789326968
+         },
+         "portrait": {
+          "id": "54947846",
+          "changed": 1789326969
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "jBwagy2",
+        "svtId": "jBwagy2",
+        "slug": "sexpredikanten",
+        "name": "Sexpredikanten",
+        "shortDescription": "Dokumentärserie",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55161775",
+          "changed": 1791806830
+         },
+         "portrait": {
+          "id": "55161778",
+          "changed": 1791806830
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "8voLvP6",
+        "svtId": "8voLvP6",
+        "slug": "grantchester",
+        "name": "Grantchester",
+        "shortDescription": "Brittisk deckare",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": true
+        },
+        "images": {
+         "wide": {
+          "id": "55127930",
+          "changed": 1791380296
+         },
+         "portrait": {
+          "id": "55127933",
+          "changed": 1791380297
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "KN3GwXr",
+        "svtId": "KN3GwXr",
+        "slug": "den-makalosa-familjen-forsyte",
+        "name": "Den makalösa familjen Forsyte",
+        "shortDescription": "Brittiskt kostymdrama",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": true
+        },
+        "images": {
+         "wide": {
+          "id": "55171315",
+          "changed": 1791894411
+         },
+         "portrait": {
+          "id": "55171318",
+          "changed": 1791894413
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "latest_start",
+     "name": "Senaste",
+     "selectionType": "latest",
+     "items": [
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415279-210",
+        "svtId": "8vvvN2V",
+        "slug": "idag-08-30",
+        "name": "Idag 08:30",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         },
+         "portrait": {
+          "id": "38032931",
+          "changed": 1686132140
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 177,
+        "validFrom": "2026-10-22T08:30:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "parent": {
+         "id": "eoVPJNz",
+         "svtId": "eoVPJNz",
+         "name": "Rapport"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415271-210",
+        "svtId": "jMyyYvB",
+        "slug": "idag-08-27",
+        "name": "Idag 08:27",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "27230101",
+          "changed": 1686136626
+         },
+         "portrait": {
+          "id": "50252804",
+          "changed": 1687270638
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 142,
+        "validFrom": "2026-10-22T08:27:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "parent": {
+         "id": "e7Ppxqm",
+         "svtId": "e7Ppxqm",
+         "name": "Väder"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415053-210",
+        "svtId": "e6ddGm2",
+        "slug": "idag-07-45",
+        "name": "Idag 07:45",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55238998",
+          "changed": 1792649111
+         },
+         "portrait": {
+          "id": "33071958",
+          "changed": 1686135760
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 249,
+        "validFrom": "2026-10-22T07:45:00+02:00",
+        "validTo": "2026-11-05T23:59:59+01:00",
+        "parent": {
+         "id": "e3BzXZ2",
+         "svtId": "e3BzXZ2",
+         "name": "Sportnytt"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "lastchance_start",
+     "name": "Sista chansen",
+     "selectionType": "lastchance",
+     "items": [
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1413344-006",
+        "svtId": "jd63VDN",
+        "slug": "6-vem-ar-maj-lis",
+        "name": "6. Vem är Maj-Lis?",
+        "shortDescription": "Svensk humorserie från 2026. Säsong 4",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "53929465",
+          "changed": 1773800169
+         },
+         "portrait": {
+          "id": "53929468",
+          "changed": 1773800169
+         }
+        },
+        "nameRaw": "Vem är Maj-Lis?",
+        "number": 6,
+        "duration": 1134,
+        "validFrom": "2026-04-17T02:00:00+02:00",
+        "validTo": "2026-10-22T23:59:59+02:00",
+        "parent": {
+         "id": "eDvVArJ",
+         "svtId": "eDvVArJ",
+         "name": "Terese i kassan"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Single",
+        "id": "1414391-001",
+        "svtId": "8Wvr634",
+        "slug": "levande-och-doda-i-winsford",
+        "name": "Levande och döda i Winsford",
+        "shortDescription": "Brittiskt-svenskt kriminaldrama från 2023",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54465074",
+          "changed": 1783339382
+         },
+         "portrait": {
+          "id": "54465077",
+          "changed": 1783339383
+         }
+        },
+        "duration": 5388,
+        "productionYear": 2023,
+        "validFrom": "2026-07-24T02:00:00+02:00",
+        "validTo": "2026-10-22T23:59:00+02:00"
+       }
+      },
+      {
+       "item": {
+        "__typename": "Single",
+        "id": "1117075-001",
+        "svtId": "jgVBy3g",
+        "slug": "lille-fridolf-och-jag",
+        "name": "Lille Fridolf och jag",
+        "shortDescription": "Svensk långfilm från 1956",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "52040895",
+          "changed": 1729521991
+         },
+         "portrait": {
+          "id": "52040907",
+          "changed": 1729521992
+         }
+        },
+        "duration": 5981,
+        "productionYear": 1956,
+        "validFrom": "2026-09-25T02:00:00+02:00",
+        "validTo": "2026-10-25T02:00:00+02:00"
+       }
+      },
+      {
+       "item": {
+        "__typename": "Single",
+        "id": "1410245-001",
+        "svtId": "KZm2NP4",
+        "slug": "attenborough-and-the-jurassic-sea-monster",
+        "name": "Attenboroughs förhistoriska djur",
+        "shortDescription": "En livslång besatthet av fossiler",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54140530",
+          "changed": 1778145378
+         },
+         "portrait": {
+          "id": "54140533",
+          "changed": 1778145379
+         }
+        },
+        "duration": 2994,
+        "productionYear": 2024,
+        "validFrom": "2026-04-25T02:00:00+02:00",
+        "validTo": "2026-10-22T23:59:00+02:00"
+       }
+      },
+      {
+       "item": {
+        "__typename": "Single",
+        "id": "1406258-001",
+        "svtId": "jmLgVyg",
+        "slug": "nice-ladies",
+        "name": "Nice Ladies",
+        "shortDescription": "Dox",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "51989547",
+          "changed": 1727941220
+         },
+         "portrait": {
+          "id": "51989551",
+          "changed": 1727941221
+         }
+        },
+        "duration": 5486,
+        "productionYear": 2024,
+        "validFrom": "2024-10-22T22:30:00+02:00",
+        "validTo": "2026-10-22T23:59:59+02:00"
+       }
+      }
+     ]
+    },
+    {
+     "id": "live_start",
+     "name": "Livesändningar",
+     "selectionType": "live",
+     "items": [
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1417496-017",
+        "svtId": "8vvaYwL",
+        "slug": "idag-00-00",
+        "name": "Idag 00:00",
+        "shortDescription": "Följ valpar dygnet runt!",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55093397",
+          "changed": 1790930270
+         },
+         "portrait": {
+          "id": "55093400",
+          "changed": 1790930270
+         }
+        },
+        "nameRaw": "",
+        "number": 17,
+        "duration": 86340,
+        "validFrom": "2026-10-22T00:00:00+02:00",
+        "validTo": "2027-04-30T23:59:00+02:00",
+        "parent": {
+         "id": "KrQBXo1",
+         "svtId": "KrQBXo1",
+         "name": "Valparna live"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415199-210",
+        "svtId": "jVwwWpo",
+        "slug": "idag-06-00",
+        "name": "Idag 06:00",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55171462",
+          "changed": 1791895563
+         },
+         "portrait": {
+          "id": "55171465",
+          "changed": 1791895563
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 14400,
+        "validFrom": "2026-10-22T06:00:00+02:00",
+        "validTo": "2026-10-29T23:59:00+01:00",
+        "parent": {
+         "id": "8r9wQQg",
+         "svtId": "8r9wQQg",
+         "name": "Morgonstudion"
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415310-210",
+        "svtId": "e5dvrm4",
+        "slug": "idag-08-41",
+        "name": "Idag 08:41",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "52371355",
+          "changed": 1737553575
+         },
+         "portrait": {
+          "id": "52371371",
+          "changed": 1737553577
+         }
+        },
+        "nameRaw": "",
+        "number": 210,
+        "duration": 240,
+        "validFrom": "2026-10-22T08:41:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "parent": {
+         "id": "jXZVggV",
+         "svtId": "jXZVggV",
+         "name": "Kulturnyheterna"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "list_889",
+     "name": "Få snabb koll på nyhetsflödet",
+     "selectionType": "Default",
+     "items": [
+      {
+       "item": {
+        "__typename": "Clip",
+        "id": "jb3kLyY",
+        "svtId": "jb3kLyY",
+        "slug": "varlden-pa-vag-mot-2-8-graders-uppvarmning",
+        "name": "Världen på väg mot 2,8 graders uppvärmning",
+        "shortDescription": "För första gången säger FN rakt ut att världen inte kommer att klara Parisavtalets mål om max 1,5 graders global uppvärmning. Jordens medeltemperatur kommer oundvikligen att öka till 1,7 eller 1,8 grader jämfört med tide",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55233154",
+          "changed": 1792576155
+         },
+         "portrait": {
+          "id": "55233148",
+          "changed": 1792576155
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Clip",
+        "id": "e3d1M36",
+        "svtId": "e3d1M36",
+        "slug": "har-mots-usa-och-ryssland-uppmanar-till-nya-fredssamtal",
+        "name": "Här möts USA och Ryssland: Uppmanar till nya fredssamtal",
+        "shortDescription": "USA fredssändebud Steve Witkoff har träffat president Putin för att diskutera hur kriget i Ukraina ska kunna avslutas.  Witkoff uppmanade bland annat Putin att återuppta fredssamtal mellan Ryssland, Ukraina och USA.  Fot",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55234933",
+          "changed": 1792592254
+         },
+         "portrait": {
+          "id": "55234927",
+          "changed": 1792592253
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Clip",
+        "id": "jb3kLyY",
+        "svtId": "jb3kLyY",
+        "slug": "varlden-pa-vag-mot-2-8-graders-uppvarmning",
+        "name": "Världen på väg mot 2,8 graders uppvärmning",
+        "shortDescription": "För första gången säger FN rakt ut att världen inte kommer att klara Parisavtalets mål om max 1,5 graders global uppvärmning. Jordens medeltemperatur kommer oundvikligen att öka till 1,7 eller 1,8 grader jämfört med tide",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55233154",
+          "changed": 1792576155
+         },
+         "portrait": {
+          "id": "55233148",
+          "changed": 1792576155
+         }
+        }
+       }
+      },
+      {
+       "item": {
+        "__typename": "Clip",
+        "id": "e3d1M36",
+        "svtId": "e3d1M36",
+        "slug": "har-mots-usa-och-ryssland-uppmanar-till-nya-fredssamtal",
+        "name": "Här möts USA och Ryssland: Uppmanar till nya fredssamtal",
+        "shortDescription": "USA fredssändebud Steve Witkoff har träffat president Putin för att diskutera hur kriget i Ukraina ska kunna avslutas.  Witkoff uppmanade bland annat Putin att återuppta fredssamtal mellan Ryssland, Ukraina och USA.  Fot",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55234933",
+          "changed": 1792592254
+         },
+         "portrait": {
+          "id": "55234927",
+          "changed": 1792592253
+         }
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "data": {
+  "mainCategories": {
+   "categories": [
+    {
+     "id": "serier",
+     "heading": "Serier",
+     "isMainCategory": true
+    },
+    {
+     "id": "filmer",
+     "heading": "Filmer",
+     "isMainCategory": true
+    },
+    {
+     "id": "nyheter",
+     "heading": "Nyheter",
+     "isMainCategory": true
+    },
+    {
+     "id": "dokumentar",
+     "heading": "Dokumentär",
+     "isMainCategory": true
+    },
+    {
+     "id": "sport",
+     "heading": "Sport",
+     "isMainCategory": true
+    },
+    {
+     "id": "barn",
+     "heading": "Barn",
+     "isMainCategory": true
+    },
+    {
+     "id": "ung",
+     "heading": "Ung",
+     "isMainCategory": true
+    },
+    {
+     "id": "underhallning",
+     "heading": "Underhållning",
+     "isMainCategory": true
+    },
+    {
+     "id": "livsstil-och-reality",
+     "heading": "Livsstil & reality",
+     "isMainCategory": true
+    },
+    {
+     "id": "humor",
+     "heading": "Humor",
+     "isMainCategory": true
+    },
+    {
+     "id": "musik",
+     "heading": "Musik",
+     "isMainCategory": true
+    },
+    {
+     "id": "kultur",
+     "heading": "Kultur",
+     "isMainCategory": true
+    },
+    {
+     "id": "historia",
+     "heading": "Historia",
+     "isMainCategory": true
+    },
+    {
+     "id": "samhalle",
+     "heading": "Samhälle",
+     "isMainCategory": true
+    },
+    {
+     "id": "val-2026",
+     "heading": "Val 2026",
+     "isMainCategory": true
+    },
+    {
+     "id": "vetenskap",
+     "heading": "Vetenskap",
+     "isMainCategory": true
+    },
+    {
+     "id": "djur-och-natur",
+     "heading": "Djur & natur",
+     "isMainCategory": true
+    },
+    {
+     "id": "scen",
+     "heading": "Scen",
+     "isMainCategory": true
+    },
+    {
+     "id": "oppet-arkiv",
+     "heading": "Öppet arkiv",
+     "isMainCategory": true
+    },
+    {
+     "id": "finska-suomi",
+     "heading": "Finska / Suomi",
+     "isMainCategory": true
+    },
+    {
+     "id": "jiddisch-yiddish",
+     "heading": "Jiddisch/Yiddish",
+     "isMainCategory": true
+    },
+    {
+     "id": "meankieli",
+     "heading": "Meänkieli",
+     "isMainCategory": true
+    },
+    {
+     "id": "romani",
+     "heading": "Romani",
+     "isMainCategory": true
+    },
+    {
+     "id": "samiska-sami",
+     "heading": "Samiska / Sámi",
+     "isMainCategory": true
+    },
+    {
+     "id": "syntolkat",
+     "heading": "Syntolkat",
+     "isMainCategory": false
+    },
+    {
+     "id": "teckensprak",
+     "heading": "Teckenspråk",
+     "isMainCategory": false
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "data": {
+  "searchPage": {
+   "flat": {
+    "hits": [
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvShow",
+        "id": "eoVPJNz",
+        "svtId": "eoVPJNz",
+        "slug": "rapport",
+        "name": "Rapport",
+        "shortDescription": "Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         },
+         "portrait": {
+          "id": "38032931",
+          "changed": 1686132140
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "e3kaokb",
+        "svtId": "e3kaokb",
+        "slug": "rapport-till-himlen",
+        "name": "Rapport till himlen",
+        "shortDescription": "Svensk dramaserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "36813391",
+          "changed": 1686132943
+         },
+         "portrait": {
+          "id": "36813391",
+          "changed": 1686132943
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Single",
+        "id": "1399427-001",
+        "svtId": "jMdmPWB",
+        "slug": "extra-rapport-mordet-pa-olof-palme",
+        "name": "Extra Rapport - mordet på Olof Palme",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "36811895",
+          "changed": 1686132957
+         },
+         "portrait": {
+          "id": "36811895",
+          "changed": 1686132957
+         }
+        },
+        "duration": 1181,
+        "productionYear": 1986,
+        "validFrom": "2021-05-21T06:00:00+02:00",
+        "validTo": "2060-12-31T22:59:00+01:00"
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Clip",
+        "id": "Kn4kRBa",
+        "svtId": "Kn4kRBa",
+        "slug": "journalister-stoppas-fran-att-rapportera-fritt-i-gaza",
+        "name": "Journalister stoppas från att rapportera fritt i Gaza",
+        "shortDescription": "SVT möter journalister vid gränsen mot Gaza och skildrar hur Israel fortsatt hindrar oberoende reportrar från att rapportera fritt från området.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55201699",
+          "changed": 1792152888
+         },
+         "portrait": {
+          "id": "55200889",
+          "changed": 1792150326
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Episode",
+        "id": "1415186-141",
+        "svtId": "8MyyJgg",
+        "slug": "igar-21-00",
+        "name": "Igår 21:00",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55236856",
+          "changed": 1792608991
+         },
+         "portrait": {
+          "id": "50034503",
+          "changed": 1685707615
+         }
+        },
+        "nameRaw": "",
+        "number": 141,
+        "duration": 2291,
+        "validFrom": "2026-10-21T21:00:00+02:00",
+        "validTo": "2026-10-28T23:59:59+01:00",
+        "parent": {
+         "id": "jpmQ9xw",
+         "svtId": "jpmQ9xw",
+         "name": "Aktuellt"
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvShow",
+        "id": "eDvaMLL",
+        "svtId": "eDvaMLL",
+        "slug": "val-2026-valstudion",
+        "name": "Val 2026: Valstudion",
+        "shortDescription": "Direktsänd valbevakning",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54782918",
+          "changed": 1787583843
+         },
+         "portrait": {
+          "id": "54780797",
+          "changed": 1787565499
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Episode",
+        "id": "1416602-008",
+        "svtId": "jn4q5AR",
+        "slug": "fn-och-overgreppen",
+        "name": "FN och övergreppen",
+        "shortDescription": "UG blickar tillbaka på uppmärksammade reportage",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54460652",
+          "changed": 1783300558
+         },
+         "portrait": {
+          "id": "54460655",
+          "changed": 1783300559
+         }
+        },
+        "nameRaw": "FN och övergreppen",
+        "number": 8,
+        "duration": 3429,
+        "validFrom": "2026-08-05T02:00:00+02:00",
+        "validTo": "2028-08-04T23:59:59+02:00",
+        "parent": {
+         "id": "8zoydGW",
+         "svtId": "8zoydGW",
+         "name": "Uppdrag granskning"
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Clip",
+        "id": "Kn4kRBa",
+        "svtId": "Kn4kRBa",
+        "slug": "journalister-stoppas-fran-att-rapportera-fritt-i-gaza",
+        "name": "Journalister stoppas från att rapportera fritt i Gaza",
+        "shortDescription": "SVT möter journalister vid gränsen mot Gaza och skildrar hur Israel fortsatt hindrar oberoende reportrar från att rapportera fritt från området.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55201699",
+          "changed": 1792152888
+         },
+         "portrait": {
+          "id": "55200889",
+          "changed": 1792150326
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

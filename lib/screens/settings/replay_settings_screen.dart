@@ -231,10 +231,7 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
     final extraLanguages = info.languages.skip(1).map((code) => replayLanguageName(code, _locale)).toList();
     return [
       FocusableListTile(
-        leading: SizedBox(
-          width: 48,
-          child: ReplayChannelLogo(sourceId: info.id, name: info.name, height: 26),
-        ),
+        leading: ReplayChannelLogo.tile(sourceId: info.id, name: info.name),
         title: Text(info.name),
         subtitle: Column(
           crossAxisAlignment: CrossAxisAlignment.start,

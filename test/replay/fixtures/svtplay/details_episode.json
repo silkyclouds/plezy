@@ -1,0 +1,62 @@
+{
+ "data": {
+  "detailsPage": {
+   "description": "Elisabeth Thand Ringqvist har fått sonderingsuppdraget och ska lotsa Centerpartiet genom regeringskaoset. Kan de rödgröna verkligen lita på henne? Och är drömmen om en mittenregering realistisk eller kan det omtalade bastumötet med Ebba Busch ge en ledtråd om vart C egentligen är på väg? I studion: Fd riksdagsledamoten Helena Lindahl (C), riksdagsledamoten Niels Paarup-Petersen (C) och C:s tidigare policychef Magnus Demervall. Dessutom kommer Centerpartiet att roastas av en hemlig gäst.",
+   "images": {
+    "wide": {
+     "id": "55224655",
+     "changed": 1792498560
+    },
+    "portrait": {
+     "id": "55224661",
+     "changed": 1792498560
+    },
+    "logotype": null
+   },
+   "item": {
+    "__typename": "Episode",
+    "id": "1416746-009",
+    "svtId": "jBwJLnL",
+    "slug": "vems-sida-star-hon-pa",
+    "name": "Vems sida står hon på?",
+    "shortDescription": "",
+    "longDescription": "Elisabeth Thand Ringqvist har fått sonderingsuppdraget och ska lotsa Centerpartiet genom regeringskaoset. Kan de rödgröna verkligen lita på henne? Och är drömmen om en mittenregering realistisk eller kan det omtalade bas",
+    "restrictions": {
+     "onlyAvailableInSweden": false,
+     "drmCopyProtection": false
+    },
+    "genres": [
+     {
+      "name": "Talkshow"
+     },
+     {
+      "name": "Nyheter"
+     },
+     {
+      "name": "Samhälle"
+     },
+     {
+      "name": "Politik"
+     },
+     {
+      "name": "Val 2026"
+     },
+     {
+      "name": "Tydligare tal"
+     }
+    ],
+    "nameRaw": "Vems sida står hon på?",
+    "number": 9,
+    "duration": 1695,
+    "validFrom": "2026-10-21T19:30:00+02:00",
+    "validTo": "2027-06-14T23:59:00+02:00",
+    "productionYear": 2026,
+    "parent": {
+     "id": "e7ovrxY",
+     "svtId": "e7ovrxY",
+     "name": "Politikbyrån"
+    }
+   }
+  }
+ }
+}

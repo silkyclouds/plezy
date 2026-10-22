@@ -9,6 +9,7 @@ import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
+import '../providers/svtplay/svtplay_provider.dart';
 import '../providers/tf1plus/tf1plus_provider.dart';
 import '../providers/tvlocales/antennecentre_provider.dart';
 import '../providers/tvlocales/canalzoom_provider.dart';
@@ -122,6 +123,13 @@ const replaySourceInfos = [
     languages: ['en'],
   ),
   ReplaySourceInfo(
+    id: 'svtplay',
+    name: 'SVT Play',
+    support: ReplayPlaybackSupport.partial,
+    country: 'SE',
+    languages: ['sv'],
+  ),
+  ReplaySourceInfo(
     id: 'dw',
     name: 'Deutsche Welle',
     support: ReplayPlaybackSupport.clear,
@@ -180,6 +188,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'antennecentre' => AntenneCentreProvider(http),
       'canalzoom' => CanalZoomProvider(http),
       'aljazeera' => AljazeeraProvider(http),
+      'svtplay' => SvtPlayProvider(http),
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
       _ => null,

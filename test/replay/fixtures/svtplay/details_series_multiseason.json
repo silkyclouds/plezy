@@ -1,0 +1,846 @@
+{
+ "data": {
+  "detailsPage": {
+   "description": "Fixa rummet är ett riktigt byggprogram för barn som vill skapa sina drömrum. Tillsammans med programledarna ska det målas, tapetseras, sågas och sys.",
+   "images": {
+    "wide": {
+     "id": "50926396",
+     "changed": 1703009750
+    },
+    "portrait": {
+     "id": "50926412",
+     "changed": 1703009750
+    },
+    "logotype": {
+     "id": "50900352",
+     "changed": 1776950962
+    }
+   },
+   "item": {
+    "__typename": "KidsTvShow",
+    "id": "KqvMbEz",
+    "svtId": "KqvMbEz",
+    "slug": "fixa-rummet",
+    "name": "Fixa rummet",
+    "shortDescription": "Barn skapar sina drömrum",
+    "longDescription": "Fixa rummet är ett riktigt byggprogram för barn som vill skapa sina drömrum. Tillsammans med programledarna ska det målas, tapetseras, sågas och sys.",
+    "restrictions": {
+     "onlyAvailableInSweden": false,
+     "drmCopyProtection": false
+    },
+    "genres": [
+     {
+      "name": "För hela familjen"
+     },
+     {
+      "name": "Hantverk & pyssel"
+     },
+     {
+      "name": "Barn"
+     },
+     {
+      "name": "Teckenspråk"
+     },
+     {
+      "name": "Tydligare tal"
+     },
+     {
+      "name": "Uppläst undertext"
+     }
+    ],
+    "seasons": [
+     {
+      "id": "KqvMbEz-sasong-10-10",
+      "name": "Säsong 10",
+      "number": 10,
+      "episodes": [
+       {
+        "id": "1409093-006",
+        "svtId": "KZxp2gP",
+        "name": "Restaurang",
+        "nameRaw": "Restaurang",
+        "number": 6,
+        "positionInSeason": "",
+        "duration": 1720,
+        "validFrom": "2026-06-26T02:00:00+02:00",
+        "validTo": "2028-06-25T23:59:00+02:00",
+        "productionYear": 2024,
+        "shortDescription": "",
+        "longDescription": "Ville har byggt en egen restaurang av flyttkartonger. Men nu vill han göra om sitt rum så att det känns som en riktig restaurang. Tillsammans med Ellen Särnevång och Johan Hebbe fixar han ett kök, en scen och evighetsmat",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "51226028",
+          "changed": 1707272155
+         }
+        }
+       },
+       {
+        "id": "1409093-005",
+        "svtId": "8EqEBoa",
+        "name": "Månlabb",
+        "nameRaw": "Månlabb",
+        "number": 5,
+        "positionInSeason": "",
+        "duration": 1716,
+        "validFrom": "2026-06-26T02:00:00+02:00",
+        "validTo": "2028-06-25T23:59:00+02:00",
+        "productionYear": 2024,
+        "shortDescription": "",
+        "longDescription": "Lilly tycker att det är spännande med rymden och forskning. Därför vill hon göra om sitt rum så att det känns som hon är i en forskningsstation på månen. Ellen Särnevång och Johan Hebbe hjälper henne så att hon både kan ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "51198340",
+          "changed": 1706667351
+         }
+        }
+       },
+       {
+        "id": "1409093-004",
+        "svtId": "jqPdYkG",
+        "name": "Spelvärld",
+        "nameRaw": "Spelvärld",
+        "number": 4,
+        "positionInSeason": "",
+        "duration": 1707,
+        "validFrom": "2026-06-26T02:00:00+02:00",
+        "validTo": "2028-06-25T23:59:00+02:00",
+        "productionYear": 2024,
+        "shortDescription": "",
+        "longDescription": "Palomir älskar att spela datorspel och han vill att hans rum ska kännas som han är inne i en pixlig spelvärld. Tillsammans med Ellen Särnevång och Johan Hebbe så fixar han sitt drömrum. Del 4 av 6.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "51020672",
+          "changed": 1706062552
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-9-9",
+      "name": "Säsong 9",
+      "number": 9,
+      "episodes": [
+       {
+        "id": "1383339-012",
+        "svtId": "e3kpELE",
+        "name": "Hönshus",
+        "nameRaw": "Hönshus",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 2324,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2019,
+        "shortDescription": "",
+        "longDescription": "Astrid har fyra hönor och en tupp, Snöboll. Hon vill att de ska bo i världens bästa hönshus. Programledarna Agnes Hammar och Mattias Malmgren förstår nog inte riktigt vad de gett sig in på när det är dags att städa bort ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "22561918",
+          "changed": 1686137192
+         }
+        }
+       },
+       {
+        "id": "1383339-011",
+        "svtId": "egBzmLW",
+        "name": "Sport",
+        "nameRaw": "Sport",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 2309,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2019,
+        "shortDescription": "",
+        "longDescription": "William älskar bollsporter som handboll och fotboll. Han har autism vilket gör att allting inte blir lika lätt att fixa själv men programledarna Agnes Hammar och Mattias Malmgren hjälper till. Det ska bli ett rum med ord",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "22480594",
+          "changed": 1686137199
+         }
+        }
+       },
+       {
+        "id": "1383339-009",
+        "svtId": "ja45RGR",
+        "name": "Mammas jobb",
+        "nameRaw": "Mammas jobb",
+        "number": 9,
+        "positionInSeason": "",
+        "duration": 2266,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2019,
+        "shortDescription": "",
+        "longDescription": "Simone & Eli vill göra ett roligare rum åt barnen som deras mamma jobbar med. Barnen har kommit som flyktingar till Sverige och behöver få det lite finare i sitt samlingsrum. Det blir en utmaning för programledarna Agnes",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "22290113",
+          "changed": 1686137216
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-8-8",
+      "name": "Säsong 8",
+      "number": 8,
+      "episodes": [
+       {
+        "id": "1377342-012",
+        "svtId": "8PbWyMj",
+        "name": "Motocross",
+        "nameRaw": "Motocross",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 2283,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2018,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. Motocross. Samuel sover i storebror Theodors rum och stör honom varje morgon. Han önskar sig ett motocrossrum med en säng i, så att han kan sova där istället. Programledarna Agnes Hammar och Mattias Malmgre",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20477532",
+          "changed": 1686137332
+         }
+        }
+       },
+       {
+        "id": "1377342-011",
+        "svtId": "e9qXPRe",
+        "name": "Enhörningsrum",
+        "nameRaw": "Enhörningsrum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 2421,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2018,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Enhörningsrum. Lena önskar sig ett rum med enhörningsrum med flygande grisar och fantasidjur. Hon gillar alla regnbågens färger och tillsammans med programledarna Agnes Hammar och Mattias Malmgren så fixar ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20477548",
+          "changed": 1686137332
+         }
+        }
+       },
+       {
+        "id": "1377342-010",
+        "svtId": "jbagAme",
+        "name": "Häxrum",
+        "nameRaw": "Häxrum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 2294,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2018,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Häxrum. Pysseltjejen Allison vill ha ett magiskt häxrum som ser gammaldags ut. Det blir mycket trolleri när programledarna Agnes Hammar och Mattias Malmgren hjälper henne att fixa sitt mysrysiga drömrum.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20477556",
+          "changed": 1686137332
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-7-7",
+      "name": "Säsong 7",
+      "number": 7,
+      "episodes": [
+       {
+        "id": "1373643-012",
+        "svtId": "eEdAzM8",
+        "name": "Tjejklubben Lab",
+        "nameRaw": "Tjejklubben Lab",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 2801,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2017,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. I säsongens sista avsnitt hjälper Anna och Mattias tjejklubben Lab i Landskrona. Yllka, Lindrita, Kaltrina och Neneh vill gärna få till en teaterscen, pysselhörna och en mysig läshörna på fritidsgården, där",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20466648",
+          "changed": 1686137334
+         }
+        }
+       },
+       {
+        "id": "1373643-011",
+        "svtId": "84rA27j",
+        "name": "Kickbikestudio",
+        "nameRaw": "Kickbikestudio",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 2625,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2017,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Leo ska byta rum med sin lillebror. Det känns lite för barnsligt för honom, så han vill att Anna och Mattias hjälper honom att få till det. Hans stora intressen är att göra egna filmer och att åka kickbike.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20466640",
+          "changed": 1686137335
+         }
+        }
+       },
+       {
+        "id": "1373643-010",
+        "svtId": "jv7EEQK",
+        "name": "Frisörrum",
+        "nameRaw": "Frisörrum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 2640,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2017,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Fredrika gillar att fixa frisyrer och att plugga. I Fixa rummet får hon hjälp av Anna och Mattias att ordna en liten mysig frisörsalong och en lugn plats att kunna göra läxorna ostört på.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20466676",
+          "changed": 1686137334
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-6-6",
+      "name": "Säsong 6",
+      "number": 6,
+      "episodes": [
+       {
+        "id": "1368901-012",
+        "svtId": "KwRD94j",
+        "name": "Pyssel & syrum",
+        "nameRaw": "Pyssel & syrum",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 2637,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2016,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. I säsongens sista avsnitt är Anna och Amanda hemma hos Thea. Thea älskar att pyssla och sy och vill få hjälp att skapa ett rum som passar för detta. Det ska ha glada och lite neonaktiga färger och bra förva",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20479244",
+          "changed": 1686137330
+         }
+        }
+       },
+       {
+        "id": "1368901-011",
+        "svtId": "ey9R6Qe",
+        "name": "Tågrum",
+        "nameRaw": "Tågrum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 2639,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2016,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Jacobs stora intresse är gamla tåg så temat på Anna och Amandas projekt den här gången är glasklart. Det bör gå som på räls när de tuffar på i äkta ångloksanda. De hinner även med en liten tidsresa för vägg",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20479256",
+          "changed": 1686137330
+         }
+        }
+       },
+       {
+        "id": "1368901-010",
+        "svtId": "jnRLXNj",
+        "name": "Världsrum",
+        "nameRaw": "Världsrum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 2640,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2016,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Sofia är intresserad av världen, nyheter och alla människors rätt att vara som de är. I Fixa rummet får hen hjälp av Anna och Amanda att ordna ett mysigt sovloft i garderoben och orientalisk hänghörna för k",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20479264",
+          "changed": 1686137330
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-5-5",
+      "name": "Säsong 5",
+      "number": 5,
+      "episodes": [
+       {
+        "id": "1360033-012",
+        "svtId": "8pBoZ7j",
+        "name": "Harry Potter-rum",
+        "nameRaw": "Harry Potter-rum",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 2637,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2014,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. Birnas Harry Potter-rum. Dags för Anna och Amanda att rycka ut igen och hjälpa barn med att göra om sina rum. Den här veckan är de hemma hos Birna och fixar ett magirum tillsammans.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20483740",
+          "changed": 1686137329
+         }
+        }
+       },
+       {
+        "id": "1360033-011",
+        "svtId": "eaaw6be",
+        "name": "Mello-rum",
+        "nameRaw": "Mello-rum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 2638,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2014,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Niclas melodifestivalrum. Dags för Anna och Amanda att rycka ut igen och hjälpa barn med att göra om sina rum. Den här veckan är de hemma hos Niclas och Kristoffer och tillsammans fixar dom ett melodifestiv",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20483748",
+          "changed": 1686137329
+         }
+        }
+       },
+       {
+        "id": "1360033-010",
+        "svtId": "jVJJozj",
+        "name": "Storstadsrum",
+        "nameRaw": "Storstadsrum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 2631,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2014,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Shangs storstadsrum. Dags för Anna och Amanda att rycka ut igen och hjälpa barn med att göra om sina rum. Den här veckan är de hemma hos Shang och fixar ett storstadsrum tillsammans.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "20483764",
+          "changed": 1686137329
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-4-4",
+      "name": "Säsong 4",
+      "number": 4,
+      "episodes": [
+       {
+        "id": "1352939-012",
+        "svtId": "eEgRQpK",
+        "name": "Djungel lekrum",
+        "nameRaw": "Djungel lekrum",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 1713,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2013,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. Klara, Edvin och Ivar har ett rum i källaren som de tycker skulle passa bra som lekrum i djungelstil. Med hjälp av Anna blir det en härlig klätterpark i leopardstil, ormlampa och slingrande pysselbord med m",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26853669",
+          "changed": 1686136680
+         }
+        }
+       },
+       {
+        "id": "1352939-011",
+        "svtId": "KwR43Qj",
+        "name": "Rockabillyrum",
+        "nameRaw": "Rockabillyrum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 1717,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2013,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Hedda gillar en stil som kallas rockabilly och det blir ett prickigt och fartfyllt fixande med rockig musik och bilfärd i amerikansk glidare när de ska hitta tapet.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26853477",
+          "changed": 1686136680
+         }
+        }
+       },
+       {
+        "id": "1352939-010",
+        "svtId": "jbaDMde",
+        "name": "Franskt kök",
+        "nameRaw": "Franskt kök",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 1722,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2013,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Frans gillar matlagning och att hänga i köket därför vill han att Anna hjälper honom att fixa familjens kök. Inte minst kyl och frys ser helt annorlunda ut när de är klara och Frans fixar förstås tilltugget",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26853469",
+          "changed": 1686136680
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-3-3",
+      "name": "Säsong 3",
+      "number": 3,
+      "episodes": [
+       {
+        "id": "1240326-012",
+        "svtId": "eEdgq18",
+        "name": "Discodansrum",
+        "nameRaw": "Discodansrum",
+        "number": 12,
+        "positionInSeason": "",
+        "duration": 1677,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2012,
+        "shortDescription": "",
+        "longDescription": "Del 12 av 12. Simon dansar discodans. Han har ärvt ett lila rum efter sin storasyster men nu vill han att det ska bli ett glammigt discorum med plats för dansövningar. Paljetter, ljus och speglar blir det. Återstår att s",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26917521",
+          "changed": 1686136673
+         }
+        }
+       },
+       {
+        "id": "1240326-011",
+        "svtId": "ey9ngEe",
+        "name": "Moderum",
+        "nameRaw": "Moderum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 1715,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2012,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Sara har ett rosa rum. Det vill hon inte ha längre. Det ska vara coolare, mysigare och mer för en 11-åring. Men hur? Anna och Sara kollar på bilder, skissar och bygger modell. Sedan sätter de igång - de del",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26917437",
+          "changed": 1686136673
+         }
+        }
+       },
+       {
+        "id": "1240326-010",
+        "svtId": "eQgQowK",
+        "name": "Zulurum",
+        "nameRaw": "Zulurum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 1703,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2012,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Isidor är adopterad från Sydafrika och vill ha ett rum som inspirerats av hans hemland och Zulufolkets kultur. Lådor, kuddar och stolsits får låna sitt mönster från landets djurliv och några av detaljerna t",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "26917449",
+          "changed": 1686136673
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-2-2",
+      "name": "Säsong 2",
+      "number": 2,
+      "episodes": [
+       {
+        "id": "1156692-011",
+        "svtId": "eYaMLYe",
+        "name": "Gymnastikrum",
+        "nameRaw": "Gymnastikrum",
+        "number": 11,
+        "positionInSeason": "",
+        "duration": 1706,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2011,
+        "shortDescription": "",
+        "longDescription": "Del 11 av 12. Neneh älskar att röra på sig och nu står Isabelle McAllister inför utmaningen att göra ett gymnastikrum. Neneh vill klättra på väggarna, hjula på golvet och hänga från taket. Och hon vill att sängen ser ut ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "18490838",
+          "changed": 1686137426
+         }
+        }
+       },
+       {
+        "id": "1156692-010",
+        "svtId": "eYgEmgK",
+        "name": "Virkrum",
+        "nameRaw": "Virkrum",
+        "number": 10,
+        "positionInSeason": "",
+        "duration": 1720,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2011,
+        "shortDescription": "",
+        "longDescription": "Del 10 av 12. Ruben gillar att virka. Nu ska Isabelle McAllister äntligen få lära sig det. Men hur vill Ruben ha det i sitt rum? Att möblera om kan kräva lite tester. Men väggarna ska i alla fall vara blå och gardinen gj",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "18490802",
+          "changed": 1686137426
+         }
+        }
+       },
+       {
+        "id": "1156692-009",
+        "svtId": "jRg3z9K",
+        "name": "Kaninhörna utomhus",
+        "nameRaw": "Kaninhörna utomhus",
+        "number": 9,
+        "positionInSeason": "",
+        "duration": 1720,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2011,
+        "shortDescription": "",
+        "longDescription": "Del 9 av 12. Isabelle McAllister ger sig den här gången på ett utomhusprojekt. Klara och Tilda vill ha ett rum i trädgården där deras nya kaniner kan bo och leka. Först måste det röjas och rullas ut nytt gräs. Sen ska et",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "18490782",
+          "changed": 1686137426
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "KqvMbEz-sasong-1-1",
+      "name": "Säsong 1",
+      "number": 1,
+      "episodes": [
+       {
+        "id": "1135534-008",
+        "svtId": "KGbzVqj",
+        "name": "Rosa koj-rum",
+        "nameRaw": "Rosa koj-rum",
+        "number": 8,
+        "positionInSeason": "",
+        "duration": 1664,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2010,
+        "shortDescription": "",
+        "longDescription": "Del 8 av 8. Emma drömmer om en koja uppe på takbjälkarna i det stora lekrummet som ska bli hennes. Inredaren Isabelle McAllister älskar kojor. Klart hon kommer och hjälper till. Tillsammans fixar de både koja och näthäng",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "17146286",
+          "changed": 1686137488
+         }
+        }
+       },
+       {
+        "id": "1135534-007",
+        "svtId": "e5MLYne",
+        "name": "Tonårsrum",
+        "nameRaw": "Tonårsrum",
+        "number": 7,
+        "positionInSeason": "",
+        "duration": 1644,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2010,
+        "shortDescription": "",
+        "longDescription": "Del 7 av 8. Elis har växt ur sitt barnrum. Det måste bli coolare. Inredaren Isabelle McAllister kommer och hjälper till. Tillsammans bygger de värsta högtalarväggen, fixar bildkollage på rullgardinen och en skön hänghörn",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "17146282",
+          "changed": 1686137488
+         }
+        }
+       },
+       {
+        "id": "1135534-006",
+        "svtId": "jNgQ66K",
+        "name": "Naturrum",
+        "nameRaw": "Naturrum",
+        "number": 6,
+        "positionInSeason": "",
+        "duration": 1662,
+        "validFrom": "2024-12-09T02:00:00+01:00",
+        "validTo": "2026-12-09T23:59:00+01:00",
+        "productionYear": 2010,
+        "shortDescription": "",
+        "longDescription": "Del 6 av 8. Tiphaine har ett litet rum men tusen prylar. Inredaren Isabelle McAllister kommer till undsättning och hjälper till att rensa ut och skapa ordning. Det blir naturtema med himmelsblått, gräskänsla och klätterv",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "17146278",
+          "changed": 1686137488
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "svtId": "K1B4ab6",
+ "programVersionId": "1372751-008OA",
+ "contentDuration": 1737,
+ "blockedForChildren": false,
+ "live": false,
+ "liveStatus": null,
+ "hasVodReferences": true,
+ "programTitle": "Detta har hänt",
+ "episodeTitle": "Mån 3 apr 2017 06:00",
+ "rights": {
+  "preventExternalEmbed": false,
+  "validFrom": "2017-04-03T06:00:00+02:00",
+  "validTo": "2060-12-31T22:59:00+01:00",
+  "drmCopyProtection": false,
+  "blockedForMobile": false,
+  "geoBlockedSweden": true,
+  "subtitleType": "none"
+ },
+ "videoReferences": [
+  {
+   "url": "https://svt-vod-3i.akamaized.net/d0/se/20260218/cac98acf-4ff4-481f-b3c9-2a80500be799/dash-hbbtv-hevc.mpd",
+   "resolve": "https://switcher.cdn.svt.se/resolve/cac98acf-4ff4-481f-b3c9-2a80500be799/dash-hbbtv-hevc.mpd",
+   "redirect": "https://switcher.cdn.svt.se/redirect/cac98acf-4ff4-481f-b3c9-2a80500be799/dash-hbbtv-hevc.mpd",
+   "format": "dash-hbbtv-hevc"
+  },
+  {
+   "url": "https://svt-vod-3i.akamaized.net/d0/se/20260218/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "resolve": "https://switcher.cdn.svt.se/resolve/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "redirect": "https://switcher.cdn.svt.se/redirect/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "format": "hls"
+  },
+  {
+   "url": "https://svt-vod-3i.akamaized.net/d0/se/20260218/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "resolve": "https://switcher.cdn.svt.se/resolve/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "redirect": "https://switcher.cdn.svt.se/redirect/cac98acf-4ff4-481f-b3c9-2a80500be799/hls-cmaf-avc.m3u8",
+   "format": "hls-cmaf-avc"
+  }
+ ],
+ "variants": {
+  "default": "(trimmed)"
+ },
+ "subtitleReferences": [],
+ "thumbnailMap": {
+  "url": "https://svt-vod-3i.akamaized.net/d0/se/20260218/cac98acf-4ff4-481f-b3c9-2a80500be799/PG-1372751-008OA-DETTAHARHANT-01_12x20_160x90_thumbnail_map.jpg",
+  "columns": 12,
+  "rows": 20,
+  "thumbnailheight": 90,
+  "thumbnailwidth": 160,
+  "timeBetweenPicturesInMillis": 7238
+ },
+ "mmsStatistics": {
+  "mms_tid": "1372751-008OA",
+  "ns_st_pl": "1130-humor-satir",
+  "ns_st_pr": "detta-har-hant",
+  "ns_st_ep": "man-3-apr-2017-06-00",
+  "ns_st_cl": 1737000,
+  "ns_st_li": 0,
+  "svt_taggar": "humor,1990-tal,oppet-arkiv,humor-oppet-arkiv,kultur-oppet-arkiv,tydligare-tal,upplast-undertext",
+  "svt_contenttype": "program",
+  "svt_content_type": "program"
+ },
+ "uhd": false,
+ "liveManifestExists": null,
+ "mergeableVariants": true,
+ "firstFrame": "https://svt-vod-3i.akamaized.net/d0/se/20260218/cac98acf-4ff4-481f-b3c9-2a80500be799/PG-1372751-008OA-DETTAHARHANT-01_thumb00.jpg"
+}

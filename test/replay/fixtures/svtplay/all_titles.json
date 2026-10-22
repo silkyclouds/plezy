@@ -1,0 +1,470 @@
+{
+ "data": {
+  "programAtillO": {
+   "flat": [
+    {
+     "__typename": "Single",
+     "id": "1415392-001",
+     "svtId": "8WvrBbQ",
+     "slug": "a-bramble-house-christmas",
+     "name": "A Bramble House Christmas",
+     "shortDescription": "Kanadensisk långfilm från 2017",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": true
+     },
+     "images": {
+      "wide": {
+       "id": "53389885",
+       "changed": 1762954012
+      },
+      "portrait": {
+       "id": "53389888",
+       "changed": 1762954016
+      }
+     },
+     "duration": 5007,
+     "productionYear": 2017,
+     "validFrom": "2026-11-13T02:00:00+01:00",
+     "validTo": "2027-01-12T23:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1114771-001",
+     "svtId": "jnG14JK",
+     "slug": "a-bucket-of-blood",
+     "name": "A Bucket of Blood",
+     "shortDescription": "Amerikansk långfilm från 1959",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "51972387",
+       "changed": 1727421366
+      },
+      "portrait": {
+       "id": "51972399",
+       "changed": 1727421367
+      }
+     },
+     "duration": 3924,
+     "productionYear": 1959,
+     "validFrom": "2026-10-02T02:00:00+02:00",
+     "validTo": "2026-12-31T23:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1414995-001",
+     "svtId": "KzVB9XL",
+     "slug": "a-christmas-feast",
+     "name": "A Christmas Feast",
+     "shortDescription": "Amerikansk långfilm från 2019",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "53364706",
+       "changed": 1762439065
+      },
+      "portrait": {
+       "id": "53364709",
+       "changed": 1762439065
+      }
+     },
+     "duration": 5961,
+     "productionYear": 2019,
+     "validFrom": "2026-11-06T02:00:00+01:00",
+     "validTo": "2027-01-05T23:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1365430-001",
+     "svtId": "eyPwXA8",
+     "slug": "a-for-agnetha",
+     "name": "A för Agnetha",
+     "shortDescription": "Program om och med artisten Agnetha Fältskog",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "36809203",
+       "changed": 1686132976
+      },
+      "portrait": {
+       "id": "36809203",
+       "changed": 1686132976
+      }
+     },
+     "duration": 1742,
+     "productionYear": 1985,
+     "validFrom": "2017-04-02T06:00:00+02:00",
+     "validTo": "2060-12-31T22:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1415334-001",
+     "svtId": "Kv14zWR",
+     "slug": "a-season-for-family",
+     "name": "A Season for Family",
+     "shortDescription": "Kanadensisk långfilm från 2023",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": true
+     },
+     "images": {
+      "wide": {
+       "id": "53389831",
+       "changed": 1762953617
+      },
+      "portrait": {
+       "id": "53389834",
+       "changed": 1762953617
+      }
+     },
+     "duration": 5116,
+     "productionYear": 2023,
+     "validFrom": "2026-11-06T02:00:00+01:00",
+     "validTo": "2027-01-05T23:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1391557-001",
+     "svtId": "eDma313",
+     "slug": "aalto-kanslornas-arkitekt",
+     "name": "Aalto: Känslornas arkitekt",
+     "shortDescription": "K special",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "52997807",
+       "changed": 1753350363
+      },
+      "portrait": {
+       "id": "52997804",
+       "changed": 1753350363
+      }
+     },
+     "duration": 3124,
+     "productionYear": 2020,
+     "validFrom": "2025-07-20T02:00:00+02:00",
+     "validTo": "2027-07-25T23:59:59+02:00"
+    },
+    {
+     "__typename": "KidsTvShow",
+     "id": "Kw265Gb",
+     "svtId": "Kw265Gb",
+     "slug": "bolibompa-bolibutiken",
+     "name": "Bolibompa: Bolibutiken",
+     "shortDescription": "Välkommen till Bolibutiken!",
+     "restrictions": {
+      "onlyAvailableInSweden": false,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "51599412",
+       "changed": 1718192425
+      },
+      "portrait": {
+       "id": "51599416",
+       "changed": 1718192444
+      }
+     }
+    },
+    {
+     "__typename": "KidsTvShow",
+     "id": "jmyoArD",
+     "svtId": "jmyoArD",
+     "slug": "bolibompa-bolisjukhuset",
+     "name": "Bolibompa: Bolisjukhuset",
+     "shortDescription": "Till Bolisjukhuset är alla välkomna!",
+     "restrictions": {
+      "onlyAvailableInSweden": false,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "54779474",
+       "changed": 1787557562
+      },
+      "portrait": {
+       "id": "54779477",
+       "changed": 1787557562
+      }
+     }
+    },
+    {
+     "__typename": "KidsTvShow",
+     "id": "KnbzZaz",
+     "svtId": "KnbzZaz",
+     "slug": "bolibompa-draken-foljer-med",
+     "name": "Bolibompa: Draken följer med",
+     "shortDescription": "Följ med när Draken gör saker för första gången!",
+     "restrictions": {
+      "onlyAvailableInSweden": false,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "53695087",
+       "changed": 1769167766
+      },
+      "portrait": {
+       "id": "53695090",
+       "changed": 1769167767
+      }
+     }
+    },
+    {
+     "__typename": "KidsTvShow",
+     "id": "8or9gBG",
+     "svtId": "8or9gBG",
+     "slug": "bolibompa-draken-jobbar",
+     "name": "Bolibompa: Draken jobbar",
+     "shortDescription": "Draken provar på olika jobb och hjälper till där det behövs!",
+     "restrictions": {
+      "onlyAvailableInSweden": false,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "54269719",
+       "changed": 1780920670
+      },
+      "portrait": {
+       "id": "54269722",
+       "changed": 1780920681
+      }
+     }
+    },
+    {
+     "__typename": "TvSeries",
+     "id": "8YqA2YE",
+     "svtId": "8YqA2YE",
+     "slug": "bolibompa-draken-och-hissmysteriet",
+     "name": "Bolibompa: Draken och hissmysteriet",
+     "shortDescription": "Draken och filmisarna måste dansa regndansen för att få regn i trädgården. Men hur dansar man? Svaret finns i hissen..",
+     "restrictions": {
+      "onlyAvailableInSweden": false,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "51224024",
+       "changed": 1707207829
+      },
+      "portrait": {
+       "id": "51224028",
+       "changed": 1707207829
+      }
+     }
+    },
+    {
+     "__typename": "Single",
+     "id": "1406117-001",
+     "svtId": "8Wv6v6N",
+     "slug": "dialogpolisen",
+     "name": "Dialogpolisen",
+     "shortDescription": "Guldbaggevinnande svensk dokumentärfilm från 2025",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "53356558",
+       "changed": 1762327902
+      },
+      "portrait": {
+       "id": "53356561",
+       "changed": 1762327902
+      }
+     },
+     "duration": 3539,
+     "productionYear": 2025,
+     "validFrom": "2025-11-30T02:00:00+01:00",
+     "validTo": "2027-12-02T23:59:59+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1366854-001",
+     "svtId": "KGYvzMe",
+     "slug": "diana-ross-and-the-supremes-underhaller-fran-berns",
+     "name": "Diana Ross and the Supremes underhåller från Berns",
+     "shortDescription": "Diana Ross & The Supremes på Berns i Stockholm 1968",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "36810863",
+       "changed": 1686132963
+      },
+      "portrait": {
+       "id": "36810863",
+       "changed": 1686132963
+      }
+     },
+     "duration": 3558,
+     "productionYear": 1968,
+     "validFrom": "2017-04-02T06:00:00+02:00",
+     "validTo": "2060-12-31T22:59:00+01:00"
+    },
+    {
+     "__typename": "Single",
+     "id": "1382349-001",
+     "svtId": "jmLvRZb",
+     "slug": "diezel-guns-n-roses-special",
+     "name": "Diezel - Guns n' Roses Special",
+     "shortDescription": "",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "52812041",
+       "changed": 1747828454
+      },
+      "portrait": {
+       "id": "52812041",
+       "changed": 1747828454
+      }
+     },
+     "duration": 1738,
+     "productionYear": 1993,
+     "validFrom": "2017-04-01T06:00:00+02:00",
+     "validTo": "2060-12-31T22:59:00+01:00"
+    },
+    {
+     "__typename": "TvSeries",
+     "id": "e3dd1Mw",
+     "svtId": "e3dd1Mw",
+     "slug": "diktatorn-franco",
+     "name": "Diktatorn Franco",
+     "shortDescription": "Dokumentärserie om Spaniens ökända diktator",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "53052105",
+       "changed": 1755501420
+      },
+      "portrait": {
+       "id": "53052108",
+       "changed": 1755501420
+      }
+     }
+    },
+    {
+     "__typename": "Single",
+     "id": "1416094-001",
+     "svtId": "KRoznqv",
+     "slug": "diktatorn-som-lurade-usa",
+     "name": "Diktatorn som lurade USA",
+     "shortDescription": "Kadaffi - diktatorns uppgång och fall",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "54901229",
+       "changed": 1788874160
+      },
+      "portrait": {
+       "id": "54901235",
+       "changed": 1788874161
+      }
+     },
+     "duration": 3454,
+     "productionYear": 2025,
+     "validFrom": "2026-09-29T02:00:00+02:00",
+     "validTo": "2029-08-31T23:59:00+02:00"
+    },
+    {
+     "__typename": "TvSeries",
+     "id": "e3kaNP7",
+     "svtId": "e3kaNP7",
+     "slug": "din-stund-pa-jorden",
+     "name": "Din stund på jorden",
+     "shortDescription": "TV-serie i fem delar efter Vilhelm Mobergs roman med samma namn",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": false
+     },
+     "images": {
+      "wide": {
+       "id": "36810807",
+       "changed": 1686132963
+      },
+      "portrait": {
+       "id": "36810807",
+       "changed": 1686132963
+      }
+     }
+    },
+    {
+     "__typename": "TvSeries",
+     "id": "8z7vDQ6",
+     "svtId": "8z7vDQ6",
+     "slug": "agatha-christie-abc-morden",
+     "name": "Agatha Christie: ABC-morden",
+     "shortDescription": "Brittisk kriminalserie",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": true
+     },
+     "images": {
+      "wide": {
+       "id": "54201217",
+       "changed": 1779446326
+      },
+      "portrait": {
+       "id": "54201220",
+       "changed": 1779446328
+      }
+     }
+    },
+    {
+     "__typename": "Single",
+     "id": "1415392-001",
+     "svtId": "8WvrBbQ",
+     "slug": "a-bramble-house-christmas",
+     "name": "A Bramble House Christmas",
+     "shortDescription": "Kanadensisk långfilm från 2017",
+     "restrictions": {
+      "onlyAvailableInSweden": true,
+      "drmCopyProtection": true
+     },
+     "images": {
+      "wide": {
+       "id": "53389885",
+       "changed": 1762954012
+      },
+      "portrait": {
+       "id": "53389888",
+       "changed": 1762954016
+      }
+     },
+     "duration": 5007,
+     "productionYear": 2017,
+     "validFrom": "2026-11-13T02:00:00+01:00",
+     "validTo": "2027-01-12T23:59:00+01:00"
+    }
+   ]
+  }
+ }
+}

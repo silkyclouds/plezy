@@ -1,0 +1,428 @@
+{
+ "data": {
+  "detailsPage": {
+   "description": "Rapport är Sveriges största nyhetsprogram.",
+   "images": {
+    "wide": {
+     "id": "35812861",
+     "changed": 1686133144
+    },
+    "portrait": {
+     "id": "38032931",
+     "changed": 1686132140
+    },
+    "logotype": null
+   },
+   "item": {
+    "__typename": "TvShow",
+    "id": "eoVPJNz",
+    "svtId": "eoVPJNz",
+    "slug": "rapport",
+    "name": "Rapport",
+    "shortDescription": "Senaste nytt – dagens mest aktuella nyheter från Sverige och världen",
+    "longDescription": "Rapport är Sveriges största nyhetsprogram.",
+    "restrictions": {
+     "onlyAvailableInSweden": false,
+     "drmCopyProtection": false
+    },
+    "genres": [
+     {
+      "name": "Nyheter"
+     },
+     {
+      "name": "Riksnyheter"
+     },
+     {
+      "name": "Teckenspråk"
+     },
+     {
+      "name": "Uppläst undertext"
+     }
+    ],
+    "seasons": [
+     {
+      "id": "eoVPJNz-huvudsandningar-25-min-5",
+      "name": "Huvudsändningar -  25 min",
+      "number": 5,
+      "episodes": [
+       {
+        "id": "1415170-313",
+        "svtId": "8myy5y1",
+        "name": "Tor 31 dec",
+        "nameRaw": "",
+        "number": 313,
+        "positionInSeason": "",
+        "duration": 1500,
+        "validFrom": "2026-12-31T19:30:00+01:00",
+        "validTo": "2027-01-07T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415170-312",
+        "svtId": "jMyyAyB",
+        "name": "Ons 30 dec",
+        "nameRaw": "",
+        "number": 312,
+        "positionInSeason": "",
+        "duration": 1500,
+        "validFrom": "2026-12-30T19:30:00+01:00",
+        "validTo": "2027-01-06T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415170-252",
+        "svtId": "ePBB5X5",
+        "name": "Igår 19:30",
+        "nameRaw": "",
+        "number": 252,
+        "positionInSeason": "",
+        "duration": 1504,
+        "validFrom": "2026-10-21T19:30:00+02:00",
+        "validTo": "2026-10-28T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Globalt cyberlarm: Allvarlig säkerhetslucka upptäckt • FN:: 1,5-gradersmålet utom räckhåll • Vanliga vaccin: Kan skydda hjärtat",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55236265",
+          "changed": 1792603536
+         }
+        }
+       },
+       {
+        "id": "1415170-251",
+        "svtId": "erQQmyx",
+        "name": "Tis 20 okt 19:30",
+        "nameRaw": "",
+        "number": 251,
+        "positionInSeason": "",
+        "duration": 1504,
+        "validFrom": "2026-10-20T19:30:00+02:00",
+        "validTo": "2026-10-27T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Misstänkt valfusk: Polistillslag i Borlänge • Stockholms grundskolor: Larm om ökat våld • Unika fynd: Sju skeppsvrak på Runns botten",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55227094",
+          "changed": 1792517195
+         }
+        }
+       },
+       {
+        "id": "1415170-250",
+        "svtId": "KBwwAP9",
+        "name": "Mån 19 okt 19:30",
+        "nameRaw": "",
+        "number": 250,
+        "positionInSeason": "",
+        "duration": 1504,
+        "validFrom": "2026-10-19T19:30:00+02:00",
+        "validTo": "2026-10-26T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Regeringsbildningen: Thand Ringqvist sonderar • Henrik Landerholm: Fälls i hovrätten • Värmländskan: Dialekten oväntat stark",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55217623",
+          "changed": 1792430744
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "eoVPJNz-sandningar-15-min-4",
+      "name": "Sändningar - 15 min",
+      "number": 4,
+      "episodes": [
+       {
+        "id": "1415169-261",
+        "svtId": "egWP3q3",
+        "name": "Tor 31 dec",
+        "nameRaw": "",
+        "number": 261,
+        "positionInSeason": "",
+        "duration": 840,
+        "validFrom": "2026-12-31T18:00:00+01:00",
+        "validTo": "2027-01-07T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415169-260",
+        "svtId": "jJyy71M",
+        "name": "Ons 30 dec",
+        "nameRaw": "",
+        "number": 260,
+        "positionInSeason": "",
+        "duration": 840,
+        "validFrom": "2026-12-30T18:00:00+01:00",
+        "validTo": "2027-01-06T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415169-210",
+        "svtId": "jJyy7Nz",
+        "name": "Igår 18:00",
+        "nameRaw": "",
+        "number": 210,
+        "positionInSeason": "",
+        "duration": 841,
+        "validFrom": "2026-10-21T18:00:00+02:00",
+        "validTo": "2026-10-28T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55235689",
+          "changed": 1792598084
+         }
+        }
+       },
+       {
+        "id": "1415169-209",
+        "svtId": "eorrkW5",
+        "name": "Tis 20 okt 18:00",
+        "nameRaw": "",
+        "number": 209,
+        "positionInSeason": "",
+        "duration": 880,
+        "validFrom": "2026-10-20T18:00:00+02:00",
+        "validTo": "2026-10-27T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55226611",
+          "changed": 1792511726
+         }
+        }
+       },
+       {
+        "id": "1415169-208",
+        "svtId": "jb33ypd",
+        "name": "Mån 19 okt 18:00",
+        "nameRaw": "",
+        "number": 208,
+        "positionInSeason": "",
+        "duration": 857,
+        "validFrom": "2026-10-19T18:00:00+02:00",
+        "validTo": "2026-10-26T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55217203",
+          "changed": 1792425346
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "eoVPJNz-nyhetsuppdateringar-3",
+      "name": "Nyhetsuppdateringar",
+      "number": 3,
+      "episodes": [
+       {
+        "id": "1415171-365",
+        "svtId": "jwqqzmJ",
+        "name": "Tor 31 dec",
+        "nameRaw": "",
+        "number": 365,
+        "positionInSeason": "",
+        "duration": 300,
+        "validFrom": "2026-12-31T23:20:00+01:00",
+        "validTo": "2027-01-07T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Nyheter från Sverige och världen.",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415281-260",
+        "svtId": "86dqmPm",
+        "name": "Tor 31 dec",
+        "nameRaw": "",
+        "number": 260,
+        "positionInSeason": "",
+        "duration": 180,
+        "validFrom": "2026-12-31T09:30:00+01:00",
+        "validTo": "2027-01-07T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415281-210",
+        "svtId": "86dqm1D",
+        "name": "Idag 09:30",
+        "nameRaw": "",
+        "number": 210,
+        "positionInSeason": "",
+        "duration": 180,
+        "validFrom": "2026-10-22T09:30:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415280-210",
+        "svtId": "8p5DVvy",
+        "name": "Idag 09:00",
+        "nameRaw": "",
+        "number": 210,
+        "positionInSeason": "",
+        "duration": 420,
+        "validFrom": "2026-10-22T09:00:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       },
+       {
+        "id": "1415279-210",
+        "svtId": "8vvvN2V",
+        "name": "Idag 08:30",
+        "nameRaw": "",
+        "number": 210,
+        "positionInSeason": "",
+        "duration": 177,
+        "validFrom": "2026-10-22T08:30:00+02:00",
+        "validTo": "2026-10-29T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "35812861",
+          "changed": 1686133144
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

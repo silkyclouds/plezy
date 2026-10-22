@@ -1,0 +1,88 @@
+{
+ "data": {
+  "detailsPage": {
+   "description": "Söder om Stockholm, i förorten Farsta, följer vi 18-åriga Dani som sörjer sin bästa väns bortgång i tystnad. Han vill inte visa sig sårbar. När hans vänner konfronterar honom kan han inte längre dölja vad han känner. En film från 2023 i regi av Amir Halim.",
+   "images": {
+    "wide": {
+     "id": "50722300",
+     "changed": 1696944199
+    },
+    "portrait": {
+     "id": "50722304",
+     "changed": 1696944200
+    },
+    "logotype": null
+   },
+   "item": {
+    "__typename": "Single",
+    "id": "1409099-001",
+    "svtId": "jE4Bm7D",
+    "slug": "linje-18",
+    "name": "Linje 18",
+    "shortDescription": "",
+    "longDescription": "Söder om Stockholm, i förorten Farsta, följer vi 18-åriga Dani som sörjer sin bästa väns bortgång i tystnad. Han vill inte visa sig sårbar. När hans vänner konfronterar honom kan han inte längre dölja vad han känner. En ",
+    "restrictions": {
+     "onlyAvailableInSweden": false,
+     "drmCopyProtection": false
+    },
+    "genres": [
+     {
+      "name": "Drama"
+     },
+     {
+      "name": "Ung"
+     },
+     {
+      "name": "Ung verklighet"
+     },
+     {
+      "name": "Kortfilmer"
+     },
+     {
+      "name": "Young adult "
+     },
+     {
+      "name": "Tydligare tal"
+     }
+    ],
+    "seasons": [
+     {
+      "id": "jE4Bm7D-1",
+      "name": "Avsnitt",
+      "number": 1,
+      "episodes": [
+       {
+        "id": "1409099-001",
+        "svtId": "jE4Bm7D",
+        "name": "Linje 18",
+        "nameRaw": "Linje 18",
+        "number": 1,
+        "positionInSeason": "",
+        "duration": 590,
+        "validFrom": "2026-08-15T02:00:00+02:00",
+        "validTo": "2028-08-14T23:59:00+02:00",
+        "productionYear": 2023,
+        "shortDescription": "",
+        "longDescription": "Söder om Stockholm, i förorten Farsta, följer vi 18-åriga Dani som sörjer sin bästa väns bortgång i tystnad. Han vill inte visa sig sårbar. När hans vänner konfronterar honom kan han inte längre dölja vad han känner. En ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "50722300",
+          "changed": 1696944199
+         }
+        }
+       }
+      ]
+     }
+    ],
+    "duration": 590,
+    "productionYear": 2023,
+    "validFrom": "2026-08-15T02:00:00+02:00",
+    "validTo": "2028-08-14T23:59:00+02:00"
+   }
+  }
+ }
+}

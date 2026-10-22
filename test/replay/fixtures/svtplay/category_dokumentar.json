@@ -1,0 +1,823 @@
+{
+ "data": {
+  "categoryPage": {
+   "tabs": [
+    {
+     "slug": "recommended",
+     "selections": [
+      {
+       "id": "recommended-dokumentar",
+       "name": "Vi rekommenderar",
+       "selectionType": "recommended",
+       "items": [
+        {
+         "item": {
+          "__typename": "Episode",
+          "id": "1417390-003",
+          "svtId": "KVw6AW5",
+          "slug": "3-den-storsta-hemligheten",
+          "name": "3. Den största hemligheten",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55058081",
+            "changed": 1790595967
+           },
+           "portrait": {
+            "id": "55058093",
+            "changed": 1790595967
+           }
+          },
+          "nameRaw": "Den största hemligheten",
+          "number": 3,
+          "duration": 2931,
+          "validFrom": "2026-10-20T06:00:00+02:00",
+          "validTo": "2028-10-19T23:59:59+02:00",
+          "parent": {
+           "id": "85dVVJv",
+           "svtId": "85dVVJv",
+           "name": "Dokument inifrån: Pojkarna - regissören och sanningen"
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1411686-001",
+          "svtId": "KRo2X1z",
+          "slug": "dagbok-fran-la-paz",
+          "name": "Dagbok från La Paz",
+          "shortDescription": "Dox",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55066217",
+            "changed": 1790676611
+           },
+           "portrait": {
+            "id": "55066220",
+            "changed": 1790676612
+           }
+          },
+          "duration": 3121,
+          "productionYear": 2026,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2029-10-18T23:59:00+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "KqPAYnV",
+          "svtId": "KqPAYnV",
+          "slug": "englands-mest-hatade-mamma",
+          "name": "Englands mest hatade mamma",
+          "shortDescription": "Brittisk dokumentär från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55074119",
+            "changed": 1790752974
+           },
+           "portrait": {
+            "id": "55074122",
+            "changed": 1790752975
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1122081-001",
+          "svtId": "8DLP4JL",
+          "slug": "budapest-brinner",
+          "name": "Budapest brinner",
+          "shortDescription": "Revolten i Ungern 1956",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55117514",
+            "changed": 1791281762
+           },
+           "portrait": {
+            "id": "55117517",
+            "changed": 1791281762
+           }
+          },
+          "duration": 2586,
+          "productionYear": 2006,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2027-04-16T23:59:00+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "Episode",
+          "id": "1414392-003",
+          "svtId": "egWWaXP",
+          "slug": "3-valkomna-till-finland",
+          "name": "3. Välkomna till Finland!",
+          "shortDescription": "De söker efter frihet i skogen, men kliver rakt in i en sektledares värld",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55129076",
+            "changed": 1791384359
+           },
+           "portrait": {
+            "id": "55129082",
+            "changed": 1791384360
+           }
+          },
+          "nameRaw": "Välkomna till Finland!",
+          "number": 3,
+          "duration": 1725,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2028-02-23T23:59:59+01:00",
+          "parent": {
+           "id": "jgWYXNQ",
+           "svtId": "jgWYXNQ",
+           "name": "Hövdingen"
+          }
+         }
+        }
+       ]
+      },
+      {
+       "id": "list_1015",
+       "name": "Nya dokumentärer på Play",
+       "selectionType": "Default",
+       "items": [
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "jBwagy2",
+          "svtId": "jBwagy2",
+          "slug": "sexpredikanten",
+          "name": "Sexpredikanten",
+          "shortDescription": "Dokumentärserie",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55161775",
+            "changed": 1791806830
+           },
+           "portrait": {
+            "id": "55161778",
+            "changed": 1791806830
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1417316-001",
+          "svtId": "edPyp7D",
+          "slug": "vetenskapens-varld-jakten-pa-kosmos-gator",
+          "name": "Vetenskapens värld: Jakten på kosmos gåtor",
+          "shortDescription": "",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55212712",
+            "changed": 1792394520
+           },
+           "portrait": {
+            "id": "55212715",
+            "changed": 1792394520
+           }
+          },
+          "duration": 3170,
+          "productionYear": 2026,
+          "validFrom": "2026-10-22T02:00:00+02:00",
+          "validTo": "2028-10-26T23:59:00+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "85dVVJv",
+          "svtId": "85dVVJv",
+          "slug": "dokument-inifran-pojkarna-regissoren-och-sanningen",
+          "name": "Dokument inifrån: Pojkarna - regissören och sanningen",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55058186",
+            "changed": 1790597589
+           },
+           "portrait": {
+            "id": "55058189",
+            "changed": 1790597590
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1411686-001",
+          "svtId": "KRo2X1z",
+          "slug": "dagbok-fran-la-paz",
+          "name": "Dagbok från La Paz",
+          "shortDescription": "Dox",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55066217",
+            "changed": 1790676611
+           },
+           "portrait": {
+            "id": "55066220",
+            "changed": 1790676612
+           }
+          },
+          "duration": 3121,
+          "productionYear": 2026,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2029-10-18T23:59:00+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1122081-001",
+          "svtId": "8DLP4JL",
+          "slug": "budapest-brinner",
+          "name": "Budapest brinner",
+          "shortDescription": "Revolten i Ungern 1956",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55117514",
+            "changed": 1791281762
+           },
+           "portrait": {
+            "id": "55117517",
+            "changed": 1791281762
+           }
+          },
+          "duration": 2586,
+          "productionYear": 2006,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2027-04-16T23:59:00+02:00"
+         }
+        }
+       ]
+      },
+      {
+       "id": "popular-dokumentar",
+       "name": "Populärt",
+       "selectionType": "popular",
+       "items": [
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "85dVVJv",
+          "svtId": "85dVVJv",
+          "slug": "dokument-inifran-pojkarna-regissoren-och-sanningen",
+          "name": "Dokument inifrån: Pojkarna - regissören och sanningen",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55058186",
+            "changed": 1790597589
+           },
+           "portrait": {
+            "id": "55058189",
+            "changed": 1790597590
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1410911-001",
+          "svtId": "KRo2wYp",
+          "slug": "mordarens-son",
+          "name": "Mördarens son",
+          "shortDescription": "Sanningen om Rankz barndom",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55113191",
+            "changed": 1791267898
+           },
+           "portrait": {
+            "id": "55113194",
+            "changed": 1791267899
+           }
+          },
+          "duration": 5033,
+          "productionYear": 2026,
+          "validFrom": "2026-10-18T02:00:00+02:00",
+          "validTo": "2028-11-16T23:59:59+01:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "8Zx7QL4",
+          "svtId": "8Zx7QL4",
+          "slug": "bingo-for-evigt",
+          "name": "Bingo för evigt",
+          "shortDescription": "Bingo Rimér testar gränserna i ny vetenskapsserie",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55090313",
+            "changed": 1790920019
+           },
+           "portrait": {
+            "id": "55090316",
+            "changed": 1790920019
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "KqPAYnV",
+          "svtId": "KqPAYnV",
+          "slug": "englands-mest-hatade-mamma",
+          "name": "Englands mest hatade mamma",
+          "shortDescription": "Brittisk dokumentär från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55074119",
+            "changed": 1790752974
+           },
+           "portrait": {
+            "id": "55074122",
+            "changed": 1790752975
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "jgWYXNQ",
+          "svtId": "jgWYXNQ",
+          "slug": "hovdingen",
+          "name": "Hövdingen",
+          "shortDescription": "De söker efter frihet i skogen, men kliver rakt in i en sektledares värld",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55116134",
+            "changed": 1791274298
+           },
+           "portrait": {
+            "id": "55116137",
+            "changed": 1791274299
+           }
+          }
+         }
+        }
+       ]
+      },
+      {
+       "id": "list_1057",
+       "name": "Dokument inifrån",
+       "selectionType": "Default",
+       "items": [
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "85dVVJv",
+          "svtId": "85dVVJv",
+          "slug": "dokument-inifran-pojkarna-regissoren-och-sanningen",
+          "name": "Dokument inifrån: Pojkarna - regissören och sanningen",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": false,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55058186",
+            "changed": 1790597589
+           },
+           "portrait": {
+            "id": "55058189",
+            "changed": 1790597590
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "KVwEDv6",
+          "svtId": "KVwEDv6",
+          "slug": "dokument-inifran-arvtagarna",
+          "name": "Dokument inifrån: Arvtagarna",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "54159085",
+            "changed": 1778594561
+           },
+           "portrait": {
+            "id": "54159088",
+            "changed": 1778594562
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "eWmzWX2",
+          "svtId": "eWmzWX2",
+          "slug": "dokument-inifran-tillbaka-till-paradiset",
+          "name": "Dokument inifrån: Tillbaka till Paradiset",
+          "shortDescription": "Svensk dokumentärserie från 2026",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "54092488",
+            "changed": 1777208424
+           },
+           "portrait": {
+            "id": "54092482",
+            "changed": 1777208423
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "eDvoW1g",
+          "svtId": "eDvoW1g",
+          "slug": "dokument-inifran-hatet",
+          "name": "Dokument inifrån: Hatet",
+          "shortDescription": "Undersökande dokumentärserie",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "53460475",
+            "changed": 1764229536
+           },
+           "portrait": {
+            "id": "53460472",
+            "changed": 1764229521
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "jR5599q",
+          "svtId": "jR5599q",
+          "slug": "dokument-inifran-mordet-och-mala",
+          "name": "Dokument inifrån: Mordet och Malå",
+          "shortDescription": "Svensk undersökande serie från 2025",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "53183642",
+            "changed": 1759154106
+           },
+           "portrait": {
+            "id": "53183645",
+            "changed": 1759154107
+           }
+          }
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "slug": "upcoming",
+     "selections": [
+      {
+       "id": "upcoming-dokumentar-2026-10-24",
+       "name": "Lördag 24 oktober",
+       "selectionType": "upcoming",
+       "items": [
+        {
+         "item": {
+          "__typename": "Episode",
+          "id": "1414931-001",
+          "svtId": "KNwvdaV",
+          "slug": "1-en-legendarisk-familjs-ursprung",
+          "name": "1. En legendarisk familjs ursprung",
+          "shortDescription": "Fransk historiedokumentär från 2025",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55170082",
+            "changed": 1791884764
+           },
+           "portrait": {
+            "id": "55170091",
+            "changed": 1791884764
+           }
+          },
+          "nameRaw": "En legendarisk familjs ursprung",
+          "number": 1,
+          "duration": 3179,
+          "validFrom": "2026-10-24T02:00:00+02:00",
+          "validTo": "2028-10-23T23:59:59+02:00",
+          "parent": {
+           "id": "KvvaRpJ",
+           "svtId": "KvvaRpJ",
+           "name": "Gåtan Kleopatra"
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Episode",
+          "id": "1417297-002",
+          "svtId": "e3d1Q9w",
+          "slug": "stora-scenen",
+          "name": "Stora scenen",
+          "shortDescription": "",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55075250",
+            "changed": 1790757980
+           },
+           "portrait": {
+            "id": "55075253",
+            "changed": 1790757982
+           }
+          },
+          "nameRaw": "Stora scenen",
+          "number": 2,
+          "duration": 50400,
+          "validFrom": "2026-10-24T17:00:00+02:00",
+          "validTo": "2026-12-31T17:59:59.999+01:00",
+          "parent": {
+           "id": "jqPAA3N",
+           "svtId": "jqPAA3N",
+           "name": "Festival"
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Episode",
+          "id": "1417297-001",
+          "svtId": "jmL91Zq",
+          "slug": "lilla-scenen",
+          "name": "Lilla scenen",
+          "shortDescription": "",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "55075238",
+            "changed": 1790757958
+           },
+           "portrait": {
+            "id": "55075241",
+            "changed": 1790757960
+           }
+          },
+          "nameRaw": "Lilla scenen",
+          "number": 1,
+          "duration": 50400,
+          "validFrom": "2026-10-24T17:00:00+02:00",
+          "validTo": "2026-12-31T17:59:59.999+01:00",
+          "parent": {
+           "id": "jqPAA3N",
+           "svtId": "jqPAA3N",
+           "name": "Festival"
+          }
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "slug": "all",
+     "selections": [
+      {
+       "id": "all-dokumentar",
+       "name": "Program A-Ö",
+       "selectionType": "all",
+       "items": [
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1391557-001",
+          "svtId": "eDma313",
+          "slug": "aalto-kanslornas-arkitekt",
+          "name": "Aalto: Känslornas arkitekt",
+          "shortDescription": "K special",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "52997807",
+            "changed": 1753350363
+           },
+           "portrait": {
+            "id": "52997804",
+            "changed": 1753350363
+           }
+          },
+          "duration": 3124,
+          "productionYear": 2020,
+          "validFrom": "2025-07-20T02:00:00+02:00",
+          "validTo": "2027-07-25T23:59:59+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1413820-001",
+          "svtId": "j16GY3J",
+          "slug": "ac-dc-forever-young",
+          "name": "AC/DC: Forever Young",
+          "shortDescription": "Dokumentär om ett av världens största rockband",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "52922938",
+            "changed": 1750814395
+           },
+           "portrait": {
+            "id": "52922941",
+            "changed": 1750814395
+           }
+          },
+          "duration": 3166,
+          "productionYear": 2022,
+          "validFrom": "2025-07-25T02:00:00+02:00",
+          "validTo": "2027-08-16T23:59:59+02:00"
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvSeries",
+          "id": "e2dodXB",
+          "svtId": "e2dodXB",
+          "slug": "adolf",
+          "name": "Adolf",
+          "shortDescription": "Dokumentärserie om Adolf Hitler",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "52316227",
+            "changed": 1736237197
+           },
+           "portrait": {
+            "id": "52316231",
+            "changed": 1736237198
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "TvShow",
+          "id": "jLdbDAE",
+          "svtId": "jLdbDAE",
+          "slug": "afrikaner-i-sverige",
+          "name": "Afrikaner i Sverige",
+          "shortDescription": "Dokumentär",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "36809111",
+            "changed": 1686132977
+           },
+           "portrait": {
+            "id": "36809111",
+            "changed": 1686132977
+           }
+          }
+         }
+        },
+        {
+         "item": {
+          "__typename": "Single",
+          "id": "1402014-001",
+          "svtId": "8opadbm",
+          "slug": "after-work",
+          "name": "After work",
+          "shortDescription": "Dox",
+          "restrictions": {
+           "onlyAvailableInSweden": true,
+           "drmCopyProtection": false
+          },
+          "images": {
+           "wide": {
+            "id": "50936780",
+            "changed": 1703232957
+           },
+           "portrait": {
+            "id": "50936784",
+            "changed": 1703232957
+           }
+          },
+          "duration": 4606,
+          "productionYear": 2023,
+          "validFrom": "2024-01-07T02:00:00+01:00",
+          "validTo": "2028-01-06T23:59:00+01:00"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

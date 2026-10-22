@@ -1,0 +1,277 @@
+{
+ "data": {
+  "searchPage": {
+   "flat": {
+    "hits": [
+     {
+      "teaser": null
+     },
+     {
+      "teaser": null
+     },
+     {
+      "teaser": null
+     },
+     {
+      "teaser": null
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Single",
+        "id": "1411366-001",
+        "svtId": "KnDgJMR",
+        "slug": "naturfotografen-blixtsnabba-busar",
+        "name": "Naturfotografen - blixtsnabba busar",
+        "shortDescription": "Norsk kortfilm från 2023",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54413182",
+          "changed": 1782732649
+         },
+         "portrait": {
+          "id": "54413185",
+          "changed": 1782732672
+         }
+        },
+        "duration": 1127,
+        "productionYear": 2023,
+        "validFrom": "2026-07-07T12:20:00+02:00",
+        "validTo": "2027-07-07T23:59:59+02:00"
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvShow",
+        "id": "86JDxzk",
+        "svtId": "86JDxzk",
+        "slug": "studio-natur",
+        "name": "Studio natur",
+        "shortDescription": "Naturprogram",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "50632900",
+          "changed": 1694090751
+         },
+         "portrait": {
+          "id": "50273380",
+          "changed": 1687271701
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": null
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "jvvbNkN",
+        "svtId": "jvvbNkN",
+        "slug": "varldens-natur-djungelboken",
+        "name": "Världens natur: Djungelboken",
+        "shortDescription": "Den sanna berättelsen om verklighetens djungelbok",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "52098387",
+          "changed": 1730819765
+         },
+         "portrait": {
+          "id": "52098391",
+          "changed": 1730819767
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "KxgaLWX",
+        "svtId": "KxgaLWX",
+        "slug": "naturens-overlevare",
+        "name": "Naturens överlevare",
+        "shortDescription": "Brittisk naturserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54701567",
+          "changed": 1786613260
+         },
+         "portrait": {
+          "id": "54701573",
+          "changed": 1786613266
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Single",
+        "id": "1416329-001",
+        "svtId": "KZmQWWD",
+        "slug": "naturens-konstutstallning",
+        "name": "Naturens konstutställning",
+        "shortDescription": "Finskt naturprogram",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54581102",
+          "changed": 1784900992
+         },
+         "portrait": {
+          "id": "54631037",
+          "changed": 1785740747
+         }
+        },
+        "duration": 3146,
+        "productionYear": 2026,
+        "validFrom": "2026-07-27T02:00:00+02:00",
+        "validTo": "2027-07-27T23:59:59+02:00"
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "eWmXaNx",
+        "svtId": "eWmXaNx",
+        "slug": "australiens-ororda-natur",
+        "name": "Australiens orörda natur",
+        "shortDescription": "Tysk naturdokumentärserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "50908328",
+          "changed": 1702540186
+         },
+         "portrait": {
+          "id": "50908332",
+          "changed": 1702540187
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "Episode",
+        "id": "1409165-001",
+        "svtId": "jAB7GyN",
+        "slug": "algvandringen-hojdpunkter-2024",
+        "name": "Älgvandringen - höjdpunkter 2024",
+        "shortDescription": "",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "52582519",
+          "changed": 1742462410
+         },
+         "portrait": {
+          "id": "54523571",
+          "changed": 1784114521
+         }
+        },
+        "nameRaw": "",
+        "number": 1,
+        "duration": 2910,
+        "validFrom": "2024-08-20T21:00:00+02:00",
+        "validTo": "2027-08-17T23:59:00+02:00",
+        "parent": {
+         "id": "KMdd2Gq",
+         "svtId": "KMdd2Gq",
+         "name": "Den stora älgvandringen"
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "e4dnPV5",
+        "svtId": "e4dnPV5",
+        "slug": "den-dunkla-naturen",
+        "name": "Den dunkla naturen",
+        "shortDescription": "Finsk naturserie om naturlivet på natten",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54296512",
+          "changed": 1781248459
+         },
+         "portrait": {
+          "id": "54296515",
+          "changed": 1781248466
+         }
+        }
+       }
+      }
+     },
+     {
+      "teaser": {
+       "item": {
+        "__typename": "TvSeries",
+        "id": "jGV3YgW",
+        "svtId": "jGV3YgW",
+        "slug": "natur-i-forandring",
+        "name": "Natur i förändring",
+        "shortDescription": "Australisk naturserie",
+        "restrictions": {
+         "onlyAvailableInSweden": true,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "52439627",
+          "changed": 1739201979
+         },
+         "portrait": {
+          "id": "52439631",
+          "changed": 1739201981
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

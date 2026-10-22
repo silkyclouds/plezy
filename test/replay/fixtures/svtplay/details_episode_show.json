@@ -1,0 +1,293 @@
+{
+ "data": {
+  "detailsPage": {
+   "description": "Fördjupande program om det mest spännande inom politiken just nu. Programledare: Karolina Skoglund.",
+   "images": {
+    "wide": {
+     "id": "52254647",
+     "changed": 1734363972
+    },
+    "portrait": {
+     "id": "52254651",
+     "changed": 1734363973
+    },
+    "logotype": null
+   },
+   "item": {
+    "__typename": "TvShow",
+    "id": "e7ovrxY",
+    "svtId": "e7ovrxY",
+    "slug": "politikbyran",
+    "name": "Politikbyrån",
+    "shortDescription": "Allt du inte visste att du behövde veta om svensk politik",
+    "longDescription": "Fördjupande program om det mest spännande inom politiken just nu. Programledare: Karolina Skoglund.",
+    "restrictions": {
+     "onlyAvailableInSweden": false,
+     "drmCopyProtection": false
+    },
+    "genres": [
+     {
+      "name": "Talkshow"
+     },
+     {
+      "name": "Nyheter"
+     },
+     {
+      "name": "Samhälle"
+     },
+     {
+      "name": "Politik"
+     },
+     {
+      "name": "Val 2026"
+     },
+     {
+      "name": "Tydligare tal"
+     },
+     {
+      "name": "Uppläst undertext"
+     }
+    ],
+    "seasons": [
+     {
+      "id": "e7ovrxY-host-2026-8",
+      "name": "Höst 2026",
+      "number": 8,
+      "episodes": [
+       {
+        "id": "1416746-009",
+        "svtId": "jBwJLnL",
+        "name": "Vems sida står hon på?",
+        "nameRaw": "Vems sida står hon på?",
+        "number": 9,
+        "positionInSeason": "",
+        "duration": 1695,
+        "validFrom": "2026-10-21T19:30:00+02:00",
+        "validTo": "2027-06-14T23:59:00+02:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Elisabeth Thand Ringqvist har fått sonderingsuppdraget och ska lotsa Centerpartiet genom regeringskaoset. Kan de rödgröna verkligen lita på henne? Och är drömmen om en mittenregering realistisk eller kan det omtalade bas",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55224655",
+          "changed": 1792498560
+         }
+        }
+       },
+       {
+        "id": "1416746-008",
+        "svtId": "86db3vp",
+        "name": "Identitetskris",
+        "nameRaw": "Identitetskris",
+        "number": 8,
+        "positionInSeason": "",
+        "duration": 1713,
+        "validFrom": "2026-10-14T19:30:00+02:00",
+        "validTo": "2027-06-14T23:59:00+02:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Sverigedemokraterna hann knappt fundera på varför de backade så mycket i valet innan en intern konflikt om svenskhet blossade upp. Samtidigt har Jimmie Åkesson gått ut och sagt att ”SD ska bli SD igen”.  Vad betyder egen",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55171438",
+          "changed": 1791895560
+         }
+        }
+       },
+       {
+        "id": "1416746-007",
+        "svtId": "jN3P21A",
+        "name": "Varför så regeringskåta?",
+        "nameRaw": "Varför så regeringskåta?",
+        "number": 7,
+        "positionInSeason": "",
+        "duration": 1689,
+        "validFrom": "2026-10-07T19:30:00+02:00",
+        "validTo": "2027-06-14T23:59:00+02:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Kampen om ministerposter för Vänsterpartiet fortsätter. Men vad kan ett parti faktiskt göra när det sitter i en regering - som det inte kan göra från utsidan? Och vad tvingas man ge upp för att få den makten? I studion: ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "55119995",
+          "changed": 1791301566
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "e7ovrxY-politikbyran-i-almedalen-7",
+      "name": "Politikbyrån i Almedalen",
+      "number": 7,
+      "episodes": [
+       {
+        "id": "1416535-004",
+        "svtId": "jVwE1bG",
+        "name": "VM i Almedalen",
+        "nameRaw": "VM i Almedalen",
+        "number": 4,
+        "positionInSeason": "",
+        "duration": 832,
+        "validFrom": "2026-06-26T20:00:00+02:00",
+        "validTo": "2026-12-23T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Vem vann i Visby? Vem floppade? Vilken politiker såg mest sliten ut i vimlet? Politikbyrån gräver skvaller i Almedalen och utnämner veckans vinnare och förlorare med Elisabeth Marmorstein, Mats Knutson, Henrik Torehammar",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54380806",
+          "changed": 1782314177
+         }
+        }
+       },
+       {
+        "id": "1416535-003",
+        "svtId": "egW5DED",
+        "name": "Hur mycket vänster tål sossarna?",
+        "nameRaw": "Hur mycket vänster tål sossarna?",
+        "number": 3,
+        "positionInSeason": "",
+        "duration": 844,
+        "validFrom": "2026-06-25T20:00:00+02:00",
+        "validTo": "2026-12-22T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Sossarna backar stadigt och det blåser vänstervindar i opinionen, men hur ska det gå när V vill knö igenom samarbete med ett Socialdemokraterna som inte gillar dem direkt? Kan de ens samarbeta, och hur mycket åt V kommer",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54380812",
+          "changed": 1782314178
+         }
+        }
+       },
+       {
+        "id": "1416535-002",
+        "svtId": "eakYqMd",
+        "name": "Skaver det mellan Jimmie och Ulf",
+        "nameRaw": "Skaver det mellan Jimmie och Ulf",
+        "number": 2,
+        "positionInSeason": "",
+        "duration": 835,
+        "validFrom": "2026-06-24T20:00:00+02:00",
+        "validTo": "2026-12-21T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Moderaterna backar, oppositionen har medvind och diskussionen om Birgitta Ed har gett statsministern ännu en huvudvärk. Men är det största problemet egentligen relationen till Sverigedemokraterna? Hur mycket kärlek finns",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54380662",
+          "changed": 1782312364
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "e7ovrxY-2026-6",
+      "name": "2026",
+      "number": 6,
+      "episodes": [
+       {
+        "id": "1415473-020",
+        "svtId": "KkAmwpA",
+        "name": "Vi spår valet",
+        "nameRaw": "Vi spår valet",
+        "number": 20,
+        "positionInSeason": "",
+        "duration": 1653,
+        "validFrom": "2026-06-10T19:30:00+02:00",
+        "validTo": "2026-12-07T23:59:59+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Vad avgör valet? Vilken är årets märkligaste politiska händelse? Och vem tar hem spelet om regeringsmakten? Politikbyråns panel tar sig an utmaningen och ger oss svaren.  \nGäster: Mats Knutson, inrikespolitisk kommentato",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54274852",
+          "changed": 1781007363
+         }
+        }
+       },
+       {
+        "id": "1415473-019",
+        "svtId": "K1qQV6y",
+        "name": "Lättkränkta högern",
+        "nameRaw": "Lättkränkta högern",
+        "number": 19,
+        "positionInSeason": "",
+        "duration": 1765,
+        "validFrom": "2026-06-03T19:30:00+02:00",
+        "validTo": "2026-12-07T23:59:00+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Vänstern påstods länge bli kränkt av allt från rasistiska glassar till barnböcker och enbart ”fina åsikter” var godkända för att få vara med i värmen. Nu hörs allt oftare samma kritik mot högern, fast i helt andra typer ",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54244129",
+          "changed": 1780391758
+         }
+        }
+       },
+       {
+        "id": "1415473-018",
+        "svtId": "jJyoJZk",
+        "name": "Vildarna kan stoppa regeringen",
+        "nameRaw": "Vildarna kan stoppa regeringen",
+        "number": 18,
+        "positionInSeason": "",
+        "duration": 1731,
+        "validFrom": "2026-05-27T19:30:00+02:00",
+        "validTo": "2026-12-07T23:59:00+01:00",
+        "productionYear": 2026,
+        "shortDescription": "",
+        "longDescription": "Elsa Widding, Jamal El-Haj och Lorena Delgado Varas bestämde sig alla att stanna kvar i riksdagen - trots att de brutit med sina respektive partier. Nu möts \"riksdagens värstingar\" i Politikbyråns studio för ett samtal o",
+        "restrictions": {
+         "onlyAvailableInSweden": false,
+         "drmCopyProtection": false
+        },
+        "images": {
+         "wide": {
+          "id": "54220402",
+          "changed": 1779883019
+         }
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}
