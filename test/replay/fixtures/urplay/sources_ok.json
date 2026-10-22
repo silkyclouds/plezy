@@ -1,0 +1,11 @@
+{
+ "externalId": 245894,
+ "sourcesEndDate": "2028-09-07T23:59:00+02:00",
+ "sources": {
+  "dash": "https://streaming20.ur.se/content/v2/245000-245999/245894-2r1784799697713/dash-avc.mpd?token=redacted&u=uuid",
+  "hls": "https://streaming20.ur.se/content/v2/245000-245999/245894-2r1784799697713/hls-avc.m3u8?token=redacted&u=uuid"
+ },
+ "technicalFormat": "video",
+ "createdTimestamp": 1792650273000,
+ "uuid": "bf003f95-15aa-4edd-85c4-7f81eecf2a80"
+}

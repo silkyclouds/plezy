@@ -1,0 +1,98 @@
+{
+ "results": [
+  {
+   "id": 246484,
+   "title": "Lässugen - syntolkat",
+   "mainTitle": null,
+   "description": "Säsong 5. Den 7-årige Monty älskar böcker! Följ med när flera kända svenskar läser för honom ur några av våra bästa barnböcker. Det blir många fina möten på den magiska vinden som inspirerar till högläsning och ett intresse för böcker. Bokläsningen leder till både lek och samtal om allt från bra bus till hur det är att lära sig att läsa.",
+   "usp": "Bli inspirerad till läslust med högläsning av kändisar.",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246484/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246484/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246484/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246484/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246484/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246484/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246484/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246484/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246484/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246484/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246484/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Fiktiva berättelser",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-09-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "link": "/serie/246484-lassugen-syntolkat",
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "246484-lassugen-syntolkat"
+  },
+  {
+   "id": 242465,
+   "title": "Lässugen - syntolkat",
+   "mainTitle": null,
+   "description": "Säsong 4. I huset där 6-åriga Bella bor finns en vind som är magisk och full av gamla saker från någon som bodde där för länge sen. Bella håller på att lära sig läsa och hon kan nästan. När hon blir sugen på att höra en saga så trollar hon fram en person ur ett magiskt skåp. Följ med när Markus Granseth, Meira Omar, Robert Gustafsson och flera andra välkända svenskar läser högt ur våra bästa barnböcker.",
+   "usp": "Kända svenskar läser ur de bästa barnböckerna för 6-åriga Bella.",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/242465/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/242465/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/242465/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/242465/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/242465/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/242465/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/242465/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/242465/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/242465/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/242465/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/242465/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Fiktiva berättelser",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-03-01T01:00:00.000Z",
+     "endTime": "2099-10-05T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "link": "/serie/242465-lassugen-syntolkat",
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "242465-lassugen-syntolkat"
+  }
+ ],
+ "searchSuccessful": true,
+ "nextPageInfo": null
+}

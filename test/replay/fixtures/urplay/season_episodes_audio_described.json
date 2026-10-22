@@ -1,0 +1,185 @@
+{
+ "accessibleEpisodes": [
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-09-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "I huset där den 7-årige Monty bor hittar han en magisk bok med en trollformel för att trolla fram en läsare. Han trollar fram artisten Lilla Al-Fadji, som både sjunger sin låt ”Delulu” och läser ”Raggar-råttan Roger” av Ulf Sindt. Det är en bok som har allt – raggare, råttor och bilar!",
+   "duration": 873,
+   "episodeNumber": 1,
+   "format": "video",
+   "id": 246481,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246481/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246481/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246481/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246481/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246481/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246481/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246481/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246481/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246481/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246481/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246481/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246481-lassugen-syntolkat-lilla-al-fadji-laser-raggar-rattan-roger",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Lilla Al-Fadji läser Raggar-råttan Roger",
+   "usp": "Lilla Al-Fadji tycker att boken har allt – raggare, råttor och bilar!"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-09-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Monty leker doktor och tappar bort sin nål efter en operation av nallegrisen. Därför trollar Monty fram en vuxen doktor ur det magiska skåpet – ingen mindre än Doktor Samuel. Tillsammans läser de boken ”Såret” av Emma Adbåge. Den handlar om hur det känns att ramla på skolgården och få ett stort sår.",
+   "duration": 880,
+   "episodeNumber": 2,
+   "format": "video",
+   "id": 246483,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246483/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246483/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246483/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246483/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246483/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246483/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246483/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246483/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246483/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246483/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246483/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246483-lassugen-syntolkat-doktor-samuel-laser-saret",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Doktor Samuel läser Såret",
+   "usp": "Doktor Samuel läser en bok om att ramla och få ett stort sår."
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-09-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Det regnar utomhus så Monty bjuder youtubern Jennifer Milo på picknick uppe på vinden i stället. De läser sedan barnboksklassikern ”Gittan och älgbrorsorna” av Pija Lindenbaum. Den handlar om att tre älgar hoppar in som Gittans bröder när Gittans syskonlängtan är stor.",
+   "duration": 863,
+   "episodeNumber": 3,
+   "format": "video",
+   "id": 246482,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246482/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246482/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246482/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246482/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246482/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246482/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246482/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246482/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246482/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246482/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246482/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246482-lassugen-syntolkat-jennifer-milo-laser-gittan-och-algbrorsorna",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Jennifer Milo läser Gittan och älgbrorsorna",
+   "usp": "Youtubern Jennifer Milo läser en bok om syskonlängtan."
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-09-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-28T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Monty är fascinerad av ormar och har flera stycken på vinden. Christopher Wagelin är inte lika förtjust. Tillsammans läser de boken ”Freja och huggormen” av Fredrik Sonck. Den handlar om att en huggorm flyttar in på Frejas tomt och om att Frejas pappa gör någonting som är fel.",
+   "duration": 879,
+   "episodeNumber": 4,
+   "format": "video",
+   "id": 246476,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246476/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246476/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246476/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246476/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246476/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246476/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246476/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246476/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246476/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246476/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246476/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246476-lassugen-syntolkat-christopher-wagelin-laser-freja-och-huggormen",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Christopher Wagelin läser Freja och huggormen",
+   "usp": "Monty och Christopher Wagelin läser en bok om en huggorm."
+  }
+ ],
+ "upcomingEpisodes": []
+}

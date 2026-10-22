@@ -1,0 +1,100 @@
+{
+ "id": 246483,
+ "title": "Doktor Samuel läser Såret",
+ "seoTitle": "Lässugen - syntolkat: Doktor Samuel läser Såret",
+ "format": "video",
+ "version": "AUDIO_DESCRIPTION",
+ "currentVersion": "AUDIO_DESCRIPTION",
+ "allVersions": [
+  {
+   "id": 246207,
+   "version": "ORIGINAL",
+   "title": "Doktor Samuel läser Såret",
+   "seriesTitle": "Lässugen",
+   "slug": "246207-lassugen-doktor-samuel-laser-saret",
+   "link": "/program/246207-lassugen-doktor-samuel-laser-saret"
+  },
+  {
+   "id": 246483,
+   "version": "AUDIO_DESCRIPTION",
+   "title": "Doktor Samuel läser Såret",
+   "seriesTitle": "Lässugen - syntolkat",
+   "slug": "246483-lassugen-syntolkat-doktor-samuel-laser-saret",
+   "link": "/program/246483-lassugen-syntolkat-doktor-samuel-laser-saret"
+  },
+  {
+   "id": 246493,
+   "version": "SIGN_LANGUAGE",
+   "title": "Doktor Samuel läser Såret",
+   "seriesTitle": "Lässugen - teckenspråkstolkat",
+   "slug": "246493-lassugen-teckensprakstolkat-doktor-samuel-laser-saret",
+   "link": "/program/246493-lassugen-teckensprakstolkat-doktor-samuel-laser-saret"
+  }
+ ],
+ "isAudioDescribed": true,
+ "isSignLanguageInterpreted": false,
+ "parentalLock": false,
+ "platforms": [
+  "uraccess",
+  "urplay",
+  "urplayschool"
+ ],
+ "metadataLabels": [
+  "Avsnitt 2",
+  "15 min"
+ ],
+ "about": {
+  "description": "Monty leker doktor och tappar bort sin nål efter en operation av nallegrisen. Därför trollar Monty fram en vuxen doktor ur det magiska skåpet – ingen mindre än Doktor Samuel. Tillsammans läser de boken ”Såret” av Emma Adbåge. Den handlar om hur det känns att ramla på skolgården och få ett stort sår.",
+  "link": "/program/246483-lassugen-syntolkat-doktor-samuel-laser-saret",
+  "linkUrl": null,
+  "keywords": [
+   "Fiktiva berättelser",
+   "Leka doktor",
+   "Sår"
+  ],
+  "productionYear": 2026,
+  "accessiblePlatforms": {
+   "uraccess": {
+    "startTime": "2026-09-28T00:00:00.000Z",
+    "endTime": "2099-06-30T21:59:00.000Z"
+   },
+   "urplay": {
+    "startTime": "2026-09-28T00:00:00.000Z",
+    "endTime": "2099-09-27T21:59:00.000Z"
+   },
+   "urplayschool": {
+    "startTime": "2026-09-28T00:00:00.000Z",
+    "endTime": "2099-06-30T21:59:00.000Z"
+   }
+  },
+  "internationalTitle": null,
+  "languagesTranslations": [
+   "Svenska"
+  ],
+  "subtitleLanguagesTranslations": [
+   "Svenska"
+  ],
+  "publisher": null,
+  "participants": [
+   {
+    "firstname": "Samuel",
+    "lastname": "Rhedin",
+    "role": "Medverkande",
+    "profession": null
+   }
+  ],
+  "creditsUpdatedAt": null,
+  "productType": "program",
+  "duration": 880,
+  "seriesId": 246484
+ },
+ "pedagogical": {
+  "product": {
+   "series": {
+    "id": 246484,
+    "title": "Lässugen - syntolkat",
+    "educationalDescription": null
+   }
+  }
+ }
+}

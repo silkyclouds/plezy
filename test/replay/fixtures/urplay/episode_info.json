@@ -1,0 +1,79 @@
+{
+ "id": 245901,
+ "title": "Yukons storslagna natur",
+ "seoTitle": "Vildmarken med Simon Reeve: Yukons storslagna natur",
+ "format": "video",
+ "version": null,
+ "currentVersion": null,
+ "allVersions": [],
+ "isAudioDescribed": false,
+ "isSignLanguageInterpreted": false,
+ "parentalLock": false,
+ "platforms": [
+  "urplay",
+  "urplayschool"
+ ],
+ "metadataLabels": [
+  "Säsong 2",
+  "Avsnitt 3",
+  "59 min"
+ ],
+ "about": {
+  "description": "Simon Reeve reser genom Yukons vildmark i norra Kanada, fylld av skogar, glaciärer och ett rikt djurliv. Tillsammans med naturvårdare utforskar han utmaningar för både människor och djur i denna till synes orörda region. Längs Yukonfloden och i Berings hav hotar överfiske och klimatförändringar laxbeståndet, vilket även påverkar grizzlybjörnarna. Vad händer med denna känsliga miljö om arternas överlevnad hotas?",
+  "link": "/program/245901-vildmarken-med-simon-reeve-yukons-storslagna-natur",
+  "linkUrl": null,
+  "keywords": [
+   "Geografi",
+   "Hotade arter",
+   "Kanada",
+   "Nordamerika",
+   "Yukon"
+  ],
+  "productionYear": 2026,
+  "accessiblePlatforms": {
+   "urplay": {
+    "startTime": "2026-10-08T00:00:00.000Z",
+    "endTime": "2099-07-31T21:59:00.000Z"
+   },
+   "urplayschool": {
+    "startTime": "2026-10-08T00:00:00.000Z",
+    "endTime": "2099-07-31T21:59:00.000Z"
+   }
+  },
+  "internationalTitle": "Wilderness with Simon Reeve",
+  "languagesTranslations": [
+   "Engelska"
+  ],
+  "subtitleLanguagesTranslations": [
+   "Svenska"
+  ],
+  "publisher": null,
+  "participants": [
+   {
+    "firstname": "Simon",
+    "lastname": "Reeve",
+    "role": "Programledare",
+    "profession": null
+   }
+  ],
+  "creditsUpdatedAt": null,
+  "podInfo": {
+   "file": null,
+   "filename": "vildmarken-med-simon-reeve-yukons-storslagna-natur",
+   "format": null,
+   "isDownloadable": false
+  },
+  "productType": "program",
+  "duration": 3517,
+  "seriesId": 245905,
+  "superSeriesId": 246979,
+  "shareData": {
+   "currentUrl": "https://urplay.se/program/245901-vildmarken-med-simon-reeve-yukons-storslagna-natur",
+   "embedable": false,
+   "embedToken": "16k9iu8x-179nl1pr",
+   "pageTitle": "Yukons storslagna natur",
+   "shareType": 0
+  }
+ },
+ "pedagogical": "(trimmed)"
+}

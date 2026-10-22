@@ -1,0 +1,134 @@
+{
+ "accessibleEpisodes": [
+  {
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    }
+   },
+   "describedById": "92fe693c-6cb9-4888-9619-1e28a1ba4d1a",
+   "description": "Simon Reeve reser till de avlägsna Torricellibergen i nordvästra Papua Nya Guinea, ett område som sällan besökts av forskare. Här försöker man hitta och dokumentera ett av världens mest hotade däggdjur, trädkängurun tenkile. Det blir ansträngande vandringar genom tät regnskog och krävande terräng. Till slut lyckas expeditionen fånga det skygga djuret på film, vilket ger ny kunskap om arten och dess livsmiljö.",
+   "duration": 3516,
+   "episodeNumber": 1,
+   "files": [],
+   "format": "video",
+   "id": 245903,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245903/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245903/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245903/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245903/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245903/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245903/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245903/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245903/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245903/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245903/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245903/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/245903-vildmarken-med-simon-reeve-papua-nya-guineas-unika-djurliv",
+   "mainGenre": "Reseprogram",
+   "mainTitle": "Vildmarken med Simon Reeve",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Papua Nya Guineas unika djurliv",
+   "usp": "Följ med till Torricellibergen och möt trädkängurun tenkile."
+  },
+  {
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    }
+   },
+   "describedById": "52c0ec81-169f-42eb-ac65-162a09509292",
+   "description": "Simon Reeve utforskar Cortez hav utanför Mexikos kust, ett av världens mest artrika marina ekosystem. Tillsammans med marinbiologer undersöker Simon särskilt de sällsynta och hotade hajar som lever här. Vi får en inblick i arbetet som krävs för att skydda och bevara havets mest betydelsefulla rovdjur och hur havets unika balans kan hotas men också återställas.",
+   "duration": 3501,
+   "episodeNumber": 2,
+   "files": [],
+   "format": "video",
+   "id": 245902,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245902/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245902/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245902/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245902/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245902/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245902/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245902/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245902/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245902/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245902/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245902/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/245902-vildmarken-med-simon-reeve-cortez-hav-och-hajarna",
+   "mainGenre": "Reseprogram",
+   "mainTitle": "Vildmarken med Simon Reeve",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Cortez hav och hajarna",
+   "usp": "Följ Simon Reeve bland hajarna i världens artrikaste hav!"
+  },
+  {
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    }
+   },
+   "describedById": "65436195-fe54-402f-ac5b-2a7ae407dc44",
+   "description": "Simon Reeve reser genom Yukons vildmark i norra Kanada, fylld av skogar, glaciärer och ett rikt djurliv. Tillsammans med naturvårdare utforskar han utmaningar för både människor och djur i denna till synes orörda region. Längs Yukonfloden och i Berings hav hotar överfiske och klimatförändringar laxbeståndet, vilket även påverkar grizzlybjörnarna. Vad händer med denna känsliga miljö om arternas överlevnad hotas?",
+   "duration": 3517,
+   "episodeNumber": 3,
+   "files": [],
+   "format": "video",
+   "id": 245901,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245901/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245901/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245901/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245901/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245901/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245901/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245901/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245901/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245901/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245901/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245901/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/245901-vildmarken-med-simon-reeve-yukons-storslagna-natur",
+   "mainGenre": "Reseprogram",
+   "mainTitle": "Vildmarken med Simon Reeve",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Yukons storslagna natur",
+   "usp": "Följ med till Yukons hotade vildmark."
+  }
+ ],
+ "upcomingEpisodes": []
+}

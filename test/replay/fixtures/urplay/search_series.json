@@ -1,0 +1,92 @@
+{
+ "results": [
+  {
+   "id": 245905,
+   "title": "Vildmarken med Simon Reeve",
+   "mainTitle": null,
+   "description": "Säsong 2. Simon Reeve ger sig ut på äventyr genom några av världens sista stora vildmarker. Under resan möter han både människor och djur som lever i dessa unika miljöer. Det blir gripande berättelser, storslagna naturscener och spännande möten i områden där naturen fortfarande styr.",
+   "usp": "Följ med till världens sista stora vildmarker!",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245905/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245905/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245905/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245905/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245905/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245905/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245905/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245905/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245905/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245905/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245905/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Reseprogram",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    }
+   },
+   "describedById": "65e5cddb-6016-4418-b1b2-48cc237de7f1",
+   "link": "/serie/245905-vildmarken-med-simon-reeve",
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "245905-vildmarken-med-simon-reeve"
+  },
+  {
+   "id": 242934,
+   "title": "Norden med Simon Reeve",
+   "mainTitle": null,
+   "description": "Simon Reeve reser genom arktisk tundra, vidsträckta skogar och mäktiga fjordar för att undersöka hemligheterna bakom världens lyckligaste och mest jämlika samhällen.",
+   "usp": "En resa genom arktisk tundra, vidsträckta skogar och mäktiga fjordar.",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/242934/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/242934/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/242934/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/242934/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/242934/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/242934/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/242934/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/242934/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/242934/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/242934/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/242934/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Reseprogram",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-03-01T01:00:00.000Z",
+     "endTime": "2099-11-30T22:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2025-12-16T01:00:00.000Z",
+     "endTime": "2099-11-30T22:59:00.000Z"
+    }
+   },
+   "describedById": "37c9e8ae-6f4b-4828-be96-d332f88ac484",
+   "link": "/serie/242934-norden-med-simon-reeve",
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "242934-norden-med-simon-reeve"
+  }
+ ],
+ "searchSuccessful": true,
+ "nextPageInfo": null
+}

@@ -21,6 +21,7 @@ import '../providers/tvlocales/telemb_provider.dart';
 import '../providers/tvlocales/telesambre_provider.dart';
 import '../providers/tvlocales/tvcom_provider.dart';
 import '../providers/tvlocales/tvlux_provider.dart';
+import '../providers/urplay/urplay_provider.dart';
 import '../providers/zdfmediathek/zdfmediathek_provider.dart';
 import 'replay_provider.dart';
 import 'replay_source_info.dart';
@@ -183,6 +184,13 @@ const replaySourceInfos = [
     country: 'IS',
     languages: ['is'],
   ),
+  ReplaySourceInfo(
+    id: 'urplay',
+    name: 'UR Play',
+    support: ReplayPlaybackSupport.clear,
+    country: 'SE',
+    languages: ['sv'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -236,6 +244,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'nhkworld' => NhkWorldProvider(http),
       'zdfmediathek' => ZdfMediathekProvider(http),
       'ruv' => RuvProvider(http),
+      'urplay' => UrPlayProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

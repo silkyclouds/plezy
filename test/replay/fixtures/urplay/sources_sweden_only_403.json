@@ -1,0 +1,8 @@
+{
+ "http_status": 403,
+ "body": {
+  "statusCode": 403,
+  "error": "Forbidden",
+  "message": "restricted_to_sweden_only"
+ }
+}

@@ -1,0 +1,315 @@
+{
+ "results": [
+  {
+   "accessiblePlatforms": {
+    "urplay": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-08T00:00:00.000Z",
+     "endTime": "2099-07-31T21:59:00.000Z"
+    }
+   },
+   "describedById": "78e997f0-fd02-49b4-8b03-59f9a86da15e",
+   "description": "Simon Reeve reser genom Yukons vildmark i norra Kanada, fylld av skogar, glaciärer och ett rikt djurliv. Tillsammans med naturvårdare utforskar han utmaningar för både människor och djur i denna till synes orörda region. Längs Yukonfloden och i Berings hav hotar överfiske och klimatförändringar laxbeståndet, vilket även påverkar grizzlybjörnarna. Vad händer med denna känsliga miljö om arternas överlevnad hotas?",
+   "duration": 3517,
+   "episodeNumber": 3,
+   "files": [],
+   "format": "video",
+   "id": 245901,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245901/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245901/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245901/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245901/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245901/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245901/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245901/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245901/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245901/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245901/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245901/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/245901-vildmarken-med-simon-reeve-yukons-storslagna-natur",
+   "mainGenre": "Reseprogram",
+   "mainTitle": "Vildmarken med Simon Reeve",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Yukons storslagna natur",
+   "usp": "Följ med till Yukons hotade vildmark.",
+   "slug": "245901-vildmarken-med-simon-reeve-yukons-storslagna-natur"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-22T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-22T00:00:00.000Z",
+     "endTime": "2099-09-21T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-22T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "describedById": "f0905013-2596-4848-8cbc-58c2c739f0ac",
+   "description": "Sol, vind och vatten. Metaller och olja. Jord som går att odla på. Allt det är naturresurser. Utan naturresurser skulle inte vi människor kunna leva på jorden. Vi behöver dem för att tillverka saker och skapa energi, även för att kunna få mat och för att inte frysa ihjäl. Men vissa naturresurser kan ta slut eller förstöras. Vad händer då?",
+   "duration": 931,
+   "episodeNumber": 10,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/program/240793-plugga-geografi-naturresurser/quiz",
+     "title": "Quiz",
+     "type": "quiz",
+     "metadata": {
+      "numberOfQuestions": 15,
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    },
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/serie/238336-plugga-geografi/lararhandledning",
+     "title": "Plugga geografi",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 240793,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/240793/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/240793/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/240793/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/240793/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/240793/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/240793/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/240793/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/240793/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/240793/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/240793/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/240793/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/240793-plugga-geografi-naturresurser",
+   "mainGenre": "Faktaprogram",
+   "mainTitle": "Plugga geografi",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Naturresurser",
+   "usp": "Människor överlever inte utan dem. Vad händer när de försvinner?",
+   "slug": "240793-plugga-geografi-naturresurser"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2017-10-28T22:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-06-08T00:00:00.000Z",
+     "endTime": "2099-12-31T22:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2018-12-03T01:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "describedById": "ab4dc568-1dc1-40d4-9e72-21d672bdc94e",
+   "description": "Hur har Sverige blivit ett rikt land? Varför är den svenska naturen viktig? Vad är allemansrätt?",
+   "duration": 267,
+   "episodeNumber": 9,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/serie/202386-sa-funkar-sverige/lararhandledning",
+     "title": "Så funkar Sverige",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 202393,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/202393/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/202393/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/202393/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/202393/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/202393/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/202393/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/202393/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/202393/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/202393/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/202393/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/202393/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/202393-sa-funkar-sverige-naturtillgangar",
+   "mainGenre": "Lär-mer-program",
+   "mainTitle": "Så funkar Sverige",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Naturtillgångar",
+   "usp": "Varför är den svenska naturen viktig?",
+   "slug": "202393-sa-funkar-sverige-naturtillgangar"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-09-07T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "describedById": "8b202e54-3d06-4085-bc6b-7b9a094727c0",
+   "description": "Sverige brukar kallas för ett avlångt land, här får du reda på hur klimatet kan skilja sig åt från norr till söder. Om djur, skogar, sjöar och berg i Sverige, om friluftsliv och allemansrätt. Syftet är att ge framför allt nyanlända barn en bild av Sveriges djur och natur och vad man har för rättigheter och skyldigheter när man vistas ute i naturen.",
+   "duration": 465,
+   "episodeNumber": 9,
+   "files": [
+    {
+     "description": null,
+     "fileType": "pdf",
+     "location": "https://www.ur.se/mb/pdf/handledningar/212000-212999/212105-4_Lararhandledning_Nyfiken_pa_Sverige_206222.pdf",
+     "title": "Nyfiken på Sverige",
+     "type": "teacherguide",
+     "metadata": null
+    },
+    {
+     "description": null,
+     "fileType": "pdf",
+     "location": "https://www.ur.se/mb/pdf/Arbetsblad/224000-224999/224346-2_Avsnitt9NaturenNyfikenpaSverige.pdf",
+     "title": "Nyfiken på Sverige : Naturen",
+     "type": "worksheet",
+     "metadata": null
+    }
+   ],
+   "format": "video",
+   "id": 245894,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245894/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245894/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245894/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245894/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245894/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245894/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245894/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245894/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245894/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245894/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245894/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/245894-nyfiken-pa-sverige-litauiska-naturen",
+   "mainGenre": "Faktaprogram",
+   "mainTitle": "Nyfiken på Sverige - litauiska",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Naturen",
+   "usp": "Om djur, natur och klimat i Sverige.",
+   "slug": "245894-nyfiken-pa-sverige-litauiska-naturen"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-08T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "describedById": "d8ede204-2ec3-4b51-b5b4-ab1da1b8958d",
+   "description": "Sverige brukar kallas för ett avlångt land, här får du reda på hur klimatet kan skilja sig åt från norr till söder. Om djur, skogar, sjöar och berg i Sverige, om friluftsliv och allemansrätt. Syftet är att ge framför allt nyanlända barn en bild av Sveriges djur och natur och vad man har för rättigheter och skyldigheter när man vistas ute i naturen.",
+   "duration": 465,
+   "episodeNumber": 9,
+   "files": [
+    {
+     "description": null,
+     "fileType": "pdf",
+     "location": "https://www.ur.se/mb/pdf/handledningar/212000-212999/212105-4_Lararhandledning_Nyfiken_pa_Sverige_206222.pdf",
+     "title": "Nyfiken på Sverige",
+     "type": "teacherguide",
+     "metadata": null
+    },
+    {
+     "description": null,
+     "fileType": "pdf",
+     "location": "https://www.ur.se/mb/pdf/Arbetsblad/224000-224999/224346-2_Avsnitt9NaturenNyfikenpaSverige.pdf",
+     "title": "Nyfiken på Sverige : Naturen",
+     "type": "worksheet",
+     "metadata": null
+    }
+   ],
+   "format": "video",
+   "id": 246152,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246152/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246152/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246152/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246152/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246152/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246152/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246152/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246152/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246152/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246152/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246152/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246152-nyfiken-pa-sverige-urdu-naturen",
+   "mainGenre": "Faktaprogram",
+   "mainTitle": "Nyfiken på Sverige - urdu",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Naturen",
+   "usp": "Om djur, natur och klimat i Sverige.",
+   "slug": "246152-nyfiken-pa-sverige-urdu-naturen"
+  }
+ ],
+ "searchSuccessful": true,
+ "nextPageInfo": {
+  "rows": 24,
+  "start": 24
+ }
+}

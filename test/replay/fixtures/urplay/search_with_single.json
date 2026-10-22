@@ -1,0 +1,370 @@
+{
+ "results": [
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-10-14T06:00:00.000Z",
+     "endTime": "2099-10-14T09:50:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-10-14T06:00:00.000Z",
+     "endTime": "2099-10-14T09:50:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-10-14T06:00:00.000Z",
+     "endTime": "2099-10-14T09:50:00.000Z"
+    }
+   },
+   "description": "I Valskärmen hittar ni resultaten från de två senaste valen, hur väljarna röstade på valdistriktsnivå och hur stort valdeltagandet var. Dessutom går det att bygga sin egen regering. Nyhetskolls Markus Aamisepp och SVT:s valreporter Fouad Youcefi förklarar hur Valskärmen fungerar och hur den kan användas i undervisningen. Valskärmen hittar du i lärarhandledningen nedan.",
+   "duration": 190,
+   "episodeNumber": null,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/program/245516-nyhetskoll-sa-fungerar-valskarmen/quiz",
+     "title": "Valskärmen",
+     "type": "quiz",
+     "metadata": {
+      "numberOfQuestions": 15,
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 245516,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245516/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245516/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245516/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245516/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245516/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245516/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245516/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245516/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245516/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245516/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245516/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": true,
+   "link": "/program/245516-nyhetskoll-sa-fungerar-valskarmen",
+   "mainGenre": "Nyheter",
+   "mainTitle": null,
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Nyhetskoll - Så fungerar valskärmen",
+   "usp": "Om hur du kan använda Valskärmen i undervisningen.",
+   "slug": "245516-nyhetskoll-sa-fungerar-valskarmen"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-09-04T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-09-04T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-09-04T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Jessica Madan från Nyhetskoll teckenspråk och Fouad Youcefi från SVT Nyheter visar hur valskärmen funkar. Med hjälp av den kan du se resultat från de två senaste valen, hur folk har röstat på olika platser, valdeltagande och testa att bygga egen regering. Valskärmen finns i Nyhetskolls lärarhandledning.",
+   "duration": 180,
+   "episodeNumber": 14,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/serie/245296-nyhetskoll-teckensprak/lararhandledning",
+     "title": "Nyhetskoll teckenspråk",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    },
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/program/246695-nyhetskoll-teckensprak-val-2026-sa-fungerar-valskarmen/lararhandledning",
+     "title": "Nyhetskoll teckenspråk",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 246695,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/246695/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/246695/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/246695/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/246695/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/246695/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/246695/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/246695/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/246695/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/246695/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/246695/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/246695/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/246695-nyhetskoll-teckensprak-val-2026-sa-fungerar-valskarmen",
+   "mainGenre": "Nyheter",
+   "mainTitle": "Nyhetskoll teckenspråk",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Val 2026 - Så fungerar valskärmen",
+   "usp": "Så kan du använda valskärmen.",
+   "slug": "246695-nyhetskoll-teckensprak-val-2026-sa-fungerar-valskarmen"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-04-17T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-04-17T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-04-17T21:59:00.000Z"
+    }
+   },
+   "description": "Ungern har en ny premiärminister efter 16 år, men varför blev så många europeiska ledare glada över Péter Magyars valvinst? Vårbudgeten har presenterats och ett orosmoln som pekas ut är AI-bubblan. Vi reder ut vad det är. Utöver det blir det ett svep med veckans viktigaste nyheter. Och nu finns den för skolor: Valskärmen! Bygg din egen regering och dyk ned i tidigare valresultat.",
+   "duration": 916,
+   "episodeNumber": null,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/program/244344-nyhetskoll-veckan-2026-04-17/quiz",
+     "title": "Nyhetskoll vecka 16",
+     "type": "quiz",
+     "metadata": {
+      "numberOfQuestions": 12,
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    },
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/serie/244331-nyhetskoll-veckan/lararhandledning",
+     "title": "Nyhetskoll - veckan",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 244344,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/244344/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/244344/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/244344/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/244344/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/244344/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/244344/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/244344/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/244344/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/244344/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/244344/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/244344/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/244344-nyhetskoll-veckan-2026-04-17",
+   "mainGenre": "Nyheter",
+   "mainTitle": "Nyhetskoll - veckan",
+   "productType": "program",
+   "publishDatePublic": "2026-04-17T02:00:00.000Z",
+   "timeLabel": "17 apr",
+   "title": "2026-04-17",
+   "usp": "Få koll på veckans viktigaste händelser.",
+   "slug": "244344-nyhetskoll-veckan-2026-04-17"
+  },
+  {
+   "id": 244230,
+   "title": "Nyhetskoll - fördjupning",
+   "mainTitle": null,
+   "description": "Fördjupningar och reportage från Nyhetskoll. Om de största samhällshändelserna med ungas perspektiv i fokus.",
+   "usp": "Fördjupningar och reportage om de största samhällshändelserna.",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/244230/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/244230/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/244230/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/244230/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/244230/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/244230/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/244230/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/244230/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/244230/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/244230/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/244230/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Nyheter",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-01-15T01:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-02-05T01:00:00.000Z",
+     "endTime": "2099-08-27T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-01-15T01:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "link": "/serie/244230-nyhetskoll-fordjupning",
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "244230-nyhetskoll-fordjupning"
+  },
+  {
+   "id": 245296,
+   "title": "Nyhetskoll teckenspråk",
+   "mainTitle": null,
+   "description": "Få koll på veckans viktigaste händelser på svenskt teckenspråk. För elever i högstadiet och gymnasiet, med deras perspektiv och intressen i fokus.",
+   "usp": "Få koll på veckans viktigaste händelser.",
+   "image": {
+    "1280x720": "https://assets.ur.se/id/245296/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/245296/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/245296/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/245296/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/245296/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/245296/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/245296/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/245296/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/245296/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/245296/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/245296/images/1_sq.jpg"
+   },
+   "duration": null,
+   "productType": "series",
+   "mainGenre": "Nyheter",
+   "episodeNumber": null,
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-04-17T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "link": "/serie/245296-nyhetskoll-teckensprak",
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "format": "video",
+   "files": null,
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "slug": "245296-nyhetskoll-teckensprak"
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2026-06-05T00:00:00.000Z",
+     "endTime": "2099-06-05T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-06-05T00:00:00.000Z",
+     "endTime": "2099-06-05T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2026-06-05T00:00:00.000Z",
+     "endTime": "2099-06-05T21:59:00.000Z"
+    }
+   },
+   "description": "Så röstar unga jämfört med äldre, tillträdesförbud på fotbollsmatcher och bistånd är tre av veckans teman. Vi följer dessutom Amanda och Greta som vloggar inför studenten. Riksdagen har bestämt att det ska bli lättare att betala med kontanter – känner tonåringarna igen personen på sedlarna? Utöver detta även ett nyhetssvep med några av veckans viktigaste händelser.",
+   "duration": 1079,
+   "episodeNumber": null,
+   "files": [
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/program/244349-nyhetskoll-veckan-2026-06-05/quiz",
+     "title": "Nyhetskoll vecka 23",
+     "type": "quiz",
+     "metadata": {
+      "numberOfQuestions": 12,
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    },
+    {
+     "description": null,
+     "fileType": "url",
+     "location": "https://urplay.se/serie/244331-nyhetskoll-veckan/lararhandledning",
+     "title": "Nyhetskoll - veckan",
+     "type": "teacherguide",
+     "metadata": {
+      "descriptionHeadline": null,
+      "descriptionText": null
+     }
+    }
+   ],
+   "format": "video",
+   "id": 244349,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/244349/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/244349/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/244349/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/244349/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/244349/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/244349/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/244349/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/244349/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/244349/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/244349/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/244349/images/1_sq.jpg"
+   },
+   "isAudioDescribed": false,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/244349-nyhetskoll-veckan-2026-06-05",
+   "mainGenre": "Nyheter",
+   "mainTitle": "Nyhetskoll - veckan",
+   "productType": "program",
+   "publishDatePublic": "2026-06-05T02:00:00.000Z",
+   "timeLabel": "5 juni",
+   "title": "2026-06-05",
+   "usp": "Få koll på veckans viktigaste händelser.",
+   "slug": "244349-nyhetskoll-veckan-2026-06-05"
+  }
+ ],
+ "searchSuccessful": true,
+ "nextPageInfo": null
+}

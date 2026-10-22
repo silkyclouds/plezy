@@ -1,0 +1,117 @@
+{
+ "id": 242470,
+ "title": "Gloria Janman läser Vi är lajon!",
+ "seoTitle": "Lässugen - syntolkat: Gloria Janman läser Vi är lajon!",
+ "format": "video",
+ "version": "AUDIO_DESCRIPTION",
+ "currentVersion": "AUDIO_DESCRIPTION",
+ "allVersions": [
+  {
+   "id": 242455,
+   "version": "ORIGINAL",
+   "title": "Gloria Janman läser Vi är lajon!",
+   "seriesTitle": "Lässugen",
+   "slug": "242455-lassugen-gloria-janman-laser-vi-ar-lajon",
+   "link": "/program/242455-lassugen-gloria-janman-laser-vi-ar-lajon"
+  },
+  {
+   "id": 242470,
+   "version": "AUDIO_DESCRIPTION",
+   "title": "Gloria Janman läser Vi är lajon!",
+   "seriesTitle": "Lässugen - syntolkat",
+   "slug": "242470-lassugen-syntolkat-gloria-janman-laser-vi-ar-lajon",
+   "link": "/program/242470-lassugen-syntolkat-gloria-janman-laser-vi-ar-lajon"
+  },
+  {
+   "id": 242796,
+   "version": "SIGN_LANGUAGE",
+   "title": "Gloria Janman läser Vi är lajon!",
+   "seriesTitle": "Lässugen - teckenspråkstolkat",
+   "slug": "242796-lassugen-teckensprakstolkat-gloria-janman-laser-vi-ar-lajon",
+   "link": "/program/242796-lassugen-teckensprakstolkat-gloria-janman-laser-vi-ar-lajon"
+  }
+ ],
+ "isAudioDescribed": true,
+ "isSignLanguageInterpreted": false,
+ "parentalLock": false,
+ "platforms": [
+  "uraccess",
+  "urplay",
+  "urplayschool"
+ ],
+ "metadataLabels": [
+  "Säsong 4",
+  "Avsnitt 2",
+  "15 min"
+ ],
+ "about": {
+  "description": "Bella tror att den som bodde i hennes hus för längesen inte bara gillade böcker, det var någon som gillade att resa också. Hon hittar en gammal koffert. Vad finns i den? Gloria kommer på besök och tillsammans utforskar de vinden och så läser de en sorglig bok om två bröder där en blir svårt sjuk.",
+  "link": "/program/242470-lassugen-syntolkat-gloria-janman-laser-vi-ar-lajon",
+  "linkUrl": null,
+  "keywords": [
+   "Bröder",
+   "Fantasi",
+   "Fiktiva berättelser",
+   "Lek",
+   "Sjuka syskon",
+   "Sjukhus"
+  ],
+  "productionYear": 2025,
+  "accessiblePlatforms": {
+   "uraccess": {
+    "startTime": "2025-10-20T00:00:00.000Z",
+    "endTime": "2099-06-30T21:59:00.000Z"
+   },
+   "urplay": {
+    "startTime": "2026-03-01T01:00:00.000Z",
+    "endTime": "2099-10-05T21:59:00.000Z"
+   },
+   "urplayschool": {
+    "startTime": "2025-10-20T00:00:00.000Z",
+    "endTime": "2099-06-30T21:59:00.000Z"
+   }
+  },
+  "internationalTitle": null,
+  "languagesTranslations": [
+   "Svenska"
+  ],
+  "subtitleLanguagesTranslations": [
+   "Svenska"
+  ],
+  "publisher": null,
+  "participants": [
+   {
+    "firstname": "Björn",
+    "lastname": "Carlberg",
+    "role": "Medverkande",
+    "profession": null
+   },
+   {
+    "firstname": "Jens",
+    "lastname": "Mattsson",
+    "role": "Författare",
+    "profession": null
+   },
+   {
+    "firstname": "Jenny",
+    "lastname": "Lucander",
+    "role": "Illustratör",
+    "profession": null
+   }
+  ],
+  "creditsUpdatedAt": null,
+  "productType": "program",
+  "duration": 880,
+  "seriesId": 242465,
+  "superSeriesId": 243379
+ },
+ "pedagogical": {
+  "product": {
+   "series": {
+    "id": 242465,
+    "title": "Lässugen - syntolkat",
+    "educationalDescription": "Genom spännande berättelser väcks barns intresse för böcker och läsning, samtidigt inspireras vuxna att läsa högt för barn i sin närhet. När man läser tillsammans väcks frågor och tankar som man kan prata om och ett möte uppstår. Serien visar också att alla slags människor läser och att böcker är till för alla. Serien är språkstärkande och passar extra bra när man är på väg att knäcka läskoden."
+   }
+  }
+ }
+}

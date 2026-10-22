@@ -1,0 +1,140 @@
+{
+ "accessibleEpisodes": [
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-03-01T01:00:00.000Z",
+     "endTime": "2099-10-05T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Bella älskar att rita och gör en teckning som föreställer en egen uppfinning. När den är klar blir hon lässugen! Men vem ska läsa för henne? Hon trollar och ut ur det magiska skåpet kommer Markus Granseth. Han var precis på väg upp till sin vind med en låda full med saker som man kan uppfinna roliga grejer med. Tillsammans uppfinner de en vindmaskin och sen sätter de sig i tältet och läser \"Räven som lärde sig cykla\" av Marcus-Gunnar Pettersson.",
+   "duration": 876,
+   "episodeNumber": 1,
+   "format": "video",
+   "id": 242469,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/242469/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/242469/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/242469/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/242469/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/242469/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/242469/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/242469/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/242469/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/242469/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/242469/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/242469/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/242469-lassugen-syntolkat-markus-granseth-laser-raven-som-larde-sig-cykla",
+   "mainGenre": "Intervju/samtal",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Markus Granseth läser Räven som lärde sig cykla",
+   "usp": "Svårt är inget hinder, man gör det bara ändå, tycker Markus."
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-03-01T01:00:00.000Z",
+     "endTime": "2099-10-05T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "Bella tror att den som bodde i hennes hus för längesen inte bara gillade böcker, det var någon som gillade att resa också. Hon hittar en gammal koffert. Vad finns i den? Gloria kommer på besök och tillsammans utforskar de vinden och så läser de en sorglig bok om två bröder där en blir svårt sjuk.",
+   "duration": 880,
+   "episodeNumber": 2,
+   "format": "video",
+   "id": 242470,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/242470/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/242470/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/242470/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/242470/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/242470/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/242470/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/242470/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/242470/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/242470/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/242470/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/242470/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/242470-lassugen-syntolkat-gloria-janman-laser-vi-ar-lajon",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Gloria Janman läser Vi är lajon!",
+   "usp": "Gloria läser en sorglig bok och kollar in den gamla skivsamlingen."
+  },
+  {
+   "accessiblePlatforms": {
+    "uraccess": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    },
+    "urplay": {
+     "startTime": "2026-03-01T01:00:00.000Z",
+     "endTime": "2099-10-05T21:59:00.000Z"
+    },
+    "urplayschool": {
+     "startTime": "2025-10-20T00:00:00.000Z",
+     "endTime": "2099-06-30T21:59:00.000Z"
+    }
+   },
+   "description": "När Bella ska städa på vinden är det tur att det finns magiska trollformler att ta till. Meira Omar tränar på ett dansnummer när hon plötsligt snurrar ut ur Bellas magiska skåp. Hon lär Bella sin dans och så läser de \"Kakorna är slut!\" av Ulrika Kestere - en bok om Pelle och Lollo som hatar att städa.",
+   "duration": 866,
+   "episodeNumber": 3,
+   "format": "video",
+   "id": 242468,
+   "image": {
+    "1280x720": "https://assets.ur.se/id/242468/images/1_hd.jpg",
+    "960x540": "https://assets.ur.se/id/242468/images/1_xl.jpg",
+    "640x360": "https://assets.ur.se/id/242468/images/1_l.jpg",
+    "480x270": "https://assets.ur.se/id/242468/images/1_ml.jpg",
+    "320x180": "https://assets.ur.se/id/242468/images/1.jpg",
+    "240x135": "https://assets.ur.se/id/242468/images/1_sm.jpg",
+    "160x90": "https://assets.ur.se/id/242468/images/1_s.jpg",
+    "128x72": "https://assets.ur.se/id/242468/images/1_t.jpg",
+    "64x36": "https://assets.ur.se/id/242468/images/1_u.jpg",
+    "360x360": "https://assets.ur.se/id/242468/images/1_sql.jpg",
+    "75x75": "https://assets.ur.se/id/242468/images/1_sq.jpg"
+   },
+   "isAudioDescribed": true,
+   "isSignLanguageInterpreted": false,
+   "isSingle": null,
+   "link": "/program/242468-lassugen-syntolkat-meira-omar-laser-kakorna-ar-slut",
+   "mainGenre": "Fiktiva berättelser",
+   "mainTitle": "Lässugen - syntolkat",
+   "productType": "program",
+   "publishDatePublic": null,
+   "timeLabel": null,
+   "title": "Meira Omar läser Kakorna är slut!",
+   "usp": "Meira lär Bella en dans och läser en bok om att smita från städningen."
+  }
+ ],
+ "upcomingEpisodes": []
+}

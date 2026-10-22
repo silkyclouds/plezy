@@ -1,0 +1,75 @@
+{
+ "id": 245516,
+ "title": "Nyhetskoll - Så fungerar valskärmen",
+ "seoTitle": "Nyhetskoll - Så fungerar valskärmen",
+ "format": "video",
+ "version": null,
+ "currentVersion": null,
+ "allVersions": [],
+ "isAudioDescribed": false,
+ "isSignLanguageInterpreted": false,
+ "parentalLock": false,
+ "platforms": [
+  "uraccess",
+  "urplay",
+  "urplayschool"
+ ],
+ "metadataLabels": [
+  "Nyheter",
+  "3 min"
+ ],
+ "about": {
+  "description": "I Valskärmen hittar ni resultaten från de två senaste valen, hur väljarna röstade på valdistriktsnivå och hur stort valdeltagandet var. Dessutom går det att bygga sin egen regering. Nyhetskolls Markus Aamisepp och SVT:s valreporter Fouad Youcefi förklarar hur Valskärmen fungerar och hur den kan användas i undervisningen. Valskärmen hittar du i lärarhandledningen nedan.",
+  "link": "/program/245516-nyhetskoll-sa-fungerar-valskarmen",
+  "linkUrl": "/nyhetskoll",
+  "keywords": [
+   "Politik",
+   "Samhällsvetenskap",
+   "Statskunskap",
+   "Val (statsvetenskap)"
+  ],
+  "productionYear": 2026,
+  "accessiblePlatforms": {
+   "uraccess": {
+    "startTime": "2026-10-14T06:00:00.000Z",
+    "endTime": "2099-10-14T09:50:00.000Z"
+   },
+   "urplay": {
+    "startTime": "2026-10-14T06:00:00.000Z",
+    "endTime": "2099-10-14T09:50:00.000Z"
+   },
+   "urplayschool": {
+    "startTime": "2026-10-14T06:00:00.000Z",
+    "endTime": "2099-10-14T09:50:00.000Z"
+   }
+  },
+  "internationalTitle": null,
+  "languagesTranslations": [
+   "Svenska"
+  ],
+  "subtitleLanguagesTranslations": [],
+  "publisher": null,
+  "participants": [
+   {
+    "firstname": "Markus",
+    "lastname": "Aamisepp",
+    "role": "Medverkande",
+    "profession": null
+   },
+   {
+    "firstname": "Fouad",
+    "lastname": "Youcefi",
+    "role": "Medverkande",
+    "profession": null
+   }
+  ],
+  "creditsUpdatedAt": null,
+  "productType": "program",
+  "duration": 190
+ },
+ "pedagogical": {
+  "product": {
+   "series": null
+  }
+ }
+}
