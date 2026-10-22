@@ -136,7 +136,7 @@ void main() {
         fail('Expected the sign-in to fail');
       } on ReplayAuthException catch (e) {
         expect(e.reason, ReplayAuthFailure.rejected);
-        expect(e.message, 'OVER_DEVICE_LIMIT');
+        expect(e.message, 'Red Bee: OVER_DEVICE_LIMIT');
       }
     });
 
