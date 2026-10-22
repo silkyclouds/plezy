@@ -1,0 +1,638 @@
+{
+ "data": {
+  "Featured": {
+   "panels": [
+    {
+     "title": "Hlaðborð",
+     "slug": "hladbord",
+     "type": "editorial",
+     "programs_count": 16,
+     "programs": [
+      {
+       "programID": 36160,
+       "title": "Fleiri pabbahelgar",
+       "foreign_title": null,
+       "slug": "fleiri-pabbahelgar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhcl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "aor501",
+         "scope": "Domestic",
+         "rating": 14,
+         "duration": 2923,
+         "firstrun": "2026-10-18T21:00:00",
+         "file_expires": "2034-11-01"
+        }
+       ]
+      },
+      {
+       "programID": 39532,
+       "title": "Svona er lífið",
+       "foreign_title": null,
+       "slug": "svona-er-lifid",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1NWT05BLUVSLUxJRklEX0tSSU5HTEEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1N2b25hLWVyLWxpZmlkX1ZPRC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "heimildarefni",
+         "title": "Heimildarefni"
+        },
+        {
+         "slug": "samfelag-og-mannlif",
+         "title": "Samfélag og mannlíf"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bp06m1",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 2179,
+         "firstrun": "2026-10-18T20:20:00",
+         "file_expires": "9999-12-31"
+        }
+       ]
+      },
+      {
+       "programID": 39932,
+       "title": "Við felldum múrana",
+       "foreign_title": null,
+       "slug": "vid-felldum-murana",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Rocm9za2FoamFscC01MC1hcmFfS1JJTkdMQS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Rocm9za2FoamFscC01MC1hcmEtVk9EXzEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "heimildarefni",
+         "title": "Heimildarefni"
+        },
+        {
+         "slug": "samfelag-og-mannlif",
+         "title": "Samfélag og mannlíf"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bsq8u1",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 4452,
+         "firstrun": "2026-10-20T20:15:00",
+         "file_expires": "9999-12-31"
+        }
+       ]
+      },
+      {
+       "programID": 36531,
+       "title": "Vaka",
+       "foreign_title": "Vaka",
+       "slug": "vaka",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zha2FfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zha2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ascc1h",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2587,
+         "firstrun": "2026-10-18T21:50:00",
+         "file_expires": "2027-02-20"
+        }
+       ]
+      },
+      {
+       "programID": 39910,
+       "title": "Raddir sem heyrast ekki",
+       "foreign_title": null,
+       "slug": "raddir-sem-heyrast-ekki",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1JhZGRpcl9zZW1faGV5cmFzdF9la2tpX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1JhZGRpcl9zZW1faGV5cmFzdF9la2tpLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "heimildarefni",
+         "title": "Heimildarefni"
+        },
+        {
+         "slug": "ungt-folk",
+         "title": "Ungt fólk"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bsji31",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 758,
+         "firstrun": "2026-10-21T20:15:00",
+         "file_expires": "2027-10-21"
+        }
+       ]
+      },
+      {
+       "programID": 38532,
+       "title": "Kiljan",
+       "foreign_title": null,
+       "slug": "kiljan",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tpbGphbl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tpbGphbi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "heimildarefni",
+         "title": "Heimildarefni"
+        },
+        {
+         "slug": "menning",
+         "title": "Menning"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bff124",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 2907,
+         "firstrun": "2026-10-21T20:30:00",
+         "file_expires": "9999-12-31"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Leiknar þáttaraðir",
+     "slug": "leiknar-thattaradir",
+     "type": "editorial",
+     "programs_count": 50,
+     "programs": [
+      {
+       "programID": 37908,
+       "title": "Fjölskyldur eins og okkar",
+       "foreign_title": "Familier som vores",
+       "slug": "fjolskyldur-eins-og-okkar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZhbWlsaWVyX3NvbV92b3Jlc19MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZhbWlsaWVyX3NvbV92b3Jlcy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "b9gja1",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 3000,
+         "firstrun": "2026-10-21T07:00:00",
+         "file_expires": "2027-01-19"
+        }
+       ]
+      },
+      {
+       "programID": 36531,
+       "title": "Vaka",
+       "foreign_title": "Vaka",
+       "slug": "vaka",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zha2FfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zha2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ascc1h",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2587,
+         "firstrun": "2026-10-18T21:50:00",
+         "file_expires": "2027-02-20"
+        }
+       ]
+      },
+      {
+       "programID": 36160,
+       "title": "Fleiri pabbahelgar",
+       "foreign_title": null,
+       "slug": "fleiri-pabbahelgar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhcl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "aor501",
+         "scope": "Domestic",
+         "rating": 14,
+         "duration": 2923,
+         "firstrun": "2026-10-18T21:00:00",
+         "file_expires": "2034-11-01"
+        }
+       ]
+      },
+      {
+       "programID": 28022,
+       "title": "Pabbahelgar",
+       "foreign_title": null,
+       "slug": "pabbahelgar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhiN2tiMC1hYnM1bWcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzLzhiN2tiMC01NGFsYjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "8b7kb1",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2580,
+         "firstrun": "2019-10-06T21:20:00",
+         "file_expires": "2029-01-01"
+        }
+       ]
+      },
+      {
+       "programID": 36629,
+       "title": "Málagjöld",
+       "foreign_title": "Payback",
+       "slug": "malagjold",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1BheWJhY2tfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1BheWJhY2suanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ata92h",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2760,
+         "firstrun": "2026-10-15T07:00:00",
+         "file_expires": "2027-01-13"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Vinsælast",
+     "slug": "vinsaelast",
+     "type": "logic",
+     "programs_count": 35,
+     "programs": [
+      {
+       "programID": 36629,
+       "title": "Málagjöld",
+       "foreign_title": "Payback",
+       "slug": "malagjold",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1BheWJhY2tfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1BheWJhY2suanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ata92m",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2760,
+         "firstrun": "2026-10-15T12:00:00",
+         "file_expires": "2027-01-13"
+        }
+       ]
+      },
+      {
+       "programID": 38535,
+       "title": "Vikan með Gísla Marteini",
+       "foreign_title": null,
+       "slug": "vikan-med-gisla-marteini",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2FuX0xTX21iQXU0Q0MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2FuX0cxQ0kyUjYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "samfelag-og-mannlif",
+         "title": "Samfélag og mannlíf"
+        },
+        {
+         "slug": "skemmtiefni",
+         "title": "Skemmtiefni"
+        },
+        {
+         "slug": "spjallthaettir",
+         "title": "Spjallþættir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bffubk",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 4087,
+         "firstrun": "2026-10-16T20:20:00",
+         "file_expires": "9999-12-31"
+        }
+       ]
+      },
+      {
+       "programID": 39455,
+       "title": "Kastljós",
+       "foreign_title": null,
+       "slug": "kastljos",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0thc3Rsam9zLU55dHQtdXRsaXQtS3JpbmdsYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0thc3Rsam9zLVZPRC0xMjgweDE5MjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "frettatengt-efni",
+         "title": "Fréttatengt efni"
+        },
+        {
+         "slug": "menning",
+         "title": "Menning"
+        },
+        {
+         "slug": "samfelag-og-mannlif",
+         "title": "Samfélag og mannlíf"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bo8mol",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 1586,
+         "firstrun": "2026-10-21T19:45:00",
+         "file_expires": "9999-12-31"
+        }
+       ]
+      },
+      {
+       "programID": 36160,
+       "title": "Fleiri pabbahelgar",
+       "foreign_title": null,
+       "slug": "fleiri-pabbahelgar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhcl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "aor501",
+         "scope": "Domestic",
+         "rating": 14,
+         "duration": 2923,
+         "firstrun": "2026-10-18T21:00:00",
+         "file_expires": "2034-11-01"
+        }
+       ]
+      },
+      {
+       "programID": 28022,
+       "title": "Pabbahelgar",
+       "foreign_title": null,
+       "slug": "pabbahelgar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhiN2tiMC1hYnM1bWcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzLzhiN2tiMC01NGFsYjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "8b7kb6",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2580,
+         "firstrun": "2019-11-10T21:05:00",
+         "file_expires": "2029-01-02"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Kvikmyndir",
+     "slug": "kvikmyndir",
+     "type": "category",
+     "programs_count": 50,
+     "programs": [
+      {
+       "programID": 34599,
+       "title": "Agnes",
+       "foreign_title": null,
+       "slug": "agnes",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FnbmVzX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FnbmVzXzFDNzNNSWwuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "a9uorh",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 6051,
+         "firstrun": "2026-10-17T22:55:00",
+         "file_expires": "2026-11-16"
+        }
+       ]
+      },
+      {
+       "programID": 39625,
+       "title": "Á grundvelli kynferðis",
+       "foreign_title": "On the Basis of Sex",
+       "slug": "a-grundvelli-kynferdis",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL09uX3RoZV9iYXNpc19vZl9zZXhfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL09uX3RoZV9iYXNpc19vZl9zZXguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bpsish",
+         "scope": "Domestic",
+         "rating": 0,
+         "duration": 6905,
+         "firstrun": "2026-10-17T20:55:00",
+         "file_expires": "2027-01-15"
+        }
+       ]
+      },
+      {
+       "programID": 36345,
+       "title": "Fallið er hátt",
+       "foreign_title": "Anatomie d'une chute",
+       "slug": "fallid-er-hatt",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FuYXRvbXlfb2ZfYV9mYWxsX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FuYXRvbXlfb2ZfYV9mYWxsLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "aqjjkh",
+         "scope": "Domestic",
+         "rating": 14,
+         "duration": 8718,
+         "firstrun": "2026-10-11T21:40:00",
+         "file_expires": "2027-01-09"
+        }
+       ]
+      },
+      {
+       "programID": 39796,
+       "title": "Manglehorn",
+       "foreign_title": "Manglehorn",
+       "slug": "manglehorn",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01hbmdsZWhvcm5fTFMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01hbmdsZWhvcm4uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "brgoq1",
+         "scope": "Domestic",
+         "rating": 9,
+         "duration": 5606,
+         "firstrun": "2026-10-10T22:25:00",
+         "file_expires": "2027-10-10"
+        }
+       ]
+      },
+      {
+       "programID": 34778,
+       "title": "Í takt við tímann",
+       "foreign_title": "Íslenskt bíóhaust",
+       "slug": "i-takt-vid-timann",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lfdGFrdF92aWRfdGltYW5uLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ablct1",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 5289,
+         "firstrun": "2026-10-10T20:55:00",
+         "file_expires": "2027-01-08"
+        }
+       ]
+      },
+      {
+       "programID": 39696,
+       "title": "Stormar og stríð",
+       "foreign_title": "The Sand Pebbles",
+       "slug": "stormar-og-strid",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1RoZS1TYW5kLVBlYmJsZXNfTFNfaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1RoZS1TYW5kLVBlYmJsZXNfaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bqi881",
+         "scope": "Domestic",
+         "rating": 12,
+         "duration": 10301,
+         "firstrun": "2026-10-04T21:25:00",
+         "file_expires": "2027-01-02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

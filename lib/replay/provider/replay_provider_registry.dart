@@ -11,6 +11,7 @@ import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
 import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
+import '../providers/ruv/ruv_provider.dart';
 import '../providers/svtplay/svtplay_provider.dart';
 import '../providers/ted/ted_provider.dart';
 import '../providers/tf1plus/tf1plus_provider.dart';
@@ -175,6 +176,13 @@ const replaySourceInfos = [
     country: 'DE',
     languages: ['de'],
   ),
+  ReplaySourceInfo(
+    id: 'ruv',
+    name: 'RÚV',
+    support: ReplayPlaybackSupport.partial,
+    country: 'IS',
+    languages: ['is'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -227,6 +235,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
       'zdfmediathek' => ZdfMediathekProvider(http),
+      'ruv' => RuvProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

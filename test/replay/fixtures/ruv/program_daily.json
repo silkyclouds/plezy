@@ -1,0 +1,154 @@
+{
+ "data": {
+  "Program": {
+   "programID": 32541,
+   "slug": "landinn",
+   "title": "Landinn",
+   "description": "Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk jafnt í borg sem sveit og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Hafsteinn Vilhelmsson, Sigrún Þuríður Runólfsdóttir og Þórdís Claessen. Dagskrárgerð: Magnús Atli Magnússon, Jóhannes Jónsson, Björgvin Kolbeinsson og Elfar Örn Egilsson.",
+   "short_description": null,
+   "foreign_title": null,
+   "format": "tv",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzL2FrN282Zy1rbmtzMmcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzL2FrN282Zy1ndjcycDguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "reverse_episode_order": false,
+   "categories": [
+    {
+     "slug": "samfelag-og-mannlif",
+     "title": "Samfélag og mannlíf"
+    },
+    {
+     "slug": "menntaruv",
+     "title": "MenntaRÚV"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "ak7o71",
+     "title": "Landinn 26. maí 2024",
+     "description": "Í Landanum í kvöld veltum við okkur upp úr minningum, við minnumst lika hjólhýsabyggðar sem var, við fylgjumst með störfum skálavarða í Þórsmörk og við kynnum okkur Flotann, færanlega félagsmiðstöð sem hefur mikilvægu hlutverki að gegna.",
+     "duration": 1620,
+     "firstrun": "2024-05-26T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5350757T0/5350757T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5350757T0.mp4"
+      }
+     ],
+     "number": 17,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01pbm5pbmdhcl8xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    },
+    {
+     "id": "ak7o70",
+     "title": "Landinn 19. maí 2024",
+     "description": "Í Landanum í kvöld fylgjumst við með strandveiðum við Grundarfjörð, við hittum íslensk fermingarbörn í Noregi, við kynnumst verktaka á Breiðdalsvík sem keypti sína fyrstu vinnuvél 1966 og hefur verið að síðan og við förum á ljósmyndasýningu um hjólhýsabyggð.",
+     "duration": 1589,
+     "firstrun": "2024-05-19T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5350756T0/5350756T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": true,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5350756T0.mp4"
+      }
+     ],
+     "number": 16,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0hvZm5fMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0="
+    },
+    {
+     "id": "ak7o6v",
+     "title": "Landinn 12. maí 2024",
+     "description": "Í Landanum í kvöld fylgjum við stórum hópi Íslendinga á kóramóti í Þrándheimi, hittum hjón sem sameinast i ástríðu á smíðum og gera upp hús á Ísafirði, tökum stöðuna á tjaldsvæðinu á Hömrum og lokum Færeyjum vegna viðhaldsvinnu.",
+     "duration": 1973,
+     "firstrun": "2024-05-12T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5350755T0/5350755T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": true,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5350755T0.mp4"
+      }
+     ],
+     "number": 15,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tvcmFtb3RfN19xdkpEM3N2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    },
+    {
+     "id": "a00fah",
+     "title": "24. september 2023",
+     "description": "Landinn kitlar nostalgíutaugarnar og við kynnumst störfum Samvinnufélags útgerðamanna í Neskaupstað. Við rekum fé í Fjörður og aftur tilbaka og einnig hittum við málara í tjaldi.",
+     "duration": 1935,
+     "firstrun": "2023-09-24T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5321803T0/5321803T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5321803T0.mp4"
+      }
+     ],
+     "number": 17,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzL2EwMGZhaC1yOWtiZ2cuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "a00fag",
+     "title": "21. maí 2023",
+     "description": "Landinn fer í leiðangur upp á Snæfellsjökul að leita að miðju jarðar. Við förum í húsdýragarðinn á Hraðastöðum í Mosfellsdal, tökum myndir af fuglum, förum á strandveiðar og heimsækjum listamanninn Drenginn fenginn á Akureyri.",
+     "duration": 1739,
+     "firstrun": "2023-05-21T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5305051T0/5305051T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": true,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5305051T0.mp4"
+      }
+     ],
+     "number": 16,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzL2EwMGZhZy1sZmE0Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0="
+    },
+    {
+     "id": "a00faf",
+     "title": "14. maí 2023",
+     "description": "Landinn bakar súrdeigsbrauð með nemendum í Dalvíkurskóla. Við fylgjum mæðginunum á Þambárvöllum í Bitrufirði í skólann en þau fara 160 km. í skólabílnum á hverjum virkum degi. Við skoðum sérútbúinn leitardróna hjá Björgunarfélagi Akraness, hittum leiðsögumann sem gerðist þjóðgarðsvörður á Hawaii og svo hlöðum við upp gamla kúahlöðu í Fljótsdal.",
+     "duration": 1651,
+     "firstrun": "2023-05-14T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5300121T0/5300121T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5300121T0.mp4"
+      }
+     ],
+     "number": 15,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzL2EwMGZhZi1rcWc4czguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    }
+   ]
+  }
+ }
+}

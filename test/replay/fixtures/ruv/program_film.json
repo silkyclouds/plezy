@@ -1,0 +1,45 @@
+{
+ "data": {
+  "Program": {
+   "programID": 34778,
+   "slug": "i-takt-vid-timann",
+   "title": "Í takt við tímann",
+   "description": "Gamanmynd frá 2004 úr smiðju Stuðmanna. Myndin segir að mestu frá sömu persónum og komu fram í Með allt á hreinu en nú eru þær rúmum tveimur áratugum eldri. Engum þeirra hefur tekist að slá í gegn nema kannski rótaranum Dúdda sem hefur snúið sér að andlegum málefnum. Harpa Sjöfn og Kristinn Styrkársson Proppé eiga enn í nokkuð spennuþrungnum samskiptum. Leikstjóri: Ágúst Guðmundsson. Aðalhlutverk: Egill Ólafsson, Ragnhildur Gísladóttir, Eggert Þorleifsson, Jakob Frímann Magnússon, Ásgeir Óskarsson, Tómas M. Tómasson, Þórður Árnason og Höskuldur Ólafsson.",
+   "short_description": null,
+   "foreign_title": "Íslenskt bíóhaust",
+   "format": "tv",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lfdGFrdF92aWRfdGltYW5uLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "reverse_episode_order": false,
+   "categories": [
+    {
+     "slug": "kvikmyndir",
+     "title": "Kvikmyndir"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "ablct1",
+     "title": "",
+     "description": "",
+     "duration": 5289,
+     "firstrun": "2026-10-10T20:55:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5509855-KDORCG/5509855-KDORCG.m3u8",
+     "rating": 0,
+     "file_expires": "2027-01-08",
+     "open_subtitles": true,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5509855-KDORCG.mp4"
+      }
+     ],
+     "number": 1,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    }
+   ]
+  }
+ }
+}

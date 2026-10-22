@@ -1,0 +1,112 @@
+{
+ "data": {
+  "Program": {
+   "programID": 34266,
+   "slug": "kuldi",
+   "title": "Kuldi",
+   "description": "Hrollvekjandi þættir byggðir á metsölubók Yrsu Sigurðardóttur. Óhugnanlegir atburðir skekja tilveru Óðins og dóttur hans eftir að Óðinn byrjar að rannsaka áratugagömul dauðsföll á upptökuheimili fyrir unglinga. Aðalhlutverk: Jóhannes Haukur Jóhannesson, Ólöf Halla Jóhannesdóttir og Elín Hall. Leikstjóri: Erlingur Thoroddsen. Þættirnir eru ekki við hæfi barna yngri en 16 ára.",
+   "short_description": null,
+   "foreign_title": null,
+   "format": "tv",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tVTERJLUtSSU5HTEEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tVTERJLVZPRC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "reverse_episode_order": true,
+   "categories": [
+    {
+     "slug": "kvikmyndir",
+     "title": "Kvikmyndir"
+    },
+    {
+     "slug": "leikid-efni",
+     "title": "Leikið efni"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "a6p4t1",
+     "title": "Þáttur 1 af 4",
+     "description": "Óðinn er einstæður faðir sem reynir að tengjast dóttur sinni á sama tíma og hann rannsakar dularfull dauðsföll drengja á vistheimilinu Króki á níunda áratugnum.",
+     "duration": 2640,
+     "firstrun": "2025-04-17T22:15:00",
+     "scope": "Domestic",
+     "file": "https://ruv-vod.akamaized.net/lokad/5499785T0/5499785T0.m3u8",
+     "rating": 16,
+     "file_expires": "2026-11-20",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5499785T0.mp4"
+      }
+     ],
+     "number": 1,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2UwMV9zb0lSUlcxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    },
+    {
+     "id": "a6p4t2",
+     "title": "Þáttur 2 af 4",
+     "description": "Undarleg hegðun Rúnar veldur Óðni áhyggjum en rannsóknin á hug hans allan og hann gefur sér ekki tíma til að aðstoða hana.",
+     "duration": 2666,
+     "firstrun": "2025-04-18T22:00:00",
+     "scope": "Domestic",
+     "file": "https://ruv-vod.akamaized.net/lokad/5499786T0/5499786T0.m3u8",
+     "rating": 16,
+     "file_expires": "2026-11-20",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5499786T0.mp4"
+      }
+     ],
+     "number": 2,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2UwMl84ZGU3V0daLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    },
+    {
+     "id": "a6p4t3",
+     "title": "Þáttur 3 af 4",
+     "description": "Óðinn heldur áfram að bægja frá sér vandamálunum heima fyrir. Hann kafar dýpra í ráðgátuna á Króki sem verður sífellt flóknari eftir því sem hann uppgötvar meira.",
+     "duration": 2404,
+     "firstrun": "2025-04-19T22:35:00",
+     "scope": "Domestic",
+     "file": "https://ruv-vod.akamaized.net/lokad/5499787T0/5499787T0.m3u8",
+     "rating": 16,
+     "file_expires": "2026-11-20",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5499787T0.mp4"
+      }
+     ],
+     "number": 3,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2UwM193UlB3TmUyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    },
+    {
+     "id": "a6p4t4",
+     "title": "Þáttur 4 af 4",
+     "description": "Óðinn kemst að óhugnanlegri tengingu atburðanna á Króki við hans eigið líf. Þegar Aldís reynir að flýja heimilið setur hún óvart af stað afdrifaríka atburðarás.",
+     "duration": 2219,
+     "firstrun": "2025-04-20T22:00:00",
+     "scope": "Domestic",
+     "file": "https://ruv-vod.akamaized.net/lokad/5408623T0/5408623T0.m3u8",
+     "rating": 16,
+     "file_expires": "2026-11-20",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5408623T0.mp4"
+      }
+     ],
+     "number": 4,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2UwNF9GeDU4YnlxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    }
+   ]
+  }
+ }
+}

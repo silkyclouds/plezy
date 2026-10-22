@@ -1,0 +1,64 @@
+{
+ "data": {
+  "Category": {
+   "categories": [
+    {
+     "title": "Annað",
+     "slug": "annad"
+    },
+    {
+     "title": "Fréttatengt efni",
+     "slug": "frettatengt-efni"
+    },
+    {
+     "title": "Heimildarefni",
+     "slug": "heimildarefni"
+    },
+    {
+     "title": "Íþróttir",
+     "slug": "ithrottir"
+    },
+    {
+     "title": "KrakkaRÚV",
+     "slug": "krakkaruv"
+    },
+    {
+     "title": "Kvikmyndir",
+     "slug": "kvikmyndir"
+    },
+    {
+     "title": "Leikið efni",
+     "slug": "leikid-efni"
+    },
+    {
+     "title": "Listir",
+     "slug": "listir"
+    },
+    {
+     "title": "Menning",
+     "slug": "menning"
+    },
+    {
+     "title": "MenntaRÚV",
+     "slug": "menntaruv"
+    },
+    {
+     "title": "Samfélag og mannlíf",
+     "slug": "samfelag-og-mannlif"
+    },
+    {
+     "title": "Skemmtiefni",
+     "slug": "skemmtiefni"
+    },
+    {
+     "title": "Spjallþættir",
+     "slug": "spjallthaettir"
+    },
+    {
+     "title": "Ungt fólk",
+     "slug": "ungt-folk"
+    }
+   ]
+  }
+ }
+}

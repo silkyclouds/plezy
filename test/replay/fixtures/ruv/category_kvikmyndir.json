@@ -1,0 +1,292 @@
+{
+ "data": {
+  "Category": {
+   "categories": [
+    {
+     "title": "Kvikmyndir",
+     "slug": "kvikmyndir",
+     "programs": [
+      {
+       "programID": 34599,
+       "title": "Agnes",
+       "foreign_title": null,
+       "slug": "agnes",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FnbmVzX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FnbmVzXzFDNzNNSWwuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "a9uorh",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 6051,
+         "firstrun": "2026-10-17T22:55:00",
+         "file_expires": "2026-11-16"
+        }
+       ]
+      },
+      {
+       "programID": 39625,
+       "title": "Á grundvelli kynferðis",
+       "foreign_title": "On the Basis of Sex",
+       "slug": "a-grundvelli-kynferdis",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL09uX3RoZV9iYXNpc19vZl9zZXhfTFMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL09uX3RoZV9iYXNpc19vZl9zZXguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bpsish",
+         "scope": "Domestic",
+         "rating": 0,
+         "duration": 6905,
+         "firstrun": "2026-10-17T20:55:00",
+         "file_expires": "2027-01-15"
+        }
+       ]
+      },
+      {
+       "programID": 36345,
+       "title": "Fallið er hátt",
+       "foreign_title": "Anatomie d'une chute",
+       "slug": "fallid-er-hatt",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FuYXRvbXlfb2ZfYV9mYWxsX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FuYXRvbXlfb2ZfYV9mYWxsLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "aqjjkh",
+         "scope": "Domestic",
+         "rating": 14,
+         "duration": 8718,
+         "firstrun": "2026-10-11T21:40:00",
+         "file_expires": "2027-01-09"
+        }
+       ]
+      },
+      {
+       "programID": 39796,
+       "title": "Manglehorn",
+       "foreign_title": "Manglehorn",
+       "slug": "manglehorn",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01hbmdsZWhvcm5fTFMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01hbmdsZWhvcm4uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "brgoq1",
+         "scope": "Domestic",
+         "rating": 9,
+         "duration": 5606,
+         "firstrun": "2026-10-10T22:25:00",
+         "file_expires": "2027-10-10"
+        }
+       ]
+      },
+      {
+       "programID": 34778,
+       "title": "Í takt við tímann",
+       "foreign_title": "Íslenskt bíóhaust",
+       "slug": "i-takt-vid-timann",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lfdGFrdF92aWRfdGltYW5uLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ablct1",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 5289,
+         "firstrun": "2026-10-10T20:55:00",
+         "file_expires": "2027-01-08"
+        }
+       ]
+      },
+      {
+       "programID": 39696,
+       "title": "Stormar og stríð",
+       "foreign_title": "The Sand Pebbles",
+       "slug": "stormar-og-strid",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1RoZS1TYW5kLVBlYmJsZXNfTFNfaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1RoZS1TYW5kLVBlYmJsZXNfaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "bqi881",
+         "scope": "Domestic",
+         "rating": 12,
+         "duration": 10301,
+         "firstrun": "2026-10-04T21:25:00",
+         "file_expires": "2027-01-02"
+        }
+       ]
+      },
+      {
+       "programID": 28169,
+       "title": "Mömmufrí",
+       "foreign_title": "Fun Mom Dinner",
+       "slug": "mommufri",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0Z1bl9Nb21fRGlubmVyX0xTLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0Z1bl9Nb21fRGlubmVyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "8ckfsh",
+         "scope": "Domestic",
+         "rating": 12,
+         "duration": 4707,
+         "firstrun": "2026-10-03T22:40:00",
+         "file_expires": "2026-11-02"
+        }
+       ]
+      },
+      {
+       "programID": 34779,
+       "title": "Hvítir mávar",
+       "foreign_title": null,
+       "slug": "hvitir-mavar",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0h2aXRpcl9tYXZhcl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0h2aXRpcl9tYXZhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "ablmlh",
+         "scope": "Global",
+         "rating": 0,
+         "duration": 6046,
+         "firstrun": "2026-10-03T20:55:00",
+         "file_expires": "2027-01-01"
+        }
+       ]
+      },
+      {
+       "programID": 34266,
+       "title": "Kuldi",
+       "foreign_title": null,
+       "slug": "kuldi",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tVTERJLUtSSU5HTEEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tVTERJLVZPRC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+       "categories": [
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        },
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "a6p4t4",
+         "scope": "Domestic",
+         "rating": 16,
+         "duration": 2219,
+         "firstrun": "2025-04-20T22:00:00",
+         "file_expires": "2026-11-20"
+        }
+       ]
+      },
+      {
+       "programID": 24972,
+       "title": "Gullregn",
+       "foreign_title": null,
+       "slug": "gullregn",
+       "short_description": null,
+       "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzdlNHI2MC00bGoyZ28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzLzdlNHI2MC04a3JqcTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+       "categories": [
+        {
+         "slug": "leikid-efni",
+         "title": "Leikið efni"
+        },
+        {
+         "slug": "kvikmyndir",
+         "title": "Kvikmyndir"
+        }
+       ],
+       "episodes": [
+        {
+         "id": "7e4r63",
+         "scope": "Domestic",
+         "rating": 0,
+         "duration": 2830,
+         "firstrun": "2021-01-10T21:00:00",
+         "file_expires": "2026-12-15"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

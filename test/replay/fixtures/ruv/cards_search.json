@@ -1,0 +1,333 @@
+{
+ "data": {
+  "a0": {
+   "programID": 30712,
+   "title": "Krakkafréttir",
+   "foreign_title": null,
+   "slug": "krakkafrettir",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfMjAyNl9rcmluZ2x1bXluZC5vcmlnaW5hbC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfMjAyNl9WT0Qub3JpZ2luYWwuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "categories": [
+    {
+     "slug": "frettatengt-efni",
+     "title": "Fréttatengt efni"
+    },
+    {
+     "slug": "krakkaruv",
+     "title": "KrakkaRÚV"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "bg4mhe",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 300,
+     "firstrun": "2026-10-21T18:20:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "bg4mhd",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 300,
+     "firstrun": "2026-10-20T18:20:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a1": {
+   "programID": 38792,
+   "title": "Krakkafréttir (með táknmálstúlkun)",
+   "foreign_title": null,
+   "slug": "krakkafrettir-med-taknmalstulkun",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfMjAyNl9rcmluZ2x1bXluZC5vcmlnaW5hbC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfMjAyNl9WT0Qub3JpZ2luYWwuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "categories": [
+    {
+     "slug": "frettatengt-efni",
+     "title": "Fréttatengt efni"
+    },
+    {
+     "slug": "krakkaruv",
+     "title": "KrakkaRÚV"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "bhuc7u",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 307,
+     "firstrun": "2026-10-21T18:20:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "bhuc7t",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 300,
+     "firstrun": "2026-10-20T18:20:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a2": {
+   "programID": 36708,
+   "title": "Náttúran kallar",
+   "foreign_title": null,
+   "slug": "natturan-kallar",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL05hdHR1cmFua2FsbGFyXzE5MjB4MTA4MF9wb3N0ZXJfMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL05hdHR1cmFua2FsbGFyXzEyODB4MTkyMF9wb3N0ZXJfMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "categories": [
+    {
+     "slug": "heimildarefni",
+     "title": "Heimildarefni"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "au2ci6",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 2388,
+     "firstrun": "2026-04-12T20:15:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "au2ci5",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 2265,
+     "firstrun": "2026-03-29T20:20:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a3": {
+   "programID": 37117,
+   "title": "Krakkafréttir (með táknmálstúlkun)",
+   "foreign_title": null,
+   "slug": "krakkafrettir-med-taknmalstulkun",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfa3JpbmdsdW15bmQtMjAyNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0tyYWtrYWZyZXR0aXJfVk9ELTIwMjRfLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "categories": [
+    {
+     "slug": "frettatengt-efni",
+     "title": "Fréttatengt efni"
+    },
+    {
+     "slug": "krakkaruv",
+     "title": "KrakkaRÚV"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "b1v6r3",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 307,
+     "firstrun": "2025-12-23T18:20:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "b1v6r2",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 304,
+     "firstrun": "2025-12-22T18:20:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a4": {
+   "programID": 33853,
+   "title": "Vegur að heiman",
+   "foreign_title": null,
+   "slug": "vegur-ad-heiman",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1ZlZ3VyX2FkX2hlaW1hbl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1ZlZ3VyX2FkX2hlaW1hbi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "categories": [
+    {
+     "slug": "heimildarefni",
+     "title": "Heimildarefni"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "a2r3mm",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 2213,
+     "firstrun": "2024-12-09T20:05:00",
+     "file_expires": "2027-04-26"
+    },
+    {
+     "id": "a2r3ml",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 2146,
+     "firstrun": "2024-12-02T20:05:00",
+     "file_expires": "2027-04-26"
+    }
+   ]
+  },
+  "a5": {
+   "programID": 29111,
+   "title": "Náttúran mín",
+   "foreign_title": null,
+   "slug": "natturan-min",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhsanYzZy1ndG52dWcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzLzhsanYzZy1xMmc5M2cuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "categories": [
+    {
+     "slug": "heimildarefni",
+     "title": "Heimildarefni"
+    },
+    {
+     "slug": "samfelag-og-mannlif",
+     "title": "Samfélag og mannlíf"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "8ljv3k",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 1620,
+     "firstrun": "2022-08-28T20:10:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "8ljv3j",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 1532,
+     "firstrun": "2022-08-21T19:45:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a6": {
+   "programID": 30780,
+   "title": "Vikan með Gísla Marteini",
+   "foreign_title": null,
+   "slug": "vikan-med-gisla-marteini",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzk1aDl1MC1nZ29tc2cuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "",
+   "categories": [
+    {
+     "slug": "menning",
+     "title": "Menning"
+    },
+    {
+     "slug": "samfelag-og-mannlif",
+     "title": "Samfélag og mannlíf"
+    },
+    {
+     "slug": "skemmtiefni",
+     "title": "Skemmtiefni"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "95h9v1",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 2700,
+     "firstrun": "2021-12-30T21:40:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "95h9v0",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 4053,
+     "firstrun": "2021-12-17T21:20:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  },
+  "a7": {
+   "programID": 27959,
+   "title": "Hringfarinn - aldrei hætta að þora",
+   "foreign_title": null,
+   "slug": "hringfarinn-aldrei-haetta-ad-thora",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0hyaW5nZmFyaW5uXzE5MjB4MTA4MF9VbWh2ZXJmaXNfSm9yZGluYV9TZXJpYV8xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0hyaW5nZmFyaW5uXzEyODB4MTkyMF9VbWh2ZXJmaXNfSm9yZGluYV9TZXJpYV8xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "categories": [
+    {
+     "slug": "heimildarefni",
+     "title": "Heimildarefni"
+    },
+    {
+     "slug": "samfelag-og-mannlif",
+     "title": "Samfélag og mannlíf"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "8akd3j",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 3000,
+     "firstrun": "2018-12-13T20:30:00",
+     "file_expires": "2033-01-01"
+    },
+    {
+     "id": "8akd3i",
+     "scope": "Global",
+     "rating": 0,
+     "duration": 3000,
+     "firstrun": "2018-12-06T21:05:00",
+     "file_expires": "2033-01-01"
+    }
+   ]
+  },
+  "a8": {
+   "programID": 26307,
+   "title": "Með Bólu",
+   "foreign_title": null,
+   "slug": "med-bolu",
+   "short_description": null,
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzdxczg5Zy1hcDV0bjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "",
+   "categories": [
+    {
+     "slug": "leikid-efni",
+     "title": "Leikið efni"
+    },
+    {
+     "slug": "krakkaruv",
+     "title": "KrakkaRÚV"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "7qs89p",
+     "scope": "Domestic",
+     "rating": 0,
+     "duration": 480,
+     "firstrun": "2018-01-19T05:51:00",
+     "file_expires": "9999-12-31"
+    },
+    {
+     "id": "7qs89o",
+     "scope": "Domestic",
+     "rating": 0,
+     "duration": 480,
+     "firstrun": "2018-01-19T05:50:00",
+     "file_expires": "9999-12-31"
+    }
+   ]
+  }
+ }
+}

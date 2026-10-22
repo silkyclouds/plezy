@@ -1,0 +1,33 @@
+{
+ "data": {
+  "Program": {
+   "programID": 39455,
+   "title": "Kastljós",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0thc3Rsam9zLU55dHQtdXRsaXQtS3JpbmdsYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0thc3Rsam9zLVZPRC0xMjgweDE5MjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "episodes": [
+    {
+     "id": "bo8mok",
+     "title": "Gervigreind og vinnumarkaður, Samhjálp enn á hrakhólum, Karlakór Eyjafjarðar 30 ára",
+     "description": "Gervigreind er þegar farin að hafa áhrif á hvernig við vinnum og spáð er að áhrif hennar á vinnumarkaðinn eigi eftir að verða víðtæk. En hverjir hagnast á því og hverjir tapa? Verður gervigreind til þess að draga úr ójöfnuði, auka hann eða búa jafnvel til nýja tegund ójöfnuðar? Guðbjörg Linda Rafnsdóttir, prófessor í félagsfræði við HÍ, og Kristín Heba Gísladóttir, framkvæmdastjóri Vörður, ræða áhrif gervigreindar á vinnumarkað og réttlát umskipti.\n\n\n\nEnn sér ekki fyrir endann á húsnæðisvandræðum Samhjálpar. Ár er síðan kaffistofa samtakanna missti húsnæði sitt í Borgartúni. Framkvæmdir við húsnæði á Grensásvegi, sem Samhjálp fær ekki að nota, hafa kostað samtökin 70 milljónir króna.\n\n\n\nKarlakór Eyjafjarðar á 30 ára afmæli og heldur upp á það með stórtónleikum. Við lítum á æfingu.",
+     "duration": 1553,
+     "firstrun": "2026-10-20T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5501902-EKJFEA/5501902-EKJFEA.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5501902-EKJFEA.mp4"
+      }
+     ],
+     "number": 36,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0thcmxha29yX01JWDIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    }
+   ]
+  }
+ }
+}

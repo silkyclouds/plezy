@@ -1,0 +1,33 @@
+{
+ "data": {
+  "Program": {
+   "programID": 36160,
+   "title": "Fleiri pabbahelgar",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhcl9MUy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0ZsZWlyaV9wYWJiYWhlbGdhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMCwiaGVpZ2h0Ijo3NTB9LCJ0b0Zvcm1hdCI6IndlYnAifX0=",
+   "episodes": [
+    {
+     "id": "aor501",
+     "title": "Þáttur 1 af 6",
+     "description": "Karen heldur upp á afmælið sitt með stæl. Vöntun á víni setur stórt strik í reikninginn þangað til óvæntur gestur reddar málunum.",
+     "duration": 2923,
+     "firstrun": "2026-10-18T21:00:00",
+     "scope": "Domestic",
+     "file": "https://ruv-vod.akamaized.net/lokad/5502167-MPL3IC/5502167-MPL3IC.m3u8",
+     "rating": 14,
+     "file_expires": "2034-11-01",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5502167-MPL3IC.mp4"
+      }
+     ],
+     "number": 1,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzFfd1k1VjJOdC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1NDB9LCJ0b0Zvcm1hdCI6IndlYnAifX0="
+    }
+   ]
+  }
+ }
+}

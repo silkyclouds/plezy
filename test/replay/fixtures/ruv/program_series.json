@@ -1,0 +1,150 @@
+{
+ "data": {
+  "Program": {
+   "programID": 29393,
+   "slug": "kappsmal-ii",
+   "title": "Kappsmál II",
+   "description": "Skemmtiþáttur um íslenska tungu í umsjón Bjargar Magnúsdóttur og Braga Valdimars Skúlasonar. Þátttakendur etja kappi í fjölbreyttum leikjum og þrautum. Framleiðsla: Skot í samstarfi við RÚV.",
+   "short_description": null,
+   "foreign_title": null,
+   "format": "tv",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9wb3J0cmFpdF9wb3N0ZXJzLzhvYTEwZy10NzRzbG8uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NzUwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "reverse_episode_order": true,
+   "categories": [
+    {
+     "slug": "skemmtiefni",
+     "title": "Skemmtiefni"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "8oa10h",
+     "title": "Þáttur 1 af 13",
+     "description": "Í þessum fyrsta þætti vetrarins keppa söngkonan Guðrún Ýr Eyfjörð Jóhannesdóttir og leikarinn Níels Thibaud Girerd við bræðurna Halldór og Ara Eldjárn.",
+     "duration": 3464,
+     "firstrun": "2020-09-11T19:40:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102194A1/5102194A1.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102194A1.mp4"
+      }
+     ],
+     "number": 1,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "8oa10i",
+     "title": "Þáttur 2 af 13",
+     "description": "Keppendur kvöldsins eru þau Eva María Jónsdóttir, Jakob Frímann Magnússon, Ólína Kjerúlf Þorvarðardóttir og Freyr Eyjólfsson.",
+     "duration": 3251,
+     "firstrun": "2020-09-18T19:40:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102195T0/5102195T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102195T0.mp4"
+      }
+     ],
+     "number": 2,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "8oa10j",
+     "title": "Þáttur 3 af 13",
+     "description": "Keppendur kvöldsins eru þau Kristinn Óli Haraldsson, Agnes Björt Andradóttir, Hákon Jóhannesson og Dröfn Ósk Snorradóttir-Rozas.",
+     "duration": 3450,
+     "firstrun": "2020-09-25T19:40:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102196T0/5102196T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102196T0.mp4"
+      }
+     ],
+     "number": 3,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "8oa10k",
+     "title": "Þáttur 4 af 13",
+     "description": "Keppendur kvöldsins eru þau Ingunn Snædal, Kristján Freyr Halldórsson, Snæbjörn Ragnarsson og Þórunn Arna Kristjánsdóttir.",
+     "duration": 3363,
+     "firstrun": "2020-10-02T19:45:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102197T0/5102197T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102197T0.mp4"
+      }
+     ],
+     "number": 4,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "8oa10l",
+     "title": "Þáttur 5 af 13",
+     "description": "Keppendur kvöldsins eru þau Birna María Másdóttir, Bragi Páll Sigurðarson, Hjálmar Örn Jóhannsson og Tinna Ólafsdóttir.",
+     "duration": 3254,
+     "firstrun": "2020-10-09T19:40:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102198T0/5102198T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102198T0.mp4"
+      }
+     ],
+     "number": 5,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "8oa10m",
+     "title": "Þáttur 6 af 13",
+     "description": "Keppendur kvöldsins eru þau Andri Freyr Viðarsson, Guðrún Dís Emilsdóttir, Logi Bergmann, Sigurður Þorri Gunnarsson.",
+     "duration": 3486,
+     "firstrun": "2020-10-16T19:40:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5102199T0/5102199T0.m3u8",
+     "rating": 0,
+     "file_expires": "9999-12-31",
+     "open_subtitles": false,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5102199T0.mp4"
+      }
+     ],
+     "number": 6,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvS3JpbmdsdW15bmRpci9oZF9wb3N0ZXJzLzhvYTEwZy1nZ202cTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    }
+   ]
+  }
+ }
+}

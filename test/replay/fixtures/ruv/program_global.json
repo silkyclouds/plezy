@@ -1,0 +1,88 @@
+{
+ "data": {
+  "Program": {
+   "programID": 39082,
+   "slug": "vikinglotto",
+   "title": "Vikinglottó",
+   "description": "Vikinglottó-útdráttur vikunnar.",
+   "short_description": null,
+   "foreign_title": null,
+   "format": "tv",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2luZ2xvdHRvX2tQaE5hN28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19",
+   "portrait_image": "",
+   "reverse_episode_order": false,
+   "categories": [
+    {
+     "slug": "annad",
+     "title": "Annað"
+    }
+   ],
+   "episodes": [
+    {
+     "id": "bkms6a",
+     "title": "21.10.2026",
+     "description": "",
+     "duration": 172,
+     "firstrun": "2026-10-21T18:52:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5486991-ECT14I/5486991-ECT14I.m3u8",
+     "rating": 0,
+     "file_expires": "2027-12-30",
+     "open_subtitles": false,
+     "closed_subtitles": false,
+     "subtitles": [],
+     "number": 42,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2luZ2xvdHRvX2tQaE5hN28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "bkms69",
+     "title": "14.10.2026",
+     "description": "",
+     "duration": 172,
+     "firstrun": "2026-10-14T18:52:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5486990-SAKDUL/5486990-SAKDUL.m3u8",
+     "rating": 0,
+     "file_expires": "2027-12-30",
+     "open_subtitles": false,
+     "closed_subtitles": false,
+     "subtitles": [],
+     "number": 41,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2luZ2xvdHRvX2tQaE5hN28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "bkms68",
+     "title": "07.10.2026",
+     "description": "",
+     "duration": 171,
+     "firstrun": "2026-10-07T18:52:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5486989-CDJ3JU/5486989-CDJ3JU.m3u8",
+     "rating": 0,
+     "file_expires": "2027-12-30",
+     "open_subtitles": false,
+     "closed_subtitles": false,
+     "subtitles": [],
+     "number": 40,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2luZ2xvdHRvX2tQaE5hN28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    },
+    {
+     "id": "bkms67",
+     "title": "30.09.2026",
+     "description": "",
+     "duration": 172,
+     "firstrun": "2026-09-30T18:52:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5486988-FLGDHA/5486988-FLGDHA.m3u8",
+     "rating": 0,
+     "file_expires": "2027-12-30",
+     "open_subtitles": false,
+     "closed_subtitles": false,
+     "subtitles": [],
+     "number": 39,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1Zpa2luZ2xvdHRvX2tQaE5hN28uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjAsImhlaWdodCI6NTQwfSwidG9Gb3JtYXQiOiJ3ZWJwIn19"
+    }
+   ]
+  }
+ }
+}

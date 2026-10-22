@@ -1,0 +1,33 @@
+{
+ "data": {
+  "Program": {
+   "programID": 34778,
+   "title": "Í takt við tímann",
+   "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "portrait_image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lfdGFrdF92aWRfdGltYW5uLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjc1MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ==",
+   "episodes": [
+    {
+     "id": "ablct1",
+     "title": "",
+     "description": "",
+     "duration": 5289,
+     "firstrun": "2026-10-10T20:55:00",
+     "scope": "Global",
+     "file": "https://ruv-vod.akamaized.net/opid/5509855-KDORCG/5509855-KDORCG.m3u8",
+     "rating": 0,
+     "file_expires": "2027-01-08",
+     "open_subtitles": true,
+     "closed_subtitles": true,
+     "subtitles": [
+      {
+       "name": "is",
+       "value": "https://muninn.nyr.ruv.is/files/subtitles/webvtt/closed/5509855-KDORCG.mp4"
+      }
+     ],
+     "number": 1,
+     "image": "https://myndir.ruv.is/eyJidWNrZXQiOiJydXYtcHJvZC1ydXZpcy1wdWJsaWMiLCJrZXkiOiJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FoZWFkX29mX3RpbWVfc3RpbGwzLTEtMjAwMHgxMzMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwLCJoZWlnaHQiOjU0MH0sInRvRm9ybWF0Ijoid2VicCJ9fQ=="
+    }
+   ]
+  }
+ }
+}
