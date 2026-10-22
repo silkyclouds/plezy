@@ -7,6 +7,7 @@ import '../providers/bbciplayer/bbciplayer_provider.dart';
 import '../providers/ceskatelevize/ceskatelevize_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
+import '../providers/err/err_provider.dart';
 import '../providers/france24/france24_language.dart';
 import '../providers/france24/france24_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
@@ -320,6 +321,13 @@ const replaySourceInfos = [
     country: 'AT',
     languages: ['de'],
   ),
+  ReplaySourceInfo(
+    id: 'err',
+    name: 'ERR Jupiter',
+    support: ReplayPlaybackSupport.partial,
+    country: 'EE',
+    languages: ['et'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -390,6 +398,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'srfplay' => SrfPlayProvider(http),
       'rsi' => RsiProvider(http),
       'orftvthek' => OrfTvthekProvider(http),
+      'err' => ErrProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;
