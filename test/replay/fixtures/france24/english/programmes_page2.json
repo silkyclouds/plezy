@@ -1,0 +1,366 @@
+{
+ "result": {
+  "nb_total_item": 35,
+  "current_page": 2,
+  "last_page": 2,
+  "nb_item_per_page": 24,
+  "list": [
+   {
+    "nid": "WBMZ419679-F24-EN-20250402",
+    "created": "1743692156000",
+    "title": "Sports",
+    "intro": "<p>Your daily sports roundup from around the world, from the Champions League and the NBA to tennis and cricket. Every day from 6:45am.</p>",
+    "description": "<p>Your daily sports roundup from around the world, from the Champions League and the NBA to tennis and cricket. Every day from 6:45am.</p>",
+    "type": "emission",
+    "surtitle": "",
+    "authors": [
+     {
+      "name": "L'Equipe TV"
+     }
+    ],
+    "taxonomy": [
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "L'Equipe TV"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Sports"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.france24.com/en/tv-shows/sports/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/51236bdc-79bf-11ef-9675-005056bfb2b6/FR-Sports_16-9-4K.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/51236bdc-79bf-11ef-9675-005056bfb2b6/w:66/p:4x3/FR-Sports_16-9-4K.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/86cb9c9a-0ef3-11f0-99d0-005056a97e36/FR-Sports-1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/86cb9c9a-0ef3-11f0-99d0-005056a97e36/w:66/p:4x3/FR-Sports-1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB4897049-F24-EN-20091009",
+    "created": "1255092489000",
+    "title": "Talking Europe",
+    "intro": "<p>Politicians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter. Saturday at 7:15pm.</p>",
+    "description": "<p>Politicians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter. Saturday at 7:15pm.</p>",
+    "type": "emission",
+    "surtitle": "",
+    "authors": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Armen GEORGIAN"
+       },
+       {
+        "name": "Douglas HERBERT"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Talking Europe"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_57",
+      "tags": [
+       {
+        "name": "Syndication BtoB"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "176"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.france24.com/en/tv-shows/talking-europe/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/ac744272-8a5d-11f0-81a9-005056bf30b7/EN-ICI-L-EUROPE-16-9-4K.png"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/ac744272-8a5d-11f0-81a9-005056bf30b7/w:66/p:4x3/EN-ICI-L-EUROPE-16-9-4K.png"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/de123aaa-8a5d-11f0-9fd2-005056bf30b7/EN-ICI-L-EUROPE-1-1.png"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/de123aaa-8a5d-11f0-9fd2-005056bf30b7/w:66/p:4x3/EN-ICI-L-EUROPE-1-1.png"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB4897007-F24-EN-20091009",
+    "created": "1255091554000",
+    "title": "The Debate",
+    "intro": "<p>A live debate on the topic of the day, with four guests. From Monday to Thursday at 7:10pm Paris time.</p>",
+    "description": "<p>A live debate on the topic of the day, with four guests. From Monday to Thursday at 7:10pm Paris time.</p>",
+    "type": "emission",
+    "surtitle": "",
+    "authors": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "François PICARD"
+       },
+       {
+        "name": "Mark OWEN"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "The Debate"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_57",
+      "tags": [
+       {
+        "name": "Syndication BtoC"
+       },
+       {
+        "name": "Syndication BtoB"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "178, 443"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.france24.com/en/tv-shows/debate/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/9b20278c-db0b-11ee-b05d-005056bf30b7/EN-LE-DEBAT_16-9-4K-2.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/9b20278c-db0b-11ee-b05d-005056bf30b7/w:66/p:4x3/EN-LE-DEBAT_16-9-4K-2.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/b0d6fa56-db0b-11ee-9ee5-005056bfb2b6/EN-LE-DEBAT_1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/b0d6fa56-db0b-11ee-9ee5-005056bfb2b6/w:66/p:4x3/EN-LE-DEBAT_1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB5103037-F24-EN-20101011",
+    "created": "1286810973000",
+    "title": "The Observers",
+    "intro": "<p>A show produced with photos, videos and personal accounts from our Observers around the world – all checked by our staff here in Paris. Saturday at 10:45am Paris time (8:45am GMT).</p>",
+    "description": "<p>A show produced with photos, videos and personal accounts from our Observers around the world – all checked by our staff here in Paris. Saturday at 10:45am Paris time (8:45am GMT).</p>",
+    "type": "emission",
+    "surtitle": "",
+    "authors": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Derek THOMSON"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "The Observers"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_57",
+      "tags": [
+       {
+        "name": "Syndication BtoC"
+       },
+       {
+        "name": "Syndication BtoB"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "161"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.france24.com/en/tv-shows/observers/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/36da88ac-db11-11ee-ac95-005056bf30b7/EN-Les-Observateurs_16-9-4K.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/36da88ac-db11-11ee-ac95-005056bf30b7/w:66/p:4x3/EN-Les-Observateurs_16-9-4K.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/41267276-db11-11ee-962c-005056a97e36/EN-Les-Observateurs_1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/41267276-db11-11ee-962c-005056a97e36/w:66/p:4x3/EN-Les-Observateurs_1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ98927-F24-EN-20210917",
+    "created": "1632149933000",
+    "title": "Truth or Fake",
+    "intro": "<p>Truth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them. Monday to Thursday at 8:45pm and 10:20pm Paris time.</p>",
+    "description": "<p>Truth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them. Monday to Thursday at 8:45pm and 10:20pm Paris time.</p>",
+    "type": "emission",
+    "surtitle": "",
+    "authors": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "'fake news'"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Derek THOMSON"
+       },
+       {
+        "name": "Vedika BAHL"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Truth or Fake"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.france24.com/en/tv-shows/truth-or-fake/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/e1f94c28-08fa-11f1-8612-005056bf30b7/EN-16-9-4K-InfoIntox.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/e1f94c28-08fa-11f1-8612-005056bf30b7/w:66/p:4x3/EN-16-9-4K-InfoIntox.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/f81ffc2c-08fa-11f1-b9b9-005056bf30b7/EN-1-1-InfoIntox.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/f81ffc2c-08fa-11f1-b9b9-005056bf30b7/w:66/p:4x3/EN-1-1-InfoIntox.jpg"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

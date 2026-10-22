@@ -23,3 +23,24 @@ DateTime france24EndOfDay(DateTime day) => DateTime.utc(day.year, day.month, day
 
 /// Last instant of [year], in UTC.
 DateTime france24EndOfYear(int year) => DateTime.utc(year, 12, 31, 23, 59, 59, 999);
+
+/// The part of an episode id that names its edition.
+///
+/// Most edition ids end in their calendar day. The rest are bare UUIDs, so the day (taken from the creation
+/// date) is appended as `@yyyymmdd`; without it the page that holds the edition could not be found.
+String france24EditionToken(String nid, DateTime day) {
+  if (france24DayOfNid(nid) != null) return nid;
+  final month = day.month.toString().padLeft(2, '0');
+  final date = day.day.toString().padLeft(2, '0');
+  return '$nid@${day.year}$month$date';
+}
+
+/// Splits an edition token into the edition id and the day it was broadcast, or a null day when unknown.
+({String nid, DateTime? day}) france24ParseEditionToken(String token) {
+  final at = token.lastIndexOf('@');
+  if (at > 0) {
+    final day = france24DayOfNid('-${token.substring(at + 1)}');
+    if (day != null) return (nid: token.substring(0, at), day: day);
+  }
+  return (nid: token, day: france24DayOfNid(token));
+}

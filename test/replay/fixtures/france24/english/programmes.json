@@ -1,0 +1,175 @@
+{
+ "result": {
+  "nb_total_item": 35,
+  "current_page": 1,
+  "last_page": 2,
+  "nb_item_per_page": 24,
+  "list": [
+   {
+    "nid": "WB5600162-F24-EN-20150330",
+    "created": "1427729867000",
+    "title": "Access Asia",
+    "intro": "<p>Exclusive reports, features and analysis of political and social events from across the Asian continent. Friday at 3:45pm Paris time.</p>",
+    "description": "<p>Exclusive reports, features and analysis of political and social events from across the Asian continent. Friday at 3:45pm Paris time.</p>",
+    "type": "emission",
+    "url": "https://www.france24.com/en/tv-shows/access-asia/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/351b301a-f0c5-11ee-9fde-005056a90284/EN-ACCESS-ASIA_16-9-4K-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/351b301a-f0c5-11ee-9fde-005056a90284/w:66/p:4x3/EN-ACCESS-ASIA_16-9-4K-1.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/4e644dfe-f0c5-11ee-acc4-005056bfb2b6/EN-ACCESS-ASIA_1-1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/4e644dfe-f0c5-11ee-acc4-005056bfb2b6/w:66/p:4x3/EN-ACCESS-ASIA_1-1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ309214-F24-EN-20240516",
+    "created": "1715866681000",
+    "title": "A propos",
+    "intro": "<p>An in-depth look at the day's key stories. From Monday to Thursday at 10:30pm Paris time.</p>",
+    "description": "<p>An in-depth look at the day's key stories. From Monday to Thursday at 10:30pm Paris time.</p>",
+    "type": "emission",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/a0f9666c-7437-11ef-ad91-005056a97e36/EN-Apropos_16-9-4K-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/a0f9666c-7437-11ef-ad91-005056a97e36/w:66/p:4x3/EN-Apropos_16-9-4K-1.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/bc9c60cc-7437-11ef-a25a-005056bfb2b6/EN-Apropos_1-1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/bc9c60cc-7437-11ef-a25a-005056bfb2b6/w:66/p:4x3/EN-Apropos_1-1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB4897010-F24-EN-20091009",
+    "created": "1255091597000",
+    "title": "arts24",
+    "intro": "<p>Culture news from the world's art, food and fashion capital, Paris. Join us every day at 12:15 Paris time for reviews and conversations on what’s arguably the only daily arts programme on TV.</p>",
+    "description": "<p>Culture news from the world's art, food and fashion capital, Paris. Join us every day at 12:15 Paris time for reviews and conversations on what’s arguably the only daily arts programme on TV.</p>",
+    "type": "emission",
+    "url": "https://www.france24.com/en/tv-shows/arts24/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/06bd05fc-da38-11ee-8fdc-005056bfb2b6/EN-ARTS-24_16-9-4K.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/06bd05fc-da38-11ee-8fdc-005056bfb2b6/w:66/p:4x3/EN-ARTS-24_16-9-4K.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/14ae777c-da38-11ee-b1d6-005056bfb2b6/EN-ARTS-24_1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/14ae777c-da38-11ee-b1d6-005056bfb2b6/w:66/p:4x3/EN-ARTS-24_1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB5442702-F24-EN-20130826",
+    "created": "1377522193000",
+    "title": "Business",
+    "intro": "<p>A daily update on the latest business and economic news. Live from Monday to Thursday at 9:15am and 6:45pm Paris time.</p>",
+    "description": "<p>A daily update on the latest business and economic news. Live from Monday to Thursday at 9:15am and 6:45pm Paris time.</p>",
+    "type": "emission",
+    "url": "https://www.france24.com/en/tv-shows/business/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/c0a61c48-daff-11ee-a0be-005056a97e36/EN-Economie_16-9-4K.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/c0a61c48-daff-11ee-a0be-005056a97e36/w:66/p:4x3/EN-Economie_16-9-4K.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/03099b82-db00-11ee-a53b-005056a90284/EN-Economie-1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/03099b82-db00-11ee-a53b-005056a90284/w:66/p:4x3/EN-Economie-1-1.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WB5973796-F24-EN-20190225",
+    "created": "1551113668000",
+    "title": "Fact or Fake",
+    "intro": "<p>FRANCE 24's Europe team digs through news stories around Europe to shake out the truth from the trash. You can also catch the segment in our Talking Europe show on Saturdays from 7:15pm Paris time.</p>",
+    "description": "<p>FRANCE 24's Europe team digs through news stories around Europe to shake out the truth from the trash. You can also catch the segment in our Talking Europe show on Saturdays from 7:15pm Paris time.</p>",
+    "type": "emission",
+    "url": "https://www.france24.com/en/tv-shows/fact-or-fake/",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/1291c658-da45-11ee-a59b-005056a90284/EN-FACT-OR-FAKE_16-9-4K.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/1291c658-da45-11ee-a59b-005056a90284/w:66/p:4x3/EN-FACT-OR-FAKE_16-9-4K.jpg"
+      }
+     ]
+    },
+    "podcast_square_image": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/31c29fac-da45-11ee-993a-005056a97e36/EN-FACT-OR-FAKE_1-1.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/31c29fac-da45-11ee-993a-005056a97e36/w:66/p:4x3/EN-FACT-OR-FAKE_1-1.jpg"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

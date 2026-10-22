@@ -1,0 +1,250 @@
+{
+ "result": {
+  "nb_total_item": 62776,
+  "current_page": 1,
+  "last_page": 2616,
+  "nb_item_per_page": 24,
+  "list": [
+   {
+    "nid": "4220298E-F117-4CA9-B186-09222BA8DA39",
+    "created": "1792617706000",
+    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+    "intro": "<p>Research carried out by the Alliance4Europe NGO suggests that pro-Russian networks manipulated information online in an effort to exacerbate anger in France ahead of last weekend's massive protests and subsequent unrest. After analysing more than half a million posts across various social media platforms, the group says it was able to track the campaign back to the start of September. FRANCE 24's Sharon Gaffney speaks with Omri Preiss, Managing Director at the Alliance4Europe.</p>",
+    "description": "<p>Research carried out by the Alliance4Europe NGO suggests that pro-Russian networks manipulated information online in an effort to exacerbate anger in France ahead of last weekend's massive protests and subsequent unrest. After analysing more than half a million posts across various social media platforms, the group says it was able to track the campaign back to the start of September. FRANCE 24's Sharon Gaffney speaks with Omri Preiss, Managing Director at the Alliance4Europe.</p>",
+    "type": "video",
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "France"
+       },
+       {
+        "name": "riots"
+       },
+       {
+        "name": "Tech"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Sharon GAFFNEY"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_54",
+      "tags": [
+       {
+        "name": "CLIP"
+       }
+      ]
+     }
+    ],
+    "duration": "712000",
+    "url": "https://www.france24.com/en/in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds",
+    "validity_start_date": "1792533600000",
+    "validity_end_date": "4916757600000",
+    "formats": [
+     {
+      "code": "MP4",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_223119_224312_CS_8000.mp4"
+     },
+     {
+      "code": "MP4-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_223119_224312_CS_5000.mp4"
+     },
+     {
+      "code": "MP4-SD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_223119_224312_CS.mp4"
+     },
+     {
+      "code": "MP4-FULL-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_223119_224312_CS_8000.mp4"
+     }
+    ],
+    "video_type": {
+     "code": "103_D64_21269",
+     "label": "CLIP",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/1a4b29ca-cd95-11f1-b0eb-eb48fa034ddc/capture-db043303.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/1a4b29ca-cd95-11f1-b0eb-eb48fa034ddc/w:66/p:4x3/capture-db043303.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "90AFFD39-8A85-4F2C-9C7A-9E4A059EE890",
+    "created": "1792614076000",
+    "title": "EU prosecutors search European Parliament offices of far-right group",
+    "intro": "<p>The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe group said the European Public Prosecutor's Office (EPPO) had been searching its administrative offices in Brussels and Strasbourg \"since this morning\".  FRANCE 24's Dave Keating reports from Strasbourg.</p>",
+    "description": "<p>The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe group said the European Public Prosecutor's Office (EPPO) had been searching its administrative offices in Brussels and Strasbourg \"since this morning\".  FRANCE 24's Dave Keating reports from Strasbourg.</p>",
+    "type": "video",
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "far right"
+       },
+       {
+        "name": "fraud"
+       },
+       {
+        "name": "investigation"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Dave KEATING"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_54",
+      "tags": [
+       {
+        "name": "CLIP"
+       }
+      ]
+     }
+    ],
+    "duration": "281000",
+    "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
+    "validity_start_date": "1792533600000",
+    "validity_end_date": "4916757600000",
+    "formats": [
+     {
+      "code": "MP4",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_220512_220953_CS_8000.mp4"
+     },
+     {
+      "code": "MP4-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_220512_220953_CS_5000.mp4"
+     },
+     {
+      "code": "MP4-SD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_220512_220953_CS.mp4"
+     },
+     {
+      "code": "MP4-FULL-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_220512_220953_CS_8000.mp4"
+     }
+    ],
+    "video_type": {
+     "code": "103_D64_21269",
+     "label": "CLIP",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/350276dc-cd8c-11f1-b816-eb48fa034ddc/EN-20261021-220512-220953-CS.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/350276dc-cd8c-11f1-b816-eb48fa034ddc/w:66/p:4x3/EN-20261021-220512-220953-CS.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "979A8D7F-D02D-4457-A90B-CC241DAF2E80",
+    "created": "1792611172000",
+    "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
+    "intro": "<p>President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as soon ​as possible, preferably ‌no later than early November. Speaking with FRANCE 24's Mark Owen, Grégoire Roos, Director of the Europe, Russia and Eurasia Programme at Chatham House, says that \"it's not clear whether Putin would meet Trump and Zelensky\", adding that \"meeting Zelensky is the last thing that Putin would be prepared to do\".</p>",
+    "description": "<p>President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as soon ​as possible, preferably ‌no later than early November. Speaking with FRANCE 24's Mark Owen, Grégoire Roos, Director of the Europe, Russia and Eurasia Programme at Chatham House, says that \"it's not clear whether Putin would meet Trump and Zelensky\", adding that \"meeting Zelensky is the last thing that Putin would be prepared to do\".</p>",
+    "type": "video",
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "Ukraine"
+       },
+       {
+        "name": "Russia"
+       },
+       {
+        "name": "military"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Mark OWEN"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_54",
+      "tags": [
+       {
+        "name": "CLIP"
+       }
+      ]
+     }
+    ],
+    "duration": "643000",
+    "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
+    "validity_start_date": "1792533600000",
+    "validity_end_date": "4916671200000",
+    "formats": [
+     {
+      "code": "MP4",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_210107_211150_CS_8000.mp4"
+     },
+     {
+      "code": "MP4-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_210107_211150_CS_5000.mp4"
+     },
+     {
+      "code": "MP4-SD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_210107_211150_CS.mp4"
+     },
+     {
+      "code": "MP4-FULL-HD",
+      "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_210107_211150_CS_8000.mp4"
+     }
+    ],
+    "video_type": {
+     "code": "103_D64_21269",
+     "label": "CLIP",
+     "brandContent": false,
+     "landingContent": null
+    },
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/a08fd0b8-cd85-11f1-b980-4da0d2c6855d/EN-20261021-210107-211150-CS.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/a08fd0b8-cd85-11f1-b980-4da0d2c6855d/w:66/p:4x3/EN-20261021-210107-211150-CS.jpg"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

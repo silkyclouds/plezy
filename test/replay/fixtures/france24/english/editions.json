@@ -1,0 +1,157 @@
+{
+ "result": {
+  "nb_total_item": 3,
+  "current_page": 1,
+  "last_page": 1,
+  "nb_item_per_page": 21,
+  "list": [
+   {
+    "nid": "WBMZ570142-F24-EN-20260722",
+    "created": "1784890477000",
+    "title": "Meloni's Italy: Fortress Europe?",
+    "intro": "<p>Migration was at the heart of Giorgia Meloni's successful 2022 election campaign. Promising a tougher approach to irregular migration helped propel her to power, but what has her government achieved since then? One of its flagship policies was the creation of a controversial migrant processing centre in Albania. Yet the plan has repeatedly run into legal obstacles in Italy, raising questions about whether it can deliver on its promises. At the same time, Meloni has had to balance her hardline rhetoric with economic realities. Faced with labour shortages and pressure from businesses, her government has authorised around half a million additional work visas for the 2026–2029 period. Has Meloni's migration policy proved more pragmatic than her supporters expected? Whatever the answer, it has created political space on her right. One of the most prominent challengers is former army general Roberto Vannacci, who advocates an even tougher approach to immigration and openly calls for the \"remigration\" of migrants. Luke Brown reports.</p>",
+    "type": "edition",
+    "programs": {
+     "nid": "WB5973796-F24-EN-20190225",
+     "title": "Fact or Fake",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "2DE9AEC3-2B5A-4EB5-96EC-2EAAE08854C6",
+      "title": "Meloni's Italy: Fortress Europe?",
+      "duration": "252000",
+      "validity_start_date": "1784844000000",
+      "validity_end_date": "4908981600000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200460-O-01-20260723_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200460-O-01-20260723_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200460-O-01-20260723.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200460-O-01-20260723_8000.mp4"
+       }
+      ],
+      "youtube_id": "49y3_j69UvQ",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      }
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-s-italy-fortress-europe"
+   },
+   {
+    "nid": "WBMZ570141-F24-EN-20260722",
+    "created": "1784889749000",
+    "title": "Giorgia Meloni: The face of Europe's far right?",
+    "intro": "<p>Giorgia Meloni made history in 2022 when she became Italy's first female prime minister. She quickly signalled her ideological affinity with Donald Trump and positioned herself as a bridge between the MAGA movement in the United States and Europe's radical right. She was also the only European leader invited to attend Trump's second inauguration in 2025. Renaud Lefort examines how the relationship between Trump and Meloni has evolved since then, alongside Meloni's changing role within the European Union. While she has sought to strengthen Italy's influence in Brussels, critics argue that she has moderated some of her more hardline positions in order to remain politically influential. The report features an interview with Gianfranco Fini, founder of the post-fascist National Alliance, where Meloni began her political career more than two decades ago. Historian and Italian politics specialist Marc Lazar also assesses Meloni's first three years in office, examining what he describes as authoritarian tendencies in her approach to governing.</p>",
+    "type": "edition",
+    "programs": {
+     "nid": "WB5973796-F24-EN-20190225",
+     "title": "Fact or Fake",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "C4EE63D2-E724-444C-A67C-1CA12C0239A9",
+      "title": "Giorgia Meloni: The face of Europe's far right?",
+      "duration": "215000",
+      "validity_start_date": "1784844000000",
+      "validity_end_date": "4908981600000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200459-O-01-20260723_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200459-O-01-20260723_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200459-O-01-20260723.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/24/WB200459-O-01-20260723_8000.mp4"
+       }
+      ],
+      "youtube_id": "4pE6vnzF4Lc",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      }
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-the-face-of-europe-s-far-right"
+   },
+   {
+    "nid": "WBMZ565334-F24-EN-20260706",
+    "created": "1783432717000",
+    "title": "Maia Sandu and the European Union: the shadow of Russian disinformation",
+    "intro": "<p>Moldova’s political future faces the West - but the country has to overcome destabilisation efforts coming from the East.</p>",
+    "type": "edition",
+    "programs": {
+     "nid": "WB5973796-F24-EN-20190225",
+     "title": "Fact or Fake",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "CD3D3FDB-9174-4C2D-979F-CFD969DFAB9E",
+      "title": "Maia Sandu and the European Union: the shadow of Russian disinformation",
+      "duration": "142000",
+      "validity_start_date": "1783288800000",
+      "validity_end_date": "4907426400000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/06/WB180348-O-01-20260630_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/06/WB180348-O-01-20260630_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/06/WB180348-O-01-20260630.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/07/06/WB180348-O-01-20260630_8000.mp4"
+       }
+      ],
+      "youtube_id": "DUqmNiJ9SOs",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      }
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260707-maia-sandu-and-the-european-union-the-shadow-of-russian-disinformation"
+   }
+  ]
+ }
+}

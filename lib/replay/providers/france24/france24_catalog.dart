@@ -1,5 +1,6 @@
 import '../../model/replay_title.dart';
 import 'france24_api.dart';
+import 'france24_language.dart';
 import 'france24_mapper.dart';
 import 'france24_models.dart';
 import 'france24_numbering.dart';
@@ -7,6 +8,9 @@ import 'france24_numbering.dart';
 /// Programmes with at most this many pages of editions are read in full to find their years; larger
 /// ones are bounded by their first and last page.
 const _fullScanPages = 3;
+
+/// Programmes per page of the broadcaster's list.
+const france24ProgrammePageSize = 24;
 
 /// Upper bound on the pages read from the short programme list.
 const _maxListPages = 10;
@@ -24,20 +28,45 @@ class France24Catalog {
 
   France24Catalog(this._api, {DateTime Function()? clock}) : _clock = clock ?? DateTime.now;
 
+  France24Language get _language => _api.language;
+
+  String get _source => _language.sourceId;
+
   Future<ReplayTitle?> show(String programmeNid) async {
+    if (_language.hiddenProgrammes.contains(programmeNid)) return null;
     final page = await _api.programmes(nid: programmeNid);
     final programme = page.items.where((p) => p.nid == programmeNid).firstOrNull;
-    return programme == null ? null : france24Show(programme);
+    return programme == null ? null : france24Show(_source, programme);
   }
 
-  /// Every programme, alphabetically. The list holds a few dozen entries over a couple of pages.
+  /// Every programme worth listing, alphabetically. The list holds a few dozen entries over a couple of pages.
   Future<List<France24Programme>> allProgrammes() async {
     final first = await _api.programmes();
     final programmes = [...first.items];
     for (var page = 2; page <= first.lastPage && page <= _maxListPages; page++) {
       programmes.addAll((await _api.programmes(page: page)).items);
     }
-    return programmes;
+    return [
+      for (final programme in programmes)
+        if (!_language.hiddenProgrammes.contains(programme.nid)) programme,
+    ];
+  }
+
+  /// One page of the programme list, numbered from 1.
+  ///
+  /// When programmes are hidden the pages are cut from the filtered list, so every page but the last stays
+  /// full and a client that derives the next offset from the item count never repeats a page.
+  Future<France24Page<France24Programme>> programmePage(int page) async {
+    if (_language.hiddenProgrammes.isEmpty) return _api.programmes(page: page);
+    final all = await allProgrammes();
+    final from = (page - 1) * france24ProgrammePageSize;
+    final items = from >= all.length ? <France24Programme>[] : all.skip(from).take(france24ProgrammePageSize).toList();
+    return France24Page(
+      items: items,
+      total: all.length,
+      page: page,
+      lastPage: all.isEmpty ? 1 : (all.length / france24ProgrammePageSize).ceil(),
+    );
   }
 
   /// One season per year that has an edition with a video, oldest first.
@@ -45,7 +74,7 @@ class France24Catalog {
     final parent = await show(programmeNid);
     if (parent == null) return const [];
     final years = await _years(programmeNid);
-    return [for (final year in years) france24Season(parent, year)];
+    return [for (final year in years) france24Season(_source, parent, year)];
   }
 
   /// The editions of one year in broadcast order, oldest first.
@@ -59,13 +88,13 @@ class France24Catalog {
       editions.addAll(items.where((e) => e.day?.year == year));
       if (items.any((e) => (e.day?.year ?? year) < year)) break;
     }
-    final episodes = france24Episodes(editions, _clock());
+    final episodes = france24Episodes(_source, editions, _clock());
     return _inBroadcastOrder(episodes);
   }
 
-  /// One edition by id, found without knowing which page holds it.
-  Future<France24Edition?> edition(String programmeNid, String editionNid) async {
-    final day = france24DayOfNid(editionNid);
+  /// One edition by edition token, found without knowing which page holds it.
+  Future<France24Edition?> edition(String programmeNid, String editionToken) async {
+    final (nid: editionNid, :day) = france24ParseEditionToken(editionToken);
     if (day == null) return null;
     final start = await _firstPageEndingBy(programmeNid, france24EndOfDay(day));
     if (start == null) return null;
@@ -80,7 +109,7 @@ class France24Catalog {
 
   Future<ReplayTitle?> clip(String videoNid) async {
     final video = await clipVideo(videoNid);
-    return video == null ? null : france24Clip(video, _clock());
+    return video == null ? null : france24Clip(_source, video, _clock());
   }
 
   Future<France24Video?> clipVideo(String videoNid) async {

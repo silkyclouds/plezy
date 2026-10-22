@@ -6,6 +6,7 @@ import '../providers/arte/arte_provider.dart';
 import '../providers/ceskatelevize/ceskatelevize_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
+import '../providers/france24/france24_language.dart';
 import '../providers/france24/france24_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/lrt/lrt_provider.dart';
@@ -229,6 +230,13 @@ const replaySourceInfos = [
     languages: ['de'],
   ),
   ReplaySourceInfo(
+    id: 'france24en',
+    name: 'France 24 English',
+    support: ReplayPlaybackSupport.clear,
+    country: 'FR',
+    languages: ['en'],
+  ),
+  ReplaySourceInfo(
     id: 'france24',
     name: 'France 24',
     support: ReplayPlaybackSupport.clear,
@@ -322,6 +330,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'nfb' => NfbProvider(http),
       'ardmediathek' => ArdMediathekProvider(http),
       'france24' => France24Provider(http),
+      'france24en' => France24Provider(http, language: France24Language.english),
       '3cat' => ThreeCatProvider(http),
       'rtveplay' => RtvePlayProvider(http),
       'tvpvod' => TvpVodProvider(http),

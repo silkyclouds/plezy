@@ -2,6 +2,7 @@ import 'dart:collection';
 
 import '../../../exceptions/media_server_exceptions.dart';
 import '../../../utils/media_server_http_client.dart';
+import 'france24_language.dart';
 import 'france24_models.dart';
 
 /// The broadcaster refused a request because too many were made in a short time.
@@ -22,7 +23,7 @@ class France24TokenRejectedException implements Exception {
   String toString() => 'France 24 no longer accepts this app key';
 }
 
-/// The root document no longer lists the French edition, so no catalogue address is known.
+/// The root document no longer lists the language edition, so no catalogue address is known.
 class France24LayoutChangedException implements Exception {
   const France24LayoutChangedException();
 
@@ -53,7 +54,6 @@ class France24Api {
   static const _host = 'apis.france24.com';
   static const _path = '/products/get_product';
   static const _rootGuid = '78dcf358-9333-4fb2-a035-7b91e9705b13';
-  static const _language = 'FR';
   static const _headers = {
     'Accept': 'application/json',
     'User-Agent': 'Plezy-Replay (+https://github.com/silkyclouds/plezy)',
@@ -65,6 +65,9 @@ class France24Api {
   static const _ttl = Duration(minutes: 5);
   static const _cacheSize = 48;
 
+  /// The language tree this API reads.
+  final France24Language language;
+
   final MediaServerHttpClient _http;
   final Duration _minGap;
   final DateTime Function() _clock;
@@ -74,8 +77,12 @@ class France24Api {
   DateTime _nextSlot = DateTime.fromMillisecondsSinceEpoch(0);
   DateTime? _blockedUntil;
 
-  France24Api(this._http, {this._minGap = const Duration(milliseconds: 300), DateTime Function()? clock})
-    : _clock = clock ?? DateTime.now;
+  France24Api(
+    this._http, {
+    this.language = France24Language.french,
+    this._minGap = const Duration(milliseconds: 300),
+    DateTime Function()? clock,
+  }) : _clock = clock ?? DateTime.now;
 
   Future<France24Page<France24Programme>> programmes({int page = 1, String? nid}) async {
     final guids = await _addresses();
@@ -117,7 +124,7 @@ class France24Api {
     final result = await _cached(_uri(_rootGuid), (r) => r);
     final languages = (result['list'] as Map?)?['languages'];
     final edition = languages is List
-        ? languages.whereType<Map<String, dynamic>>().where((l) => l['code'] == _language).firstOrNull
+        ? languages.whereType<Map<String, dynamic>>().where((l) => l['code'] == language.code).firstOrNull
         : null;
     final tv = edition?['tv'];
     final shows = tv is Map ? tv['shows'] : null;

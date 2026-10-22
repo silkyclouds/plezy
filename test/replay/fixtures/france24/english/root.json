@@ -1,0 +1,51 @@
+{
+ "result": {
+  "list": {
+   "languages": [
+    {
+     "code": "EN",
+     "tv": {
+      "direct_tv": {
+       "guid": "9e82c71d-57a4-4529-a2de-c2e4d9f5da12",
+       "label": "Live & Bulletins",
+       "tracking_code": "direct_jt",
+       "description": "HLS live + derniers JTs Live"
+      },
+      "current_program": {
+       "guid": "c4ba3023-386e-4dbb-971a-5d094e2c9248",
+       "label": "Live now",
+       "tracking_code": "en_ce_moment",
+       "description": "Le dernier programme en cours"
+      },
+      "videos": {
+       "guid": "a25eccc6-224a-49dc-bd4a-237b090d93be",
+       "label": "Videos",
+       "tracking_code": "videos",
+       "description": "Liste des dernières vidéos tagués France24"
+      },
+      "shows": {
+       "shows_last_edition": {
+        "guid": "d6af02a5-7b7e-439f-bab5-ccecab16f9fa",
+        "label": "Shows",
+        "tracking_code": "emissions",
+        "description": "Liste des dernières éditions des émissions de France24, classement par ordre alphabétique des émissions"
+       },
+       "shows_all": {
+        "guid": "1eca84d5-5fd6-4061-9c7c-d95ee193c7c7",
+        "label": "All the programmes",
+        "tracking_code": "emissions",
+        "description": "Liste des émissions de France24, classement par ordre alphabétique des émissions"
+       },
+       "show_editions": {
+        "guid": "81e5fb03-85ea-45db-8210-43adb6fe5206",
+        "label": "Shows",
+        "tracking_code": "emissions",
+        "description": "Les x dernières édition d'une émission"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

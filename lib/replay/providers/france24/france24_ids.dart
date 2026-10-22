@@ -1,12 +1,10 @@
 import '../../model/replay_ref.dart';
 
-const france24SourceId = 'france24';
-
 /// What a native id points at.
 ///
 /// Native ids are `programme` (a show), `programme/year` (a season), `programme/e/edition` (an episode)
 /// and `v/video` (a clip with no programme). A programme and a clip share the same id syntax at the
-/// broadcaster, so the `v/` prefix is what tells them apart.
+/// broadcaster, so the `v/` prefix is what tells them apart. The edition part is an edition token.
 class France24Id {
   final String? programme;
   final int? year;
@@ -40,9 +38,9 @@ class France24Id {
   bool get isSeason => year != null;
   bool get isEpisode => edition != null;
 
-  ReplayRef get ref => ReplayRef(france24SourceId, toString());
+  ReplayRef refIn(String source) => ReplayRef(source, toString());
 
-  ReplayRef get showRef => ReplayRef(france24SourceId, programme!);
+  ReplayRef showRefIn(String source) => ReplayRef(source, programme!);
 
   @override
   String toString() {

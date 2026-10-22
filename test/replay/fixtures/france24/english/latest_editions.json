@@ -1,0 +1,505 @@
+{
+ "result": {
+  "nb_total_item": 44879,
+  "current_page": 1,
+  "last_page": 1870,
+  "nb_item_per_page": 24,
+  "list": [
+   {
+    "nid": "WBMZ595848-F24-EN-20261022",
+    "created": "1792649611000",
+    "title": "Manchester United blown out of the water by Como in Champions League rout",
+    "intro": "<p>Michael Carrick's side saw their winless run extend to seven matches in all competitions as a Nico Paz double powered the Italian side to an emphatic 4-1 win on Wednesday night. </p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Sport",
+    "programs": {
+     "nid": "WBMZ419679-F24-EN-20250402",
+     "title": "Sports",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "D9A0C828-8B0D-4C53-93A0-CD377FC8287C",
+      "title": "Manchester United blown out of the water by Como in Champions League rout",
+      "duration": "307000",
+      "validity_start_date": "1792620000000",
+      "validity_end_date": "4916757600000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/22/DN00004484-VOD-00019897_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/22/DN00004484-VOD-00019897_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/22/DN00004484-VOD-00019897.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/22/DN00004484-VOD-00019897_8000.mp4"
+       }
+      ],
+      "youtube_id": "eRiq1dTdieA",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "L'Equipe TV"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "Football"
+       },
+       {
+        "name": "Tennis"
+       },
+       {
+        "name": "American football"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "L'Equipe TV"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Sports"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Sport"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/513b3696-cdc7-11f1-87c9-19980254bb31/J24-United-Como.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/513b3696-cdc7-11f1-87c9-19980254bb31/w:66/p:4x3/J24-United-Como.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ595813-F24-EN-20261022",
+    "created": "1792622501000",
+    "title": "Sudan’s war escalates as UN warns of wider regional crisis",
+    "intro": "<p>In tonight’s edition: Sudan’s brutal war continues to take a devastating regional toll, as a drone strike in Abyei reportedly kills 153 people. We speak to the UN envoy for Sudan following an emergency international meeting on the escalating crisis. Also, health authorities prepare to coordinate a response as Ebola cases emerge in Nigeria and rise in Kenya. Finally, ten years after Cameroon’s deadliest railway disaster, families of the 79 victims are still fighting for justice, saying their pain has yet to be acknowledged.</p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Africa",
+    "programs": {
+     "nid": "WB5423603-F24-EN-20130613",
+     "title": "Eye on Africa",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "AA5033D0-ABE9-49C9-BB9D-B77DF6F07BA6",
+      "title": "Sudan’s war escalates as UN warns of wider regional crisis",
+      "duration": "748000",
+      "validity_start_date": "1792620000000",
+      "validity_end_date": "4916757600000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/10/22/WB269235-O-01-20261021_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/10/22/WB269235-O-01-20261021_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/10/22/WB269235-O-01-20261021.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/ptw/2026/10/22/WB269235-O-01-20261021_8000.mp4"
+       }
+      ],
+      "youtube_id": "s17Y8i8pd9w",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Georja CALVIN-SMITH"
+     },
+     {
+      "name": "Guillaume GOUGEON"
+     }
+    ],
+    "guests": [
+     {
+      "name": "Pekka Haavisto"
+     }
+    ],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "Africa"
+       },
+       {
+        "name": "South Sudan"
+       },
+       {
+        "name": "Kenya"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Georja CALVIN-SMITH"
+       },
+       {
+        "name": "Guillaume GOUGEON"
+       },
+       {
+        "name": "Bastien RENOUIL"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Eye on Africa"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Africa"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "316"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/25d330b6-cda0-11f1-942a-8bea73bbe173/capture-3969bf04.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/25d330b6-cda0-11f1-942a-8bea73bbe173/w:66/p:4x3/capture-3969bf04.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ595806-F24-EN-20261022",
+    "created": "",
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "intro": "<p>François Picard welcomes former US Assistant Secretary of Defense Jim Townsend and former US Air Force officer Michael (Mikey) Weinstein, founder and president of the Military Religious Freedom Foundation. Is American military power becoming an instrument of political and religious coercion, both at home and abroad? From the reported restrictions on Ukraine's access to Starlink satellite communications to the Trump administration's overtures towards Vladimir Putin and the growing controversy over religious ideology within the Pentagon, the two guests offer a stark assessment of the direction of American foreign and defence policy.</p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Americas",
+    "programs": {
+     "nid": "WBMZ514327-F24-EN-20260129",
+     "title": "Spotlight",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "1A4BF0FD-18E1-404C-8ADF-C18D8FA99763",
+      "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+      "duration": "920000",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916757600000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_183123_184644_CS_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_183123_184644_CS_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_183123_184644_CS.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/EN_20261021_183123_184644_CS_8000.mp4"
+       }
+      ],
+      "youtube_id": "tUe2ZbX3ENI",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "François PICARD"
+     },
+     {
+      "name": "Ilayda HABIP"
+     }
+    ],
+    "guests": [
+     {
+      "name": "Jim TOWNSEND"
+     }
+    ],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "Donald Trump"
+       },
+       {
+        "name": "Vladimir Putin"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "François PICARD"
+       },
+       {
+        "name": "Ilayda HABIP"
+       },
+       {
+        "name": "George Sol Shantzek"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Spotlight"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Americas"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20261021-trump-admin-destroying-us-democracy-with-autocratic-terrorist-version-of-christian-nationalism",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/8a7272dc-cd98-11f1-85be-eb48fa034ddc/EN-20261021-183123-184644-CS.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/8a7272dc-cd98-11f1-85be-eb48fa034ddc/w:66/p:4x3/EN-20261021-183123-184644-CS.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "233B6CE2-E811-42AF-AD65-7025C02677F7",
+    "created": "1792610400000",
+    "title": "French bond yields hit 24-year high after unrest",
+    "intro": "<p>French bond yields have topped 5%, their highest level since 2002, after widespread protests and violence over the weekend. It's a sign that investors are losing confidence in France's finances, as the government grapples with budget and debt problems. Also in the show - chipmaker Nvidia says it's invested $10 billion in European tech firms to boost the 'AI economy,' and the UK approves a controversial natural gas field as PM Andy Burnham faces pressure over energy costs. </p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "233B6CE2-E811-42AF-AD65-7025C02677F7",
+      "title": "French bond yields hit 24-year high after unrest",
+      "duration": "387000",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916671200000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_8000.mp4"
+       }
+      ],
+      "youtube_id": "vZr3VBwMLcM",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Kate MOODY"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "French student protests"
+       },
+       {
+        "name": "Nvidia"
+       },
+       {
+        "name": "Natural gas"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Kate MOODY"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "1",
+    "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/capture-e0c7d62e.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/w:66/p:4x3/capture-e0c7d62e.jpg"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,646 @@
+{
+ "result": {
+  "nb_total_item": 5,
+  "current_page": 1,
+  "last_page": 1,
+  "nb_item_per_page": 21,
+  "list": [
+   {
+    "nid": "233B6CE2-E811-42AF-AD65-7025C02677F7",
+    "created": "1792610400000",
+    "title": "French bond yields hit 24-year high after unrest",
+    "intro": "<p>French bond yields have topped 5%, their highest level since 2002, after widespread protests and violence over the weekend. It's a sign that investors are losing confidence in France's finances, as the government grapples with budget and debt problems. Also in the show - chipmaker Nvidia says it's invested $10 billion in European tech firms to boost the 'AI economy,' and the UK approves a controversial natural gas field as PM Andy Burnham faces pressure over energy costs. </p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "233B6CE2-E811-42AF-AD65-7025C02677F7",
+      "title": "French bond yields hit 24-year high after unrest",
+      "duration": "387000",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916671200000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006144-VOD-00023554_CS2120_8000.mp4"
+       }
+      ],
+      "youtube_id": "vZr3VBwMLcM",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Kate MOODY"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "French student protests"
+       },
+       {
+        "name": "Nvidia"
+       },
+       {
+        "name": "Natural gas"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Kate MOODY"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "1",
+    "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/capture-e0c7d62e.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/w:66/p:4x3/capture-e0c7d62e.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "80D62BEB-B60D-4642-B831-EF26DA2E459D",
+    "created": "1792566900000",
+    "title": "Musk talks up potential merger of SpaceX and Tesla",
+    "intro": "<p>As SpaceX reports blockbuster quarterly earnings, CEO Elon Musk floats the possibility of merging the rocketry and AI firm with his electric car company Tesla. Also in this edition: OpenAI reveals more agent misbehaviour as market turmoil hits data centre companies, and France's political crisis exacerbates its bond market rout.</p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "80D62BEB-B60D-4642-B831-EF26DA2E459D",
+      "title": "Musk talks up potential merger of SpaceX and Tesla",
+      "duration": "307000",
+      "validity_start_date": "1792533600000",
+      "validity_end_date": "4916671200000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006049-VOD-00023449_CS0915_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006049-VOD-00023449_CS0915_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006049-VOD-00023449_CS0915.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/21/DL00006049-VOD-00023449_CS0915_8000.mp4"
+       }
+      ],
+      "youtube_id": "UxlWMuyDPGc",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Bryan QUINN"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "Elon Musk"
+       },
+       {
+        "name": "SpaceX"
+       },
+       {
+        "name": "Tesla"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Bryan QUINN"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "1",
+    "url": "https://www.france24.com/en/tv-shows/business/20261021-musk-talks-up-potential-merger-of-spacex-and-tesla",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/3d77dfb2-cd2a-11f1-99c1-4dd8ac2cf3bf/BUSINESS-DAILY-211026.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/3d77dfb2-cd2a-11f1-99c1-4dd8ac2cf3bf/w:66/p:4x3/BUSINESS-DAILY-211026.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ595404-F24-EN-20261020",
+    "created": "1792529162000",
+    "title": "US regulators certify Boeing 737 MAX 10 after years of delay",
+    "intro": "<p>The US Federal Aviation Administration has given final approval for the 737-10, the largest model in Boeing's best-selling MAX family. The certification comes more than five years after the narrowbody jet's maiden flight, and marks an important step for the planemaker that's been trying to regain ground following a safety and management crisis. Plus, the French government has offered all businesses affected by the recent riots an interest-free loan of up to €50,000. </p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "64BD672D-C761-4C64-826D-BEB674094795",
+      "title": "US regulators certify Boeing 737 MAX 10 after years of delay",
+      "duration": "339000",
+      "validity_start_date": "1792447200000",
+      "validity_end_date": "4916671200000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/DN00001007-VOD-00012179_CS2215_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/DN00001007-VOD-00012179_CS2215_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/DN00001007-VOD-00012179_CS2215.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/DN00001007-VOD-00012179_CS2215_8000.mp4"
+       }
+      ],
+      "youtube_id": "TGRWXD6IpI8",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Yuka ROYER"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "aviation"
+       },
+       {
+        "name": "Boeing"
+       },
+       {
+        "name": "travel"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Yuka ROYER"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/1283b000-ccc7-11f1-a1c1-d1d2c32ebb87/VIDI42JJ2WD-EN-STOCKSHOTS-Boeing-planes.png"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/1283b000-ccc7-11f1-a1c1-d1d2c32ebb87/w:66/p:4x3/VIDI42JJ2WD-EN-STOCKSHOTS-Boeing-planes.png"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "118AEB2F-14FA-4C9D-A9E5-FF2816DC5DA9",
+    "created": "1792473250000",
+    "title": "French retailers begin filing insurance claims after weekend of looting",
+    "intro": "<p>Shop owners in France are counting the cost of the weekend's riots as the government works on new measures to help them recover from widespread looting. Also in this edition: Germany welcomes new investments from Nvidia into its tech scene, and energy prices continue to climb after new Houthi attacks in Saudi Arabia.</p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "118AEB2F-14FA-4C9D-A9E5-FF2816DC5DA9",
+      "title": "French retailers begin filing insurance claims after weekend of looting",
+      "duration": "333000",
+      "validity_start_date": "1792447200000",
+      "validity_end_date": "4916584800000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/ANGL261020-0915-Live_CS0915_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/ANGL261020-0915-Live_CS0915_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/ANGL261020-0915-Live_CS0915.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/20/ANGL261020-0915-Live_CS0915_8000.mp4"
+       }
+      ],
+      "youtube_id": "LvpPj6abl3Q",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Bryan QUINN"
+     },
+     {
+      "name": "Daniel QUINLAN"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "France"
+       },
+       {
+        "name": "riots"
+       },
+       {
+        "name": "insurance"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Bryan QUINN"
+       },
+       {
+        "name": "Daniel QUINLAN"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "1",
+    "url": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/4b4820d6-cc60-11f1-91a3-2d1c143cdef3/BUSINESS-DAILY-201026.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/4b4820d6-cc60-11f1-91a3-2d1c143cdef3/w:66/p:4x3/BUSINESS-DAILY-201026.jpg"
+      }
+     ]
+    }
+   },
+   {
+    "nid": "WBMZ595087-F24-EN-20261019",
+    "created": "1792445094000",
+    "title": "France tells online marketplaces to crack down on resale of looted items",
+    "intro": "<p>As thousands of French shop owners are reeling from the weekend's violence and looting, listings of apparently stolen items have been popping up online. The government has asked major second-hand marketplaces such as Vinted, eBay and Amazon to crack down on suspicious adverts. </p>",
+    "type": "edition",
+    "surtitle": "",
+    "section": "Business",
+    "programs": {
+     "nid": "WB5442702-F24-EN-20130826",
+     "title": "Business",
+     "type": "emission"
+    },
+    "main_video": [
+     {
+      "nid": "D1C1AFA8-B3CA-49B1-B161-73D222141A6E",
+      "title": "France tells online marketplaces to crack down on resale of looted items",
+      "duration": "321000",
+      "validity_start_date": "1792360800000",
+      "validity_end_date": "4916584800000",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/19/ANGL261019-2215-Live_CS2215_8000.mp4"
+       },
+       {
+        "code": "MP4-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/19/ANGL261019-2215-Live_CS2215_5000.mp4"
+       },
+       {
+        "code": "MP4-SD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/19/ANGL261019-2215-Live_CS2215.mp4"
+       },
+       {
+        "code": "MP4-FULL-HD",
+        "url": "https://vod-france24.akamaized.net/en/vod/2026/10/19/ANGL261019-2215-Live_CS2215_8000.mp4"
+       }
+      ],
+      "youtube_id": "UcpjHrf0TT8",
+      "video_type": {
+       "code": "103_D64_20826",
+       "label": "EMISSION",
+       "brandContent": false,
+       "landingContent": null
+      },
+      "cartouche": null
+     }
+    ],
+    "authors": [
+     {
+      "name": "Yuka ROYER"
+     }
+    ],
+    "guests": [],
+    "taxonomy": [
+     {
+      "vid": "103_D220_17",
+      "tags": [
+       {
+        "name": "France"
+       },
+       {
+        "name": "riots"
+       },
+       {
+        "name": "French student protests"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_2",
+      "tags": [
+       {
+        "name": "Yuka ROYER"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_37",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_51",
+      "tags": [
+       {
+        "name": "Emission courte"
+       }
+      ]
+     },
+     {
+      "vid": "103_D220_7",
+      "tags": [
+       {
+        "name": "Business"
+       }
+      ]
+     },
+     {
+      "vid": "EMI_CODE_FONCTIONNEL",
+      "tags": [
+       {
+        "name": "54, 55"
+       }
+      ]
+     }
+    ],
+    "episodeType": "full",
+    "part_num": "0",
+    "url": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
+    "images": {
+     "formats": [
+      {
+       "code": "original",
+       "url": "https://s.france24.com/media/display/f2ac1af2-cc02-11f1-a7cb-6313a763b466/capture-88daf37e.jpg"
+      },
+      {
+       "code": "66x50",
+       "url": "https://s.france24.com/media/display/f2ac1af2-cc02-11f1-a7cb-6313a763b466/w:66/p:4x3/capture-88daf37e.jpg"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

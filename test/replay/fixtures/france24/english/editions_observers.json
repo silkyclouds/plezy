@@ -1,0 +1,53 @@
+{
+ "result": {
+  "nb_total_item": 539,
+  "list": [
+   {
+    "nid": "WBMZ593985-F24-EN-20261015",
+    "created": "1792074348000",
+    "title": "Haiti: Capoeira classes aim to promote peace",
+    "type": "edition",
+    "url": "https://www.france24.com/en/tv-shows/the-observers/20261015-haiti-capoeira-classes-promote-peace",
+    "episodeType": "full",
+    "main_video": [
+     {
+      "nid": "WBMZ593988-F24-EN-20261015",
+      "title": "Haiti: Capoeira classes aim to promote peace",
+      "duration": "",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": ""
+       }
+      ],
+      "youtube_id": "Dy4WmBUMn28",
+      "video_type": {}
+     }
+    ]
+   },
+   {
+    "nid": "WBMZ593550-F24-EN-20261014",
+    "created": "1792066189000",
+    "title": "A deep dive into the global spy plane market",
+    "type": "edition",
+    "url": "https://www.france24.com/en/tv-shows/the-observers/20261015-deep-dive-global-spy-plane-market",
+    "episodeType": "full",
+    "main_video": [
+     {
+      "nid": "WBMZ593549-F24-EN-20261014",
+      "title": "A deep dive into the global spy plane market",
+      "duration": "",
+      "formats": [
+       {
+        "code": "MP4",
+        "url": ""
+       }
+      ],
+      "youtube_id": "g3Jf8ANAp1E",
+      "video_type": {}
+     }
+    ]
+   }
+  ]
+ }
+}

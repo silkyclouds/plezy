@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 import 'package:http/testing.dart';
 import 'package:plezy/replay/providers/france24/france24_api.dart';
+import 'package:plezy/replay/providers/france24/france24_language.dart';
 import 'package:plezy/replay/providers/france24/france24_provider.dart';
 import 'package:plezy/utils/media_server_http_client.dart';
 
@@ -28,18 +29,87 @@ const avecJudithEdition = 'WBMZ705617-F24-FR-20261016';
 const clipWithAllFormats = 'DB3690B3-3650-4CAF-BDB3-C7E907DE36DF';
 const clipWithTwoFormats = 'C31A21F6-9821-411A-BBE6-6A6CA28B1F08';
 
+/// English tree: programme with three recorded editions, one with UUID edition ids, and the YouTube-only one.
+const factOrFake = 'WB5973796-F24-EN-20190225';
+const business = 'WB5442702-F24-EN-20130826';
+const observers = 'WB5103037-F24-EN-20101011';
+
 final testNow = DateTime.utc(2026, 10, 21, 9);
+
+/// The recorded responses of one language tree and the addresses that serve them.
+class RecordedTree {
+  final France24Language language;
+  final String root;
+  final String videosId;
+  final String programmesId;
+  final String latestId;
+
+  /// Fixture names of the programme list pages, first page first.
+  final List<String> programmePages;
+  final String latestEditions;
+  final String videos;
+
+  /// Fixture name of the first page of editions, by programme id.
+  final Map<String, String> editions;
+
+  const RecordedTree({
+    required this.language,
+    required this.root,
+    required this.videosId,
+    required this.programmesId,
+    required this.latestId,
+    required this.programmePages,
+    required this.latestEditions,
+    required this.videos,
+    required this.editions,
+  });
+
+  static const french = RecordedTree(
+    language: France24Language.french,
+    root: 'root_fr',
+    videosId: videosGuid,
+    programmesId: programmesGuid,
+    latestId: latestGuid,
+    programmePages: ['programmes', 'programmes_page2'],
+    latestEditions: 'latest_editions',
+    videos: 'videos',
+    editions: {avecJudith: 'editions'},
+  );
+
+  static const english = RecordedTree(
+    language: France24Language.english,
+    root: 'english/root',
+    videosId: 'a25eccc6-224a-49dc-bd4a-237b090d93be',
+    programmesId: '1eca84d5-5fd6-4061-9c7c-d95ee193c7c7',
+    latestId: 'd6af02a5-7b7e-439f-bab5-ccecab16f9fa',
+    programmePages: ['english/programmes', 'english/programmes_page2'],
+    latestEditions: 'english/latest_editions',
+    videos: 'english/videos',
+    editions: {
+      factOrFake: 'english/editions',
+      business: 'english/editions_business',
+      observers: 'english/editions_observers',
+    },
+  );
+}
 
 Map<String, dynamic> fixture(String name) =>
     jsonDecode(File('$_fixtures/$name.json').readAsStringSync()) as Map<String, dynamic>;
 
 /// Serves recorded France 24 responses, plus generated edition histories for programmes that need many pages.
 class RecordedFrance24 {
+  final RecordedTree tree;
+
+  RecordedFrance24({this.tree = RecordedTree.french});
+
   /// Edition histories by programme id, newest first, served 21 per page.
   final Map<String, List<Map<String, dynamic>>> histories = {};
 
   /// Replaces the recorded video feed when set.
   Map<String, dynamic>? videoFeed;
+
+  /// Replaces the recorded programme list when set, served 24 per page.
+  List<Map<String, dynamic>>? programmeList;
 
   /// Forces every catalogue request to answer with this status when set.
   int? status;
@@ -64,10 +134,10 @@ class RecordedFrance24 {
     final page = int.tryParse(query['page'] ?? '') ?? 1;
     final nid = query['nid'];
     final body = switch (guid) {
-      rootGuid => fixture('root_fr'),
-      programmesGuid => _programmes(page, nid),
-      latestGuid => page == 1 ? fixture('latest_editions') : _empty(page, 24),
-      videosGuid => _videos(page, nid),
+      rootGuid => fixture(tree.root),
+      _ when guid == tree.programmesId => _programmes(page, nid),
+      _ when guid == tree.latestId => page == 1 ? fixture(tree.latestEditions) : _empty(page, 24),
+      _ when guid == tree.videosId => _videos(page, nid),
       editionsGuid => _editions(page, nid),
       _ => null,
     };
@@ -75,16 +145,21 @@ class RecordedFrance24 {
   }
 
   Map<String, dynamic> _programmes(int page, String? nid) {
-    final first = fixture('programmes');
+    final replaced = programmeList;
+    if (replaced != null) {
+      final matching = nid == null ? replaced : replaced.where((p) => p['nid'] == nid).toList();
+      return _page(matching, page: nid == null ? page : 1, perPage: 24);
+    }
+    final pages = [for (final name in tree.programmePages) fixture(name)];
     if (nid != null) {
-      final all = [..._listOf(first), ..._listOf(fixture('programmes_page2'))];
+      final all = [for (final p in pages) ..._listOf(p)];
       return _page(all.where((p) => p['nid'] == nid).toList(), page: 1, perPage: 24);
     }
-    return page == 1 ? first : (page == 2 ? fixture('programmes_page2') : _empty(page, 24));
+    return page <= pages.length ? pages[page - 1] : _empty(page, 24);
   }
 
   Map<String, dynamic> _videos(int page, String? nid) {
-    final feed = videoFeed ?? fixture('videos');
+    final feed = videoFeed ?? fixture(tree.videos);
     if (nid != null) return _page(_listOf(feed).where((v) => v['nid'] == nid).toList(), page: 1, perPage: 25);
     return page == 1 ? feed : _empty(page, 25);
   }
@@ -92,7 +167,8 @@ class RecordedFrance24 {
   Map<String, dynamic> _editions(int page, String? nid) {
     final history = histories[nid];
     if (history != null) return _page(history, page: page, perPage: 21);
-    if (nid == avecJudith) return page == 1 ? fixture('editions') : _empty(page, 21);
+    final recorded = tree.editions[nid];
+    if (recorded != null) return page == 1 ? fixture(recorded) : _empty(page, 21);
     return _empty(page, 21);
   }
 
@@ -129,8 +205,9 @@ Map<String, dynamic> editionOn(
   bool withVideo = true,
   bool created = true,
   String? videoNid,
+  String base = 'editions',
 }) {
-  final edition = jsonDecode(jsonEncode(fixture('editions')['result']['list'][0])) as Map<String, dynamic>;
+  final edition = jsonDecode(jsonEncode(fixture(base)['result']['list'][0])) as Map<String, dynamic>;
   final stamp = '${day.year}${day.month.toString().padLeft(2, '0')}${day.day.toString().padLeft(2, '0')}';
   final video = (edition['main_video'] as List).first as Map<String, dynamic>;
   video['nid'] = videoNid ?? 'VIDEO$index-F24-FR-$stamp';
@@ -155,7 +232,7 @@ France24Provider providerOver(RecordedFrance24 server, {DateTime? now}) {
   final client = MediaServerHttpClient(client: MockClient((r) async => server.handle(r)));
   final clock = (now == null) ? () => testNow : () => now;
   return France24Provider.withApi(
-    France24Api(client, minGap: Duration.zero, clock: clock),
+    France24Api(client, language: server.tree.language, minGap: Duration.zero, clock: clock),
     clock: clock,
   );
 }
