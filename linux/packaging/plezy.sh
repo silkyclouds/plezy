@@ -38,6 +38,15 @@ fi
 # GTK IM modules
 if [[ -f "$INSTALL_DIR/lib/gtk-3.0/3.0.0/immodules.cache" ]]; then
     export GTK_IM_MODULE_FILE="$INSTALL_DIR/lib/gtk-3.0/3.0.0/immodules.cache"
+elif [[ -n "${WAYLAND_DISPLAY:-}" && -z "${GTK_IM_MODULE:-}" && -f "$INSTALL_DIR/lib/gtk-3.0/3.0.0/immodules/im-wayland.so" ]]; then
+    # Builds made where gtk-query-immodules is missing ship no cache, so GTK never loads the bundled Wayland input
+    # method: the compositor then never learns that a text field has focus, and on-screen keyboards that wait for
+    # that signal never open. Write the one-entry cache for this install and select the module.
+    IM_CACHE="${XDG_CACHE_HOME:-$HOME/.cache}/plezy/immodules.cache"
+    mkdir -p "$(dirname "$IM_CACHE")" 2>/dev/null
+    printf '"%s"\n"wayland" "Wayland" "gtk30" "/usr/share/locale" ""\n\n' \
+        "$INSTALL_DIR/lib/gtk-3.0/3.0.0/immodules/im-wayland.so" > "$IM_CACHE" 2>/dev/null \
+        && export GTK_IM_MODULE_FILE="$IM_CACHE" GTK_IM_MODULE=wayland
 fi
 
 # GTK module path (print backends, etc.)
