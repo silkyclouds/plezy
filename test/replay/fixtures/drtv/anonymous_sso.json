@@ -1,0 +1,14 @@
+[
+  {
+    "type": "UserAccount",
+    "value": "token-account-test",
+    "expirationDate": "2099-01-01T00:00:00Z",
+    "refreshable": true
+  },
+  {
+    "type": "UserProfile",
+    "value": "token-profile-test",
+    "expirationDate": "2099-01-01T00:00:00Z",
+    "refreshable": true
+  }
+]

@@ -1,0 +1,345 @@
+{
+ "id": "348",
+ "parameter": "TitleGroupKey:ø",
+ "customFields": {
+  "PathIdSegment": "alt-indhold-_-_titlegroupkey__348"
+ },
+ "itemTypes": [
+  "show",
+  "program"
+ ],
+ "description": "",
+ "title": "Ø",
+ "shortDescription": "",
+ "themes": [],
+ "path": "/a-aa/%C3%B8",
+ "items": [
+  {
+   "availableSeasonCount": 2,
+   "id": "618687",
+   "type": "show",
+   "shortDescription": "Øgendahl gør sit bedste i forsøget på at blive klogere på de store danske forfattere, som han aldrig har fået læst.",
+   "contextualTitle": "",
+   "title": "Øgendahl og de store forfattere",
+   "path": "/serie/oegendahl-og-de-store-forfattere_618687",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='618687'&Width=1920&Height=1080&ImageId='80949681'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='618687'&Width=2000&Height=3000&ImageId='80949712'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='618687'&Width=1920&Height=1080&ImageId='80949686'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "DR1",
+    "DisplayCategory": "Dokumentar,Kultur,Historie",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-ALL",
+    "IsGeoRestricted": "False",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Dokumentar | 2 SÆSONER"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "dokumentar",
+    "kultur",
+    "historie",
+    "dr1",
+    "acc_spoken_subtitles"
+   ]
+  },
+  {
+   "duration": 1816,
+   "releaseYear": 1969,
+   "id": "483381",
+   "type": "program",
+   "shortDescription": "Dansk dokumentar fra 1969. \"Jeg kan sgu da ikke li' drenge, de er så dumme\" - det er i hvert fald Sidsels opfattelse. Hun og en flok af både små og store børn tegner og snakker med journalisten Christian Kryger. Og de finurlige samtaler spænder vidt. Poul",
+   "contextualTitle": "",
+   "title": "Øjebliksbilleder",
+   "classification": {
+    "code": "DR-Voksen",
+    "name": "Voksen"
+   },
+   "path": "/program/oejebliksbilleder_483381",
+   "watchPath": "/se/oejebliksbilleder_483381",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='483381'&Width=1920&Height=1080&ImageId='59160283'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='483381'&Width=1440&Height=2160&ImageId='59160287'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='483381'&Width=1920&Height=1080&ImageId='59160289'"
+   },
+   "customFields": {
+    "AccessServicesOffered": "StandardVideo",
+    "BrandingChannelShort": "TVG",
+    "ProductionCountry": "DANMARK",
+    "DisplayCategory": "Livsstil,Gensyn",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-ALL",
+    "IsGeoRestricted": "False",
+    "AvailableFrom": "1969-12-23T00:00:00.0000000Z",
+    "ExtraDetails": "Livsstil | 30M"
+   },
+   "offers": [
+    {
+     "deliveryType": "StreamOrDownload",
+     "resolution": "HD-1080",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "livsstil",
+    "gensyn",
+    "dr gensyn"
+   ]
+  },
+  {
+   "availableSeasonCount": 1,
+   "id": "456800",
+   "type": "show",
+   "shortDescription": "Tag med på en helt særlig sommerkoloni på den svenske ø Snorkråkan. På hjemmesiden står der, at de voksne er vildmarks-eksperter og ansvarsfulde lejrledere, men børnene opdager hurtigt, at det ikke er helt sandt ...",
+   "contextualTitle": "",
+   "title": "Økuller",
+   "path": "/serie/oekuller_456800",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='456800'&Width=1920&Height=1080&ImageId='53306136'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='456800'&Width=1920&Height=1080&ImageId='53306140'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='456800'&Width=1440&Height=2160&ImageId='53306138'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "TVR",
+    "DisplayCategory": "Humor,Serie",
+    "TargetAudience": "All",
+    "ClassificationRating": "MRAM-ALL",
+    "IsGeoRestricted": "True",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Humor | 1 SÆSON"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "humor",
+    "serie",
+    "dr ramasjang"
+   ]
+  },
+  {
+   "duration": 3510,
+   "releaseYear": 2022,
+   "id": "586153",
+   "type": "program",
+   "shortDescription": "I Cambodia kæmper lokale og internationale bryggerier - blandt andet Carlsberg - om landets voksende ølmarked. Markedsføringen er massiv, og ølpiger og kontante præmier bliver brugt til at lokke kunderne til. Aktivisten Kim Eng har som en af de få taget k",
+   "contextualTitle": "",
+   "title": "Ølparadiset",
+   "classification": {
+    "code": "DR-Voksen",
+    "name": "Voksen"
+   },
+   "path": "/program/oelparadiset_586153",
+   "watchPath": "/se/oelparadiset_586153",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='586153'&Width=1920&Height=1080&ImageId='77325071'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='586153'&Width=1920&Height=1080&ImageId='77325075'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='586153'&Width=1440&Height=2160&ImageId='77325073'"
+   },
+   "customFields": {
+    "AccessServicesOffered": "StandardVideo,SpokenSubtitles",
+    "BrandingChannelShort": "DR1",
+    "ProductionCountry": "DANMARK",
+    "DisplayCategory": "Dokumentar",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-07",
+    "IsGeoRestricted": "True",
+    "AvailableFrom": "2026-03-31T04:00:00.0000000Z",
+    "ExtraDetails": "Dokumentar | 59M"
+   },
+   "offers": [
+    {
+     "deliveryType": "StreamOrDownload",
+     "resolution": "HD-1080",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "dokumentar",
+    "dr1",
+    "acc_spoken_subtitles"
+   ]
+  },
+  {
+   "availableSeasonCount": 1,
+   "id": "522170",
+   "type": "show",
+   "shortDescription": "Dansk programserie fra 2000. En række udsendelser om den historiske forbindelse mellem Danmark og Sverige.",
+   "contextualTitle": "",
+   "title": "Øresundsbroen",
+   "path": "/serie/oeresundsbroen_522170",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='522170'&Width=1920&Height=1080&ImageId='70631224'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='522170'&Width=1920&Height=1080&ImageId='70632693'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='522170'&Width=1440&Height=2160&ImageId='70632660'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "TVG",
+    "DisplayCategory": "Videnskab,Teknologi,Arkivnyheder,Gensyn",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-EXCEPT",
+    "IsGeoRestricted": "False",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Videnskab | 1 SÆSON"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "videnskab",
+    "teknologi",
+    "arkivnyheder",
+    "gensyn",
+    "dr gensyn",
+    "acc_spoken_subtitles"
+   ]
+  },
+  {
+   "duration": 7359,
+   "releaseYear": 2015,
+   "id": "606388",
+   "type": "program",
+   "shortDescription": "Amerikansk autentisk drama fra 2015.\n(Queen of the Desert)\nI starten af 1900-tallet rejser den unge englænder Gertrude Bell ud for at opleve verden. Det bliver begyndelsen på et livslangt eventyr, der bringer hende vidt omkring i Mellemøsten. Bells opdage",
+   "contextualTitle": "",
+   "title": "Ørkenens dronning",
+   "classification": {
+    "code": "DR-Voksen",
+    "name": "Voksen"
+   },
+   "path": "/program/oerkenens-dronning_606388",
+   "watchPath": "/se/oerkenens-dronning_606388",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='606388'&Width=1920&Height=1080&ImageId='79488205'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='606388'&Width=1440&Height=2160&ImageId='79488207'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='606388'&Width=1920&Height=1080&ImageId='79488209'"
+   },
+   "customFields": {
+    "AccessServicesOffered": "StandardVideo,SpokenSubtitles",
+    "BrandingChannelShort": "DR2",
+    "ProductionCountry": "MAROKKO",
+    "DisplayCategory": "Film",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-15",
+    "IsGeoRestricted": "True",
+    "AvailableFrom": "2018-02-17T16:55:43.0800000Z",
+    "ExtraDetails": "Film | 2T 3M"
+   },
+   "offers": [
+    {
+     "deliveryType": "StreamOrDownload",
+     "resolution": "HD-1080",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "film",
+    "dr2",
+    "acc_spoken_subtitles"
+   ]
+  },
+  {
+   "availableSeasonCount": 1,
+   "id": "557680",
+   "type": "show",
+   "shortDescription": "De blev glemt af historien. Denne serie udforsker det gådefulde ørkenfolk nabatæerne, der byggede vidundere som klippebyen Petra og grundlagde et mægtigt handelsimperium. Hvad skete der i virkeligheden med dem?",
+   "contextualTitle": "",
+   "title": "Ørkenfolkets mystiske rige",
+   "path": "/serie/oerkenfolkets-mystiske-rige_557680",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='557680'&Width=1920&Height=1080&ImageId='73802941'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='557680'&Width=1440&Height=2160&ImageId='73802943'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='557680'&Width=1920&Height=1080&ImageId='73802945'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "DR2",
+    "DisplayCategory": "Dokumentar,Historie",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-07",
+    "IsGeoRestricted": "True",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Dokumentar | 1 SÆSON"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "dokumentar",
+    "historie",
+    "dr2",
+    "acc_spoken_subtitles"
+   ]
+  },
+  {
+   "availableSeasonCount": 1,
+   "id": "479806",
+   "type": "show",
+   "shortDescription": "Fra perifer prins til reel hersker. Denne serie afslører historien om Mohammed Bin Salmans vej til magten i Saudi-Arabien, og hvorfor han i dag er en af verdens mest kontroversielle og splittende ledere.",
+   "contextualTitle": "",
+   "title": "Ørkenrigets mægtigste mand",
+   "path": "/serie/oerkenrigets-maegtigste-mand_479806",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='479806'&Width=1920&Height=1080&ImageId='59614697'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='479806'&Width=1440&Height=2160&ImageId='59614701'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='479806'&Width=1920&Height=1080&ImageId='59614703'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "DR2",
+    "DisplayCategory": "Dokumentar",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-11",
+    "IsGeoRestricted": "True",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Dokumentar | 1 SÆSON"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free"
+    }
+   ],
+   "categories": [
+    "dokumentar",
+    "dr2",
+    "acc_spoken_subtitles"
+   ]
+  }
+ ],
+ "size": 11,
+ "paging": {
+  "total": 1,
+  "page": 1,
+  "size": 100,
+  "options": {
+   "pageSize": 100
+  }
+ }
+}

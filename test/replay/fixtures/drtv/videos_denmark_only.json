@@ -1,0 +1,92 @@
+[
+ {
+  "accessService": "StandardVideo",
+  "channels": 2,
+  "complianceProfile": "drtv-avc-high, 41",
+  "containerFormat": "FMP4",
+  "deliveryType": "Stream",
+  "drm": "None",
+  "format": "video/hls",
+  "resolution": "HD-1080",
+  "height": 0,
+  "isStreamLive": false,
+  "language": "da",
+  "name": "Video Resource",
+  "subtitles": [
+   {
+    "format": "text/vtt;charset=utf-8",
+    "isEmbedded": true,
+    "isHardSubs": false,
+    "language": "DanishLanguageSubtitles",
+    "link": "https://drod21p.akamaized.net/all/clear/none/9b/698ddde9ebb9d4312ca5ec9b/00571025080/subtitles/HardOfHearing-Borgen-I--8-10-_DRTV-20240300_FullHD_16x9_VideoMain.vtt"
+   }
+  ],
+  "timeCodes": [
+   {
+    "duration": 56,
+    "endTime": 56,
+    "startTime": 0,
+    "timeCodeType": "Summary"
+   },
+   {
+    "duration": 55,
+    "endTime": 327,
+    "startTime": 273,
+    "timeCodeType": "Intro"
+   },
+   {
+    "duration": 46,
+    "endTime": 3407,
+    "startTime": 3361,
+    "timeCodeType": "EndCredit"
+   }
+  ],
+  "url": "https://drod21p.akamaized.net/dk/clear/none/9b/698ddde9ebb9d4312ca5ec9b/00571025080/stream_fmp4/master_manifest.m3u8",
+  "width": 0
+ },
+ {
+  "accessService": "AudioDescription",
+  "channels": 2,
+  "complianceProfile": "drtv-avc-high, 41",
+  "containerFormat": "FMP4",
+  "deliveryType": "Stream",
+  "drm": "None",
+  "format": "video/hls",
+  "resolution": "HD-1080",
+  "height": 0,
+  "isStreamLive": false,
+  "language": "da",
+  "name": "Video Resource",
+  "subtitles": [
+   {
+    "format": "text/vtt;charset=utf-8",
+    "isEmbedded": true,
+    "isHardSubs": false,
+    "language": "DanishLanguageSubtitles",
+    "link": "https://drod21p.akamaized.net/all/clear/none/9b/698ddde9ebb9d4312ca5ec9b/00571025080/subtitles/HardOfHearing-Borgen-I--8-10-_DRTV-20240300_FullHD_16x9_VideoMain.vtt"
+   }
+  ],
+  "timeCodes": [
+   {
+    "duration": 56,
+    "endTime": 56,
+    "startTime": 0,
+    "timeCodeType": "Summary"
+   },
+   {
+    "duration": 55,
+    "endTime": 327,
+    "startTime": 273,
+    "timeCodeType": "Intro"
+   },
+   {
+    "duration": 46,
+    "endTime": 3407,
+    "startTime": 3361,
+    "timeCodeType": "EndCredit"
+   }
+  ],
+  "url": "https://drod21p.akamaized.net/dk/clear/none/9b/698ddde9ebb9d4312ca5ec9b/00571025080/stream_fmp4/AudioDescription_master_manifest.m3u8",
+  "width": 0
+ }
+]

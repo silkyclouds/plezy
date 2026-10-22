@@ -1,0 +1,47 @@
+{
+ "duration": 5687,
+ "releaseYear": 2004,
+ "id": "578151",
+ "type": "program",
+ "shortDescription": "Dansk tv-drama fra 2004. En ung håbefuld filminstruktør får lov til at lave en portrætfilm om verdensstjernen Asta Nielsen. Han finder dog hurtigt ud af, at han står overfor en kolossal udfordring med en stædig hovedperson. Men instruktøren bliver også kl",
+ "contextualTitle": "",
+ "title": "Afgrunden",
+ "classification": {
+  "code": "DR-Voksen",
+  "name": "Voksen"
+ },
+ "path": "/program/afgrunden_578151",
+ "watchPath": "/se/afgrunden_578151",
+ "images": {
+  "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='578151'&Width=1920&Height=1080&ImageId='76586139'",
+  "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='578151'&Width=1440&Height=2160&ImageId='76586141'",
+  "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='578151'&Width=1920&Height=1080&ImageId='76586143'"
+ },
+ "customFields": {
+  "AccessServicesOffered": "StandardVideo,SpokenSubtitles",
+  "BrandingChannelShort": "TVG",
+  "ProductionCountry": "DANMARK",
+  "DisplayCategory": "Teater og TV-film,Gensyn",
+  "TargetAudience": "Adults",
+  "ClassificationRating": "MRAM-15",
+  "IsGeoRestricted": "False",
+  "AvailableFrom": "2004-05-31T19:15:57.0000000Z",
+  "ExtraDetails": "Teater og TV-film | 1T 35M"
+ },
+ "offers": [
+  {
+   "deliveryType": "StreamOrDownload",
+   "endDate": "2028-01-18T22:59:00Z",
+   "resolution": "HD-1080",
+   "availability": "Available",
+   "ownership": "Free",
+   "startDate": "2026-07-18T04:00:00Z"
+  }
+ ],
+ "categories": [
+  "teater og tv-film",
+  "gensyn",
+  "dr gensyn",
+  "acc_spoken_subtitles"
+ ]
+}

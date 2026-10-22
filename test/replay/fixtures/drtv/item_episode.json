@@ -1,0 +1,106 @@
+{
+ "advisoryText": "",
+ "copyright": "",
+ "credits": [],
+ "customMetadata": [],
+ "distributor": "DRTV",
+ "duration": 1695,
+ "releaseYear": 2026,
+ "episodeNumber": 14,
+ "episodeName": "Frank & Kastaniegaarden: 20 år på Kastaniegaarden",
+ "seasonId": "567443",
+ "showId": "6954",
+ "offers": [
+  {
+   "deliveryType": "StreamOrDownload",
+   "endDate": "2028-10-19T21:59:00Z",
+   "scopes": [
+    "622110"
+   ],
+   "exclusionRules": [],
+   "resolution": "HD-1080",
+   "id": "ID0EODAC",
+   "name": "D468078_Episode Free HD-1080 Episode_Anonymous",
+   "availability": "Available",
+   "ownership": "Free",
+   "price": 0,
+   "startDate": "2026-10-19T04:00:00Z"
+  }
+ ],
+ "trailers": [],
+ "scopes": [
+  "622110",
+  "567443"
+ ],
+ "categories": [
+  "livsstil",
+  "underholdning",
+  "natur",
+  "bolig",
+  "have",
+  "dr1"
+ ],
+ "channelPath": "",
+ "customFields": {
+  "OwnedCategory": "Livsstil,Underholdning,Natur,Bolig,Have,DR1",
+  "AccessServicesOffered": "StandardVideo",
+  "BrandingChannelShort": "DR1",
+  "BrandingChannelDisplayName": "DR1",
+  "ProductionCountry": "DANMARK",
+  "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+  "TargetAudience": "Adults",
+  "RatingSegment": "DRTV",
+  "PrimaryContentUniverse": "DRTV",
+  "ClassificationRating": "MRAM-ALL",
+  "IsGeoRestricted": "False",
+  "PlayButtonExtraDetails": "S2026:E14 20 år på Kastaniegaarden",
+  "ContextualTitleExtraDetails": "19. OKT 2026 | 28M",
+  "AvailableFrom": "2026-10-19T04:00:00.0000000Z",
+  "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+  "PresentationTypeCode": "CurrentAffairs",
+  "PageTitle": "Frank & Kastaniegaarden: Sæson 2026 – 20 år på Kastaniegaarden",
+  "ExtraDetails": "19. OKT 2026 | 28M",
+  "ShortVideoUrl": "https://drod22m.akamaized.net/all/clear/none/ef/6ad1a93f67793c00018d65ef/6ad1a93ff43d210001796ee5/stream_fmp4/master_manifest.m3u8",
+  "PathIdSegment": "frank-and-kastaniegaarden_-20-aar-paa-kastaniegaarden_622110",
+  "ContentUniverses": [
+   "drtv"
+  ]
+ },
+ "customId": "urn:dr:ocs:tv:content:playable:00952630140",
+ "genres": [
+  "ukendt"
+ ],
+ "id": "622110",
+ "type": "episode",
+ "keywords": [
+  "thesaurus_gør-det-selv",
+  "thesaurus_hø",
+  "controlled_æbleeddike",
+  "controlled_regnvandsopsamling",
+  "controlled_vandhaner",
+  "editorialptaxtop_tv-program",
+  "editorialptaxsub_hus/have",
+  "culturalorigin_dansk"
+ ],
+ "description": "Det er ret præcist 20 år siden, Frank overtog Kastaniegaarden, og med gården fulgte en trillebør, som de to årtier ikke har været helt gode ved. Efter en større overhaling kan den arbejde videre de næste 20 år. Æbleeddike er godt til andet end madlavning. Så har man i tøndevis, kan man lige så godt bruge en spandfuld til at afsyre gamle messingvandhaner i. De fulgte også med gården, og meningen med deres nye liv, er at de skal fungere som tappehaner i Franks nye regnvandstønder. Udløber: 19. okt 2028",
+ "shortDescription": "Det er ret præcist 20 år siden, Frank overtog Kastaniegaarden, og med gården fulgte en trillebør, som de to årtier ikke har været helt gode ved. Efter en større overhaling kan den arbejde videre de næste 20 år. Æbleeddike er godt til andet end madlavning.",
+ "contextualTitle": "20 år på Kastaniegaarden",
+ "sports": [],
+ "tagline": "Hvordan afsyrer Frank gamle messingvandhaner? Med æbleeddike",
+ "themes": [],
+ "title": "Frank & Kastaniegaarden: 20 år på Kastaniegaarden",
+ "vodItemWatchPath": "",
+ "classification": {
+  "code": "DR-Voksen",
+  "name": "Voksen"
+ },
+ "path": "/episode/frank-and-kastaniegaarden_-20-aar-paa-kastaniegaarden_622110",
+ "watchPath": "/se/frank-and-kastaniegaarden_-20-aar-paa-kastaniegaarden_622110",
+ "genrePaths": [],
+ "totalUserRatings": 0,
+ "images": {
+  "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=3000&Height=1688&ImageId='81745934'",
+  "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=3000&Height=1688&ImageId='81745936'",
+  "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=1440&Height=2160&ImageId='81717071'"
+ }
+}

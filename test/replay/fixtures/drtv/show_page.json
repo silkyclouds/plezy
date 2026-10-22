@@ -1,0 +1,480 @@
+{
+ "path": "/serie/frank-kastaniegaarden_6954",
+ "canonical": "/serie/frank-and-kastaniegaarden_6954",
+ "template": "Show Detail",
+ "item": {
+  "releaseYear": 2026,
+  "availableEpisodeCount": 14,
+  "seasonNumber": 2026,
+  "showId": "6954",
+  "episodeCount": 21,
+  "id": "567443",
+  "type": "season",
+  "shortDescription": "I Frank & Kastaniegarden (tidligere Bonderøven) viser Frank Erichsen vejen til et liv med fokus på bæredygtighed og selvforsyning. Udgangspunktet er familielivet på Kastaniegaarden, hvor han finder på nye idéer med inspiration fra nær og fjern.",
+  "contextualTitle": "",
+  "title": "Frank & Kastaniegaarden",
+  "classification": {
+   "code": "DR-Voksen",
+   "name": "Voksen"
+  },
+  "path": "/saeson/frank-and-kastaniegaarden_567443",
+  "images": {
+   "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='567443'&Width=1920&Height=1080&ImageId='81717069'",
+   "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='567443'&Width=1440&Height=2160&ImageId='81717071'",
+   "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='567443'&Width=1920&Height=1080&ImageId='81717091'"
+  },
+  "customFields": {
+   "BrandingChannelShort": "DR1",
+   "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+   "TargetAudience": "Adults",
+   "ClassificationRating": "MRAM-ALL",
+   "IsGeoRestricted": "False",
+   "IsSeasonDRMPlayoutRequired": "False",
+   "ExtraDetails": "Livsstil | SÆSON 2026"
+  },
+  "offers": [
+   {
+    "deliveryType": "StreamOrDownload",
+    "endDate": "2028-12-07T22:59:00Z",
+    "resolution": "HD-1080",
+    "availability": "Available",
+    "ownership": "Free",
+    "startDate": "2026-01-12T05:00:00Z"
+   }
+  ],
+  "categories": [
+   "livsstil",
+   "underholdning",
+   "natur",
+   "bolig",
+   "have",
+   "dr1",
+   "acc_spoken_subtitles"
+  ],
+  "show": {
+   "availableSeasonCount": 19,
+   "id": "6954",
+   "type": "show",
+   "shortDescription": "I Frank & Kastaniegarden (tidligere Bonderøven) viser Frank Erichsen vejen til et liv med fokus på bæredygtighed og selvforsyning. Udgangspunktet er familielivet på Kastaniegaarden, hvor han finder på nye idéer med inspiration fra nær og fjern.",
+   "contextualTitle": "",
+   "title": "Frank & Kastaniegaarden",
+   "path": "/serie/frank-and-kastaniegaarden_6954",
+   "images": {
+    "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='6954'&Width=1920&Height=1080&ImageId='81717066'",
+    "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='6954'&Width=1920&Height=1080&ImageId='81717088'",
+    "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='6954'&Width=1440&Height=2160&ImageId='81717064'"
+   },
+   "customFields": {
+    "BrandingChannelShort": "DR1",
+    "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+    "TargetAudience": "Adults",
+    "ClassificationRating": "MRAM-ALL",
+    "IsGeoRestricted": "False",
+    "IsSeriesDRMPlayoutRequired": "False",
+    "ExtraDetails": "Livsstil"
+   },
+   "offers": [
+    {
+     "deliveryType": "None",
+     "endDate": "2030-06-01T21:59:59Z",
+     "resolution": "Unknown",
+     "availability": "Available",
+     "ownership": "Free",
+     "startDate": "2017-08-24T18:00:32Z"
+    }
+   ],
+   "categories": [
+    "livsstil",
+    "underholdning",
+    "natur",
+    "bolig",
+    "have",
+    "dr1",
+    "acc_spoken_subtitles",
+    "acc_sign_language"
+   ],
+   "seasons": {
+    "paging": {
+     "total": 1,
+     "page": 1,
+     "size": 200,
+     "options": {
+      "pageSize": 200
+     }
+    },
+    "items": [
+     {
+      "releaseYear": 2008,
+      "availableEpisodeCount": 8,
+      "seasonNumber": 2008,
+      "showId": "6954",
+      "episodeCount": 8,
+      "id": "9008",
+      "type": "season",
+      "shortDescription": "Tilrettelæggelse: Peter Wath og Rikke Lauridsen.",
+      "contextualTitle": "Season 2008",
+      "title": "Frank & Kastaniegaarden",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/saeson/frank-and-kastaniegaarden_9008",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9008'&Width=1920&Height=1080&ImageId='3739952'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9008'&Width=1440&Height=2160&ImageId='76545805'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9008'&Width=1920&Height=1080&ImageId='3739957'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "False",
+       "IsSeasonDRMPlayoutRequired": "False",
+       "ExtraDetails": "Livsstil | SÆSON 2008"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "livsstil",
+       "underholdning",
+       "natur",
+       "bolig",
+       "have",
+       "dr1"
+      ]
+     },
+     {
+      "releaseYear": 2008,
+      "availableEpisodeCount": 19,
+      "seasonNumber": 2009,
+      "showId": "6954",
+      "episodeCount": 19,
+      "id": "8761",
+      "type": "season",
+      "shortDescription": "I Frank & Kastaniegarden (tidligere Bonderøven) viser Frank Erichsen vejen til et liv med fokus på bæredygtighed og selvforsyning. Udgangspunktet er familielivet på Kastaniegaarden, hvor han finder på nye idéer med inspiration fra nær og fjern.",
+      "contextualTitle": "Season 2009",
+      "title": "Frank & Kastaniegaarden",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/saeson/frank-and-kastaniegaarden_8761",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='8761'&Width=1920&Height=1080&ImageId='3739925'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='8761'&Width=1440&Height=2160&ImageId='81717064'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='8761'&Width=1920&Height=1080&ImageId='3739929'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "False",
+       "IsSeasonDRMPlayoutRequired": "False",
+       "ExtraDetails": "Livsstil | SÆSON 2009"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "livsstil",
+       "underholdning",
+       "natur",
+       "bolig",
+       "have",
+       "dr1"
+      ]
+     },
+     {
+      "releaseYear": 2010,
+      "availableEpisodeCount": 18,
+      "seasonNumber": 2010,
+      "showId": "6954",
+      "episodeCount": 18,
+      "id": "9007",
+      "type": "season",
+      "shortDescription": "I Frank & Kastaniegarden (tidligere Bonderøven) viser Frank Erichsen vejen til et liv med fokus på bæredygtighed og selvforsyning. Udgangspunktet er familielivet på Kastaniegaarden, hvor han finder på nye idéer med inspiration fra nær og fjern.",
+      "contextualTitle": "Season 2010",
+      "title": "Frank & Kastaniegaarden",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/saeson/frank-and-kastaniegaarden_9007",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9007'&Width=1920&Height=1080&ImageId='3739924'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9007'&Width=1440&Height=2160&ImageId='76545805'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='9007'&Width=1920&Height=1080&ImageId='3739928'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "False",
+       "IsSeasonDRMPlayoutRequired": "False",
+       "ExtraDetails": "Livsstil | SÆSON 2010"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "livsstil",
+       "underholdning",
+       "natur",
+       "bolig",
+       "have",
+       "dr1",
+       "acc_spoken_subtitles"
+      ]
+     },
+     {
+      "releaseYear": 2011,
+      "availableEpisodeCount": 19,
+      "seasonNumber": 2011,
+      "showId": "6954",
+      "episodeCount": 18,
+      "id": "8901",
+      "type": "season",
+      "shortDescription": "I Frank & Kastaniegarden (tidligere Bonderøven) viser Frank Erichsen vejen til et liv med fokus på bæredygtighed og selvforsyning. Udgangspunktet er familielivet på Kastaniegaarden, hvor han finder på nye idéer med inspiration fra nær og fjern.",
+      "contextualTitle": "Season 2011",
+      "title": "Frank & Kastaniegaarden",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/saeson/frank-and-kastaniegaarden_8901",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='8901'&Width=1920&Height=1080&ImageId='3739840'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='8901'&Width=1920&Height=1080&ImageId='3739846'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='8901'&Width=1440&Height=2160&ImageId='81717064'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "False",
+       "IsSeasonDRMPlayoutRequired": "False",
+       "ExtraDetails": "Livsstil | SÆSON 2011"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "livsstil",
+       "underholdning",
+       "natur",
+       "bolig",
+       "have",
+       "dr1",
+       "acc_spoken_subtitles"
+      ]
+     }
+    ],
+    "count": 19
+   },
+   "nextEpisode": {
+    "available": "26. OKT 2026 | 6:00",
+    "availableUTC": "1792990800"
+   }
+  },
+  "episodes": {
+   "paging": {
+    "total": 1,
+    "page": 1,
+    "size": 200,
+    "options": {
+     "pageSize": 200
+    }
+   },
+   "count": 14,
+   "items": [
+    {
+     "duration": 1695,
+     "releaseYear": 2026,
+     "episodeNumber": 14,
+     "episodeName": "Frank & Kastaniegaarden: 20 år på Kastaniegaarden",
+     "seasonId": "567443",
+     "showId": "6954",
+     "id": "622110",
+     "type": "episode",
+     "shortDescription": "Det er ret præcist 20 år siden, Frank overtog Kastaniegaarden, og med gården fulgte en trillebør, som de to årtier ikke har været helt gode ved. Efter en større overhaling kan den arbejde videre de næste 20 år. Æbleeddike er godt til andet end madlavning.",
+     "contextualTitle": "20 år på Kastaniegaarden",
+     "tagline": "Hvordan afsyrer Frank gamle messingvandhaner? Med æbleeddike",
+     "title": "Frank & Kastaniegaarden: 20 år på Kastaniegaarden",
+     "classification": {
+      "code": "DR-Voksen",
+      "name": "Voksen"
+     },
+     "path": "/episode/frank-and-kastaniegaarden_-20-aar-paa-kastaniegaarden_622110",
+     "watchPath": "/se/frank-and-kastaniegaarden_-20-aar-paa-kastaniegaarden_622110",
+     "images": {
+      "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=3000&Height=1688&ImageId='81745934'",
+      "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=3000&Height=1688&ImageId='81745936'",
+      "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622110'&Width=1440&Height=2160&ImageId='81717071'"
+     },
+     "customFields": {
+      "AccessServicesOffered": "StandardVideo",
+      "BrandingChannelShort": "DR1",
+      "ProductionCountry": "DANMARK",
+      "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+      "TargetAudience": "Adults",
+      "ClassificationRating": "MRAM-ALL",
+      "IsGeoRestricted": "False",
+      "PlayButtonExtraDetails": "S2026:E14 20 år på Kastaniegaarden",
+      "AvailableFrom": "2026-10-19T04:00:00.0000000Z",
+      "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+      "ExtraDetails": "19. OKT 2026 | 28M"
+     },
+     "offers": [
+      {
+       "deliveryType": "StreamOrDownload",
+       "resolution": "HD-1080",
+       "availability": "Available",
+       "ownership": "Free"
+      }
+     ],
+     "categories": [
+      "livsstil",
+      "underholdning",
+      "natur",
+      "bolig",
+      "have",
+      "dr1"
+     ]
+    },
+    {
+     "duration": 1704,
+     "releaseYear": 2026,
+     "episodeNumber": 13,
+     "episodeName": "Frank & Kastaniegaarden: Lækre spær og havelåge med svung",
+     "seasonId": "567443",
+     "showId": "6954",
+     "id": "622104",
+     "type": "episode",
+     "shortDescription": "Der er gang i småbyggerierne i Kastaniegaardens køkkenhave, og Frank er detaljernes mand, når det griber ham. Så den overdækkede redskabsvæg, han vil give sine haveredskaber, bliver lavet med sirligt udskårne spærender og andre lækre detaljer. Selv havelå",
+     "contextualTitle": "Lækre spær og havelåge med svung",
+     "tagline": "Franks havelåge får en nøje gennemtænkt bueform",
+     "title": "Frank & Kastaniegaarden: Lækre spær og havelåge med svung",
+     "classification": {
+      "code": "DR-Voksen",
+      "name": "Voksen"
+     },
+     "path": "/episode/frank-and-kastaniegaarden_-laekre-spaer-og-havelaage-med-svung_622104",
+     "watchPath": "/se/frank-and-kastaniegaarden_-laekre-spaer-og-havelaage-med-svung_622104",
+     "images": {
+      "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622104'&Width=3000&Height=1688&ImageId='81745927'",
+      "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622104'&Width=3000&Height=1688&ImageId='81745929'",
+      "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622104'&Width=1440&Height=2160&ImageId='81717071'"
+     },
+     "customFields": {
+      "AccessServicesOffered": "StandardVideo",
+      "BrandingChannelShort": "DR1",
+      "ProductionCountry": "DANMARK",
+      "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+      "TargetAudience": "Adults",
+      "ClassificationRating": "MRAM-ALL",
+      "IsGeoRestricted": "False",
+      "PlayButtonExtraDetails": "S2026:E13 Lækre spær og havelåge med svung",
+      "AvailableFrom": "2026-10-12T04:00:00.0000000Z",
+      "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+      "ExtraDetails": "12. OKT 2026 | 28M"
+     },
+     "offers": [
+      {
+       "deliveryType": "StreamOrDownload",
+       "resolution": "HD-1080",
+       "availability": "Available",
+       "ownership": "Free"
+      }
+     ],
+     "categories": [
+      "livsstil",
+      "underholdning",
+      "natur",
+      "bolig",
+      "have",
+      "dr1"
+     ]
+    },
+    {
+     "duration": 1679,
+     "releaseYear": 2026,
+     "episodeNumber": 12,
+     "episodeName": "Frank & Kastaniegaarden: Automatvanding med fjer og fåreuld",
+     "seasonId": "567443",
+     "showId": "6954",
+     "id": "622109",
+     "type": "episode",
+     "shortDescription": "Det ser sjældent sådan ud, men Frank bruger indimellem løsninger, der gør livet lidt lettere på Kastaniegaarden. I stedet for et hakkejern til at fjerne ukrudt, finder han sin gamle lynhurtige hjulhakke frem. Og i stedet for at hyppe kartoflerne i hånden,",
+     "contextualTitle": "Automatvanding med fjer og fåreuld",
+     "tagline": "Frank optimerer vandingen af tomatplanterne i drivhuset",
+     "title": "Frank & Kastaniegaarden: Automatvanding med fjer og fåreuld",
+     "classification": {
+      "code": "DR-Voksen",
+      "name": "Voksen"
+     },
+     "path": "/episode/frank-and-kastaniegaarden_-automatvanding-med-fjer-og-faareuld_622109",
+     "watchPath": "/se/frank-and-kastaniegaarden_-automatvanding-med-fjer-og-faareuld_622109",
+     "images": {
+      "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622109'&Width=3000&Height=1688&ImageId='81716944'",
+      "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622109'&Width=3000&Height=1688&ImageId='81716946'",
+      "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622109'&Width=1440&Height=2160&ImageId='81717071'"
+     },
+     "customFields": {
+      "AccessServicesOffered": "StandardVideo",
+      "BrandingChannelShort": "DR1",
+      "ProductionCountry": "DANMARK",
+      "DisplayCategory": "Livsstil,Underholdning,Natur,Bolig,Have",
+      "TargetAudience": "Adults",
+      "ClassificationRating": "MRAM-ALL",
+      "IsGeoRestricted": "False",
+      "PlayButtonExtraDetails": "S2026:E12 Automatvanding med fjer og fåreuld",
+      "AvailableFrom": "2026-10-05T04:00:00.0000000Z",
+      "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+      "ExtraDetails": "5. OKT 2026 | 28M"
+     },
+     "offers": [
+      {
+       "deliveryType": "StreamOrDownload",
+       "resolution": "HD-1080",
+       "availability": "Available",
+       "ownership": "Free"
+      }
+     ],
+     "categories": [
+      "livsstil",
+      "underholdning",
+      "natur",
+      "bolig",
+      "have",
+      "dr1"
+     ]
+    }
+   ]
+  }
+ }
+}

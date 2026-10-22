@@ -2,6 +2,7 @@ import '../../utils/media_server_http_client.dart';
 import '../providers/arte/arte_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
+import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
@@ -146,6 +147,13 @@ const replaySourceInfos = [
     languages: ['en'],
   ),
   ReplaySourceInfo(
+    id: 'drtv',
+    name: 'DR TV',
+    support: ReplayPlaybackSupport.partial,
+    country: 'DK',
+    languages: ['da'],
+  ),
+  ReplaySourceInfo(
     id: 'dw',
     name: 'Deutsche Welle',
     support: ReplayPlaybackSupport.clear,
@@ -207,6 +215,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'svtplay' => SvtPlayProvider(http),
       'pbs' => PbsProvider(http),
       'ted' => TedProvider(http),
+      'drtv' => DrtvProvider(http),
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
       _ => null,

@@ -1,0 +1,393 @@
+{
+ "path": "/",
+ "template": "Home",
+ "title": "DRTV - Stream TV online her",
+ "entries": [
+  {
+   "type": "ListEntry",
+   "id": "c4a8cfd",
+   "template": "DRH6",
+   "title": "",
+   "list": {
+    "id": "149349",
+    "paging": {
+     "total": 1,
+     "page": 1,
+     "size": 24,
+     "options": {
+      "pageSize": 24
+     }
+    },
+    "items": [
+     {
+      "availableEpisodeCount": 1,
+      "seasonNumber": 1,
+      "showId": "626605",
+      "episodeCount": 6,
+      "id": "626606",
+      "type": "season",
+      "shortDescription": "Hvad sker der, når man sender unge og ældre til Sydkorea sammen, tilføjer youtuberen Jeppe Ølgaard, og et hav af vanvittige koreanske udfordringer undervejs på deres rejse. Det er UKENDT MAKKER - UKENDT LAND.",
+      "contextualTitle": "",
+      "tagline": "Episode 1:6 | Fem umage makkerpar og et hav af vanvittige udfordringer i Sydkorea",
+      "title": "Ukendt makker, ukendt land",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/saeson/ukendt-makker-ukendt-land_626606",
+      "images": {
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626606'&Width=3000&Height=1688&ImageId='81855922'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626606'&Width=3000&Height=1688&ImageId='81855953'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626606'&Width=1440&Height=2160&ImageId='81855843'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Underholdning,Rejse",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "True",
+       "IsSeasonDRMPlayoutRequired": "False",
+       "ExtraDetails": "Underholdning | SÆSON 1"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "underholdning",
+       "rejse",
+       "dr1",
+       "acc_spoken_subtitles"
+      ]
+     },
+     {
+      "id": "463050",
+      "type": "link",
+      "shortDescription": "LinkItem",
+      "contextualTitle": "Biden og Trumps kandidat-debat ",
+      "title": "TVA Live: Sikkerhedsbrist aktiverer national krisestab",
+      "path": "/kanal/192099",
+      "images": {
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='463050'&Width=1920&Height=1080&ImageId='82465415'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&EntityType='Item'&EntityId='463050'&Width=1920&Height=1080&ImageId='82465418'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "EVA"
+      },
+      "categories": []
+     },
+     {
+      "duration": 1723,
+      "releaseYear": 2026,
+      "episodeNumber": 3,
+      "episodeName": "Mors dreng: Hvor irriterende må mor være?",
+      "seasonId": "622935",
+      "showId": "622934",
+      "id": "622936",
+      "type": "episode",
+      "shortDescription": "Erik Halds mor Tine har den kroniske lidelse Mafans, der har gjort, at hun er fysisk handicappet. Da Erik er 18 år, finder de ud af, at han har arvet sygdommen, og Eriks drømme om en musicalkarriere virker pludselig uopnåelige. Boris Hiort er taget til Sp",
+      "contextualTitle": "3. Hvor irriterende må mor være?",
+      "tagline": "Episode 3:4 | Erik Hald finder ud af, at han har arvet sin mors sygdom",
+      "title": "Mors dreng: Hvor irriterende må mor være?",
+      "classification": {
+       "code": "DR-Voksen",
+       "name": "Voksen"
+      },
+      "path": "/episode/mors-dreng_-hvor-irriterende-maa-mor-vaere_622936",
+      "watchPath": "/se/mors-dreng_-hvor-irriterende-maa-mor-vaere_622936",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622936'&Width=3000&Height=1688&ImageId='82078132'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622936'&Width=3000&Height=1688&ImageId='82078135'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622936'&Width=1440&Height=2160&ImageId='82025792'"
+      },
+      "customFields": {
+       "AccessServicesOffered": "StandardVideo",
+       "BrandingChannelShort": "TP3",
+       "ProductionCountry": "DANMARK",
+       "DisplayCategory": "Dokumentar",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-07",
+       "IsGeoRestricted": "False",
+       "PlayButtonExtraDetails": "S1:E3 Hvor irriterende må mor være?",
+       "AvailableFrom": "2026-10-22T04:00:00.0000000Z",
+       "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+       "ExtraDetails": "SÆSON 1 EPISODE 3 | 29M"
+      },
+      "offers": [
+       {
+        "deliveryType": "StreamOrDownload",
+        "resolution": "HD-1080",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "dokumentar",
+       "p3"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "type": "ListEntry",
+   "id": "9338dfe",
+   "template": "TX1",
+   "title": "",
+   "list": {
+    "id": "576656",
+    "paging": {
+     "total": 1,
+     "page": 1,
+     "size": 24,
+     "options": {
+      "pageSize": 24
+     }
+    },
+    "items": [
+     {
+      "id": "376583",
+      "type": "link",
+      "shortDescription": "LinkItem",
+      "contextualTitle": "DRTV Kategori | Nyheder",
+      "title": "Nyheder",
+      "path": "/kategorier/nyhederogdebat",
+      "images": {
+       "square": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376583'&Width=1024&Height=1024&ImageId='45255066'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376583'&Width=2533&Height=1424&ImageId='45255068'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376583'&Width=2533&Height=1424&ImageId='45255070'",
+       "block": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376583'&Width=1900&Height=1425&ImageId='45365524'"
+      },
+      "customFields": {},
+      "categories": []
+     },
+     {
+      "id": "376580",
+      "type": "link",
+      "shortDescription": "LinkItem",
+      "contextualTitle": "DRTV Kategori | Dokumentar",
+      "title": "Dokumentar",
+      "path": "/kategorier/dokumentar",
+      "images": {
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376580'&Width=2533&Height=1424&ImageId='45255050'",
+       "square": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376580'&Width=1024&Height=1024&ImageId='45255048'",
+       "block": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376580'&Width=1900&Height=1425&ImageId='45365518'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376580'&Width=2533&Height=1424&ImageId='45255052'"
+      },
+      "customFields": {},
+      "categories": []
+     },
+     {
+      "id": "376581",
+      "type": "link",
+      "shortDescription": "LinkItem",
+      "contextualTitle": "DRTV Kategori | Fiktionsserier",
+      "title": "Serier",
+      "path": "/kategorier/fiktionsserier",
+      "images": {
+       "square": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376581'&Width=1024&Height=1024&ImageId='45255054'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376581'&Width=2533&Height=1424&ImageId='45255056'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376581'&Width=2533&Height=1424&ImageId='45255058'",
+       "block": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='376581'&Width=1900&Height=1425&ImageId='45365520'"
+      },
+      "customFields": {},
+      "categories": []
+     }
+    ]
+   }
+  },
+  {
+   "type": "ListEntry",
+   "id": "29dd2a4",
+   "template": "P1",
+   "title": "Nye programmer",
+   "list": {
+    "id": "559087",
+    "paging": {
+     "total": 2,
+     "page": 1,
+     "size": 24,
+     "next": "/lists/559087?page_size=24&page=2&sub=Anonymous",
+     "options": {
+      "pageSize": 24
+     }
+    },
+    "items": [
+     {
+      "availableSeasonCount": 1,
+      "id": "626605",
+      "type": "show",
+      "shortDescription": "Hvad sker der, når man sender unge og ældre til Sydkorea sammen, tilføjer youtuberen Jeppe Ølgaard, og et hav af vanvittige koreanske udfordringer undervejs på deres rejse. Det er UKENDT MAKKER - UKENDT LAND.",
+      "contextualTitle": "",
+      "title": "Ukendt makker, ukendt land",
+      "path": "/serie/ukendt-makker-ukendt-land_626605",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626605'&Width=3000&Height=1688&ImageId='81855950'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626605'&Width=1440&Height=2160&ImageId='81855843'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626605'&Width=3000&Height=1688&ImageId='81855913'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Underholdning,Rejse",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "True",
+       "IsSeriesDRMPlayoutRequired": "False",
+       "ExtraDetails": "Underholdning | 1 SÆSON"
+      },
+      "offers": [
+       {
+        "deliveryType": "None",
+        "resolution": "Unknown",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "underholdning",
+       "rejse",
+       "dr1",
+       "acc_spoken_subtitles"
+      ]
+     },
+     {
+      "availableSeasonCount": 1,
+      "id": "626604",
+      "type": "show",
+      "shortDescription": "Hvad sker der, når man uden varsel mister strøm, vand, varme og internet? I dette eksperiment flytter 10 danskere ind i fem lejligheder ved siden af hinanden. De ved godt, de skal være med i et tv-eksperiment - men de ved ikke, hvad det går ud på. Efter f",
+      "contextualTitle": "",
+      "title": "Når alt slukker",
+      "path": "/serie/naar-alt-slukker_626604",
+      "images": {
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626604'&Width=1920&Height=1080&ImageId='82408439'",
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626604'&Width=1440&Height=2160&ImageId='82408436'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='626604'&Width=1920&Height=1080&ImageId='82408431'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "DR1",
+       "DisplayCategory": "Livsstil,Debat,Reality",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-ALL",
+       "IsGeoRestricted": "False",
+       "IsSeriesDRMPlayoutRequired": "False",
+       "ExtraDetails": "Livsstil | 1 SÆSON"
+      },
+      "offers": [
+       {
+        "deliveryType": "None",
+        "resolution": "Unknown",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "livsstil",
+       "debat",
+       "reality",
+       "dr1",
+       "acc_sign_language",
+       "acc_audio_description"
+      ]
+     },
+     {
+      "availableSeasonCount": 1,
+      "id": "622934",
+      "type": "show",
+      "shortDescription": "Forholdet mellem mor og søn er skildret som noget helt særligt. Men hvad betyder det for en ung mand, når hans mor flytter med ind i voksenlivet?\nI \"Mors dreng\" følger vi 5 sønner og deres mødre og går tæt på relationen på et tidspunkt i livet, hvor sønne",
+      "contextualTitle": "",
+      "title": "Mors dreng",
+      "path": "/serie/mors-dreng_622934",
+      "images": {
+       "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622934'&Width=1440&Height=2160&ImageId='82116965'",
+       "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622934'&Width=1920&Height=1080&ImageId='82116967'",
+       "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&EntityType='Item'&EntityId='622934'&Width=1920&Height=1080&ImageId='82116963'"
+      },
+      "customFields": {
+       "BrandingChannelShort": "TP3",
+       "DisplayCategory": "Dokumentar",
+       "TargetAudience": "Adults",
+       "ClassificationRating": "MRAM-07",
+       "IsGeoRestricted": "False",
+       "IsSeriesDRMPlayoutRequired": "False",
+       "ExtraDetails": "Dokumentar | 1 SÆSON"
+      },
+      "offers": [
+       {
+        "deliveryType": "None",
+        "resolution": "Unknown",
+        "availability": "Available",
+        "ownership": "Free"
+       }
+      ],
+      "categories": [
+       "dokumentar",
+       "p3",
+       "acc_spoken_subtitles"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "type": "CustomEntry",
+   "id": "d68a956",
+   "template": "DRX11",
+   "title": ""
+  },
+  {
+   "type": "CustomEntry",
+   "id": "b3275ae",
+   "template": "DRX11",
+   "title": ""
+  },
+  {
+   "type": "ListEntry",
+   "id": "68bd864",
+   "template": "DRTB4",
+   "title": "Nyheder",
+   "list": {
+    "id": "312753",
+    "paging": {
+     "total": 1,
+     "page": 0,
+     "size": 24,
+     "next": "/lists/312753?page_size=24&page=1&sub=Anonymous",
+     "options": {
+      "pageSize": 24
+     }
+    },
+    "items": []
+   }
+  },
+  {
+   "type": "ListEntry",
+   "id": "a92498c",
+   "template": "P1",
+   "title": "Nye og populære serier",
+   "list": {
+    "id": "209529",
+    "paging": {
+     "total": 4,
+     "page": 0,
+     "size": 24,
+     "next": "/lists/209529?page_size=24&page=1&sub=Anonymous",
+     "options": {
+      "pageSize": 24
+     }
+    },
+    "items": []
+   }
+  },
+  {
+   "type": "CustomEntry",
+   "id": "7179bfc",
+   "template": "DRX11",
+   "title": ""
+  }
+ ],
+ "total_entries": 35
+}

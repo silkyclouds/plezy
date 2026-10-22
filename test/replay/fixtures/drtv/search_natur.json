@@ -1,0 +1,423 @@
+{
+ "term": "natur",
+ "total": 56,
+ "series": {
+  "id": "series-items",
+  "title": "Series",
+  "path": "",
+  "itemTypes": [
+   "show"
+  ],
+  "size": 24,
+  "paging": {
+   "size": 18,
+   "total": 2,
+   "page": 1,
+   "next": ""
+  },
+  "items": [
+   {
+    "id": "186894",
+    "type": "show",
+    "shortDescription": "Mange af os har en travl hverdag langt fra naturen. Vi bruger de fleste vågne timer på at være på job. Men vi drømmer. Drømmer om en pause, et åndehul. Om at komme ud. \nI serien \"Min natur\" viser seks DR-værter os den natur, som DE bruger til at få det pu",
+    "contextualTitle": "",
+    "title": "Min natur",
+    "path": "/serie/min-natur_186894",
+    "availableSeasonCount": 1,
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='80438137'&EntityType='Item'&EntityId='186894'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='80438139'&EntityType='Item'&EntityId='186894'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='80438141'&EntityType='Item'&EntityId='186894'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "BrandingChannelShort": "DR1",
+     "DisplayCategory": "Livsstil,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "False",
+     "IsSeriesDRMPlayoutRequired": "False",
+     "ExtraDetails": "Livsstil | 1 SÆSON"
+    },
+    "categories": [
+     "livsstil",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "549556",
+    "type": "show",
+    "shortDescription": "Med lup i lommen, kikkert om halsen og en insektsuger i munden tager naturvejleder Morten DD Hansen dig med ud i naturen.",
+    "contextualTitle": "",
+    "title": "Bidt af naturen",
+    "path": "/serie/bidt-af-naturen_549556",
+    "availableSeasonCount": 1,
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72835755'&EntityType='Item'&EntityId='549556'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72835757'&EntityType='Item'&EntityId='549556'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72835759'&EntityType='Item'&EntityId='549556'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "BrandingChannelShort": "DR1",
+     "DisplayCategory": "Livsstil,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "False",
+     "IsSeriesDRMPlayoutRequired": "False",
+     "ExtraDetails": "Livsstil | 1 SÆSON"
+    },
+    "categories": [
+     "livsstil",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "623812",
+    "type": "show",
+    "shortDescription": "Frodige skove, mytiske bjerge og vidtstrakte ødemarker. Tag med på en storslået rejse gennem Kinas vilde natur - og oplev dyr og planter, som du aldrig har set dem før.",
+    "contextualTitle": "",
+    "title": "Kinas smukke natur",
+    "path": "/serie/kinas-smukke-natur_623812",
+    "availableSeasonCount": 1,
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='81993302'&EntityType='Item'&EntityId='623812'&Width=1920&Height=1080",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='81993289'&EntityType='Item'&EntityId='623812'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='81993287'&EntityType='Item'&EntityId='623812'&Width=1440&Height=2160"
+    },
+    "customFields": {
+     "BrandingChannelShort": "DR1",
+     "DisplayCategory": "Dokumentar,Natur",
+     "TargetAudience": "All",
+     "ClassificationRating": "MRAM-07",
+     "IsGeoRestricted": "True",
+     "IsSeriesDRMPlayoutRequired": "False",
+     "ExtraDetails": "Dokumentar | 1 SÆSON"
+    },
+    "categories": [
+     "dokumentar",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "550577",
+    "type": "show",
+    "shortDescription": "Fra kyst til by, fra ø til fjeld. Kom med ud i Skotland vidtrækkende landskaber, hvor dyrelivet kæmper for at overleve - og hvor genopretning af den vilde natur er afgørende for fremtiden.",
+    "contextualTitle": "",
+    "title": "Skotlands skønne natur",
+    "path": "/serie/skotlands-skoenne-natur_550577",
+    "availableSeasonCount": 1,
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72971202'&EntityType='Item'&EntityId='550577'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72971208'&EntityType='Item'&EntityId='550577'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72971188'&EntityType='Item'&EntityId='550577'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "BrandingChannelShort": "DR1",
+     "DisplayCategory": "Dokumentar,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "True",
+     "IsSeriesDRMPlayoutRequired": "False",
+     "ExtraDetails": "Dokumentar | 1 SÆSON"
+    },
+    "categories": [
+     "dokumentar",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "615442",
+    "type": "show",
+    "shortDescription": "Giv dig selv et øjebliks ro med DR Symfoniorkestret. RO PÅ er til dig, der ønsker at stresse af, finde fordybelse eller bare nyde et fredfyldt pusterum med smukke billeder fra den danske natur og klassisk musik.",
+    "contextualTitle": "",
+    "title": "RO PÅ i naturen",
+    "path": "/serie/ro-paa-i-naturen_615442",
+    "availableSeasonCount": 1,
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='80544712'&EntityType='Item'&EntityId='615442'&Width=1920&Height=1080",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='80544714'&EntityType='Item'&EntityId='615442'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16099618'&EntityType='Item'&EntityId='615442'&Width=1440&Height=2160"
+    },
+    "customFields": {
+     "BrandingChannelShort": "DR2",
+     "DisplayCategory": "Kultur,Musik",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-EXCEPT",
+     "IsGeoRestricted": "False",
+     "IsSeriesDRMPlayoutRequired": "False",
+     "ExtraDetails": "Kultur | 1 SÆSON"
+    },
+    "categories": [
+     "kultur",
+     "musik",
+     "dr2"
+    ]
+   }
+  ]
+ },
+ "playable": {
+  "id": "playable-items",
+  "title": "playable",
+  "path": "",
+  "itemTypes": [
+   "episode",
+   "program"
+  ],
+  "size": 32,
+  "paging": {
+   "size": 18,
+   "total": 2,
+   "page": 1,
+   "next": ""
+  },
+  "items": [
+   {
+    "id": "556031",
+    "type": "episode",
+    "shortDescription": "De fleste vil nok tænke, hvad har forsvaret med god natur at gøre? Og hvorfor jubler Morten DD når han ser et bæltekøretøj kværne igennem heden?\nSe med når \"Bidt af naturen\" tager ud til Danmarks største øvelsesområde i Oksbøl. Udløber: 14. nov 2026",
+    "contextualTitle": "20. episode",
+    "title": "Bidt af naturen",
+    "path": "/episode/bidt-af-naturen_556031",
+    "duration": 1713,
+    "releaseYear": 2011,
+    "episodeNumber": 20,
+    "episodeName": "Bidt af naturen",
+    "seasonId": "549558",
+    "showId": "549556",
+    "classification": {
+     "code": "DR-Voksen",
+     "name": "Voksen"
+    },
+    "watchPath": "/se/bidt-af-naturen_556031",
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='73551308'&EntityType='Item'&EntityId='556031'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72835766'&EntityType='Item'&EntityId='556031'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='73551310'&EntityType='Item'&EntityId='556031'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "AccessServicesOffered": "StandardVideo",
+     "BrandingChannelShort": "DR1",
+     "ProductionCountry": "DANMARK",
+     "DisplayCategory": "Livsstil,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "False",
+     "PlayButtonExtraDetails": "S1:E20",
+     "AvailableFrom": "2011-10-10T16:00:37.4400000Z",
+     "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+     "ExtraDetails": "SÆSON 1 EPISODE 20 | 29M"
+    },
+    "offers": [
+     {
+      "availability": "Available",
+      "deliveryType": "StreamOrDownload",
+      "ownership": "Free",
+      "resolution": "HD-1080"
+     }
+    ],
+    "categories": [
+     "livsstil",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "557405",
+    "type": "episode",
+    "shortDescription": "Morten DD og Bidt af Naturen besøger Danmarks største sandkassse - Råbjerg Mile. Råbjerg Mile er et naturfænomen i sig selv, og den golde mini-ørken gemmer på rå natur, der ligger uberørt af menneskehånd. Det vil Morten DD naturligvis se nærmere på, så ha",
+    "contextualTitle": "24. episode",
+    "title": "Bidt af naturen",
+    "path": "/episode/bidt-af-naturen_557405",
+    "duration": 1690,
+    "releaseYear": 2011,
+    "episodeNumber": 24,
+    "episodeName": "Bidt af naturen",
+    "seasonId": "549558",
+    "showId": "549556",
+    "classification": {
+     "code": "DR-Voksen",
+     "name": "Voksen"
+    },
+    "watchPath": "/se/bidt-af-naturen_557405",
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='73701473'&EntityType='Item'&EntityId='557405'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72835766'&EntityType='Item'&EntityId='557405'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='73701490'&EntityType='Item'&EntityId='557405'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "AccessServicesOffered": "StandardVideo",
+     "BrandingChannelShort": "DR1",
+     "ProductionCountry": "DANMARK",
+     "DisplayCategory": "Livsstil,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "False",
+     "PlayButtonExtraDetails": "S1:E24",
+     "AvailableFrom": "2011-11-07T17:00:51.8000000Z",
+     "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+     "ExtraDetails": "SÆSON 1 EPISODE 24 | 28M"
+    },
+    "offers": [
+     {
+      "availability": "Available",
+      "deliveryType": "StreamOrDownload",
+      "ownership": "Free",
+      "resolution": "HD-1080"
+     }
+    ],
+    "categories": [
+     "livsstil",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "543514",
+    "type": "episode",
+    "shortDescription": "Mennesket er ikke naturens bedste ven - men muligvis den eneste. Separationen mellem natur og menneske er nået til et punkt, hvor vi enten må begære skilsmisse, fordi det er blevet for besværligt, eller indstille os på fredelig sameksistens og biodiversit",
+    "contextualTitle": "6. Natur",
+    "title": "Tænkepauser: Natur",
+    "path": "/episode/taenkepauser_-natur_543514",
+    "duration": 361,
+    "releaseYear": 2024,
+    "episodeNumber": 6,
+    "episodeName": "Tænkepauser: Natur",
+    "seasonId": "543504",
+    "showId": "543503",
+    "classification": {
+     "code": "DR-Voksen",
+     "name": "Voksen"
+    },
+    "watchPath": "/se/taenkepauser_-natur_543514",
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72446159'&EntityType='Item'&EntityId='543514'&Width=1920&Height=1080",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='72446161'&EntityType='Item'&EntityId='543514'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16099618'&EntityType='Item'&EntityId='543514'&Width=1440&Height=2160"
+    },
+    "customFields": {
+     "AccessServicesOffered": "StandardVideo",
+     "BrandingChannelShort": "DR2",
+     "ProductionCountry": "DANMARK",
+     "DisplayCategory": "Kultur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "True",
+     "PlayButtonExtraDetails": "S1:E6 Natur",
+     "AvailableFrom": "2025-09-15T04:00:00.0000000Z",
+     "SubtitleLanguagesOffered": "DanishLanguageSubtitles",
+     "ExtraDetails": "SÆSON 1 EPISODE 6 | 6M"
+    },
+    "offers": [
+     {
+      "availability": "Available",
+      "deliveryType": "StreamOrDownload",
+      "ownership": "Free",
+      "resolution": "HD-1080"
+     }
+    ],
+    "categories": [
+     "kultur",
+     "dr2"
+    ]
+   },
+   {
+    "id": "465063",
+    "type": "program",
+    "shortDescription": "Fransk naturprogram fra 2023.\n(Butterflies: Superheroes of Nature)\nMorfo, dødningehoved og dagpåfugleøje. Der findes omkring 200.000 sommerfuglearter på Jorden. De var her før dinosaurerne, og i over 300 millioner år har de lært at tilpasse sig til næsten",
+    "contextualTitle": "",
+    "title": "Sommerfugle - Naturens superhelte",
+    "path": "/program/sommerfugle-_-naturens-superhelte_465063",
+    "duration": 3126,
+    "releaseYear": 2023,
+    "classification": {
+     "code": "DR-Ramasjang",
+     "name": "Ramasjang"
+    },
+    "watchPath": "/se/sommerfugle-_-naturens-superhelte_465063",
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='53470811'&EntityType='Item'&EntityId='465063'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='53470830'&EntityType='Item'&EntityId='465063'&Width=1440&Height=2160",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='53470815'&EntityType='Item'&EntityId='465063'&Width=1920&Height=1080"
+    },
+    "customFields": {
+     "AccessServicesOffered": "StandardVideo",
+     "BrandingChannelShort": "DR1",
+     "ProductionCountry": "FRANKRIG & MONACO",
+     "DisplayCategory": "Dokumentar,Natur",
+     "TargetAudience": "All",
+     "ClassificationRating": "MRAM-ALL",
+     "IsGeoRestricted": "True",
+     "AvailableFrom": "2024-07-20T04:00:00.0000000Z",
+     "ExtraDetails": "Dokumentar | 52M"
+    },
+    "offers": [
+     {
+      "availability": "Available",
+      "deliveryType": "StreamOrDownload",
+      "ownership": "Free",
+      "resolution": "HD-1080"
+     }
+    ],
+    "categories": [
+     "dokumentar",
+     "natur",
+     "dr1"
+    ]
+   },
+   {
+    "id": "532936",
+    "type": "episode",
+    "shortDescription": "Svensk naturserie.\n(Mitt i naturen)\nFra brølen til fuglekvidder. Naturens eget kor byder på mange forskellige lyde. Joakim Odelberg begiver sig ud på en spændende lydrejse i Pantanal i Brasilien. Målet er at se og høre brøleaber, men på vejen støder han o",
+    "contextualTitle": "8. episode",
+    "title": "Midt i naturen",
+    "path": "/episode/midt-i-naturen_532936",
+    "duration": 3338,
+    "releaseYear": 2017,
+    "episodeNumber": 8,
+    "episodeName": "Midt i naturen",
+    "seasonId": "531009",
+    "showId": "531008",
+    "classification": {
+     "code": "DR-Voksen",
+     "name": "Voksen"
+    },
+    "watchPath": "/se/midt-i-naturen_532936",
+    "images": {
+     "wallpaper": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='70823027'&EntityType='Item'&EntityId='532936'&Width=1920&Height=1080",
+     "tile": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='70823029'&EntityType='Item'&EntityId='532936'&Width=1920&Height=1080",
+     "poster": "https://prod95-static.dr-massive.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='70524814'&EntityType='Item'&EntityId='532936'&Width=1440&Height=2160"
+    },
+    "customFields": {
+     "AccessServicesOffered": "StandardVideo,SpokenSubtitles",
+     "BrandingChannelShort": "DR1",
+     "ProductionCountry": "NORDEN",
+     "DisplayCategory": "Dokumentar,Natur",
+     "TargetAudience": "Adults",
+     "ClassificationRating": "MRAM-07",
+     "IsGeoRestricted": "True",
+     "PlayButtonExtraDetails": "S2018:E8",
+     "AvailableFrom": "2018-07-20T12:04:26.8800000Z",
+     "SubtitleLanguagesOffered": "ForeignLanguageSubtitles",
+     "ExtraDetails": "SÆSON 2018 EPISODE 8 | 56M"
+    },
+    "offers": [
+     {
+      "availability": "Available",
+      "deliveryType": "StreamOrDownload",
+      "ownership": "Free",
+      "resolution": "HD-1080"
+     }
+    ],
+    "categories": [
+     "dokumentar",
+     "natur",
+     "dr1",
+     "acc_spoken_subtitles"
+    ]
+   }
+  ]
+ }
+}
