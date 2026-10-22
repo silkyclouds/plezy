@@ -6,7 +6,7 @@ import 'package:plezy/media/library_query.dart';
 import 'package:plezy/media/media_kind.dart';
 import 'package:plezy/replay/client/replay_api_cache.dart';
 import 'package:plezy/replay/client/replay_client.dart';
-import 'package:plezy/replay/mapping/replay_artwork_memory.dart';
+import 'package:plezy/replay/mapping/replay_title_memory.dart';
 import 'package:plezy/replay/mapping/replay_mapper.dart';
 import 'package:plezy/services/settings_service.dart' show EpisodePosterMode;
 import 'package:plezy/replay/model/replay_playback.dart';
@@ -247,14 +247,26 @@ void main() {
     expect(mapper.item(episode('Journal', number: 3)).title, 'Journal');
   });
 
-  test('a title page that arrives without pictures reuses the ones its listing had', () {
-    final memory = ReplayArtworkMemory();
-    final mapper = ReplayMapper(serverId: 'replay', source: _source, artwork: memory);
-    final listed = ReplayTitle(ref: _r('x'), kind: ReplayKind.episode, title: 'X', backdropUrl: 'https://img.test/still');
+  test('a title page that arrives bare takes its pictures and its show from the listing', () {
+    final mapper = ReplayMapper(serverId: 'replay', source: _source, memory: ReplayTitleMemory());
+    final listed = ReplayTitle(
+      ref: _r('x'),
+      kind: ReplayKind.episode,
+      title: 'X',
+      backdropUrl: 'https://img.test/still',
+      showRef: _r('show'),
+      showTitle: 'The Show',
+      seasonNumber: 1,
+      episodeNumber: 4,
+    );
     final bare = ReplayTitle(ref: _r('x'), kind: ReplayKind.episode, title: 'X');
-    expect(mapper.item(listed).artPath, 'https://img.test/still');
-    expect(mapper.item(bare).artPath, 'https://img.test/still');
-    expect(mapper.item(bare).usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
+    mapper.item(listed);
+    final detail = mapper.item(bare);
+    expect(detail.artPath, 'https://img.test/still');
+    expect(detail.grandparentTitle, 'The Show');
+    expect(detail.parentIndex, 1);
+    expect(detail.index, 4);
+    expect(detail.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
     expect(ReplayMapper(serverId: 'replay', source: _source).item(bare).artPath, isNull);
   });
 }

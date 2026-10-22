@@ -4125,7 +4125,9 @@ class _MediaDetailScreenState extends State<MediaDetailScreen>
     final lineMetadata = focusedEpisode ?? metadata;
     final parts = <MetadataLinePart>[];
 
-    if (metadata.backend.isReplay && metadata.studio != null) parts.add(MetadataLineText(metadata.studio!, dropPriority: 0));
+    if (metadata.backend.isReplay && metadata.studio != null) {
+      parts.add(MetadataLineText(metadata.studio!, dropPriority: 0));
+    }
     final episodeLabel = formatSeasonEpisodeLabel(lineMetadata.parentIndex, lineMetadata.index);
     if (lineMetadata.isEpisode && episodeLabel != null) parts.add(MetadataLineText(episodeLabel, dropPriority: 0));
     if (lineMetadata.isEpisode && lineMetadata.originallyAvailableAt != null) {

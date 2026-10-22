@@ -83,6 +83,34 @@ class ReplayTitle {
   });
 
   bool get isPlayable => kind == ReplayKind.movie || kind == ReplayKind.episode || kind == ReplayKind.clip;
+
+  /// This title with every field it lacks taken from [seen], an earlier sighting of the same title. Broadcaster pages
+  /// often carry less than their listings (no pictures, no show or season), so the richer record fills the gaps.
+  ReplayTitle filledFrom(ReplayTitle seen) => ReplayTitle(
+    ref: ref,
+    kind: kind,
+    title: title,
+    subtitle: subtitle ?? seen.subtitle,
+    summary: summary ?? seen.summary,
+    posterUrl: posterUrl ?? seen.posterUrl,
+    backdropUrl: backdropUrl ?? seen.backdropUrl,
+    logoUrl: logoUrl ?? seen.logoUrl,
+    durationSeconds: durationSeconds ?? seen.durationSeconds,
+    year: year ?? seen.year,
+    genres: genres.isEmpty ? seen.genres : genres,
+    directors: directors.isEmpty ? seen.directors : directors,
+    cast: cast.isEmpty ? seen.cast : cast,
+    contentRating: contentRating ?? seen.contentRating,
+    airDate: airDate ?? seen.airDate,
+    availableUntil: availableUntil ?? seen.availableUntil,
+    availability: availability,
+    seasonNumber: seasonNumber ?? seen.seasonNumber,
+    episodeNumber: episodeNumber ?? seen.episodeNumber,
+    childCount: childCount ?? seen.childCount,
+    showRef: showRef ?? seen.showRef,
+    showTitle: showTitle ?? seen.showTitle,
+    seasonRef: seasonRef ?? seen.seasonRef,
+  );
 }
 
 /// A titled row of cards, such as "Most viewed" or "Last chance".

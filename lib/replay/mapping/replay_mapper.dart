@@ -5,7 +5,7 @@ import '../../media/media_kind.dart';
 import '../../media/media_library.dart';
 import '../../media/media_role.dart';
 import '../model/replay_title.dart';
-import 'replay_artwork_memory.dart';
+import 'replay_title_memory.dart';
 import '../provider/replay_provider.dart';
 
 /// Key under which [ReplayAvailability] travels in `MediaItem.raw`.
@@ -46,19 +46,14 @@ class ReplayMapper {
   final String serverId;
   final String? serverName;
   final ReplaySource source;
-  final ReplayArtworkMemory? artwork;
+  final ReplayTitleMemory? memory;
 
-  const ReplayMapper({required this.serverId, required this.source, this.serverName, this.artwork});
+  const ReplayMapper({required this.serverId, required this.source, this.serverName, this.memory});
 
-  MediaItem item(ReplayTitle t) {
+  MediaItem item(ReplayTitle listed) {
+    final t = memory?.fill(listed) ?? listed;
     final kind = replayKindToMediaKind(t.kind);
-    final seen = artwork?.recall(t.ref);
-    final posterUrl = t.posterUrl ?? seen?.poster;
-    final backdropUrl = t.backdropUrl ?? seen?.backdrop;
-    if (posterUrl != null || backdropUrl != null) {
-      artwork?.remember(t.ref, ReplayArtwork(poster: posterUrl, backdrop: backdropUrl));
-    }
-    final poster = posterUrl ?? backdropUrl;
+    final poster = t.posterUrl ?? t.backdropUrl;
     return MediaItem.replay(
       id: t.ref.toString(),
       kind: kind,
@@ -71,8 +66,8 @@ class ReplayMapper {
       contentRating: t.contentRating,
       studio: source.name,
       thumbPath: poster,
-      artPath: backdropUrl,
-      backdropPaths: backdropUrl == null ? null : [backdropUrl],
+      artPath: t.backdropUrl,
+      backdropPaths: t.backdropUrl == null ? null : [t.backdropUrl!],
       clearLogoPath: t.logoUrl,
       durationMs: t.durationSeconds == null ? null : t.durationSeconds! * 1000,
       index: kind == MediaKind.episode ? t.episodeNumber : t.seasonNumber,
@@ -92,7 +87,7 @@ class ReplayMapper {
       serverName: serverName,
       raw: {
         replayAvailabilityKey: t.availability.name,
-        if (replayHasLandscapeOnlyArtwork(posterUrl, backdropUrl)) landscapeOnlyArtworkRawKey: true,
+        if (replayHasLandscapeOnlyArtwork(t.posterUrl, t.backdropUrl)) landscapeOnlyArtworkRawKey: true,
       },
     );
   }
