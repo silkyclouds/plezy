@@ -938,10 +938,11 @@ class DownloadManagerService {
           progressBar: true,
         );
 
-    // Protect native writes even while Flutter is suspended. Plex servers can
-    // also reject concurrent media downloads.
+    // Protect native writes even while Flutter is suspended. A Plex server can reject concurrent media downloads,
+    // so each host gets one at a time; downloads from different servers run side by side, up to three, to use the
+    // whole line.
     await FileDownloader().configure(
-      globalConfig: [(Config.checkAvailableSpace, true), (Config.holdingQueue, (1, 1, 1))],
+      globalConfig: [(Config.checkAvailableSpace, true), (Config.holdingQueue, (3, 1, 3))],
     );
     // Bring the downloader's persisted policy in line with the setting (it
     // may have been changed, e.g. by a settings import, while not running).
