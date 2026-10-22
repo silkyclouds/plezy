@@ -26,8 +26,10 @@ import '../../widgets/focusable_tab_chip.dart';
 import '../../widgets/library_management_sheet.dart';
 import '../../services/storage_service.dart';
 import '../../mixins/refreshable.dart';
+import '../main_screen.dart' show MainScreenFocusScope;
 import '../../i18n/strings.g.dart';
 import 'library_server_label.dart';
+import 'replay_channel_chip.dart';
 import 'state_messages.dart';
 import 'library_scope.dart';
 import 'tabs/library_browse_tab.dart';
@@ -39,6 +41,8 @@ import 'tabs/base_library_tab.dart';
 enum LibraryTabType { recommended, browse, collections, playlists }
 
 List<LibraryTabType> visibleLibraryTabs(MediaLibrary library) {
+  // Broadcasters have no collections or playlists.
+  if (library.backend.isReplay) return [LibraryTabType.recommended, LibraryTabType.browse];
   if (library.isShared) return [LibraryTabType.browse, LibraryTabType.playlists];
   return LibraryTabType.values;
 }
@@ -91,6 +95,7 @@ class _LibrariesScreenState extends State<LibrariesScreen>
   bool _browseFiltersActive = false;
 
   final _libraryDropdownKey = GlobalKey<AppMenuButtonState<String>>();
+  final _channelChipFocusNode = FocusNode(debugLabel: 'replay_channel_chip');
 
   List<LibraryTabType> _visibleTabs = LibraryTabType.values;
   List<FocusNode> _tabFocusNodes = List.generate(
@@ -372,12 +377,22 @@ class _LibrariesScreenState extends State<LibrariesScreen>
 
   @override
   void dispose() {
+    _channelChipFocusNode.dispose();
     _outerScrollController.dispose();
     for (final node in _tabFocusNodes) {
       node.dispose();
     }
     disposeTabNavigation();
     super.dispose();
+  }
+
+  @override
+  void onTabBarBack() {
+    if (widget.scope == LibraryScope.replay) {
+      _channelChipFocusNode.requestFocus();
+    } else {
+      super.onTabBarBack();
+    }
   }
 
   void _updateState(VoidCallback fn) {
@@ -698,6 +713,19 @@ class _LibrariesScreenState extends State<LibrariesScreen>
     if (PlatformDetector.shouldUseSideNavigation(context)) {
       return TabChipStrip(
         children: [
+          if (widget.scope == LibraryScope.replay && selectedLibrary != null) ...[
+            ReplayChannelChip(
+              channels: visibleLibraries,
+              selected: selectedLibrary,
+              focusNode: _channelChipFocusNode,
+              onSelected: _loadLibraryContent,
+              onNavigateLeft: () => MainScreenFocusScope.focusSidebarOf(context),
+              onNavigateRight: () => getTabChipFocusNode(tabController.index).requestFocus(),
+              onNavigateDown: _focusCurrentTabFromTabBar,
+              onNavigateUp: () => _actionBarKey.currentState?.requestFocusOnFirst(),
+            ),
+            const SizedBox(width: 20),
+          ],
           for (int i = 0; i < _visibleTabs.length; i++) ...[
             if (i > 0) const SizedBox(width: 8),
             buildTabChip(
