@@ -11,6 +11,7 @@ import 'package:plezy/connection/connection_registry.dart';
 import 'package:plezy/database/app_database.dart';
 import 'package:plezy/focus/input_mode_tracker.dart';
 import 'package:plezy/media/ids.dart';
+import 'package:plezy/media/media_backend.dart';
 import 'package:plezy/media/media_item.dart';
 import 'package:plezy/media/media_kind.dart';
 import 'package:plezy/models/download_models.dart';
@@ -27,6 +28,7 @@ import 'package:plezy/services/settings_service.dart';
 import 'package:plezy/services/music/music_playback_service.dart';
 import 'package:plezy/theme/mono_theme.dart';
 import 'package:plezy/widgets/focusable_media_card.dart';
+import 'package:plezy/widgets/options_chips_bar.dart';
 import 'package:provider/provider.dart';
 
 import '../../test_helpers/prefs.dart';
@@ -293,6 +295,112 @@ void main() {
     expect((resized.imageProvider as FileImage).file.path, artworkFile.path);
     expect(tester.takeException(), isNull);
   });
+
+  group('Catch-up TV tab', () {
+    Future<DownloadsScreenState> openCatchUpTab(WidgetTester tester, {VoidCallback? onSidebar}) async {
+      final screenKey = GlobalKey<DownloadsScreenState>();
+      await _pumpScreen(tester, db, downloadProvider, multiServerProvider, screenKey: screenKey, onSidebar: onSidebar);
+      screenKey.currentState!.tabController.index = 4;
+      await tester.pumpAndSettle();
+      return screenKey.currentState!;
+    }
+
+    FocusNode cardNode(WidgetTester tester, String id) => tester
+        .widgetList<FocusableMediaCard>(find.byType(FocusableMediaCard))
+        .singleWhere((c) => (c.item as MediaItem).id == id)
+        .focusNode!;
+
+    testWidgets('one header per channel, sorted by name, with the programme count', (tester) async {
+      _seedDownloadedReplayMovies(downloadProvider, ['auvio:1', 'arte:1', 'arte:2']);
+      await openCatchUpTab(tester);
+
+      final arte = tester.getTopLeft(find.text('ARTE')).dy;
+      final auvio = tester.getTopLeft(find.text('Auvio')).dy;
+      expect(arte, lessThan(auvio));
+      expect(find.text('2 programmes'), findsOneWidget);
+      expect(find.text('1 programme'), findsOneWidget);
+    });
+
+    testWidgets('cards are 294 by 165 and the option chips are gone', (tester) async {
+      _seedDownloadedReplayMovies(downloadProvider, ['arte:1', 'arte:2']);
+      await openCatchUpTab(tester);
+
+      expect(find.byType(FocusableMediaCard), findsNWidgets(2));
+      expect(tester.getSize(find.byType(FocusableMediaCard).first), const Size(294, 165));
+      expect(find.byType(OptionsChipsBar), findsNothing);
+    });
+
+    testWidgets('down from the tab goes to the first card, up from it returns', (tester) async {
+      _seedDownloadedReplayMovies(downloadProvider, ['arte:1', 'arte:2']);
+      final state = await openCatchUpTab(tester);
+
+      state.getTabChipFocusNode(4).requestFocus();
+      await tester.pump();
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+      await tester.pumpAndSettle();
+      expect(cardNode(tester, 'arte:1').hasFocus, isTrue);
+
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowUp);
+      await tester.pumpAndSettle();
+      expect(state.getTabChipFocusNode(4).hasFocus, isTrue);
+    });
+
+    testWidgets('down crosses channels to the card nearest in x and up comes back', (tester) async {
+      _seedDownloadedReplayMovies(downloadProvider, ['arte:1', 'arte:2', 'arte:3', 'arte:4', 'auvio:1', 'auvio:2']);
+      await openCatchUpTab(tester);
+
+      cardNode(tester, 'arte:1').requestFocus();
+      await tester.pump();
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+      await tester.pumpAndSettle();
+      expect(cardNode(tester, 'arte:4').hasFocus, isTrue);
+
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+      await tester.pumpAndSettle();
+      expect(cardNode(tester, 'auvio:1').hasFocus, isTrue);
+
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowRight);
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowUp);
+      await tester.pumpAndSettle();
+      expect(cardNode(tester, 'arte:4').hasFocus, isTrue);
+    });
+
+    testWidgets('left from the first column reaches the sidebar', (tester) async {
+      _seedDownloadedReplayMovies(downloadProvider, ['arte:1', 'arte:2']);
+      var sidebarCalls = 0;
+      await openCatchUpTab(tester, onSidebar: () => sidebarCalls++);
+
+      cardNode(tester, 'arte:2').requestFocus();
+      await tester.pump();
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowLeft);
+      await tester.pump();
+      expect(cardNode(tester, 'arte:1').hasFocus, isTrue);
+
+      await tester.sendKeyEvent(LogicalKeyboardKey.arrowLeft);
+      await tester.pump();
+      expect(sidebarCalls, 1);
+    });
+  });
+}
+
+void _seedDownloadedReplayMovies(DownloadProvider provider, List<String> ids) {
+  final movies = [
+    for (final id in ids)
+      testMediaItem(
+        id: id,
+        backend: MediaBackend.replay,
+        kind: MediaKind.movie,
+        title: 'Programme $id',
+        serverId: 'downloads-layout-server',
+      ),
+  ];
+  provider.debugSeedState(
+    downloads: {
+      for (final movie in movies)
+        movie.globalKey: DownloadProgress(globalKey: movie.globalKey, status: DownloadStatus.completed),
+    },
+    metadata: {for (final movie in movies) movie.globalKey: movie},
+  );
 }
 
 MediaItem _downloadedMovie(int index) => testMediaItem(

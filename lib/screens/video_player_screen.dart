@@ -7,6 +7,7 @@ import '../replay/model/replay_ref.dart';
 import '../replay/provider/replay_provider_registry.dart';
 import '../replay/provider/replay_source_info.dart';
 import 'settings/replay/replay_sign_in_dialog.dart';
+import 'video_player/widgets/replay_account_required_view.dart';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';

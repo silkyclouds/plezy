@@ -96,12 +96,6 @@ extension _VideoPlayerBuildMethods on VideoPlayerScreenState {
     );
   }
 
-  /// The screen's failure surface, shared by a core that failed to start and
-  /// a media open that failed after it did. Retry is the primary action and
-  /// takes focus explicitly: a child `autofocus` never fires here, because
-  /// the screen-level [Focus] claims the scope while the loading spinner is
-  /// up and Flutter drops a later autofocus request once the scope already
-  /// has a focused child. See [VideoPlayerScreenState._initializationErrorFocusNode].
   /// The catch-up broadcaster the current title belongs to when playback failed because it needs an account.
   ReplaySourceInfo? _broadcasterToSignInTo(PlaybackFailureReason? reason) {
     if (reason != PlaybackFailureReason.authenticationRequired || !_currentMetadata.backend.isReplay) return null;
@@ -110,20 +104,40 @@ extension _VideoPlayerBuildMethods on VideoPlayerScreenState {
     return info != null && info.supportsAccount ? info : null;
   }
 
-  /// Opens the broadcaster's sign-in, then tries playing again once the viewer is signed in.
-  Future<void> _signInToBroadcaster(ReplaySourceInfo info) async {
+  /// The account-required screen: signing in (or changing account) restarts the stream at the resume position.
+  Widget _buildAccountRequired(ReplaySourceInfo info) {
     final client =
         context.read<MultiServerProvider>().serverManager.getClient(ServerId(ReplayConnection.singletonId))
             as ReplayClient?;
     final accounts = client?.accounts;
-    if (accounts == null) return;
-    final signedIn = await showReplaySignIn(context, accounts: accounts, info: info);
-    if (signedIn && mounted) _retryPlayerInitialization();
+    final connectedAs = accounts?.accountLabel(info.id);
+    return ReplayAccountRequiredView(
+      sourceId: info.id,
+      channelName: info.name,
+      programmeTitle: _currentMetadata.displayTitle,
+      resumePosition:
+          _currentOpenRequest?.resumePosition ?? resolveOpenResumePosition(viewOffsetMs: _currentMetadata.viewOffsetMs),
+      accountRefused: connectedAs != null,
+      primaryFocusNode: _initializationErrorFocusNode,
+      onSignIn: () async {
+        if (accounts == null) return false;
+        final signedIn = await showReplaySignIn(context, accounts: accounts, info: info);
+        return signedIn && accounts.accountLabel(info.id) != connectedAs;
+      },
+      onSignedIn: _retryPlayerInitialization,
+      onBack: () => unawaited(_handleBackButton()),
+    );
   }
 
+  /// The screen's failure surface, shared by a core that failed to start and
+  /// a media open that failed after it did. Retry is the primary action and
+  /// takes focus explicitly: a child `autofocus` never fires here, because
+  /// the screen-level [Focus] claims the scope while the loading spinner is
+  /// up and Flutter drops a later autofocus request once the scope already
+  /// has a focused child. See [VideoPlayerScreenState._initializationErrorFocusNode].
   Widget _buildPlaybackFailure(String message, {required VoidCallback onRetry, PlaybackFailureReason? reason}) {
     final signInTo = _broadcasterToSignInTo(reason);
-    final primary = signInTo == null ? onRetry : () => unawaited(_signInToBroadcaster(signInTo));
+    if (signInTo != null) return _buildAccountRequired(signInTo);
     return Scaffold(
       backgroundColor: Colors.black,
       body: Center(
@@ -147,11 +161,8 @@ extension _VideoPlayerBuildMethods on VideoPlayerScreenState {
                   children: [
                     FocusableButton(
                       focusNode: _initializationErrorFocusNode,
-                      onPressed: primary,
-                      child: FilledButton(
-                        onPressed: primary,
-                        child: Text(signInTo == null ? t.common.retry : t.replay.signIn),
-                      ),
+                      onPressed: onRetry,
+                      child: FilledButton(onPressed: onRetry, child: Text(t.common.retry)),
                     ),
                     const SizedBox(width: 12),
                     FocusableButton(

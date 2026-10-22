@@ -724,7 +724,7 @@ class _LibrariesScreenState extends State<LibrariesScreen>
               onNavigateDown: _focusCurrentTabFromTabBar,
               onNavigateUp: () => _actionBarKey.currentState?.requestFocusOnFirst(),
             ),
-            const SizedBox(width: 20),
+            const SizedBox(width: 24),
           ],
           for (int i = 0; i < _visibleTabs.length; i++) ...[
             if (i > 0) const SizedBox(width: 8),
