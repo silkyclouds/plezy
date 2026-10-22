@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "alerts": [],
+  "warnings": [],
+  "precision": 10,
+  "engine": {
+   "name": "english-nest",
+   "type": "meta"
+  },
+  "page": {
+   "current": 1,
+   "total_pages": 517,
+   "total_results": 3099,
+   "size": 6
+  },
+  "request_id": "55282334-5b1b-4548-ba03-1a6c16b3143e"
+ },
+ "results": [
+  {
+   "id": {
+    "raw": "english-news|39854152"
+   },
+   "_meta": {
+    "id": "39854152",
+    "engine": "english-news",
+    "score": 8.404535
+   },
+   "title": {
+    "raw": "Shampoo bottle to pen holder"
+   },
+   "shortTeaser": {
+    "raw": "What if you could turn an empty shampoo bottle into something useful and even fun? Like a funky monster pen holder?"
+   },
+   "teaser": {
+    "raw": "Empty shampoo bottles get thrown away all the time. What if you could turn them into something useful and even fun? Like a funky monster pen holder. Here's how you do it."
+   },
+   "contentDate": {
+    "raw": "2017-07-27T09:34:31+00:00"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/39899345_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Nature and Environment"
+   },
+   "duration": {
+    "raw": 95.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|70362755"
+   },
+   "_meta": {
+    "id": "70362755",
+    "engine": "english-news",
+    "score": 8.404535
+   },
+   "title": {
+    "raw": "Us and Them: Living in a Polarized World — Climate "
+   },
+   "shortTeaser": {
+    "raw": "Climate change is real, and it is dangerous. Some people are actively trying to stop it."
+   },
+   "teaser": {
+    "raw": "Climate change is real, and it is dangerous. Some people are actively trying to stop it. Others deny or intensify it – or suppress information. Most don’t bother at all and continue to contribute to global warming through their lifestyle."
+   },
+   "contentDate": {
+    "raw": "2024-09-30T10:50:38+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/70285061_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Society"
+   },
+   "duration": {
+    "raw": 1713.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|61526182"
+   },
+   "_meta": {
+    "id": "61526182",
+    "engine": "english-news",
+    "score": 7.8632646
+   },
+   "title": {
+    "raw": "Ghana's young climate activists"
+   },
+   "shortTeaser": {
+    "raw": "Young climate activists like Perk Pomeyie are leading the way to change attitudes to protect Ghana's environment."
+   },
+   "teaser": {
+    "raw": "Young climate activists like Perk Pomeyie are leading the way to change attitudes to protect Ghana's environment."
+   },
+   "contentDate": {
+    "raw": "2022-05-05T08:52:53+00:00"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/61526248_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Climate"
+   },
+   "duration": {
+    "raw": 139.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|54881862"
+   },
+   "_meta": {
+    "id": "54881862",
+    "engine": "english-news",
+    "score": 7.3874946
+   },
+   "title": {
+    "raw": "Arts and climate - exhibitions in Berlin and Madrid"
+   },
+   "shortTeaser": {
+    "raw": "Art exhibitions in Berlin and Madrid force visitors to rethink their own impact on the environment."
+   },
+   "teaser": {
+    "raw": "Art exhibitions 'Down to earth' in Berlin and 'Moving Off the Land' in Madrid highlight the positive impact that months of coronavirus disruption has had on the environment. Curators want us to reflect on how we might move forward - and force people to rethink their own impact on the environment."
+   },
+   "contentDate": {
+    "raw": "2020-09-10T15:20:58+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 45215665.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "Eco India"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/54881616_${formatId}.jpeg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Nature and Environment"
+   },
+   "duration": {
+    "raw": 275.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|61875211"
+   },
+   "_meta": {
+    "id": "61875211",
+    "engine": "english-news",
+    "score": 7.3874946
+   },
+   "title": {
+    "raw": "We need to talk – about climate change"
+   },
+   "shortTeaser": {
+    "raw": "Why media coverage on global warming often leaves viewers cold."
+   },
+   "teaser": {
+    "raw": "When Jeff Bezos took a joyride into space in 2021, US media dedicated 212 minutes of coverage to it in a single day. By comparison, they spent 267 minutes reporting on climate change - in a whole year! Clearly the media have a long way to go in reporting on the climate crisis."
+   },
+   "contentDate": {
+    "raw": "2022-05-20T22:23:58+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 219945.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "Tomorrow Today"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/61786059_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Science"
+   },
+   "duration": {
+    "raw": 552.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|56774779"
+   },
+   "_meta": {
+    "id": "56774779",
+    "engine": "english-news",
+    "score": 7.3874946
+   },
+   "title": {
+    "raw": "Explainer: Women and climate change "
+   },
+   "shortTeaser": {
+    "raw": "Climate change especially impacts women's lives. In order to become decision makers, they need to organize themselves."
+   },
+   "teaser": {
+    "raw": "Climate change often affects women more severely than men. But their situation usually improves if they organize themselves. To create fundamental change though, women from all socioeconomic groups must take part."
+   },
+   "contentDate": {
+    "raw": "2021-03-05T15:23:30+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 45215665.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "Eco India"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/56769222_${formatId}.jpeg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Nature and Environment"
+   },
+   "duration": {
+    "raw": 253.0
+   }
+  }
+ ]
+}

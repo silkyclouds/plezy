@@ -1,0 +1,79 @@
+{
+ "data": {
+  "content": {
+   "id": 78363545,
+   "__typename": "Video",
+   "namedUrl": "/en/unorthodox-careers-female-construction-workers-in-germany/video-78363545",
+   "canonicalUrl": "https://www.dw.com/en/unorthodox-careers-female-construction-workers-in-germany/video-78363545",
+   "language": "ENGLISH",
+   "title": "Female construction workers in Germany ",
+   "teaser": "No other sector in Germany employs as few women as the construction industry. The few female construction workers face many challenges – including sexism. This report follows four of them.",
+   "firstPublicationDate": "2026-08-14T07:44:04.424Z",
+   "contentDate": "2026-10-21T11:54:27.721Z",
+   "mainContentImage": {
+    "id": 78277766,
+    "staticUrl": "https://static.dw.com/image/78277766_${formatId}.jpg",
+    "__typename": "Image"
+   },
+   "hlsVideoSrc": "https://hlsvod.dw.com/i/dwtv_video/flv/inf/inf20260814_12938_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+   "durationIso8601": "PT43M54S",
+   "neverDelete": true,
+   "posterImageUrl": "https://static.dw.com/image/78277766_605.webp",
+   "lastPublicationDate": "2026-10-21T11:54:27.721Z",
+   "formattedDuration": "43:54",
+   "subtitles": [],
+   "playbackFormatType": "WIDE",
+   "duration": 2634,
+   "isLive": true,
+   "genre": "NONE",
+   "departments": [
+    {
+     "id": 53195577,
+     "name": "Feature_Doku",
+     "__typename": "Department"
+    }
+   ],
+   "categories": [
+    {
+     "originId": "19991205",
+     "__typename": "Category"
+    },
+    {
+     "originId": "19990006",
+     "__typename": "Category"
+    },
+    {
+     "originId": "19990032",
+     "__typename": "Category"
+    }
+   ],
+   "unifiedPrograms": [
+    {
+     "id": 294010,
+     "name": "DocFilm",
+     "__typename": "UnifiedProgram",
+     "title": "DocFilm",
+     "teaser": "Exciting stories, a wide variety of topics, fascinating pictures: every day, half or three-quarters of an hour of carefully researched background reports from the worlds of politics, business, science, culture, nature, history, lifestyle and sport. ",
+     "namedUrl": "/en/docfilm/program-294010",
+     "mainContentImage": {
+      "imageType": "STANDARD",
+      "name": "DW DocFilm Sendungslogo Composite",
+      "id": 63407761,
+      "staticUrl": "https://static.dw.com/image/63407761_${formatId}.jpg",
+      "__typename": "Image"
+     },
+     "moreContentsFromUnifiedProgram": []
+    }
+   ],
+   "regions": [
+    {
+     "regionCode": "europe",
+     "countryCode": "DE",
+     "__typename": "GeographicRegion"
+    }
+   ],
+   "subjects": [],
+   "permaLinkUrl": "https://p.dw.com/p/5Inw9"
+  }
+ }
+}

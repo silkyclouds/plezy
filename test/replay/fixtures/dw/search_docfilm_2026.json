@@ -1,0 +1,242 @@
+{
+ "meta": {
+  "alerts": [],
+  "warnings": [],
+  "precision": 10,
+  "engine": {
+   "name": "english-nest",
+   "type": "meta"
+  },
+  "page": {
+   "current": 1,
+   "total_pages": 17,
+   "total_results": 102,
+   "size": 6
+  },
+  "request_id": "6be97399-4374-4f4d-9bf3-d26763df1037"
+ },
+ "results": [
+  {
+   "id": {
+    "raw": "english-news|78363545"
+   },
+   "_meta": {
+    "id": "78363545",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "Female construction workers in Germany "
+   },
+   "shortTeaser": {
+    "raw": "No other sector in Germany employs as few women as the construction industry.  "
+   },
+   "teaser": {
+    "raw": "No other sector in Germany employs as few women as the construction industry. The few female construction workers face many challenges – including sexism. This report follows four of them."
+   },
+   "contentDate": {
+    "raw": "2026-10-21T11:54:27+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/78277766_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Equality"
+   },
+   "duration": {
+    "raw": 2634.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|79691254"
+   },
+   "_meta": {
+    "id": "79691254",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "An electric truck hits the road for Norway"
+   },
+   "shortTeaser": {
+    "raw": "One missing buoy, one electric truck: Tobias Wagner tracks an unlikely journey to Norway."
+   },
+   "teaser": {
+    "raw": "Trucker Tobias Wagner's mission: to get from Germany's East Frisia to Norway in an electric truck. A navigation buoy from the Juister Riff in the North Sea went missing and has turned up in Scandinavia."
+   },
+   "contentDate": {
+    "raw": "2026-10-18T07:28:12+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/63407761_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Cars and Transportation"
+   },
+   "duration": {
+    "raw": 1704.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|79667536"
+   },
+   "_meta": {
+    "id": "79667536",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "Tracing the path of funding for Islamist terrorist groups"
+   },
+   "shortTeaser": {
+    "raw": "Extremist networks are financed in part by donations from Germany but finding evidence proves difficult."
+   },
+   "teaser": {
+    "raw": "Extremist networks are financed in part by donations from Germany but finding evidence proves difficult."
+   },
+   "contentDate": {
+    "raw": "2026-10-15T10:27:33+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/76354121_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Terrorism"
+   },
+   "duration": {
+    "raw": 2464.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|79651802"
+   },
+   "_meta": {
+    "id": "79651802",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "Who pays for the climate catastrophe? "
+   },
+   "shortTeaser": {
+    "raw": "Law students from the South Pacific have joined island nations to demand climate accountability."
+   },
+   "teaser": {
+    "raw": "From their lecture halls to the International Court of Justice, law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries."
+   },
+   "contentDate": {
+    "raw": "2026-10-13T12:43:07+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/79567602_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Nature and Environment"
+   },
+   "duration": {
+    "raw": 3123.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|78293040"
+   },
+   "_meta": {
+    "id": "78293040",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "The Gen Z reading phenomenon"
+   },
+   "shortTeaser": {
+    "raw": "BookTok grew from a pandemic trend into a major community for young romance readers."
+   },
+   "teaser": {
+    "raw": "The digital book club BookTok started during the pandemic in 2020. Today, it is a big success, used primarily by young women who are fans of a particular genre - so-called \"New Adult,\" or romance novels for young adults."
+   },
+   "contentDate": {
+    "raw": "2026-10-11T09:06:32+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/78193614_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Literature"
+   },
+   "duration": {
+    "raw": 1644.0
+   }
+  },
+  {
+   "id": {
+    "raw": "english-news|79610268"
+   },
+   "_meta": {
+    "id": "79610268",
+    "engine": "english-news",
+    "score": null
+   },
+   "title": {
+    "raw": "The Dolomites —  summer in the Italian alps"
+   },
+   "shortTeaser": {
+    "raw": "From rugged peaks to gentle valleys, Italy's Dolomites are idyllic."
+   },
+   "teaser": {
+    "raw": "From rugged peaks to gentle valleys, Italy's Dolomites are idyllic. In this film, nature lovers show us their mountain world and share fascinating stories about life between tradition and modernity."
+   },
+   "contentDate": {
+    "raw": "2026-10-09T09:03:04+00:00"
+   },
+   "unifiedPrograms.id": {
+    "raw": 294010.0
+   },
+   "unifiedPrograms.name": {
+    "raw": "DocFilm"
+   },
+   "mainContentImageLink.target.staticUrl": {
+    "raw": "https://static.dw.com/image/79506177_${formatId}.jpg"
+   },
+   "roadTeaserKicker": {
+    "raw": "Nature and Environment"
+   },
+   "duration": {
+    "raw": 2568.0
+   }
+  }
+ ]
+}

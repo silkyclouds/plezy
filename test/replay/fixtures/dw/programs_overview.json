@@ -1,0 +1,809 @@
+{
+ "data": {
+  "programsOverview": {
+   "id": "programs-overview",
+   "isRtl": false,
+   "language": "ENGLISH",
+   "__typename": "ProgramsOverview",
+   "trackingId": 0,
+   "trackingLanguageCode": 2,
+   "trackingLanguageKey": "ENGLISH",
+   "trackingContentType": 99,
+   "trackingPageTypeKey": "PROGRAM_OVERVIEW_TPT",
+   "trackingCategories": [
+    "Sendungsübersicht"
+   ],
+   "trackingTopicsCommaJoined": "",
+   "trackingRegionsCommaJoined": "",
+   "name": "All shows",
+   "title": "All shows",
+   "subjects": [],
+   "categories": [],
+   "departments": [],
+   "regions": [],
+   "unifiedPrograms": [],
+   "navigations": [],
+   "namedUrl": "/en/all-shows/programs-en",
+   "topStoriesNavigation": {
+    "namedUrl": "/en/top-stories/s-9097",
+    "regionsChildren": [
+     {
+      "id": 12756,
+      "name": "Africa",
+      "namedUrl": "/en/africa/s-12756",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 12758,
+      "name": "Asia",
+      "namedUrl": "/en/asia/s-12758",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 1433,
+      "name": "Europe",
+      "namedUrl": "/en/europe/s-1433",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58267484,
+      "name": "Latin America",
+      "namedUrl": "/en/latin-america/s-58267484",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 14207,
+      "name": "Middle East",
+      "namedUrl": "/en/middle-east/s-14207",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58267502,
+      "name": "North America",
+      "namedUrl": "/en/north-america/s-58267502",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 1432,
+      "name": "Germany",
+      "namedUrl": "/en/germany/s-1432",
+      "__typename": "Navigation"
+     }
+    ],
+    "topicsChildren": [
+     {
+      "id": 59752983,
+      "name": "Climate",
+      "namedUrl": "/en/climate/s-59752983",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58123578,
+      "name": "Equality",
+      "namedUrl": "/en/equality/s-58123578",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58123583,
+      "name": "Health",
+      "namedUrl": "/en/health/s-58123583",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58123589,
+      "name": "Human Rights",
+      "namedUrl": "/en/human-rights/s-58123589",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58123652,
+      "name": "Migration",
+      "namedUrl": "/en/migration/s-58123652",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 58123656,
+      "name": "Technology",
+      "namedUrl": "/en/technology/s-58123656",
+      "__typename": "Navigation"
+     }
+    ],
+    "categoriesChildren": [
+     {
+      "id": 1431,
+      "name": "Business",
+      "namedUrl": "/en/business/s-1431",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 12526,
+      "name": "Science",
+      "namedUrl": "/en/science/s-12526",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 11798,
+      "name": "Environment",
+      "namedUrl": "/en/environment/s-11798",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 1441,
+      "name": "Culture",
+      "namedUrl": "/en/culture/s-1441",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 8171,
+      "name": "Sports",
+      "namedUrl": "/en/sports/s-8171",
+      "__typename": "Navigation"
+     }
+    ],
+    "miscellaneousChildren": [],
+    "__typename": "Navigation",
+    "footer": {
+     "learngermanUrl": "https://learngerman.dw.com/en/overview",
+     "__typename": "Footer"
+    },
+    "latestMediaChildren": [
+     {
+      "id": 62391524,
+      "name": "Latest videos",
+      "namedUrl": "/en/latest-videos/st-62391524",
+      "templateType": "WEBAPP_VIDEO",
+      "__typename": "Navigation"
+     },
+     {
+      "id": 62391692,
+      "name": "Latest audio",
+      "namedUrl": "/en/latest-audio/s-62391692",
+      "templateType": "WEBAPP_AUDIO",
+      "__typename": "Navigation"
+     }
+    ],
+    "focusNav": {
+     "contentLinks": [
+      {
+       "targetId": 19065412,
+       "name": "France",
+       "target": {
+        "namedUrl": "/en/france/t-19065412",
+        "__typename": "AutoTopic"
+       },
+       "__typename": "ContentLink"
+      },
+      {
+       "targetId": 60931789,
+       "name": "Ukraine",
+       "target": {
+        "namedUrl": "/en/russias-war-in-ukraine/t-60931789",
+        "__typename": "AutoTopic"
+       },
+       "__typename": "ContentLink"
+      },
+      {
+       "targetId": 76168615,
+       "name": "Iran war",
+       "target": {
+        "namedUrl": "/en/iran-war/t-76168615",
+        "__typename": "AutoTopic"
+       },
+       "__typename": "ContentLink"
+      }
+     ],
+     "__typename": "FocusNavigation"
+    },
+    "defaultChannel": {
+     "name": "DW English",
+     "namedUrl": "/en/live-tv/channel-english",
+     "__typename": "Channel"
+    }
+   },
+   "topStoriesNavigations": [
+    {
+     "language": "ALBANIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/sq/fokus/s-10250",
+     "namedUrl": "/sq/fokus/s-10250",
+     "localeLang": "sq_AL",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "AMHARIC",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/am/ይዘት/s-11646",
+     "namedUrl": "/am/ይዘት/s-11646",
+     "localeLang": "am_ET",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "ARABIC",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ar/الرئيسية/s-9106",
+     "namedUrl": "/ar/الرئيسية/s-9106",
+     "localeLang": "ar_AE",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "BENGALI",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/bn/বিষয়/s-11929",
+     "namedUrl": "/bn/বিষয়/s-11929",
+     "localeLang": "bn_BD",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "BOSNIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/bs/teme/s-10037",
+     "namedUrl": "/bs/teme/s-10037",
+     "localeLang": "bs_BA",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "BULGARIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/bg/начало/s-10257",
+     "namedUrl": "/bg/начало/s-10257",
+     "localeLang": "bg_BG",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "CHINESE",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/zh/在线报导/s-9058",
+     "namedUrl": "/zh/在线报导/s-9058",
+     "localeLang": "zh_CN",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "CHINESE_TRADITIONAL",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/zh-hant/在线报导/s-9058",
+     "namedUrl": "/zh-hant/在线报导/s-9058",
+     "localeLang": "zh_HANT",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "CROATIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/hr/teme/s-9747",
+     "namedUrl": "/hr/teme/s-9747",
+     "localeLang": "hr_HR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "DARI",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/fa-af/دويچه-وله-دری/s-10259",
+     "namedUrl": "/fa-af/دويچه-وله-دری/s-10259",
+     "localeLang": "fa_AF",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "ENGLISH",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/en/top-stories/s-9097",
+     "namedUrl": "/en/top-stories/s-9097",
+     "localeLang": "en_GB",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "FRENCH",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/fr/actualités/s-10261",
+     "namedUrl": "/fr/actualités/s-10261",
+     "localeLang": "fr_FR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "GERMAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/de/themen/s-9077",
+     "namedUrl": "/de/themen/s-9077",
+     "localeLang": "de_DE",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "GREEK",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/el/θεματα/s-10507",
+     "namedUrl": "/el/θεματα/s-10507",
+     "localeLang": "el_GR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "HAUSA",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ha/batutuwa/s-11603",
+     "namedUrl": "/ha/batutuwa/s-11603",
+     "localeLang": "ha_NG",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "HINDI",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/hi/खबरें/s-11931",
+     "namedUrl": "/hi/खबरें/s-11931",
+     "localeLang": "hi_IN",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "INDONESIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/id/beranda/s-11546",
+     "namedUrl": "/id/beranda/s-11546",
+     "localeLang": "id_ID",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "KISWAHILI",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/sw/idhaa-ya-kiswahili/s-11588",
+     "namedUrl": "/sw/idhaa-ya-kiswahili/s-11588",
+     "localeLang": "sw_TZ",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "MACEDONIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/mk/теми/s-10339",
+     "namedUrl": "/mk/теми/s-10339",
+     "localeLang": "mk_MK",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "PASHTO",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ps/دويچه-ويله-پښتو/s-11722",
+     "namedUrl": "/ps/دويچه-ويله-پښتو/s-11722",
+     "localeLang": "ps_AF",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "PERSIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/fa-ir/دویچه-وله-فارسی/s-9993",
+     "namedUrl": "/fa-ir/دویچه-وله-فارسی/s-9993",
+     "localeLang": "fa_IR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "POLISH",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/pl/start/s-11394",
+     "namedUrl": "/pl/start/s-11394",
+     "localeLang": "pl_PL",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "PORTUGUESE_AFRICA",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/pt-002/notícias/s-13918",
+     "namedUrl": "/pt-002/notícias/s-13918",
+     "localeLang": "pt_002",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "PORTUGUESE_BRAZIL",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/pt-br/notícias/s-7111",
+     "namedUrl": "/pt-br/notícias/s-7111",
+     "localeLang": "pt_BR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "ROMANIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ro/focus/s-10575",
+     "namedUrl": "/ro/focus/s-10575",
+     "localeLang": "ro_RO",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "RUSSIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ru/темы-дня/s-9119",
+     "namedUrl": "/ru/темы-дня/s-9119",
+     "localeLang": "ru_RU",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "SERBIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/sr/rubrike/s-10682",
+     "namedUrl": "/sr/rubrike/s-10682",
+     "localeLang": "sr_RS",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "SPANISH",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/es/actualidad/s-30684",
+     "namedUrl": "/es/actualidad/s-30684",
+     "localeLang": "es_ES",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "TURKISH",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/tr/gündem/s-10201",
+     "namedUrl": "/tr/gündem/s-10201",
+     "localeLang": "tr_TR",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "UKRANIAN",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/uk/головна/s-9874",
+     "namedUrl": "/uk/головна/s-9874",
+     "localeLang": "uk_UA",
+     "__typename": "Navigation"
+    },
+    {
+     "language": "URDU",
+     "isLive": true,
+     "canonicalUrl": "https://www.dw.com/ur/عنوانات/s-11933",
+     "namedUrl": "/ur/عنوانات/s-11933",
+     "localeLang": "ur_PK",
+     "__typename": "Navigation"
+    }
+   ],
+   "alternateUrls": [],
+   "footer": {
+    "sections": [
+     {
+      "headline": "About DW",
+      "links": [
+       {
+        "text": "Who we are",
+        "url": "https://corporate.dw.com/en/about-dw/s-30688",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Press",
+        "url": "https://corporate.dw.com/en/press/s-3293",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "DW Global Media Forum",
+        "url": "https://corporate.dw.com/en/gmf/s-43101535",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       }
+      ],
+      "__typename": "FooterSection"
+     },
+     {
+      "headline": "DW offers",
+      "links": [
+       {
+        "text": "Learn German",
+        "url": "https://learngerman.dw.com/en/overview",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "DW Akademie",
+        "url": "https://akademie.dw.com/en/home/s-9519",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       }
+      ],
+      "__typename": "FooterSection"
+     },
+     {
+      "headline": "Service",
+      "links": [
+       {
+        "text": "Newsletters",
+        "url": "https://corporate.dw.com/en/newsletter-registration/a-15718229",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Reception",
+        "url": "https://corporate.dw.com/en/regional-reception/s-6809",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "FAQ",
+        "url": "https://corporate.dw.com/en/faqs-about-dw/s-30600",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Contact",
+        "url": "https://corporate.dw.com/en/contact/s-30606",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Topics from A to Z",
+        "url": "/en/a-z-index/index-en/a",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Headlines",
+        "url": "/en/headlines/headlines-en",
+        "__typename": "FooterLinkedContent"
+       }
+      ],
+      "__typename": "FooterSection"
+     },
+     {
+      "headline": "B2B",
+      "links": [
+       {
+        "text": "Sales & Distribution",
+        "url": "https://corporate.dw.com/en/business-sales/s-3303",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Travel",
+        "url": "https://corporate.dw.com/en/content-for-travelers/s-3972",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "Advertising",
+        "url": "https://corporate.dw.com/en/advertising/s-101376",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       },
+       {
+        "text": "German News Service",
+        "url": "/en/german-news-service/s-101394",
+        "targetLanguage": "ENGLISH",
+        "__typename": "FooterLinkedContent"
+       }
+      ],
+      "__typename": "FooterSection"
+     }
+    ],
+    "__typename": "Footer",
+    "linkedSocialMediaAccounts": [
+     {
+      "service": "facebook",
+      "url": "https://facebook.com/deutschewellenews",
+      "__typename": "FooterLinkedSocialMediaAccount"
+     },
+     {
+      "service": "youtube",
+      "url": "https://www.youtube.com/dwnews",
+      "__typename": "FooterLinkedSocialMediaAccount"
+     },
+     {
+      "service": "instagram",
+      "url": "https://www.instagram.com/dwnews",
+      "__typename": "FooterLinkedSocialMediaAccount"
+     },
+     {
+      "service": "tiktok",
+      "url": "https://tiktok.com/@dwnews",
+      "__typename": "FooterLinkedSocialMediaAccount"
+     },
+     {
+      "service": "x-twitter",
+      "url": "https://x.com/dwnews",
+      "__typename": "FooterLinkedSocialMediaAccount"
+     }
+    ],
+    "privacySettings": {
+     "title": "Data privacy settings",
+     "namedUrl": "/en/data-privacy-settings/privacy-settings-en",
+     "__typename": "PrivacySettings"
+    },
+    "policy": {
+     "namedUrl": "/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-63500655",
+     "__typename": "Article"
+    },
+    "legal": {
+     "namedUrl": "/en/legal-notice/a-63500643",
+     "__typename": "Article"
+    },
+    "accessibility": {
+     "namedUrl": "/en/accessibility-statement/a-53922576",
+     "__typename": "Article"
+    }
+   },
+   "isIndexed": true,
+   "twitterAccount": "dwnews",
+   "sharingDescription": "DW offers up-to-date audio and video information from all hot spots of world affairs, important business news, interesting facts from technology and science and stories about people all over the world.",
+   "videoPrograms": [
+    {
+     "id": 68776240,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/choices/program-68776240",
+     "title": "CHOICES",
+     "teaser": "Find a job, have a family, make money – what if this is not your dream, but your parents' idea and your community’s norms? With the help of your role model, you will find out: can you make your own choices? ",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2024-04-09T11:24:36.944Z",
+     "localizedContentDate": "04/09/2024",
+     "localizedContentDateSr": "April 9, 2024",
+     "mainContentImage": {
+      "name": "Keyvisual CHOICES-Series Landing page dw.com",
+      "id": 68729997,
+      "staticUrl": "https://static.dw.com/image/68729997_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 18307573,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/conflict-zone-confronting-the-powerful/program-18307573",
+     "title": "Conflict Zone — Confronting the Powerful",
+     "shortTeaser": "",
+     "teaser": "Conflict Zone is DW's heavyweight political interview, where those with power are held to account. Decision-makers, insiders, and experts from around the globe face tough questions they might not be expecting. Conflict Zone focuses on controversial issues, and demands straight answers. Enter the Conflict Zone!",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2024-12-05T11:05:16.261Z",
+     "localizedContentDate": "12/05/2024",
+     "localizedContentDateSr": "December 5, 2024",
+     "mainContentImage": {
+      "name": "DW \"Conflict Zone\" Sendungslogo (Composite)",
+      "id": 72179391,
+      "staticUrl": "https://static.dw.com/image/72179391_${formatId}.png",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 262267,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/dw-news/program-262267",
+     "title": "DW News",
+     "shortTeaser": "",
+     "teaser": "DW News: all the latest stories from around the globe. In-depth reporting from the worlds of politics, business, sports and culture – plus breaking news, as it happens.",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "1970-01-01T00:00:00Z",
+     "localizedContentDate": "01/01/1970",
+     "localizedContentDateSr": "January 1, 1970",
+     "mainContentImage": {
+      "name": "\"DW News\" Sendungslogo (Composite)",
+      "id": 69105246,
+      "staticUrl": "https://static.dw.com/image/69105246_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 294010,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/docfilm/program-294010",
+     "title": "DocFilm",
+     "shortTeaser": "",
+     "teaser": "Exciting stories, a wide variety of topics, fascinating pictures: every day, half or three-quarters of an hour of carefully researched background reports from the worlds of politics, business, science, culture, nature, history, lifestyle and sport. ",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2012-02-02T11:08:03Z",
+     "localizedContentDate": "02/02/2012",
+     "localizedContentDateSr": "February 2, 2012",
+     "mainContentImage": {
+      "name": "DW DocFilm Sendungslogo Composite",
+      "id": 63407761,
+      "staticUrl": "https://static.dw.com/image/63407761_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 877843,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/euromaxx-culture-ideas-europe/program-877843",
+     "title": "Euromaxx — Culture. Ideas. Europe.",
+     "shortTeaser": "",
+     "teaser": "Europe in all its diversity and constant change: that's what Euromaxx brings to the screen. Once a week, DW's award-winning magazine explores the people, ideas and trends shaping Europe today, offering international audiences fresh perspectives on how younger generations live, think and connect across the continent.",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2023-01-27T14:13:43.71Z",
+     "localizedContentDate": "01/27/2023",
+     "localizedContentDateSr": "January 27, 2023",
+     "mainContentImage": {
+      "name": "DW Euromaxx show logo",
+      "id": 37108762,
+      "staticUrl": "https://static.dw.com/image/37108762_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 66947984,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/planet-a/program-66947984",
+     "title": "Planet A",
+     "teaser": "We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world and challenges the way we are dealing with climate change.",
+     "firstAuthorArray": [
+      {
+       "personType": "AUTHOR",
+       "namedUrl": "/en/malte-rohwer-kahlmann/person-36270663",
+       "fullName": "Malte Rohwer-Kahlmann",
+       "autoDelivery": 0,
+       "mainContentImage": {
+        "name": "DW Volontärsjahrgang 2016-2018 Malte Rohwer Kahlmann",
+        "id": 19527191,
+        "staticUrl": "https://static.dw.com/image/19527191_${formatId}.jpg",
+        "__typename": "Image"
+       },
+       "__typename": "Person"
+      }
+     ],
+     "opinionSeries": [],
+     "contentDate": "2023-10-19T16:09:11.973Z",
+     "localizedContentDate": "10/19/2023",
+     "localizedContentDateSr": "October 19, 2023",
+     "mainContentImage": {
+      "name": "DW \"Planet A\" Key Visual Composite",
+      "id": 66921160,
+      "staticUrl": "https://static.dw.com/image/66921160_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 51037792,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/rev-mobility-innovation/program-51037792",
+     "title": "REV — Mobility & Innovation",
+     "teaser": "In a world constantly in motion, few things are evolving faster than mobility. REV explores the ideas, technologies, and people reshaping how we move - from electric vehicles and smart cities to unique transport solutions around the world. Because mobility isn’t just about getting from A to B, but how we get there.",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2019-11-27T10:25:26.654Z",
+     "localizedContentDate": "11/27/2019",
+     "localizedContentDateSr": "November 27, 2019",
+     "mainContentImage": {
+      "name": "DW REV show logo",
+      "id": 51698684,
+      "staticUrl": "https://static.dw.com/image/51698684_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 15566070,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/shift-living-in-the-digital-age/program-15566070",
+     "title": "Shift — Living in the Digital Age",
+     "shortTeaser": "",
+     "teaser": "Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is \"Machine Learning\"? These are some of the questions „SHIFT – Living in the Digital Age“ tries to answer. ",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2019-03-13T14:49:44.737Z",
+     "localizedContentDate": "03/13/2019",
+     "localizedContentDateSr": "March 13, 2019",
+     "mainContentImage": {
+      "name": "The Shift show logo is superimposed on an image showing an angular glass or plastic tube on a circuit board",
+      "id": 72179409,
+      "staticUrl": "https://static.dw.com/image/72179409_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    }
+   ],
+   "audioPrograms": [
+    {
+     "id": 17270580,
+     "__typename": "UnifiedProgram",
+     "namedUrl": "/en/africalink/program-17270580",
+     "title": "AfricaLink",
+     "shortTeaser": "",
+     "teaser": "DW AfricaLink is packed with news, politics, culture and more — every weekday. From combating health issues and freedom of expression to finances, tolerance and environmental protection, we have it covered.",
+     "firstAuthorArray": [],
+     "opinionSeries": [],
+     "contentDate": "2017-07-12T11:47:40.398Z",
+     "localizedContentDate": "07/12/2017",
+     "localizedContentDateSr": "July 12, 2017",
+     "mainContentImage": {
+      "name": "AfricaLink Podcast",
+      "id": 74973921,
+      "staticUrl": "https://static.dw.com/image/74973921_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    }
+   ],
+   "pageHeadline": "All shows"
+  }
+ },
+ "loading": false,
+ "networkStatus": 7
+}

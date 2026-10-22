@@ -1,0 +1,73 @@
+{
+ "data": {
+  "content": {
+   "id": 79610229,
+   "__typename": "Video",
+   "namedUrl": "/en/how-rising-costs-are-reshaping-american-lives-and-politics/video-79610229",
+   "canonicalUrl": "https://www.dw.com/en/how-rising-costs-are-reshaping-american-lives-and-politics/video-79610229",
+   "language": "ENGLISH",
+   "title": "When paychecks fall short: America's affordability squeeze",
+   "teaser": "Three US families share how rising housing, health care and everyday costs are straining household budgets and turning affordability into a major political issue ahead of the midterm elections. ",
+   "firstPublicationDate": "2026-10-13T08:21:48.602Z",
+   "contentDate": "2026-10-13T08:21:48.602Z",
+   "mainContentImage": {
+    "id": 79628492,
+    "staticUrl": "https://static.dw.com/image/79628492_${formatId}.jpg",
+    "__typename": "Image"
+   },
+   "hlsVideoSrc": "https://hlsvod.dw.com/i/vps/webvideos/ENG/2026/BUSI/BUSIENG260923_Affordability_N_03SMW_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+   "durationIso8601": "PT20M14S",
+   "neverDelete": true,
+   "posterImageUrl": "https://static.dw.com/image/79628492_605.webp",
+   "posterImageLink": {
+    "stillUrl": "https://tvdownloaddw-a.akamaihd.net/vps/stills/webvideos/ENG/2026/BUSI/BUSIENG260923_Affordability_N_03SMW.png",
+    "__typename": "SimpleResourceLink"
+   },
+   "lastPublicationDate": "2026-10-13T08:21:48.602Z",
+   "formattedDuration": "20:14",
+   "subtitles": [
+    {
+     "language": "ENGLISH",
+     "srcLanguage": "en",
+     "subtitleUrl": "https://www.dw.com/media/subtitles/79646538",
+     "__typename": "SimpleResourceLink"
+    }
+   ],
+   "playbackFormatType": "WIDE",
+   "duration": 1214,
+   "isLive": true,
+   "genre": "NONE",
+   "departments": [
+    {
+     "id": 53195560,
+     "name": "Wirtschaft",
+     "__typename": "Department"
+    }
+   ],
+   "categories": [
+    {
+     "originId": "19990032",
+     "__typename": "Category"
+    },
+    {
+     "originId": "19990006",
+     "__typename": "Category"
+    }
+   ],
+   "unifiedPrograms": [],
+   "regions": [
+    {
+     "regionCode": "northamerica",
+     "countryCode": "US",
+     "__typename": "GeographicRegion"
+    },
+    {
+     "regionCode": "northamerica",
+     "__typename": "GeographicRegion"
+    }
+   ],
+   "subjects": [],
+   "permaLinkUrl": "https://p.dw.com/p/5O2Fx"
+  }
+ }
+}

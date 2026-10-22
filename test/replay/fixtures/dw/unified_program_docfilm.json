@@ -1,0 +1,407 @@
+{
+ "data": {
+  "content": {
+   "id": 294010,
+   "__typename": "UnifiedProgram",
+   "namedUrl": "/en/docfilm/program-294010",
+   "canonicalUrl": "/en/docfilm/program-294010",
+   "subdomain": "STREAMING",
+   "language": "ENGLISH",
+   "name": "DocFilm",
+   "title": "DocFilm",
+   "teaser": "Exciting stories, a wide variety of topics, fascinating pictures: every day, half or three-quarters of an hour of carefully researched background reports from the worlds of politics, business, science, culture, nature, history, lifestyle and sport. ",
+   "mainContentImage": {
+    "imageType": "STANDARD",
+    "name": "DW DocFilm Sendungslogo Composite",
+    "id": 63407761,
+    "staticUrl": "https://static.dw.com/image/63407761_${formatId}.jpg",
+    "__typename": "Image"
+   },
+   "visibleInTvApps": true,
+   "autoDelivery": 1,
+   "moreContentsFromUnifiedProgram": [
+    {
+     "id": 78363545,
+     "__typename": "Video",
+     "namedUrl": "/en/unorthodox-careers-female-construction-workers-in-germany/video-78363545",
+     "title": "Female construction workers in Germany ",
+     "shortTeaser": "No other sector in Germany employs as few women as the construction industry.  ",
+     "teaser": "No other sector in Germany employs as few women as the construction industry. The few female construction workers face many challenges – including sexism. This report follows four of them.",
+     "isOpinion": false,
+     "firstAuthorArray": [
+      {
+       "personType": "EXTERNAL_AUTHOR",
+       "namedUrl": "/en/elisa-luzius/person-78388699",
+       "fullName": "Elisa Luzius",
+       "autoDelivery": 0,
+       "__typename": "Person"
+      }
+     ],
+     "genre": "NONE",
+     "opinionSeries": [],
+     "contentDate": "2026-10-21T11:54:27.721Z",
+     "localizedContentDate": "10/21/2026",
+     "localizedContentDateSr": "October 21, 2026",
+     "roadTeaserKicker": "Equality",
+     "formattedDurationInMinutes": "43:54",
+     "priority": "NEUTRAL",
+     "duration": 2634,
+     "posterImageUrl": "https://static.dw.com/image/78277766_605.webp",
+     "hlsVideoSrc": "https://hlsvod.dw.com/i/dwtv_video/flv/inf/inf20260814_12938_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+     "formattedDuration": "43:54",
+     "subtitles": [],
+     "playbackFormatType": "WIDE",
+     "language": "ENGLISH",
+     "subdomain": "NEWS",
+     "trackingId": 78363545,
+     "trackingLanguageCode": 2,
+     "trackingLanguageKey": "ENGLISH",
+     "trackingContentType": 18,
+     "trackingPageTypeKey": "VIDEO",
+     "trackingCategories": [
+      "TV",
+      "DocFilm"
+     ],
+     "trackingDate": 20260814,
+     "trackingPageSID": "3610",
+     "trackingTopicsCommaJoined": "Gleichberechtigung,Gesellschaft,Wirtschaft",
+     "trackingRegionsCommaJoined": "Deutschland",
+     "name": "Unorthodox careers - Female construction workers in Germany ",
+     "profileTopicContent": false,
+     "subjects": [],
+     "categories": [
+      {
+       "originId": "19991205",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990006",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990032",
+       "__typename": "Category"
+      }
+     ],
+     "departments": [
+      {
+       "id": 53195577,
+       "name": "Feature_Doku",
+       "__typename": "Department"
+      }
+     ],
+     "regions": [
+      {
+       "regionCode": "europe",
+       "countryCode": "DE",
+       "__typename": "GeographicRegion"
+      }
+     ],
+     "unifiedPrograms": [
+      {
+       "id": 294010,
+       "name": "DocFilm",
+       "__typename": "UnifiedProgram"
+      }
+     ],
+     "navigations": [
+      {
+       "id": 3610,
+       "idsToRoot": [
+        266,
+        1452
+       ],
+       "__typename": "Navigation"
+      }
+     ],
+     "mainContentImage": {
+      "name": "A woman wearing a helmet holds a measuring device",
+      "id": 78277766,
+      "staticUrl": "https://static.dw.com/image/78277766_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 79691254,
+     "__typename": "Video",
+     "namedUrl": "/en/an-electric-truck-hits-the-road-for-norway/video-79691254",
+     "title": "An electric truck hits the road for Norway",
+     "shortTeaser": "One missing buoy, one electric truck: Tobias Wagner tracks an unlikely journey to Norway.",
+     "teaser": "Trucker Tobias Wagner's mission: to get from Germany's East Frisia to Norway in an electric truck. A navigation buoy from the Juister Riff in the North Sea went missing and has turned up in Scandinavia.",
+     "isOpinion": false,
+     "firstAuthorArray": [],
+     "genre": "NONE",
+     "opinionSeries": [],
+     "contentDate": "2026-10-18T07:28:12.789Z",
+     "localizedContentDate": "10/18/2026",
+     "localizedContentDateSr": "October 18, 2026",
+     "roadTeaserKicker": "Cars and Transportation",
+     "formattedDurationInMinutes": "28:24",
+     "priority": "NEUTRAL",
+     "duration": 1704,
+     "posterImageUrl": "https://static.dw.com/image/63407761_605.webp",
+     "hlsVideoSrc": "https://hlsvod.dw.com/i/dwtv_video/flv/inf/inf20261018_13007_Truck_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+     "formattedDuration": "28:24",
+     "subtitles": [],
+     "playbackFormatType": "WIDE",
+     "language": "ENGLISH",
+     "subdomain": "NEWS",
+     "trackingId": 79691254,
+     "trackingLanguageCode": 2,
+     "trackingLanguageKey": "ENGLISH",
+     "trackingContentType": 18,
+     "trackingPageTypeKey": "VIDEO",
+     "trackingCategories": [
+      "TV",
+      "DocFilm"
+     ],
+     "trackingDate": 20261018,
+     "trackingPageSID": "3610",
+     "trackingTopicsCommaJoined": "Auto und Mobilität,Reise,Natur und Umwelt,Gesellschaft",
+     "trackingRegionsCommaJoined": "Norwegen",
+     "name": "An electric truck hits the road for Norway",
+     "profileTopicContent": false,
+     "subjects": [],
+     "categories": [
+      {
+       "originId": "19990001",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990028",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990021",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990006",
+       "__typename": "Category"
+      }
+     ],
+     "departments": [
+      {
+       "id": 53195577,
+       "name": "Feature_Doku",
+       "__typename": "Department"
+      }
+     ],
+     "regions": [
+      {
+       "regionCode": "europe",
+       "countryCode": "NO",
+       "__typename": "GeographicRegion"
+      }
+     ],
+     "unifiedPrograms": [
+      {
+       "id": 294010,
+       "name": "DocFilm",
+       "__typename": "UnifiedProgram"
+      }
+     ],
+     "navigations": [
+      {
+       "id": 3610,
+       "idsToRoot": [
+        266,
+        1452
+       ],
+       "__typename": "Navigation"
+      }
+     ],
+     "mainContentImage": {
+      "name": "DW DocFilm Sendungslogo Composite",
+      "id": 63407761,
+      "staticUrl": "https://static.dw.com/image/63407761_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 79667536,
+     "__typename": "Video",
+     "namedUrl": "/en/tracing-the-path-of-funding-for-islamist-terrorist-groups/video-79667536",
+     "title": "Tracing the path of funding for Islamist terrorist groups",
+     "shortTeaser": "Extremist networks are financed in part by donations from Germany but finding evidence proves difficult.",
+     "teaser": "Extremist networks are financed in part by donations from Germany but finding evidence proves difficult.",
+     "isOpinion": false,
+     "firstAuthorArray": [],
+     "genre": "NONE",
+     "opinionSeries": [],
+     "contentDate": "2026-10-15T10:27:33.048Z",
+     "localizedContentDate": "10/15/2026",
+     "localizedContentDateSr": "October 15, 2026",
+     "roadTeaserKicker": "Terrorism",
+     "formattedDurationInMinutes": "41:04",
+     "priority": "NEUTRAL",
+     "duration": 2464,
+     "posterImageUrl": "https://static.dw.com/image/76354121_605.webp",
+     "hlsVideoSrc": "https://hlsvod.dw.com/i/dwtv_video/flv/inf/inf20261015_12789_SerachingForClues_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+     "formattedDuration": "41:04",
+     "subtitles": [],
+     "playbackFormatType": "WIDE",
+     "language": "ENGLISH",
+     "subdomain": "NEWS",
+     "trackingId": 79667536,
+     "trackingLanguageCode": 2,
+     "trackingLanguageKey": "ENGLISH",
+     "trackingContentType": 18,
+     "trackingPageTypeKey": "VIDEO",
+     "trackingCategories": [
+      "TV",
+      "DocFilm"
+     ],
+     "trackingDate": 20261015,
+     "trackingPageSID": "3610",
+     "trackingTopicsCommaJoined": "Terrorismus,Konflikte",
+     "trackingRegionsCommaJoined": "",
+     "name": "Tracing the path of funding for Islamist terrorist groups",
+     "profileTopicContent": false,
+     "subjects": [],
+     "categories": [
+      {
+       "originId": "19990024",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990023",
+       "__typename": "Category"
+      }
+     ],
+     "departments": [
+      {
+       "id": 53195577,
+       "name": "Feature_Doku",
+       "__typename": "Department"
+      }
+     ],
+     "regions": [],
+     "unifiedPrograms": [
+      {
+       "id": 294010,
+       "name": "DocFilm",
+       "__typename": "UnifiedProgram"
+      }
+     ],
+     "navigations": [
+      {
+       "id": 3610,
+       "idsToRoot": [
+        266,
+        1452
+       ],
+       "__typename": "Navigation"
+      }
+     ],
+     "mainContentImage": {
+      "name": "A hand holding 50-euro-bills",
+      "id": 76354121,
+      "staticUrl": "https://static.dw.com/image/76354121_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    },
+    {
+     "id": 79651802,
+     "__typename": "Video",
+     "namedUrl": "/en/the-trillion-dollar-case-who-pays-for-the-climate-catastrophe/video-79651802",
+     "title": "Who pays for the climate catastrophe? ",
+     "shortTeaser": "Law students from the South Pacific have joined island nations to demand climate accountability.",
+     "teaser": "From their lecture halls to the International Court of Justice, law students from the South Pacific have joined island nations to demand greater climate accountability from industrialized countries.",
+     "isOpinion": false,
+     "firstAuthorArray": [],
+     "genre": "NONE",
+     "opinionSeries": [],
+     "contentDate": "2026-10-13T12:43:07.75Z",
+     "localizedContentDate": "10/13/2026",
+     "localizedContentDateSr": "October 13, 2026",
+     "roadTeaserKicker": "Nature and Environment",
+     "formattedDurationInMinutes": "52:03",
+     "priority": "NEUTRAL",
+     "duration": 3123,
+     "posterImageUrl": "https://static.dw.com/image/79567602_605.webp",
+     "hlsVideoSrc": "https://hlsvod.dw.com/i/dwtv_video/flv/inf/inf20261013_12993_TrillionDollar_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+     "formattedDuration": "52:03",
+     "subtitles": [
+      {
+       "language": "ENGLISH",
+       "srcLanguage": "en",
+       "subtitleUrl": "https://www.dw.com/media/subtitles/79677142",
+       "__typename": "SimpleResourceLink"
+      }
+     ],
+     "playbackFormatType": "WIDE",
+     "language": "ENGLISH",
+     "subdomain": "NEWS",
+     "trackingId": 79651802,
+     "trackingLanguageCode": 2,
+     "trackingLanguageKey": "ENGLISH",
+     "trackingContentType": 18,
+     "trackingPageTypeKey": "VIDEO",
+     "trackingCategories": [
+      "TV",
+      "DocFilm"
+     ],
+     "trackingDate": 20261013,
+     "trackingPageSID": "3610",
+     "trackingTopicsCommaJoined": "Natur und Umwelt,Klima,Recht und Justiz",
+     "trackingRegionsCommaJoined": "Global",
+     "name": "The trillion dollar case — Who pays for the climate catastrophe? ",
+     "profileTopicContent": false,
+     "subjects": [],
+     "categories": [
+      {
+       "originId": "19990021",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19991500",
+       "__typename": "Category"
+      },
+      {
+       "originId": "19990025",
+       "__typename": "Category"
+      }
+     ],
+     "departments": [
+      {
+       "id": 53195577,
+       "name": "Feature_Doku",
+       "__typename": "Department"
+      }
+     ],
+     "regions": [
+      {
+       "regionCode": "global",
+       "__typename": "GeographicRegion"
+      }
+     ],
+     "unifiedPrograms": [
+      {
+       "id": 294010,
+       "name": "DocFilm",
+       "__typename": "UnifiedProgram"
+      }
+     ],
+     "navigations": [
+      {
+       "id": 3610,
+       "idsToRoot": [
+        266,
+        1452
+       ],
+       "__typename": "Navigation"
+      }
+     ],
+     "mainContentImage": {
+      "name": "Climate protesters marching in a crowd, holding colorful signs with messages including \"No Climate Justice without Human Rights,\" \"Power to the People.\" ",
+      "id": 79567602,
+      "staticUrl": "https://static.dw.com/image/79567602_${formatId}.jpg",
+      "__typename": "Image"
+     }
+    }
+   ],
+   "_note": "trimmed: 4 of 16 episodes"
+  }
+ }
+}

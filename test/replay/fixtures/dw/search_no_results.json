@@ -1,0 +1,19 @@
+{
+ "meta": {
+  "alerts": [],
+  "warnings": [],
+  "precision": 10,
+  "engine": {
+   "name": "english-nest",
+   "type": "meta"
+  },
+  "page": {
+   "current": 1,
+   "total_pages": 0,
+   "total_results": 0,
+   "size": 6
+  },
+  "request_id": "99ab3279-50e6-475f-ac70-c0b9da0394ed"
+ },
+ "results": []
+}
