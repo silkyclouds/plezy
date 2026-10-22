@@ -82,8 +82,6 @@ class _ReplayTextFieldState extends State<ReplayTextField> {
                 focusNode: widget.focusNode,
                 autofocus: widget.autofocus,
                 enabled: widget.enabled,
-                // Only OK opens the TV keyboard, so moving the D-pad over the field never raises it.
-                tvTextInputAutoOpenBehavior: TvTextInputAutoOpenBehavior.never,
                 obscureText: widget.obscure,
                 autocorrect: false,
                 enableSuggestions: false,

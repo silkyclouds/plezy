@@ -23,7 +23,7 @@ void main() {
     expect(find.byType(FocusableTextField), findsOneWidget);
   });
 
-  testWidgets('On TV, select on the search field attaches text input', (tester) async {
+  testWidgets('On TV, a focused search field is editable and attaches text input', (tester) async {
     await TvDetectionService.getInstance(forceTv: true);
     TvDetectionService.setForceTVSync(true);
     final controller = TextEditingController();
@@ -38,10 +38,6 @@ void main() {
         ),
       ),
     );
-    await tester.pumpAndSettle();
-    tester.testTextInput.log.clear();
-
-    await tester.sendKeyEvent(LogicalKeyboardKey.select);
     await tester.pumpAndSettle();
 
     expect(tester.widget<TextField>(find.byType(TextField)).readOnly, isFalse);

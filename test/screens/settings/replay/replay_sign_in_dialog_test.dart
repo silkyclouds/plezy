@@ -24,21 +24,14 @@ TextField _field(WidgetTester tester, int index) => tester.widget<TextField>(fin
 void main() {
   tearDown(() => TvDetectionService.setForceTVSync(false));
 
-  testWidgets('On TV, select on the login field attaches text input', (tester) async {
+  testWidgets('On TV, the focused login field is editable and attaches text input', (tester) async {
     await TvDetectionService.getInstance(forceTv: true);
     TvDetectionService.setForceTVSync(true);
     await tester.pumpWidget(_app(_noop));
     await tester.pumpAndSettle();
-    tester.testTextInput.log.clear();
-
-    expect(_field(tester, 0).readOnly, isTrue);
-
-    await tester.sendKeyEvent(LogicalKeyboardKey.select);
-    await tester.pumpAndSettle();
 
     expect(_field(tester, 0).readOnly, isFalse);
     expect(tester.testTextInput.log.map((call) => call.method), contains('TextInput.setClient'));
-    expect(tester.testTextInput.isVisible, isTrue);
   });
 
   testWidgets('The eye shows the password in clear and hides it again', (tester) async {
