@@ -1,0 +1,91 @@
+{
+ "pagination": {
+  "limit": 100,
+  "offset": 0,
+  "count": 1,
+  "total": 1,
+  "next": null,
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "3026036",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "stateless",
+    "title": "STATELESS: The Japanese Left Behind in the Philippines",
+    "html_title": "STATELESS: The Japanese Left Behind in the Philippines",
+    "url": "/nhkworld/en/shows/stateless/",
+    "uri": "en/video_programs/stateless"
+   },
+   "url": "/nhkworld/en/shows/3026036/",
+   "title": null,
+   "description": "After WWII, thousands of children born to Japanese fathers were left behind in the Philippines. Many became stateless. Eighty years on, 50 descendants are still fighting to be recognized as Japanese.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-09-27T00:10:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/3026036/images/wide_s_6J6ihU30ILxqn4Nan2JhPraVA9clSCGAwalWTKk8.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/3026036/images/wide_m_DIbu41Z14tBuRmCRwiBXCFIHfzyrRacX5qCiotWE.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/3026036/images/wide_l_oF2fOCtaXr5vgFvkGNqFIOgCya77ygo6TSGsRfzs.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://vod.nhkworld.jp/www50/eqj833muwr/jmc_pub/jmc_pd/00179/362af43485c24352b926ebd49172bf88/362af43485c24352b926ebd49172bf88_auto_sp.m3u8",
+    "duration": 2955,
+    "published_at": "2025-09-27T00:10:00Z",
+    "expired_at": "2027-08-01T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "196",
+     "url": "/nhkworld/en/shows/tag/196/",
+     "name": "Documentary 360",
+     "uri": "en/tags/196"
+    },
+    {
+     "id": "205",
+     "url": "/nhkworld/en/shows/tag/205/",
+     "name": "The Pursuit of PEACE",
+     "uri": "en/tags/205"
+    }
+   ]
+  }
+ ]
+}

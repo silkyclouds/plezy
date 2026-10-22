@@ -1,0 +1,127 @@
+{
+ "pagination": {
+  "limit": 2,
+  "offset": 0,
+  "count": 2,
+  "total": 165,
+  "next": "/showsapi/v1/en/video_clips?limit=2&offset=2",
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoClip",
+   "id": "99990li",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "journeys",
+    "title": "Journeys in Japan",
+    "html_title": "Journeys in Japan",
+    "url": "/nhkworld/en/shows/journeys/",
+    "uri": "en/video_programs/journeys"
+   },
+   "url": "/nhkworld/en/shows/99990li/",
+   "title": "Journeys in Japan Trailer",
+   "description": "Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": null,
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/99990li/images/wide_s_r1bWrkAEvWB56bviVS7p6vx0UsFyPV4IIg7jhSjn.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/99990li/images/wide_m_jkiqPeW0Kqu8q5roORLayS4LkLpc9LHReCiq304k.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/99990li/images/wide_l_7BRa8IHoKfC3vcIfYiWpJcuuuq9qm8bpZXFJvJxr.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://vod-stream.nhk.jp/nhkworld/en/shows/99990li/videos/8jcurtoyf4ncjc0t2cvgz0mw6kjrkrnwi6mmnd26_2M/index.m3u8",
+    "duration": 30,
+    "published_at": "2026-09-24T01:00:00Z",
+    "expired_at": "2028-09-30T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "18",
+     "url": "/nhkworld/en/shows/category/18/",
+     "name": "Travel",
+     "uri": "en/categories/18"
+    }
+   ],
+   "tags": [
+    {
+     "id": "163",
+     "url": "/nhkworld/en/shows/tag/163/",
+     "name": "Trailer",
+     "uri": "en/tags/163"
+    }
+   ]
+  },
+  {
+   "type": "VideoClip",
+   "id": "99990kt",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "bosaiscience",
+    "title": "BOSAI: Science that Can Save Your Life",
+    "html_title": "BOSAI: Science that Can Save Your Life",
+    "url": "/nhkworld/en/shows/bosaiscience/",
+    "uri": "en/video_programs/bosaiscience"
+   },
+   "url": "/nhkworld/en/shows/99990kt/",
+   "title": "Skytree Defense",
+   "description": "Tokyo Skytree, a top tourist spot, uses cutting-edge technology to prepare for a massive earthquake.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": null,
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/99990kt/images/wide_s_iTi5gcx7BKGin10QDHjAPS0oUiKjopnvYNnUaEt9.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/99990kt/images/wide_m_ogxPeR6Xsw7oNcgSXYH17sTwK5pBnFN5XdVSKRFZ.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/99990kt/images/wide_l_4CU4I9tPplwadWtiR2LvBdlOFETvPdVw0UFc7K5T.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://vod-stream.nhk.jp/nhkworld/en/shows/99990kt/videos/fapoqcyarmze2egm3s36mbn2x0vipbzydny1ehbf_2M/index.m3u8",
+    "duration": 101,
+    "published_at": "2026-08-27T01:08:00Z",
+    "expired_at": "2027-04-17T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": []
+  }
+ ]
+}

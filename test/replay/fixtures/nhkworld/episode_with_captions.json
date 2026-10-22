@@ -1,0 +1,78 @@
+{
+ "pagination": {
+  "limit": 100,
+  "offset": 0,
+  "count": 1,
+  "total": 1,
+  "next": null,
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "5126007",
+   "lang": "en",
+   "caption_langs": [
+    "zh",
+    "zt",
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "magicaljapanese",
+    "title": "Magical Japanese",
+    "html_title": "Magical Japanese",
+    "url": "/nhkworld/en/shows/magicaljapanese/",
+    "uri": "en/video_programs/magicaljapanese"
+   },
+   "url": "/nhkworld/en/shows/5126007/",
+   "title": "Wear",
+   "description": "People have long worn clothes to protect themselves from the elements and signal their social status, producing many Japanese words and expressions related to kiru, or \"to wear.\"",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2024-12-18T01:45:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5126007/images/wide_s_D2IyET30mTZ8eSpKfFqsxjMTNx1R77uZKiAmkG82.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5126007/images/wide_m_SpMMsaTLAlFE9QhWWFbIPKKY1cjpjMDBWr45aHXS.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5126007/images/wide_l_2XBwv1bHFZeOcJGJ4aezP99iFdhV13JqBYXJxXnO.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/512600720261019001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-10-19T01:40:00Z",
+    "expired_at": "2027-03-31T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "28",
+     "url": "/nhkworld/en/shows/category/28/",
+     "name": "Learn Japanese",
+     "uri": "en/categories/28"
+    }
+   ],
+   "tags": [
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    }
+   ]
+  }
+ ]
+}

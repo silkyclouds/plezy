@@ -1,0 +1,717 @@
+{
+ "pagination": {
+  "limit": 100,
+  "offset": 0,
+  "count": 10,
+  "total": 10,
+  "next": null,
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoProgram",
+   "id": "10yearshayaomiyazaki",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/10yearshayaomiyazaki/",
+   "external_url": null,
+   "title": "10 Years with Hayao Miyazaki",
+   "description": "An exclusive 4-part documentary chronicling the creative process of the legendary Japanese filmmaker. He is shown as a passionate artisan, a steadfast trailblazer, and a father butting heads with his son.",
+   "series_id": "3004",
+   "sort_key": "10 YEARS WITH HAYAO MIYAZAKI",
+   "is_new": false,
+   "is_closed": true,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/wide_s_bzDxe9zokxjzIzMf1aV4hncUIW47jbpaaKjfQ40k.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/wide_m_F0JNn53JiXgIIZzhiDim3P4ik8hqDGM5Md3haBhc.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/wide_l_Pmd3hdUWVlJjPhvpLVhtVKeQLl6iX1WRgZJaVjRG.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/portrait_s_XA6bWdF9qWldEJaj209hnK6lP7kXMW0a5ZhuRrGH.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/portrait_m_76qvskKFxcprP81OgkqVrfKy9KoSkWDkAm0RYKhm.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/10yearshayaomiyazaki/images/portrait_l_LcrkRjsxZTV5bvdJDIsrMXfqIfnwKTaOTeHQuyzI.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [
+    {
+     "id": "196",
+     "url": "/nhkworld/en/shows/tag/196/",
+     "name": "Documentary 360",
+     "uri": "en/tags/196"
+    }
+   ],
+   "video_episodes": {
+    "total": 0,
+    "uri": "en/video_programs/10yearshayaomiyazaki/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/10yearshayaomiyazaki/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "easyjapanese",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/easyjapanese/",
+   "external_url": "https://www.nhk.or.jp/lesson/en/",
+   "title": "Easy Japanese",
+   "description": "Fun and easy Japanese! Fast track your language learning with these simple expressions! Plus handy travel tips and easy kanji! Give it a try!",
+   "series_id": "6022",
+   "sort_key": "EASY JAPANESE",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/wide_s_auorUA7q8HaIaHXHysvwSm0YDIdCQCfB1IqkWVZR.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/wide_m_OeSw18Je3avX0vv8uVpPFwLHXyi0T9hnB53yzK8l.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/wide_l_PxRfAAB6R9EYFd28Nx820kL6zYAegY92ZQkpqJZd.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/portrait_s_HDsyduNAhdy9d2ZkGzscgtWgVRA2F0ivIf8aUVGW.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/portrait_m_HQJe9aMT7g4f6uHMY4HnODdtGTGQZd4tKSMmHEPe.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/easyjapanese/images/portrait_l_AqUFpRNU1YE554nPprROVvFuIiYOk0LMuNEAbabc.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "28",
+     "url": "/nhkworld/en/shows/category/28/",
+     "name": "Learn Japanese",
+     "uri": "en/categories/28"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 48,
+    "uri": "en/video_programs/easyjapanese/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/easyjapanese/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "corekyoto",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/corekyoto/",
+   "external_url": null,
+   "title": "Core Kyoto",
+   "description": "The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.",
+   "series_id": "2029",
+   "sort_key": "CORE KYOTO",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/wide_s_ltbSZY0CLZ406Z4jISMfJJEZ1zEB6KQqe0AWpYiw.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/wide_m_s4XGAQty5MzKDqU80UwgvSx5ucCiY9iZ7cZixa7L.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/wide_l_HMJmjqPN3vURDLb1GhgREkuBNMT8HLx3dEjZ85Yo.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/portrait_s_g9mD8y0zvpUUANxuL63KqfEXWPGdBOAArs6dO3J6.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/portrait_m_IIMBFKgVbpSxFqVnE2KzOJeYVVYuSGHmbfbJA72L.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/corekyoto/images/portrait_l_hPqRsP6he7jVzO7L3pptmwTDikZlEdylPyoryzFk.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 55,
+    "uri": "en/video_programs/corekyoto/video_episodes"
+   },
+   "video_clips": {
+    "total": 13,
+    "uri": "en/video_programs/corekyoto/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "ah-neo",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/ah-neo/",
+   "external_url": null,
+   "title": "Design Ah neo",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
+   "series_id": "4045",
+   "sort_key": "DESIGN AH NEO",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/wide_s_2iOzXiOwIE9Ay2PbGGNIini01FDmSJoQK7E6QH71.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/wide_m_XzRTFfuBaYJc0Khj3hiQMfW2mi6eSG0An7RvIa8B.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/wide_l_1Pv4In4n1u3zbCp7Zab2mzfzGUU3adIemj4nJOvS.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/portrait_s_ew6nXET61EAYrKhKJEtWDPUPcTCYhtGrj9yNqgF5.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/portrait_m_8RbT5fb0ErIIpbDRzq3vQ38xo0pTbjBMsqh81cT5.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/ah-neo/images/portrait_l_6Ej9dejjL4U6Wjg29Twhj1zAHJDeN5nRSwrfTkwP.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 10,
+    "uri": "en/video_programs/ah-neo/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/ah-neo/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "japan-delish",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/japan-delish/",
+   "external_url": null,
+   "title": "JAPAN DELISH",
+   "description": "\"Japan Delish\" is a banquet of foods from overseas adopted by the Japanese. From fare steeped in tradition to its many modern variations, uncover the delicious histories at the heart of every dish.",
+   "series_id": "3025",
+   "sort_key": "JAPAN DELISH",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/wide_s_SbJDxAAHvAm7SdcBECvF3u1r7e3LrcrQgOw4CF9H.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/wide_m_ujKoz6NFDaf9OfIEvchZxU5D3eY6wH2ixx1rcajY.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/wide_l_UvX8lO2yvLs9AhE0sBKFbRo0MTOZv3XnFhgpyLU7.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/portrait_s_1p4ihCy28cvWi7RFfQsu7fd9fe8kKSuru4IOUVx6.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/portrait_m_QG3if2uUonXSxO0DS3Kk3QhptCGUDGsVIe1DK5k8.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/japan-delish/images/portrait_l_1eZ57WeYGINBMRrkth9cVBhol5848ObjJowFt8ly.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    },
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 8,
+    "uri": "en/video_programs/japan-delish/video_episodes"
+   },
+   "video_clips": {
+    "total": 1,
+    "uri": "en/video_programs/japan-delish/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "japanologyplus",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/japanologyplus/",
+   "external_url": null,
+   "title": "Japanology Plus",
+   "description": "Fresh insights into Japan. Stories behind Japanese life and culture through the eyes of Peter Barakan, a 50-year resident and watcher of Japan.",
+   "series_id": "2032",
+   "sort_key": "JAPANOLOGY PLUS",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/wide_s_Kw5NreTUZXh4bp4TZ3WJAwv79m9r6FluWZa2HAT6.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/wide_m_Gpi4aioX8zKVvaqXgQnRSsMGrbQ4vvJP1PraKGGT.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/wide_l_43QOjgTfTlBBiZB0CwWlCON0BOF9JADSyGFTAG3A.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/portrait_s_N6pyBu51OrkvRifw7WJzKz6IoHuv1pAKNYWnr8EC.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/portrait_m_TPxhd6fY285rvl8FawubhyFunKnfeVEKh0VodW61.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/japanologyplus/images/portrait_l_IU4arCHvKlmU9NV9nSpq4pBpNvF6Clu73I6fFCmI.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 26,
+    "uri": "en/video_programs/japanologyplus/video_episodes"
+   },
+   "video_clips": {
+    "total": 1,
+    "uri": "en/video_programs/japanologyplus/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "journeys",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/journeys/",
+   "external_url": null,
+   "title": "Journeys in Japan",
+   "description": "Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!",
+   "series_id": "2007",
+   "sort_key": "JOURNEYS IN JAPAN",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/journeys/images/wide_s_KONvENNyD0bk47tMhealerwrpRsdfknfLmwQJjGV.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/journeys/images/wide_m_4XzcqVpaxN24rYjbkqxHEcGZhyK2JYj5abx4Yds1.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/journeys/images/wide_l_XInzldy6y7KYMlMVwCH6QmBDNwsD90K9EfbDCUm4.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/journeys/images/portrait_s_RisCFYpnduGnqLtpnDrtwCXqtNGNJ7fFQfFsibeo.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/journeys/images/portrait_m_Q1bUyaZzSgCJ7xs2O5kUfXAxEyAvWO33tQmmrSzd.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/journeys/images/portrait_l_QuNcblI3iAWVDqXkdtAZOzRNTafYXLzceXlWWlrU.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "18",
+     "url": "/nhkworld/en/shows/category/18/",
+     "name": "Travel",
+     "uri": "en/categories/18"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 25,
+    "uri": "en/video_programs/journeys/video_episodes"
+   },
+   "video_clips": {
+    "total": 4,
+    "uri": "en/video_programs/journeys/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "stateless",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/stateless/",
+   "external_url": null,
+   "title": "STATELESS: The Japanese Left Behind in the Philippines",
+   "description": "After WWII, thousands of children born to Japanese fathers were left behind in the Philippines. Many became stateless. Eighty years on, 50 descendants are still fighting to be recognized as Japanese.",
+   "series_id": "3026",
+   "sort_key": "STATELESS: THE JAPANESE LEFT BEHIND IN THE PHILIPPINES",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/stateless/images/wide_s_be700gp8pBEqQLpkFCXxve4NUpoiFSdKJK4mFMJk.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/stateless/images/wide_m_Pi4D6m2H9aQB0nS2APkP2YGFhHOfVeSBbBdtGkoW.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/stateless/images/wide_l_U1w4xUT305JCN4KP2MQKS5wfvVkutIazx2eX39h2.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/stateless/images/portrait_s_r0unD5LSplmNm3ED11ITJQH0ydzu7aLGlAuhoDmx.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/stateless/images/portrait_m_d8glyLZ2y0I7YEGiEH44PzyNaiEiCPb0dwzIwvYT.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/stateless/images/portrait_l_zv29R3I7Dfl7rZdnGma1vRkXjH59VO3YM7whwZhD.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "196",
+     "url": "/nhkworld/en/shows/tag/196/",
+     "name": "Documentary 360",
+     "uri": "en/tags/196"
+    }
+   ],
+   "video_episodes": {
+    "total": 1,
+    "uri": "en/video_programs/stateless/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/stateless/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "minamatadisease",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/minamatadisease/",
+   "external_url": null,
+   "title": "Silenced by History: Voices of Minamata Disease Victims",
+   "description": "A new study has shed light on the true extent of the suffering caused by Minamata disease. This program follows the efforts of those trying to give voice to the overlooked victims of Minamata.",
+   "series_id": "5210",
+   "sort_key": "SILENCED BY HISTORY: VOICES OF MINAMATA DISEASE VICTIMS",
+   "is_new": true,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/wide_s_wskdjR5A2AFpe3c3iIzrUz5WgLO3RB1cI99loP7N.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/wide_m_VUhnZF7KOg85asplIOmxQuXdf3Htp2crOmyw5uGH.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/wide_l_N7s1hQmkOJpaUcNwyUeZSe0lhGFjkWIk3dVEYv8E.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/portrait_s_XpPX1lQxtd1kUh1yuqnMXKjFsICgapUqjuc7eWVV.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/portrait_m_iWjMcd70d9KvxEVHGI0aGJGdfyEa3tTihSLjd5Fp.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/minamatadisease/images/portrait_l_QZXpA8iotoREDMl71Xf7IhZanjt7mwpqwLq1iLob.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [
+    {
+     "id": "196",
+     "url": "/nhkworld/en/shows/tag/196/",
+     "name": "Documentary 360",
+     "uri": "en/tags/196"
+    }
+   ],
+   "video_episodes": {
+    "total": 0,
+    "uri": "en/video_programs/minamatadisease/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/minamatadisease/video_clips"
+   }
+  },
+  {
+   "type": "VideoProgram",
+   "id": "closeup",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/closeup/",
+   "external_url": null,
+   "title": "Today's Close-Up",
+   "description": "Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+   "series_id": "4048",
+   "sort_key": "TODAY'S CLOSE-UP",
+   "is_new": false,
+   "is_closed": false,
+   "images": {
+    "landscape": [
+     {
+      "url": "/nhkworld/en/shows/closeup/images/wide_s_y3LcWdL8DK08ZV0lBtYYhfV6TR3zwWCvfJLXzcHM.jpg",
+      "width": 320,
+      "height": 180
+     },
+     {
+      "url": "/nhkworld/en/shows/closeup/images/wide_m_GsUD0CG8BoGjBCAoNIJpHF7E2IXIl4cZZ0KXBqqL.jpg",
+      "width": 768,
+      "height": 432
+     },
+     {
+      "url": "/nhkworld/en/shows/closeup/images/wide_l_EfsLE9xZcvy0rJM1ZbKMsXFm5Fo3MJJBhkP6KIuE.jpg",
+      "width": 1536,
+      "height": 864
+     }
+    ],
+    "portrait": [
+     {
+      "url": "/nhkworld/en/shows/closeup/images/portrait_s_gR0t1OXCYMyTdN3z4DjBISkac1S8boIW3Rm4AnOd.jpg",
+      "width": 300,
+      "height": 450
+     },
+     {
+      "url": "/nhkworld/en/shows/closeup/images/portrait_m_fqZ36L6VhTMcub2wiGHXCEJdn2Z9NPZ69zhMlMUT.jpg",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "url": "/nhkworld/en/shows/closeup/images/portrait_l_ny5XVqns0rvNX1oZL4h59CCGc4BqqSowwB9b9PBH.jpg",
+      "width": 720,
+      "height": 1080
+     }
+    ]
+   },
+   "categories": [
+    {
+     "id": "12",
+     "url": "/nhkworld/en/shows/category/12/",
+     "name": "Current Affairs",
+     "uri": "en/categories/12"
+    }
+   ],
+   "tags": [],
+   "video_episodes": {
+    "total": 4,
+    "uri": "en/video_programs/closeup/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/video_programs/closeup/video_clips"
+   }
+  }
+ ]
+}

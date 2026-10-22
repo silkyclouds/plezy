@@ -1,0 +1,914 @@
+{
+ "pagination": {
+  "limit": 100,
+  "offset": 0,
+  "count": 11,
+  "total": 11,
+  "next": null,
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "5107009",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/5107009/",
+   "title": "Natto",
+   "description": "*First broadcast on June 5, 2025\nWith its unique smell and stickiness, people either love or hate natto. But eating natto has been linked to longevity, and a substance in this powerful food could even help solve environmental issues!",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-06-05T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_s_VSWITR6MxjxSsUhzXQxL2ZtozqdlxgJjfGEpYxQp.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_m_M8Hyylhx49AhnVr8LlvAI9v4vBTtwBnx5bqr0XGv.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_l_ntgZe2lZNEmQWzvBG6hKPhTMYSxVpxXaoiorOMqS.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/510700920261022001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-10-22T02:58:00Z",
+    "expired_at": "2026-10-29T02:58:00Z"
+   },
+   "categories": [
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    },
+    {
+     "id": "23",
+     "url": "/nhkworld/en/shows/category/23/",
+     "name": "Science & Nature",
+     "uri": "en/categories/23"
+    }
+   ],
+   "tags": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/tag/20/",
+     "name": "Kochi",
+     "uri": "en/tags/20"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "201",
+     "url": "/nhkworld/en/shows/tag/201/",
+     "name": "Japanese Food",
+     "uri": "en/tags/201"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5107008",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/5107008/",
+   "title": "Secondhand Goods",
+   "description": "*First broadcast on October 15, 2026\nFrom secondhand stores to online marketplaces and home pickups, Japan's resale market is booming among people of all ages and foreign buyers. We explore Japan's waste-conscious approach to used goods.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-10-15T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5107008/images/wide_s_cPhRGiDQRw3VV8KWjajfDCMEsMnxEJicPNjM9UIT.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5107008/images/wide_m_4fBDZbEXZYUdSxiHktL13Uaocl6i622w8InUDwQM.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5107008/images/wide_l_UCUX6LfKID7beM5jNqTDSoa540pmsBmM8apLXzML.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/510700820261015001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-10-15T02:58:00Z",
+    "expired_at": "2027-10-14T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [
+    {
+     "id": "35",
+     "url": "/nhkworld/en/shows/tag/35/",
+     "name": "Saitama",
+     "uri": "en/tags/35"
+    },
+    {
+     "id": "38",
+     "url": "/nhkworld/en/shows/tag/38/",
+     "name": "Shizuoka",
+     "uri": "en/tags/38"
+    },
+    {
+     "id": "41",
+     "url": "/nhkworld/en/shows/tag/41/",
+     "name": "Tokyo",
+     "uri": "en/tags/41"
+    },
+    {
+     "id": "165",
+     "url": "/nhkworld/en/shows/tag/165/",
+     "name": "SDGs",
+     "uri": "en/tags/165"
+    },
+    {
+     "id": "177",
+     "url": "/nhkworld/en/shows/tag/177/",
+     "name": "Responsible consumption and production",
+     "uri": "en/tags/177"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5107004",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/5107004/",
+   "title": "Kutani Ware",
+   "description": "*First broadcast on September 17, 2026\nKutani ware features delicate yet bold designs. Building on traditional techniques, artists explore new forms of expression with their own sensibilities. We look at the beauty of this evolving craft.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-09-17T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5107004/images/wide_s_BAv8BW2nMNCRuRATIDCImxZjCZe9mUrKMkP9CjvE.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5107004/images/wide_m_TQy07ixGO4sV0SQeeZk2RHgt6uQdJ4boVSUK6TXR.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5107004/images/wide_l_quCmfpGD4NZtuNzwxQKspXNr4DESKoKZegI3t9vq.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/510700420260917001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-09-17T02:58:00Z",
+    "expired_at": "2027-09-16T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": [
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/tag/15/",
+     "name": "Ishikawa",
+     "uri": "en/tags/15"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "202",
+     "url": "/nhkworld/en/shows/tag/202/",
+     "name": "Arts & Crafts",
+     "uri": "en/tags/202"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032367",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032367/",
+   "title": "Eggs",
+   "description": "*First broadcast on September 3, 2026\nJapan is a major egg consumer, averaging 330 eggs per person per year. Strict hygiene standards allow eggs to be safely eaten raw, while discarded shells are repurposed into paper and plastics.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-09-03T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032367/images/wide_s_Ol1XDV6upI24GbZqMR2y61Du9JhpoupttrMdyMVH.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032367/images/wide_m_cLIQpnAU3kkKZ3A60USsmJVvuYb4wxidF8Fv8gwj.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032367/images/wide_l_jNI2T1nuXB4kGdDxbtgeZVAYiDxdkh68TfOM2W7a.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203236720260903001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-09-03T02:58:00Z",
+    "expired_at": "2027-09-02T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032366",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032366/",
+   "title": "Solo-katsu",
+   "description": "*First broadcast on August 20, 2026\nFrom camping to karaoke and afternoon tea, people of all ages in Japan are enjoying \"solo-katsu,\" doing social activities solo. We explore how this unique trend is changing consumption and design.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-08-20T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032366/images/wide_s_ya6JsO2jADby1bmvAZBaZPYtpoLYiUBLLVzC3HW2.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032366/images/wide_m_B1T8X9vOg94gjTglSzOUAcx50jAPTs6XnoDpYAYx.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032366/images/wide_l_HopAzi1fhUApor8gT9mbX0NigwLXe82PQsENuEKN.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203236620260820001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-08-20T02:58:00Z",
+    "expired_at": "2027-08-19T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [
+    {
+     "id": "13",
+     "url": "/nhkworld/en/shows/tag/13/",
+     "name": "Hyogo",
+     "uri": "en/tags/13"
+    },
+    {
+     "id": "41",
+     "url": "/nhkworld/en/shows/tag/41/",
+     "name": "Tokyo",
+     "uri": "en/tags/41"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032350",
+   "lang": "en",
+   "caption_langs": [
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032350/",
+   "title": "Hagi: The Life of Yoshida Shoin",
+   "description": "*First broadcast on December 11, 2025\nThe 19th-century educator Yoshida Shoin lived only 29 years, yet his teachings helped shape Japan's modernization. His words, published as books, remain popular today. We visit his birthplace, Hagi.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-12-11T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032350/images/wide_s_eYq8Mh3uoJg7ZPFFcjC6Tf8p4QelPnPznOjBV4I8.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032350/images/wide_m_eyuK4hPrN0KRcaaUrC53eXDESxFMkuKBDUNHLcQF.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032350/images/wide_l_2biTmCLgA9etfvGV5VThhsTYRYQ1RxMSjkUujuFD.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203235020260702001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-07-02T02:58:00Z",
+    "expired_at": "2026-12-10T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "18",
+     "url": "/nhkworld/en/shows/category/18/",
+     "name": "Travel",
+     "uri": "en/categories/18"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "46",
+     "url": "/nhkworld/en/shows/tag/46/",
+     "name": "Yamaguchi",
+     "uri": "en/tags/46"
+    },
+    {
+     "id": "65",
+     "url": "/nhkworld/en/shows/tag/65/",
+     "name": "History",
+     "uri": "en/tags/65"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032313",
+   "lang": "en",
+   "caption_langs": [
+    "fr",
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032313/",
+   "title": "Plastic Models",
+   "description": "*First broadcast on June 6, 2024.\nRoughly 90% of Japan's plastic models are made in Shizuoka, a city whose manufacturing roots date back to shogun Tokugawa Ieyasu. We explore the latest developments for Japan's superb plastic models.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2024-06-06T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032313/images/wide_s_tsuacj8iy1gTX7wBa4xFB6ZmtqFMweqcl2pNjgBR.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032313/images/wide_m_o5vWc4n3Zaii2DMx4GE1NJ6O9LEI4od3xIWMLbxa.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032313/images/wide_l_kIYn9YgEt2Y3YX7r65ARohLKFUjkyBABfKzquWIu.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203231320260402001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-04-02T02:58:00Z",
+    "expired_at": "2027-04-01T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "38",
+     "url": "/nhkworld/en/shows/tag/38/",
+     "name": "Shizuoka",
+     "uri": "en/tags/38"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "202",
+     "url": "/nhkworld/en/shows/tag/202/",
+     "name": "Arts & Crafts",
+     "uri": "en/tags/202"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032351",
+   "lang": "en",
+   "caption_langs": [
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032351/",
+   "title": "Hagi: Castle Town Forged by Magma",
+   "description": "*First broadcast on December 18, 2025\nHagi in Yamaguchi Prefecture is dotted with volcanoes. Their volcanic rock was used to shape the townscape, and the area's unique clay and soil fostered its pottery tradition and citrus cultivation.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-12-18T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032351/images/wide_s_yQ1CccBf4Tw7rSYIyiRFxCufjEl2qNafRc1FISVc.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032351/images/wide_m_wqAySPGW7ewhtL23GUsWD827xuSKaMkJKOGg1pCV.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032351/images/wide_l_IAUPeT4niW75nzEcJ1YEl9uEG2Q4tEtsKLC8dctw.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203235120251218001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2025-12-18T02:58:00Z",
+    "expired_at": "2026-12-17T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "18",
+     "url": "/nhkworld/en/shows/category/18/",
+     "name": "Travel",
+     "uri": "en/categories/18"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "46",
+     "url": "/nhkworld/en/shows/tag/46/",
+     "name": "Yamaguchi",
+     "uri": "en/tags/46"
+    },
+    {
+     "id": "65",
+     "url": "/nhkworld/en/shows/tag/65/",
+     "name": "History",
+     "uri": "en/tags/65"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032349",
+   "lang": "en",
+   "caption_langs": [
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032349/",
+   "title": "Japanophiles: Astrid Klein & Mark Dytham",
+   "description": "*First broadcast on November 20, 2025\nFor over 35 years, Italian-born Astrid Klein and UK-born Mark Dytham have worked together as architects in Tokyo, designing not just buildings but also spaces for communication and creativity.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-11-20T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032349/images/wide_s_oPqi1IPHaqGRHsYnhWU1SfjdDW4UKTVvLaJs3FO4.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032349/images/wide_m_tYPXe3BSzaKuWiJWRCgPQgFn8IpebEtpIiUX5C2H.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032349/images/wide_l_XwKLcPl40XQrvO3hPBTvUesRxN9W8vlXS9gmpSzk.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203234920251120001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2025-11-20T02:58:00Z",
+    "expired_at": "2026-11-19T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "16",
+     "url": "/nhkworld/en/shows/category/16/",
+     "name": "Interview",
+     "uri": "en/categories/16"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": [
+    {
+     "id": "41",
+     "url": "/nhkworld/en/shows/tag/41/",
+     "name": "Tokyo",
+     "uri": "en/tags/41"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032348",
+   "lang": "en",
+   "caption_langs": [
+    "pt",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032348/",
+   "title": "Sleep",
+   "description": "*First broadcast on November 6, 2025\nInterest in sleep has been growing in Japan. From futuristic high-tech beds to advanced sleepwear, many new products are designed to improve sleep quality. We look at Japan's latest sleep trends.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-11-06T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032348/images/wide_s_lJ96yGxHhuiBZQjIsKhqLDNFEFfOfQt17jOxZ374.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032348/images/wide_m_NNV1FNiI7pWJKBenjriqpXDbWMfdMYB4rOIlt68L.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032348/images/wide_l_ooga9drCPzOqT4jy71XEke89p2jN2B0eraimAA5X.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203234820251106001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2025-11-06T02:58:00Z",
+    "expired_at": "2026-11-05T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "14",
+     "url": "/nhkworld/en/shows/category/14/",
+     "name": "Biz & Tech",
+     "uri": "en/categories/14"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "41",
+     "url": "/nhkworld/en/shows/tag/41/",
+     "name": "Tokyo",
+     "uri": "en/tags/41"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "2032347",
+   "lang": "en",
+   "caption_langs": [
+    "fr",
+    "ko",
+    "pt",
+    "th",
+    "vi"
+   ],
+   "voice_langs": [
+    "en",
+    "es"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/2032347/",
+   "title": "Convenience Stores",
+   "description": "*First broadcast on October 23, 2025\nJapan's convenience stores stock more than just food. Some sell clothes or provide administrative services. Others even use avatars and robots alongside human employees. We look at Japan's \"konbini.\"",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-10-23T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/2032347/images/wide_s_jnOHYiwjcievg7H6oNgtylTRD6CakQO8oDh6Ctd7.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/2032347/images/wide_m_pzmMF4eiPmpPv8MVRbaUEoy0kbSiSJqlHSRoKOrz.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/2032347/images/wide_l_2EObT9guGTWTtIjVCiFixcsUDKwfFSpaFft39lHX.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/203234720251023001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2025-10-23T02:58:00Z",
+    "expired_at": "2026-10-22T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    },
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    }
+   ],
+   "tags": [
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    }
+   ]
+  }
+ ]
+}

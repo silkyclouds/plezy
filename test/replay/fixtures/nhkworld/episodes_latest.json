@@ -1,0 +1,230 @@
+{
+ "pagination": {
+  "limit": 3,
+  "offset": 0,
+  "count": 3,
+  "total": 1729,
+  "next": "/showsapi/v1/en/video_episodes?limit=3&offset=3",
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "5107009",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japanologyplus",
+    "title": "Japanology Plus",
+    "html_title": "Japanology Plus",
+    "url": "/nhkworld/en/shows/japanologyplus/",
+    "uri": "en/video_programs/japanologyplus"
+   },
+   "url": "/nhkworld/en/shows/5107009/",
+   "title": "Natto",
+   "description": "*First broadcast on June 5, 2025\nWith its unique smell and stickiness, people either love or hate natto. But eating natto has been linked to longevity, and a substance in this powerful food could even help solve environmental issues!",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-06-05T02:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_s_VSWITR6MxjxSsUhzXQxL2ZtozqdlxgJjfGEpYxQp.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_m_M8Hyylhx49AhnVr8LlvAI9v4vBTtwBnx5bqr0XGv.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5107009/images/wide_l_ntgZe2lZNEmQWzvBG6hKPhTMYSxVpxXaoiorOMqS.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/510700920261022001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-10-22T02:58:00Z",
+    "expired_at": "2026-10-29T02:58:00Z"
+   },
+   "categories": [
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    },
+    {
+     "id": "23",
+     "url": "/nhkworld/en/shows/category/23/",
+     "name": "Science & Nature",
+     "uri": "en/categories/23"
+    }
+   ],
+   "tags": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/tag/20/",
+     "name": "Kochi",
+     "uri": "en/tags/20"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "201",
+     "url": "/nhkworld/en/shows/tag/201/",
+     "name": "Japanese Food",
+     "uri": "en/tags/201"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5106009",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "corekyoto",
+    "title": "Core Kyoto",
+    "html_title": "Core Kyoto",
+    "url": "/nhkworld/en/shows/corekyoto/",
+    "uri": "en/video_programs/corekyoto"
+   },
+   "url": "/nhkworld/en/shows/5106009/",
+   "title": "Matsunoo Taisha Festival: Local Residents' Prayers Bind the Community",
+   "description": "Matsunoo Taisha is the guardian Shinto shrine to Kyoto's west. In April and May, the deities are carried through the community in prayer for local prosperity, upholding a 1000-year-old tradition.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-06-12T00:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5106009/images/wide_s_ohmZj28u8t3kX3VEO2Z3Txvx8tEMalLhVsT79ODp.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5106009/images/wide_m_zMC4TvLOVzQJ4J9pjMrQ8XtquUHP8JLfVrmEpUFb.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5106009/images/wide_l_qhG7iaNg2egfRRcXcIJRVx7XMtYNRPSUlrAQQeLN.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/510600920261022001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2026-10-22T01:58:00Z",
+    "expired_at": "2026-10-29T01:58:00Z"
+   },
+   "categories": [
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "22",
+     "url": "/nhkworld/en/shows/tag/22/",
+     "name": "Kyoto",
+     "uri": "en/tags/22"
+    },
+    {
+     "id": "59",
+     "url": "/nhkworld/en/shows/tag/59/",
+     "name": "Festivals",
+     "uri": "en/tags/59"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5136013",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "closeup",
+    "title": "Today's Close-Up",
+    "html_title": "Today's Close-Up",
+    "url": "/nhkworld/en/shows/closeup/",
+    "uri": "en/video_programs/closeup"
+   },
+   "url": "/nhkworld/en/shows/5136013/",
+   "title": "Keeping Japan on Track: Rail Companies Face Maintenance Issues",
+   "description": "Maintenance problems on Japan's railways have led to a recent string of accidents and disruptions. We look into what companies are doing to protect workers and ensure stable operations.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-10-22T00:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5136013/images/wide_s_mZ6uqbVWxclTTBbnvtoiepX6ZWVqb0STbwlmxrCd.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5136013/images/wide_m_2krq2Q2Tom5JMzL0p3oD0H59RscNF7o2IGs0XFXz.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5136013/images/wide_l_Xgod5IOGjPe00k7mmc37Ch6tIuFhnyEPCeqXJw46.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/513601320261022001/master.m3u8",
+    "duration": 1620,
+    "published_at": "2026-10-22T00:57:00Z",
+    "expired_at": "2026-11-02T19:27:00Z"
+   },
+   "categories": [
+    {
+     "id": "12",
+     "url": "/nhkworld/en/shows/category/12/",
+     "name": "Current Affairs",
+     "uri": "en/categories/12"
+    }
+   ],
+   "tags": []
+  }
+ ]
+}

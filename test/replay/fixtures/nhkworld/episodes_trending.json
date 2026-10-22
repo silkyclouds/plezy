@@ -1,0 +1,302 @@
+{
+ "pagination": {
+  "limit": 3,
+  "offset": 0,
+  "count": 3,
+  "total": 1251,
+  "next": "/showsapi/v1/en/video_episodes?limit=3&sort=trending&offset=3",
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "3025274",
+   "lang": "en",
+   "caption_langs": [
+    "fr"
+   ],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "japan-delish",
+    "title": "JAPAN DELISH",
+    "html_title": "JAPAN DELISH",
+    "url": "/nhkworld/en/shows/japan-delish/",
+    "uri": "en/video_programs/japan-delish"
+   },
+   "url": "/nhkworld/en/shows/3025274/",
+   "title": "Bread",
+   "description": "Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-12-06T05:10:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/3025274/images/wide_s_kp2UfCcWEirwO682OImtAuBsFY971TaQhFCYK74v.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/3025274/images/wide_m_HHdpvxLag8LjiJw2fIh2ni26L3wXwnu3sbuxU0XP.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/3025274/images/wide_l_SJ1ds1ysYY8YtZXkbZ6hF5jbJXCvdDSmzyxoyhCw.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/302527420251206001/master.m3u8",
+    "duration": 1680,
+    "published_at": "2025-12-06T05:38:00Z",
+    "expired_at": "2026-12-05T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    },
+    {
+     "id": "15",
+     "url": "/nhkworld/en/shows/category/15/",
+     "name": "Documentary",
+     "uri": "en/categories/15"
+    }
+   ],
+   "tags": [
+    {
+     "id": "1",
+     "url": "/nhkworld/en/shows/tag/1/",
+     "name": "Aichi",
+     "uri": "en/tags/1"
+    },
+    {
+     "id": "13",
+     "url": "/nhkworld/en/shows/tag/13/",
+     "name": "Hyogo",
+     "uri": "en/tags/13"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/tag/19/",
+     "name": "Kanagawa",
+     "uri": "en/tags/19"
+    },
+    {
+     "id": "38",
+     "url": "/nhkworld/en/shows/tag/38/",
+     "name": "Shizuoka",
+     "uri": "en/tags/38"
+    },
+    {
+     "id": "41",
+     "url": "/nhkworld/en/shows/tag/41/",
+     "name": "Tokyo",
+     "uri": "en/tags/41"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "201",
+     "url": "/nhkworld/en/shows/tag/201/",
+     "name": "Japanese Food",
+     "uri": "en/tags/201"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5001415",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "perfectguide",
+    "title": "The Perfect 2-Hour Guide",
+    "html_title": "The Perfect 2-Hour Guide",
+    "url": "/nhkworld/en/shows/perfectguide/",
+    "uri": "en/video_programs/perfectguide"
+   },
+   "url": "/nhkworld/en/shows/5001415/",
+   "title": "Kiyomizu-dera Temple, Kyoto",
+   "description": "Take a journey through Kyoto Prefecture's historic Kiyomizu-dera Temple, from its iconic stage and tranquil sacred spring. We unveil the definitive two-hour condensed course, while basking in springtime beauty.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2024-04-07T01:10:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5001415/images/wide_s_rkdUgxOcs4Gfe74UkNc9e1nphZzj2yBmRM3Cfmjh.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5001415/images/wide_m_vxQrZq1HIdXDDYDthesjmYyWa06XdNj0ITOBGalE.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5001415/images/wide_l_OU5MCtuuEMiEnbUmiQWxBjO6zM1VmeHi0Y4YoCSY.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/500141520260404001/master.m3u8",
+    "duration": 2940,
+    "published_at": "2026-04-04T01:59:00Z",
+    "expired_at": "2027-04-03T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "18",
+     "url": "/nhkworld/en/shows/category/18/",
+     "name": "Travel",
+     "uri": "en/categories/18"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "22",
+     "url": "/nhkworld/en/shows/tag/22/",
+     "name": "Kyoto",
+     "uri": "en/tags/22"
+    },
+    {
+     "id": "84",
+     "url": "/nhkworld/en/shows/tag/84/",
+     "name": "Temples & Shrines",
+     "uri": "en/tags/84"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    }
+   ]
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "3025190",
+   "lang": "en",
+   "caption_langs": [
+    "zh",
+    "ko"
+   ],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ramenjapan",
+    "title": "RAMEN JAPAN",
+    "html_title": "RAMEN JAPAN",
+    "url": "/nhkworld/en/shows/ramenjapan/",
+    "uri": "en/video_programs/ramenjapan"
+   },
+   "url": "/nhkworld/en/shows/3025190/",
+   "title": "TOYAMA",
+   "description": "All black soup! A one-of-a-kind bowl of ramen from the fertile rice lands of Toyama.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-26T01:30:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/3025190/images/wide_s_nAwgCHFrwfeAOZjnpgU6Vzxj1cC2NWAQEYoU09ap.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/3025190/images/wide_m_8J7cNbDOZsQ2EMnecjW2rJLNtAWDgB1c59klv1AH.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/3025190/images/wide_l_K7YuHvnq7HZn2xyWGKSAMMkQuEEcFuDK0ircLGX6.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/302519020260614001/master.m3u8",
+    "duration": 900,
+    "published_at": "2026-06-14T05:25:00Z",
+    "expired_at": "2027-06-13T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "17",
+     "url": "/nhkworld/en/shows/category/17/",
+     "name": "Food",
+     "uri": "en/categories/17"
+    },
+    {
+     "id": "20",
+     "url": "/nhkworld/en/shows/category/20/",
+     "name": "Culture & Lifestyle",
+     "uri": "en/categories/20"
+    }
+   ],
+   "tags": [
+    {
+     "id": "43",
+     "url": "/nhkworld/en/shows/tag/43/",
+     "name": "Toyama",
+     "uri": "en/tags/43"
+    },
+    {
+     "id": "101",
+     "url": "/nhkworld/en/shows/tag/101/",
+     "name": "Ramen",
+     "uri": "en/tags/101"
+    },
+    {
+     "id": "162",
+     "url": "/nhkworld/en/shows/tag/162/",
+     "name": "Transcript",
+     "uri": "en/tags/162"
+    },
+    {
+     "id": "200",
+     "url": "/nhkworld/en/shows/tag/200/",
+     "name": "All (Japan Navigator)",
+     "uri": "en/tags/200"
+    },
+    {
+     "id": "204",
+     "url": "/nhkworld/en/shows/tag/204/",
+     "name": "Hokuriku",
+     "uri": "en/tags/204"
+    }
+   ]
+  }
+ ]
+}

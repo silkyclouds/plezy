@@ -1,0 +1,81 @@
+{
+ "type": "VideoProgram",
+ "id": "japanologyplus",
+ "lang": "en",
+ "url": "/nhkworld/en/shows/japanologyplus/",
+ "external_url": null,
+ "title": "Japanology Plus",
+ "description": "Fresh insights into Japan. Stories behind Japanese life and culture through the eyes of Peter Barakan, a 50-year resident and watcher of Japan.",
+ "series_id": "2032",
+ "sort_key": "JAPANOLOGY PLUS",
+ "is_new": false,
+ "is_closed": false,
+ "episode_sort": "-date",
+ "images": {
+  "landscape": [
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/wide_s_Kw5NreTUZXh4bp4TZ3WJAwv79m9r6FluWZa2HAT6.jpg",
+    "width": 320,
+    "height": 180
+   },
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/wide_m_Gpi4aioX8zKVvaqXgQnRSsMGrbQ4vvJP1PraKGGT.jpg",
+    "width": 768,
+    "height": 432
+   },
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/wide_l_43QOjgTfTlBBiZB0CwWlCON0BOF9JADSyGFTAG3A.jpg",
+    "width": 1536,
+    "height": 864
+   }
+  ],
+  "portrait": [
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/portrait_s_N6pyBu51OrkvRifw7WJzKz6IoHuv1pAKNYWnr8EC.jpg",
+    "width": 300,
+    "height": 450
+   },
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/portrait_m_TPxhd6fY285rvl8FawubhyFunKnfeVEKh0VodW61.jpg",
+    "width": 480,
+    "height": 720
+   },
+   {
+    "url": "/nhkworld/en/shows/japanologyplus/images/portrait_l_IU4arCHvKlmU9NV9nSpq4pBpNvF6Clu73I6fFCmI.jpg",
+    "width": 720,
+    "height": 1080
+   }
+  ]
+ },
+ "hero": {
+  "pc": {
+   "logo": {
+    "url": "/nhkworld/en/shows/japanologyplus/images/logo_pc_v7M2oTA5Xqw8u4MbKW23WjjDfdJUgkYcfBpdtq44.png",
+    "width": 672
+   }
+  }
+ },
+ "categories": [
+  {
+   "id": "20",
+   "url": "/nhkworld/en/shows/category/20/",
+   "name": "Culture & Lifestyle",
+   "uri": "en/categories/20"
+  },
+  {
+   "id": "15",
+   "url": "/nhkworld/en/shows/category/15/",
+   "name": "Documentary",
+   "uri": "en/categories/15"
+  }
+ ],
+ "tags": [],
+ "video_episodes": {
+  "total": 26,
+  "uri": "en/video_programs/japanologyplus/video_episodes"
+ },
+ "video_clips": {
+  "total": 1,
+  "uri": "en/video_programs/japanologyplus/video_clips"
+ }
+}

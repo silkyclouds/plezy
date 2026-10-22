@@ -1,0 +1,73 @@
+{
+ "type": "VideoProgram",
+ "id": "ah-neo",
+ "lang": "en",
+ "url": "/nhkworld/en/shows/ah-neo/",
+ "external_url": null,
+ "title": "Design Ah neo",
+ "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
+ "series_id": "4045",
+ "sort_key": "DESIGN AH NEO",
+ "is_new": false,
+ "is_closed": false,
+ "episode_sort": "-date",
+ "images": {
+  "landscape": [
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/wide_s_2iOzXiOwIE9Ay2PbGGNIini01FDmSJoQK7E6QH71.jpg",
+    "width": 320,
+    "height": 180
+   },
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/wide_m_XzRTFfuBaYJc0Khj3hiQMfW2mi6eSG0An7RvIa8B.jpg",
+    "width": 768,
+    "height": 432
+   },
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/wide_l_1Pv4In4n1u3zbCp7Zab2mzfzGUU3adIemj4nJOvS.jpg",
+    "width": 1536,
+    "height": 864
+   }
+  ],
+  "portrait": [
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/portrait_s_ew6nXET61EAYrKhKJEtWDPUPcTCYhtGrj9yNqgF5.jpg",
+    "width": 300,
+    "height": 450
+   },
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/portrait_m_8RbT5fb0ErIIpbDRzq3vQ38xo0pTbjBMsqh81cT5.jpg",
+    "width": 480,
+    "height": 720
+   },
+   {
+    "url": "/nhkworld/en/shows/ah-neo/images/portrait_l_6Ej9dejjL4U6Wjg29Twhj1zAHJDeN5nRSwrfTkwP.jpg",
+    "width": 720,
+    "height": 1080
+   }
+  ]
+ },
+ "categories": [
+  {
+   "id": "30",
+   "url": "/nhkworld/en/shows/category/30/",
+   "name": "Kids",
+   "uri": "en/categories/30"
+  },
+  {
+   "id": "19",
+   "url": "/nhkworld/en/shows/category/19/",
+   "name": "Art & Design",
+   "uri": "en/categories/19"
+  }
+ ],
+ "tags": [],
+ "video_episodes": {
+  "total": 10,
+  "uri": "en/video_programs/ah-neo/video_episodes"
+ },
+ "video_clips": {
+  "total": 0,
+  "uri": "en/video_programs/ah-neo/video_clips"
+ }
+}

@@ -1,0 +1,612 @@
+{
+ "pagination": {
+  "limit": 100,
+  "offset": 0,
+  "count": 10,
+  "total": 10,
+  "next": null,
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "5201005",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/5201005/",
+   "title": "Ears",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T14:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_s_uQxM4k45yiwQ79lcOiwo6UOKZwQSjjhkAISDdytT.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_m_hh9wDJzpLx8ESzJmXFTJT7VJUZDjgH8CpZbgFeQM.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_l_4d0eMZNDZ93DthnXQXPc3ebBMzrNgbY1XVs8QMOy.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520100520261018001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-10-18T04:00:00Z",
+    "expired_at": "2027-05-30T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5201004",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/5201004/",
+   "title": "Sandwiches",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Sandwiches.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T10:50:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5201004/images/wide_s_upVGJ9g8aQlJhUqdRvdSDk1HCHmTAZ6v4rXJNvX5.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5201004/images/wide_m_NQN6jlXDcaFjZiPGAKoiFLOBTrV9AnmbCrlIMdYj.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5201004/images/wide_l_zToWfdkImkvM0IAHebNW4qgsF8cW48dJEyofGQfa.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520100420261004001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-10-04T04:00:00Z",
+    "expired_at": "2027-05-16T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5201003",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/5201003/",
+   "title": "Entrances",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Entrances.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T10:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5201003/images/wide_s_5d0Z3DTlV8h8GHcEjWOjen8TgoJhh8f9vP6xOwk5.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5201003/images/wide_m_mdlFbFBDq7WJcPF5Y1u0zo4P61mRVbYG9RAONGE4.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5201003/images/wide_l_8O5BKmBiQP7PRtQvTrfesSagqZ4UszXg84j6HMeY.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520100320260920001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-09-20T04:00:00Z",
+    "expired_at": "2027-05-02T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5201002",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/5201002/",
+   "title": "Toilet Paper",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Toilet Paper.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T03:50:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5201002/images/wide_s_DUhJKeVWFk2hNCwDy0rjrK6JIz3iG2xIFuMfOLnz.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5201002/images/wide_m_vmsxE2UcyEWybb7FmfCoGtKLeg1dSULyHs9pyeS1.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5201002/images/wide_l_qWcnXZKh5AA3VKchc1FoyP22V5O9ePxMlzXCLMC2.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520100220260906001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-09-06T04:00:00Z",
+    "expired_at": "2027-04-18T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045007",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045007/",
+   "title": "Shells",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Shells.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-23T03:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045007/images/wide_s_9epfTOz3aPzggvv0FgxOvTXi3dVBdBT0Th11jt5A.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045007/images/wide_m_ZME1AowGhKnV6wMYq82RevVYeK7UbkHvm1pAiIdb.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045007/images/wide_l_TfMISSSFb3e5gQcp1qAFIy0usbUCPf0ADTrRhZB8.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404500720260628001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-06-28T04:00:00Z",
+    "expired_at": "2027-06-27T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045006",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045006/",
+   "title": "Uniforms",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Uniforms.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T14:50:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045006/images/wide_s_txfDPOKgy8KaLoDwZVkC6typ0ztyRTeaDYoCTOuv.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045006/images/wide_m_0yCxpHJwNGt6Dvpdgwo4ozK65ZAUwRJhC4bp5kFh.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045006/images/wide_l_oURmVX5lBHWkQ7QqThPBKYflP0E6wBkl25AKFFKo.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404500620260614001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-06-14T04:00:00Z",
+    "expired_at": "2027-06-13T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045001",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045001/",
+   "title": "Under the Lid",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Under the Lid.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T03:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045001/images/wide_s_ccCqKOqi4CX2eF0zI1c2m64FC8mhoFSiYhSbT0iV.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045001/images/wide_m_taFW0UNotKizHSEpmUjgmuNYvfqFSXQTrNESBQP7.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045001/images/wide_l_9uLX6v4xiNYUMeIeySFhD6qPr38xooj9CvM8SW1Q.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404500120260405001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-04-05T04:00:00Z",
+    "expired_at": "2027-04-04T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045010",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045010/",
+   "title": "Escape Route",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Escape Routes.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-23T10:50:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045010/images/wide_s_S0Vc1ynSn6lTzcS0e3bAs37hCS0aIdaBUjnPj8Mr.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045010/images/wide_m_63NxJa6JXD5DyxvKOns0Xte5dSMvQZnmIzMLA7We.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045010/images/wide_l_iPycSd4GeMjztGef0DiBdjDspN63OEShjZJb558F.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404501020260314001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-03-14T03:50:00Z",
+    "expired_at": "2027-08-08T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045009",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045009/",
+   "title": "The \"Assemble\" Special",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An \"Assemble\" special episode.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-23T10:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045009/images/wide_s_IMVLrkVmgIbjE7Vqv4tbd54377Kr0AH0923Jjt2T.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045009/images/wide_m_FzgrWjX6tgFz8dNy1VYqmBkAsqYgLWsuk87HLY8M.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045009/images/wide_l_4FXDt6RuG1PPSlCNu4n6lUVGLTmshZv2TNBK4sBp.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404500920260307001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-03-07T03:50:00Z",
+    "expired_at": "2027-07-25T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "4045008",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/4045008/",
+   "title": "The \"Dimensions\" Special",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A \"Dimensions\" special episode.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-23T03:50:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/4045008/images/wide_s_Lcg7pXixqa1vSMFGdir3Kg5BthodLx9MAsNMKfTF.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/4045008/images/wide_m_Z4I28DHyx9YeouvODQzyQR2MO5NlHTnHGLhWO0D6.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/4045008/images/wide_l_XuhZGUoAj35G3gHiE2S31mA8hu7QLeD3kUNu5Czx.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/404500820260228001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-02-28T03:50:00Z",
+    "expired_at": "2027-07-11T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  }
+ ]
+}

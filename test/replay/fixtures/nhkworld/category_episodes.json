@@ -1,0 +1,132 @@
+{
+ "pagination": {
+  "limit": 2,
+  "offset": 0,
+  "count": 2,
+  "total": 151,
+  "next": "/showsapi/v1/en/categories/30/video_episodes?limit=2&offset=2",
+  "previous": null
+ },
+ "items": [
+  {
+   "type": "VideoEpisode",
+   "id": "5201005",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ah-neo",
+    "title": "Design Ah neo",
+    "html_title": "Design Ah neo",
+    "url": "/nhkworld/en/shows/ah-neo/",
+    "uri": "en/video_programs/ah-neo"
+   },
+   "url": "/nhkworld/en/shows/5201005/",
+   "title": "Ears",
+   "description": "Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2025-03-22T14:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_s_uQxM4k45yiwQ79lcOiwo6UOKZwQSjjhkAISDdytT.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_m_hh9wDJzpLx8ESzJmXFTJT7VJUZDjgH8CpZbgFeQM.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5201005/images/wide_l_4d0eMZNDZ93DthnXQXPc3ebBMzrNgbY1XVs8QMOy.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520100520261018001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-10-18T04:00:00Z",
+    "expired_at": "2027-05-30T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "19",
+     "url": "/nhkworld/en/shows/category/19/",
+     "name": "Art & Design",
+     "uri": "en/categories/19"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "type": "VideoEpisode",
+   "id": "5203015",
+   "lang": "en",
+   "caption_langs": [],
+   "voice_langs": [
+    "en"
+   ],
+   "video_program": {
+    "id": "ilovemee",
+    "title": "I Love 'Mee'",
+    "html_title": "I Love 'Mee'",
+    "url": "/nhkworld/en/shows/ilovemee/",
+    "uri": "en/video_programs/ilovemee"
+   },
+   "url": "/nhkworld/en/shows/5203015/",
+   "title": "Whose Fault Is It That You Can't Do It?",
+   "description": "Mee has set her sights on becoming a kendama master, like the heroine of a TV series. Mee gives it a shot, but it's a real challenge! So, Mee gives up right away and blames it on other things.",
+   "broadcast_schedules": [],
+   "first_broadcasted_at": "2026-10-18T03:40:00Z",
+   "images": [
+    {
+     "url": "/nhkworld/en/shows/5203015/images/wide_s_dX7rODiq5vTrttg21J97eytFM41Upr3XJyFoKuYc.jpg",
+     "width": 320,
+     "height": 180
+    },
+    {
+     "url": "/nhkworld/en/shows/5203015/images/wide_m_pfS65cVrDp02PH6FTlv32wXP1dHkgiYYuFXfdDWe.jpg",
+     "width": 768,
+     "height": 432
+    },
+    {
+     "url": "/nhkworld/en/shows/5203015/images/wide_l_XtvYy6Zw6ouJHVxjIi5thZcj3dkQQOA7xnSj3kz7.jpg",
+     "width": 1536,
+     "height": 864
+    }
+   ],
+   "video": {
+    "vod_id": null,
+    "url": "https://masterpl.hls.nhkworld.jp/hls/w/520301520261018001/master.m3u8",
+    "duration": 600,
+    "published_at": "2026-10-18T03:50:00Z",
+    "expired_at": "2027-10-17T14:59:00Z"
+   },
+   "categories": [
+    {
+     "id": "30",
+     "url": "/nhkworld/en/shows/category/30/",
+     "name": "Kids",
+     "uri": "en/categories/30"
+    },
+    {
+     "id": "31",
+     "url": "/nhkworld/en/shows/category/31/",
+     "name": "Anime & Manga",
+     "uri": "en/categories/31"
+    }
+   ],
+   "tags": []
+  }
+ ]
+}

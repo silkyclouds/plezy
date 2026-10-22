@@ -1,0 +1,544 @@
+{
+ "items": [
+  {
+   "type": "Category",
+   "id": "31",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/31/",
+   "name": "Anime & Manga",
+   "video_programs": {
+    "total": 10,
+    "uri": "en/categories/31/video_programs"
+   },
+   "video_episodes": {
+    "total": 37,
+    "uri": "en/categories/31/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/31/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/31/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/31/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "19",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/19/",
+   "name": "Art & Design",
+   "video_programs": {
+    "total": 26,
+    "uri": "en/categories/19/video_programs"
+   },
+   "video_episodes": {
+    "total": 48,
+    "uri": "en/categories/19/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/19/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/19/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/19/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "14",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/14/",
+   "name": "Biz & Tech",
+   "video_programs": {
+    "total": 12,
+    "uri": "en/categories/14/video_programs"
+   },
+   "video_episodes": {
+    "total": 118,
+    "uri": "en/categories/14/video_episodes"
+   },
+   "video_clips": {
+    "total": 7,
+    "uri": "en/categories/14/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/14/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/14/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "20",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/20/",
+   "name": "Culture & Lifestyle",
+   "video_programs": {
+    "total": 96,
+    "uri": "en/categories/20/video_programs"
+   },
+   "video_episodes": {
+    "total": 610,
+    "uri": "en/categories/20/video_episodes"
+   },
+   "video_clips": {
+    "total": 97,
+    "uri": "en/categories/20/video_clips"
+   },
+   "audio_programs": {
+    "total": 1,
+    "uri": "en/categories/20/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 4,
+    "uri": "en/categories/20/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "12",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/12/",
+   "name": "Current Affairs",
+   "video_programs": {
+    "total": 32,
+    "uri": "en/categories/12/video_programs"
+   },
+   "video_episodes": {
+    "total": 83,
+    "uri": "en/categories/12/video_episodes"
+   },
+   "video_clips": {
+    "total": 1,
+    "uri": "en/categories/12/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/12/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/12/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "13",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/13/",
+   "name": "Debate",
+   "video_programs": {
+    "total": 1,
+    "uri": "en/categories/13/video_programs"
+   },
+   "video_episodes": {
+    "total": 0,
+    "uri": "en/categories/13/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/13/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/13/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/13/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "29",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/29/",
+   "name": "Disaster Preparedness",
+   "video_programs": {
+    "total": 6,
+    "uri": "en/categories/29/video_programs"
+   },
+   "video_episodes": {
+    "total": 86,
+    "uri": "en/categories/29/video_episodes"
+   },
+   "video_clips": {
+    "total": 1,
+    "uri": "en/categories/29/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/29/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/29/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "15",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/15/",
+   "name": "Documentary",
+   "video_programs": {
+    "total": 293,
+    "uri": "en/categories/15/video_programs"
+   },
+   "video_episodes": {
+    "total": 413,
+    "uri": "en/categories/15/video_episodes"
+   },
+   "video_clips": {
+    "total": 4,
+    "uri": "en/categories/15/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/15/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/15/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "26",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/26/",
+   "name": "Drama",
+   "video_programs": {
+    "total": 7,
+    "uri": "en/categories/26/video_programs"
+   },
+   "video_episodes": {
+    "total": 0,
+    "uri": "en/categories/26/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/26/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/26/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/26/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "21",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/21/",
+   "name": "Entertainment",
+   "video_programs": {
+    "total": 32,
+    "uri": "en/categories/21/video_programs"
+   },
+   "video_episodes": {
+    "total": 92,
+    "uri": "en/categories/21/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/21/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/21/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/21/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "17",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/17/",
+   "name": "Food",
+   "video_programs": {
+    "total": 12,
+    "uri": "en/categories/17/video_programs"
+   },
+   "video_episodes": {
+    "total": 228,
+    "uri": "en/categories/17/video_episodes"
+   },
+   "video_clips": {
+    "total": 9,
+    "uri": "en/categories/17/video_clips"
+   },
+   "audio_programs": {
+    "total": 1,
+    "uri": "en/categories/17/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/17/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "27",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/27/",
+   "name": "Interactive",
+   "video_programs": {
+    "total": 1,
+    "uri": "en/categories/27/video_programs"
+   },
+   "video_episodes": {
+    "total": 23,
+    "uri": "en/categories/27/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/27/video_clips"
+   },
+   "audio_programs": {
+    "total": 1,
+    "uri": "en/categories/27/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 5,
+    "uri": "en/categories/27/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "16",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/16/",
+   "name": "Interview",
+   "video_programs": {
+    "total": 3,
+    "uri": "en/categories/16/video_programs"
+   },
+   "video_episodes": {
+    "total": 71,
+    "uri": "en/categories/16/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/16/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/16/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/16/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "30",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/30/",
+   "name": "Kids",
+   "video_programs": {
+    "total": 19,
+    "uri": "en/categories/30/video_programs"
+   },
+   "video_episodes": {
+    "total": 151,
+    "uri": "en/categories/30/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/30/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/30/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/30/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "28",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/28/",
+   "name": "Learn Japanese",
+   "video_programs": {
+    "total": 6,
+    "uri": "en/categories/28/video_programs"
+   },
+   "video_episodes": {
+    "total": 152,
+    "uri": "en/categories/28/video_episodes"
+   },
+   "video_clips": {
+    "total": 23,
+    "uri": "en/categories/28/video_clips"
+   },
+   "audio_programs": {
+    "total": 2,
+    "uri": "en/categories/28/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 2,
+    "uri": "en/categories/28/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "11",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/11/",
+   "name": "News",
+   "video_programs": {
+    "total": 5,
+    "uri": "en/categories/11/video_programs"
+   },
+   "video_episodes": {
+    "total": 47,
+    "uri": "en/categories/11/video_episodes"
+   },
+   "video_clips": {
+    "total": 4,
+    "uri": "en/categories/11/video_clips"
+   },
+   "audio_programs": {
+    "total": 1,
+    "uri": "en/categories/11/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/11/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "22",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/22/",
+   "name": "Pop Culture & Fashion",
+   "video_programs": {
+    "total": 7,
+    "uri": "en/categories/22/video_programs"
+   },
+   "video_episodes": {
+    "total": 6,
+    "uri": "en/categories/22/video_episodes"
+   },
+   "video_clips": {
+    "total": 0,
+    "uri": "en/categories/22/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/22/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/22/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "23",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/23/",
+   "name": "Science & Nature",
+   "video_programs": {
+    "total": 25,
+    "uri": "en/categories/23/video_programs"
+   },
+   "video_episodes": {
+    "total": 192,
+    "uri": "en/categories/23/video_episodes"
+   },
+   "video_clips": {
+    "total": 3,
+    "uri": "en/categories/23/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/23/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/23/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "25",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/25/",
+   "name": "Sports",
+   "video_programs": {
+    "total": 16,
+    "uri": "en/categories/25/video_programs"
+   },
+   "video_episodes": {
+    "total": 23,
+    "uri": "en/categories/25/video_episodes"
+   },
+   "video_clips": {
+    "total": 2,
+    "uri": "en/categories/25/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/25/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/25/audio_episodes"
+   }
+  },
+  {
+   "type": "Category",
+   "id": "18",
+   "lang": "en",
+   "url": "/nhkworld/en/shows/category/18/",
+   "name": "Travel",
+   "video_programs": {
+    "total": 30,
+    "uri": "en/categories/18/video_programs"
+   },
+   "video_episodes": {
+    "total": 214,
+    "uri": "en/categories/18/video_episodes"
+   },
+   "video_clips": {
+    "total": 5,
+    "uri": "en/categories/18/video_clips"
+   },
+   "audio_programs": {
+    "total": 0,
+    "uri": "en/categories/18/audio_programs"
+   },
+   "audio_episodes": {
+    "total": 0,
+    "uri": "en/categories/18/audio_episodes"
+   }
+  }
+ ]
+}
