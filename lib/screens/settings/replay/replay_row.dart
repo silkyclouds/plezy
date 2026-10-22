@@ -55,7 +55,9 @@ class ReplayRow extends StatefulWidget {
 
   /// A switch that only displays the row's state: the row itself takes the focus and the press.
   static Widget switchOf(bool value, {bool enabled = true}) => ExcludeFocus(
-    child: IgnorePointer(child: Switch(value: value, onChanged: enabled ? (_) {} : null)),
+    child: IgnorePointer(
+      child: Switch(value: value, onChanged: enabled ? (_) {} : null),
+    ),
   );
 
   @override
@@ -131,10 +133,7 @@ class _ReplayRowState extends State<ReplayRow> with FocusableTileStateMixin<Repl
                 decoration: BoxDecoration(
                   color: showFocus ? palette.raised : Colors.transparent,
                   borderRadius: BorderRadius.circular(8),
-                  border: Border.all(
-                    color: showFocus ? palette.ink : Colors.transparent,
-                    width: ReplayRow._outline,
-                  ),
+                  border: Border.all(color: showFocus ? palette.ink : Colors.transparent, width: ReplayRow._outline),
                 ),
                 child: DefaultTextStyle.merge(
                   style: TextStyle(color: ink),
@@ -142,7 +141,10 @@ class _ReplayRowState extends State<ReplayRow> with FocusableTileStateMixin<Repl
                     data: IconThemeData(color: ink),
                     child: Row(
                       children: [
-                        SizedBox(width: ReplayRow.leadWidth, child: Center(child: widget.lead)),
+                        SizedBox(
+                          width: ReplayRow.leadWidth,
+                          child: Center(child: widget.lead),
+                        ),
                         const SizedBox(width: ReplayRow.leadGap),
                         Expanded(
                           child: Column(

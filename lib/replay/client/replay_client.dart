@@ -294,8 +294,7 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   late final ReplaySuggestionStore suggestionSettings = ReplaySuggestionStore(ReplayApiCache.instance, serverId);
 
   /// The rows a channel publishes on its landing page, for the viewer to choose among.
-  Future<List<({String id, String title})>> suggestionRowChoices(String sourceId) =>
-      _suggestions.rowChoices(sourceId);
+  Future<List<({String id, String title})>> suggestionRowChoices(String sourceId) => _suggestions.rowChoices(sourceId);
 
   /// Without a choice from the viewer: the app language plus the languages of the channels they already watch.
   Future<Set<String>> automaticSuggestionLanguages() async => {

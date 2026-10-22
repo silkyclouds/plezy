@@ -60,7 +60,8 @@ class ReplayHomeSuggestions {
     final automatic = await automaticLanguages();
     final candidates = [
       for (final provider in providers.values)
-        if (_isOfferedTo(provider, country) && choices.offers(provider.source.id, _languagesOf(provider), automatic)) provider,
+        if (_isOfferedTo(provider, country) && choices.offers(provider.source.id, _languagesOf(provider), automatic))
+          provider,
     ];
     final watched = await watchedSources();
     final built = await Future.wait([for (final provider in candidates) _rowsOf(provider, choices, itemLimit)]);

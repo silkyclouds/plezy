@@ -57,8 +57,9 @@ class _ReplayLocationCardState extends State<ReplayLocationCard> {
 
   String _name(String code) => replayCountryName(code, widget.locale);
 
-  String get _title =>
-      widget.country == null ? t.replay.location.titleUnknown : t.replay.location.title(country: _name(widget.country!));
+  String get _title => widget.country == null
+      ? t.replay.location.titleUnknown
+      : t.replay.location.title(country: _name(widget.country!));
 
   String get _hint {
     final country = widget.country;
@@ -67,9 +68,7 @@ class _ReplayLocationCardState extends State<ReplayLocationCard> {
       return t.replay.location.detected(country: replayCountryFrom(country, widget.locale));
     }
     final detected = widget.detected;
-    return detected == null
-        ? t.replay.location.chosenOnly
-        : t.replay.location.chosen(country: _name(detected));
+    return detected == null ? t.replay.location.chosenOnly : t.replay.location.chosen(country: _name(detected));
   }
 
   Future<void> _openMenu() async {
@@ -98,16 +97,14 @@ class _ReplayLocationCardState extends State<ReplayLocationCard> {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 20),
       constraints: const BoxConstraints(minHeight: 96),
-      padding: const EdgeInsets.fromLTRB(
-        ReplayRow.groupInset + 2 + 18,
-        12,
-        ReplayRow.groupInset + 2 + 8,
-        12,
-      ),
+      padding: const EdgeInsets.fromLTRB(ReplayRow.groupInset + 2 + 18, 12, ReplayRow.groupInset + 2 + 8, 12),
       decoration: BoxDecoration(color: palette.group, borderRadius: BorderRadius.circular(12)),
       child: Row(
         children: [
-          const SizedBox(width: ReplayRow.leadWidth, child: Center(child: AppIcon(Symbols.location_on_rounded, size: 26))),
+          const SizedBox(
+            width: ReplayRow.leadWidth,
+            child: Center(child: AppIcon(Symbols.location_on_rounded, size: 26)),
+          ),
           const SizedBox(width: ReplayRow.leadGap),
           Expanded(
             child: Column(

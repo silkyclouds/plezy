@@ -40,7 +40,9 @@ class ReplayHubTitle extends StatelessWidget {
               textStyle: style,
             ),
             SizedBox(width: 8 * scale),
-            Flexible(child: Text(hub.title, maxLines: 1, overflow: TextOverflow.ellipsis, style: style)),
+            Flexible(
+              child: Text(hub.title, maxLines: 1, overflow: TextOverflow.ellipsis, style: style),
+            ),
           ],
         ),
       ),

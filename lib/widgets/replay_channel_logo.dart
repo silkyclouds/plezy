@@ -74,7 +74,10 @@ class ReplayChannelLogo extends StatelessWidget {
     );
     final shaped = switch (_shape) {
       _Shape.inline => logo,
-      _Shape.tile => SizedBox.fromSize(size: tileSize, child: Center(child: logo)),
+      _Shape.tile => SizedBox.fromSize(
+        size: tileSize,
+        child: Center(child: logo),
+      ),
       _Shape.plate => Container(
         height: plateHeight,
         padding: const EdgeInsets.symmetric(horizontal: 6),
@@ -86,7 +89,10 @@ class ReplayChannelLogo extends StatelessWidget {
         child: logo,
       ),
     };
-    return Semantics(label: name, child: ExcludeSemantics(child: shaped));
+    return Semantics(
+      label: name,
+      child: ExcludeSemantics(child: shaped),
+    );
   }
 }
 

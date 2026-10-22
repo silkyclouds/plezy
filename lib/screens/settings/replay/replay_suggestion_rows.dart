@@ -30,10 +30,22 @@ Set<String> _mutedOf(ReplaySuggestionSettings settings, String sourceId) {
 ReplayRowSelection currentRowSelection(ReplaySuggestionSettings settings, String sourceId, List<String> rowIds) {
   final only = settings.chosenRows[sourceId];
   if (only != null) {
-    return ReplayRowSelection(includeNew: false, ticked: {for (final id in rowIds) if (only.contains(id)) id});
+    return ReplayRowSelection(
+      includeNew: false,
+      ticked: {
+        for (final id in rowIds)
+          if (only.contains(id)) id,
+      },
+    );
   }
   final muted = _mutedOf(settings, sourceId);
-  return ReplayRowSelection(includeNew: true, ticked: {for (final id in rowIds) if (!muted.contains(id)) id});
+  return ReplayRowSelection(
+    includeNew: true,
+    ticked: {
+      for (final id in rowIds)
+        if (!muted.contains(id)) id,
+    },
+  );
 }
 
 /// [settings] with the channel's rows set to [selection]. Rows the channel no longer publishes keep their old
@@ -51,7 +63,10 @@ ReplaySuggestionSettings withRowSelection(
   };
   final chosen = {...settings.chosenRows}..remove(sourceId);
   if (selection.includeNew) {
-    muted.addAll([for (final id in rowIds) if (!selection.ticked.contains(id)) _mutedKey(sourceId, id)]);
+    muted.addAll([
+      for (final id in rowIds)
+        if (!selection.ticked.contains(id)) _mutedKey(sourceId, id),
+    ]);
   } else {
     final unseen = {...?settings.chosenRows[sourceId]}..removeAll(known);
     chosen[sourceId] = {...selection.ticked, ...unseen};

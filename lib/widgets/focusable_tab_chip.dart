@@ -124,7 +124,10 @@ class _FocusableTabChipState extends State<FocusableTabChip> with FocusableChipS
       backgroundColor = colorScheme.primary;
       foregroundColor = colorScheme.onPrimary;
     } else if (widget.isSelected) {
-      backgroundColor = Color.alphaBlend(colorScheme.primary.withValues(alpha: 0.12), colorScheme.surfaceContainerHighest);
+      backgroundColor = Color.alphaBlend(
+        colorScheme.primary.withValues(alpha: 0.12),
+        colorScheme.surfaceContainerHighest,
+      );
       foregroundColor = colorScheme.onSurface;
     } else {
       // Neither selected nor focused

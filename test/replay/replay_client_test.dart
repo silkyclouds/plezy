@@ -209,13 +209,25 @@ void main() {
   test('a title with one landscape image renders wide; a real poster keeps the portrait card', () {
     const mapper = ReplayMapper(serverId: 'replay', source: _source);
     final landscape = mapper.item(
-      ReplayTitle(ref: _r('a'), kind: ReplayKind.show, title: 'A', posterUrl: 'https://img.test/l', backdropUrl: 'https://img.test/l'),
+      ReplayTitle(
+        ref: _r('a'),
+        kind: ReplayKind.show,
+        title: 'A',
+        posterUrl: 'https://img.test/l',
+        backdropUrl: 'https://img.test/l',
+      ),
     );
     final onlyBackdrop = mapper.item(
       ReplayTitle(ref: _r('b'), kind: ReplayKind.movie, title: 'B', backdropUrl: 'https://img.test/l'),
     );
     final poster = mapper.item(
-      ReplayTitle(ref: _r('c'), kind: ReplayKind.show, title: 'C', posterUrl: 'https://img.test/p', backdropUrl: 'https://img.test/l'),
+      ReplayTitle(
+        ref: _r('c'),
+        kind: ReplayKind.show,
+        title: 'C',
+        posterUrl: 'https://img.test/p',
+        backdropUrl: 'https://img.test/l',
+      ),
     );
     expect(landscape.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
     expect(onlyBackdrop.usesWideAspectRatio(EpisodePosterMode.seriesPoster), isTrue);
@@ -288,7 +300,8 @@ void main() {
 /// Searching always throws, as a broadcaster site that is down would.
 class _FailingSearchProvider extends _FakeProvider {
   @override
-  ReplaySource get source => const ReplaySource(id: 'broken', name: 'Broken TV', language: 'fr', support: ReplayPlaybackSupport.clear);
+  ReplaySource get source =>
+      const ReplaySource(id: 'broken', name: 'Broken TV', language: 'fr', support: ReplayPlaybackSupport.clear);
 
   @override
   Future<List<ReplayTitle>> search(String query) => Future.error(const FormatException('site down'));

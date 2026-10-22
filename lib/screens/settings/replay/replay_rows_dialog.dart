@@ -24,13 +24,8 @@ Future<ReplayRowSelection?> showReplayRowsDialog(
   required String locale,
 }) => showScopedDialog<ReplayRowSelection>(
   context: context,
-  builder: (_) => ReplayRowsDialog(
-    info: info,
-    choices: choices,
-    initial: initial,
-    rowsPerChannel: rowsPerChannel,
-    locale: locale,
-  ),
+  builder: (_) =>
+      ReplayRowsDialog(info: info, choices: choices, initial: initial, rowsPerChannel: rowsPerChannel, locale: locale),
 );
 
 /// The rows one channel publishes, with a box each and a switch for the rows it adds later. Saving needs at least
@@ -118,7 +113,10 @@ class _ReplayRowsDialogState extends State<ReplayRowsDialog> {
             ),
           ),
           if (widget.choices.isEmpty)
-            Padding(padding: const EdgeInsets.all(14), child: Text(s.noRows, style: const TextStyle(fontSize: 17))),
+            Padding(
+              padding: const EdgeInsets.all(14),
+              child: Text(s.noRows, style: const TextStyle(fontSize: 17)),
+            ),
           for (var i = 0; i < widget.choices.length; i++) _choice(i),
           const SizedBox(height: 20),
           Row(
@@ -157,11 +155,8 @@ class _ReplayRowsDialogState extends State<ReplayRowsDialog> {
     return ReplayChoiceRow(
       label: choice.title,
       selected: on,
-      leading: (ink) => AppIcon(
-        on ? Symbols.check_box_rounded : Symbols.check_box_outline_blank_rounded,
-        size: 26,
-        color: ink,
-      ),
+      leading: (ink) =>
+          AppIcon(on ? Symbols.check_box_rounded : Symbols.check_box_outline_blank_rounded, size: 26, color: ink),
       onDown: index == widget.choices.length - 1 ? _downFromList : null,
       onPressed: () => _toggle(choice.id),
     );

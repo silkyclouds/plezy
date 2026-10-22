@@ -15,7 +15,9 @@ void main() {
     await tester.pumpWidget(
       MaterialApp(
         theme: monoTheme(MonoPalette.dark),
-        home: Scaffold(body: ReplayTextField(controller: controller, hint: 'Search')),
+        home: Scaffold(
+          body: ReplayTextField(controller: controller, hint: 'Search'),
+        ),
       ),
     );
 
@@ -51,9 +53,7 @@ void main() {
     await tester.pumpWidget(
       MaterialApp(
         theme: monoTheme(MonoPalette.dark),
-        home: Scaffold(
-          body: ReplayTextField(controller: controller, autofocus: true),
-        ),
+        home: Scaffold(body: ReplayTextField(controller: controller, autofocus: true)),
       ),
     );
     await tester.pumpAndSettle();

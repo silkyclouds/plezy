@@ -6124,26 +6124,20 @@ class Translations$replay$en {
 	/// en: 'Choose broadcasters and sign in to their accounts'
 	String get description => 'Choose broadcasters and sign in to their accounts';
 
-	/// en: 'Broadcasters'
-	String get sources => 'Broadcasters';
-
 	/// en: 'Plays most titles'
 	String get supportClear => 'Plays most titles';
 
 	/// en: 'Plays some titles'
 	String get supportPartial => 'Plays some titles';
 
-	/// en: 'Browse only, playback is protected'
-	String get supportBrowseOnly => 'Browse only, playback is protected';
+	/// en: 'Browse only'
+	String get supportBrowseOnly => 'Browse only';
 
 	/// en: 'Sign in'
 	String get signIn => 'Sign in';
 
 	/// en: 'Sign out'
 	String get signOut => 'Sign out';
-
-	/// en: 'Signed in as ${account}'
-	String signedInAs({required Object account}) => 'Signed in as ${account}';
 
 	/// en: 'E-mail address'
 	String get login => 'E-mail address';
@@ -6154,14 +6148,11 @@ class Translations$replay$en {
 	/// en: 'Sign in to ${name}'
 	String signInTitle({required Object name}) => 'Sign in to ${name}';
 
-	/// en: 'Your password is sent to ${name} only and is never stored.'
-	String signInHint({required Object name}) => 'Your password is sent to ${name} only and is never stored.';
+	/// en: '${name} refused these credentials.'
+	String signInFailed({required Object name}) => '${name} refused these credentials.';
 
-	/// en: 'Sign out of ${name}?'
-	String signOutTitle({required Object name}) => 'Sign out of ${name}?';
-
-	/// en: 'Sign-in failed. Check your e-mail address and password.'
-	String get signInFailed => 'Sign-in failed. Check your e-mail address and password.';
+	/// en: 'Signing in…'
+	String get signingIn => 'Signing in…';
 
 	/// en: 'Too many attempts. Try again later.'
 	String get signInRateLimited => 'Too many attempts. Try again later.';
@@ -6181,12 +6172,22 @@ class Translations$replay$en {
 	/// en: 'Add catch-up TV'
 	String get add => 'Add catch-up TV';
 
-	/// en: 'Keep at least one broadcaster enabled.'
-	String get needOne => 'Keep at least one broadcaster enabled.';
-
+	late final Translations$replay$accountRequired$en accountRequired = Translations$replay$accountRequired$en.internal(_root);
+	late final Translations$replay$downloads$en downloads = Translations$replay$downloads$en.internal(_root);
+	late final Translations$replay$detail$en detail = Translations$replay$detail$en.internal(_root);
 	late final Translations$replay$availability$en availability = Translations$replay$availability$en.internal(_root);
+	late final Translations$replay$cards$en cards = Translations$replay$cards$en.internal(_root);
 	late final Translations$replay$location$en location = Translations$replay$location$en.internal(_root);
+
+	/// en: 'Show password'
+	String get showPassword => 'Show password';
+
+	/// en: 'Hide password'
+	String get hidePassword => 'Hide password';
+
+	late final Translations$replay$homeRow$en homeRow = Translations$replay$homeRow$en.internal(_root);
 	late final Translations$replay$setup$en setup = Translations$replay$setup$en.internal(_root);
+	late final Translations$replay$suggestions$en suggestions = Translations$replay$suggestions$en.internal(_root);
 }
 
 // Path: appIcon.names
@@ -8118,6 +8119,66 @@ class Translations$services$libraryFilter$en {
 	String get noLibraries => 'No libraries available';
 }
 
+// Path: replay.accountRequired
+class Translations$replay$accountRequired$en {
+	Translations$replay$accountRequired$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'This programme needs a ${name} account'
+	String title({required Object name}) => 'This programme needs a ${name} account';
+
+	/// en: 'Your ${name} account cannot watch this programme'
+	String noAccessTitle({required Object name}) => 'Your ${name} account cannot watch this programme';
+
+	/// en: 'Sign in to watch “${title}”.'
+	String signInToWatch({required Object title}) => 'Sign in to watch “${title}”.';
+
+	/// en: 'Use another account to watch “${title}”.'
+	String otherAccountToWatch({required Object title}) => 'Use another account to watch “${title}”.';
+
+	/// en: 'Playback will resume at ${position}.'
+	String resumeAt({required Object position}) => 'Playback will resume at ${position}.';
+
+	/// en: 'Playback will start from the beginning.'
+	String get startFromBeginning => 'Playback will start from the beginning.';
+
+	/// en: 'Change account'
+	String get changeAccount => 'Change account';
+
+	/// en: 'Signing in…'
+	String get signingIn => 'Signing in…';
+}
+
+// Path: replay.downloads
+class Translations$replay$downloads$en {
+	Translations$replay$downloads$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: '1 programme'
+	String get programmeOne => '1 programme';
+
+	/// en: '${count} programmes'
+	String programmeMany({required Object count}) => '${count} programmes';
+}
+
+// Path: replay.detail
+class Translations$replay$detail$en {
+	Translations$replay$detail$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+	late final Translations$replay$detail$kind$en kind = Translations$replay$detail$kind$en.internal(_root);
+	late final Translations$replay$detail$notice$en notice = Translations$replay$detail$notice$en.internal(_root);
+	late final Translations$replay$detail$dialog$en dialog = Translations$replay$detail$dialog$en.internal(_root);
+}
+
 // Path: replay.availability
 class Translations$replay$availability$en {
 	Translations$replay$availability$en.internal(this._root);
@@ -8145,6 +8206,39 @@ class Translations$replay$availability$en {
 	String get timeSlot => 'Only available at certain hours';
 }
 
+// Path: replay.cards
+class Translations$replay$cards$en {
+	Translations$replay$cards$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Only in ${country}'
+	String onlyIn({required Object country}) => 'Only in ${country}';
+
+	/// en: 'Protected by DRM'
+	String get drm => 'Protected by DRM';
+
+	/// en: 'Account required'
+	String get loginRequired => 'Account required';
+
+	/// en: 'Expired'
+	String get expired => 'Expired';
+
+	/// en: 'Expired on ${date}'
+	String expiredOn({required Object date}) => 'Expired on ${date}';
+
+	/// en: 'Not available yet'
+	String get upcoming => 'Not available yet';
+
+	/// en: '${date} at ${time}'
+	String upcomingAt({required Object date, required Object time}) => '${date} at ${time}';
+
+	/// en: 'Time slot'
+	String get timeSlot => 'Time slot';
+}
+
 // Path: replay.location
 class Translations$replay$location$en {
 	Translations$replay$location$en.internal(this._root);
@@ -8153,29 +8247,65 @@ class Translations$replay$location$en {
 
 	// Translations
 
-	/// en: 'Your location'
-	String get title => 'Your location';
+	/// en: 'Your location: ${country}'
+	String title({required Object country}) => 'Your location: ${country}';
 
-	/// en: 'Detected from your connection: ${country}'
-	String detected({required Object country}) => 'Detected from your connection: ${country}';
+	/// en: 'Location unknown'
+	String get titleUnknown => 'Location unknown';
 
-	/// en: 'Could not detect your country'
-	String get unknown => 'Could not detect your country';
+	/// en: 'Detected from your connection. Channels that do not play from ${country} carry a warning.'
+	String detected({required Object country}) => 'Detected from your connection. Channels that do not play from ${country} carry a warning.';
 
-	/// en: 'Using ${country} (set by you)'
-	String chosen({required Object country}) => 'Using ${country} (set by you)';
+	/// en: 'Your country could not be detected from your connection.'
+	String get unknown => 'Your country could not be detected from your connection.';
+
+	/// en: 'Chosen by hand. Detection: ${country}'
+	String chosen({required Object country}) => 'Chosen by hand. Detection: ${country}';
+
+	/// en: 'Chosen by hand.'
+	String get chosenOnly => 'Chosen by hand.';
 
 	/// en: 'Change'
 	String get change => 'Change';
 
-	/// en: 'Detect automatically'
-	String get automatic => 'Detect automatically';
+	/// en: 'Automatic detection (${country})'
+	String automatic({required Object country}) => 'Automatic detection (${country})';
 
-	/// en: 'Choose your country'
-	String get pick => 'Choose your country';
+	/// en: 'Automatic detection'
+	String get automaticUnknown => 'Automatic detection';
+}
 
-	/// en: 'Channels that are not available from your country are shown greyed out.'
-	String get hint => 'Channels that are not available from your country are shown greyed out.';
+// Path: replay.homeRow
+class Translations$replay$homeRow$en {
+	Translations$replay$homeRow$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: '${row} on ${channel}'
+	String label({required Object row, required Object channel}) => '${row} on ${channel}';
+
+	/// en: 'Play'
+	String get playFirst => 'Play';
+
+	/// en: 'Open details'
+	String get openDetails => 'Open details';
+
+	/// en: 'Stop suggesting this row'
+	String get hideRow => 'Stop suggesting this row';
+
+	/// en: 'No more suggestions from this channel'
+	String get hideChannel => 'No more suggestions from this channel';
+
+	/// en: 'Adjust suggestions'
+	String get tune => 'Adjust suggestions';
+
+	/// en: '${row} will no longer be suggested'
+	String hidden({required Object row}) => '${row} will no longer be suggested';
+
+	/// en: 'Undo'
+	String get undo => 'Undo';
 }
 
 // Path: replay.setup
@@ -8189,20 +8319,254 @@ class Translations$replay$setup$en {
 	/// en: '${enabled} of ${total} on'
 	String enabledCount({required Object enabled, required Object total}) => '${enabled} of ${total} on';
 
-	/// en: 'Everyone'
-	String get everyone => 'Everyone';
+	/// en: '${enabled} of ${total} on · ${blocked} do not play from ${country}'
+	String enabledCountWarned({required Object enabled, required Object total, required Object blocked, required Object country}) => '${enabled} of ${total} on · ${blocked} do not play from ${country}';
 
-	/// en: 'May not play from your location'
-	String get notFromHere => 'May not play from your location';
+	/// en: '${enabled} of ${total} on · 1 does not play from ${country}'
+	String enabledCountWarnedOne({required Object enabled, required Object total, required Object country}) => '${enabled} of ${total} on · 1 does not play from ${country}';
 
-	/// en: 'Also in ${languages}'
-	String alsoIn({required Object languages}) => 'Also in ${languages}';
+	/// en: 'Channels by country'
+	String get byCountry => 'Channels by country';
 
-	/// en: 'Search channels'
-	String get searchHint => 'Search channels';
+	/// en: 'All channels in ${country}'
+	String allChannels({required Object country}) => 'All channels in ${country}';
 
-	/// en: 'No channel matches'
-	String get noMatch => 'No channel matches';
+	/// en: 'All international channels'
+	String get allInternational => 'All international channels';
+
+	/// en: 'Does not play from ${country}'
+	String notFromHere({required Object country}) => 'Does not play from ${country}';
+
+	/// en: 'Search for a channel'
+	String get searchHint => 'Search for a channel';
+
+	/// en: 'No channel for “${query}”'
+	String noMatch({required Object query}) => 'No channel for “${query}”';
+
+	/// en: 'Sign in to ${name}'
+	String signInTo({required Object name}) => 'Sign in to ${name}';
+
+	/// en: '${name} account'
+	String account({required Object name}) => '${name} account';
+
+	/// en: 'Signed in'
+	String get connected => 'Signed in';
+}
+
+// Path: replay.suggestions
+class Translations$replay$suggestions$en {
+	Translations$replay$suggestions$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Home suggestions'
+	String get title => 'Home suggestions';
+
+	/// en: 'On · ${languages}'
+	String entryOn({required Object languages}) => 'On · ${languages}';
+
+	/// en: 'On'
+	String get entryOnPlain => 'On';
+
+	/// en: 'Off'
+	String get entryOff => 'Off';
+
+	/// en: 'Rows from your channels, after Continue Watching'
+	String get masterHint => 'Rows from your channels, after Continue Watching';
+
+	/// en: 'Followed languages'
+	String get languagesTitle => 'Followed languages';
+
+	/// en: 'Automatic: the app language and the languages of the channels you watch'
+	String get languagesAuto => 'Automatic: the app language and the languages of the channels you watch';
+
+	/// en: 'Chosen by hand'
+	String get languagesManual => 'Chosen by hand';
+
+	/// en: 'Back to automatic'
+	String get backToAuto => 'Back to automatic';
+
+	/// en: 'Rows per channel'
+	String get rowsPerChannel => 'Rows per channel';
+
+	/// en: 'Channels'
+	String get channels => 'Channels';
+
+	/// en: 'What you choose for a channel overrides the language rule.'
+	String get channelsHint => 'What you choose for a channel overrides the language rule.';
+
+	/// en: 'On by rule: ${language} followed'
+	String reasonRuleOn({required Object language}) => 'On by rule: ${language} followed';
+
+	/// en: 'Off: ${language} not followed'
+	String reasonRuleOff({required Object language}) => 'Off: ${language} not followed';
+
+	/// en: 'On, your choice'
+	String get reasonUserOn => 'On, your choice';
+
+	/// en: 'Off, your choice'
+	String get reasonUserOff => 'Off, your choice';
+
+	/// en: 'Rows: ${summary}'
+	String rowsLabel({required Object summary}) => 'Rows: ${summary}';
+
+	/// en: 'all'
+	String get rowsAll => 'all';
+
+	/// en: 'all except ${titles}'
+	String rowsAllBut({required Object titles}) => 'all except ${titles}';
+
+	/// en: 'all except ${count}'
+	String rowsAllButCount({required Object count}) => 'all except ${count}';
+
+	/// en: '${count} chosen'
+	String rowsChosenCount({required Object count}) => '${count} chosen';
+
+	/// en: 'Back to the language rule'
+	String get backToRule => 'Back to the language rule';
+
+	/// en: 'Rows of ${channel}'
+	String rowsTitle({required Object channel}) => 'Rows of ${channel}';
+
+	/// en: 'Also offer new rows'
+	String get includeNew => 'Also offer new rows';
+
+	/// en: 'On: every row except the unticked ones'
+	String get includeNewOn => 'On: every row except the unticked ones';
+
+	/// en: 'Off: only the ticked rows'
+	String get includeNewOff => 'Off: only the ticked rows';
+
+	/// en: '1 row at most on the home screen, taken from the ticked boxes according to what you watch.'
+	String get limitOne => '1 row at most on the home screen, taken from the ticked boxes according to what you watch.';
+
+	/// en: '${count} rows at most on the home screen, taken from the ticked boxes according to what you watch.'
+	String limitMany({required Object count}) => '${count} rows at most on the home screen, taken from the ticked boxes according to what you watch.';
+
+	/// en: 'This channel has no rows to choose from right now.'
+	String get noRows => 'This channel has no rows to choose from right now.';
+}
+
+// Path: replay.detail.kind
+class Translations$replay$detail$kind$en {
+	Translations$replay$detail$kind$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'this video'
+	String get video => 'this video';
+
+	/// en: 'it'
+	String get videoPronoun => 'it';
+
+	/// en: 'this episode'
+	String get episode => 'this episode';
+
+	/// en: 'it'
+	String get episodePronoun => 'it';
+}
+
+// Path: replay.detail.notice
+class Translations$replay$detail$notice$en {
+	Translations$replay$detail$notice$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: '${reason}.'
+	String geo({required Object reason}) => '${reason}.';
+
+	/// en: '${reason}. Plezy places you in ${location}.'
+	String geoLocated({required Object reason, required Object location}) => '${reason}. Plezy places you in ${location}.';
+
+	/// en: 'Protected by DRM. Plezy cannot play this video.'
+	String get drm => 'Protected by DRM. Plezy cannot play this video.';
+
+	/// en: 'Expired.'
+	String get expired => 'Expired.';
+
+	/// en: 'Expired on ${date}.'
+	String expiredOn({required Object date}) => 'Expired on ${date}.';
+
+	/// en: 'Not available yet.'
+	String get upcoming => 'Not available yet.';
+
+	/// en: 'Available on ${date} at ${time}.'
+	String upcomingAt({required Object date, required Object time}) => 'Available on ${date} at ${time}.';
+
+	/// en: 'Available at certain hours only.'
+	String get timeSlot => 'Available at certain hours only.';
+}
+
+// Path: replay.detail.dialog
+class Translations$replay$detail$dialog$en {
+	Translations$replay$detail$dialog$en.internal(this._root);
+
+	final Translations _root; // ignore: unused_field
+
+	// Translations
+
+	/// en: 'Close'
+	String get close => 'Close';
+
+	/// en: 'Change location'
+	String get changeLocation => 'Change location';
+
+	/// en: '${channel} blocks ${what} outside ${outside}.'
+	String geoBlocked({required Object channel, required Object what, required Object outside}) => '${channel} blocks ${what} outside ${outside}.';
+
+	/// en: '${channel} does not offer ${what} from your location.'
+	String geoBlockedHere({required Object channel, required Object what}) => '${channel} does not offer ${what} from your location.';
+
+	/// en: 'Plezy places you in ${location}, based on your connection.'
+	String placedByConnection({required Object location}) => 'Plezy places you in ${location}, based on your connection.';
+
+	/// en: 'Plezy places you in ${location}, as you chose.'
+	String placedByChoice({required Object location}) => 'Plezy places you in ${location}, as you chose.';
+
+	/// en: 'Protected video'
+	String get drmTitle => 'Protected video';
+
+	/// en: '${channel} protects ${what} with DRM and Plezy cannot play ${pronoun}.'
+	String drm({required Object channel, required Object what, required Object pronoun}) => '${channel} protects ${what} with DRM and Plezy cannot play ${pronoun}.';
+
+	/// en: '${channel} account required'
+	String loginTitle({required Object channel}) => '${channel} account required';
+
+	/// en: 'Sign in to play ${what}. Playback starts afterwards.'
+	String login({required Object what}) => 'Sign in to play ${what}. Playback starts afterwards.';
+
+	/// en: 'Video expired'
+	String get expiredTitle => 'Video expired';
+
+	/// en: '${channel} removed ${what} on ${date}.'
+	String expired({required Object channel, required Object what, required Object date}) => '${channel} removed ${what} on ${date}.';
+
+	/// en: '${channel} removed ${what}.'
+	String expiredUndated({required Object channel, required Object what}) => '${channel} removed ${what}.';
+
+	/// en: 'Available on ${date} at ${time}'
+	String upcomingTitle({required Object date, required Object time}) => 'Available on ${date} at ${time}';
+
+	/// en: 'Not available yet'
+	String get upcomingTitleUndated => 'Not available yet';
+
+	/// en: '${channel} puts ${what} online on that date.'
+	String upcoming({required Object channel, required Object what}) => '${channel} puts ${what} online on that date.';
+
+	/// en: '${channel} has not put ${what} online yet.'
+	String upcomingUndated({required Object channel, required Object what}) => '${channel} has not put ${what} online yet.';
+
+	/// en: 'Available at certain hours'
+	String get timeSlotTitle => 'Available at certain hours';
+
+	/// en: '${channel} only shows this programme at certain hours.'
+	String timeSlot({required Object channel}) => '${channel} only shows this programme at certain hours.';
 }
 
 /// The flat map containing all translations for locale <en>.
@@ -10531,46 +10895,137 @@ extension on Translations {
 			'addServer.redirectUnsupportedEnterFinal' => ({required Object product}) => 'The server redirected to an unsupported URL. Enter the final ${product} URL directly.',
 			'replay.title' => 'Catch-up TV',
 			'replay.description' => 'Choose broadcasters and sign in to their accounts',
-			'replay.sources' => 'Broadcasters',
 			'replay.supportClear' => 'Plays most titles',
 			'replay.supportPartial' => 'Plays some titles',
-			'replay.supportBrowseOnly' => 'Browse only, playback is protected',
+			'replay.supportBrowseOnly' => 'Browse only',
 			'replay.signIn' => 'Sign in',
 			'replay.signOut' => 'Sign out',
-			'replay.signedInAs' => ({required Object account}) => 'Signed in as ${account}',
 			'replay.login' => 'E-mail address',
 			'replay.password' => 'Password',
 			'replay.signInTitle' => ({required Object name}) => 'Sign in to ${name}',
-			'replay.signInHint' => ({required Object name}) => 'Your password is sent to ${name} only and is never stored.',
-			'replay.signOutTitle' => ({required Object name}) => 'Sign out of ${name}?',
-			'replay.signInFailed' => 'Sign-in failed. Check your e-mail address and password.',
+			'replay.signInFailed' => ({required Object name}) => '${name} refused these credentials.',
+			'replay.signingIn' => 'Signing in…',
 			'replay.signInRateLimited' => 'Too many attempts. Try again later.',
 			'replay.signInCaptcha' => 'The broadcaster asks for a captcha, which is not supported here.',
 			'replay.signInNetwork' => 'Could not reach the broadcaster.',
 			'replay.signInRejected' => 'The broadcaster refused the sign-in.',
 			'replay.notAdded' => 'Catch-up TV is not added to this profile yet.',
 			'replay.add' => 'Add catch-up TV',
-			'replay.needOne' => 'Keep at least one broadcaster enabled.',
+			'replay.accountRequired.title' => ({required Object name}) => 'This programme needs a ${name} account',
+			'replay.accountRequired.noAccessTitle' => ({required Object name}) => 'Your ${name} account cannot watch this programme',
+			'replay.accountRequired.signInToWatch' => ({required Object title}) => 'Sign in to watch “${title}”.',
+			'replay.accountRequired.otherAccountToWatch' => ({required Object title}) => 'Use another account to watch “${title}”.',
+			'replay.accountRequired.resumeAt' => ({required Object position}) => 'Playback will resume at ${position}.',
+			'replay.accountRequired.startFromBeginning' => 'Playback will start from the beginning.',
+			'replay.accountRequired.changeAccount' => 'Change account',
+			'replay.accountRequired.signingIn' => 'Signing in…',
+			'replay.downloads.programmeOne' => '1 programme',
+			'replay.downloads.programmeMany' => ({required Object count}) => '${count} programmes',
+			'replay.detail.kind.video' => 'this video',
+			'replay.detail.kind.videoPronoun' => 'it',
+			'replay.detail.kind.episode' => 'this episode',
+			'replay.detail.kind.episodePronoun' => 'it',
+			'replay.detail.notice.geo' => ({required Object reason}) => '${reason}.',
+			'replay.detail.notice.geoLocated' => ({required Object reason, required Object location}) => '${reason}. Plezy places you in ${location}.',
+			'replay.detail.notice.drm' => 'Protected by DRM. Plezy cannot play this video.',
+			'replay.detail.notice.expired' => 'Expired.',
+			'replay.detail.notice.expiredOn' => ({required Object date}) => 'Expired on ${date}.',
+			'replay.detail.notice.upcoming' => 'Not available yet.',
+			'replay.detail.notice.upcomingAt' => ({required Object date, required Object time}) => 'Available on ${date} at ${time}.',
+			'replay.detail.notice.timeSlot' => 'Available at certain hours only.',
+			'replay.detail.dialog.close' => 'Close',
+			'replay.detail.dialog.changeLocation' => 'Change location',
+			'replay.detail.dialog.geoBlocked' => ({required Object channel, required Object what, required Object outside}) => '${channel} blocks ${what} outside ${outside}.',
+			'replay.detail.dialog.geoBlockedHere' => ({required Object channel, required Object what}) => '${channel} does not offer ${what} from your location.',
+			'replay.detail.dialog.placedByConnection' => ({required Object location}) => 'Plezy places you in ${location}, based on your connection.',
+			'replay.detail.dialog.placedByChoice' => ({required Object location}) => 'Plezy places you in ${location}, as you chose.',
+			'replay.detail.dialog.drmTitle' => 'Protected video',
+			'replay.detail.dialog.drm' => ({required Object channel, required Object what, required Object pronoun}) => '${channel} protects ${what} with DRM and Plezy cannot play ${pronoun}.',
+			'replay.detail.dialog.loginTitle' => ({required Object channel}) => '${channel} account required',
+			'replay.detail.dialog.login' => ({required Object what}) => 'Sign in to play ${what}. Playback starts afterwards.',
+			'replay.detail.dialog.expiredTitle' => 'Video expired',
+			'replay.detail.dialog.expired' => ({required Object channel, required Object what, required Object date}) => '${channel} removed ${what} on ${date}.',
+			'replay.detail.dialog.expiredUndated' => ({required Object channel, required Object what}) => '${channel} removed ${what}.',
+			'replay.detail.dialog.upcomingTitle' => ({required Object date, required Object time}) => 'Available on ${date} at ${time}',
+			'replay.detail.dialog.upcomingTitleUndated' => 'Not available yet',
+			'replay.detail.dialog.upcoming' => ({required Object channel, required Object what}) => '${channel} puts ${what} online on that date.',
+			'replay.detail.dialog.upcomingUndated' => ({required Object channel, required Object what}) => '${channel} has not put ${what} online yet.',
+			'replay.detail.dialog.timeSlotTitle' => 'Available at certain hours',
+			'replay.detail.dialog.timeSlot' => ({required Object channel}) => '${channel} only shows this programme at certain hours.',
 			'replay.availability.geoBlocked' => 'Not available in your country',
 			'replay.availability.drm' => 'Protected stream, cannot be played here',
 			'replay.availability.loginRequired' => 'Needs an account',
 			'replay.availability.expired' => 'No longer available',
 			'replay.availability.upcoming' => 'Not available yet',
 			'replay.availability.timeSlot' => 'Only available at certain hours',
-			'replay.location.title' => 'Your location',
-			'replay.location.detected' => ({required Object country}) => 'Detected from your connection: ${country}',
-			'replay.location.unknown' => 'Could not detect your country',
-			'replay.location.chosen' => ({required Object country}) => 'Using ${country} (set by you)',
+			'replay.cards.onlyIn' => ({required Object country}) => 'Only in ${country}',
+			'replay.cards.drm' => 'Protected by DRM',
+			'replay.cards.loginRequired' => 'Account required',
+			'replay.cards.expired' => 'Expired',
+			'replay.cards.expiredOn' => ({required Object date}) => 'Expired on ${date}',
+			'replay.cards.upcoming' => 'Not available yet',
+			'replay.cards.upcomingAt' => ({required Object date, required Object time}) => '${date} at ${time}',
+			'replay.cards.timeSlot' => 'Time slot',
+			'replay.location.title' => ({required Object country}) => 'Your location: ${country}',
+			'replay.location.titleUnknown' => 'Location unknown',
+			'replay.location.detected' => ({required Object country}) => 'Detected from your connection. Channels that do not play from ${country} carry a warning.',
+			'replay.location.unknown' => 'Your country could not be detected from your connection.',
+			'replay.location.chosen' => ({required Object country}) => 'Chosen by hand. Detection: ${country}',
+			'replay.location.chosenOnly' => 'Chosen by hand.',
 			'replay.location.change' => 'Change',
-			'replay.location.automatic' => 'Detect automatically',
-			'replay.location.pick' => 'Choose your country',
-			'replay.location.hint' => 'Channels that are not available from your country are shown greyed out.',
+			'replay.location.automatic' => ({required Object country}) => 'Automatic detection (${country})',
+			'replay.location.automaticUnknown' => 'Automatic detection',
+			'replay.showPassword' => 'Show password',
+			'replay.hidePassword' => 'Hide password',
+			'replay.homeRow.label' => ({required Object row, required Object channel}) => '${row} on ${channel}',
+			'replay.homeRow.playFirst' => 'Play',
+			'replay.homeRow.openDetails' => 'Open details',
+			'replay.homeRow.hideRow' => 'Stop suggesting this row',
+			'replay.homeRow.hideChannel' => 'No more suggestions from this channel',
+			'replay.homeRow.tune' => 'Adjust suggestions',
+			'replay.homeRow.hidden' => ({required Object row}) => '${row} will no longer be suggested',
+			'replay.homeRow.undo' => 'Undo',
 			'replay.setup.enabledCount' => ({required Object enabled, required Object total}) => '${enabled} of ${total} on',
-			'replay.setup.everyone' => 'Everyone',
-			'replay.setup.notFromHere' => 'May not play from your location',
-			'replay.setup.alsoIn' => ({required Object languages}) => 'Also in ${languages}',
-			'replay.setup.searchHint' => 'Search channels',
-			'replay.setup.noMatch' => 'No channel matches',
+			'replay.setup.enabledCountWarned' => ({required Object enabled, required Object total, required Object blocked, required Object country}) => '${enabled} of ${total} on · ${blocked} do not play from ${country}',
+			'replay.setup.enabledCountWarnedOne' => ({required Object enabled, required Object total, required Object country}) => '${enabled} of ${total} on · 1 does not play from ${country}',
+			'replay.setup.byCountry' => 'Channels by country',
+			'replay.setup.allChannels' => ({required Object country}) => 'All channels in ${country}',
+			'replay.setup.allInternational' => 'All international channels',
+			'replay.setup.notFromHere' => ({required Object country}) => 'Does not play from ${country}',
+			'replay.setup.searchHint' => 'Search for a channel',
+			'replay.setup.noMatch' => ({required Object query}) => 'No channel for “${query}”',
+			'replay.setup.signInTo' => ({required Object name}) => 'Sign in to ${name}',
+			'replay.setup.account' => ({required Object name}) => '${name} account',
+			'replay.setup.connected' => 'Signed in',
+			'replay.suggestions.title' => 'Home suggestions',
+			'replay.suggestions.entryOn' => ({required Object languages}) => 'On · ${languages}',
+			'replay.suggestions.entryOnPlain' => 'On',
+			'replay.suggestions.entryOff' => 'Off',
+			'replay.suggestions.masterHint' => 'Rows from your channels, after Continue Watching',
+			'replay.suggestions.languagesTitle' => 'Followed languages',
+			'replay.suggestions.languagesAuto' => 'Automatic: the app language and the languages of the channels you watch',
+			'replay.suggestions.languagesManual' => 'Chosen by hand',
+			'replay.suggestions.backToAuto' => 'Back to automatic',
+			'replay.suggestions.rowsPerChannel' => 'Rows per channel',
+			'replay.suggestions.channels' => 'Channels',
+			'replay.suggestions.channelsHint' => 'What you choose for a channel overrides the language rule.',
+			'replay.suggestions.reasonRuleOn' => ({required Object language}) => 'On by rule: ${language} followed',
+			'replay.suggestions.reasonRuleOff' => ({required Object language}) => 'Off: ${language} not followed',
+			'replay.suggestions.reasonUserOn' => 'On, your choice',
+			'replay.suggestions.reasonUserOff' => 'Off, your choice',
+			'replay.suggestions.rowsLabel' => ({required Object summary}) => 'Rows: ${summary}',
+			'replay.suggestions.rowsAll' => 'all',
+			'replay.suggestions.rowsAllBut' => ({required Object titles}) => 'all except ${titles}',
+			'replay.suggestions.rowsAllButCount' => ({required Object count}) => 'all except ${count}',
+			'replay.suggestions.rowsChosenCount' => ({required Object count}) => '${count} chosen',
+			'replay.suggestions.backToRule' => 'Back to the language rule',
+			'replay.suggestions.rowsTitle' => ({required Object channel}) => 'Rows of ${channel}',
+			'replay.suggestions.includeNew' => 'Also offer new rows',
+			'replay.suggestions.includeNewOn' => 'On: every row except the unticked ones',
+			'replay.suggestions.includeNewOff' => 'Off: only the ticked rows',
+			'replay.suggestions.limitOne' => '1 row at most on the home screen, taken from the ticked boxes according to what you watch.',
+			'replay.suggestions.limitMany' => ({required Object count}) => '${count} rows at most on the home screen, taken from the ticked boxes according to what you watch.',
+			'replay.suggestions.noRows' => 'This channel has no rows to choose from right now.',
 			_ => null,
 		};
 	}

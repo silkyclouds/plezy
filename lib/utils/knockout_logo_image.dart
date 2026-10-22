@@ -84,7 +84,11 @@ class KnockoutLogoImage extends ImageProvider<KnockoutLogoKey> {
     if (image.width * image.height > _maxPixels) return null;
     final data = await image.toByteData(format: ui.ImageByteFormat.rawStraightRgba);
     if (data == null) return null;
-    final cleaned = knockOutWhiteBackground(data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes), image.width, image.height);
+    final cleaned = knockOutWhiteBackground(
+      data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes),
+      image.width,
+      image.height,
+    );
     if (cleaned == null) return null;
     final buffer = await ui.ImmutableBuffer.fromUint8List(cleaned);
     final descriptor = ui.ImageDescriptor.raw(

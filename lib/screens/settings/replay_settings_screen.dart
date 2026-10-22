@@ -117,8 +117,7 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
     });
   }
 
-  List<ReplayCountryGroup> _groups() =>
-      groupReplaySources(replaySourceInfos, viewerCountry: _country, locale: _locale);
+  List<ReplayCountryGroup> _groups() => groupReplaySources(replaySourceInfos, viewerCountry: _country, locale: _locale);
 
   Future<void> _changeLocation(String? code) async {
     await _client?.geo?.setOverride(code);
@@ -138,7 +137,12 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
     if (current == null) return;
     final sources = {...current.enabledSources};
     on ? sources.addAll(ids) : sources.removeAll(ids);
-    final updated = current.copyWith(enabledSources: [for (final id in replaySourceIds) if (sources.contains(id)) id]);
+    final updated = current.copyWith(
+      enabledSources: [
+        for (final id in replaySourceIds)
+          if (sources.contains(id)) id,
+      ],
+    );
     setState(() => _connection = updated);
     final registry = context.read<ConnectionRegistry>();
     final binder = context.read<ActiveProfileBinder>();
@@ -175,7 +179,10 @@ class _ReplaySettingsScreenState extends State<ReplaySettingsScreen> {
       slivers: [
         SliverToBoxAdapter(
           child: !_loaded
-              ? const Padding(padding: EdgeInsets.all(32), child: Center(child: CircularProgressIndicator()))
+              ? const Padding(
+                  padding: EdgeInsets.all(32),
+                  child: Center(child: CircularProgressIndicator()),
+                )
               : connection == null
               ? _notAdded()
               : _content(connection),

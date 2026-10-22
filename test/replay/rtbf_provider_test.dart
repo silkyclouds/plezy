@@ -27,7 +27,8 @@ void main() {
 
     test('a row the broadcaster fails to serve is skipped, the others stay', () async {
       final rails = await rtbfProvider(
-        handler: (request) => request.url.path.endsWith('/widgets/22683') ? rtbfReply({'error': 'x'}, status: 500) : null,
+        handler: (request) =>
+            request.url.path.endsWith('/widgets/22683') ? rtbfReply({'error': 'x'}, status: 500) : null,
       ).home();
 
       expect(rails.map((r) => r.id), contains('18601'));

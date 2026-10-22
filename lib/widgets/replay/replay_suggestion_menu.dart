@@ -36,9 +36,8 @@ List<MediaMenuExtraEntry> replaySuggestionMenuEntries(BuildContext context, Medi
     MediaMenuExtraEntry(
       icon: Symbols.tune_rounded,
       label: t.replay.homeRow.tune,
-      onSelected: () => unawaited(
-        Navigator.of(context).push<void>(MaterialPageRoute(builder: (_) => const ReplaySettingsScreen())),
-      ),
+      onSelected: () =>
+          unawaited(Navigator.of(context).push<void>(MaterialPageRoute(builder: (_) => const ReplaySettingsScreen()))),
     ),
   ];
 }

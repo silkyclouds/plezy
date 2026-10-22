@@ -48,9 +48,7 @@ class ReplaySuggestionChannels extends StatelessWidget {
       decoration: BoxDecoration(color: palette.group, borderRadius: BorderRadius.circular(12)),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          for (final info in channels) ..._channel(info, master),
-        ],
+        children: [for (final info in channels) ..._channel(info, master)],
       ),
     );
   }

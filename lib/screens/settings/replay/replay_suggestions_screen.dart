@@ -171,7 +171,10 @@ class _ReplaySuggestionsScreenState extends State<ReplaySuggestionsScreen> {
       slivers: [
         SliverToBoxAdapter(
           child: settings == null
-              ? const Padding(padding: EdgeInsets.all(32), child: Center(child: CircularProgressIndicator()))
+              ? const Padding(
+                  padding: EdgeInsets.all(32),
+                  child: Center(child: CircularProgressIndicator()),
+                )
               : _content(settings),
         ),
       ],

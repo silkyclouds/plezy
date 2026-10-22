@@ -10,13 +10,8 @@ import 'package:plezy/replay/suggestions/replay_suggestion_store.dart';
 import 'package:plezy/screens/settings/replay/replay_suggestions_screen.dart';
 import 'package:plezy/theme/mono_theme.dart';
 
-ReplaySourceInfo _channel(String id, String name, List<String> languages) => ReplaySourceInfo(
-  id: id,
-  name: name,
-  support: ReplayPlaybackSupport.clear,
-  country: 'FR',
-  languages: languages,
-);
+ReplaySourceInfo _channel(String id, String name, List<String> languages) =>
+    ReplaySourceInfo(id: id, name: name, support: ReplayPlaybackSupport.clear, country: 'FR', languages: languages);
 
 final _channels = [
   _channel('lrt', 'LRT', ['lt']),

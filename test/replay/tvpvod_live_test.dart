@@ -31,28 +31,31 @@ void main() {
     expect(response.data.toString(), startsWith('#EXTM3U'));
   }, skip: live ? false : skip);
 
-  test('every title predicted blocked is refused, and the rest are sampled', () async {
-    final provider = TvpVodProvider(MediaServerHttpClient());
-    final page = await provider.listing(replayAllBrowseId, page: 1);
-    final sample = page.titles.take(12).toList();
-    final verdicts = await provider.predictAvailability(sample, 'BE');
+  test(
+    'every title predicted blocked is refused, and the rest are sampled',
+    () async {
+      final provider = TvpVodProvider(MediaServerHttpClient());
+      final page = await provider.listing(replayAllBrowseId, page: 1);
+      final sample = page.titles.take(12).toList();
+      final verdicts = await provider.predictAvailability(sample, 'BE');
 
-    var played = 0;
-    var refused = 0;
-    for (final title in sample) {
-      final playback = await provider.playback(await _firstPlayable(provider, title));
-      if (playback.isPlayable) played++;
-      if (playback.availability == ReplayAvailability.geoBlocked) refused++;
-      if (verdicts.containsKey(title.ref)) {
-        expect(playback.availability, ReplayAvailability.geoBlocked, reason: 'predicted blocked: ${title.title}');
+      var played = 0;
+      var refused = 0;
+      for (final title in sample) {
+        final playback = await provider.playback(await _firstPlayable(provider, title));
+        if (playback.isPlayable) played++;
+        if (playback.availability == ReplayAvailability.geoBlocked) refused++;
+        if (verdicts.containsKey(title.ref)) {
+          expect(playback.availability, ReplayAvailability.geoBlocked, reason: 'predicted blocked: ${title.title}');
+        }
       }
-    }
-    // ignore: avoid_print
-    print(
-      'TVPVOD sample: ${sample.length} titles, $played played, $refused refused, ${verdicts.length} predicted',
-    );
-    expect(played + refused, greaterThan(0));
-  }, skip: live ? false : skip, timeout: const Timeout(Duration(minutes: 3)));
+      // ignore: avoid_print
+      print('TVPVOD sample: ${sample.length} titles, $played played, $refused refused, ${verdicts.length} predicted');
+      expect(played + refused, greaterThan(0));
+    },
+    skip: live ? false : skip,
+    timeout: const Timeout(Duration(minutes: 3)),
+  );
 }
 
 /// A show cannot be played: its first episode stands in for it.

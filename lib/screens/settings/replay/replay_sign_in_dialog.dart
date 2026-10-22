@@ -210,7 +210,9 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
     children: [
       AppIcon(Symbols.error_rounded, size: 22, color: palette.ink),
       const SizedBox(width: 10),
-      Expanded(child: Text(message, style: TextStyle(color: palette.ink, fontSize: 18))),
+      Expanded(
+        child: Text(message, style: TextStyle(color: palette.ink, fontSize: 18)),
+      ),
     ],
   );
 }

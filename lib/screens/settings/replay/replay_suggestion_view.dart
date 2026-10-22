@@ -49,7 +49,9 @@ class ReplayChannelStance {
   const ReplayChannelStance({required this.offered, required this.reason, required this.language});
 
   String line(String locale) => switch (reason) {
-    ReplayChannelReason.ruleOn => t.replay.suggestions.reasonRuleOn(language: replayLanguageInSentence(language, locale)),
+    ReplayChannelReason.ruleOn => t.replay.suggestions.reasonRuleOn(
+      language: replayLanguageInSentence(language, locale),
+    ),
     ReplayChannelReason.ruleOff => t.replay.suggestions.reasonRuleOff(
       language: replayLanguageInSentence(language, locale),
     ),

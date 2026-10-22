@@ -29,7 +29,9 @@ Uint8List? knockOutWhiteBackground(Uint8List rgba, int width, int height) {
     out[i + 3] = (alpha * 255).round();
     weight += alpha;
     darkness += alpha * (1 - (0.299 * out[i] + 0.587 * out[i + 1] + 0.114 * out[i + 2]) / 255);
-    chroma += alpha * (math.max(out[i], math.max(out[i + 1], out[i + 2])) - math.min(out[i], math.min(out[i + 1], out[i + 2])));
+    chroma +=
+        alpha *
+        (math.max(out[i], math.max(out[i + 1], out[i + 2])) - math.min(out[i], math.min(out[i + 1], out[i + 2])));
   }
   if (weight == 0) return null;
   final isDarkAndNeutral = darkness / weight > 0.6 && chroma / weight < 40;

@@ -96,8 +96,7 @@ class ReplayAccountRow extends StatelessWidget {
         trailing: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            if (connected)
-              Text(t.replay.setup.connected, style: TextStyle(color: palette.muted, fontSize: 15)),
+            if (connected) Text(t.replay.setup.connected, style: TextStyle(color: palette.muted, fontSize: 15)),
             const SizedBox(width: 6),
             const AppIcon(Symbols.chevron_right_rounded, size: 28),
           ],

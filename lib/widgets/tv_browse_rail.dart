@@ -1872,7 +1872,7 @@ class TvBrowseRailState extends State<TvBrowseRail> with TickerProviderStateMixi
             key: _cardKeyFor(hub, itemIndex),
             item: item,
             showChannelLogo: replayHubShowsChannelLogo(hub),
-                                    extraMenuEntries: replaySuggestionMenuEntries(context, hub),
+            extraMenuEntries: replaySuggestionMenuEntries(context, hub),
             width: metrics.cardWidth,
             height: metrics.posterHeight,
             // Forwarded so a memoized card always reaches the current widget's

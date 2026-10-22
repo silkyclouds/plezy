@@ -78,7 +78,8 @@ class _ReplayChannelListState extends State<ReplayChannelList> {
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
             child: Text(t.replay.setup.noMatch(query: widget.query.trim()), style: const TextStyle(fontSize: 17)),
           ),
-        for (final group in shown) _drawer(group, full: _fullGroup(group.country), autofocus: group.country == firstCountry),
+        for (final group in shown)
+          _drawer(group, full: _fullGroup(group.country), autofocus: group.country == firstCountry),
       ],
     );
   }
@@ -115,7 +116,9 @@ class _ReplayChannelListState extends State<ReplayChannelList> {
           info: info,
           enabled: on,
           locale: widget.locale,
-          blockedFrom: viewer != null && info.restrictsViewerIn(viewer) ? replayCountryFrom(viewer, widget.locale) : null,
+          blockedFrom: viewer != null && info.restrictsViewerIn(viewer)
+              ? replayCountryFrom(viewer, widget.locale)
+              : null,
           onChanged: (value) => widget.onSetEnabled({info.id}, value),
         ),
         if (on && widget.hasAccount(info))

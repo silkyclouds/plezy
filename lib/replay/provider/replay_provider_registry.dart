@@ -152,13 +152,7 @@ const replaySourceInfos = [
     country: 'SE',
     languages: ['sv'],
   ),
-  ReplaySourceInfo(
-    id: 'pbs',
-    name: 'PBS',
-    support: ReplayPlaybackSupport.partial,
-    country: 'US',
-    languages: ['en'],
-  ),
+  ReplaySourceInfo(id: 'pbs', name: 'PBS', support: ReplayPlaybackSupport.partial, country: 'US', languages: ['en']),
   ReplaySourceInfo(
     id: 'ted',
     name: 'TED',
@@ -166,13 +160,7 @@ const replaySourceInfos = [
     country: replayInternational,
     languages: ['en'],
   ),
-  ReplaySourceInfo(
-    id: 'drtv',
-    name: 'DR TV',
-    support: ReplayPlaybackSupport.partial,
-    country: 'DK',
-    languages: ['da'],
-  ),
+  ReplaySourceInfo(id: 'drtv', name: 'DR TV', support: ReplayPlaybackSupport.partial, country: 'DK', languages: ['da']),
   ReplaySourceInfo(
     id: 'dw',
     name: 'Deutsche Welle',
@@ -194,13 +182,7 @@ const replaySourceInfos = [
     country: 'DE',
     languages: ['de'],
   ),
-  ReplaySourceInfo(
-    id: 'ruv',
-    name: 'RÚV',
-    support: ReplayPlaybackSupport.partial,
-    country: 'IS',
-    languages: ['is'],
-  ),
+  ReplaySourceInfo(id: 'ruv', name: 'RÚV', support: ReplayPlaybackSupport.partial, country: 'IS', languages: ['is']),
   ReplaySourceInfo(
     id: 'urplay',
     name: 'UR Play',
@@ -215,20 +197,8 @@ const replaySourceInfos = [
     country: 'NO',
     languages: ['no'],
   ),
-  ReplaySourceInfo(
-    id: 'lrt',
-    name: 'LRT',
-    support: ReplayPlaybackSupport.clear,
-    country: 'LT',
-    languages: ['lt'],
-  ),
-  ReplaySourceInfo(
-    id: 'nfb',
-    name: 'NFB',
-    support: ReplayPlaybackSupport.clear,
-    country: 'CA',
-    languages: ['en'],
-  ),
+  ReplaySourceInfo(id: 'lrt', name: 'LRT', support: ReplayPlaybackSupport.clear, country: 'LT', languages: ['lt']),
+  ReplaySourceInfo(id: 'nfb', name: 'NFB', support: ReplayPlaybackSupport.clear, country: 'CA', languages: ['en']),
   ReplaySourceInfo(
     id: 'ardmediathek',
     name: 'ARD Mediathek',
@@ -250,13 +220,7 @@ const replaySourceInfos = [
     country: 'FR',
     languages: ['fr'],
   ),
-  ReplaySourceInfo(
-    id: '3cat',
-    name: '3Cat',
-    support: ReplayPlaybackSupport.partial,
-    country: 'ES',
-    languages: ['ca'],
-  ),
+  ReplaySourceInfo(id: '3cat', name: '3Cat', support: ReplayPlaybackSupport.partial, country: 'ES', languages: ['ca']),
   ReplaySourceInfo(
     id: 'rtveplay',
     name: 'RTVE Play',
@@ -293,13 +257,7 @@ const replaySourceInfos = [
     country: 'GB',
     languages: ['en'],
   ),
-  ReplaySourceInfo(
-    id: 'stvr',
-    name: 'STVR',
-    support: ReplayPlaybackSupport.partial,
-    country: 'SK',
-    languages: ['sk'],
-  ),
+  ReplaySourceInfo(id: 'stvr', name: 'STVR', support: ReplayPlaybackSupport.partial, country: 'SK', languages: ['sk']),
   ReplaySourceInfo(
     id: 'srfplay',
     name: 'SRF Play',
@@ -307,13 +265,7 @@ const replaySourceInfos = [
     country: 'CH',
     languages: ['de'],
   ),
-  ReplaySourceInfo(
-    id: 'rsi',
-    name: 'RSI Play',
-    support: ReplayPlaybackSupport.clear,
-    country: 'CH',
-    languages: ['it'],
-  ),
+  ReplaySourceInfo(id: 'rsi', name: 'RSI Play', support: ReplayPlaybackSupport.clear, country: 'CH', languages: ['it']),
   ReplaySourceInfo(
     id: 'orftvthek',
     name: 'ORF ON',
