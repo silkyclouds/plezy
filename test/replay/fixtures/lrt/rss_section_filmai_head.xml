@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+		<title><![CDATA[LRT Mediateka / Filmai]]></title>
+		<atom:link href="https://www.lrt.lt?rss" rel="self" type="application/rss+xml" />
+		<link>https://www.lrt.lt</link>
+		<description><![CDATA[LRT Mediateka / Filmai RSS]]></description>
+		<image>
+			<url>https://www.lrt.lt/images/lrt_lt_logo_fb.jpg?v258</url>
+			<title><![CDATA[LRT Mediateka / Filmai]]></title>
+			<link>https://www.lrt.lt</link>
+			<width>100</width>
+			<height>100</height>
+		</image>
+	<language>
+	<![CDATA[ lt ]]>
+	</language>
+	<managingEditor>
+	<![CDATA[ webmaster@lrt.lt (Online Editor) ]]>
+	</managingEditor>
+	<webMaster>
+	<![CDATA[ webmaster@lrt.lt (Web Feeds) ]]>
+	</webMaster>
+		<item>
+			<title>
+				<![CDATA[
+				Grįžta Nicolas Cage'as ir Antonio Banderasas: pristatė naują „True Detective“ sezoną
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/04/07/2362487-566862-1287x836.png"/><br />
+			 Grįžta Nicolas Cage'as ir Antonio Banderasas: pristatė naują „True Detective“ sezoną			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000899135/grizta-nicolas-cage-as-ir-antonio-banderasas-pristate-nauja-true-detective-sezona
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000899135/grizta-nicolas-cage-as-ir-antonio-banderasas-pristate-nauja-true-detective-sezona
+			</guid>
+			<category>
+				<![CDATA[ LRT KLASIKOS laida „Be spoilerių“ ]]>
+			</category>
+			<pubDate>Tue, 20 Oct 2026 15:00:00 +0300</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[
+				Šeši filmai ir šešios nuomonės: nuo „Didžiojo eterio“ iki skandalingojo DI filmo
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/10/06/2505805-624831-1287x836.jpg"/><br />
+			 Šeši filmai ir šešios nuomonės: nuo „Didžiojo eterio“ iki skandalingojo DI filmo			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000885058/sesi-filmai-ir-sesios-nuomones-nuo-didziojo-eterio-iki-skandalingojo-di-filmo
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000885058/sesi-filmai-ir-sesios-nuomones-nuo-didziojo-eterio-iki-skandalingojo-di-filmo
+			</guid>
+			<category>
+				<![CDATA[ LRT KLASIKOS laida „Be spoilerių“ ]]>
+			</category>
+			<pubDate>Tue, 06 Oct 2026 14:00:00 +0300</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[
+				Mums nerūpi ligos ir protestai – naujas serialo sezonas turi pasirodyti laiku!
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/04/07/2362487-566862-1287x836.png"/><br />
+			 Mums nerūpi ligos ir protestai – naujas serialo sezonas turi pasirodyti laiku!			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000871058/mums-nerupi-ligos-ir-protestai-naujas-serialo-sezonas-turi-pasirodyti-laiku
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000871058/mums-nerupi-ligos-ir-protestai-naujas-serialo-sezonas-turi-pasirodyti-laiku
+			</guid>
+			<category>
+				<![CDATA[ LRT KLASIKOS laida „Be spoilerių“ ]]>
+			</category>
+			<pubDate>Tue, 22 Sep 2026 14:00:00 +0300</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[
+				Nepamirštas Vilnius
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/09/15/2490047-608910-1287x836.jpg"/><br />
+			 Nepamirštas Vilnius			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000846091/nepamirstas-vilnius
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000846091/nepamirstas-vilnius
+			</guid>
+			<category>
+				<![CDATA[ Nepamirštas Vilnius ]]>
+			</category>
+			<pubDate>Thu, 17 Sep 2026 02:12:00 +0300</pubDate>
+		</item>
+</channel></rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+		<title><![CDATA[LRT Žinios]]></title>
+		<atom:link href="https://www.lrt.lt/mediateka/video/zinios?rss" rel="self" type="application/rss+xml" />
+		<link>https://www.lrt.lt/mediateka/video/zinios</link>
+		<description><![CDATA[LRT Žinios RSS]]></description>
+		<image>
+			<url>https://www.lrt.lt/images/lrt_lt_logo_fb.jpg?v258</url>
+			<title><![CDATA[LRT Žinios]]></title>
+			<link>https://www.lrt.lt/mediateka/video/zinios</link>
+			<width>100</width>
+			<height>100</height>
+		</image>
+	<language>
+	<![CDATA[ lt ]]>
+	</language>
+	<managingEditor>
+	<![CDATA[ webmaster@lrt.lt (Online Editor) ]]>
+	</managingEditor>
+	<webMaster>
+	<![CDATA[ webmaster@lrt.lt (Web Feeds) ]]>
+	</webMaster>
+		<item>
+			<title>
+				<![CDATA[
+				Žinios
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/10/22/2518160-705862-1287x836.jpg"/><br />
+			 Žinios			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000901019/zinios
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000901019/zinios
+			</guid>
+			<category>
+				<![CDATA[ Žinios ]]>
+			</category>
+			<pubDate>Thu, 22 Oct 2026 08:44:00 +0300</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[
+				Žinios
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/10/22/2518153-920530-1287x836.jpg"/><br />
+			 Žinios			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000901017/zinios
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000901017/zinios
+			</guid>
+			<category>
+				<![CDATA[ Žinios ]]>
+			</category>
+			<pubDate>Thu, 22 Oct 2026 08:10:00 +0300</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[
+				Trumpas išplūdo apie nuolaidas Rusijai paklaususią žurnalistę: „Ar jūs kvaila?“
+				]]>
+			</title>
+			<description>
+			<![CDATA[<img align="left" hspace="5" src="https://www.lrt.lt/img/2026/10/22/2518147-674788-1287x836.jpg"/><br />
+			 Trumpas išplūdo apie nuolaidas Rusijai paklaususią žurnalistę: „Ar jūs kvaila?“			 ]]>
+			</description>
+			<link>
+				https://www.lrt.lt/mediateka/irasas/2000901016/trumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila
+			</link>
+			<guid isPermaLink="true">
+				https://www.lrt.lt/mediateka/irasas/2000901016/trumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila
+			</guid>
+			<category>
+				<![CDATA[ Žinios ]]>
+			</category>
+			<pubDate>Thu, 22 Oct 2026 07:43:00 +0300</pubDate>
+		</item>
+		</channel></rss>

@@ -1,0 +1,219 @@
+{
+ "items": [
+  {
+   "item_date_iso8601": "2026-10-21T04:46:00Z",
+   "photo": "/img/2026/10/21/2517394-198716-{WxH}.jpg",
+   "is_movie": 0,
+   "url": "/mediateka/irasas/2000900035/gamtos-fotografas-lukas-jonaitis-kartais-prie-vieno-kadro-dirbu-kelias-paras",
+   "img_w_h": "1.8",
+   "category_id": 278,
+   "is_series": 0,
+   "category_title": "Labas rytas, Lietuva",
+   "badges_html": "",
+   "season_url": "/mediateka/video/labas-rytas-lietuva/2026",
+   "photo_id": 2517394,
+   "date": "2026.10.21 07:46",
+   "year_interval": 8,
+   "article_category_id": 0,
+   "is_audio": 0,
+   "title": "Gamtos fotografas Lukas Jonaitis: kartais prie vieno kadro dirbu kelias paras",
+   "epika_valid_days": "",
+   "age_restriction": "",
+   "is_epika": 0,
+   "id": 3089091,
+   "is_video": 1,
+   "subtitle": ""
+  },
+  {
+   "season_url": "/mediateka/video/labas-rytas-lietuva/2026",
+   "photo_id": 2492003,
+   "date": "2026.10.21 07:46",
+   "badges_html": "",
+   "is_series": 0,
+   "category_title": "Labas rytas, Lietuva",
+   "img_w_h": "1.5",
+   "category_id": 278,
+   "photo": "/img/2026/09/18/2492003-928047-{WxH}.jpg",
+   "item_date_iso8601": "2026-10-21T04:46:00Z",
+   "is_movie": 0,
+   "url": "/mediateka/irasas/2000900014/labas-rytas-lietuva-i-d",
+   "is_video": 1,
+   "subtitle": "",
+   "age_restriction": "",
+   "is_epika": 0,
+   "id": 3089025,
+   "title": "Labas rytas, Lietuva I d.",
+   "epika_valid_days": "",
+   "is_audio": 0,
+   "article_category_id": 0,
+   "year_interval": 8
+  },
+  {
+   "article_category_id": 0,
+   "year_interval": 8,
+   "subtitle": "",
+   "is_video": 1,
+   "is_epika": 0,
+   "id": 3084245,
+   "age_restriction": "",
+   "epika_valid_days": "",
+   "title": "Karpių žvejyba užsiimanti Oksana: pradžioj vyras žvejodavo vienas",
+   "is_audio": 0,
+   "category_title": "Bendrystės istorijos",
+   "is_series": 0,
+   "category_id": 29704,
+   "img_w_h": "1.8",
+   "url": "/mediateka/irasas/2000895082/karpiu-zvejyba-uzsiimanti-oksana-pradzioj-vyras-zvejodavo-vienas",
+   "is_movie": 0,
+   "item_date_iso8601": "2026-10-17T12:59:00Z",
+   "photo": "/img/2026/10/16/2514391-114033-{WxH}.jpg",
+   "date": "2026.10.17 15:59",
+   "season_url": "/mediateka/video/bendrystes-istorijos/2026",
+   "photo_id": 2514391,
+   "badges_html": ""
+  },
+  {
+   "category_id": 29704,
+   "img_w_h": "1.8",
+   "is_movie": 0,
+   "url": "/mediateka/irasas/2000895052/bendrystes-istorijos",
+   "photo": "/img/2025/11/21/2246187-500101-{WxH}.jpg",
+   "item_date_iso8601": "2026-10-17T12:59:00Z",
+   "category_title": "Bendrystės istorijos",
+   "is_series": 0,
+   "badges_html": "",
+   "date": "2026.10.17 15:59",
+   "season_url": "/mediateka/video/bendrystes-istorijos/2026",
+   "photo_id": 2246187,
+   "year_interval": 8,
+   "article_category_id": 0,
+   "epika_valid_days": "",
+   "title": "Bendrystės istorijos",
+   "is_audio": 0,
+   "subtitle": "",
+   "is_video": 1,
+   "id": 3084164,
+   "is_epika": 0,
+   "age_restriction": ""
+  }
+ ],
+ "similar_tags": [],
+ "suggest_categories_total": 1,
+ "suggest_tags_total": 0,
+ "q": "gamta",
+ "total_found": "2322",
+ "page": 1,
+ "similar_categories": [
+  {
+   "url": "/mediateka/video/mylekime-gamta",
+   "tree_branch": "Filmai |  Dokumentiniai filmai |  Gamta",
+   "category_id": 15491,
+   "category_title": "Mylėkime gamtą",
+   "time_seg": 0,
+   "article_date": 197501010000,
+   "is_audio": 0,
+   "is_video": 1
+  }
+ ],
+ "facets": {
+  "themes": [
+   {
+    "key": "category_term_1",
+    "value": "/lituanica",
+    "title": "Lituanica",
+    "id": "9999",
+    "count": 0
+   },
+   {
+    "title": "Žmonės",
+    "key": "category_term_1",
+    "value": "/zmones",
+    "id": "9998",
+    "count": 0
+   },
+   {
+    "value": "/aktualijos",
+    "key": "term",
+    "title": "Mediateka / Aktualijos",
+    "count": 1358,
+    "term": "/aktualijos"
+   },
+   {
+    "term": "/filmai",
+    "count": 83,
+    "title": "Mediateka / Filmai",
+    "value": "/filmai",
+    "key": "term"
+   }
+  ],
+  "year_interval": [
+   {
+    "count": 0,
+    "value": 1,
+    "key": "year_interval",
+    "title": "iki 1950"
+   },
+   {
+    "title": "1950 - 1960",
+    "key": "year_interval",
+    "value": 2,
+    "count": 0
+   },
+   {
+    "title": "1960 - 1970",
+    "key": "year_interval",
+    "value": 3,
+    "count": 5
+   },
+   {
+    "key": "year_interval",
+    "value": 4,
+    "title": "1970 - 1980",
+    "count": 21
+   }
+  ],
+  "video_features": [
+   {
+    "count": 21,
+    "key": "gestures",
+    "value": 1,
+    "title": "Su vertimu į gestų k."
+   }
+  ],
+  "types": [
+   {
+    "count": 2322,
+    "value": "3",
+    "key": "type",
+    "title": "Video"
+   },
+   {
+    "key": "type",
+    "value": 8,
+    "title": "Autoriai",
+    "count": 0
+   },
+   {
+    "title": "Žymės",
+    "key": "type",
+    "value": 7,
+    "count": 0
+   }
+  ],
+  "heritage": 226,
+  "features": [
+   {
+    "count": 0,
+    "title": "Ieškoti tikslios frazės",
+    "key": "exact",
+    "value": 1
+   },
+   {
+    "value": 1,
+    "key": "cc",
+    "title": "Su titrais",
+    "count": 266
+   }
+  ]
+ }
+}

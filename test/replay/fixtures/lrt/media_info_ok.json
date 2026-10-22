@@ -1,0 +1,39 @@
+{
+ "id": "2000901016",
+ "title": "Trumpas išplūdo apie nuolaidas Rusijai paklaususią žurnalistę: „Ar jūs kvaila?“",
+ "type": 6,
+ "content": "<p>Jungtinių Valstijų prezidentas tikina manantis, kad Rusijos karo prieš Ukrainą pabaiga gali būti arčiau nei bet kada anksčiau.</p>",
+ "category_id": 577,
+ "heritage": null,
+ "date": "2026.10.22 07:43",
+ "offset": 0,
+ "tags": [
+  {
+   "name": "LRT TELEVIZIJA",
+   "slug": "lrt-televizija"
+  },
+  {
+   "slug": "zinios",
+   "name": "Žinios"
+  },
+  {
+   "slug": "donaldas-trumpas",
+   "name": "Donaldas Trumpas"
+  },
+  {
+   "slug": "jav",
+   "name": "JAV"
+  }
+ ],
+ "url": "/mediateka/irasas/2000901016/trumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila",
+ "full_url": "https://www.lrt.lt/mediateka/irasas/2000901016/trumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila",
+ "playlist_item": {
+  "file": "https://stream-vod3.lrt.lt/VIDEO/2026-10/ZIN51199_W_180dd0f9-bf13-4a84-8451-3310cfcf4ed1.mp4/playlist.m3u8",
+  "title": "Trumpas išplūdo apie nuolaidas Rusijai paklaususią žurnalistę: „Ar jūs kvaila?“",
+  "category": "Žinios",
+  "category_term": "/mediateka/video/zinios",
+  "image": "/img/2026/10/22/2518147-674788-1287x836.jpg",
+  "mediaid": "2000901016",
+  "main_id": 3090039
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": 3090039,
+ "title": "Trumpas išplūdo apie nuolaidas Rusijai paklaususią žurnalistę: „Ar jūs kvaila?“",
+ "url": "/mediateka/irasas/2000901016/trumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila",
+ "description": "<p>Jungtinių Valstijų prezidentas tikina manantis, kad Rusijos karo prieš Ukrainą pabaiga gali būti arčiau nei bet kada anksčiau.</p>",
+ "date": "2026-10-22T04:43:00.000Z",
+ "startOffset": 0,
+ "ads": {
+  "source": "https://pubads.g.doubleclick.net/gampad/ads?iu=%2F21713852842%2Fv_preroll_vod&description_url=https%3A%2F%2Fwww.lrt.lt%2Fmediateka%2Firasas%2F2000901016%2Ftrumpas-ispludo-apie-nuolaidas-rusijai-paklaususia-zurnaliste-ar-jus-kvaila&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&max_ad_duration=180000&unviewed_position_start=1"
+ },
+ "category": {
+  "id": 577,
+  "url": "/mediateka/video/zinios",
+  "title": "Žinios"
+ },
+ "keywords": [
+  {
+   "name": "LRT TELEVIZIJA",
+   "url": "lrt-televizija"
+  },
+  {
+   "name": "Žinios",
+   "url": "zinios"
+  },
+  {
+   "name": "Donaldas Trumpas",
+   "url": "donaldas-trumpas"
+  },
+  {
+   "name": "JAV",
+   "url": "jav"
+  }
+ ],
+ "channel": {
+  "id": 1,
+  "logo": "https://www.lrt.lt/images/logo/logo-tv-hd.svg",
+  "title": "LRT TELEVIZIJA"
+ },
+ "image": {
+  "prefix": "/img/2026/10/22/2518147-674788-",
+  "postfix": ".jpg",
+  "title": ""
+ },
+ "authors": [
+  {
+   "name": "LRT TELEVIZIJA",
+   "url": "lrt-televizija"
+  }
+ ],
+ "season": {
+  "id": "SZ_AVI_506_2026",
+  "title": "2026",
+  "url": "/mediateka/video/zinios/2026"
+ },
+ "readCount": 254,
+ "ageRestricted": null,
+ "isHeritage": null,
+ "validTill": null,
+ "duration": "00:13:16",
+ "metadata": {
+  "images": [
+   {
+    "prefix": "/img/2026/10/22/2518147-674788-",
+    "postfix": ".jpg",
+    "title": ""
+   }
+  ],
+  "description": "Jungtinių Valstijų prezidentas tikina manantis, kad Rusijos karo prieš Ukrainą pabaiga gali būti arčiau nei bet kada anksčiau."
+ }
+}

@@ -4,6 +4,7 @@ import '../providers/arte/arte_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
+import '../providers/lrt/lrt_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/nrktv/nrktv_provider.dart';
@@ -199,6 +200,13 @@ const replaySourceInfos = [
     country: 'NO',
     languages: ['no'],
   ),
+  ReplaySourceInfo(
+    id: 'lrt',
+    name: 'LRT',
+    support: ReplayPlaybackSupport.clear,
+    country: 'LT',
+    languages: ['lt'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -254,6 +262,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'ruv' => RuvProvider(http),
       'urplay' => UrPlayProvider(http),
       'nrktv' => NrkTvProvider(http),
+      'lrt' => LrtProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

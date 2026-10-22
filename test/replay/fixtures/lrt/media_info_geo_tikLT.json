@@ -1,0 +1,35 @@
+{
+ "id": "2000587152",
+ "title": "Pakartojimo nebus: Makbetas",
+ "type": 6,
+ "content": "<p>LVSO ir Vilniaus miesto operos projektas. Rež. Dalia Ibelhauptaitė. Dalyvauja Asmik Grigorian, Edgaras Montvidas, Tad",
+ "category_id": 29868,
+ "heritage": null,
+ "date": "2025.12.17 21:11",
+ "offset": null,
+ "tags": [
+  {
+   "slug": "lrt-plius",
+   "name": "LRT Plius"
+  },
+  {
+   "name": "Opera",
+   "slug": "opera"
+  },
+  {
+   "name": "Makbetas",
+   "slug": "makbetas"
+  }
+ ],
+ "url": "/mediateka/irasas/2000587152/pakartojimo-nebus-makbetas",
+ "full_url": "https://www.lrt.lt/mediateka/irasas/2000587152/pakartojimo-nebus-makbetas",
+ "playlist_item": {
+  "file": "https://www.lrt.lt/static/mp4/tikLT.mp4",
+  "title": "Pakartojimo nebus: Makbetas",
+  "category": "Pakartojimo nebus: Makbetas",
+  "category_term": "/mediateka/video/pakartojimo-nebus-makbetas",
+  "image": "/img/2025/12/24/2274235-199517-1287x836.png",
+  "mediaid": "2000587152",
+  "main_id": 2776408
+ }
+}
