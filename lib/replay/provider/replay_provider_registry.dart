@@ -1,5 +1,5 @@
 import '../../utils/media_server_http_client.dart';
-import '../providers/3cat/3cat_provider.dart';
+import '../providers/3cat/threecat_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
