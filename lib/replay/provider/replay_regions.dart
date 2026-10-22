@@ -70,6 +70,7 @@ const _languageNames = <String, ({String en, String fr})>{
   'lv': (en: 'Latvian', fr: 'Letton'),
   'mi': (en: 'Māori', fr: 'Maori'),
   'nb': (en: 'Norwegian', fr: 'Norvégien'),
+  'nl': (en: 'Dutch', fr: 'Néerlandais'),
   'no': (en: 'Norwegian', fr: 'Norvégien'),
   'pl': (en: 'Polish', fr: 'Polonais'),
   'pt': (en: 'Portuguese', fr: 'Portugais'),
