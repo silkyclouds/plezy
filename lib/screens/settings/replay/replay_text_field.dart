@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
-import '../../../focus/focusable_text_field.dart';
 import 'replay_palette.dart';
 
 /// A single-line field of fixed height whose fill and outline follow focus: resting on the group fill, a lighter fill
 /// with a 2 px outline when focused.
+///
+/// It is a plain text field, editable as soon as it has focus, so the keyboard and the on-screen keyboard that watches
+/// for an active text input can always type into it; the arrow keys only leave it toward the neighbours.
 class ReplayTextField extends StatefulWidget {
   final TextEditingController controller;
   final FocusNode? focusNode;
@@ -54,6 +57,23 @@ class ReplayTextField extends StatefulWidget {
 class _ReplayTextFieldState extends State<ReplayTextField> {
   bool _focused = false;
 
+  /// Up and down leave the field; right leaves it only from the end of the text, so the caret still moves.
+  KeyEventResult _handleKey(FocusNode node, KeyEvent event) {
+    if (event is! KeyDownEvent) return KeyEventResult.ignored;
+    final key = event.logicalKey;
+    final selection = widget.controller.selection;
+    final atEnd = selection.isCollapsed && selection.extentOffset >= widget.controller.text.length;
+    final target = switch (key) {
+      LogicalKeyboardKey.arrowDown => widget.onNavigateDown,
+      LogicalKeyboardKey.arrowUp => widget.onNavigateUp,
+      LogicalKeyboardKey.arrowRight when atEnd => widget.onNavigateRight,
+      _ => null,
+    };
+    if (target == null) return KeyEventResult.ignored;
+    target();
+    return KeyEventResult.handled;
+  }
+
   @override
   Widget build(BuildContext context) {
     final palette = ReplayPalette.of(context);
@@ -77,25 +97,27 @@ class _ReplayTextFieldState extends State<ReplayTextField> {
               const SizedBox(width: 12),
             ],
             Expanded(
-              child: FocusableTextField(
-                controller: widget.controller,
-                focusNode: widget.focusNode,
-                autofocus: widget.autofocus,
-                enabled: widget.enabled,
-                obscureText: widget.obscure,
-                autocorrect: false,
-                enableSuggestions: false,
-                keyboardType: widget.keyboardType,
-                textInputAction: widget.textInputAction,
-                onChanged: widget.onChanged,
-                onSubmitted: widget.onSubmitted,
-                onNavigateDown: widget.onNavigateDown,
-                onNavigateUp: widget.onNavigateUp,
-                onNavigateRight: widget.onNavigateRight,
-                style: TextStyle(color: ink, fontSize: widget.fontSize),
-                decoration: InputDecoration.collapsed(
-                  hintText: widget.hint,
-                  hintStyle: TextStyle(color: palette.muted, fontSize: widget.fontSize),
+              child: Focus(
+                canRequestFocus: false,
+                skipTraversal: true,
+                onKeyEvent: _handleKey,
+                child: TextField(
+                  controller: widget.controller,
+                  focusNode: widget.focusNode,
+                  autofocus: widget.autofocus,
+                  enabled: widget.enabled,
+                  obscureText: widget.obscure,
+                  autocorrect: false,
+                  enableSuggestions: false,
+                  keyboardType: widget.keyboardType,
+                  textInputAction: widget.textInputAction,
+                  onChanged: widget.onChanged,
+                  onSubmitted: widget.onSubmitted,
+                  style: TextStyle(color: ink, fontSize: widget.fontSize),
+                  decoration: InputDecoration.collapsed(
+                    hintText: widget.hint,
+                    hintStyle: TextStyle(color: palette.muted, fontSize: widget.fontSize),
+                  ),
                 ),
               ),
             ),
