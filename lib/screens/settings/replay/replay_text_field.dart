@@ -7,7 +7,8 @@ import 'replay_palette.dart';
 /// with a 2 px outline when focused.
 ///
 /// It is a plain text field, editable as soon as it has focus, so the keyboard and the on-screen keyboard that watches
-/// for an active text input can always type into it; the arrow keys only leave it toward the neighbours.
+/// for an active text input can always type into it; the arrow keys only leave it, to the given neighbour or else to
+/// the nearest focusable one in that direction.
 class ReplayTextField extends StatefulWidget {
   final TextEditingController controller;
   final FocusNode? focusNode;
@@ -63,14 +64,18 @@ class _ReplayTextFieldState extends State<ReplayTextField> {
     final key = event.logicalKey;
     final selection = widget.controller.selection;
     final atEnd = selection.isCollapsed && selection.extentOffset >= widget.controller.text.length;
-    final target = switch (key) {
-      LogicalKeyboardKey.arrowDown => widget.onNavigateDown,
-      LogicalKeyboardKey.arrowUp => widget.onNavigateUp,
-      LogicalKeyboardKey.arrowRight when atEnd => widget.onNavigateRight,
-      _ => null,
+    final (callback, direction) = switch (key) {
+      LogicalKeyboardKey.arrowDown => (widget.onNavigateDown, TraversalDirection.down),
+      LogicalKeyboardKey.arrowUp => (widget.onNavigateUp, TraversalDirection.up),
+      LogicalKeyboardKey.arrowRight when atEnd => (widget.onNavigateRight, TraversalDirection.right),
+      _ => (null, null),
     };
-    if (target == null) return KeyEventResult.ignored;
-    target();
+    if (direction == null) return KeyEventResult.ignored;
+    if (callback != null) {
+      callback();
+    } else {
+      FocusManager.instance.primaryFocus?.focusInDirection(direction);
+    }
     return KeyEventResult.handled;
   }
 

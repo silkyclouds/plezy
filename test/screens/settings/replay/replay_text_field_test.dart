@@ -92,4 +92,40 @@ void main() {
 
     expect(left, ['down', 'up', 'right']);
   });
+
+  testWidgets('Without a given neighbour, down and up move to the nearest focusable control', (tester) async {
+    final controller = TextEditingController();
+    addTearDown(controller.dispose);
+    final above = FocusNode();
+    final below = FocusNode();
+    addTearDown(above.dispose);
+    addTearDown(below.dispose);
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: monoTheme(MonoPalette.dark),
+        home: Scaffold(
+          body: Column(
+            children: [
+              TextButton(focusNode: above, onPressed: () {}, child: const Text('above')),
+              ReplayTextField(controller: controller, autofocus: true),
+              TextButton(focusNode: below, onPressed: () {}, child: const Text('below')),
+            ],
+          ),
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+    await tester.pump();
+    expect(below.hasPrimaryFocus, isTrue);
+
+    below.requestFocus();
+    await tester.pump();
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowUp);
+    await tester.pump();
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowUp);
+    await tester.pump();
+    expect(above.hasPrimaryFocus, isTrue);
+  });
 }
