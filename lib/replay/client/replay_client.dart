@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:http/http.dart' as package_http;
 
 import '../../connection/connection.dart';
+import '../../i18n/strings.g.dart';
 import '../../media/download_resolution.dart';
 import '../../media/ids.dart';
 import '../../media/library_query.dart';
@@ -30,6 +31,8 @@ import '../model/replay_title.dart';
 import '../provider/replay_provider.dart';
 import '../provider/replay_provider_registry.dart';
 import '../suggestions/replay_home_suggestions.dart';
+import '../suggestions/replay_suggestion_settings.dart';
+import '../suggestions/replay_suggestion_store.dart';
 import 'replay_account_store.dart';
 import 'replay_accounts.dart';
 import 'replay_api_cache.dart';
@@ -189,7 +192,9 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     if (target == null) return null;
     final title = await target.$1.title(target.$2);
     if (title == null) return null;
-    final item = (await _watch.apply([(await _mapperFor(target.$1, [title])).item(title)])).single;
+    final item = (await _watch.apply([
+      (await _mapperFor(target.$1, [title])).item(title),
+    ])).single;
     // Kept so a download can pin it: offline lists resolve titles from this copy.
     await ReplayApiCache.instance.cacheItem(serverId, item);
     return item;
@@ -282,7 +287,18 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
     mapperFor: _mapperFor,
     viewerCountry: () => geo?.country,
     watchedSources: _watchedSources,
+    settings: suggestionSettings.load,
+    automaticLanguages: _automaticLanguages,
   );
+
+  /// The viewer's home-screen choices (which channels get rows, in which languages, how many).
+  late final ReplaySuggestionStore suggestionSettings = ReplaySuggestionStore(ReplayApiCache.instance, serverId);
+
+  /// Without a choice from the viewer: the app language plus the languages of the channels they already watch.
+  Future<Set<String>> _automaticLanguages() async => {
+    LocaleSettings.currentLocale.languageCode,
+    for (final id in await _watchedSources()) ?_providers[id]?.source.language,
+  };
 
   Future<List<String>> _watchedSources() async {
     final started = await _watch.inProgress();

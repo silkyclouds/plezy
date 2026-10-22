@@ -4,10 +4,16 @@ import 'package:plezy/replay/model/replay_ref.dart';
 import 'package:plezy/replay/model/replay_title.dart';
 import 'package:plezy/replay/provider/replay_provider.dart';
 import 'package:plezy/replay/suggestions/replay_home_suggestions.dart';
+import 'package:plezy/replay/suggestions/replay_suggestion_settings.dart';
 
 class _Provider extends Fake implements ReplayProvider {
-  _Provider(String id, {this.rails = const [], this.fails = false, this.support = ReplayPlaybackSupport.clear})
-    : source = ReplaySource(id: id, name: id.toUpperCase(), language: 'fr', support: support);
+  _Provider(
+    String id, {
+    this.rails = const [],
+    this.fails = false,
+    this.support = ReplayPlaybackSupport.clear,
+    String language = 'fr',
+  }) : source = ReplaySource(id: id, name: id.toUpperCase(), language: language, support: support);
 
   @override
   final ReplaySource source;
@@ -32,18 +38,25 @@ List<ReplayTitle> _titles(String source, String prefix, int count, {int blocked 
     ),
 ];
 
-ReplayRail _rail(String source, String id, int count, {int blocked = 0}) =>
-    ReplayRail(id: id, title: id, titles: _titles(source, id, count, blocked: blocked));
+ReplayRail _rail(String source, String id, int count, {int blocked = 0}) => ReplayRail(
+  id: id,
+  title: id,
+  titles: _titles(source, id, count, blocked: blocked),
+);
 
 ReplayHomeSuggestions _suggestions(
   List<_Provider> providers, {
   String? country = 'BE',
   List<String> watched = const [],
+  ReplaySuggestionSettings settings = const ReplaySuggestionSettings(),
+  Set<String> automaticLanguages = const {'fr', 'en', 'nl'},
 }) => ReplayHomeSuggestions(
   providers: {for (final p in providers) p.source.id: p},
   mapperFor: (p, _) async => ReplayMapper(serverId: 'catchup', source: p.source),
   viewerCountry: () => country,
   watchedSources: () async => watched,
+  settings: () async => settings,
+  automaticLanguages: () async => automaticLanguages,
 );
 
 void main() {
@@ -94,5 +107,69 @@ void main() {
     final hubs = await _suggestions([arte]).hubs(itemLimit: 10);
 
     expect(hubs.single.items, hasLength(10));
+  });
+
+  test('Channels in languages the viewer does not follow offer nothing by default', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'docs', 6)]);
+    final lrt = _Provider('lrt', rails: [_rail('lrt', 'news', 6)], language: 'lt');
+
+    final hubs = await _suggestions([arte, lrt]).hubs(itemLimit: 12);
+
+    expect(hubs.map((h) => h.title), ['docs']);
+  });
+
+  test('A choice for one channel beats the language rule in both directions', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'docs', 6)]);
+    final rtl = _Provider('rtlplay', rails: [_rail('rtlplay', 'top', 6)]);
+    final lrt = _Provider('lrt', rails: [_rail('lrt', 'news', 6)], language: 'lt');
+    const settings = ReplaySuggestionSettings(channels: {'rtlplay': false, 'lrt': true});
+
+    final hubs = await _suggestions([arte, rtl, lrt], settings: settings).hubs(itemLimit: 12);
+
+    expect(hubs.map((h) => h.title), unorderedEquals(['docs', 'news']));
+  });
+
+  test('Followed languages replace the automatic ones', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'docs', 6)]);
+    final lrt = _Provider('lrt', rails: [_rail('lrt', 'news', 6)], language: 'lt');
+
+    final hubs = await _suggestions([
+      arte,
+      lrt,
+    ], settings: const ReplaySuggestionSettings(languages: {'lt'})).hubs(itemLimit: 12);
+
+    expect(hubs.map((h) => h.title), ['news']);
+  });
+
+  test('Nothing is offered while the master switch is off', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'docs', 6)]);
+
+    expect(
+      await _suggestions([arte], settings: const ReplaySuggestionSettings(enabled: false)).hubs(itemLimit: 12),
+      isEmpty,
+    );
+  });
+
+  test('Muted rows, chosen rows and the row count per channel are respected', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'a', 6), _rail('arte', 'b', 6), _rail('arte', 'c', 6)]);
+
+    final muted = await _suggestions([
+      arte,
+    ], settings: const ReplaySuggestionSettings(mutedRows: {'arte:a'})).hubs(itemLimit: 12);
+    final chosen = await _suggestions(
+      [arte],
+      settings: const ReplaySuggestionSettings(
+        chosenRows: {
+          'arte': {'c'},
+        },
+      ),
+    ).hubs(itemLimit: 12);
+    final one = await _suggestions([
+      arte,
+    ], settings: const ReplaySuggestionSettings(rowsPerChannel: 1)).hubs(itemLimit: 12);
+
+    expect(muted.map((h) => h.title), ['b', 'c']);
+    expect(chosen.map((h) => h.title), ['c']);
+    expect(one.map((h) => h.title), ['a']);
   });
 }

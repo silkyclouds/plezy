@@ -22,10 +22,7 @@ class _Predicting extends Fake implements ReplayProvider, ReplayAvailabilityPred
   Future<Map<ReplayRef, ReplayAvailability>> predictAvailability(List<ReplayTitle> titles, String country) async {
     askedCountry = country;
     if (fail) throw const FormatException('offline');
-    return {
-      titles.first.ref: ReplayAvailability.geoBlocked,
-      titles.last.ref: ReplayAvailability.playable,
-    };
+    return {titles.first.ref: ReplayAvailability.geoBlocked, titles.last.ref: ReplayAvailability.playable};
   }
 }
 
@@ -56,7 +53,10 @@ void main() {
     final mapper = ReplayMapper(
       serverId: 'catchup',
       source: _source,
-      predicted: {ReplayRef('se', 'a'): ReplayAvailability.geoBlocked, ReplayRef('se', 'c'): ReplayAvailability.geoBlocked},
+      predicted: {
+        ReplayRef('se', 'a'): ReplayAvailability.geoBlocked,
+        ReplayRef('se', 'c'): ReplayAvailability.geoBlocked,
+      },
     );
     final expired = ReplayTitle(
       ref: ReplayRef('se', 'c'),

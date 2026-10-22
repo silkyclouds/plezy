@@ -7,18 +7,16 @@ import '../mapping/replay_mapper.dart';
 import '../model/replay_title.dart';
 import '../provider/replay_provider.dart';
 import '../provider/replay_provider_registry.dart';
+import 'replay_suggestion_settings.dart';
 
 /// Builds the catch-up rows offered on the home screen from the landing rows of the enabled broadcasters.
 ///
-/// A row is kept when the viewer can watch it from their location and enough of its titles can be played. Rows
-/// from broadcasters the viewer already watches come first, then the broadcasters take turns so that no single
-/// channel fills the screen.
+/// A channel is offered when the viewer's settings say so (by default: the languages they follow), they can watch
+/// it from their location, and a row is kept when enough of its titles can be played. Channels the viewer already
+/// watches come first, then the channels take turns so that no single one fills the screen.
 class ReplayHomeSuggestions {
-  /// Rows taken from one broadcaster.
-  static const maxRowsPerSource = 2;
-
   /// Rows offered in total.
-  static const maxRows = 10;
+  static const maxRows = 12;
 
   /// A row with fewer playable titles is not worth a place on the home screen.
   static const minTitles = 4;
@@ -33,6 +31,11 @@ class ReplayHomeSuggestions {
   /// Broadcasters the viewer has started something on, most recent first.
   final Future<List<String>> Function() watchedSources;
 
+  final Future<ReplaySuggestionSettings> Function() settings;
+
+  /// Languages to follow when the viewer did not choose any.
+  final Future<Set<String>> Function() automaticLanguages;
+
   final Map<String, ({DateTime at, List<ReplayRail> rails})> _railsBySource = {};
 
   ReplayHomeSuggestions({
@@ -40,32 +43,38 @@ class ReplayHomeSuggestions {
     required this.mapperFor,
     required this.viewerCountry,
     required this.watchedSources,
+    required this.settings,
+    required this.automaticLanguages,
   });
 
   /// The rows to show, at most [itemLimit] titles each.
   Future<List<MediaHub>> hubs({required int itemLimit}) async {
+    final choices = await settings();
+    if (!choices.enabled) return const [];
     final country = viewerCountry();
+    final automatic = await automaticLanguages();
     final candidates = [
       for (final provider in providers.values)
-        if (_isOfferedTo(provider, country)) provider,
+        if (_isOfferedTo(provider, country) && choices.offers(provider.source, automatic)) provider,
     ];
     final watched = await watchedSources();
-    final built = await Future.wait([for (final provider in candidates) _rowsOf(provider, itemLimit)]);
+    final built = await Future.wait([for (final provider in candidates) _rowsOf(provider, choices, itemLimit)]);
     final perSource = [
       for (var i = 0; i < candidates.length; i++)
         if (built[i].isNotEmpty) _SourceRows(candidates[i].source.id, built[i]),
     ];
     perSource.sort((a, b) => _watchedRank(watched, a.sourceId).compareTo(_watchedRank(watched, b.sourceId)));
-    return _roundRobin(perSource);
+    return _roundRobin(perSource, choices.rowsPerChannel);
   }
 
-  Future<List<MediaHub>> _rowsOf(ReplayProvider provider, int itemLimit) async {
+  Future<List<MediaHub>> _rowsOf(ReplayProvider provider, ReplaySuggestionSettings choices, int itemLimit) async {
     final hubs = <MediaHub>[];
     for (final rail in await _railsOf(provider)) {
+      if (!choices.allowsRow(provider.source.id, rail.id)) continue;
       final mapper = await mapperFor(provider, rail.titles);
       final hub = _playableHub(mapper, provider, rail, itemLimit);
       if (hub != null) hubs.add(hub);
-      if (hubs.length == maxRowsPerSource) break;
+      if (hubs.length == choices.rowsPerChannel) break;
     }
     return hubs;
   }
@@ -118,9 +127,9 @@ class ReplayHomeSuggestions {
     return index < 0 ? watched.length : index;
   }
 
-  List<MediaHub> _roundRobin(List<_SourceRows> sources) {
+  List<MediaHub> _roundRobin(List<_SourceRows> sources, int rounds) {
     final rows = <MediaHub>[];
-    for (var round = 0; round < maxRowsPerSource; round++) {
+    for (var round = 0; round < rounds; round++) {
       for (final source in sources) {
         if (round < source.hubs.length && rows.length < maxRows) rows.add(source.hubs[round]);
       }
