@@ -22,6 +22,7 @@
 // (auth-service.rtbf.be) serve favourites and history and are not used here. No captcha is sent:
 // Gigya's risk-based captcha is reported as `captchaRequired` when an answer mentions it.
 import '../../../exceptions/media_server_exceptions.dart';
+import '../../../utils/app_logger.dart';
 import '../../auth/replay_auth.dart';
 import 'rtbf_gigya.dart';
 import 'rtbf_http.dart';
@@ -47,8 +48,8 @@ class RtbfAuthenticator implements ReplayAuthenticator {
   @override
   Future<ReplaySession> signIn({required String login, required String password}) => _guard(() async {
     final label = login.trim();
-    final identity = await _gigya.signIn(login: label, password: password);
-    final redbee = await _redbee.signIn(identity.jwt);
+    final identity = await _step('Gigya', () => _gigya.signIn(login: label, password: password));
+    final redbee = await _step('Red Bee', () => _redbee.signIn(identity.jwt));
     return ReplaySession(
       accountLabel: label,
       values: {
@@ -60,6 +61,23 @@ class RtbfAuthenticator implements ReplayAuthenticator {
       expiresAt: redbee.expiresAt,
     );
   });
+
+  /// Runs one step of the sign-in and, when it is refused, names the step in the failure so the user and the log
+  /// can tell which service said no. The password is never part of the message.
+  Future<T> _step<T>(String name, Future<T> Function() run) async {
+    try {
+      return await run();
+    } on ReplayAuthException catch (e) {
+      appLogger.w('Auvio sign-in refused at $name', error: e);
+      throw ReplayAuthException(e.reason, message: '$name: ${e.message ?? e.reason.name}');
+    } on MediaServerHttpException catch (e) {
+      appLogger.w('Auvio sign-in failed at $name', error: e);
+      throw ReplayAuthException(
+        (e.statusCode ?? 500) >= 500 ? ReplayAuthFailure.network : ReplayAuthFailure.rejected,
+        message: '$name: ${e.message}',
+      );
+    }
+  }
 
   /// A live session is kept as it is; one Red Bee no longer accepts is renewed.
   @override

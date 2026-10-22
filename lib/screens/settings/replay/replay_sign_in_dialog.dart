@@ -93,8 +93,11 @@ class _ReplaySignInDialogState extends State<ReplaySignInDialog> {
     ReplayAuthFailure.rateLimited => t.replay.signInRateLimited,
     ReplayAuthFailure.captchaRequired => t.replay.signInCaptcha,
     ReplayAuthFailure.network => t.replay.signInNetwork,
-    ReplayAuthFailure.rejected => t.replay.signInRejected,
+    ReplayAuthFailure.rejected => _withDetail(t.replay.signInRejected, e.message),
   };
+
+  /// The broadcaster's own wording after ours, so a refusal that is not a wrong password can be told apart.
+  String _withDetail(String text, String? detail) => detail == null || detail.isEmpty ? text : '$text ($detail)';
 
   @override
   Widget build(BuildContext context) {
