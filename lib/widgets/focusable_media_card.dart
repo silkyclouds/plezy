@@ -51,6 +51,9 @@ class FocusableMediaCard extends StatefulWidget {
   /// Show server name in list view (multi-server)
   final bool showServerName;
 
+  /// Puts the broadcaster's logo in the corner of a catch-up card (see [MediaCard.showChannelLogo]).
+  final bool showChannelLogo;
+
   /// Library name to attribute the item with in list view, resolved by the
   /// caller (see `LibrariesProvider.libraryLabelFor`). Null renders nothing.
   final String? libraryName;
@@ -104,6 +107,7 @@ class FocusableMediaCard extends StatefulWidget {
     this.fullBleedImage = false,
     this.cardShapeOverride,
     this.showServerName = false,
+    this.showChannelLogo = false,
     this.libraryName,
     this.disableScale = false,
     this.focusNode,
@@ -164,6 +168,7 @@ class _FocusableMediaCardState extends State<FocusableMediaCard> {
         fullBleedImage: widget.fullBleedImage,
         cardShapeOverride: widget.cardShapeOverride,
         showServerName: widget.showServerName,
+        showChannelLogo: widget.showChannelLogo,
         libraryName: widget.libraryName,
       ),
     );

@@ -12,6 +12,10 @@ import '../provider/replay_provider.dart';
 /// Key under which [ReplayAvailability] travels in `MediaItem.raw`.
 const replayAvailabilityKey = 'replayAvailability';
 
+/// Keys under which the dates behind an unavailable title's short reason travel in `MediaItem.raw` (ISO 8601).
+const replayAvailableUntilKey = 'replayAvailableUntil';
+const replayAirsAtKey = 'replayAirsAt';
+
 /// True when there is one landscape image and no separate portrait poster. Providers repeat the same reference for both
 /// fields in that case, so equal fields mean there is no poster to show.
 bool replayHasLandscapeOnlyArtwork(String? poster, String? backdrop) =>
@@ -29,6 +33,16 @@ MediaKind replayKindToMediaKind(ReplayKind kind) => switch (kind) {
 ReplayAvailability replayAvailabilityOf(MediaItem item) {
   final name = item.raw?[replayAvailabilityKey];
   return ReplayAvailability.values.asNameMap()[name] ?? ReplayAvailability.playable;
+}
+
+/// The dates stamped on a mapped item: when it stops being playable and when it airs (or goes online).
+({DateTime? availableUntil, DateTime? airsAt}) replayDatesOf(MediaItem item) {
+  DateTime? read(String key) {
+    final value = item.raw?[key];
+    return value is String ? DateTime.tryParse(value) : null;
+  }
+
+  return (availableUntil: read(replayAvailableUntilKey), airsAt: read(replayAirsAtKey));
 }
 
 /// An episode named only after its show ("Journal") cannot be told apart from its neighbours in a list, so the air date
@@ -103,6 +117,8 @@ class ReplayMapper {
       serverName: serverName,
       raw: {
         replayAvailabilityKey: _stampedAvailability(t).name,
+        if (t.availableUntil != null) replayAvailableUntilKey: t.availableUntil!.toIso8601String(),
+        if (t.airDate != null) replayAirsAtKey: t.airDate!.toIso8601String(),
         if (replayHasLandscapeOnlyArtwork(t.posterUrl, t.backdropUrl)) landscapeOnlyArtworkRawKey: true,
       },
     );

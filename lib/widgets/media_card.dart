@@ -40,7 +40,10 @@ import 'media_context_menu.dart';
 import 'media_card_list_layout.dart';
 import 'backend_badge.dart';
 import 'optimized_media_image.dart';
-import 'replay_availability.dart';
+import 'replay/replay_card_logo.dart';
+import 'replay/replay_source_line.dart';
+import 'replay/replay_unavailable_overlay.dart';
+import 'replay/replay_unavailable_reason.dart';
 
 const _failedPosterUrlCacheLimit = 512;
 final _failedPosterUrls = <String>{};
@@ -88,7 +91,12 @@ String _formatCatalogPercent(double value) {
 /// the one value this line exists to show. The compact form therefore leads
 /// with the rating and drops certification, edition, genres and studio, all
 /// of which the detail screen and the search list still render in full.
-String _buildMediaMetadataLine(MediaItem item, {CatalogItem? catalogItem, bool compact = false}) {
+String _buildMediaMetadataLine(
+  MediaItem item, {
+  CatalogItem? catalogItem,
+  bool compact = false,
+  bool omitStudio = false,
+}) {
   final parts = <String>[];
 
   if (item.kind == MediaKind.collection) {
@@ -131,7 +139,7 @@ String _buildMediaMetadataLine(MediaItem item, {CatalogItem? catalogItem, bool c
     }
   }
 
-  final studio = item.studio ?? catalogItem?.network;
+  final studio = omitStudio ? null : item.studio ?? catalogItem?.network;
   if (studio != null && studio.isNotEmpty) parts.add(studio);
   return parts.join(' • ');
 }
@@ -198,7 +206,8 @@ String mediaCardSemanticLabel(Object item) {
     baseLabel = '$baseLabel, ${t.accessibility.mediaCardUnwatched}';
   }
 
-  return baseLabel;
+  final unavailable = replayUnavailableReasonOf(item);
+  return unavailable == null ? baseLabel : '$baseLabel, ${unavailable.shortReason}';
 }
 
 class MediaCard extends StatefulWidget {
@@ -249,6 +258,12 @@ class MediaCard extends StatefulWidget {
   /// surface supplies this for music libraries.
   final CardShape? cardShapeOverride;
 
+  /// Puts the broadcaster's logo in the corner of a catch-up card, for rows that mix it with other libraries.
+  final bool showChannelLogo;
+
+  /// Entries appended to the card's long-press menu.
+  final List<MediaMenuExtraEntry> extraMenuEntries;
+
   const MediaCard({
     super.key,
     required this.item,
@@ -273,6 +288,8 @@ class MediaCard extends StatefulWidget {
     this.showTitleImplied = false,
     this.artworkDim,
     this.cardShapeOverride,
+    this.showChannelLogo = false,
+    this.extraMenuEntries = const [],
   }) : usesContinueWatchingAction = usesContinueWatchingAction ?? isInContinueWatching;
 
   @override
@@ -500,6 +517,7 @@ class MediaCardState extends State<MediaCard> with ContextMenuTapMixin<MediaCard
       isInContinueWatching: widget.isInContinueWatching,
       collectionId: widget.collectionId,
       isOffline: widget.isOffline,
+      extraEntries: widget.extraMenuEntries,
       child: cardWidget,
     );
   }
@@ -612,7 +630,8 @@ class MediaCardState extends State<MediaCard> with ContextMenuTapMixin<MediaCard
     final overlays = <Widget>[
       if (item is MediaItem && _showsWatchedIndicator(item)) WatchedIndicator(item: item),
       if (badgeLabels.isNotEmpty) _CatalogBadges(labels: badgeLabels),
-      ReplayAvailabilityBadge(item: item),
+      ReplayUnavailablePlate(item: item),
+      ReplayCardLogo(item: item, enabled: widget.showChannelLogo),
     ];
     return ExcludeSemantics(
       child: _CatalogFocusBorder(
@@ -625,14 +644,14 @@ class MediaCardState extends State<MediaCard> with ContextMenuTapMixin<MediaCard
                 Stack(
                   fit: StackFit.expand,
                   children: [
-                    ReplayAvailabilityShade(item: item, child: image),
+                    ReplayUnavailableShade(item: item, child: image),
                     ...overlays,
                   ],
                 ),
               )
             : Stack(
                 children: [
-                  _clipPosterImage(context, item, ReplayAvailabilityShade(item: item, child: image)),
+                  _clipPosterImage(context, item, ReplayUnavailableShade(item: item, child: image)),
                   ...overlays,
                 ],
               ),
@@ -795,6 +814,8 @@ class _MediaCardList extends StatelessWidget {
     return (showServerName && it.serverName != null) || libraryName != null;
   }
 
+  bool get _isReplayItem => item is MediaItem && (item as MediaItem).backend.isReplay;
+
   String _buildMetadataLine() {
     final current = item;
     if (current is MediaPlaylist) {
@@ -808,7 +829,10 @@ class _MediaCardList extends StatelessWidget {
       if (current.smart) parts.add(t.playlists.smartPlaylist);
       return parts.join(' • ');
     }
-    return current is MediaItem ? _buildMediaMetadataLine(current, catalogItem: catalogItem) : '';
+    if (current is! MediaItem) return '';
+    // The origin line already names the broadcaster.
+    final omitStudio = _isReplayItem && _showsSource && libraryName != null;
+    return _buildMediaMetadataLine(current, catalogItem: catalogItem, omitStudio: omitStudio);
   }
 
   String? _buildSubtitleText() {
@@ -886,7 +910,7 @@ class _MediaCardList extends StatelessWidget {
                       _clipPosterImage(
                         context,
                         item,
-                        ReplayAvailabilityShade(
+                        ReplayUnavailableShade(
                           item: item,
                           child: _buildPosterImage(
                             context,
@@ -903,7 +927,7 @@ class _MediaCardList extends StatelessWidget {
                       ),
                       if (item is MediaItem && _showsWatchedIndicator(item as MediaItem))
                         WatchedIndicator(item: item as MediaItem),
-                      ReplayAvailabilityBadge(item: item),
+                      ReplayUnavailablePlate(item: item, compact: true),
                     ],
                   ),
                 ),
@@ -973,7 +997,9 @@ class _MediaCardList extends StatelessWidget {
                           // The wide episode thumb makes the shortest list
                           // row: the source line below must not grow it, so
                           // it trades the summary's last line instead (#1970).
-                          maxLines: _showsSource && _cardShape() == CardShape.wide
+                          maxLines:
+                              (_showsSource || replayUnavailableReasonOf(item) != null) &&
+                                  _cardShape() == CardShape.wide
                               ? (_summaryMaxLines > 1 ? _summaryMaxLines - 1 : 1)
                               : _summaryMaxLines,
                           overflow: .ellipsis,
@@ -985,7 +1011,14 @@ class _MediaCardList extends StatelessWidget {
                         ),
                       ),
                     ],
-                    if (_showsSource) ...[
+                    if (_showsSource && _isReplayItem) ...[
+                      const SizedBox(height: 4),
+                      ExcludeSemantics(
+                        child: ReplaySourceLine(item: item as MediaItem, libraryName: libraryName),
+                      ),
+                    ],
+                    ReplayUnavailableReasonLine(item: item),
+                    if (_showsSource && !_isReplayItem) ...[
                       const SizedBox(height: 4),
                       ExcludeSemantics(
                         child: Row(
