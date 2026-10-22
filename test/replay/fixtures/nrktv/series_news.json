@@ -1,0 +1,333 @@
+{
+ "news": {
+  "id": "065b28a2d0c57ab041e36be0d50c00eb",
+  "urlFriendlySeriesId": "dagsrevyen",
+  "titles": {
+   "title": "Dagsrevyen",
+   "subtitle": "Siste nytt fra NRKs nyhetsredaksjon med utenriksmagasin, sport og vær."
+  },
+  "category": {
+   "id": "nyheter",
+   "name": "Nyheter"
+  },
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagQCpvSYI44t9D4TtYcvIRhg",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagnJgTM1_FGC9D4TtYcvIRhg",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagvXbGucGMuv5D4TtYcvIRhg",
+    "width": 1920
+   }
+  ],
+  "backdropImage": [
+   {
+    "url": "https://gfx.nrk.no/9ByA7VE4v13ZVV64bDCXtAw58ojuLspYDDWlSEIMamFQ",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/9ByA7VE4v13ZVV64bDCXtArgUMVCzYkHzDWlSEIMamFQ",
+    "width": 1920
+   }
+  ],
+  "logoImage": [
+   {
+    "url": "https://gfx.nrk.no/-5fHK47BMpc-FU2pXvO2GARJD1869G2FUIBHoKsMb_Bg",
+    "width": 300,
+    "height": 47
+   },
+   {
+    "url": "https://gfx.nrk.no/-5fHK47BMpc-FU2pXvO2GAfC2irwxxlZwIBHoKsMb_Bg",
+    "width": 960,
+    "height": 151
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/series/dagsrevyen"
+  },
+  "seasons": [
+   {
+    "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+    "name": "202610",
+    "title": "Oktober 2026"
+   },
+   {
+    "href": "/tv/catalog/series/dagsrevyen/seasons/202609",
+    "name": "202609",
+    "title": "September 2026"
+   },
+   {
+    "href": "/tv/catalog/series/dagsrevyen/seasons/202608",
+    "name": "202608",
+    "title": "August 2026"
+   }
+  ],
+  "instalments": {
+   "href": "/tv/catalog/series/dagsrevyen/instalments"
+  }
+ },
+ "_embedded": {
+  "instalments": {
+   "_links": {
+    "self": {
+     "href": "/tv/catalog/series/dagsrevyen/instalments?page=202609&pageSize=52"
+    },
+    "next": {
+     "href": "/tv/catalog/series/dagsrevyen/instalments?page=202608&pageSize=52"
+    },
+    "prev": {
+     "href": "/tv/catalog/series/dagsrevyen/instalments?page=202610&pageSize=52"
+    }
+   },
+   "_embedded": {
+    "instalments": [
+     {
+      "id": "218b8e6ab9c0243cf61f6af0986d8400",
+      "prfId": "NNFA19102226",
+      "titles": {
+       "title": "I dag",
+       "subtitle": "Siste nytt fra NRKs nyhetsredaksjon med sport og vær."
+      },
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagQCpvSYI44t9D4TtYcvIRhg",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagnJgTM1_FGC9D4TtYcvIRhg",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagvXbGucGMuv5D4TtYcvIRhg",
+        "width": 1920
+       }
+      ],
+      "duration": "PT44M",
+      "durationInSeconds": 2640,
+      "usageRights": {
+       "from": {
+        "date": "2026-10-22T18:59:50+02:00",
+        "displayValue": "22. oktober 2026 kl. 18:59"
+       },
+       "to": {
+        "date": "2100-01-01T19:00:00+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": false,
+        "displayValue": "Verden"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2026-10-22T18:59:50+02:00",
+      "productionYear": 2026,
+      "availability": {
+       "status": "coming",
+       "label": "Kommer i dag",
+       "hasLabel": true
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/NNFA19102226"
+       },
+       "season": {
+        "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+        "name": "202610",
+        "title": "Oktober 2026"
+       }
+      },
+      "_embedded": {}
+     },
+     {
+      "id": "86a710755f5c5039c8057a4f71f7c82b",
+      "prfId": "NNFA19102126",
+      "titles": {
+       "title": "I går · Orienterte Støre",
+       "subtitle": "Spesialutsending Steve Witkoff dro rett til Gardermoen for å informere Støre etter sitt møte med Putin i St. Petersburg."
+      },
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4A6zrr0UgiDn44TMy0zVUu1g",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AfukNWGqHKIY4TMy0zVUu1g",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AzVyO7Aj2AXg4TMy0zVUu1g",
+        "width": 1920
+       }
+      ],
+      "duration": "PT44M20.96S",
+      "durationInSeconds": 2661,
+      "usageRights": {
+       "from": {
+        "date": "2026-10-21T18:59:51+02:00",
+        "displayValue": "21. oktober 2026 kl. 18:59"
+       },
+       "to": {
+        "date": "2100-01-01T19:00:00+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": false,
+        "displayValue": "Verden"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2026-10-21T18:59:51+02:00",
+      "productionYear": 2026,
+      "availability": {
+       "status": "available",
+       "label": null,
+       "hasLabel": false
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/NNFA19102126"
+       },
+       "season": {
+        "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+        "name": "202610",
+        "title": "Oktober 2026"
+       }
+      },
+      "_embedded": {}
+     },
+     {
+      "id": "b6f866ec3855390d5cc94d8894f154de",
+      "prfId": "NNFA19102026",
+      "titles": {
+       "title": "Tirsdag · Møtes i Oslo",
+       "subtitle": "Hva kan et møte mellom Zelenskyj, Witkoff, Stubb og Støre i Oslo i kveld føre til?"
+      },
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXw8b3Iai0wRNIJSV227tXKvw",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXwaqWoFP4Tt0QJSV227tXKvw",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXwE9PApygb71UJSV227tXKvw",
+        "width": 1920
+       }
+      ],
+      "duration": "PT59M2.88S",
+      "durationInSeconds": 3543,
+      "usageRights": {
+       "from": {
+        "date": "2026-10-20T18:59:53+02:00",
+        "displayValue": "20. oktober 2026 kl. 18:59"
+       },
+       "to": {
+        "date": "2100-01-01T19:00:00+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": false,
+        "displayValue": "Verden"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2026-10-20T18:59:53+02:00",
+      "productionYear": 2026,
+      "availability": {
+       "status": "available",
+       "label": null,
+       "hasLabel": false
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/NNFA19102026"
+       },
+       "season": {
+        "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+        "name": "202610",
+        "title": "Oktober 2026"
+       }
+      },
+      "_embedded": {}
+     }
+    ]
+   },
+   "seriesType": "news",
+   "seasonType": "latest"
+  },
+  "seasons": [
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "titles": {
+     "title": "Oktober 2026",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202609",
+      "name": "202609",
+      "title": "September 2026"
+     }
+    },
+    "titles": {
+     "title": "September 2026",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202608",
+      "name": "202608",
+      "title": "August 2026"
+     }
+    },
+    "titles": {
+     "title": "August 2026",
+     "subtitle": null
+    }
+   }
+  ]
+ },
+ "seriesType": "news"
+}

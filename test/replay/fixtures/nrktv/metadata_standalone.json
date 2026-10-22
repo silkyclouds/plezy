@@ -1,0 +1,31 @@
+{
+ "id": "OFAA21000105",
+ "playability": "playable",
+ "duration": "PT29M1.44S",
+ "legalAge": {
+  "legalReference": "LOV2015-02-06-7",
+  "body": {
+   "status": "rated",
+   "rating": {
+    "code": "A",
+    "displayAge": "A",
+    "displayValue": "Tillatt for alle"
+   }
+  }
+ },
+ "preplay": {
+  "titles": {
+   "title": "Været i Norge 2005",
+   "subtitle": "Vær-rekordene har sittet løst dette året. Harald Reitan tar oss med på en reise gjennom året, med været som var."
+  },
+  "description": "Vær-rekordene har sittet løst dette året. Harald Reitan tar oss med på en reise gjennom året, med været som var."
+ },
+ "skipDialogInfo": {
+  "startIntroInSeconds": 0,
+  "endIntroInSeconds": 0,
+  "startCreditsInSeconds": 1731,
+  "startIntro": "PT0S",
+  "endIntro": "PT0S",
+  "startCredits": "PT28M51S"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "programInformation": {
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZgYMp-3cBeEavX-UTtr5CvKA",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZg-okNWImiZvfX-UTtr5CvKA",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZgNPZPA8qZnazX-UTtr5CvKA",
+    "width": 1920
+   }
+  ],
+  "titles": {
+   "title": "28. Babblarnas julevise",
+   "subtitle": ""
+  },
+  "availability": {
+   "status": "available",
+   "label": null,
+   "hasLabel": false
+  }
+ },
+ "moreInformation": {
+  "category": {
+   "id": "barn",
+   "displayValue": "Barn"
+  },
+  "legalAge": {
+   "body": {
+    "rating": {
+     "code": "A",
+     "displayValue": "Tillatt for alle",
+     "displayAge": "A"
+    },
+    "status": "rated"
+   },
+   "legalReference": "LOV2015-02-06-7"
+  },
+  "usageRights": {
+   "from": {
+    "date": "2026-01-01T00:01:00+01:00",
+    "displayValue": "1. januar 2026 kl. 00:01"
+   },
+   "to": {
+    "date": "2029-02-28T23:59:59+01:00",
+    "displayValue": "28. februar 2029 kl. 23:59"
+   },
+   "geoBlock": {
+    "isGeoBlocked": true,
+    "displayValue": "Norge"
+   },
+   "offline": false
+  },
+  "releaseDateOnDemand": "2021-12-22T01:00:00+01:00",
+  "productionYear": 2021,
+  "duration": {
+   "seconds": 196,
+   "iso8601": "PT3M15.96S",
+   "displayValue": "3 min"
+  },
+  "originalTitle": "Babblarnas julevise"
+ },
+ "contributors": [],
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/programs/MSUI42006021"
+  },
+  "seriesPage": {
+   "href": "/tv/catalog/series/babblarna",
+   "name": "sequential",
+   "title": "Babblarna"
+  },
+  "season": {
+   "href": "/tv/catalog/series/babblarna/seasons/5",
+   "name": "5",
+   "title": "Sesong 5"
+  }
+ },
+ "_embedded": {}
+}

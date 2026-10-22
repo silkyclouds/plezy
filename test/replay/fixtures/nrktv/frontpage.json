@@ -1,0 +1,712 @@
+{
+ "publishedTime": "2026-10-22T05:45:10.9793481Z",
+ "id": "forside-gjest",
+ "title": "Forsiden",
+ "description": "",
+ "preferredManifest": "default",
+ "image": {
+  "id": "7jgfXIz7sC-NE3VbTZl1fg",
+  "webImages": [
+   {
+    "uri": "https://gfx.nrk.no/7jgfXIz7sC-NE3VbTZl1fgyOLT-50nPVuIC8MOHSuQAQ",
+    "width": 300
+   },
+   {
+    "uri": "https://gfx.nrk.no/7jgfXIz7sC-NE3VbTZl1fggIqxn5Uv7rmIC8MOHSuQAQ",
+    "width": 960
+   },
+   {
+    "uri": "https://gfx.nrk.no/7jgfXIz7sC-NE3VbTZl1fg-BE6yT0wb7-IC8MOHSuQAQ",
+    "width": 1920
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "c9a5619c-5248-4c67-8068-550a75287b1c",
+   "type": "included",
+   "included": {
+    "title": "Anbefalt",
+    "count": 13,
+    "displayContract": "multiHero",
+    "plugs": [
+     {
+      "id": "3e00a02d-c157-4583-a032-3eda02bc26d1",
+      "targetType": "series",
+      "displayContractContent": {
+       "logoImage": [
+        {
+         "uri": "https://gfx.nrk.no/VBR6Iag3jleISdhj4mTdHwa2HJRq9WbBRcdURv5GzLSQ",
+         "width": 300,
+         "height": 124
+        },
+        {
+         "uri": "https://gfx.nrk.no/VBR6Iag3jleISdhj4mTdHwvRMnq21Ypz5cdURv5GzLSQ",
+         "width": 960,
+         "height": 398
+        }
+       ],
+       "contentTitle": "Ville fristelser",
+       "description": "Et hotellopphold koster gruppa dyrt, og Frida mister tålmodigheten med Britta. Nate deler gruppa i to og sender dem på hver sin reise.",
+       "displayContractImage": {
+        "id": "dmUHW5xwpHP_1MjVnR_fpw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/dmUHW5xwpHP_1MjVnR_fpwrLf3gk5kaGFpWAx23bWcHg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/dmUHW5xwpHP_1MjVnR_fpwfxYBsLjQov1pWAx23bWcHg",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/dmUHW5xwpHP_1MjVnR_fpwHAvkKIAiWVhpWAx23bWcHg",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "ville-fristelser",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/ville-fristelser"
+        }
+       }
+      }
+     },
+     {
+      "id": "a50c12f2-3ddf-453c-bf64-e49a79cb13c7",
+      "targetType": "liveChannelProgram",
+      "displayContractContent": {
+       "logoImage": [
+        {
+         "uri": "https://gfx.nrk.no/dnHm64mS-6P3pWQUV5aQiQcR72ky25YqLag38uv3fwug",
+         "width": 300,
+         "height": 40
+        },
+        {
+         "uri": "https://gfx.nrk.no/dnHm64mS-6P3pWQUV5aQiQQ5-f7VR5ynLag38uv3fwug",
+         "width": 960,
+         "height": 128
+        }
+       ],
+       "contentTitle": "Parkinsons kobles til sprøytemidler",
+       "description": "Vanligere i Midt-Norge enn andre steder.",
+       "displayContractImage": {
+        "id": "tEbpwVMYxwAmThXNxliVOg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/tEbpwVMYxwAmThXNxliVOgzeixV5gkYORFvHx9rATDwA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/tEbpwVMYxwAmThXNxliVOgQXfsVK5HvVJFvHx9rATDwA",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/tEbpwVMYxwAmThXNxliVOgMwkYv2ehMtVFvHx9rATDwA",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "liveChannelProgram": {
+       "plannedProgramStartTime": "2026-10-22T04:30:00Z",
+       "plannedProgramEndTime": "2026-10-22T07:00:00Z",
+       "programDuration": "PT2H30M",
+       "activatePlugBeforeSeconds": 600,
+       "channelId": "nrk1",
+       "episodeTitle": "Nyhetsmorgen - TV",
+       "_links": {
+        "playbackMetadata": {
+         "href": "/playback/metadata/channel/nrk1"
+        },
+        "self": {
+         "href": "/playback/metadata/channel/nrk1"
+        }
+       }
+      }
+     },
+     {
+      "id": "c4d9d5de-37f1-475a-88ad-313871120d4a",
+      "targetType": "episode",
+      "displayContractContent": {
+       "logoImage": [
+        {
+         "uri": "https://gfx.nrk.no/ytLwgjQJSHla9B_CYAETjgOSrVm2xaIUDycO6D2ekBww",
+         "width": 300,
+         "height": 432
+        },
+        {
+         "uri": "https://gfx.nrk.no/ytLwgjQJSHla9B_CYAETjgHpsNfeKIC9rycO6D2ekBww",
+         "width": 960,
+         "height": 1381
+        }
+       ],
+       "contentTitle": "Kriminalitet er ikke kult",
+       "description": "Knask eller knep med Vedum, hjelpelinjen for «Skal vi danse»-kjærester, Tim Kristians fjernsynsteater og Pernille Sørensen som ukens gjest.",
+       "displayContractImage": {
+        "id": "t6yuF8HoKkRS9Qa3ATnXDg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/t6yuF8HoKkRS9Qa3ATnXDgBNyF2IgTNFEsyciETmKvkw",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/t6yuF8HoKkRS9Qa3ATnXDgqFH8uTm2iOwsyciETmKvkw",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/t6yuF8HoKkRS9Qa3ATnXDgaj0-FhYFq7MsyciETmKvkw",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "episode": {
+       "duration": "PT26M22.84S",
+       "legalAge": {
+        "id": "9",
+        "displayValue": "9+",
+        "displayAge": "Anbefalt de over 9 år"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "IUFH21002726",
+       "seriesId": "humoretaten",
+       "seasonId": "4",
+       "episodeTitle": "Humoretaten",
+       "_links": {
+        "series": {
+         "href": "/series/humoretaten"
+        },
+        "season": {
+         "href": "/series/humoretaten/seasons/4/episodes"
+        },
+        "self": {
+         "href": "/programs/IUFH21002726"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "4f480e45-2224-4e0e-bd8f-441e41161874",
+   "type": "included",
+   "included": {
+    "title": "Nytt og aktuelt",
+    "count": 15,
+    "displayContract": "landscape",
+    "plugs": [
+     {
+      "id": "d3e53df0-cc67-11f1-a55e-21ee1a4f1347",
+      "targetType": "episode",
+      "displayContractContent": {
+       "contentTitle": "Yama utfordrer Iran",
+       "description": "Iranske styrker kommer til å angripe naboland over hele Midtøsten dersom Trump starter en ny krig mot Iran, sier Irans ambassadør til Norge.",
+       "displayContractImage": {
+        "id": "hvY_wjNK3OeiFg3ldGu4UA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UA2Q1VmylIkeZikb-brBz4pg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAI0Btk2LaNclikb-brBz4pg",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAsh8Pj6v10dpikb-brBz4pg",
+          "width": 1920
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "hvY_wjNK3OeiFg3ldGu4UA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UA2Q1VmylIkeZikb-brBz4pg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAI0Btk2LaNclikb-brBz4pg",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAsh8Pj6v10dpikb-brBz4pg",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "episode": {
+       "duration": "PT27M59.52S",
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "NNFA54000426",
+       "seriesId": "yama-utfordrer",
+       "seasonId": "2026",
+       "_links": {
+        "series": {
+         "href": "/series/yama-utfordrer"
+        },
+        "season": {
+         "href": "/series/yama-utfordrer/seasons/2026/episodes"
+        },
+        "self": {
+         "href": "/programs/NNFA54000426"
+        }
+       }
+      }
+     },
+     {
+      "id": "1464dfbe-c3e1-469a-ac5f-99a9ddfd31d0",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "De arktiske reddere",
+       "description": "Bli med heltene ved helikopterbasen i Kangerlussuaq på ekstreme redningsoppdrag i Grønlands nådeløse natur.",
+       "fallbackImage": {
+        "id": "PmMY1g6dUH4BRY40qRH3vw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwp6iW48FwjVOGC6PfFnrkIQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vw6nhs6bJoJtqGC6PfFnrkIQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwybV4hwnOSeWGC6PfFnrkIQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "de-arktiske-reddere",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/de-arktiske-reddere"
+        }
+       }
+      }
+     },
+     {
+      "id": "842a71c0-bfc6-11f1-a9fb-47065951dec2",
+      "targetType": "standaloneProgram",
+      "displayContractContent": {
+       "contentTitle": "Undercover i Ku Klux Klan",
+       "description": "Joe er et betrodd KKK-medlem – en «Grand Knighthawk». Men egentlig jobber han for FBI og kjemper desperat for å forhindre lynsjingen av en ung mann.",
+       "displayContractImage": {
+        "id": "Ej1XdNNguvK7ybKOPf68Uw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwq1WJTce7yza9QCvQeHWP7Q",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwl33c03Wa6r-9QCvQeHWP7Q",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwnz5BG0faLaG9QCvQeHWP7Q",
+          "width": 1920
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "Ej1XdNNguvK7ybKOPf68Uw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwq1WJTce7yza9QCvQeHWP7Q",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwl33c03Wa6r-9QCvQeHWP7Q",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/Ej1XdNNguvK7ybKOPf68Uwnz5BG0faLaG9QCvQeHWP7Q",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "standaloneProgram": {
+       "duration": "PT1H15M50S",
+       "legalAge": {
+        "id": "9",
+        "displayValue": "9+",
+        "displayAge": "Anbefalt de over 9 år"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID22007225",
+       "_links": {
+        "self": {
+         "href": "/programs/KOID22007225"
+        }
+       }
+      }
+     },
+     {
+      "id": "1464dfbe-c3e1-469a-ac5f-99a9ddfd31d0",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "De arktiske reddere",
+       "description": "Bli med heltene ved helikopterbasen i Kangerlussuaq på ekstreme redningsoppdrag i Grønlands nådeløse natur.",
+       "fallbackImage": {
+        "id": "PmMY1g6dUH4BRY40qRH3vw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwp6iW48FwjVOGC6PfFnrkIQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vw6nhs6bJoJtqGC6PfFnrkIQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwybV4hwnOSeWGC6PfFnrkIQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "de-arktiske-reddere",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/de-arktiske-reddere"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "da04fa5b-5aa9-427d-a072-1ea6642fd103",
+   "type": "placeholder",
+   "placeholder": {
+    "type": "favourites"
+   }
+  },
+  {
+   "id": "a2c4bb4b-177f-406c-9a01-c72dc5bc3e59",
+   "type": "included",
+   "included": {
+    "title": "Serieavhengig? Logg deg på for flere anbefalinger",
+    "count": 5,
+    "displayContract": "simple",
+    "plugs": [
+     {
+      "id": "1a7d5d80-9a2f-11f1-abfe-49849aed32b7",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "LIS",
+       "description": "Petra og de andre unge LIS-legene møter nye utfordringer. Men med mer erfaring følger større ansvar, høyere forventninger og færre unnskyldninger.",
+       "displayContractImage": {
+        "id": "iQ5DxUuaAokbTRQSW19VnA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/iQ5DxUuaAokbTRQSW19VnAiBQmFdObVZ2T8xiFnnL1hA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/iQ5DxUuaAokbTRQSW19VnAd-V87KbKOsGT8xiFnnL1hA",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/iQ5DxUuaAokbTRQSW19VnAT6vEqP_SObuT8xiFnnL1hA",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "lis",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/lis"
+        }
+       }
+      }
+     },
+     {
+      "id": "563f53b0-b66c-11f1-b097-813b45f3bae9",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "Ludwig",
+       "description": "Søket etter tvillingbroren til John «Ludwig» Taylor fortsetter. John trenger ikke late som han er broren sin lenger, men en ny fare truer.",
+       "displayContractImage": {
+        "id": "x6abd1QpQ2QsIk0-x_lojg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/x6abd1QpQ2QsIk0-x_lojgdnCDM9JlzZMt6Dnt_HgbaQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/x6abd1QpQ2QsIk0-x_lojg2pG32sr2Rpwt6Dnt_HgbaQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/x6abd1QpQ2QsIk0-x_lojgc1Y7AaDJYC8t6Dnt_HgbaQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "ludwig",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/ludwig"
+        }
+       }
+      }
+     },
+     {
+      "id": "0a152680-d6e0-4dc1-a4d8-0f3b9ba918d6",
+      "targetType": "page",
+      "displayContractContent": {
+       "contentTitle": "Se mer for barn",
+       "description": "",
+       "displayContractImage": {
+        "id": "XOU0cNNq_9ONN_Hh1XWtuA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/XOU0cNNq_9ONN_Hh1XWtuAJKUEE6IIHXXhRO4IbzP25A",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/XOU0cNNq_9ONN_Hh1XWtuAZCcyBetMlgvhRO4IbzP25A",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/XOU0cNNq_9ONN_Hh1XWtuACwCxtAkuQnThRO4IbzP25A",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "page": {
+       "pageId": "barn",
+       "_links": {
+        "self": {
+         "href": "/tv/pages/barn"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "6095b755-65a0-4463-a3a4-e386a08d8c83",
+   "type": "included",
+   "included": {
+    "title": "",
+    "count": 1,
+    "displayContract": "inlineHero",
+    "plugs": [
+     {
+      "id": "6ddb1f8e-ab0e-463f-b42a-b13d8b5fa352",
+      "targetType": "series",
+      "displayContractContent": {
+       "tagline": "Starter lørdag",
+       "hideTitle": true,
+       "contentTitle": "Maskorama",
+       "description": "Nye gåter skal løses. Hvilke kjendiser skjuler identiteten lengst mens hele Norge jakter på avsløringen?",
+       "displayContractImage": {
+        "id": "khe9CTETMxRmLJzNdx5oqg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/khe9CTETMxRmLJzNdx5oqg98sPPsvOxNgxFsXWwFfOKQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/khe9CTETMxRmLJzNdx5oqg-cP8riuCemgxFsXWwFfOKQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/khe9CTETMxRmLJzNdx5oqg511dmeiYKa8xFsXWwFfOKQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "maskorama",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/maskorama"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "50cb3493-a05c-4f82-85d7-ca8b9e115f1a",
+   "type": "included",
+   "included": {
+    "title": "Mest sett ",
+    "count": 10,
+    "displayContract": "portraitLogo",
+    "plugs": [
+     {
+      "id": "266ac550-bb2d-11f1-84d9-73f33b88aaf7",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "LIS",
+       "description": "Petra og de andre unge LIS-legene møter nye utfordringer. Men med mer erfaring følger større ansvar, høyere forventninger og færre unnskyldninger.",
+       "displayContractImage": {
+        "id": "Vgvhl0IJrELyiDoo6cSNPQ",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Vgvhl0IJrELyiDoo6cSNPQ1F6_07xckZjy-ENbHiPe3A",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Vgvhl0IJrELyiDoo6cSNPQYLiCBjV4mXry-ENbHiPe3A",
+          "width": 960
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "lis",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/lis"
+        }
+       }
+      }
+     },
+     {
+      "id": "7b5ba4a0-9fb0-11f1-999a-df3ca5cf56a6",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "Norges tøffeste",
+       "description": "Hva betyr det å være tøff? Jørgine og Isak setter tolv unge mennesker på prøve, fysisk og mentalt. De har kun hverandre å støtte seg på.",
+       "displayContractImage": {
+        "id": "-OCLnd1cnQAAMfubs6jYJA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/-OCLnd1cnQAAMfubs6jYJAvwnq_VjYrVGSZ5cGzdLb8A",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/-OCLnd1cnQAAMfubs6jYJA_RITasyGFS2SZ5cGzdLb8A",
+          "width": 960
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "norges-toeffeste",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/norges-toeffeste"
+        }
+       }
+      }
+     },
+     {
+      "id": "e1403970-a52d-11f1-842d-11cbc41616b9",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "Mesternes mester team",
+       "description": "Aksel Lund Svindal har med seg 12 deltakere som skal konkurrere mot hverandre i lag. I kjent stil blir samarbeid, taktikk og fysisk styrke testet.",
+       "displayContractImage": {
+        "id": "Cp8pY-CqzDfWXSBOQze9cg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Cp8pY-CqzDfWXSBOQze9cgVoLSxPRPIFElPXdmW6IWYg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Cp8pY-CqzDfWXSBOQze9cgLUgkC3GcFYMlPXdmW6IWYg",
+          "width": 960
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "mesternes-mester-team",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/mesternes-mester-team"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  }
+ ],
+ "displayType": "default",
+ "buttons": [],
+ "hideCategoryOverview": false,
+ "hideTitle": true,
+ "_links": {
+  "self": {
+   "href": "/tv/pages/frontpage"
+  }
+ }
+}

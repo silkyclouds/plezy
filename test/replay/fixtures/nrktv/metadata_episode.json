@@ -1,0 +1,28 @@
+{
+ "id": "MSUI42006021",
+ "playability": "nonPlayable",
+ "duration": "PT3M15.91S",
+ "series": {
+  "id": "babblarna",
+  "seasonId": "5"
+ },
+ "legalAge": {
+  "legalReference": "LOV2015-02-06-7",
+  "body": {
+   "status": "rated",
+   "rating": {
+    "code": "A",
+    "displayAge": "A",
+    "displayValue": "Tillatt for alle"
+   }
+  }
+ },
+ "preplay": {
+  "titles": {
+   "title": "Babblarna",
+   "subtitle": "28. Babblarnas julevise"
+  },
+  "description": ""
+ },
+ "skipDialogInfo": null
+}

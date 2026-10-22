@@ -1,0 +1,477 @@
+{
+ "publishedTime": "2026-10-22T05:25:11.9193259Z",
+ "id": "dokumentar",
+ "title": "Dokumentar",
+ "description": "",
+ "preferredManifest": "default",
+ "image": {
+  "id": "VkXjYTYRsdVp1YFE-PrNzA",
+  "webImages": [
+   {
+    "uri": "https://gfx.nrk.no/VkXjYTYRsdVp1YFE-PrNzA5mCxmbkNgUBvcMZQwdz_7w",
+    "width": 300
+   },
+   {
+    "uri": "https://gfx.nrk.no/VkXjYTYRsdVp1YFE-PrNzAqZCx2Fgn3lFvcMZQwdz_7w",
+    "width": 960
+   },
+   {
+    "uri": "https://gfx.nrk.no/VkXjYTYRsdVp1YFE-PrNzAN5z732JQjN1vcMZQwdz_7w",
+    "width": 1920
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "cb09b3ac-12b9-4553-a14f-0465f8184e2d",
+   "type": "included",
+   "included": {
+    "title": "",
+    "count": 1,
+    "displayContract": "inlineHero",
+    "plugs": [
+     {
+      "id": "fbc46b0a-98bb-461f-8e58-aa00a9801e17",
+      "targetType": "episode",
+      "displayContractContent": {
+       "hideTitle": false,
+       "contentTitle": "Yama utfordrer Iran",
+       "description": "Iranske styrker kommer til å angripe naboland over hele Midtøsten dersom Trump starter en ny krig mot Iran, sier Irans ambassadør til Norge.",
+       "displayContractImage": {
+        "id": "hvY_wjNK3OeiFg3ldGu4UA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UA2Q1VmylIkeZikb-brBz4pg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAI0Btk2LaNclikb-brBz4pg",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAsh8Pj6v10dpikb-brBz4pg",
+          "width": 1920
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "hvY_wjNK3OeiFg3ldGu4UA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UA2Q1VmylIkeZikb-brBz4pg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAI0Btk2LaNclikb-brBz4pg",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/hvY_wjNK3OeiFg3ldGu4UAsh8Pj6v10dpikb-brBz4pg",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "episode": {
+       "duration": "PT27M59.52S",
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "NNFA54000426",
+       "seriesId": "yama-utfordrer",
+       "seasonId": "2026",
+       "_links": {
+        "series": {
+         "href": "/series/yama-utfordrer"
+        },
+        "season": {
+         "href": "/series/yama-utfordrer/seasons/2026/episodes"
+        },
+        "self": {
+         "href": "/programs/NNFA54000426"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "3e8ca97b-bb8e-11ee-a147-b5141bb3ae57",
+   "type": "included",
+   "included": {
+    "title": "Nytt og aktuelt",
+    "count": 73,
+    "displayContract": "portraitLogo",
+    "plugs": [
+     {
+      "id": "e69c372e-1eba-4607-90d6-66b2fda8dcd2",
+      "targetType": "standaloneProgram",
+      "displayContractContent": {
+       "contentTitle": "Muldvarpen og kokainkonteineren",
+       "description": "En stødig og pålitelig vekter – eller kjøpt og betalt av Foxtrot-nettverket? Jakten på utro tjenere fører til et historisk stort kokainbeslag.",
+       "displayContractImage": {
+        "id": "E4rEBfX5ZkYQ-mnzQ_iw7A",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/E4rEBfX5ZkYQ-mnzQ_iw7AVrAzzkBsl619GTDnT_BSeg",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/E4rEBfX5ZkYQ-mnzQ_iw7AP3LSl70INMt9GTDnT_BSeg",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "G1ttoBNlTF8hUS-4iAPZXw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/G1ttoBNlTF8hUS-4iAPZXwAzhGWWxgyD12McUaz4Y3DA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/G1ttoBNlTF8hUS-4iAPZXw9jQqK-Qakrp2McUaz4Y3DA",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/G1ttoBNlTF8hUS-4iAPZXw1yqxTnAMITR2McUaz4Y3DA",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "standaloneProgram": {
+       "duration": "PT58M14.72S",
+       "legalAge": {
+        "id": "9",
+        "displayValue": "9+",
+        "displayAge": "Anbefalt de over 9 år"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID31009826",
+       "_links": {
+        "self": {
+         "href": "/programs/KOID31009826"
+        }
+       }
+      }
+     },
+     {
+      "id": "36852d30-cb91-11f1-9f84-7b1da94bd019",
+      "targetType": "series",
+      "displayContractContent": {
+       "contentTitle": "De arktiske reddere",
+       "description": "Bli med heltene ved helikopterbasen i Kangerlussuaq på ekstreme redningsoppdrag i Grønlands nådeløse natur.",
+       "displayContractImage": {
+        "id": "1ugKcLFlUDp2-f-FgpFv4g",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/1ugKcLFlUDp2-f-FgpFv4gwCCYQJlumjQMdE0czoAH9Q",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/1ugKcLFlUDp2-f-FgpFv4gtBla3nSptuMMdE0czoAH9Q",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "PmMY1g6dUH4BRY40qRH3vw",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwp6iW48FwjVOGC6PfFnrkIQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vw6nhs6bJoJtqGC6PfFnrkIQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/PmMY1g6dUH4BRY40qRH3vwybV4hwnOSeWGC6PfFnrkIQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "series": {
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "seriesId": "de-arktiske-reddere",
+       "seriesType": "sequential",
+       "_links": {
+        "self": {
+         "href": "/series/de-arktiske-reddere"
+        }
+       }
+      }
+     },
+     {
+      "id": "3e81c590-bf01-11f0-bf53-0f885856dda3",
+      "targetType": "episode",
+      "displayContractContent": {
+       "contentTitle": "Stacey Dooley overnatter: Ekstrem porno: Lily Phillips",
+       "description": "23 år gamle Lily sjokkerer med stadig mer ekstreme sex-stunt. Stacey får være vitne til ett av dem. Hva får Lily ut av det, og hva koster det?",
+       "displayContractImage": {
+        "id": "Negz_AQcKu3nIzb9fzRZvg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Negz_AQcKu3nIzb9fzRZvge_HU2XkASDhLphI_ZdaklA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Negz_AQcKu3nIzb9fzRZvgNBsxU3k1Vk5LphI_ZdaklA",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "yWdw0c3Kd-Z_CkrhLAOByg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/yWdw0c3Kd-Z_CkrhLAOByglkbUOLYHQ11UVpNvvYN6WQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/yWdw0c3Kd-Z_CkrhLAOBygT4c8a5RZeHdUVpNvvYN6WQ",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/yWdw0c3Kd-Z_CkrhLAOBygMdrVBxZZ8sBUVpNvvYN6WQ",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "episode": {
+       "duration": "PT43M39.76S",
+       "legalAge": {
+        "id": "12",
+        "displayValue": "12+",
+        "displayAge": "Anbefalt de over 12 år"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID21000625",
+       "seriesId": "stacey-dooley-overnatter",
+       "seasonId": "6",
+       "_links": {
+        "series": {
+         "href": "/series/stacey-dooley-overnatter"
+        },
+        "season": {
+         "href": "/series/stacey-dooley-overnatter/seasons/6/episodes"
+        },
+        "self": {
+         "href": "/programs/KOID21000625"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  },
+  {
+   "id": "49d6c8a9-8715-4fe6-9d8a-6ead140e7da3",
+   "type": "included",
+   "included": {
+    "title": "Norske dokumentarfilmer",
+    "count": 39,
+    "displayContract": "portraitLogo",
+    "plugs": [
+     {
+      "id": "90f6ddd0-52fc-11f1-a5c7-73f5330d9a35",
+      "targetType": "standaloneProgram",
+      "displayContractContent": {
+       "contentTitle": "Henden – rekviem for en fotograf",
+       "description": "Krigsfotograf Harald Henden har ofret mye for å dokumentere andres lidelse. Nå har han fått uhelbredelig kreft og må konfrontere sin egen dødelighet.",
+       "displayContractImage": {
+        "id": "vn0YbBz_df5vkunUgMBzuA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/vn0YbBz_df5vkunUgMBzuApsZ0dX0lzfybcD9-7eQxvQ",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/vn0YbBz_df5vkunUgMBzuAA1_wZ7vFMFabcD9-7eQxvQ",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "al5sYmH05d4xXui1tnVxlA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/al5sYmH05d4xXui1tnVxlAn9LIJyVigiuQAlMSg9fu4Q",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/al5sYmH05d4xXui1tnVxlARqJ9sQ1aosKQAlMSg9fu4Q",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/al5sYmH05d4xXui1tnVxlAczqi5V_XDjGQAlMSg9fu4Q",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "standaloneProgram": {
+       "duration": "PT1H19M4.08S",
+       "legalAge": {
+        "id": "12",
+        "displayValue": "12+",
+        "displayAge": "Anbefalt de over 12 år"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID28001424",
+       "_links": {
+        "self": {
+         "href": "/programs/KOID28001424"
+        }
+       }
+      }
+     },
+     {
+      "id": "3491cfd0-83f6-11f0-87cb-517a0caea116",
+      "targetType": "standaloneProgram",
+      "displayContractContent": {
+       "contentTitle": "Fedrelandet",
+       "description": "Margreth Olin følgde faren sin på tur gjennom eitt år. Det vart til ei varm og majestetisk kjærleikserklæring til natur, barndomsheim og foreldre.",
+       "displayContractImage": {
+        "id": "Y7B7xerGhL3O2NGB3pHRjA",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/Y7B7xerGhL3O2NGB3pHRjANkWRonw6a5uZJE5BO5A-3w",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/Y7B7xerGhL3O2NGB3pHRjAwOq8-2KOn26ZJE5BO5A-3w",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "NIJnzs9WCVi7S2-CClK2Bg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/NIJnzs9WCVi7S2-CClK2Bg2DioeyurOVhTSgMDn2OacA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/NIJnzs9WCVi7S2-CClK2Bg8DPfujJOwyRTSgMDn2OacA",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/NIJnzs9WCVi7S2-CClK2BgIdcGRZGO1Z9TSgMDn2OacA",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "standaloneProgram": {
+       "duration": "PT1H30M30.28S",
+       "legalAge": {
+        "id": "A",
+        "displayValue": "A",
+        "displayAge": "Tillatt for alle"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID75000121",
+       "_links": {
+        "self": {
+         "href": "/programs/KOID75000121"
+        }
+       }
+      }
+     },
+     {
+      "id": "7b77d610-83f6-11f0-87cb-517a0caea116",
+      "targetType": "standaloneProgram",
+      "displayContractContent": {
+       "contentTitle": "Skal hilse fra naturen",
+       "description": "Med spektakulære bilder forteller naturfilmfotografen Asgeir Helgestad en personlig historie om den utrolige naturen vi har rundt oss.",
+       "displayContractImage": {
+        "id": "pc5nP6IRTeUclDJ9eRbV_A",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/pc5nP6IRTeUclDJ9eRbV_AmoXIj8vrss9uTpzJ6LVaWw",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/pc5nP6IRTeUclDJ9eRbV_A9d1_-nLNQGZuTpzJ6LVaWw",
+          "width": 960
+         }
+        ]
+       },
+       "fallbackImage": {
+        "id": "8kOEjHtFm4RgDCS1M6lWQg",
+        "webImages": [
+         {
+          "uri": "https://gfx.nrk.no/8kOEjHtFm4RgDCS1M6lWQglJ70V3Ujq5sd18VINJ1-pA",
+          "width": 300
+         },
+         {
+          "uri": "https://gfx.nrk.no/8kOEjHtFm4RgDCS1M6lWQgGJJW0vGP8s4d18VINJ1-pA",
+          "width": 960
+         },
+         {
+          "uri": "https://gfx.nrk.no/8kOEjHtFm4RgDCS1M6lWQg40oqon5FZPId18VINJ1-pA",
+          "width": 1920
+         }
+        ]
+       }
+      },
+      "standaloneProgram": {
+       "duration": "PT1H21M12.28S",
+       "legalAge": {
+        "id": "A",
+        "displayValue": "A",
+        "displayAge": "Tillatt for alle"
+       },
+       "usageRights": {
+        "isGeoBlocked": false
+       },
+       "programId": "KOID75003322",
+       "_links": {
+        "self": {
+         "href": "/programs/KOID75003322"
+        }
+       }
+      }
+     }
+    ],
+    "hideDescription": false,
+    "plugSize": "medium"
+   }
+  }
+ ],
+ "displayType": "default",
+ "buttons": [
+  {
+   "title": "Krim fra virkeligheten",
+   "pageId": "dokumentar-krim-fra-virkeligheten/underkategori",
+   "url": "/tv/pages/dokumentar-krim-fra-virkeligheten/underkategori",
+   "pageType": "subcategory"
+  }
+ ],
+ "hideCategoryOverview": false,
+ "hideTitle": false,
+ "_links": {
+  "self": {
+   "href": "/tv/pages/dokumentar"
+  }
+ }
+}

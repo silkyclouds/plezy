@@ -1,0 +1,41 @@
+{
+ "_links": {
+  "self": {
+   "href": "/playback/manifest/program/NNFA19102226"
+  },
+  "metadata": {
+   "href": "/playback/metadata/program/NNFA19102226",
+   "name": "metadata"
+  }
+ },
+ "id": "NNFA19102226",
+ "playability": "nonPlayable",
+ "streamingMode": "live",
+ "availability": {
+  "information": "",
+  "isGeoBlocked": false,
+  "onDemand": null,
+  "live": {
+   "type": "transmission",
+   "isOngoing": false,
+   "transmissionInterval": {
+    "from": "2026-10-22T18:59:50+02:00",
+    "to": "2026-10-22T19:45:13.68+02:00"
+   }
+  },
+  "externalEmbeddingAllowed": false
+ },
+ "statistics": "(trimmed)",
+ "playable": null,
+ "nonPlayable": {
+  "reason": "blocked",
+  "messageType": "ProgramRightsHasNotStarted",
+  "endUserMessage": "Kommer i dag kl. 18:59",
+  "endUserMessageSupplement": null,
+  "userAction": null,
+  "helpUrl": "https://info.nrk.no/tv/",
+  "availableAbroadUrl": null
+ },
+ "displayAspectRatio": "16:9",
+ "sourceMedium": "video"
+}

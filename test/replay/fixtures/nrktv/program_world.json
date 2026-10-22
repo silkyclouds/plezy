@@ -1,0 +1,88 @@
+{
+ "programInformation": {
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkw6-A2Ay2KjQG6x5gZEkRQ_Q",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkw_EHdsCfvddK6x5gZEkRQ_Q",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkwzeZrsZZwjYO6x5gZEkRQ_Q",
+    "width": 1920
+   }
+  ],
+  "titles": {
+   "title": "Været i Norge 2005",
+   "subtitle": "Vær-rekordene har sittet løst dette året. Harald Reitan tar oss med på en reise gjennom året, med været som var."
+  },
+  "availability": {
+   "status": "available",
+   "label": null,
+   "hasLabel": false
+  }
+ },
+ "moreInformation": {
+  "category": {
+   "id": "natur",
+   "displayValue": "Natur"
+  },
+  "legalAge": {
+   "body": {
+    "rating": {
+     "code": "A",
+     "displayValue": "Tillatt for alle",
+     "displayAge": "A"
+    },
+    "status": "rated"
+   },
+   "legalReference": "LOV2015-02-06-7"
+  },
+  "usageRights": {
+   "from": {
+    "date": "2023-12-04T06:00:00+01:00",
+    "displayValue": "4. desember 2023 kl. 06:00"
+   },
+   "to": {
+    "date": "2100-01-01T23:59:59+01:00",
+    "displayValue": "Alltid tilgjengelig"
+   },
+   "geoBlock": {
+    "isGeoBlocked": false,
+    "displayValue": "Verden"
+   },
+   "offline": false
+  },
+  "releaseDateOnDemand": "2005-12-25T20:45:00+01:00",
+  "productionYear": 2005,
+  "duration": {
+   "seconds": 1741,
+   "iso8601": "PT29M1.48S",
+   "displayValue": "29 min"
+  },
+  "originalTitle": null
+ },
+ "contributors": [],
+ "backdropImage": [
+  {
+   "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkw6-A2Ay2KjQG6x5gZEkRQ_Q",
+   "width": 300
+  },
+  {
+   "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkw_EHdsCfvddK6x5gZEkRQ_Q",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/JiXdEqoG_iT4Jlaw8jcCkwzeZrsZZwjYO6x5gZEkRQ_Q",
+   "width": 1920
+  }
+ ],
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/programs/OFAA21000105"
+  }
+ },
+ "_embedded": {}
+}

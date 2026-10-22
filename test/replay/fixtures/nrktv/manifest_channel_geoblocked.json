@@ -1,0 +1,48 @@
+{
+ "_links": {
+  "self": {
+   "href": "/playback/manifest/channel/nrk1"
+  },
+  "metadata": {
+   "href": "/playback/metadata/channel/nrk1",
+   "name": "metadata"
+  },
+  "nonPlayablePosterLinks": [
+   {
+    "href": "https://info.nrk.no/tv/",
+    "title": "Les mer på hjelpesidene"
+   },
+   {
+    "href": "https://info.nrk.no/tv/#nrk-tv-i-utlandet",
+    "title": "NRK TV i utlandet"
+   }
+  ]
+ },
+ "id": "nrk1",
+ "playability": "nonPlayable",
+ "streamingMode": "live",
+ "availability": {
+  "information": "",
+  "isGeoBlocked": true,
+  "onDemand": null,
+  "live": {
+   "type": "channel",
+   "isOngoing": true,
+   "transmissionInterval": null
+  },
+  "externalEmbeddingAllowed": true
+ },
+ "statistics": "(trimmed)",
+ "playable": null,
+ "nonPlayable": {
+  "reason": "blocked",
+  "messageType": "ChannelIsGeoblocked",
+  "endUserMessage": "Ikke tilgjengelig utenfor Norge",
+  "endUserMessageSupplement": null,
+  "userAction": null,
+  "helpUrl": "https://info.nrk.no/tv/#nrk-tv-i-utlandet",
+  "availableAbroadUrl": null
+ },
+ "displayAspectRatio": "16:9",
+ "sourceMedium": "video"
+}

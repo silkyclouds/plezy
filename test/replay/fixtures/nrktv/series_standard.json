@@ -1,0 +1,419 @@
+{
+ "standard": {
+  "id": "1f32e9168871c847db6d564c070577b7",
+  "urlFriendlySeriesId": "hestesport",
+  "titles": {
+   "title": "Hestesport",
+   "subtitle": ""
+  },
+  "category": {
+   "id": "sport",
+   "name": "Sport"
+  },
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgDB4yCjMBdzwgFGUV_4_7DA",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgqWEFhKAB2yQgFGUV_4_7DA",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgSlGjnNFOPwggFGUV_4_7DA",
+    "width": 1920
+   }
+  ],
+  "backdropImage": [
+   {
+    "url": "https://gfx.nrk.no/kz_vZ2Cxi3qzlSOFLkAjDQedyd3jNLmGxwl70-cM3Muw",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/kz_vZ2Cxi3qzlSOFLkAjDQahQRZMIolGFwl70-cM3Muw",
+    "width": 1920
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/series/hestesport"
+  },
+  "seasons": [
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2022",
+    "name": "2022",
+    "title": "2022"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2021",
+    "name": "2021",
+    "title": "2021"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2019",
+    "name": "2019",
+    "title": "2019"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2018",
+    "name": "2018",
+    "title": "2018"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2017",
+    "name": "2017",
+    "title": "2017"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2016",
+    "name": "2016",
+    "title": "2016"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2015",
+    "name": "2015",
+    "title": "2015"
+   },
+   {
+    "href": "/tv/catalog/series/hestesport/seasons/2014",
+    "name": "2014",
+    "title": "2014"
+   }
+  ],
+  "instalments": {
+   "href": "/tv/catalog/series/hestesport/instalments"
+  }
+ },
+ "_embedded": {
+  "instalments": {
+   "_links": {
+    "self": {
+     "href": "/tv/catalog/series/hestesport/instalments?page=2021&pageSize=19"
+    },
+    "next": {
+     "href": "/tv/catalog/series/hestesport/instalments?page=2019&pageSize=19"
+    },
+    "prev": {
+     "href": "/tv/catalog/series/hestesport/instalments?page=2022&pageSize=19"
+    }
+   },
+   "_embedded": {
+    "instalments": [
+     {
+      "id": "a0fed39b037eeb86e8b2e342e9bdc9f1",
+      "prfId": "MSPO31156622",
+      "titles": {
+       "title": "Paradressur",
+       "subtitle": "Fra finalen i Herning, Danmark."
+      },
+      "originalTitle": null,
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgDB4yCjMBdzwgFGUV_4_7DA",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgqWEFhKAB2yQgFGUV_4_7DA",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgSlGjnNFOPwggFGUV_4_7DA",
+        "width": 1920
+       }
+      ],
+      "duration": "PT55M41.84S",
+      "durationInSeconds": 3342,
+      "usageRights": {
+       "from": {
+        "date": "2022-08-14T20:26:52+02:00",
+        "displayValue": "14. august 2022 kl. 20:26"
+       },
+       "to": {
+        "date": "2100-01-01T21:30:16+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": true,
+        "displayValue": "Norge"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2022-08-14T20:26:52+02:00",
+      "productionYear": 2022,
+      "availability": {
+       "status": "available",
+       "label": null,
+       "hasLabel": false
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/MSPO31156622"
+       },
+       "season": {
+        "href": "/tv/catalog/series/hestesport/seasons/2022",
+        "name": "2022",
+        "title": "2022"
+       }
+      },
+      "_embedded": {}
+     },
+     {
+      "id": "8cc7e990e9d2968ad61b94955791b023",
+      "prfId": "MSPO31156522",
+      "titles": {
+       "title": "Sprangridning",
+       "subtitle": "Individuell finale direkte fra Herning, Danmark."
+      },
+      "originalTitle": null,
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgDB4yCjMBdzwgFGUV_4_7DA",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgqWEFhKAB2yQgFGUV_4_7DA",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgSlGjnNFOPwggFGUV_4_7DA",
+        "width": 1920
+       }
+      ],
+      "duration": "PT1H40M43S",
+      "durationInSeconds": 6043,
+      "usageRights": {
+       "from": {
+        "date": "2022-08-14T13:54:33+02:00",
+        "displayValue": "14. august 2022 kl. 13:54"
+       },
+       "to": {
+        "date": "2100-01-01T16:31:18+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": true,
+        "displayValue": "Norge"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2022-08-14T13:54:33+02:00",
+      "productionYear": 2022,
+      "availability": {
+       "status": "available",
+       "label": null,
+       "hasLabel": false
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/MSPO31156522"
+       },
+       "season": {
+        "href": "/tv/catalog/series/hestesport/seasons/2022",
+        "name": "2022",
+        "title": "2022"
+       }
+      },
+      "_embedded": {}
+     },
+     {
+      "id": "e7f03923bf0e0fc14dacb0af7f60f126",
+      "prfId": "MSPO31156422",
+      "titles": {
+       "title": "Sprangridning",
+       "subtitle": "Victoria Gulliksen og Marie Longem er i aksjon i den individuelle kvalifiseringen. Deretter er det lagfinale direkte fra Herning, Danmark."
+      },
+      "originalTitle": null,
+      "image": [
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgDB4yCjMBdzwgFGUV_4_7DA",
+        "width": 300
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgqWEFhKAB2yQgFGUV_4_7DA",
+        "width": 960
+       },
+       {
+        "url": "https://gfx.nrk.no/D4WYmBIC4MwvveUyrSM7fgSlGjnNFOPwggFGUV_4_7DA",
+        "width": 1920
+       }
+      ],
+      "duration": "PT3H21.56S",
+      "durationInSeconds": 10822,
+      "usageRights": {
+       "from": {
+        "date": "2022-08-12T20:56:25+02:00",
+        "displayValue": "12. august 2022 kl. 20:56"
+       },
+       "to": {
+        "date": "2100-01-01T23:57:37+01:00",
+        "displayValue": "Alltid tilgjengelig"
+       },
+       "geoBlock": {
+        "isGeoBlocked": true,
+        "displayValue": "Norge"
+       },
+       "offline": false
+      },
+      "releaseDateOnDemand": "2022-08-12T20:56:25+02:00",
+      "productionYear": 2022,
+      "availability": {
+       "status": "available",
+       "label": null,
+       "hasLabel": false
+      },
+      "legalAge": {
+       "body": {
+        "status": "exempt"
+       },
+       "legalReference": "LOV2015-02-06-7"
+      },
+      "contributors": [],
+      "_links": {
+       "self": {
+        "href": "/tv/catalog/programs/MSPO31156422"
+       },
+       "season": {
+        "href": "/tv/catalog/series/hestesport/seasons/2022",
+        "name": "2022",
+        "title": "2022"
+       }
+      },
+      "_embedded": {}
+     }
+    ]
+   },
+   "seriesType": "standard",
+   "seasonType": "latest"
+  },
+  "seasons": [
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2022",
+      "name": "2022",
+      "title": "2022"
+     }
+    },
+    "titles": {
+     "title": "2022",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2021",
+      "name": "2021",
+      "title": "2021"
+     }
+    },
+    "titles": {
+     "title": "2021",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2019",
+      "name": "2019",
+      "title": "2019"
+     }
+    },
+    "titles": {
+     "title": "2019",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2018",
+      "name": "2018",
+      "title": "2018"
+     }
+    },
+    "titles": {
+     "title": "2018",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2017",
+      "name": "2017",
+      "title": "2017"
+     }
+    },
+    "titles": {
+     "title": "2017",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2016",
+      "name": "2016",
+      "title": "2016"
+     }
+    },
+    "titles": {
+     "title": "2016",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2015",
+      "name": "2015",
+      "title": "2015"
+     }
+    },
+    "titles": {
+     "title": "2015",
+     "subtitle": null
+    }
+   },
+   {
+    "hasAvailableInstalments": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/hestesport/seasons/2014",
+      "name": "2014",
+      "title": "2014"
+     }
+    },
+    "titles": {
+     "title": "2014",
+     "subtitle": null
+    }
+   }
+  ]
+ },
+ "seriesType": "standard"
+}

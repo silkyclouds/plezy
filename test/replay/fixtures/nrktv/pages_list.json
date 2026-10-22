@@ -1,0 +1,59 @@
+{
+ "pageListItems": [
+  {
+   "id": "drama-serier",
+   "title": "Serier",
+   "pageType": "category",
+   "_links": {
+    "self": {
+     "href": "/tv/pages/drama-serier"
+    }
+   }
+  },
+  {
+   "id": "dokumentar",
+   "title": "Dokumentar",
+   "pageType": "category",
+   "_links": {
+    "self": {
+     "href": "/tv/pages/dokumentar"
+    }
+   }
+  },
+  {
+   "id": "barn",
+   "title": "Barn",
+   "pageType": "category",
+   "_links": {
+    "self": {
+     "href": "/tv/pages/barn"
+    }
+   }
+  },
+  {
+   "id": "dyr",
+   "title": "Dyr",
+   "pageType": "category",
+   "_links": {
+    "self": {
+     "href": "/tv/pages/dyr"
+    }
+   }
+  },
+  {
+   "id": "familie",
+   "title": "Familie",
+   "pageType": "category",
+   "_links": {
+    "self": {
+     "href": "/tv/pages/familie"
+    }
+   }
+  }
+ ],
+ "_links": {
+  "self": {
+   "href": "/tv/pages"
+  }
+ }
+}

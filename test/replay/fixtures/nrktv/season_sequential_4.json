@@ -1,0 +1,454 @@
+{
+ "sequenceNumber": 4,
+ "titles": {
+  "title": "Sesong 4",
+  "subtitle": null
+ },
+ "image": [
+  {
+   "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+   "width": 300
+  },
+  {
+   "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+   "width": 1920
+  }
+ ],
+ "backdropImage": [
+  {
+   "url": "https://gfx.nrk.no/cnzSUUB2T5JVSyethwtrOAuiENEInawfS6A2M7t2Gknw",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/cnzSUUB2T5JVSyethwtrOAgJgZRwp9F7i6A2M7t2Gknw",
+   "width": 1920
+  }
+ ],
+ "posterImage": [
+  {
+   "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAqdH5jkPT4gyy3qBsZGpdRQ",
+   "width": 300
+  },
+  {
+   "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAUCQmIIaRsKSy3qBsZGpdRQ",
+   "width": 960
+  }
+ ],
+ "hasAvailableEpisodes": true,
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/series/humoretaten/seasons/4"
+  },
+  "series": {
+   "href": "/tv/catalog/series/humoretaten",
+   "name": "sequential",
+   "title": "Humoretaten"
+  }
+ },
+ "_embedded": {
+  "episodes": [
+   {
+    "id": "a6c2daca00972d2f2bc11970eb24ef44",
+    "prfId": "IUFH21002126",
+    "titles": {
+     "title": "1. Krompen er konge",
+     "subtitle": "Det blir fotlenke utenfor sone, håret til Haaland og rapduell med Steinar Suvatne når Kevin Vågenes er gjest i sesongpremieren."
+    },
+    "releaseDateOnDemand": "2026-09-04T12:00:00+02:00",
+    "originalTitle": null,
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsALyf7H6cnq3Udj6cGlnu2_g",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsALn3FlCshgNcdj6cGlnu2_g",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsAJ3n5JH5U0DIdj6cGlnu2_g",
+      "width": 1920
+     }
+    ],
+    "duration": "PT24M49.96S",
+    "durationInSeconds": 1490,
+    "usageRights": {
+     "from": {
+      "date": "2026-09-04T12:00:00+02:00",
+      "displayValue": "4. september 2026 kl. 12:00"
+     },
+     "to": {
+      "date": "2100-01-01T23:59:59+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "productionYear": 2026,
+    "sequenceNumber": 1,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "rating": {
+       "code": "9",
+       "displayValue": "9 år",
+       "displayAge": "9+"
+      },
+      "status": "rated"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [
+     {
+      "name": "Javad El Bakali",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "John Brungot",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Mathea Stensæth Josefsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Christian Mikkelsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "David Mokel",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Sigrid Bonde Tusvik",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Kristine Grændsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Kevin Vågenes",
+      "role": "Gjest"
+     }
+    ],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/IUFH21002126"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "20f7c884c223a1d51246ada151f4856c",
+    "prfId": "IUFH21002226",
+    "titles": {
+     "title": "2. Kong Chirag",
+     "subtitle": "Norges tronarvinger, GTA Follo, Isabel Raad med bikkje, vikinger i syden, Westerlin har lest bok og Anders Danielsen Lie er gjest!"
+    },
+    "releaseDateOnDemand": "2026-09-11T16:00:00+02:00",
+    "originalTitle": null,
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhg4ZYm6GFeZelSqvLasLnbkg",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhgaQMbgxldOfFSqvLasLnbkg",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhgZEjwMEIWM7ZSqvLasLnbkg",
+      "width": 1920
+     }
+    ],
+    "duration": "PT23M7.68S",
+    "durationInSeconds": 1388,
+    "usageRights": {
+     "from": {
+      "date": "2026-09-11T16:00:00+02:00",
+      "displayValue": "11. september 2026 kl. 16:00"
+     },
+     "to": {
+      "date": "2100-01-01T23:59:59+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "productionYear": 2026,
+    "sequenceNumber": 2,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "rating": {
+       "code": "9",
+       "displayValue": "9 år",
+       "displayAge": "9+"
+      },
+      "status": "rated"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [
+     {
+      "name": "Javad El Bakali",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "John Brungot",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Mathea Stensæth Josefsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Christian Mikkelsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "David Mokel",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Sigrid Bonde Tusvik",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Kristine Grændsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Anders Danielsen Lie",
+      "role": "Gjest"
+     }
+    ],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/IUFH21002226"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "171f9bc7ef2d863afa202128151e54c6",
+    "prfId": "IUFH21002326",
+    "titles": {
+     "title": "3. Ikke den engelsken!",
+     "subtitle": "Fetisha er gjest, Javad har latt seg inspirere av Sydney Sweeney, og vi skal innom dødens Duolingo og en holdningskampanje mot energidrikk."
+    },
+    "releaseDateOnDemand": "2026-09-18T12:00:00+02:00",
+    "originalTitle": null,
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/gbnjqcZJEdx1Vm4W2NA6vwn7OTPP9SaBToY8lCxlL3MQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/gbnjqcZJEdx1Vm4W2NA6vwlm9qim4HN5DoY8lCxlL3MQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/gbnjqcZJEdx1Vm4W2NA6vwnKaQzRPF5sboY8lCxlL3MQ",
+      "width": 1920
+     }
+    ],
+    "duration": "PT25M27.8S",
+    "durationInSeconds": 1528,
+    "usageRights": {
+     "from": {
+      "date": "2026-09-18T12:00:00+02:00",
+      "displayValue": "18. september 2026 kl. 12:00"
+     },
+     "to": {
+      "date": "2100-01-01T23:59:59+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "productionYear": 2026,
+    "sequenceNumber": 3,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "rating": {
+       "code": "9",
+       "displayValue": "9 år",
+       "displayAge": "9+"
+      },
+      "status": "rated"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [
+     {
+      "name": "Javad El Bakali",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "John Brungot",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Mathea Stensæth Josefsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Christian Mikkelsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "David Mokel",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Sigrid Bonde Tusvik",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Kristine Grændsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Fetisha Williams",
+      "role": "Gjest"
+     }
+    ],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/IUFH21002326"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "db4c243a9fca057a5be555ede2aead8e",
+    "prfId": "IUFH21002426",
+    "titles": {
+     "title": "4. Er dette en verna bedrift?",
+     "subtitle": "En splitter ny Bolt-opplevelse, en quizmaster full av konspirasjonsteorier, en sliten statsminister og Ramón som ukens gjest."
+    },
+    "releaseDateOnDemand": "2026-09-25T12:00:00+02:00",
+    "originalTitle": null,
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/SsztFOUwRgWtIe7WOD1EOwyLXyzQH_6Bt1cQk1kXgSmA",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/SsztFOUwRgWtIe7WOD1EOwM9bKuyh6KKl1cQk1kXgSmA",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/SsztFOUwRgWtIe7WOD1EOw4GqKvQ5Dqzx1cQk1kXgSmA",
+      "width": 1920
+     }
+    ],
+    "duration": "PT25M48.6S",
+    "durationInSeconds": 1549,
+    "usageRights": {
+     "from": {
+      "date": "2026-09-25T12:00:00+02:00",
+      "displayValue": "25. september 2026 kl. 12:00"
+     },
+     "to": {
+      "date": "2100-01-01T23:59:59+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "productionYear": 2026,
+    "sequenceNumber": 4,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "rating": {
+       "code": "9",
+       "displayValue": "9 år",
+       "displayAge": "9+"
+      },
+      "status": "rated"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [
+     {
+      "name": "Javad El Bakali",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "John Brungot",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Mathea Stensæth Josefsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Christian Mikkelsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "David Mokel",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Sigrid Bonde Tusvik",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Kristine Grændsen",
+      "role": "Skuespiller"
+     },
+     {
+      "name": "Ramón",
+      "role": "Gjest"
+     }
+    ],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/IUFH21002426"
+     }
+    },
+    "_embedded": {}
+   }
+  ]
+ },
+ "seriesType": "sequential",
+ "seasonType": "season"
+}

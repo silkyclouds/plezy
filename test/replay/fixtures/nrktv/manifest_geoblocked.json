@@ -1,0 +1,38 @@
+{
+ "_links": {
+  "self": {
+   "href": "/playback/manifest/program/KMNO10057925"
+  },
+  "metadata": {
+   "href": "/playback/metadata/program/KMNO10057925",
+   "name": "metadata"
+  }
+ },
+ "id": "KMNO10057925",
+ "playability": "nonPlayable",
+ "streamingMode": "onDemand",
+ "availability": {
+  "information": "",
+  "isGeoBlocked": true,
+  "onDemand": {
+   "from": "2025-12-09T06:00:00+01:00",
+   "to": "2032-11-30T23:59:00+01:00",
+   "hasRightsNow": true
+  },
+  "live": null,
+  "externalEmbeddingAllowed": false
+ },
+ "statistics": "(trimmed)",
+ "playable": null,
+ "nonPlayable": {
+  "reason": "blocked",
+  "messageType": "ProgramIsGeoblocked",
+  "endUserMessage": "Ikke tilgjengelig utenfor Norge",
+  "endUserMessageSupplement": null,
+  "userAction": null,
+  "helpUrl": "https://info.nrk.no/tv/#nrk-tv-i-utlandet",
+  "availableAbroadUrl": null
+ },
+ "displayAspectRatio": "16:9",
+ "sourceMedium": "video"
+}

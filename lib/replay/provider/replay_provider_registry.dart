@@ -6,6 +6,7 @@ import '../providers/dw/dw_provider.dart';
 import '../providers/francetv/francetv_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
+import '../providers/nrktv/nrktv_provider.dart';
 import '../providers/pbs/pbs_provider.dart';
 import '../providers/publicsenat/publicsenat_provider.dart';
 import '../providers/rtbf/rtbf_provider.dart';
@@ -191,6 +192,13 @@ const replaySourceInfos = [
     country: 'SE',
     languages: ['sv'],
   ),
+  ReplaySourceInfo(
+    id: 'nrktv',
+    name: 'NRK TV',
+    support: ReplayPlaybackSupport.partial,
+    country: 'NO',
+    languages: ['no'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -245,6 +253,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'zdfmediathek' => ZdfMediathekProvider(http),
       'ruv' => RuvProvider(http),
       'urplay' => UrPlayProvider(http),
+      'nrktv' => NrkTvProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

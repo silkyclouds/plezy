@@ -1,0 +1,431 @@
+{
+ "titles": {
+  "title": "Oktober 2026",
+  "subtitle": null
+ },
+ "image": [
+  {
+   "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagQCpvSYI44t9D4TtYcvIRhg",
+   "width": 300
+  },
+  {
+   "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagnJgTM1_FGC9D4TtYcvIRhg",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagvXbGucGMuv5D4TtYcvIRhg",
+   "width": 1920
+  }
+ ],
+ "backdropImage": [
+  {
+   "url": "https://gfx.nrk.no/9ByA7VE4v13ZVV64bDCXtAw58ojuLspYDDWlSEIMamFQ",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/9ByA7VE4v13ZVV64bDCXtArgUMVCzYkHzDWlSEIMamFQ",
+   "width": 1920
+  }
+ ],
+ "hasAvailableEpisodes": true,
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/series/dagsrevyen/seasons/202610"
+  },
+  "series": {
+   "href": "/tv/catalog/series/dagsrevyen",
+   "name": "news",
+   "title": "Dagsrevyen"
+  }
+ },
+ "_embedded": {
+  "instalments": [
+   {
+    "id": "218b8e6ab9c0243cf61f6af0986d8400",
+    "prfId": "NNFA19102226",
+    "titles": {
+     "title": "I dag",
+     "subtitle": "Siste nytt fra NRKs nyhetsredaksjon med sport og vær."
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagQCpvSYI44t9D4TtYcvIRhg",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagnJgTM1_FGC9D4TtYcvIRhg",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/unisXO1tfq-jZQlCWXdlagvXbGucGMuv5D4TtYcvIRhg",
+      "width": 1920
+     }
+    ],
+    "duration": "PT44M",
+    "durationInSeconds": 2640,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-22T18:59:50+02:00",
+      "displayValue": "22. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T19:00:00+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-22T18:59:50+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "coming",
+     "label": "Kommer i dag",
+     "hasLabel": true
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19102226"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "86a710755f5c5039c8057a4f71f7c82b",
+    "prfId": "NNFA19102126",
+    "titles": {
+     "title": "I går · Orienterte Støre",
+     "subtitle": "Spesialutsending Steve Witkoff dro rett til Gardermoen for å informere Støre etter sitt møte med Putin i St. Petersburg."
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4A6zrr0UgiDn44TMy0zVUu1g",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AfukNWGqHKIY4TMy0zVUu1g",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AzVyO7Aj2AXg4TMy0zVUu1g",
+      "width": 1920
+     }
+    ],
+    "duration": "PT44M20.96S",
+    "durationInSeconds": 2661,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-21T18:59:51+02:00",
+      "displayValue": "21. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T19:00:00+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-21T18:59:51+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19102126"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "b6f866ec3855390d5cc94d8894f154de",
+    "prfId": "NNFA19102026",
+    "titles": {
+     "title": "Tirsdag · Møtes i Oslo",
+     "subtitle": "Hva kan et møte mellom Zelenskyj, Witkoff, Stubb og Støre i Oslo i kveld føre til?"
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXw8b3Iai0wRNIJSV227tXKvw",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXwaqWoFP4Tt0QJSV227tXKvw",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/EFwtgB58yqGSU2a6uKtIXwE9PApygb71UJSV227tXKvw",
+      "width": 1920
+     }
+    ],
+    "duration": "PT59M2.88S",
+    "durationInSeconds": 3543,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-20T18:59:53+02:00",
+      "displayValue": "20. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T19:00:00+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-20T18:59:53+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19102026"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "ccb5613fcfd0c3912302e3d4cc56f405",
+    "prfId": "NNFA19101926",
+    "titles": {
+     "title": "Mandag · Vil hindre folk i å gå ut",
+     "subtitle": "Franske myndigheter lei av vold og plyndring - ber kommuner vurdere portforbud."
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/hHnsf0P0hfxmDhNM-XbOVQRRDDS21rn5qSIT4GAjG6NQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/hHnsf0P0hfxmDhNM-XbOVQNWFx7tCgo7CSIT4GAjG6NQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/hHnsf0P0hfxmDhNM-XbOVQ2z0_cBJkEHySIT4GAjG6NQ",
+      "width": 1920
+     }
+    ],
+    "duration": "PT44M6.68S",
+    "durationInSeconds": 2647,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-19T18:59:52+02:00",
+      "displayValue": "19. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T19:00:00+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": false,
+      "displayValue": "Verden"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-19T18:59:52+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19101926"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "a5ceed89fc853815af51f08ff1aea47e",
+    "prfId": "NNFA19101826",
+    "titles": {
+     "title": "Søndag · – Alt er ødelagt",
+     "subtitle": "Utbrente biler, knuste vinduer og sotete gater møter franskmenn dagen etter opptøyene."
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/8sllG8ex2kBIppds-i67dg6adrzRDK65fY_AMizo040A",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/8sllG8ex2kBIppds-i67dgboeVYE2clYPY_AMizo040A",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/8sllG8ex2kBIppds-i67dguBqbOisE6xLY_AMizo040A",
+      "width": 1920
+     }
+    ],
+    "duration": "PT49M26.92S",
+    "durationInSeconds": 2967,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-18T18:59:51+02:00",
+      "displayValue": "18. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T18:59:51+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": true,
+      "displayValue": "Norge"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-18T18:59:51+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19101826"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   },
+   {
+    "id": "1cc5067a34fabb4b84bb23b34ac77e9f",
+    "prfId": "NNFA19101726",
+    "titles": {
+     "title": "Lørdag · Nye sammenstøt",
+     "subtitle": "Massive protester i Frankrike - ampert mellom demonstranter og politiet flere steder."
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/hvceoUP8D3uNL8h4xU2s-QvMIY6hQckuJImkJQfhB4EQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/hvceoUP8D3uNL8h4xU2s-QsXcr4nXn8g1ImkJQfhB4EQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/hvceoUP8D3uNL8h4xU2s-Qhkk-eMN8751ImkJQfhB4EQ",
+      "width": 1920
+     }
+    ],
+    "duration": "PT44M27.88S",
+    "durationInSeconds": 2668,
+    "usageRights": {
+     "from": {
+      "date": "2026-10-17T18:59:53+02:00",
+      "displayValue": "17. oktober 2026 kl. 18:59"
+     },
+     "to": {
+      "date": "2100-01-01T18:59:53+01:00",
+      "displayValue": "Alltid tilgjengelig"
+     },
+     "geoBlock": {
+      "isGeoBlocked": true,
+      "displayValue": "Norge"
+     },
+     "offline": false
+    },
+    "releaseDateOnDemand": "2026-10-17T18:59:53+02:00",
+    "productionYear": 2026,
+    "availability": {
+     "status": "available",
+     "label": null,
+     "hasLabel": false
+    },
+    "legalAge": {
+     "body": {
+      "status": "exempt"
+     },
+     "legalReference": "LOV2015-02-06-7"
+    },
+    "contributors": [],
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/programs/NNFA19101726"
+     },
+     "season": {
+      "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+      "name": "202610",
+      "title": "Oktober 2026"
+     }
+    },
+    "_embedded": {}
+   }
+  ]
+ },
+ "seriesType": "news",
+ "seasonType": "season"
+}

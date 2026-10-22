@@ -1,0 +1,18 @@
+[
+ {
+  "id": "A",
+  "title": "A",
+  "availableInNorway": 1014,
+  "availableInternationally": 407,
+  "unavailable": 0,
+  "hasOnDemandRightPrograms": true
+ },
+ {
+  "id": "B",
+  "title": "B",
+  "availableInNorway": 1447,
+  "availableInternationally": 674,
+  "unavailable": 0,
+  "hasOnDemandRightPrograms": true
+ }
+]

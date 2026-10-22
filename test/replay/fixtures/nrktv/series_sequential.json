@@ -1,0 +1,1070 @@
+{
+ "sequential": {
+  "id": "6965ecf1536a5e4a85e02aa7e793da76",
+  "urlFriendlySeriesId": "humoretaten",
+  "titles": {
+   "title": "Humoretaten",
+   "subtitle": "Stjernekomikere samles for å få deg til å le, med sketsjer om aktuelle hendelser og livet selv."
+  },
+  "category": {
+   "id": "humor",
+   "name": "Humor"
+  },
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+    "width": 1920
+   }
+  ],
+  "logoImage": [
+   {
+    "url": "https://gfx.nrk.no/ytLwgjQJSHla9B_CYAETjgb4WTkaMnELnycO6D2ekBww",
+    "width": 300,
+    "height": 432
+   },
+   {
+    "url": "https://gfx.nrk.no/ytLwgjQJSHla9B_CYAETjg41PlMUpQwh_ycO6D2ekBww",
+    "width": 960,
+    "height": 1381
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/series/humoretaten"
+  },
+  "seasons": [
+   {
+    "href": "/tv/catalog/series/humoretaten/seasons/1",
+    "name": "1",
+    "title": "Sesong 1"
+   },
+   {
+    "href": "/tv/catalog/series/humoretaten/seasons/2",
+    "name": "2",
+    "title": "Sesong 2"
+   },
+   {
+    "href": "/tv/catalog/series/humoretaten/seasons/3",
+    "name": "3",
+    "title": "Sesong 3"
+   },
+   {
+    "href": "/tv/catalog/series/humoretaten/seasons/4",
+    "name": "4",
+    "title": "Sesong 4"
+   }
+  ]
+ },
+ "_embedded": {
+  "seasons": [
+   {
+    "sequenceNumber": 1,
+    "titles": {
+     "title": "Sesong 1",
+     "subtitle": null
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+      "width": 1920
+     }
+    ],
+    "posterImage": [
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAqdH5jkPT4gyy3qBsZGpdRQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAUCQmIIaRsKSy3qBsZGpdRQ",
+      "width": 960
+     }
+    ],
+    "hasAvailableEpisodes": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/humoretaten/seasons/1"
+     },
+     "series": {
+      "href": "/tv/catalog/series/humoretaten",
+      "name": "sequential",
+      "title": "Humoretaten"
+     }
+    },
+    "_embedded": {
+     "episodes": [
+      {
+       "id": "891a4c3fee82d9d0290a45369392a0be",
+       "prfId": "MUHH01100125",
+       "titles": {
+        "title": "1. episode",
+        "subtitle": "72 jomfruer, Nerdrum-familien, Mette-Marit, snøkaos og menn som skryter av å elske sterk mat."
+       },
+       "releaseDateOnDemand": "2025-01-10T14:00:00+01:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/TyTQ4yZ6TnUE-ufT9FYfPA7_gaokznPTLy3RCf7RswxQ",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/TyTQ4yZ6TnUE-ufT9FYfPAHQsHHlXZ2Jzy3RCf7RswxQ",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/TyTQ4yZ6TnUE-ufT9FYfPA12xVaucBPPby3RCf7RswxQ",
+         "width": 1920
+        }
+       ],
+       "duration": "PT27M0.32S",
+       "durationInSeconds": 1620,
+       "usageRights": {
+        "from": {
+         "date": "2025-01-10T14:00:00+01:00",
+         "displayValue": "10. januar 2025 kl. 14:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:28:06+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 1,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Pernille Haaland",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Albert Kvalsvik Holskjær",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Javad El Bakali",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Atle Bore",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Olli Wermskog",
+         "role": "Regissør"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Maria Stavang",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Robert Stoltenberg",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Arman Surizehi",
+         "role": "Skuespiller"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/MUHH01100125"
+        }
+       },
+       "_embedded": {}
+      },
+      {
+       "id": "2b359eb8c46cc30308815913de9a442d",
+       "prfId": "MUHH01100225",
+       "titles": {
+        "title": "2. episode",
+        "subtitle": "Humoretatens BlimE!, Vita og Wanda, familien Barisbrevik og en svidd Kristofer Hivju direkte fra Los Angeles."
+       },
+       "releaseDateOnDemand": "2025-01-17T12:00:00+01:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/TuravLtUIoXGThtHrHSZeQpNpwxVJ6qI-HaPlr0kj3DA",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/TuravLtUIoXGThtHrHSZeQZ51PErja3Y2HaPlr0kj3DA",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/TuravLtUIoXGThtHrHSZeQINOtpYlHELyHaPlr0kj3DA",
+         "width": 1920
+        }
+       ],
+       "duration": "PT27M59.08S",
+       "durationInSeconds": 1679,
+       "usageRights": {
+        "from": {
+         "date": "2025-01-17T12:00:00+01:00",
+         "displayValue": "17. januar 2025 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T21:55:51+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 2,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Pernille Haaland",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Albert Kvalsvik Holskjær",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Javad El Bakali",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Atle Bore",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Olli Wermskog",
+         "role": "Regissør"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Maria Stavang",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Robert Stoltenberg",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Arman Surizehi",
+         "role": "Skuespiller"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/MUHH01100225"
+        }
+       },
+       "_embedded": {}
+      }
+     ]
+    },
+    "seriesType": "sequential",
+    "seasonType": "season"
+   },
+   {
+    "sequenceNumber": 2,
+    "titles": {
+     "title": "Sesong 2",
+     "subtitle": null
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+      "width": 1920
+     }
+    ],
+    "posterImage": [
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAqdH5jkPT4gyy3qBsZGpdRQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAUCQmIIaRsKSy3qBsZGpdRQ",
+      "width": 960
+     }
+    ],
+    "hasAvailableEpisodes": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/humoretaten/seasons/2"
+     },
+     "series": {
+      "href": "/tv/catalog/series/humoretaten",
+      "name": "sequential",
+      "title": "Humoretaten"
+     }
+    },
+    "_embedded": {
+     "episodes": [
+      {
+       "id": "e2cd9efefffb1887c196adac9ad5851d",
+       "prfId": "MUHH02100125",
+       "titles": {
+        "title": "1. Dommer, dommer!",
+        "subtitle": "Nyforlovet Ingrid Alexandra, øst møter vest i fotball, partilederdebatten tar nye grep, Kronprinsen er ærlig, læreren er fysisk og Alle Boysa synger."
+       },
+       "releaseDateOnDemand": "2025-08-29T12:00:00+02:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/lcOgDAymI5-fkLxFO0zJ1gZUBqe4lvoD0sRdnnxzx_ag",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/lcOgDAymI5-fkLxFO0zJ1gpFxAzUTTydssRdnnxzx_ag",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/lcOgDAymI5-fkLxFO0zJ1gf1OyGTXdV-ksRdnnxzx_ag",
+         "width": 1920
+        }
+       ],
+       "duration": "PT26M31.08S",
+       "durationInSeconds": 1591,
+       "usageRights": {
+        "from": {
+         "date": "2025-08-29T12:00:00+02:00",
+         "displayValue": "29. august 2025 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:59+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 1,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Maria Stavang",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Arman Surizehi",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Atle Bore",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Anders Tangenes",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Kristin Jess Rodin",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Albert Kvalsvik Holskjær",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Anna Kjøs Oddli",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Synneva Lindblad",
+         "role": "Manusforfatter"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/MUHH02100125"
+        }
+       },
+       "_embedded": {}
+      },
+      {
+       "id": "3c55468da68865bb66bd86e35ad74034",
+       "prfId": "MUHH02100225",
+       "titles": {
+        "title": "2. Smaker det Sylvi?",
+        "subtitle": "Marius Høiby snakker ut, David bruker stemmeretten, Norges minste parti får taletid og KrF-lederen vil svare – men helst på et annet spørsmål."
+       },
+       "releaseDateOnDemand": "2025-09-05T12:00:00+02:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/TskRuQwoZ7B5XBNL1-4tng1NZIgoKph6pdjN1XuOrL6w",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/TskRuQwoZ7B5XBNL1-4tngH3qEnFWafVldjN1XuOrL6w",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/TskRuQwoZ7B5XBNL1-4tng5OvFg2nw0x5djN1XuOrL6w",
+         "width": 1920
+        }
+       ],
+       "duration": "PT25M59.56S",
+       "durationInSeconds": 1560,
+       "usageRights": {
+        "from": {
+         "date": "2025-09-05T12:00:00+02:00",
+         "displayValue": "5. september 2025 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:59+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 2,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Maria Stavang",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Arman Surizehi",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Atle Bore",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Albert Kvalsvik Holskjær",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Kristin Jess Rodin",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Anders Tangenes",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Anna Kjøs Oddli",
+         "role": "Manusforfatter"
+        },
+        {
+         "name": "Synneva Lindblad",
+         "role": "Manusforfatter"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/MUHH02100225"
+        }
+       },
+       "_embedded": {}
+      }
+     ]
+    },
+    "seriesType": "sequential",
+    "seasonType": "season"
+   },
+   {
+    "sequenceNumber": 3,
+    "titles": {
+     "title": "Sesong 3",
+     "subtitle": null
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+      "width": 1920
+     }
+    ],
+    "posterImage": [
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAqdH5jkPT4gyy3qBsZGpdRQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAUCQmIIaRsKSy3qBsZGpdRQ",
+      "width": 960
+     }
+    ],
+    "hasAvailableEpisodes": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/humoretaten/seasons/3"
+     },
+     "series": {
+      "href": "/tv/catalog/series/humoretaten",
+      "name": "sequential",
+      "title": "Humoretaten"
+     }
+    },
+    "_embedded": {
+     "episodes": [
+      {
+       "id": "4cbbe61001a6c740dd0d39afdd6d5342",
+       "prfId": "IUFH21000125",
+       "titles": {
+        "title": "1. Denne episoden må du se",
+        "subtitle": "Kong Harald vil gå viralt, lille Marius vil bidra, nordnorske Trump har planer, fetteren til Javad har idéer og mesternes mester er svett."
+       },
+       "releaseDateOnDemand": "2026-01-09T12:00:00+01:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/8fLgvhh6maZAxBYkLe7DpAazWHsizdr5vP_Wk7fuHMGQ",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/8fLgvhh6maZAxBYkLe7DpA3tsxHj7vOHLP_Wk7fuHMGQ",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/8fLgvhh6maZAxBYkLe7DpAPwPT9TBRcGXP_Wk7fuHMGQ",
+         "width": 1920
+        }
+       ],
+       "duration": "PT25M26.8S",
+       "durationInSeconds": 1527,
+       "usageRights": {
+        "from": {
+         "date": "2026-01-09T12:00:00+01:00",
+         "displayValue": "9. januar 2026 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:00+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 1,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/IUFH21000125"
+        }
+       },
+       "_embedded": {}
+      },
+      {
+       "id": "c98613ab7d5dddb64acd362b107e0e1c",
+       "prfId": "IUFH21000225",
+       "titles": {
+        "title": "2. Akkurat nå!",
+        "subtitle": "Jaa9 & OnklP sjokkerer på foreldremøte, Sylvi Listhaug åpner opp, Marcus & Martinus gjennomgår sjokkforvandling og vi kommer tett på Magnus Carlsen!"
+       },
+       "releaseDateOnDemand": "2026-01-16T12:00:00+01:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/i0rUv0V1S7IDRmpH6V0EbAVirlqLob1HTWegb33WdDVA",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/i0rUv0V1S7IDRmpH6V0EbADR4os9Rw68jWegb33WdDVA",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/i0rUv0V1S7IDRmpH6V0EbAiz9_d6hiAM3Wegb33WdDVA",
+         "width": 1920
+        }
+       ],
+       "duration": "PT24M41.48S",
+       "durationInSeconds": 1481,
+       "usageRights": {
+        "from": {
+         "date": "2026-01-16T12:00:00+01:00",
+         "displayValue": "16. januar 2026 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:00+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2025,
+       "sequenceNumber": 2,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/IUFH21000225"
+        }
+       },
+       "_embedded": {}
+      }
+     ]
+    },
+    "seriesType": "sequential",
+    "seasonType": "season"
+   },
+   {
+    "sequenceNumber": 4,
+    "titles": {
+     "title": "Sesong 4",
+     "subtitle": null
+    },
+    "image": [
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgDHkNq55MGkBJJlIVKaJZbQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgv0LPgnU5sH5JJlIVKaJZbQ",
+      "width": 960
+     },
+     {
+      "url": "https://gfx.nrk.no/i6CEwRiooPK6Gmzx4wyubgA1jvrzttVLpJJlIVKaJZbQ",
+      "width": 1920
+     }
+    ],
+    "posterImage": [
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAqdH5jkPT4gyy3qBsZGpdRQ",
+      "width": 300
+     },
+     {
+      "url": "https://gfx.nrk.no/9xApSxBXgLYw7r2zxD-1ZAUCQmIIaRsKSy3qBsZGpdRQ",
+      "width": 960
+     }
+    ],
+    "hasAvailableEpisodes": true,
+    "_links": {
+     "self": {
+      "href": "/tv/catalog/series/humoretaten/seasons/4"
+     },
+     "series": {
+      "href": "/tv/catalog/series/humoretaten",
+      "name": "sequential",
+      "title": "Humoretaten"
+     }
+    },
+    "_embedded": {
+     "episodes": [
+      {
+       "id": "a6c2daca00972d2f2bc11970eb24ef44",
+       "prfId": "IUFH21002126",
+       "titles": {
+        "title": "1. Krompen er konge",
+        "subtitle": "Det blir fotlenke utenfor sone, håret til Haaland og rapduell med Steinar Suvatne når Kevin Vågenes er gjest i sesongpremieren."
+       },
+       "releaseDateOnDemand": "2026-09-04T12:00:00+02:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsALyf7H6cnq3Udj6cGlnu2_g",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsALn3FlCshgNcdj6cGlnu2_g",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/DFyJr29QuzCS6szcYU2lsAJ3n5JH5U0DIdj6cGlnu2_g",
+         "width": 1920
+        }
+       ],
+       "duration": "PT24M49.96S",
+       "durationInSeconds": 1490,
+       "usageRights": {
+        "from": {
+         "date": "2026-09-04T12:00:00+02:00",
+         "displayValue": "4. september 2026 kl. 12:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:59+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2026,
+       "sequenceNumber": 1,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Javad El Bakali",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Kristine Grændsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Kevin Vågenes",
+         "role": "Gjest"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/IUFH21002126"
+        }
+       },
+       "_embedded": {}
+      },
+      {
+       "id": "20f7c884c223a1d51246ada151f4856c",
+       "prfId": "IUFH21002226",
+       "titles": {
+        "title": "2. Kong Chirag",
+        "subtitle": "Norges tronarvinger, GTA Follo, Isabel Raad med bikkje, vikinger i syden, Westerlin har lest bok og Anders Danielsen Lie er gjest!"
+       },
+       "releaseDateOnDemand": "2026-09-11T16:00:00+02:00",
+       "originalTitle": null,
+       "image": [
+        {
+         "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhg4ZYm6GFeZelSqvLasLnbkg",
+         "width": 300
+        },
+        {
+         "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhgaQMbgxldOfFSqvLasLnbkg",
+         "width": 960
+        },
+        {
+         "url": "https://gfx.nrk.no/5K4enjT-qaiifzpoi0YWhgZEjwMEIWM7ZSqvLasLnbkg",
+         "width": 1920
+        }
+       ],
+       "duration": "PT23M7.68S",
+       "durationInSeconds": 1388,
+       "usageRights": {
+        "from": {
+         "date": "2026-09-11T16:00:00+02:00",
+         "displayValue": "11. september 2026 kl. 16:00"
+        },
+        "to": {
+         "date": "2100-01-01T23:59:59+01:00",
+         "displayValue": "Alltid tilgjengelig"
+        },
+        "geoBlock": {
+         "isGeoBlocked": false,
+         "displayValue": "Verden"
+        },
+        "offline": false
+       },
+       "productionYear": 2026,
+       "sequenceNumber": 2,
+       "availability": {
+        "status": "available",
+        "label": null,
+        "hasLabel": false
+       },
+       "legalAge": {
+        "body": {
+         "rating": {
+          "code": "9",
+          "displayValue": "9 år",
+          "displayAge": "9+"
+         },
+         "status": "rated"
+        },
+        "legalReference": "LOV2015-02-06-7"
+       },
+       "contributors": [
+        {
+         "name": "Javad El Bakali",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "John Brungot",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Mathea Stensæth Josefsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Christian Mikkelsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "David Mokel",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Sigrid Bonde Tusvik",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Kristine Grændsen",
+         "role": "Skuespiller"
+        },
+        {
+         "name": "Anders Danielsen Lie",
+         "role": "Gjest"
+        }
+       ],
+       "_links": {
+        "self": {
+         "href": "/tv/catalog/programs/IUFH21002226"
+        }
+       },
+       "_embedded": {}
+      }
+     ]
+    },
+    "seriesType": "sequential",
+    "seasonType": "season"
+   }
+  ]
+ },
+ "seriesType": "sequential"
+}

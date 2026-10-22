@@ -1,0 +1,88 @@
+{
+ "programInformation": {
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igfmIQECFtGh-Z6FOsEAclhA",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igg7wscWA5W0SZ6FOsEAclhA",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igWlj7LVBuuqOZ6FOsEAclhA",
+    "width": 1920
+   }
+  ],
+  "titles": {
+   "title": "TRAILER: Nissene i skjul S1 E9",
+   "subtitle": ""
+  },
+  "availability": {
+   "status": "available",
+   "label": null,
+   "hasLabel": false
+  }
+ },
+ "moreInformation": {
+  "category": {
+   "id": "underholdning",
+   "displayValue": "Underholdning"
+  },
+  "legalAge": {
+   "body": {
+    "rating": {
+     "code": "A",
+     "displayValue": "Tillatt for alle",
+     "displayAge": "A"
+    },
+    "status": "rated"
+   },
+   "legalReference": "LOV2015-02-06-7"
+  },
+  "usageRights": {
+   "from": {
+    "date": "2025-12-09T06:00:00+01:00",
+    "displayValue": "9. desember 2025 kl. 06:00"
+   },
+   "to": {
+    "date": "2032-11-30T23:59:00+01:00",
+    "displayValue": "30. november 2032 kl. 23:59"
+   },
+   "geoBlock": {
+    "isGeoBlocked": true,
+    "displayValue": "Norge"
+   },
+   "offline": false
+  },
+  "releaseDateOnDemand": "2025-12-09T06:00:00+01:00",
+  "productionYear": 2025,
+  "duration": {
+   "seconds": 43,
+   "iso8601": "PT42.96S",
+   "displayValue": "42 sek"
+  },
+  "originalTitle": null
+ },
+ "contributors": [],
+ "backdropImage": [
+  {
+   "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igfmIQECFtGh-Z6FOsEAclhA",
+   "width": 300
+  },
+  {
+   "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igg7wscWA5W0SZ6FOsEAclhA",
+   "width": 960
+  },
+  {
+   "url": "https://gfx.nrk.no/urxQMSXF-WnbfjBH5ke2igWlj7LVBuuqOZ6FOsEAclhA",
+   "width": 1920
+  }
+ ],
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/programs/KMNO10057925"
+  }
+ },
+ "_embedded": {}
+}

@@ -1,0 +1,187 @@
+[
+ {
+  "id": "b-b-king-blues-band",
+  "title": "B.B. King Blues Band",
+  "sortLetter": "B",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "3gVykY9cWConQmT4mMAy3w",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "3gVykY9cWConQmT4mMAy3w?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/3gVykY9cWConQmT4mMAy3wuk81NNC_dHQ4dOJMJAC5vA",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/3gVykY9cWConQmT4mMAy3wAosCaEUVjHQ4dOJMJAC5vA",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/3gVykY9cWConQmT4mMAy3wuEr7DRUQ27I4dOJMJAC5vA",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "Norsk musikkprogram. Konsert med B.B. King fra Moldejazz.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "babblarna",
+  "title": "Babblarna",
+  "sortLetter": "B",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "Ee1Xna7_fTyJMv-RQorleA",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "Ee1Xna7_fTyJMv-RQorleA?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/Ee1Xna7_fTyJMv-RQorleAh9KK0NczAoiy0J3CwtpLxA",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/Ee1Xna7_fTyJMv-RQorleAx8yosKt2QHSy0J3CwtpLxA",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/Ee1Xna7_fTyJMv-RQorleAYfPFBiyJd96y0J3CwtpLxA",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "I Babblarnas verden kan alt skje! De snakkesalige vennene lever i en verden full ablegøyer. De liker å synge, leke og bable.\rSvensk underholdning.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "FUHA69000669",
+  "title": "\"Bare tre\"",
+  "sortLetter": "B",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "7ssH6sTUfiGwoLrtVFPbmw",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "7ssH6sTUfiGwoLrtVFPbmw?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/7ssH6sTUfiGwoLrtVFPbmwCOMVO5oMf2vD6m9gdxoW9Q",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/7ssH6sTUfiGwoLrtVFPbmwoUpzGI5LnfLD6m9gdxoW9Q",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/7ssH6sTUfiGwoLrtVFPbmwNkkSQwzdQ2XD6m9gdxoW9Q",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "Filmprogram med Kirsti Sparboe, Oddvar Sanne og Arne Bendiksen. Sang og dans gjennom Oslo.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "FOLA01000975",
+  "title": "\"Berre ein hund\" av Per Sivle",
+  "sortLetter": "B",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "9gSOHwdyUMSNHfqaiSe--Q",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "9gSOHwdyUMSNHfqaiSe--Q?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/9gSOHwdyUMSNHfqaiSe--QazVeE7zVkKo7KLa4xyDAQQ",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/9gSOHwdyUMSNHfqaiSe--QH1XzJee7eac7KLa4xyDAQQ",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/9gSOHwdyUMSNHfqaiSe--QAxj-H2h2VSE7KLa4xyDAQQ",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "En fortelling av Per Sivle tilrettelagt for fjernsyn av Olav Aasmundtveit.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "FOLA01004674",
+  "title": "\"By-feskar\"",
+  "sortLetter": "B",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "Fy-Sh54IBJPqdjUoShtelw",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "Fy-Sh54IBJPqdjUoShtelw?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/Fy-Sh54IBJPqdjUoShtelwyi093FampfJMg897Tbzgxw",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/Fy-Sh54IBJPqdjUoShtelw-jxDqL7sySpMg897Tbzgxw",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/Fy-Sh54IBJPqdjUoShtelwFgPDdRI-QudMg897Tbzgxw",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "Fiskeren som måtte flytte til byen, men tok sjarken med. Reportasje fra Nord-Norge.",
+  "isGeoBlocked": true
+ }
+]

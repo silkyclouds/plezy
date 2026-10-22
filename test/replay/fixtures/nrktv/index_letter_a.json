@@ -1,0 +1,261 @@
+[
+ {
+  "id": "a-cappella",
+  "title": "A cappella",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "cSeQ5A9YTM2ecdUsgN7vEQ",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "cSeQ5A9YTM2ecdUsgN7vEQ?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQngohe4lJW1liT9eH1UX1UQ",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQcUXkKpS-rcpiT9eH1UX1UQ",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQ9K72p0ShQ8tiT9eH1UX1UQ",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "NRKs landskonkurranse for barne- og ungdomskor.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "a-ha-historien-om-tidenes-norske-popsuksess",
+  "title": "A-ha - historien om tidenes norske popsuksess",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "jxj-tpSuD_2wtunbyFSPww",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "jxj-tpSuD_2wtunbyFSPww?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/jxj-tpSuD_2wtunbyFSPwwaO8Osy2zNJcaoEoBtbqRzA",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/jxj-tpSuD_2wtunbyFSPwwyCMQ5bluvCgaoEoBtbqRzA",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/jxj-tpSuD_2wtunbyFSPwwYQXcQsz_1oYaoEoBtbqRzA",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "Åpent og ærlig om tre sterke personligheter og fire tiår med musikalsk magi.",
+  "isGeoBlocked": false
+ },
+ {
+  "id": "FOLA03009576",
+  "title": "\"Aftenen er stille\"",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "2vfrqqxVuC0CvibWAnwUow",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "2vfrqqxVuC0CvibWAnwUow?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/2vfrqqxVuC0CvibWAnwUowjljT0UlMMCnvWbygA3WqGA",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/2vfrqqxVuC0CvibWAnwUowiTMkZpCcainvWbygA3WqGA",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/2vfrqqxVuC0CvibWAnwUowMz0LJhss-0bvWbygA3WqGA",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "Et besøk på \"Alders Hvile\". Etter diktsamlingen \"Aftenen er stille\" fra 1972 av Paal Brekke.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "FREP01005770",
+  "title": "\"Aldri uten en tråd\"",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "0E6JfYJsg7p7Z3YYpk2OUg",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "0E6JfYJsg7p7Z3YYpk2OUg?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/0E6JfYJsg7p7Z3YYpk2OUgDwXMk0jaHJ43LrDcDf086w",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/0E6JfYJsg7p7Z3YYpk2OUgH23fjZzlvL83LrDcDf086w",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/0E6JfYJsg7p7Z3YYpk2OUgfK6dlnJfyX43LrDcDf086w",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "Reportasje fra Aalgaards Uldvarefabrikker på Ålgård, Rogaland. Den ble etablert i 1870 og produserte ullvarer.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "FOLA04004378",
+  "title": "\"Alltid tilbake til Akersgata\" - portrett av Arne Skouen",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "INYU9se1GTDU3xqNKlhgOg",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "INYU9se1GTDU3xqNKlhgOg?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/INYU9se1GTDU3xqNKlhgOg1rforSUGiDBykTqgGgZQUQ",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/INYU9se1GTDU3xqNKlhgOgyFhjCVjTuspykTqgGgZQUQ",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/INYU9se1GTDU3xqNKlhgOgN_Zq90-lxslykTqgGgZQUQ",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "programme",
+  "description": "Samtale mellom Erik BYE og journalist, regissør og forfatter Arne Skouen.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "a-cappella",
+  "title": "A cappella",
+  "sortLetter": "A",
+  "hasOndemandRights": true,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "cSeQ5A9YTM2ecdUsgN7vEQ",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "cSeQ5A9YTM2ecdUsgN7vEQ?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQngohe4lJW1liT9eH1UX1UQ",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQcUXkKpS-rcpiT9eH1UX1UQ",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQ9K72p0ShQ8tiT9eH1UX1UQ",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "NRKs landskonkurranse for barne- og ungdomskor.",
+  "isGeoBlocked": true
+ },
+ {
+  "id": "no-rights-programme",
+  "title": "Uten rettigheter",
+  "sortLetter": "A",
+  "hasOndemandRights": false,
+  "sourceMedium": 1,
+  "image": {
+   "imageInfo": {
+    "id": "cSeQ5A9YTM2ecdUsgN7vEQ",
+    "cropInfo": {
+     "x": 0.0,
+     "y": 0.0,
+     "width": 1.0,
+     "height": 1.0
+    }
+   },
+   "imageWidthCropInfo": "cSeQ5A9YTM2ecdUsgN7vEQ?x=0&y=0&w=1&h=1",
+   "webImages": [
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQngohe4lJW1liT9eH1UX1UQ",
+     "pixelWidth": 300
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQcUXkKpS-rcpiT9eH1UX1UQ",
+     "pixelWidth": 960
+    },
+    {
+     "imageUrl": "https://gfx.nrk.no/cSeQ5A9YTM2ecdUsgN7vEQ9K72p0ShQ8tiT9eH1UX1UQ",
+     "pixelWidth": 1920
+    }
+   ],
+   "isDefaultImage": false
+  },
+  "type": "series",
+  "description": "NRKs landskonkurranse for barne- og ungdomskor.",
+  "isGeoBlocked": true
+ }
+]

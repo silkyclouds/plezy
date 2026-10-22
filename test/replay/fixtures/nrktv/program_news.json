@@ -1,0 +1,79 @@
+{
+ "programInformation": {
+  "image": [
+   {
+    "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4A6zrr0UgiDn44TMy0zVUu1g",
+    "width": 300
+   },
+   {
+    "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AfukNWGqHKIY4TMy0zVUu1g",
+    "width": 960
+   },
+   {
+    "url": "https://gfx.nrk.no/i1l9WYtVgIKrJwUrA8jY4AzVyO7Aj2AXg4TMy0zVUu1g",
+    "width": 1920
+   }
+  ],
+  "titles": {
+   "title": "I går · Orienterte Støre",
+   "subtitle": "Spesialutsending Steve Witkoff dro rett til Gardermoen for å informere Støre etter sitt møte med Putin i St. Petersburg."
+  },
+  "availability": {
+   "status": "available",
+   "label": null,
+   "hasLabel": false
+  }
+ },
+ "moreInformation": {
+  "category": {
+   "id": "nyheter",
+   "displayValue": "Nyheter"
+  },
+  "legalAge": {
+   "body": {
+    "status": "exempt"
+   },
+   "legalReference": "LOV2015-02-06-7"
+  },
+  "usageRights": {
+   "from": {
+    "date": "2026-10-21T18:59:51+02:00",
+    "displayValue": "21. oktober 2026 kl. 18:59"
+   },
+   "to": {
+    "date": "2100-01-01T19:00:00+01:00",
+    "displayValue": "Alltid tilgjengelig"
+   },
+   "geoBlock": {
+    "isGeoBlocked": false,
+    "displayValue": "Verden"
+   },
+   "offline": false
+  },
+  "releaseDateOnDemand": "2026-10-21T18:59:51+02:00",
+  "productionYear": 2026,
+  "duration": {
+   "seconds": 2661,
+   "iso8601": "PT44M20.96S",
+   "displayValue": "44 min"
+  },
+  "originalTitle": null
+ },
+ "contributors": [],
+ "_links": {
+  "self": {
+   "href": "/tv/catalog/programs/NNFA19102126"
+  },
+  "seriesPage": {
+   "href": "/tv/catalog/series/dagsrevyen",
+   "name": "news",
+   "title": "Dagsrevyen"
+  },
+  "season": {
+   "href": "/tv/catalog/series/dagsrevyen/seasons/202610",
+   "name": "202610",
+   "title": "Oktober 2026"
+  }
+ },
+ "_embedded": {}
+}

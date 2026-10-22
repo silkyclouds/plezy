@@ -1,0 +1,289 @@
+{
+ "metaData": {
+  "totalHits": 6
+ },
+ "hits": [
+  {
+   "type": "serie",
+   "hit": {
+    "title": "Natur i endring",
+    "description": "Er den norske naturen slik vi kjenner den i ferd med å forsvinne? Hva skjer med insektene, fisken, skogen og fjellnaturen når klimaet endrer seg?",
+    "url": "serie/natur-i-endring",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": true,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQyol9yz8tCTF4PbuIWJoI5g",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQytnIpOL39Jp4PbuIWJoI5g",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQOw9yQJlnMwd4PbuIWJoI5g",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "natur-i-endring",
+    "seasons": [],
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.SeriesSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  },
+  {
+   "type": "serie",
+   "hit": {
+    "title": "Naturens superhelter",
+    "description": "Dyreverdenen er full av skapninger med utrolige evner. Bli med på en fascinerende og humoristisk reise hvor naturens oppfinnsomhet overgår fantasien!",
+    "url": "serie/naturens-superhelter",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": true,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/vuCtFDeMko9SuNVZRW_R0wRUUurHY9O90IVXpXsCj_mQ",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/vuCtFDeMko9SuNVZRW_R0wbhuCa7fAxf8IVXpXsCj_mQ",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/vuCtFDeMko9SuNVZRW_R0wUKTzYjY7b38IVXpXsCj_mQ",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "naturens-superhelter",
+    "seasons": [],
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.SeriesSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  },
+  {
+   "type": "program",
+   "hit": {
+    "title": "Dronning Mary – natur som terapi",
+    "description": "Psykisk helse er en viktig kampsak for dronning Mary. Nå møter hun mennesker som bruker naturen til å skape ro og balanse i vanskelige tider.",
+    "url": "program/KOID30001224",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": true,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/zUL8i2l3dxOhZjs_LZnDmw8U3A8yuVlWk3GdI05yw0VQ",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/zUL8i2l3dxOhZjs_LZnDmwpy2iaxeqe9g3GdI05yw0VQ",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/zUL8i2l3dxOhZjs_LZnDmwS64zA9LBEns3GdI05yw0VQ",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "KOID30001224",
+    "aldersgrense": "0",
+    "duration": 0,
+    "mentionedList": [],
+    "originalTitle": "Psykisk helse er en viktig kampsak for dronning Mary. Nå møter hun mennesker som bruker naturen til å skape ro og balanse i vanskelige tider.",
+    "otherTitles": [
+     "Dronning Mary – natur som terapi",
+     "Psykisk helse er en viktig kampsak for dronning Mary. Nå møter hun mennesker som bruker naturen til å skape ro og balanse i vanskelige tider."
+    ],
+    "programUrlMetadata": "",
+    "usageRights": {
+     "isGeoBlocked": false,
+     "availableFrom": "/Date(1715666400000+0000)/",
+     "availableTo": "/Date(2433564000000+0000)/",
+     "hasRightsNow": true
+    },
+    "availability": {
+     "status": "available",
+     "hasLabel": false
+    },
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.ProgramsSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  },
+  {
+   "type": "episode",
+   "hit": {
+    "title": "28. Babblarnas julevise",
+    "description": "",
+    "url": "serie/babblarna/MSUI42006021",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": true,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZgYMp-3cBeEavX-UTtr5CvKA",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZg-okNWImiZvfX-UTtr5CvKA",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/UFMHbnpBAmdPDeF3eQhvZgNPZPA8qZnazX-UTtr5CvKA",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "MSUI42006021",
+    "aldersgrense": "0",
+    "duration": 0,
+    "mentionedList": [],
+    "originalTitle": "Babblarnas julevise",
+    "otherTitles": [
+     "Babblarna",
+     "28. Babblarnas julevise",
+     "Babblarnas julevise",
+     "Babblarnas julevise"
+    ],
+    "programUrlMetadata": "",
+    "usageRights": {
+     "isGeoBlocked": false,
+     "availableFrom": "/Date(1767225660000+0000)/",
+     "availableTo": "/Date(1867017599000+0000)/",
+     "hasRightsNow": true
+    },
+    "availability": {
+     "status": "available",
+     "hasLabel": false
+    },
+    "seriesId": "babblarna",
+    "seasonId": "1",
+    "seasonNumber": "1",
+    "episodeNumber": "1",
+    "seriesTitle": "Babblarna",
+    "seasonDisplayType": 1,
+    "episodeNumberOrDate": "1",
+    "searchHitDisplayTitle": "Babblarnas julevise",
+    "episodeTitle": "28. Babblarnas julevise",
+    "hideInSearchResults": false,
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.EpisodeSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  },
+  {
+   "type": "serie",
+   "hit": {
+    "title": "Uten rettigheter",
+    "description": "Er den norske naturen slik vi kjenner den i ferd med å forsvinne? Hva skjer med insektene, fisken, skogen og fjellnaturen når klimaet endrer seg?",
+    "url": "serie/natur-i-endring",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": false,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQyol9yz8tCTF4PbuIWJoI5g",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQytnIpOL39Jp4PbuIWJoI5g",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQOw9yQJlnMwd4PbuIWJoI5g",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "no-rights-series",
+    "seasons": [],
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.SeriesSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  },
+  {
+   "type": "serie",
+   "hit": {
+    "title": "Natur i endring",
+    "description": "Er den norske naturen slik vi kjenner den i ferd med å forsvinne? Hva skjer med insektene, fisken, skogen og fjellnaturen når klimaet endrer seg?",
+    "url": "serie/natur-i-endring",
+    "category": {
+     "id": "",
+     "sourceMedium": "",
+     "categoryId": "",
+     "title": "",
+     "url": ""
+    },
+    "hasRights": true,
+    "sourceMedium": "tv",
+    "subjects": [],
+    "image": {
+     "webImages": [
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQyol9yz8tCTF4PbuIWJoI5g",
+       "pixelWidth": 300
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQytnIpOL39Jp4PbuIWJoI5g",
+       "pixelWidth": 960
+      },
+      {
+       "imageUrl": "https://gfx.nrk.no/z7Qgs7zYREqaYdYfizKuPQOw9yQJlnMwd4PbuIWJoI5g",
+       "pixelWidth": 1920
+      }
+     ]
+    },
+    "contributors": [],
+    "id": "natur-i-endring",
+    "seasons": [],
+    "$type": "Nrk.PsApi.Contracts.V8.Models.Search.SearchModels.SeriesSearchModelVm, Nrk.PsApi.Contracts.V8"
+   },
+   "highlights": {}
+  }
+ ]
+}
