@@ -1,0 +1,998 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "programme_episodes": {
+  "page": 1,
+  "per_page": 200,
+  "count": 112,
+  "elements": [
+   {
+    "id": "m0031xg9",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvg9r.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvg9r.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvgcy.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-6-training_room_diaries",
+    "subtitle": "Series 24 Extras: Training Room Diaries - Week Five",
+    "synopses": {
+     "small": "Abi pops by Graeme, Delta, and Dani to see how they're getting on in training."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031xgb",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "16 mins",
+       "value": "PT16M"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-21T17:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "21 Oct 2026",
+      "first_broadcast_date_time": "2026-10-21T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "21 Oct 2026",
+    "original_title": "Training Room Diaries - Week Five",
+    "programme_type": "sequential",
+    "slice_subtitle": "Training Room Diaries - Week Five",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-21T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 82
+   },
+   {
+    "id": "m0031y30",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph97bb.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph97bb.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph97bv.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-5-pro_dances",
+    "subtitle": "Series 24 Extras: The Pros dance Madonna for Icons Week",
+    "synopses": {
+     "small": "The Pros dance a Madonna medley for Icons Week."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031y2z",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "4 mins",
+       "value": "PT4M11.160S"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-19T08:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 251,
+      "first_broadcast": "19 Oct 2026",
+      "first_broadcast_date_time": "2026-10-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "19 Oct 2026",
+    "original_title": "The Pros dance Madonna for Icons Week",
+    "programme_type": "sequential",
+    "slice_subtitle": "The Pros dance Madonna for Icons Week",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-19T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 76
+   },
+   {
+    "id": "m0031xh2",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdy9hq.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdy9hq.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phcfzz.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-2-lights_up",
+    "subtitle": "Series 24 Extras: Lights Up - Week Four",
+    "synopses": {
+     "small": "The next Strictly elimination is here and Abi and Tyler get all the reaction."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031xh3",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "16 mins",
+       "value": "PT16M18.040S"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-18T18:57:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 978,
+      "first_broadcast": "19 Oct 2026",
+      "first_broadcast_date_time": "2026-10-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "19 Oct 2026",
+    "original_title": "Lights Up - Week Four",
+    "programme_type": "sequential",
+    "slice_subtitle": "Lights Up - Week Four",
+    "audio_described": false,
+    "editorial_title": "Strictly: Lights Up",
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-19T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 11
+   },
+   {
+    "id": "m00336jl",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qc29.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phngrp.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phngrp.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phngh1.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qc61.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-1-series_24",
+    "subtitle": "Series 24: Week 4 Results",
+    "synopses": {
+     "large": "The atmosphere in the ballroom is tense as the remaining couples wait to discover their fate. Emma, Josh and Jojo reveal who is safely through to another week of dancing, while the judges dissect all the action from the latest round.\n\nIn honour of Icons Week, the pros strike a pose as they delve into queen of pop Madonna's back catalogue for their latest group number. As two more couples land in the dreaded bottom two, who will triumph in the dance-off? And who will be saying goodbye to Strictly?",
+     "small": "The atmosphere in the ballroom is tense as the remaining couples discover their fate.",
+     "medium": "The atmosphere in the ballroom is tense as the remaining couples wait to discover their fate. Emma, Josh and Jojo reveal who is safely through to another week of dancing.",
+     "editorial": "The pros strike a pose with a Madonna medley before the dreaded dance-off beckons"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m00336jk",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "46 mins",
+       "value": "PT46M15.800S"
+      },
+      "availability": {
+       "end": "2027-12-13T19:57:00Z",
+       "start": "2026-10-18T18:56:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 2768,
+      "first_broadcast": "7:10pm 18 Oct 2026",
+      "first_broadcast_date_time": "2026-10-18T18:10:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0phd4ql",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "46 mins",
+       "value": "PT46M15.800S"
+      },
+      "availability": {
+       "end": "2027-12-13T19:57:00Z",
+       "start": "2026-10-18T18:56:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "18 Oct 2026",
+      "first_broadcast_date_time": "2026-10-18T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xbx",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "entertainment"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "18 Oct 2026",
+    "original_title": "Week 4 Results",
+    "programme_type": "sequential",
+    "slice_subtitle": "Week 4 Results",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-18T00:00:00.000Z",
+    "editorial_subtitle": "Week 4 Results",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+   },
+   {
+    "id": "m0031y2x",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph979m.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph979m.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph97b0.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-4-dances",
+    "subtitle": "Series 24 Extras: Tabby and Mark dance a Samba",
+    "synopses": {
+     "small": "Tabby and Mark dance a Samba to RAYE for Icons Week."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031y2y",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "2:00",
+       "value": "PT2M0.880S"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-18T08:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "18 Oct 2026",
+      "first_broadcast_date_time": "2026-10-18T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "18 Oct 2026",
+    "original_title": "Tabby and Mark dance a Samba",
+    "programme_type": "sequential",
+    "slice_subtitle": "Tabby and Mark dance a Samba",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-18T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 19
+   },
+   {
+    "id": "m00336h6",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qc29.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phngbj.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phngbj.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phng5r.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qc61.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": true,
+    "slice_id": "b006m8dq-manual-1-series_24",
+    "subtitle": "Series 24: Icons Week",
+    "synopses": {
+     "large": "Get ready for some incredible transformations as our remaining couples take on Icons Week, with routines inspired by some of the best-loved recording artists in history. As always, Shirley Ballas, Craig Revel Horwood, Motsi Mabuse and Anton Du Beke provide expert advice and scores. By the end of the night, who will you think has delivered a performance worthy of the Strictly hall of fame?",
+     "small": "Get ready for some incredible transformations as our remaining couples take on Icons Week.",
+     "medium": "Get ready for some incredible transformations as our remaining couples take on Icons Week, with routines inspired by some of the best-loved recording artists in history.",
+     "editorial": "Incredible transformations as the couples pay tribute to the world’s biggest stars"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m00336h5",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "2h 9m",
+       "value": "PT2H9M12.520S"
+      },
+      "guidance": {
+       "id": "RFI",
+       "text": {
+        "large": "Contains scenes of flashing images.",
+        "small": "Has guidance",
+        "medium": "Contains flashing images."
+       }
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-17T19:29:21Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 7748,
+      "first_broadcast": "6:15pm 17 Oct 2026",
+      "first_broadcast_date_time": "2026-10-17T17:15:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0ph90d5",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "2h 9m",
+       "value": "PT2H9M12.520S"
+      },
+      "guidance": {
+       "id": "RFI",
+       "text": {
+        "large": "Contains scenes of flashing images.",
+        "small": "Has guidance",
+        "medium": "Contains flashing images."
+       }
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-17T19:29:21Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "17 Oct 2026",
+      "first_broadcast_date_time": "2026-10-17T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xbx",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "entertainment"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "17 Oct 2026",
+    "original_title": "Icons Week",
+    "programme_type": "sequential",
+    "slice_subtitle": "Icons Week",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-17T00:00:00.000Z",
+    "editorial_subtitle": "Icons Week",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 3
+   },
+   {
+    "id": "m0031y32",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph72w6.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph72w6.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph72x9.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-3-weekly_rewind",
+    "subtitle": "Series 24 Extras: Weekly Rewind - Week Four",
+    "synopses": {
+     "small": "Tyler and Abi deliver the lowdown on Strictly ahead of Icons Week!"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031y31",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "17 mins",
+       "value": "PT16M38.229333S"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-10-17T07:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 996,
+      "first_broadcast": "17 Oct 2026",
+      "first_broadcast_date_time": "2026-10-17T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "17 Oct 2026",
+    "original_title": "Weekly Rewind - Week Four",
+    "programme_type": "sequential",
+    "slice_subtitle": "Weekly Rewind - Week Four",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-17T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 15
+   },
+   {
+    "id": "m0031xj1",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbhzdb.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbhzdb.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pc7hnx.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-7-launch_show_highlights",
+    "subtitle": "Series 24 Extras: New Professionals Intro Dance",
+    "synopses": {
+     "small": "Our new professionals take to the Strictly dance floor for the first time!"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031xj2",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "3 mins",
+       "value": "PT3M27.786666S"
+      },
+      "availability": {
+       "end": "2027-12-25T18:40:00Z",
+       "start": "2026-09-18T20:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 207,
+      "first_broadcast": "19 Sep 2026",
+      "first_broadcast_date_time": "2026-09-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xfy",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "19 Sep 2026",
+    "original_title": "New Professionals Intro Dance",
+    "programme_type": "sequential",
+    "slice_subtitle": "New Professionals Intro Dance",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-09-19T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 93
+   },
+   {
+    "id": "m002p12y",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mq9v7h.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mq9x7p.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mq9x7p.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mq9vdz.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-8-series_23",
+    "subtitle": "Series 23: Christmas Special",
+    "synopses": {
+     "large": "Strictly Come Dancing returns to the ballroom this Christmas, ready to captivate the nation with a celebration of dance and festive cheer. \n\nTess Daly and Claudia Winkleman host as six celebrities step into the spotlight, each hoping to impress the judges and become Christmas Champion 2025. \n\nBoy band Blue deliver a special musical performance, and the Christmas cast take to the floor for two spectacular group dances.",
+     "small": "Strictly returns to the ballroom with a celebration of dance and festive cheer.",
+     "medium": "Strictly Come Dancing returns to the ballroom this Christmas, ready to captivate the nation with a celebration of dance and festive cheer.",
+     "editorial": "Six new celebs take to the floor, aiming to be Christmas champion"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m002p12x",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "1h 14m",
+       "value": "PT1H13M58.040S"
+      },
+      "availability": {
+       "end": "2026-12-25T18:46:41Z",
+       "start": "2025-12-25T18:46:41Z",
+       "remaining": {
+        "text": "Available for 2 months"
+       }
+      },
+      "credits_start": 4434,
+      "first_broadcast": "5:30pm 25 Dec 2025",
+      "first_broadcast_date_time": "2025-12-25T17:30:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0mq9pnk",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "1h 14m",
+       "value": "PT1H13M58.040S"
+      },
+      "availability": {
+       "end": "2026-12-25T18:46:41Z",
+       "start": "2025-12-25T18:46:41Z",
+       "remaining": {
+        "text": "Available for 2 months"
+       }
+      },
+      "first_broadcast": "25 Dec 2025",
+      "first_broadcast_date_time": "2025-12-25T00:00:00.000Z"
+     },
+     {
+      "hd": true,
+      "id": "m002p1mk",
+      "hdr": false,
+      "uhd": false,
+      "kind": "signed",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "1h 14m",
+       "value": "PT1H13M58.040S"
+      },
+      "availability": {
+       "end": "2026-12-25T18:46:41Z",
+       "start": "2025-12-25T18:46:41Z",
+       "remaining": {
+        "text": "Available for 2 months"
+       }
+      },
+      "first_broadcast": "25 Dec 2025",
+      "first_broadcast_date_time": "2025-12-25T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m002jxnv",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "entertainment",
+     "signed"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "25 Dec 2025",
+    "original_title": "Christmas Special",
+    "programme_type": "sequential",
+    "slice_subtitle": "Christmas Special",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2025-12-25T00:00:00.000Z",
+    "editorial_subtitle": "A sparkling seasonal spectacular",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 120
+   }
+  ],
+  "programme": {
+   "id": "b006m8dq",
+   "live": false,
+   "type": "programme",
+   "title": "Strictly Come Dancing",
+   "images": {
+    "logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb3ysp.png",
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qbz6.jpg",
+    "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0m6zwgj.jpg",
+    "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0m6zwsn.jpg"
+   },
+   "labels": {
+    "category": "Entertainment",
+    "editorial_info": "New series"
+   },
+   "status": "available",
+   "synopses": {
+    "small": "Celebrities take to the dance floor to perform a dazzling display of ballroom routines.",
+    "medium": "Dazzling routines, outrageous sets, flamboyant costumes and the occasional dance dis-aaa-ster."
+   },
+   "tleo_type": "brand",
+   "categories": [
+    "entertainment"
+   ],
+   "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+     "large": "BBC One",
+     "small": "BBC One",
+     "medium": "BBC One"
+    },
+    "attribution": "bbc_one"
+   },
+   "programme_type": "sequential",
+   "lexical_sort_letter": "S",
+   "count": 112,
+   "initial_children": [
+    {
+     "id": "m0031xg9",
+     "live": false,
+     "type": "episode",
+     "title": "Strictly Come Dancing",
+     "images": {
+      "type": "image",
+      "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vrz.jpg",
+      "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvg9r.jpg",
+      "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvg9r.jpg",
+      "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0phvgcy.jpg",
+      "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pb2vx1.jpg"
+     },
+     "labels": {
+      "category": "Entertainment"
+     },
+     "signed": false,
+     "status": "available",
+     "tleo_id": "b006m8dq",
+     "guidance": false,
+     "slice_id": "b006m8dq-manual-6-training_room_diaries",
+     "subtitle": "Series 24 Extras: Training Room Diaries - Week Five",
+     "synopses": {
+      "small": "Abi pops by Graeme, Delta, and Dani to see how they're getting on in training."
+     },
+     "versions": [
+      {
+       "hd": true,
+       "id": "m0031xgb",
+       "hdr": false,
+       "uhd": false,
+       "kind": "original",
+       "type": "version",
+       "download": true,
+       "duration": {
+        "text": "16 mins",
+        "value": "PT16M"
+       },
+       "availability": {
+        "end": "2027-12-25T18:40:00Z",
+        "start": "2026-10-21T17:00:00Z",
+        "remaining": {
+         "text": "Available for over a year"
+        }
+       },
+       "first_broadcast": "21 Oct 2026",
+       "first_broadcast_date_time": "2026-10-21T00:00:00.000Z"
+      }
+     ],
+     "childrens": false,
+     "parent_id": "m0031xfy",
+     "tleo_type": "brand",
+     "categories": [
+      "entertainment"
+     ],
+     "has_credits": false,
+     "requires_ab": [
+      "u13",
+      "u16",
+      "u18",
+      "o18"
+     ],
+     "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+       "large": "BBC One",
+       "small": "BBC One",
+       "medium": "BBC One"
+      },
+      "attribution": "bbc_one"
+     },
+     "release_date": "21 Oct 2026",
+     "original_title": "Training Room Diaries - Week Five",
+     "programme_type": "sequential",
+     "slice_subtitle": "Training Room Diaries - Week Five",
+     "audio_described": false,
+     "requires_sign_in": true,
+     "release_date_time": "2026-10-21T00:00:00.000Z",
+     "lexical_sort_letter": "S",
+     "requires_tv_licence": true,
+     "numeric_tleo_position": 82
+    }
+   ]
+  }
+ }
+}

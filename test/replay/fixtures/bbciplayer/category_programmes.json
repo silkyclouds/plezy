@@ -1,0 +1,482 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "category_programmes": {
+  "count": 1135,
+  "category": {
+   "id": "documentaries",
+   "title": "Documentaries",
+   "type": "category",
+   "kind": "genre",
+   "child_episode_count": 6511
+  },
+  "page": 1,
+  "per_page": 5,
+  "elements": [
+   {
+    "id": "m002xvg0",
+    "live": false,
+    "type": "programme_large",
+    "title": "1976: Summer of... Heat",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc3qd.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc3qd.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc494.jpg"
+    },
+    "labels": {
+     "category": "History"
+    },
+    "status": "available",
+    "synopses": {
+     "small": "Documentary looking at the heatwave of 1976. As the country sweltered, tensions rose.",
+     "medium": "Documentary looking at the heatwave of 1976. The longest driest spell on record led to drought, water rationing and forest fires. As the country sweltered, tensions rose."
+    },
+    "tleo_type": "episode",
+    "categories": [
+     "documentaries-history",
+     "documentaries",
+     "history"
+    ],
+    "master_brand": {
+     "id": "bbc_two",
+     "titles": {
+      "large": "BBC Two",
+      "small": "BBC Two",
+      "medium": "BBC Two"
+     },
+     "attribution": "bbc_two"
+    },
+    "programme_type": "one-off",
+    "lexical_sort_letter": "0-9",
+    "count": 1,
+    "initial_children": [
+     {
+      "id": "m002xvg0",
+      "live": false,
+      "type": "episode",
+      "title": "1976: Summer of... Heat",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc3wm.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc3qd.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc3qd.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nqc494.jpg"
+      },
+      "labels": {
+       "category": "History"
+      },
+      "signed": false,
+      "status": "available",
+      "tleo_id": "m002xvg0",
+      "guidance": true,
+      "synopses": {
+       "small": "Documentary looking at the heatwave of 1976. As the country sweltered, tensions rose.",
+       "medium": "Documentary looking at the heatwave of 1976. The longest driest spell on record led to drought, water rationing and forest fires. As the country sweltered, tensions rose.",
+       "editorial": "The summer that baked, burned and simmered with tensions that transformed a generation"
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m002y3mk",
+        "hdr": false,
+        "uhd": false,
+        "kind": "editorial",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 3419,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "59 mins",
+         "value": "PT58M59.157333S"
+        },
+        "guidance": {
+         "id": "L3",
+         "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+         }
+        },
+        "availability": {
+         "end": "2027-06-13T21:30:54Z",
+         "start": "2026-06-13T21:30:54Z",
+         "remaining": {
+          "text": "Available for 7 months"
+         }
+        },
+        "credits_start": 3534,
+        "first_broadcast": "3 Jun 2006",
+        "first_broadcast_date_time": "2006-06-03T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "tleo_type": "episode",
+      "categories": [
+       "archive",
+       "documentaries-history",
+       "documentaries",
+       "history"
+      ],
+      "has_credits": false,
+      "requires_ab": [
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_two",
+       "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+       },
+       "attribution": "bbc_two"
+      },
+      "release_date": "3 Jun 2006",
+      "related_links": [],
+      "original_title": "1976: Summer of... Heat",
+      "programme_type": "one-off",
+      "audio_described": false,
+      "requires_sign_in": true,
+      "release_date_time": "2006-06-03T00:00:00.000Z",
+      "editorial_subtitle": "The summer that baked, burned and simmered",
+      "lexical_sort_letter": "0-9",
+      "requires_tv_licence": true
+     }
+    ]
+   },
+   {
+    "id": "m0031yjk",
+    "live": false,
+    "type": "programme_large",
+    "title": "20 Years of Not Going Out",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rbxc.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rbxc.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rc04.jpg"
+    },
+    "labels": {
+     "category": "Comedy"
+    },
+    "status": "available",
+    "synopses": {
+     "large": "Celebrating a modern comedy classic. It’s the 20th anniversary of Not Going Out, the sitcom created, written and starring the brilliant Lee Mack. In this very special half-hour documentary, he invites us to hear the inside story of how the series came to be and why it’s stood the test of time.\n\nIt’s the longest-running British sitcom still in production, and there is exclusive access behind closed studio doors to see exactly how the show is made. From the initial spark in a writers’ meeting, through theatre read-throughs where, uniquely, scripts are tested on an audience to intensive rehearsals and finally the studio recording, cameras follow Lee, the cast and crew as they bring together a brand new series coinciding with the show’s milestone birthday.\n\nIn an in-depth interview, Lee shares the story of the show from his own perspective, with plenty of fascinating details and funny anecdotes along the way. Fellow stars Sally Bretton, Tim Vine, Hugh Dennis, Abigail Cruttenden, Deborah Grant and Geoffrey Whitehead reflect on its phenomenal success, alongside guest stars Chris McCausland and Jocelyn Jee Esien, as well as producer Jamie Rix and director Nick Wood. Classic clips and rarely seen footage add extra context, insight and, of course, lots of laughs.",
+     "small": "Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access.",
+     "medium": "Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access."
+    },
+    "tleo_type": "episode",
+    "categories": [
+     "comedy-sitcoms",
+     "comedy",
+     "documentaries"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "programme_type": "one-off",
+    "lexical_sort_letter": "0-9",
+    "count": 1,
+    "initial_children": [
+     {
+      "id": "m0031yjk",
+      "live": false,
+      "type": "episode",
+      "title": "20 Years of Not Going Out",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rbys.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rbxc.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rbxc.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9rc04.jpg"
+      },
+      "labels": {
+       "category": "Comedy"
+      },
+      "signed": false,
+      "status": "available",
+      "tleo_id": "m0031yjk",
+      "guidance": true,
+      "synopses": {
+       "large": "Celebrating a modern comedy classic. It’s the 20th anniversary of Not Going Out, the sitcom created, written and starring the brilliant Lee Mack. In this very special half-hour documentary, he invites us to hear the inside story of how the series came to be and why it’s stood the test of time.\n\nIt’s the longest-running British sitcom still in production, and there is exclusive access behind closed studio doors to see exactly how the show is made. From the initial spark in a writers’ meeting, through theatre read-throughs where, uniquely, scripts are tested on an audience to intensive rehearsals and finally the studio recording, cameras follow Lee, the cast and crew as they bring together a brand new series coinciding with the show’s milestone birthday.\n\nIn an in-depth interview, Lee shares the story of the show from his own perspective, with plenty of fascinating details and funny anecdotes along the way. Fellow stars Sally Bretton, Tim Vine, Hugh Dennis, Abigail Cruttenden, Deborah Grant and Geoffrey Whitehead reflect on its phenomenal success, alongside guest stars Chris McCausland and Jocelyn Jee Esien, as well as producer Jamie Rix and director Nick Wood. Classic clips and rarely seen footage add extra context, insight and, of course, lots of laughs.",
+       "small": "Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access.",
+       "medium": "Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.",
+       "editorial": "Mack’s memories. Lee and pals reflect on two decades of superbly silly sitcom success"
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m0031yjj",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 1650,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "30 mins",
+         "value": "PT29M30.112S"
+        },
+        "guidance": {
+         "id": "W1",
+         "text": {
+          "large": "Contains adult humour.",
+          "small": "Has guidance",
+          "medium": "Contains adult humour."
+         }
+        },
+        "availability": {
+         "end": "2027-09-23T05:00:00Z",
+         "start": "2026-09-23T05:00:00Z",
+         "remaining": {
+          "text": "Available for 11 months"
+         }
+        },
+        "credits_start": 1749,
+        "first_broadcast": "9pm 23 Sep 2026",
+        "first_broadcast_date_time": "2026-09-23T20:00:00.000Z"
+       },
+       {
+        "hd": false,
+        "id": "p0pbwdfm",
+        "hdr": false,
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 1650,
+          "system": "uas"
+         }
+        ],
+        "download": false,
+        "duration": {
+         "text": "30 mins",
+         "value": "PT29M30.040S"
+        },
+        "guidance": {
+         "id": "W1",
+         "text": {
+          "large": "Contains adult humour.",
+          "small": "Has guidance",
+          "medium": "Contains adult humour."
+         }
+        },
+        "availability": {
+         "end": "2027-09-23T05:00:00Z",
+         "start": "2026-09-23T05:00:00Z",
+         "remaining": {
+          "text": "Available for 11 months"
+         }
+        },
+        "first_broadcast": "23 Sep 2026",
+        "first_broadcast_date_time": "2026-09-23T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "tleo_type": "episode",
+      "categories": [
+       "audio-described",
+       "comedy-sitcoms",
+       "comedy",
+       "documentaries"
+      ],
+      "has_credits": true,
+      "requires_ab": [
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_one",
+       "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+       },
+       "attribution": "bbc_one"
+      },
+      "release_date": "23 Sep 2026",
+      "related_links": [],
+      "original_title": "20 Years of Not Going Out",
+      "programme_type": "one-off",
+      "audio_described": true,
+      "requires_sign_in": true,
+      "release_date_time": "2026-09-23T00:00:00.000Z",
+      "editorial_subtitle": "Mack’s memories",
+      "lexical_sort_letter": "0-9",
+      "requires_tv_licence": true
+     }
+    ]
+   },
+   {
+    "id": "m002tl62",
+    "live": false,
+    "type": "programme_large",
+    "title": "21st Century TV with Lucy Owen",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jg8d.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jg8d.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jggj.jpg"
+    },
+    "labels": {
+     "category": "Documentary"
+    },
+    "status": "available",
+    "synopses": {
+     "small": "BBC Wales’s Lucy Owen celebrates Welsh news and entertainment from the year 2000.",
+     "medium": "News from the noughties. What was Wales talking about at the turn of the millennium? Lucy Owen looks back at serious and silly stories from the BBC archives."
+    },
+    "tleo_type": "brand",
+    "categories": [
+     "documentaries",
+     "wales"
+    ],
+    "master_brand": {
+     "id": "bbc_one_wales",
+     "titles": {
+      "large": "BBC One Wales",
+      "small": "BBC One",
+      "medium": "BBC One Wales"
+     },
+     "attribution": "bbc_one_wales"
+    },
+    "programme_type": "sequential",
+    "lexical_sort_letter": "0-9",
+    "count": 10,
+    "initial_children": [
+     {
+      "id": "m002tvbl",
+      "live": false,
+      "type": "episode",
+      "title": "21st Century TV with Lucy Owen",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jgdj.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n9m9vf.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jg8d.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8jggj.jpg"
+      },
+      "labels": {
+       "category": "Documentary"
+      },
+      "signed": false,
+      "status": "available",
+      "tleo_id": "m002tl62",
+      "guidance": false,
+      "subtitle": "Series 1: 10. 2009",
+      "synopses": {
+       "large": "Lucy Owen explores BBC Wales’s archives of 2009, with gems that include the BBC Wales presenters in a Strictly dance-off for Children in Need. \n\nThe wild Kashmir goats of Llandudno provide a new regimental mascot for the Royal Welsh. Boffins in Aberystwyth wonder if elephant grass could provide a new biofuel, and we observe Harry Potter’s shell house in Pembrokeshire. \n\nThe Institute of Astronomy donates a giant telescope to Knighton, and the best private collection of Welsh quilts goes on public show. There’s a skunk on the loose in Tredegar, and the women’s tug o’ war team train for the World Championships.",
+       "small": "BBC Wales presenters take part in a Strictly dance-off for Children in Need. ",
+       "medium": "Lucy Owen takes a personal trip through the BBC Wales news and entertainment archives of 2009, including BBC Wales presenters taking part in a Strictly dance-off for Children in Need. "
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m002tvbm",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 1631,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "29 mins",
+         "value": "PT29M11.040S"
+        },
+        "availability": {
+         "end": "2027-03-30T19:01:29Z",
+         "start": "2026-03-30T19:01:29Z",
+         "remaining": {
+          "text": "Available for 5 months"
+         }
+        },
+        "first_broadcast": "30 Mar 2026",
+        "first_broadcast_date_time": "2026-03-30T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "parent_id": "m002tl61",
+      "tleo_type": "brand",
+      "categories": [
+       "documentaries",
+       "wales"
+      ],
+      "has_credits": true,
+      "requires_ab": [
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_one_wales",
+       "titles": {
+        "large": "BBC One Wales",
+        "small": "BBC One",
+        "medium": "BBC One Wales"
+       },
+       "attribution": "bbc_one_wales"
+      },
+      "release_date": "30 Mar 2026",
+      "related_links": [],
+      "original_title": "2009",
+      "programme_type": "sequential",
+      "slice_subtitle": "10. 2009",
+      "audio_described": false,
+      "parent_position": 10,
+      "requires_sign_in": true,
+      "release_date_time": "2026-03-30T00:00:00.000Z",
+      "lexical_sort_letter": "0-9",
+      "requires_tv_licence": true
+     }
+    ]
+   }
+  ]
+ }
+}

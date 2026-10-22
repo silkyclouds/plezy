@@ -1,0 +1,53 @@
+{
+ "media": [
+  {
+   "kind": "video",
+   "type": "video/mp4",
+   "bitrate": "5070",
+   "height": "1080",
+   "width": "1920",
+   "media_file_size": 0,
+   "encoding": "h264",
+   "service": "iplayer_streaming_h264_hd",
+   "expires": "2026-10-22T11:00:00Z",
+   "connection": [
+    {
+     "href": "https://vod-hls-uk-live.akamaized.net/usp/auth/vod/piff_abr_full_hd/aaaa/vf_m0030pxv.ism/iptv_hd_abr_v1_hls_master.m3u8?__gda__=sig",
+     "supplier": "mf_akamai",
+     "transferFormat": "hls",
+     "protocol": "https",
+     "priority": "1"
+    },
+    {
+     "href": "https://vod-hls-uk-live.akamaized.net/usp/auth/vod/piff_abr_full_hd/bbbb/vf_m0030pxv.ism/iptv_hd_abr_v1_hls_master.m3u8?__gda__=sig",
+     "supplier": "mf_cloudfront",
+     "transferFormat": "hls",
+     "protocol": "https",
+     "priority": "2"
+    },
+    {
+     "href": "https://vod-dash-uk-live.akamaized.net/usp/auth/vod/piff_abr_full_hd/cccc/vf_m0030pxv.ism/iptv_hd_abr_v1_dash_master.mpd?__gda__=sig",
+     "supplier": "mf_akamai",
+     "transferFormat": "dash",
+     "protocol": "https",
+     "priority": "1"
+    }
+   ]
+  },
+  {
+   "kind": "captions",
+   "type": "application/ttml+xml",
+   "service": "captions",
+   "expires": "2026-10-22T11:00:00Z",
+   "connection": [
+    {
+     "href": "https://vod-sub-uk-live.akamaized.net/iplayer/subtitles/ng/modav/bbc_one/m0030pxv.xml",
+     "supplier": "akamai",
+     "transferFormat": "http",
+     "protocol": "https",
+     "priority": "1"
+    }
+   ]
+  }
+ ]
+}

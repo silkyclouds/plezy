@@ -1,0 +1,489 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "group_episodes": {
+  "page": 1,
+  "per_page": 5,
+  "count": 47,
+  "group": {
+   "id": "p07jlk69",
+   "type": "group",
+   "group_type": "curated",
+   "content_type": "episodes",
+   "stacked": false,
+   "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p07jlk6l.jpg",
+    "vertical": "https://ichef.bbci.co.uk/images/ic/{recipe}/p07jlk6l.jpg"
+   },
+   "episode_sort_direction": "asc",
+   "related_links": [],
+   "title": "Comedy",
+   "synopses": {
+    "small": "The biggest laughs from BBC One."
+   }
+  },
+  "elements": [
+   {
+    "id": "m0022ww3",
+    "live": false,
+    "type": "episode",
+    "title": "Ludwig",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwskd.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jr7mwz.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwsjm.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwsm2.jpg"
+    },
+    "labels": {
+     "category": "Crime Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "m0022wvz",
+    "guidance": false,
+    "slice_id": "m0022wvz-structural-1-m0022ww2",
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+     "large": "Puzzle setter John ‘Ludwig’ Taylor’s life of solitude is upended when his identical twin, DCI James Taylor, disappears. Drafted in by his sister-in-law Lucy, John reluctantly assumes his brother's identity as a detective in the Cambridge Police Authority in order to find clues to his brother’s whereabouts. \n\nJohn is tasked with infiltrating the major investigations team, gathering information and solving a completely unconnected murder, all whilst remaining in character as his brother. A difficult ask for anyone, let alone a reclusive puzzle-setting genius who rarely leaves the house. Can this master of all things cryptic crack his biggest puzzle yet?",
+     "small": "Puzzle setter John ‘Ludwig’ Taylor’s life is upended when his identical twin disappears.",
+     "medium": "Puzzle setter John ‘Ludwig’ Taylor’s life is upended when his identical twin, DCI James Taylor, disappears. John reluctantly assumes his identity in order to track him down.",
+     "editorial": "The accidental detective. Puzzle master John is plunged into the cryptic world of crime",
+     "programme_small": "Puzzle setter John ‘Ludwig’ Taylor assumes his twin brother's identity to track him down."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0022ww4",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3306,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "57 mins",
+       "value": "PT57M6.320S"
+      },
+      "availability": {
+       "end": "2029-09-25T05:00:00Z",
+       "start": "2025-09-25T04:30:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 130,
+         "show_from": 106
+        }
+       },
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip preview",
+         "short": "Skip"
+        },
+        "subtype": "next-episode-teaser",
+        "interaction_points": {
+         "skip_to": 3394,
+         "show_from": 3288
+        }
+       }
+      ],
+      "credits_start": 3399,
+      "first_broadcast": "9pm 25 Sep 2024",
+      "first_broadcast_date_time": "2024-09-25T20:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0jsjp5v",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3306,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "57 mins",
+       "value": "PT57M6.040S"
+      },
+      "availability": {
+       "end": "2029-09-25T05:00:00Z",
+       "start": "2025-09-25T04:30:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "25 Sep 2024",
+      "first_broadcast_date_time": "2024-09-25T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0022ww2",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "comedy",
+     "drama-and-soaps",
+     "drama-crime",
+     "signed"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "25 Sep 2024",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2024-09-25T00:00:00.000Z",
+    "editorial_subtitle": "The accidental detective",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+   },
+   {
+    "id": "m0025ydz",
+    "live": false,
+    "type": "episode",
+    "title": "Amandaland",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kmkb7b.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kmnmp8.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kmk7q8.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kmk8tv.jpg"
+    },
+    "labels": {
+     "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m0024pyy",
+    "guidance": true,
+    "slice_id": "m0024pyy-structural-1-m0025ydy",
+    "subtitle": "Series 1: 1. House Party",
+    "synopses": {
+     "large": "Following her divorce, Amanda finds herself downsizing from Chiswick to So-ha (South Harlesden). Amanda rekindles her friendship with Anne, her ex-bff from the old primary school gates. Amanda’s children, Georgie and Manus, have recently moved to the same local high school as Anne’s son Darius. Amanda is delighted when Georgie befriends Morten, the daughter of celebrity chef Della Fry, the owner of trendy local eatery SHIN.\n\nRealising her way in is through the local football club, Amanda signs the kids up to Hounslow Eagle FC, despite having zero interest in soccer. Meanwhile, Anne organises welcome drinks to introduce Amanda to the ‘Anne Gang’ the same night as Georgie’s invited to Morten’s house party at Della and her wife Fi’s house. Amanda is torn. Does she go and 'sink some fizz' with Anne, or does she capitalise on the opportunity to take a dip in Della and Fi’s hot tub? \n\nWhile all this is going on, Amanda’s mother Felicity offers to babysit Manus (mainly to avoid her PA/carer Joy), and Amanda continues to contest the parking space outside her flat with her neighbour and fellow school parent Mal. In turn, Mal navigates the world of co-parenting with his son’s step-dad, JJ.",
+     "small": "After moving to So-ha (South Harlesden), Amanda tries to get in with some new parents.",
+     "medium": "After moving from Chiswick to So-ha (South Harlesden), Amanda rekindles her friendship with Anne and tries to schmooze a celebrity chef at her kids’ new secondary school.",
+     "editorial": "Life after Motherland. Facing the horror of teens, not even an alpha mum can have it all",
+     "programme_small": "Post her divorce, Amanda has had to downsize."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0027nzw",
+      "hdr": false,
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1618,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "29 mins",
+       "value": "PT28M58.400S"
+      },
+      "guidance": {
+       "id": "L1",
+       "text": {
+        "large": "Contains some strong language.",
+        "small": "Has guidance",
+        "medium": "Contains some strong language."
+       }
+      },
+      "availability": {
+       "end": "2030-02-05T06:00:00Z",
+       "start": "2026-02-05T05:30:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 1711,
+      "first_broadcast": "5 Feb 2025",
+      "first_broadcast_date_time": "2025-02-05T00:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0kncv4s",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1618,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "29 mins",
+       "value": "PT28M58.400S"
+      },
+      "availability": {
+       "end": "2030-02-05T06:00:00Z",
+       "start": "2026-02-05T05:30:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "5 Feb 2025",
+      "first_broadcast_date_time": "2025-02-05T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0025ydy",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "comedy"
+    ],
+    "preview_id": "p0njwm8v",
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "5 Feb 2025",
+    "related_links": [],
+    "original_title": "House Party",
+    "programme_type": "narrative",
+    "slice_subtitle": "1. House Party",
+    "audio_described": true,
+    "parent_position": 1,
+    "preview_clip_id": "p0njwm8n",
+    "requires_sign_in": true,
+    "release_date_time": "2025-02-05T00:00:00.000Z",
+    "editorial_subtitle": "Life after Motherland",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+   },
+   {
+    "id": "m002d2yb",
+    "live": false,
+    "type": "episode",
+    "title": "Not Going Out",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0lg442b.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0lff9qc.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0lg4411.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0lg4457.jpg"
+    },
+    "labels": {
+     "category": "Comedy"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "b006mw70",
+    "guidance": false,
+    "slice_id": "b006mw70-structural-14-m002d2y9",
+    "subtitle": "Series 14: 1. House Move",
+    "synopses": {
+     "large": "Lee and Lucy are moving house and viewing a property that Lucy loves when, embarrassingly, Lee needs the loo. Before he can use it, however, a second buyer turns up to take a look at the property. To dissuade him from putting in an offer, Lee pretends to be the vendor.",
+     "small": "Lee and Lucy are moving house and view what they think is their forever home.",
+     "medium": "Lee and Lucy decide to move house and are viewing the home of their dreams when Lee asks to use the loo, causing unwanted tension with the vendor.",
+     "editorial": "The children have flown the nest – but big kid Lee is still causing chaos for Lucy",
+     "programme_small": "Lee and Lucy find their lives as frenetic and complicated as ever."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m002d2yc",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1492,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "27 mins",
+       "value": "PT26M52.040S"
+      },
+      "availability": {
+       "end": "2030-09-24T04:59:00Z",
+       "start": "2025-06-13T05:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 20,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 1586,
+      "first_broadcast": "9pm 13 Jun 2025",
+      "first_broadcast_date_time": "2025-06-13T20:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0lgsycq",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1492,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "27 mins",
+       "value": "PT26M52.040S"
+      },
+      "availability": {
+       "end": "2030-09-24T04:59:00Z",
+       "start": "2025-06-13T05:00:00Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "13 Jun 2025",
+      "first_broadcast_date_time": "2025-06-13T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m002d2y9",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "comedy-sitcoms",
+     "comedy",
+     "signed"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "13 Jun 2025",
+    "related_links": [],
+    "original_title": "House Move",
+    "programme_type": "narrative",
+    "slice_subtitle": "1. House Move",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2025-06-13T00:00:00.000Z",
+    "editorial_subtitle": "The children have flown the nest",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 116
+   }
+  ]
+ }
+}

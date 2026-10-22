@@ -1,0 +1,1198 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "channel_highlights": {
+  "channel": {
+   "id": "bbc_one_london",
+   "type": "channel",
+   "title": "BBC One",
+   "has_schedule": true,
+   "master_brand_id": "bbc_one",
+   "master_brand_title": "BBC One"
+  },
+  "elements": [
+   {
+    "id": "m0030pxt",
+    "live": false,
+    "type": "episode",
+    "title": "The Celebrity Traitors",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg5rz.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbwvs.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6k9.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcgbzn.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6sj.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "m002csng",
+    "guidance": false,
+    "slice_id": "m002csng-structural-2-m0030pxs",
+    "subtitle": "Series 2: Episode 1",
+    "synopses": {
+     "large": "Claudia Winkleman welcomes a brand new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.\n\nIt’s not long before the famous faces are questioning everything - and everyone - as Claudia secretly assigns the Traitors. Their task is simple: under the cover of darkness, they must pick off their fellow players one by one, murdering them from the game. The others - the Faithful - must try to uncover the Traitors and banish them before becoming their next victim. The players who survive will face each other in the final, hoping to win up to £100,000 for their chosen charity. If a Traitor remains, they take all the money and leave victorious.",
+     "small": "Claudia Winkleman welcomes a brand new group of celebrities to the Scottish Highlands.",
+     "medium": "Claudia Winkleman welcomes a brand new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.",
+     "preview": "Claudia welcomes twenty-one new famous faces to the ultimate game of deception. Who will be a Traitor, who will be Faithful, and who will make it to the end game?",
+     "editorial": "They’re famous, they’re fabulous... they have no idea. Let the mind games begin!",
+     "programme_small": "An all-star cast are ready to play the ultimate game of deceit and betrayal."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0030pxv",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 4289,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "1h 13m",
+       "value": "PT1H13M29.040S"
+      },
+      "availability": {
+       "end": "2027-10-30T20:22:10Z",
+       "start": "2026-10-01T20:15:04Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 4381,
+      "first_broadcast": "8pm 1 Oct 2026",
+      "first_broadcast_date_time": "2026-10-01T19:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0pbcllx",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 4289,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "1h 13m",
+       "value": "PT1H13M29.040S"
+      },
+      "availability": {
+       "end": "2027-10-30T20:22:10Z",
+       "start": "2026-10-01T20:15:04Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "1 Oct 2026",
+      "first_broadcast_date_time": "2026-10-01T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0030pxs",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "entertainment",
+     "signed"
+    ],
+    "preview_id": "p0pbxdbr",
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "1 Oct 2026",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "preview_clip_id": "p0pbxdbm",
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-01T00:00:00.000Z",
+    "editorial_subtitle": "New episodes every week",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 12,
+    "promoted": true
+   },
+   {
+    "id": "m0031y9l",
+    "live": false,
+    "type": "episode",
+    "title": "Strictly Come Dancing",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9qc29.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pctjfd.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pctjfd.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbb6r8.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbb6wn.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8dq",
+    "guidance": false,
+    "slice_id": "b006m8dq-manual-1-series_24",
+    "subtitle": "Series 24: Launch Show",
+    "synopses": {
+     "large": "It’s time to start dancing - Strictly’s back. Emma Willis, Josh Widdicombe and Johannes Radebe take the helm as a brand new year in the ballroom begins.\n\nThe show opens in spectacular style, with an incredible performance from the entire Strictly cast. Fifteen celebrities nervously wait to find out their professional partners, and this year, there’s a twist. Five new pros make their entrance on the dance floor, and reigning champion, Karen Carney, returns for an epic performance.\n\nShirley Ballas, Craig Revel Horwood, Motsi Mabuse and Anton Du Beke return to the judging panel to keep a watchful eye over proceedings before the competition officially kicks off.",
+     "small": "Strictly is back! Fifteen new famous faces are paired with their professional dancers.",
+     "medium": "It’s time to start dancing - Strictly’s back. Emma Willis, Josh Widdicombe and Johannes Radebe take the helm as a brand new year in the ballroom begins.",
+     "editorial": "It’s time to start dancing! New hosts, new celebs and a brand new year in the ballroom"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0031y9j",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 6113,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "1h 44m",
+       "value": "PT1H43M53.173333S"
+      },
+      "availability": {
+       "end": "2027-12-19T21:14:11Z",
+       "start": "2026-09-19T20:14:43Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 6225,
+      "first_broadcast": "7:25pm 19 Sep 2026",
+      "first_broadcast_date_time": "2026-09-19T18:25:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0pbjntn",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 6113,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "1h 44m",
+       "value": "PT1H43M53.040S"
+      },
+      "availability": {
+       "end": "2027-12-19T21:14:11Z",
+       "start": "2026-09-19T20:14:43Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "first_broadcast": "19 Sep 2026",
+      "first_broadcast_date_time": "2026-09-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m0031xbx",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "entertainment"
+    ],
+    "preview_id": "p0p9yqxw",
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "19 Sep 2026",
+    "related_links": [],
+    "original_title": "Launch Show",
+    "programme_type": "sequential",
+    "slice_subtitle": "Launch Show",
+    "audio_described": true,
+    "preview_clip_id": "p0p9yqxr",
+    "requires_sign_in": true,
+    "release_date_time": "2026-09-19T00:00:00.000Z",
+    "editorial_subtitle": "Launch Show",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 9,
+    "promoted": true
+   },
+   {
+    "id": "m00316gl",
+    "live": false,
+    "type": "episode",
+    "title": "Time",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf8ngg.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pfgmm2.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf8n6b.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf8nn4.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf8nq8.jpg"
+    },
+    "labels": {
+     "category": "Crime Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "p09fs2qh",
+    "guidance": true,
+    "slice_id": "p09fs2qh-structural-3-m00316gj",
+    "subtitle": "Series 3: Episode 1",
+    "synopses": {
+     "large": "New chaplain Marie-Louise arrives at the young offender institution HMYOI Alderwick and finds herself immediately at odds with traditionalist and world-weary custodial manager Bailey, who is dealing with his own personal crisis. They lock horns over how to handle Christopher, a young man with a stammer who has recently reconnected with his birth mother.\n\nMeanwhile, Peter and his friends arrive at the prison after being involved in an attack on a man, and James is relocated from another prison.",
+     "small": "Tensions rise with new arrivals to the young offender institution.",
+     "medium": "New chaplain Marie-Louise arrives at HMYOI Alderwick and clashes with veteran officer Bailey. Meanwhile, young offenders struggle through the first weeks of their incarceration.",
+     "editorial": "Inside these prison walls, everyone carries something. What matters is what they do next",
+     "programme_small": "New entrants navigate the volatile world of a young offender institution."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0032x2g",
+      "hdr": false,
+      "rrc": {
+       "description": {
+        "large": "Information and support for some of the issues covered in our programmes can be found at bbc.co.uk/actionline",
+        "small": "Information and support"
+       }
+      },
+      "uhd": false,
+      "kind": "technical-replacement",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3389,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "58 mins",
+       "value": "PT58M29.120S"
+      },
+      "guidance": {
+       "id": "D1L2V1",
+       "text": {
+        "large": "Contains strong language, some violent scenes and some scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains strong language, some violence and some upsetting scenes."
+       }
+      },
+      "availability": {
+       "end": "2027-10-11T05:00:00Z",
+       "start": "2026-10-11T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "credits_start": 3481,
+      "first_broadcast": "11 Oct 2026",
+      "first_broadcast_date_time": "2026-10-11T00:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0pfx1pz",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3389,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "58 mins",
+       "value": "PT58M29.040S"
+      },
+      "guidance": {
+       "id": "D1L2V1",
+       "text": {
+        "large": "Contains strong language, some violent scenes and some scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains strong language, some violence and some upsetting scenes."
+       }
+      },
+      "availability": {
+       "end": "2027-10-11T05:00:00Z",
+       "start": "2026-10-11T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "first_broadcast": "11 Oct 2026",
+      "first_broadcast_date_time": "2026-10-11T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m00316gj",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "drama-and-soaps",
+     "drama-crime",
+     "signed"
+    ],
+    "preview_id": "p0pgdtd6",
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "11 Oct 2026",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "preview_clip_id": "p0pgdtd2",
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-11T00:00:00.000Z",
+    "editorial_subtitle": "All episodes available now",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 10,
+    "promoted": true
+   },
+   {
+    "id": "m00336kf",
+    "live": false,
+    "type": "episode",
+    "title": "Panorama",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph0mkv.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pgyq3m.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pgyq3m.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pgyqs4.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pgyqxs.jpg"
+    },
+    "labels": {
+     "category": "Current Affairs"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006t14n",
+    "guidance": false,
+    "subtitle": "The Big Housing Rip-Off",
+    "synopses": {
+     "large": "Birmingham has a big and very expensive housing problem. Many vulnerable people, including victims of domestic violence and those facing homelessness, are not getting the supported housing they’ve been promised and the government has paid for, leaving them even more at risk. \n\nMeanwhile, some of the housing providers and agents responsible are making big profits from taxpayers' money. Reporter Michael Buchanan meets residents who say they've been trapped in substandard accommodation, receiving little or no support, and traces those responsible. He also meets neighbours who are concerned about a rise in antisocial behaviour, speaks to charities and local politicians who are outraged at the misuse of public funds and asks: why is this housing rip-off being allowed to continue?",
+     "small": "Why are vulnerable people not getting the supported housing they’ve been promised?",
+     "medium": "Why are vulnerable people, including victims of domestic violence and those facing homelessness, not getting the supported housing they’ve been promised?"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0033t7l",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1604,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "29 mins",
+       "value": "PT28M44.117333S"
+      },
+      "availability": {
+       "end": "2027-10-19T05:00:00Z",
+       "start": "2026-10-19T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "credits_start": 1697,
+      "first_broadcast": "8pm 19 Oct 2026",
+      "first_broadcast_date_time": "2026-10-19T19:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "b006t14n",
+    "tleo_type": "brand",
+    "categories": [
+     "documentaries",
+     "news"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "19 Oct 2026",
+    "related_links": [],
+    "original_title": "The Big Housing Rip-Off",
+    "programme_type": "self-contained",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-19T00:00:00.000Z",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "promoted": true
+   },
+   {
+    "id": "p07jlk69",
+    "type": "group_large",
+    "group_type": "curated",
+    "content_type": "episodes",
+    "stacked": false,
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p07jlk6l.jpg",
+     "vertical": "https://ichef.bbci.co.uk/images/ic/{recipe}/p07jlk6l.jpg"
+    },
+    "episode_sort_direction": "asc",
+    "related_links": [],
+    "title": "Comedy",
+    "synopses": {
+     "small": "The biggest laughs from BBC One."
+    },
+    "entities": [
+     {
+      "id": "m0022ww3",
+      "type": "episode"
+     },
+     {
+      "id": "m0025ydz",
+      "type": "episode"
+     },
+     {
+      "id": "m002d2yb",
+      "type": "episode"
+     },
+     {
+      "id": "m002cg3c",
+      "type": "episode"
+     },
+     {
+      "id": "m002gj58",
+      "type": "episode"
+     }
+    ],
+    "unavailableEntities": [
+     {
+      "id": "p0c713wp",
+      "type": "episode"
+     },
+     {
+      "id": "m000d510",
+      "type": "episode"
+     },
+     {
+      "id": "p01my79b",
+      "type": "episode"
+     },
+     {
+      "id": "b0bwq0gc",
+      "type": "episode"
+     },
+     {
+      "id": "m001tbnx",
+      "type": "episode"
+     },
+     {
+      "id": "m001x85s",
+      "type": "episode"
+     },
+     {
+      "id": "m001xyr9",
+      "type": "episode"
+     },
+     {
+      "id": "m0023r1h",
+      "type": "episode"
+     },
+     {
+      "id": "b0bltpz9",
+      "type": "episode"
+     },
+     {
+      "id": "b09tk87c",
+      "type": "episode"
+     },
+     {
+      "id": "b0953y6k",
+      "type": "episode"
+     },
+     {
+      "id": "m001gp0p",
+      "type": "episode"
+     }
+    ],
+    "count": 0,
+    "initial_children": [
+     {
+      "id": "m0022ww3",
+      "live": false,
+      "type": "episode",
+      "title": "Ludwig",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwskd.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jr7mwz.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwsjm.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jqwsm2.jpg"
+      },
+      "labels": {
+       "category": "Crime Drama"
+      },
+      "signed": true,
+      "status": "available",
+      "tleo_id": "m0022wvz",
+      "guidance": false,
+      "slice_id": "m0022wvz-structural-1-m0022ww2",
+      "subtitle": "Series 1: Episode 1",
+      "synopses": {
+       "large": "Puzzle setter John ‘Ludwig’ Taylor’s life of solitude is upended when his identical twin, DCI James Taylor, disappears. Drafted in by his sister-in-law Lucy, John reluctantly assumes his brother's identity as a detective in the Cambridge Police Authority in order to find clues to his brother’s whereabouts. \n\nJohn is tasked with infiltrating the major investigations team, gathering information and solving a completely unconnected murder, all whilst remaining in character as his brother. A difficult ask for anyone, let alone a reclusive puzzle-setting genius who rarely leaves the house. Can this master of all things cryptic crack his biggest puzzle yet?",
+       "small": "Puzzle setter John ‘Ludwig’ Taylor’s life is upended when his identical twin disappears.",
+       "medium": "Puzzle setter John ‘Ludwig’ Taylor’s life is upended when his identical twin, DCI James Taylor, disappears. John reluctantly assumes his identity in order to track him down.",
+       "editorial": "The accidental detective. Puzzle master John is plunged into the cryptic world of crime",
+       "programme_small": "Puzzle setter John ‘Ludwig’ Taylor assumes his twin brother's identity to track him down."
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m0022ww4",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 3306,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "57 mins",
+         "value": "PT57M6.320S"
+        },
+        "availability": {
+         "end": "2029-09-25T05:00:00Z",
+         "start": "2025-09-25T04:30:00Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "interactions": [
+         {
+          "type": "skip",
+          "title": {
+           "long": "Skip intro",
+           "short": "Skip"
+          },
+          "subtype": "intro",
+          "interaction_points": {
+           "skip_to": 130,
+           "show_from": 106
+          }
+         },
+         {
+          "type": "skip",
+          "title": {
+           "long": "Skip preview",
+           "short": "Skip"
+          },
+          "subtype": "next-episode-teaser",
+          "interaction_points": {
+           "skip_to": 3394,
+           "show_from": 3288
+          }
+         }
+        ],
+        "credits_start": 3399,
+        "first_broadcast": "9pm 25 Sep 2024",
+        "first_broadcast_date_time": "2024-09-25T20:00:00.000Z"
+       },
+       {
+        "hd": false,
+        "id": "p0jsjp5v",
+        "hdr": false,
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 3306,
+          "system": "uas"
+         }
+        ],
+        "download": false,
+        "duration": {
+         "text": "57 mins",
+         "value": "PT57M6.040S"
+        },
+        "availability": {
+         "end": "2029-09-25T05:00:00Z",
+         "start": "2025-09-25T04:30:00Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "first_broadcast": "25 Sep 2024",
+        "first_broadcast_date_time": "2024-09-25T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "parent_id": "m0022ww2",
+      "tleo_type": "brand",
+      "categories": [
+       "audio-described",
+       "comedy",
+       "drama-and-soaps",
+       "drama-crime",
+       "signed"
+      ],
+      "has_credits": true,
+      "requires_ab": [
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_one",
+       "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+       },
+       "attribution": "bbc_one"
+      },
+      "release_date": "25 Sep 2024",
+      "related_links": [],
+      "original_title": "Episode 1",
+      "programme_type": "narrative",
+      "slice_subtitle": "Episode 1",
+      "audio_described": true,
+      "parent_position": 1,
+      "requires_sign_in": true,
+      "release_date_time": "2024-09-25T00:00:00.000Z",
+      "editorial_subtitle": "The accidental detective",
+      "lexical_sort_letter": "L",
+      "requires_tv_licence": true,
+      "numeric_tleo_position": 2
+     }
+    ]
+   },
+   {
+    "id": "m002stm7",
+    "live": false,
+    "type": "episode",
+    "title": "The Reluctant Vampire",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf10dm.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pd1f16.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcvwzc.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pf10jc.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcvx68.jpg"
+    },
+    "labels": {
+     "category": "Comedy"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "m002stm3",
+    "guidance": false,
+    "slice_id": "m002stm3-structural-1-m002stm4",
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+     "large": "As Val is vampire heir to the throne, there are great expectations for him to follow in his father’s traditional footsteps. However, he has never really got to grips with the usual bloodthirsty rites of passage. When it finally looks like he has got what it takes and a date for his official initiation into adulthood is set, his mum reveals a shocking secret. Val finds himself torn between two worlds, with a huge dilemma.\n\nA heartwarming comedy based on the books by Eric Morecambe.",
+     "small": "Val’s vampire life is changed forever with the shocking revelation of a big family secret.",
+     "medium": "Being a vampire has never come naturally to Val, but as he is heir to the throne, all eyes are on him to live up to expectations. When his mum reveals a huge secret, all becomes clear.",
+     "editorial": "Every family has secrets - this one has fangs. Unfortunate, when you're actually a human",
+     "programme_small": "Heartwarming comedy about a vampire with a secret who’s caught between two worlds."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0030wnw",
+      "hdr": false,
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1650,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "30 mins",
+       "value": "PT29M30.040S"
+      },
+      "availability": {
+       "end": "2027-10-04T05:00:00Z",
+       "start": "2026-10-04T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "credits_start": 1742,
+      "first_broadcast": "4 Oct 2026",
+      "first_broadcast_date_time": "2026-10-04T00:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0pcn4h5",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 1650,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "30 mins",
+       "value": "PT29M30.040S"
+      },
+      "availability": {
+       "end": "2027-10-04T05:00:00Z",
+       "start": "2026-10-04T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "first_broadcast": "4 Oct 2026",
+      "first_broadcast_date_time": "2026-10-04T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m002stm4",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "comedy-sitcoms",
+     "comedy",
+     "signed"
+    ],
+    "preview_id": "p0pfdtjt",
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "4 Oct 2026",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "preview_clip_id": "p0pfdtjm",
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-04T00:00:00.000Z",
+    "editorial_subtitle": "All episodes available now",
+    "lexical_sort_letter": "R",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2,
+    "promoted": true
+   },
+   {
+    "id": "m0032k9f",
+    "live": false,
+    "type": "episode",
+    "title": "Bridge of Lies",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nhg3qj.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pctw0g.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nhg3lz.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0nhg3vz.jpg"
+    },
+    "labels": {
+     "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m0015fn5",
+    "guidance": false,
+    "subtitle": "Series 5: Episode 14",
+    "synopses": {
+     "large": "Ross Kemp presents this quiz show where a team of work colleagues, Dawn, Chris, Emma and Rob, take on the Bridge of Lies.\n\nOne by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each crossing has 32 potential steps, including 22 truths and ten lies.\n\nThey must cross the Bridge by stepping on the truths and avoiding the lies, earning money for each correct answer. Step on a lie and the Bridge will halve their money. Step on three lies, and they are out of the game.\n\nThere is always a safe path across the Bridge. They just have to find it. Once they have each faced the Bridge on their own, those who have been successful will join forces to face the final crossing for a chance to take home the cash.",
+     "small": "Work colleagues Dawn, Chris, Emma and Rob take on the Bridge of Lies.",
+     "medium": "Work colleagues Dawn, Chris, Emma and Rob take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0032k9d",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 2493,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "44 mins",
+       "value": "PT43M33.040S"
+      },
+      "availability": {
+       "end": "2027-10-22T16:14:34Z",
+       "start": "2026-10-05T16:15:12Z",
+       "remaining": {
+        "text": "Available for over a year"
+       }
+      },
+      "credits_start": 2586,
+      "first_broadcast": "4:30pm 5 Oct 2026",
+      "first_broadcast_date_time": "2026-10-05T15:30:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m002vq6t",
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment"
+    ],
+    "has_credits": true,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "5 Oct 2026",
+    "related_links": [],
+    "original_title": "Episode 14",
+    "programme_type": "self-contained",
+    "slice_subtitle": "Episode 14",
+    "audio_described": false,
+    "parent_position": 14,
+    "requires_sign_in": true,
+    "release_date_time": "2026-10-05T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "promoted": true
+   },
+   {
+    "id": "m00304f5",
+    "live": false,
+    "type": "episode",
+    "title": "Blue Lights",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbxqy0.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcgdyf.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbxqpj.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbxr22.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pbxr2x.jpg"
+    },
+    "labels": {
+     "category": "Crime Drama"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "p0f2cxpr",
+    "guidance": true,
+    "slice_id": "p0f2cxpr-structural-4-m00304f3",
+    "subtitle": "Series 4: 1. Eyes",
+    "synopses": {
+     "small": "The section is challenged by escalating tensions at a community event.",
+     "medium": "The section is challenged by escalating tensions at a community event, while the investigation into Dana Morgan’s drug partnership with Tina McIntyre falters.",
+     "editorial": "A new threat, an old murder and buried secrets push the officers into dangerous territory",
+     "programme_small": "In Belfast, three PSNI recruits fight gangs, undercover agents and even their own force."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m00304f4",
+      "hdr": false,
+      "uhd": true,
+      "kind": "original",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3381,
+        "system": "uas"
+       }
+      ],
+      "download": true,
+      "duration": {
+       "text": "58 mins",
+       "value": "PT58M21.040S"
+      },
+      "guidance": {
+       "id": "D2L2V1",
+       "text": {
+        "large": "Contains strong language, some violent scenes and scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains strong language, some violence and upsetting scenes."
+       }
+      },
+      "availability": {
+       "end": "2027-09-29T05:00:00Z",
+       "start": "2026-09-29T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "credits_start": 3479,
+      "first_broadcast": "9pm 29 Sep 2026",
+      "first_broadcast_date_time": "2026-09-29T20:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0pcb9z5",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [
+       {
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+       },
+       {
+        "name": "ended",
+        "offset": 3381,
+        "system": "uas"
+       }
+      ],
+      "download": false,
+      "duration": {
+       "text": "58 mins",
+       "value": "PT58M21.040S"
+      },
+      "availability": {
+       "end": "2027-09-29T05:00:00Z",
+       "start": "2026-09-29T05:00:00Z",
+       "remaining": {
+        "text": "Available for 11 months"
+       }
+      },
+      "first_broadcast": "29 Sep 2026",
+      "first_broadcast_date_time": "2026-09-29T00:00:00.000Z"
+     }
+    ],
+    "childrens": false,
+    "parent_id": "m00304f3",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "drama-and-soaps",
+     "drama-crime",
+     "signed"
+    ],
+    "preview_id": "p0pbxkr1",
+    "has_credits": true,
+    "requires_ab": [
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "bbc_one",
+     "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+     },
+     "attribution": "bbc_one"
+    },
+    "release_date": "29 Sep 2026",
+    "related_links": [],
+    "original_title": "Eyes",
+    "programme_type": "narrative",
+    "slice_subtitle": "1. Eyes",
+    "audio_described": true,
+    "parent_position": 1,
+    "preview_clip_id": "p0pbxkqx",
+    "requires_sign_in": true,
+    "release_date_time": "2026-09-29T00:00:00.000Z",
+    "editorial_subtitle": "All episodes available now",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 23,
+    "promoted": true
+   }
+  ]
+ }
+}

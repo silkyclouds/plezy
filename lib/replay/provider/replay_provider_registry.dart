@@ -3,6 +3,7 @@ import '../providers/3cat/3cat_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
 import '../providers/ardmediathek/ardmediathek_provider.dart';
 import '../providers/arte/arte_provider.dart';
+import '../providers/bbciplayer/bbciplayer_provider.dart';
 import '../providers/ceskatelevize/ceskatelevize_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
@@ -271,6 +272,14 @@ const replaySourceInfos = [
     country: 'CZ',
     languages: ['cs'],
   ),
+  ReplaySourceInfo(
+    id: 'bbciplayer',
+    name: 'BBC iPlayer',
+    support: ReplayPlaybackSupport.partial,
+    country: 'GB',
+    languages: ['en'],
+    availableIn: {'GB', 'GG', 'JE', 'IM'},
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -335,6 +344,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'rtveplay' => RtvePlayProvider(http),
       'tvpvod' => TvpVodProvider(http),
       'ceskatelevize' => CeskaTelevizeProvider(http),
+      'bbciplayer' => BbcIplayerProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

@@ -1,0 +1,180 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "episodes": [
+  {
+   "id": "m0030pxt",
+   "live": false,
+   "type": "episode_large",
+   "title": "The Celebrity Traitors",
+   "images": {
+    "type": "image",
+    "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg5rz.jpg",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbwvs.jpg",
+    "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6k9.jpg",
+    "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcgbzn.jpg",
+    "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6sj.jpg"
+   },
+   "labels": {
+    "category": "Entertainment"
+   },
+   "signed": true,
+   "status": "available",
+   "tleo_id": "m002csng",
+   "guidance": false,
+   "slice_id": "m002csng-structural-2-m0030pxs",
+   "subtitle": "Series 2: Episode 1",
+   "synopses": {
+    "large": "Claudia Winkleman welcomes a brand new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.\n\nIt’s not long before the famous faces are questioning everything - and everyone - as Claudia secretly assigns the Traitors. Their task is simple: under the cover of darkness, they must pick off their fellow players one by one, murdering them from the game. The others - the Faithful - must try to uncover the Traitors and banish them before becoming their next victim. The players who survive will face each other in the final, hoping to win up to £100,000 for their chosen charity. If a Traitor remains, they take all the money and leave victorious.",
+    "small": "Claudia Winkleman welcomes a brand new group of celebrities to the Scottish Highlands.",
+    "medium": "Claudia Winkleman welcomes a brand new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.",
+    "preview": "Claudia welcomes twenty-one new famous faces to the ultimate game of deception. Who will be a Traitor, who will be Faithful, and who will make it to the end game?",
+    "editorial": "They’re famous, they’re fabulous... they have no idea. Let the mind games begin!",
+    "programme_small": "An all-star cast are ready to play the ultimate game of deceit and betrayal."
+   },
+   "versions": [
+    {
+     "hd": true,
+     "id": "m0030pxv",
+     "hdr": false,
+     "uhd": false,
+     "kind": "original",
+     "type": "version_large",
+     "events": [
+      {
+       "name": "started",
+       "offset": 30,
+       "system": "uas"
+      },
+      {
+       "name": "ended",
+       "offset": 4289,
+       "system": "uas"
+      }
+     ],
+     "download": true,
+     "duration": {
+      "text": "1h 13m",
+      "value": "PT1H13M29.040S"
+     },
+     "availability": {
+      "end": "2027-10-30T20:22:10Z",
+      "start": "2026-10-01T20:15:04Z",
+      "remaining": {
+       "text": "Available for over a year"
+      }
+     },
+     "credits_start": 4381,
+     "first_broadcast": "8pm 1 Oct 2026",
+     "first_broadcast_date_time": "2026-10-01T19:00:00.000Z"
+    },
+    {
+     "hd": false,
+     "id": "p0pbcllx",
+     "hdr": false,
+     "uhd": false,
+     "kind": "audio-described",
+     "type": "version_large",
+     "events": [
+      {
+       "name": "started",
+       "offset": 30,
+       "system": "uas"
+      },
+      {
+       "name": "ended",
+       "offset": 4289,
+       "system": "uas"
+      }
+     ],
+     "download": false,
+     "duration": {
+      "text": "1h 13m",
+      "value": "PT1H13M29.040S"
+     },
+     "availability": {
+      "end": "2027-10-30T20:22:10Z",
+      "start": "2026-10-01T20:15:04Z",
+      "remaining": {
+       "text": "Available for over a year"
+      }
+     },
+     "first_broadcast": "1 Oct 2026",
+     "first_broadcast_date_time": "2026-10-01T00:00:00.000Z"
+    },
+    {
+     "hd": true,
+     "id": "m0032k1w",
+     "hdr": false,
+     "uhd": false,
+     "kind": "signed",
+     "type": "version_large",
+     "events": [
+      {
+       "name": "started",
+       "offset": 30,
+       "system": "uas"
+      },
+      {
+       "name": "ended",
+       "offset": 4289,
+       "system": "uas"
+      }
+     ],
+     "download": true,
+     "duration": {
+      "text": "1h 13m",
+      "value": "PT1H13M29.130666S"
+     },
+     "availability": {
+      "end": "2029-10-30T21:50:00Z",
+      "start": "2026-10-01T20:15:00Z",
+      "remaining": {
+       "text": "Available for over a year"
+      }
+     },
+     "first_broadcast": "1 Oct 2026",
+     "first_broadcast_date_time": "2026-10-01T00:00:00.000Z"
+    }
+   ],
+   "childrens": false,
+   "parent_id": "m0030pxs",
+   "tleo_type": "brand",
+   "categories": [
+    "audio-described",
+    "entertainment",
+    "signed"
+   ],
+   "preview_id": "p0pbxdbr",
+   "has_credits": true,
+   "requires_ab": [
+    "u16",
+    "u18",
+    "o18"
+   ],
+   "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+     "large": "BBC One",
+     "small": "BBC One",
+     "medium": "BBC One"
+    },
+    "attribution": "bbc_one"
+   },
+   "release_date": "1 Oct 2026",
+   "related_links": [],
+   "original_title": "Episode 1",
+   "programme_type": "narrative",
+   "slice_subtitle": "Episode 1",
+   "audio_described": true,
+   "parent_position": 1,
+   "preview_clip_id": "p0pbxdbm",
+   "requires_sign_in": true,
+   "release_date_time": "2026-10-01T00:00:00.000Z",
+   "editorial_subtitle": "New episodes every week",
+   "lexical_sort_letter": "C",
+   "requires_tv_licence": true,
+   "numeric_tleo_position": 12
+  }
+ ]
+}

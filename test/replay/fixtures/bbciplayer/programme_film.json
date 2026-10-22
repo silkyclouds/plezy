@@ -1,0 +1,133 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "programmes": [
+  {
+   "id": "m001fyf7",
+   "live": false,
+   "type": "programme_large",
+   "title": "2003",
+   "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsjv.jpg",
+    "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsjv.jpg",
+    "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsrk.jpg"
+   },
+   "labels": {
+    "category": "Film - Drama"
+   },
+   "status": "available",
+   "synopses": {
+    "small": "A young soldier and his father face up to painful realities.",
+    "medium": "Before embarking on his first tour of duty, a young soldier and his father must face up to the painful realities that have long gone unspoken between them."
+   },
+   "tleo_type": "episode",
+   "categories": [
+    "drama-and-soaps",
+    "films"
+   ],
+   "master_brand": {
+    "id": "bbc_two",
+    "titles": {
+     "large": "BBC Two",
+     "small": "BBC Two",
+     "medium": "BBC Two"
+    },
+    "attribution": "bbc_two"
+   },
+   "programme_type": "one-off",
+   "lexical_sort_letter": "0-9",
+   "count": 1,
+   "initial_children": [
+    {
+     "id": "m001fyf7",
+     "live": false,
+     "type": "episode",
+     "title": "2003",
+     "images": {
+      "type": "image",
+      "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mk6cmd.jpg",
+      "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsjv.jpg",
+      "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsjv.jpg",
+      "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0djqsrk.jpg"
+     },
+     "labels": {
+      "category": "Film - Drama"
+     },
+     "signed": false,
+     "status": "available",
+     "tleo_id": "m001fyf7",
+     "guidance": true,
+     "synopses": {
+      "small": "A young soldier and his father face up to painful realities.",
+      "medium": "Before embarking on his first tour of duty, a young soldier and his father must face up to the painful realities that have long gone unspoken between them.",
+      "editorial": "Harris Dickinson's short film. A young soldier and his father confront painful realities"
+     },
+     "versions": [
+      {
+       "hd": true,
+       "id": "m001fyf6",
+       "hdr": false,
+       "uhd": false,
+       "kind": "original",
+       "type": "version",
+       "download": true,
+       "duration": {
+        "text": "12 mins",
+        "value": "PT12M20.560S"
+       },
+       "guidance": {
+        "id": "L1",
+        "text": {
+         "large": "Contains some strong language.",
+         "small": "Has guidance",
+         "medium": "Contains some strong language."
+        }
+       },
+       "availability": {
+        "end": "2027-03-31T22:59:00Z",
+        "start": "2022-12-05T00:21:36Z",
+        "remaining": {
+         "text": "Available for 5 months"
+        }
+       },
+       "credits_start": 727,
+       "first_broadcast": "2021",
+       "first_broadcast_date_time": "2021-01-01T00:00:00.000Z"
+      }
+     ],
+     "childrens": false,
+     "tleo_type": "episode",
+     "categories": [
+      "drama-and-soaps",
+      "films"
+     ],
+     "has_credits": true,
+     "requires_ab": [
+      "u16",
+      "u18",
+      "o18"
+     ],
+     "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+       "large": "BBC Two",
+       "small": "BBC Two",
+       "medium": "BBC Two"
+      },
+      "attribution": "bbc_two"
+     },
+     "release_date": "2021",
+     "original_title": "2003",
+     "programme_type": "one-off",
+     "audio_described": false,
+     "requires_sign_in": true,
+     "release_date_time": "2021-01-01T00:00:00.000Z",
+     "editorial_subtitle": "Harris Dickinson's short film",
+     "lexical_sort_letter": "0-9",
+     "requires_tv_licence": true
+    }
+   ]
+  }
+ ]
+}

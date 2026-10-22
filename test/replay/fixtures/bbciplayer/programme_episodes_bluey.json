@@ -1,0 +1,971 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "programme_episodes": {
+  "page": 1,
+  "per_page": 200,
+  "count": 51,
+  "elements": [
+   {
+    "id": "m000vbrh",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kn0sr4.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d76j5.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+     "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndz.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 1: 1. The Magic Xylophone",
+    "synopses": {
+     "small": "Bluey and Bingo squabble over their magic xylophone, which has the power to freeze Dad.",
+     "medium": "Bluey and Bingo squabble over their magic xylophone, which has the power to freeze Dad in space and time. Dad seizes control and freezes Bluey, leaving Bingo as her only hope.",
+     "editorial": "Bluey follows the adventures of an inexhaustible six-year-old Blue Heeler puppy."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m001k8jg",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-24T06:15:00Z",
+       "start": "2026-10-04T08:34:18Z",
+       "remaining": {
+        "text": "Available until Sat 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "19 Apr 2021",
+      "first_broadcast_date_time": "2021-04-19T00:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0j6f69v",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-24T06:15:00Z",
+       "start": "2026-10-04T08:34:18Z",
+       "remaining": {
+        "text": "Available until Sat 7:15am"
+       }
+      },
+      "first_broadcast": "19 Apr 2021",
+      "first_broadcast_date_time": "2021-04-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m000vbrj",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "19 Apr 2021",
+    "original_title": "The Magic Xylophone",
+    "programme_type": "sequential",
+    "slice_subtitle": "1. The Magic Xylophone",
+    "audio_described": true,
+    "editorial_title": "Bluey",
+    "parent_position": 1,
+    "requires_sign_in": false,
+    "release_date_time": "2021-04-19T00:00:00.000Z",
+    "editorial_subtitle": "Join the adventure",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   },
+   {
+    "id": "m000vdgd",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0kn0sr4.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d76jp.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+     "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndz.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 1: 2. Hospital",
+    "synopses": {
+     "small": "Doctor Bluey is needed when Dad gets a very curious X-ray from Nurse Bingo.",
+     "medium": "Doctor Bluey is needed when Dad gets a very curious X-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!",
+     "editorial": "Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m001k8jh",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-25T07:15:00Z",
+       "start": "2026-10-05T10:26:10Z",
+       "remaining": {
+        "text": "Available until Sun 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "19 Apr 2021",
+      "first_broadcast_date_time": "2021-04-19T00:00:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0j6wb1l",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-25T07:15:00Z",
+       "start": "2026-10-05T10:26:10Z",
+       "remaining": {
+        "text": "Available until Sun 7:15am"
+       }
+      },
+      "first_broadcast": "19 Apr 2021",
+      "first_broadcast_date_time": "2021-04-19T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m000vbrj",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "19 Apr 2021",
+    "original_title": "Hospital",
+    "programme_type": "sequential",
+    "slice_subtitle": "2. Hospital",
+    "audio_described": true,
+    "editorial_title": "Bluey",
+    "parent_position": 2,
+    "requires_sign_in": false,
+    "release_date_time": "2021-04-19T00:00:00.000Z",
+    "editorial_subtitle": "Bluey's Dad gets a very curious x-ray from Nurse Bingo",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   },
+   {
+    "id": "m0019tr5",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fnkk58.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0cn6dfq.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+     "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fkyzhl.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 2: 1. Dance Mode",
+    "synopses": {
+     "small": "After Dad eats her last chip, Bingo gets three chances to put Mum and Dad in ‘dance mode’.",
+     "editorial": "After Dad eats her last chip, Bingo gets three chances to put Mum and Dad in ‘dance mode’"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0019tr4",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.040S"
+      },
+      "availability": {
+       "end": "2026-10-24T06:15:00Z",
+       "start": "2026-10-04T16:15:10Z",
+       "remaining": {
+        "text": "Available until Sat 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "7:20am 1 Aug 2022",
+      "first_broadcast_date_time": "2022-08-01T06:20:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0hsn8v3",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.040S"
+      },
+      "availability": {
+       "end": "2026-10-24T06:15:00Z",
+       "start": "2026-10-04T16:15:10Z",
+       "remaining": {
+        "text": "Available until Sat 7:15am"
+       }
+      },
+      "first_broadcast": "1 Aug 2022",
+      "first_broadcast_date_time": "2022-08-01T00:00:00.000Z"
+     },
+     {
+      "hd": true,
+      "id": "m0030gm3",
+      "hdr": false,
+      "uhd": false,
+      "kind": "signed",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.114666S"
+      },
+      "availability": {
+       "end": "2026-10-24T06:15:00Z",
+       "start": "2026-10-04T16:14:00Z",
+       "remaining": {
+        "text": "Available until Sat 7:15am"
+       }
+      },
+      "credits_start": 408,
+      "first_broadcast": "1 Aug 2022",
+      "first_broadcast_date_time": "2022-08-01T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m00184kc",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy",
+     "signed"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "1 Aug 2022",
+    "original_title": "Dance Mode",
+    "programme_type": "sequential",
+    "slice_subtitle": "1. Dance Mode",
+    "audio_described": true,
+    "editorial_title": "Bluey",
+    "parent_position": 1,
+    "requires_sign_in": false,
+    "release_date_time": "2022-08-01T00:00:00.000Z",
+    "editorial_subtitle": "Dance Mode",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   },
+   {
+    "id": "m0019trn",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fnkk58.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0cn6dg9.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fkyzhl.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": true,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 2: 2. Hammerbarn",
+    "synopses": {
+     "small": "Bluey gets jealous of Bingo when they create their own mini-homes in the shopping trolley\n",
+     "medium": "On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo. \n\n\n"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0019trm",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.040S"
+      },
+      "availability": {
+       "end": "2026-10-25T07:15:00Z",
+       "start": "2026-10-05T06:37:59Z",
+       "remaining": {
+        "text": "Available until Sun 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "7:20am 2 Aug 2022",
+      "first_broadcast_date_time": "2022-08-02T06:20:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0htbn3p",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.040S"
+      },
+      "availability": {
+       "end": "2026-10-25T07:15:00Z",
+       "start": "2026-10-05T06:37:59Z",
+       "remaining": {
+        "text": "Available until Sun 7:15am"
+       }
+      },
+      "first_broadcast": "2 Aug 2022",
+      "first_broadcast_date_time": "2022-08-02T00:00:00.000Z"
+     },
+     {
+      "hd": true,
+      "id": "m0032x29",
+      "hdr": false,
+      "uhd": false,
+      "kind": "signed",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT6M59.114666S"
+      },
+      "availability": {
+       "end": "2026-10-25T07:15:00Z",
+       "start": "2026-10-10T13:59:57Z",
+       "remaining": {
+        "text": "Available until Sun 7:15am"
+       }
+      },
+      "first_broadcast": "2 Aug 2022",
+      "first_broadcast_date_time": "2022-08-02T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m00184kc",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy",
+     "signed"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "2 Aug 2022",
+    "original_title": "Hammerbarn",
+    "programme_type": "sequential",
+    "slice_subtitle": "2. Hammerbarn",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": false,
+    "release_date_time": "2022-08-02T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   },
+   {
+    "id": "m0022nxw",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0l1xkry.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jl8107.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7w01.jpg",
+     "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7vvd.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 3: 27. Musical Statues",
+    "synopses": {
+     "small": "Bluey and her family are out of sorts, so Mum gets everyone to play musical statues.",
+     "editorial": "Bluey and her little sister Bingo turn every day into an adventure"
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0022nxv",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-26T07:15:00Z",
+       "start": "2026-10-08T06:31:12Z",
+       "remaining": {
+        "text": "Available until Mon 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "7:20am 3 Sep 2024",
+      "first_broadcast_date_time": "2024-09-03T06:20:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0jmp6hk",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-26T07:15:00Z",
+       "start": "2026-10-08T06:31:12Z",
+       "remaining": {
+        "text": "Available until Mon 7:15am"
+       }
+      },
+      "first_broadcast": "3 Sep 2024",
+      "first_broadcast_date_time": "2024-09-03T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m001sypq",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "3 Sep 2024",
+    "original_title": "Musical Statues",
+    "programme_type": "sequential",
+    "slice_subtitle": "27. Musical Statues",
+    "audio_described": true,
+    "editorial_title": "Bluey",
+    "parent_position": 27,
+    "requires_sign_in": false,
+    "release_date_time": "2024-09-03T00:00:00.000Z",
+    "editorial_subtitle": "Join the adventure",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   },
+   {
+    "id": "m0022ny5",
+    "live": false,
+    "type": "episode",
+    "title": "Bluey",
+    "images": {
+     "type": "image",
+     "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0l1xkry.jpg",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jl8125.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7w01.jpg",
+     "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7vvd.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "m000vbrk",
+    "guidance": false,
+    "subtitle": "Series 3: 28. Stories",
+    "synopses": {
+     "small": "Indy’s upset her model horse looks like a cow, but Calypso encourages her not to give up."
+    },
+    "versions": [
+     {
+      "hd": true,
+      "id": "m0022ny3",
+      "hdr": false,
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-27T07:15:00Z",
+       "start": "2026-10-09T06:29:43Z",
+       "remaining": {
+        "text": "Available until Tue 7:15am"
+       }
+      },
+      "interactions": [
+       {
+        "type": "skip",
+        "title": {
+         "long": "Skip intro",
+         "short": "Skip"
+        },
+        "subtype": "intro",
+        "interaction_points": {
+         "skip_to": 23,
+         "show_from": 1
+        }
+       }
+      ],
+      "credits_start": 407,
+      "first_broadcast": "7:20am 4 Sep 2024",
+      "first_broadcast_date_time": "2024-09-04T06:20:00.000Z"
+     },
+     {
+      "hd": false,
+      "id": "p0jmthws",
+      "hdr": false,
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "download": false,
+      "duration": {
+       "text": "7 mins",
+       "value": "PT7M0.040S"
+      },
+      "availability": {
+       "end": "2026-10-27T07:15:00Z",
+       "start": "2026-10-09T06:29:43Z",
+       "remaining": {
+        "text": "Available until Tue 7:15am"
+       }
+      },
+      "first_broadcast": "4 Sep 2024",
+      "first_broadcast_date_time": "2024-09-04T00:00:00.000Z"
+     }
+    ],
+    "childrens": true,
+    "parent_id": "m001sypq",
+    "tleo_type": "brand",
+    "categories": [
+     "audio-described",
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-drama",
+     "childrens-entertainment-comedy"
+    ],
+    "has_credits": false,
+    "requires_ab": [
+     "u13",
+     "u16",
+     "u18",
+     "o18"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "release_date": "4 Sep 2024",
+    "original_title": "Stories",
+    "programme_type": "sequential",
+    "slice_subtitle": "28. Stories",
+    "audio_described": true,
+    "parent_position": 28,
+    "requires_sign_in": false,
+    "release_date_time": "2024-09-04T00:00:00.000Z",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+   }
+  ],
+  "programme": {
+   "id": "m000vbrk",
+   "live": false,
+   "type": "programme",
+   "title": "Bluey",
+   "images": {
+    "logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0mc98lw.png",
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+    "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndk.jpg",
+    "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09d6ndz.jpg"
+   },
+   "labels": {
+    "category": "CBeebies"
+   },
+   "status": "available",
+   "synopses": {
+    "small": "Bluey follows the adventures of an inexhaustible six-year-old Blue Heeler puppy.\n",
+    "medium": "Bluey follows the adventures of a lovable and inexhaustible six-year-old Blue Heeler puppy who lives with her dad, mum and four-year-old little sister, Bingo."
+   },
+   "tleo_type": "brand",
+   "categories": [
+    "cbeebies",
+    "childrens-cartoons",
+    "childrens-drama",
+    "childrens-entertainment-comedy"
+   ],
+   "master_brand": {
+    "id": "cbeebies",
+    "titles": {
+     "large": "CBeebies",
+     "small": "CBeebies",
+     "medium": "CBeebies"
+    },
+    "attribution": "cbeebies"
+   },
+   "programme_type": "sequential",
+   "lexical_sort_letter": "B",
+   "count": 51,
+   "initial_children": [
+    {
+     "id": "m0029vhj",
+     "live": false,
+     "type": "episode",
+     "title": "Bluey",
+     "images": {
+      "type": "image",
+      "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0l1xkry.jpg",
+      "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0l0np5n.jpg",
+      "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7w01.jpg",
+      "character_image": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09htchr.png",
+      "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gt7vvd.jpg"
+     },
+     "labels": {
+      "category": "CBeebies"
+     },
+     "signed": false,
+     "status": "available",
+     "tleo_id": "m000vbrk",
+     "guidance": false,
+     "subtitle": "Series 3: 38. Cubby",
+     "synopses": {
+      "small": "Bluey and Bingo build a very special cubby for their stuffed toy, Kimjim.",
+      "editorial": "Bluey follows the adventures of an inexhaustible six-year-old Blue Heeler puppy."
+     },
+     "versions": [
+      {
+       "hd": true,
+       "id": "m0029vhh",
+       "hdr": false,
+       "uhd": false,
+       "kind": "original",
+       "type": "version",
+       "download": true,
+       "duration": {
+        "text": "7 mins",
+        "value": "PT7M0.040S"
+       },
+       "availability": {
+        "end": "2026-11-09T07:15:00Z",
+        "start": "2026-10-22T06:29:48Z",
+        "remaining": {
+         "text": "Available for 18 days"
+        }
+       },
+       "interactions": [
+        {
+         "type": "skip",
+         "title": {
+          "long": "Skip intro",
+          "short": "Skip"
+         },
+         "subtype": "intro",
+         "interaction_points": {
+          "skip_to": 23,
+          "show_from": 1
+         }
+        }
+       ],
+       "credits_start": 407,
+       "first_broadcast": "7:20am 7 Apr 2025",
+       "first_broadcast_date_time": "2025-04-07T06:20:00.000Z"
+      },
+      {
+       "hd": false,
+       "id": "p0l0nybh",
+       "hdr": false,
+       "uhd": false,
+       "kind": "audio-described",
+       "type": "version",
+       "download": false,
+       "duration": {
+        "text": "7 mins",
+        "value": "PT7M0.040S"
+       },
+       "availability": {
+        "end": "2026-11-09T07:15:00Z",
+        "start": "2026-10-22T06:29:48Z",
+        "remaining": {
+         "text": "Available for 18 days"
+        }
+       },
+       "first_broadcast": "7 Apr 2025",
+       "first_broadcast_date_time": "2025-04-07T00:00:00.000Z"
+      }
+     ],
+     "childrens": true,
+     "parent_id": "m001sypq",
+     "tleo_type": "brand",
+     "categories": [
+      "audio-described",
+      "cbeebies",
+      "childrens-cartoons",
+      "childrens-drama",
+      "childrens-entertainment-comedy"
+     ],
+     "has_credits": false,
+     "requires_ab": [
+      "u13",
+      "u16",
+      "u18",
+      "o18"
+     ],
+     "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+       "large": "CBeebies",
+       "small": "CBeebies",
+       "medium": "CBeebies"
+      },
+      "attribution": "cbeebies"
+     },
+     "release_date": "7 Apr 2025",
+     "original_title": "Cubby",
+     "programme_type": "sequential",
+     "slice_subtitle": "38. Cubby",
+     "audio_described": true,
+     "editorial_title": "Bluey",
+     "parent_position": 38,
+     "requires_sign_in": false,
+     "release_date_time": "2025-04-07T00:00:00.000Z",
+     "editorial_subtitle": "Watch new episodes now",
+     "lexical_sort_letter": "B",
+     "requires_tv_licence": true
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "atoz_programmes": {
+  "character": "b",
+  "count": 285,
+  "page": 2,
+  "per_page": 5,
+  "elements": [
+   {
+    "id": "b01mtnrq",
+    "live": false,
+    "type": "programme_large",
+    "title": "Baby Jake",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gnhnjp.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gnhnjp.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gnhx2f.jpg"
+    },
+    "labels": {
+     "category": "CBeebies"
+    },
+    "status": "available",
+    "synopses": {
+     "small": "Series featuring Baby Jake, who giggles and gurgles his way through enchanting adventures.",
+     "medium": "Series which mixes live action and animation, featuring the magical Baby Jake, who giggles and gurgles his way through enchanting adventures."
+    },
+    "tleo_type": "brand",
+    "categories": [
+     "cbeebies",
+     "childrens-cartoons",
+     "childrens-entertainment-comedy"
+    ],
+    "master_brand": {
+     "id": "cbeebies",
+     "titles": {
+      "large": "CBeebies",
+      "small": "CBeebies",
+      "medium": "CBeebies"
+     },
+     "attribution": "cbeebies"
+    },
+    "programme_type": "narrative",
+    "lexical_sort_letter": "B",
+    "count": 52,
+    "initial_children": [
+     {
+      "id": "b01pjh2q",
+      "live": false,
+      "type": "episode",
+      "title": "Baby Jake",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jxlm34.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p03n5rcf.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p03n5rcf.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0gswrx4.jpg"
+      },
+      "labels": {
+       "category": "CBeebies"
+      },
+      "signed": true,
+      "status": "available",
+      "tleo_id": "b01mtnrq",
+      "guidance": false,
+      "slice_id": "b01mtnrq-structural-2-b01mtnsk",
+      "subtitle": "Series 2: 26. Baby Jake Loves Christmas",
+      "synopses": {
+       "small": "Baby Jake and Pengy Quin go on a spectacular Christmas adventure with their friends.",
+       "medium": "The adventures of magical Baby Jake and friends. Baby Jake and Pengy Quin go on a spectacular Christmas adventure with all of their friends."
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "b01pjh1g",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 545,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "11 mins",
+         "value": "PT11M5S"
+        },
+        "availability": {
+         "end": "2027-11-01T04:00:00Z",
+         "start": "2023-11-06T04:00:00Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "credits_start": 641,
+        "first_broadcast": "4:50pm 17 Dec 2012",
+        "first_broadcast_date_time": "2012-12-17T16:50:00.000Z"
+       },
+       {
+        "hd": true,
+        "id": "m001tv71",
+        "hdr": false,
+        "uhd": false,
+        "kind": "signed",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 540,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "11 mins",
+         "value": "PT11M0.040S"
+        },
+        "availability": {
+         "end": "2027-11-01T04:00:00Z",
+         "start": "2025-05-09T03:00:00Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "first_broadcast": "17 Dec 2012",
+        "first_broadcast_date_time": "2012-12-17T00:00:00.000Z"
+       }
+      ],
+      "childrens": true,
+      "parent_id": "b01mtnsk",
+      "tleo_type": "brand",
+      "categories": [
+       "cbeebies",
+       "childrens-cartoons",
+       "childrens-entertainment-comedy",
+       "signed"
+      ],
+      "has_credits": true,
+      "requires_ab": [
+       "u13",
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "cbeebies",
+       "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+       },
+       "attribution": "cbeebies"
+      },
+      "release_date": "17 Dec 2012",
+      "related_links": [],
+      "original_title": "Baby Jake Loves Christmas",
+      "programme_type": "narrative",
+      "slice_subtitle": "26. Baby Jake Loves Christmas",
+      "audio_described": false,
+      "parent_position": 26,
+      "requires_sign_in": false,
+      "release_date_time": "2012-12-17T00:00:00.000Z",
+      "editorial_subtitle": "Baby Jake goes on a spectacular Christmas adventure",
+      "lexical_sort_letter": "B",
+      "requires_tv_licence": true,
+      "numeric_tleo_position": 54
+     }
+    ]
+   },
+   {
+    "id": "m001klkw",
+    "live": false,
+    "type": "programme_large",
+    "title": "Back from the Brink",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fb2f2j.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fb2f2j.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0fcfn3x.jpg"
+    },
+    "labels": {
+     "category": "Nature"
+    },
+    "status": "available",
+    "synopses": {
+     "small": "The amazing work of conservationists fighting to save wildlife across Europe.",
+     "medium": "Libby Penman showcases the amazing work of conservationists fighting to save wildlife across Europe."
+    },
+    "tleo_type": "brand",
+    "categories": [
+     "documentaries-science-and-nature",
+     "documentaries",
+     "science-and-nature",
+     "scotland"
+    ],
+    "master_brand": {
+     "id": "bbc_scotland",
+     "titles": {
+      "large": "BBC Scotland",
+      "small": "BBC Scotland",
+      "medium": "BBC Scotland"
+     },
+     "attribution": "bbc"
+    },
+    "programme_type": "sequential",
+    "lexical_sort_letter": "B",
+    "count": 1,
+    "initial_children": [
+     {
+      "id": "m002twtd",
+      "live": false,
+      "type": "episode",
+      "title": "Back from the Brink",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8z26s.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8z2f5.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8z2f5.jpg",
+       "inherited_from": "series",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0n8z29m.jpg"
+      },
+      "labels": {
+       "category": "Nature"
+      },
+      "signed": false,
+      "status": "available",
+      "tleo_id": "m001klkw",
+      "guidance": false,
+      "subtitle": "Series 3: Episode 1",
+      "synopses": {
+       "large": "As we continue to expand our urban spaces and cities, our wildlife has felt the consequences.\n\nWildlife film-maker Libby Penman showcases the incredible work of dedicated conservationists who are fighting to bring our wildlife back from the brink. As we journey across Europe, we see how bottlenose dolphins are thriving in Aberdeen Harbour, how pioneering designers in Munich are reimagining urban construction with wildlife at its heart, and we meet the Ibizan scientific community that is rallying towns together to save an iconic lizard species.\n\nWe see teams in Scotland that are working to protect peregrine falcons from poachers and the citizen science project in Ireland that is researching how red foxes are adapting to our city life, and dive with a dedicated woman creating change in the waterways of the Netherlands.\n\nAcross all of these stories, Libby reveals the benefits of supporting and living alongside our wildlife. The amazing work of these groups and individuals show that if we take care of nature, it will take care of us in return.",
+       "small": "Libby Penman showcases incredible nature conservation success stories from across Europe.",
+       "medium": "From dolphins in Scotland to bats in Slovenia, Libby Penman showcases European nature stories that celebrate the incredible work of people fighting to save Europe's wildlife.",
+       "editorial": "Good news for nature. Stories of hope, wildlife and new thinking from across Europe"
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m002twtc",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 3373,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "58 mins",
+         "value": "PT58M13.040S"
+        },
+        "availability": {
+         "end": "2031-04-08T05:30:00Z",
+         "start": "2026-04-08T20:01:16Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "credits_start": 3467,
+        "first_broadcast": "8pm 8 Apr 2026",
+        "first_broadcast_date_time": "2026-04-08T19:00:00.000Z"
+       },
+       {
+        "hd": false,
+        "id": "p0nc8r5p",
+        "hdr": false,
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 3373,
+          "system": "uas"
+         }
+        ],
+        "download": false,
+        "duration": {
+         "text": "58 mins",
+         "value": "PT58M12.880S"
+        },
+        "availability": {
+         "end": "2031-04-08T05:30:00Z",
+         "start": "2026-04-08T20:01:16Z",
+         "remaining": {
+          "text": "Available for over a year"
+         }
+        },
+        "first_broadcast": "8 Apr 2026",
+        "first_broadcast_date_time": "2026-04-08T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "parent_id": "m002twtf",
+      "tleo_type": "brand",
+      "categories": [
+       "audio-described",
+       "documentaries-science-and-nature",
+       "documentaries",
+       "science-and-nature",
+       "scotland"
+      ],
+      "has_credits": false,
+      "requires_ab": [
+       "u13",
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_scotland",
+       "titles": {
+        "large": "BBC Scotland",
+        "small": "BBC Scotland",
+        "medium": "BBC Scotland"
+       },
+       "attribution": "bbc"
+      },
+      "release_date": "8 Apr 2026",
+      "related_links": [],
+      "original_title": "Episode 1",
+      "programme_type": "sequential",
+      "slice_subtitle": "Episode 1",
+      "audio_described": true,
+      "parent_position": 1,
+      "requires_sign_in": true,
+      "release_date_time": "2026-04-08T00:00:00.000Z",
+      "editorial_subtitle": "Good news for nature",
+      "lexical_sort_letter": "B",
+      "requires_tv_licence": true
+     }
+    ]
+   },
+   {
+    "id": "m002g7jr",
+    "live": false,
+    "type": "programme_large",
+    "title": "Back in the Day",
+    "images": {
+     "type": "image",
+     "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbtyw.jpg",
+     "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdc0kw.jpg",
+     "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbvdr.jpg",
+     "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdc0p9.jpg"
+    },
+    "labels": {
+     "category": "Entertainment",
+     "editorial_info": "New series"
+    },
+    "status": "available",
+    "synopses": {
+     "small": "A trip down memory lane as famous faces recall Wales’s weird and wonderful TV past.",
+     "medium": "A fun-filled trip down memory lane as famous faces and their families settle back on their sofas and recall Wales’s weird and wonderful TV past."
+    },
+    "tleo_type": "brand",
+    "categories": [
+     "entertainment",
+     "wales"
+    ],
+    "master_brand": {
+     "id": "bbc_one_wales",
+     "titles": {
+      "large": "BBC One Wales",
+      "small": "BBC One",
+      "medium": "BBC One Wales"
+     },
+     "attribution": "bbc_one_wales"
+    },
+    "programme_type": "self-contained",
+    "lexical_sort_letter": "B",
+    "count": 10,
+    "initial_children": [
+     {
+      "id": "m0032j34",
+      "live": false,
+      "type": "episode",
+      "title": "Back in the Day",
+      "images": {
+       "type": "image",
+       "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbv9q.jpg",
+       "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pc25xt.jpg",
+       "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdc0kw.jpg",
+       "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdbvdr.jpg",
+       "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pdc0p9.jpg"
+      },
+      "labels": {
+       "category": "Entertainment"
+      },
+      "signed": false,
+      "status": "available",
+      "tleo_id": "m002g7jr",
+      "guidance": false,
+      "subtitle": "Series 2: 10. Look Good, Feel Good",
+      "synopses": {
+       "small": "Look good, feel food - how did we do it?",
+       "medium": "Get ready to take another trip down memory lane and figure out what we do to look good and feel good."
+      },
+      "versions": [
+       {
+        "hd": true,
+        "id": "m0032j35",
+        "hdr": false,
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [
+         {
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+         },
+         {
+          "name": "ended",
+          "offset": 1627,
+          "system": "uas"
+         }
+        ],
+        "download": true,
+        "duration": {
+         "text": "29 mins",
+         "value": "PT29M6.880S"
+        },
+        "availability": {
+         "end": "2027-10-02T05:00:00Z",
+         "start": "2026-10-02T05:00:00Z",
+         "remaining": {
+          "text": "Available for 11 months"
+         }
+        },
+        "first_broadcast": "2 Oct 2026",
+        "first_broadcast_date_time": "2026-10-02T00:00:00.000Z"
+       }
+      ],
+      "childrens": false,
+      "parent_id": "m0032bky",
+      "tleo_type": "brand",
+      "categories": [
+       "entertainment",
+       "wales"
+      ],
+      "has_credits": false,
+      "requires_ab": [
+       "u16",
+       "u18",
+       "o18"
+      ],
+      "master_brand": {
+       "id": "bbc_one_wales",
+       "titles": {
+        "large": "BBC One Wales",
+        "small": "BBC One",
+        "medium": "BBC One Wales"
+       },
+       "attribution": "bbc_one_wales"
+      },
+      "release_date": "2 Oct 2026",
+      "related_links": [],
+      "original_title": "Look Good, Feel Good",
+      "programme_type": "self-contained",
+      "slice_subtitle": "10. Look Good, Feel Good",
+      "audio_described": false,
+      "parent_position": 10,
+      "requires_sign_in": true,
+      "release_date_time": "2026-10-02T00:00:00.000Z",
+      "lexical_sort_letter": "B",
+      "requires_tv_licence": true
+     }
+    ]
+   }
+  ]
+ }
+}

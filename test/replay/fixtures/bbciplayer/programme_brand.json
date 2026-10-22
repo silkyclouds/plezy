@@ -1,0 +1,149 @@
+{
+ "version": "1.0",
+ "schema": "/ibl/v1/schema/ibl.json",
+ "programmes": [
+  {
+   "id": "m002csng",
+   "live": false,
+   "type": "programme_large",
+   "title": "The Celebrity Traitors",
+   "images": {
+    "logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0p9lkkq.png",
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6k9.jpg",
+    "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6k9.jpg",
+    "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcgbzn.jpg",
+    "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6sj.jpg"
+   },
+   "labels": {
+    "category": "Entertainment",
+    "editorial_info": "New episodes every Thu and Fri"
+   },
+   "status": "available",
+   "synopses": {
+    "small": "An all-star cast are ready to play the ultimate game of deceit and betrayal.",
+    "medium": "You know their names, but you don't know their game. An all-star cast take on the ultimate test of deceit and betrayal. The fingerless gloves are ON - let the mind games begin!"
+   },
+   "tleo_type": "brand",
+   "categories": [
+    "entertainment"
+   ],
+   "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+     "large": "BBC One",
+     "small": "BBC One",
+     "medium": "BBC One"
+    },
+    "attribution": "bbc_one"
+   },
+   "programme_type": "narrative",
+   "lexical_sort_letter": "C",
+   "count": 16,
+   "initial_children": [
+    {
+     "id": "m0030py9",
+     "live": false,
+     "type": "episode",
+     "title": "The Celebrity Traitors",
+     "images": {
+      "type": "image",
+      "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg5rz.jpg",
+      "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0ph0l71.jpg",
+      "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6k9.jpg",
+      "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcgbzn.jpg",
+      "promotional_left_safe_zone": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0pcg6sj.jpg"
+     },
+     "labels": {
+      "category": "Entertainment"
+     },
+     "signed": true,
+     "status": "available",
+     "tleo_id": "m002csng",
+     "guidance": false,
+     "slice_id": "m002csng-structural-2-m0030pxs",
+     "subtitle": "Series 2: Episode 6",
+     "synopses": {
+      "large": "As the celebrity players gather for breakfast, conspiracies are running wild. The games continue in a mission where one mistake could cause heads to roll. At the Round Table, suspicions continue to rise - can the Traitors deflect accusations, or will the Faithful see through their lies?",
+      "small": "As the celebrity players gather for breakfast, conspiracies are running wild.",
+      "medium": "As the celebrity players gather for breakfast, conspiracies are running wild. The games continue in a mission where one mistake could cause heads to roll.",
+      "editorial": "6/10 Conspiracies run wild – and in the mission, one mistake could cause heads to roll"
+     },
+     "versions": [
+      {
+       "hd": true,
+       "id": "m00334kg",
+       "hdr": false,
+       "uhd": false,
+       "kind": "editorial",
+       "type": "version",
+       "events": [
+        {
+         "name": "started",
+         "offset": 30,
+         "system": "uas"
+        },
+        {
+         "name": "ended",
+         "offset": 3610,
+         "system": "uas"
+        }
+       ],
+       "download": true,
+       "duration": {
+        "text": "1h 2m",
+        "value": "PT1H2M10.133333S"
+       },
+       "availability": {
+        "end": "2027-10-30T20:22:10Z",
+        "start": "2026-10-16T20:04:30Z",
+        "remaining": {
+         "text": "Available for over a year"
+        }
+       },
+       "credits_start": 3702,
+       "first_broadcast": "16 Oct 2026",
+       "first_broadcast_date_time": "2026-10-16T00:00:00.000Z"
+      }
+     ],
+     "childrens": false,
+     "parent_id": "m0030pxs",
+     "tleo_type": "brand",
+     "categories": [
+      "audio-described",
+      "entertainment",
+      "signed"
+     ],
+     "has_credits": true,
+     "requires_ab": [
+      "u16",
+      "u18",
+      "o18"
+     ],
+     "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+       "large": "BBC One",
+       "small": "BBC One",
+       "medium": "BBC One"
+      },
+      "attribution": "bbc_one"
+     },
+     "release_date": "16 Oct 2026",
+     "related_links": [],
+     "original_title": "Episode 6",
+     "programme_type": "narrative",
+     "slice_subtitle": "Episode 6",
+     "audio_described": true,
+     "parent_position": 6,
+     "requires_sign_in": true,
+     "release_date_time": "2026-10-16T00:00:00.000Z",
+     "editorial_subtitle": "6/10 Conspiracies run wild",
+     "lexical_sort_letter": "C",
+     "requires_tv_licence": true,
+     "numeric_tleo_position": 17
+    }
+   ]
+  }
+ ]
+}
