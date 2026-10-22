@@ -1,0 +1,7 @@
+{
+ "id": "6393078069112",
+ "sources": [
+  {"type": "application/dash+xml", "src": "https://manifest.example.test/dash/manifest.mpd"},
+  {"type": "video/mp4", "src": "https://manifest.example.test/file.mp4"}
+ ]
+}

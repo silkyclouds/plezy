@@ -1,0 +1,99 @@
+{
+ "success": true,
+ "results": {
+  "guid": "chase-celebrity",
+  "name": "The Chase: Celebrity Specials",
+  "shortName": "The Chase: Celebrity Specials",
+  "shortDescription": "Bradley Walsh hosts a celebrity edition of the quiz show.",
+  "longDescription": "Bradley Walsh hosts a celebrity edition of the quiz show where four well known celebrities have to work together to try and win thousands of pounds for charity.",
+  "startLetter": "c",
+  "availableEpisodes": 1,
+  "drmEnabled": false,
+  "forceAds": false,
+  "promotionalLabel": null,
+  "promotionalSubtitle": null,
+  "vipExclusive": false,
+  "vipProhibited": false,
+  "svodExclusive": false,
+  "svodProhibited": false,
+  "premierSportsExclusive": false,
+  "excludeMetadata": false,
+  "programmeUrl": null,
+  "programmeUrlText": null,
+  "views": 0,
+  "_permalink": "https://player.stv.tv/summary/chase-celebrity/",
+  "distributor": "ITV",
+  "agreementType": "Channel 3 - network [default]",
+  "scheduleNext": {
+   "title": "The Chase Celebrity Special",
+   "channel": "stv",
+   "startTime": "2026-10-24T18:30:00+0100",
+   "endTime": "2026-10-24T19:30:00+0100"
+  },
+  "featuredEpisode": {
+   "guid": "chase-celebrity-20251224-1755",
+   "label": "Latest",
+   "_permalink": "https://player.stv.tv/episode/4ur0/chase-celebrity/",
+   "forceAds": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "accessibility": {
+    "subtitles": true,
+    "audioDescription": false,
+    "signLanguage": false,
+    "guidance": false,
+    "timeRemaining": "Available for 2 months"
+   }
+  },
+  "featuredShortform": null,
+  "type": "generic",
+  "series": null,
+  "shortform": null,
+  "visibility": null,
+  "featuredGroups": [],
+  "genre": {
+   "name": "Entertainment",
+   "subGenre": {
+    "name": "Game Show"
+   }
+  },
+  "images": [
+   {
+    "id": 801706,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "801706-the-chase-celebrity-specials.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801706/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801708,
+    "width": 498,
+    "height": 498,
+    "imageType": "squareImage",
+    "filename": "801708-the-chase-celebrity-specials.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801708/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801709,
+    "width": 1200,
+    "height": 340,
+    "imageType": "wideImage",
+    "filename": "801709-the-chase-celebrity-specials.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801709/rendition/?redirect=true&width=[width]&height=[height]"
+   }
+  ],
+  "_contentType": "episode",
+  "searchCategories": [
+   "Entertainment",
+   "Daytime"
+  ],
+  "metadata": null
+ }
+}

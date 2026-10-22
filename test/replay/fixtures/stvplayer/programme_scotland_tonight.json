@@ -1,0 +1,170 @@
+{
+ "success": true,
+ "results": {
+  "guid": "scotland-tonight",
+  "name": "Scotland Tonight",
+  "shortName": "Scotland Tonight",
+  "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+  "longDescription": "Current affairs show which tackles the issues behind the headlines from a Scottish perspective, with live studio debate and analysis of all the top stories",
+  "startLetter": "s",
+  "availableEpisodes": 14,
+  "drmEnabled": false,
+  "forceAds": false,
+  "promotionalLabel": null,
+  "promotionalSubtitle": null,
+  "vipExclusive": false,
+  "vipProhibited": false,
+  "svodExclusive": false,
+  "svodProhibited": false,
+  "premierSportsExclusive": false,
+  "excludeMetadata": false,
+  "programmeUrl": null,
+  "programmeUrlText": null,
+  "views": 849,
+  "_permalink": "https://player.stv.tv/summary/scotland-tonight/",
+  "distributor": "STV",
+  "agreementType": "STV archive",
+  "scheduleNext": {
+   "title": "Scotland Tonight",
+   "channel": "stv",
+   "startTime": "2026-10-26T22:40:00+0000",
+   "endTime": "2026-10-26T23:05:00+0000"
+  },
+  "featuredEpisode": {
+   "guid": "scotland-tonight-20261021-2240",
+   "label": "Latest",
+   "_permalink": "https://player.stv.tv/episode/51l8/scotland-tonight/",
+   "forceAds": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "accessibility": {
+    "subtitles": true,
+    "audioDescription": false,
+    "signLanguage": false,
+    "guidance": false,
+    "timeRemaining": "Available for 29 days"
+   }
+  },
+  "featuredShortform": null,
+  "type": "generic",
+  "series": null,
+  "shortform": null,
+  "visibility": null,
+  "featuredGroups": [],
+  "genre": {
+   "name": "News",
+   "subGenre": {
+    "name": "Current Affairs"
+   }
+  },
+  "images": [
+   {
+    "id": 893294,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "893294-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893294/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893299,
+    "width": 498,
+    "height": 498,
+    "imageType": "squareImage",
+    "filename": "893299-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893299/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893297,
+    "width": 1200,
+    "height": 340,
+    "imageType": "wideImage",
+    "filename": "893297-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893297/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893300,
+    "width": 1024,
+    "height": 730,
+    "imageType": "LN",
+    "filename": "893300-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893300/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893295,
+    "width": 182,
+    "height": 78,
+    "imageType": "CATI",
+    "filename": "893295-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893295/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893301,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "PPH4",
+    "filename": "893301-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893301/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893302,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "PPHL",
+    "filename": "893302-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893302/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893298,
+    "width": 600,
+    "height": 800,
+    "imageType": "PPMB",
+    "filename": "893298-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893298/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 709556,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "titleImage",
+    "filename": "709556-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/709556/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893143,
+    "width": 1669,
+    "height": 692,
+    "imageType": "titleTextImage",
+    "filename": "893143-scotland-tonight.png",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893143/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 893296,
+    "width": 996,
+    "height": 996,
+    "imageType": "squareImageLarge",
+    "filename": "893296-scotland-tonight.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/893296/rendition/?redirect=true&width=[width]&height=[height]"
+   }
+  ],
+  "_contentType": "episode",
+  "searchCategories": [
+   "News & Current Affairs"
+  ],
+  "metadata": null
+ }
+}

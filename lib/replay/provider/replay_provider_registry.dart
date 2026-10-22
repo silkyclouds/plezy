@@ -22,6 +22,7 @@ import '../providers/rtlplay/rtlplay_provider.dart';
 import '../providers/rtsplay/rtsplay_provider.dart';
 import '../providers/rtveplay/rtveplay_provider.dart';
 import '../providers/ruv/ruv_provider.dart';
+import '../providers/stvplayer/stvplayer_provider.dart';
 import '../providers/svtplay/svtplay_provider.dart';
 import '../providers/ted/ted_provider.dart';
 import '../providers/tf1plus/tf1plus_provider.dart';
@@ -280,6 +281,13 @@ const replaySourceInfos = [
     languages: ['en'],
     availableIn: {'GB', 'GG', 'JE', 'IM'},
   ),
+  ReplaySourceInfo(
+    id: 'stvplayer',
+    name: 'STV Player',
+    support: ReplayPlaybackSupport.partial,
+    country: 'GB',
+    languages: ['en'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -345,6 +353,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'tvpvod' => TvpVodProvider(http),
       'ceskatelevize' => CeskaTelevizeProvider(http),
       'bbciplayer' => BbcIplayerProvider(http),
+      'stvplayer' => StvPlayerProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

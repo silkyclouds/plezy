@@ -1,0 +1,457 @@
+{
+ "success": true,
+ "totalResults": 704,
+ "results": [
+  {
+   "guid": "chase-celebrity",
+   "name": "The Chase: Celebrity Specials",
+   "shortName": "The Chase: Celebrity Specials",
+   "shortDescription": "Bradley Walsh hosts a celebrity edition of the quiz show.",
+   "longDescription": "Bradley Walsh hosts a celebrity edition of the quiz show where four well known celebrities have to work together to try and win thousands of pounds for charity.",
+   "startLetter": "c",
+   "availableEpisodes": 1,
+   "drmEnabled": false,
+   "forceAds": false,
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "excludeMetadata": false,
+   "programmeUrl": null,
+   "programmeUrlText": null,
+   "views": 0,
+   "_permalink": "https://player.stv.tv/summary/chase-celebrity/",
+   "distributor": "ITV",
+   "agreementType": "Channel 3 - network [default]",
+   "featuredEpisode": {
+    "guid": "chase-celebrity-20251224-1755",
+    "label": "Latest",
+    "_permalink": "https://player.stv.tv/episode/4ur0/chase-celebrity/",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "accessibility": {
+     "subtitles": true,
+     "audioDescription": false,
+     "signLanguage": false,
+     "guidance": false,
+     "timeRemaining": "Available for 2 months"
+    }
+   },
+   "featuredShortform": null,
+   "type": "generic",
+   "series": null,
+   "shortform": null,
+   "visibility": null,
+   "featuredGroups": null,
+   "genre": {
+    "name": "Entertainment",
+    "subGenre": {
+     "name": "Game Show"
+    }
+   },
+   "images": [
+    {
+     "id": 801706,
+     "width": 1920,
+     "height": 1080,
+     "imageType": "mainImage",
+     "filename": "801706-the-chase-celebrity-specials.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/801706/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 801708,
+     "width": 498,
+     "height": 498,
+     "imageType": "squareImage",
+     "filename": "801708-the-chase-celebrity-specials.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/801708/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 801709,
+     "width": 1200,
+     "height": 340,
+     "imageType": "wideImage",
+     "filename": "801709-the-chase-celebrity-specials.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/801709/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_contentType": "episode",
+   "searchCategories": [
+    "audio-described",
+    "entertainment",
+    "daytime"
+   ]
+  },
+  {
+   "guid": "britains-got-talent",
+   "name": "Britain's Got Talent",
+   "shortName": "Britain's Got Talent",
+   "shortDescription": "The nation's most loved variety talent show returns to our screens.",
+   "longDescription": "The nation's biggest stage is back! Join Simon Cowell, Amanda Holden, Alesha Dixon and KSI as they search for Britain's next stars.",
+   "startLetter": "b",
+   "availableEpisodes": 14,
+   "drmEnabled": false,
+   "forceAds": false,
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "excludeMetadata": false,
+   "programmeUrl": null,
+   "programmeUrlText": null,
+   "views": 533,
+   "_permalink": "https://player.stv.tv/summary/britains-got-talent/",
+   "distributor": "ITV",
+   "agreementType": "Channel 3 - network [default]",
+   "featuredEpisode": {
+    "guid": "britains-got-talent-20260530-1900-l2v",
+    "label": "Latest",
+    "_permalink": "https://player.stv.tv/episode/4yoo/britains-got-talent/",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "accessibility": {
+     "subtitles": true,
+     "audioDescription": false,
+     "signLanguage": false,
+     "guidance": true,
+     "timeRemaining": "Available for 7 months"
+    }
+   },
+   "featuredShortform": {
+    "id": "411361",
+    "guid": "bgt19-sf5-hawkstonefarmerschoir-mpg",
+    "label": "Latest",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "_permalink": "https://player.stv.tv/video/8tep/britains-got-talent/"
+   },
+   "type": "generic",
+   "series": [
+    {
+     "guid": "britains-got-talent-series-19",
+     "name": "Series 19",
+     "visibility": null
+    }
+   ],
+   "shortform": [
+    {
+     "guid": "britains-got-talent-highlights",
+     "name": "Highlights",
+     "visibility": null
+    }
+   ],
+   "visibility": null,
+   "featuredGroups": null,
+   "genre": {
+    "name": "Entertainment",
+    "subGenre": {
+     "name": "Talent Show"
+    }
+   },
+   "images": [
+    {
+     "id": 887759,
+     "width": 1920,
+     "height": 1080,
+     "imageType": "mainImage",
+     "filename": "887759-britains-got-talent.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/887759/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 887764,
+     "width": 498,
+     "height": 498,
+     "imageType": "squareImage",
+     "filename": "887764-britains-got-talent.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/887764/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 887762,
+     "width": 1200,
+     "height": 340,
+     "imageType": "wideImage",
+     "filename": "887762-britains-got-talent.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/887762/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_contentType": "episode",
+   "searchCategories": [
+    "audio-described",
+    "entertainment"
+   ]
+  },
+  {
+   "guid": "taggart",
+   "name": "Taggart",
+   "shortName": "Taggart",
+   "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+   "longDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years. Watch full length episodes of Taggart for free on STV Player.",
+   "startLetter": "t",
+   "availableEpisodes": 108,
+   "drmEnabled": false,
+   "forceAds": false,
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "excludeMetadata": false,
+   "programmeUrl": null,
+   "programmeUrlText": null,
+   "views": 31494,
+   "_permalink": "https://player.stv.tv/summary/taggart/",
+   "distributor": "STV",
+   "agreementType": "STV archive",
+   "featuredEpisode": {
+    "guid": "catchup-ac2-mez-archive-taggart-endsofjustice-20101107.mpg",
+    "label": "Featured",
+    "_permalink": "https://player.stv.tv/episode/2rqh/taggart/",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "accessibility": {
+     "subtitles": true,
+     "audioDescription": false,
+     "signLanguage": false,
+     "guidance": true,
+     "timeRemaining": "Always Available"
+    }
+   },
+   "featuredShortform": {
+    "id": "410194",
+    "guid": "autoplay-taggart",
+    "label": "Latest",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "_permalink": "https://player.stv.tv/video/8sia/taggart/"
+   },
+   "type": "archive",
+   "series": [
+    {
+     "guid": "taggart-series-1",
+     "name": "Series 1",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-2",
+     "name": "Series 2",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-3",
+     "name": "Series 3",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-4",
+     "name": "Series 4",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-5",
+     "name": "Series 5",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-6",
+     "name": "Series 6",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-7",
+     "name": "Series 7",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-8",
+     "name": "Series 8",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-9",
+     "name": "Series 9",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-10",
+     "name": "Series 10",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-11",
+     "name": "Series 11",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-12",
+     "name": "Series 12",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-13",
+     "name": "Series 13",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-14",
+     "name": "Series 14",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-15",
+     "name": "Series 15",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-16",
+     "name": "Series 16",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-17",
+     "name": "Series 17",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-18",
+     "name": "Series 18",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-19",
+     "name": "Series 19",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-20",
+     "name": "Series 20",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-21",
+     "name": "Series 21",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-22",
+     "name": "Series 22",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-23",
+     "name": "Series 23",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-24",
+     "name": "Series 24",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-25",
+     "name": "Series 25",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-26",
+     "name": "Series 26",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-series-27",
+     "name": "Series 27",
+     "visibility": null
+    }
+   ],
+   "shortform": [
+    {
+     "guid": "taggart-trailer",
+     "name": "Trailer",
+     "visibility": null
+    },
+    {
+     "guid": "taggart-autoplay",
+     "name": "Autoplay",
+     "visibility": null
+    }
+   ],
+   "visibility": null,
+   "featuredGroups": null,
+   "genre": {
+    "name": "Drama",
+    "subGenre": {
+     "name": "Crime"
+    }
+   },
+   "images": [
+    {
+     "id": 828341,
+     "width": 1920,
+     "height": 1080,
+     "imageType": "mainImage",
+     "filename": "828341-taggart.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/828341/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 828342,
+     "width": 498,
+     "height": 498,
+     "imageType": "squareImage",
+     "filename": "828342-taggart.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/828342/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 828344,
+     "width": 1200,
+     "height": 340,
+     "imageType": "wideImage",
+     "filename": "828344-taggart.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/828344/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_contentType": "episode",
+   "searchCategories": [
+    "scottish",
+    "dramas",
+    "crime-drama",
+    "archive"
+   ]
+  }
+ ]
+}

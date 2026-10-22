@@ -1,0 +1,220 @@
+{
+ "success": true,
+ "totalResults": 35,
+ "results": [
+  {
+   "guid": "dramas",
+   "name": "Dramas",
+   "isChannel": false,
+   "images": {
+    "id": 1058877,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "1058877-the-party.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/1058877/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": null
+  },
+  {
+   "guid": "entertainment",
+   "name": "Entertainment",
+   "isChannel": false,
+   "images": {
+    "id": 959270,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "959270-the-voice-uk.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/959270/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": null
+  },
+  {
+   "guid": "documentaries",
+   "name": "Documentaries",
+   "isChannel": false,
+   "images": {
+    "id": 1069952,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "1069952-undercover-a-year-in-reform.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/1069952/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": null
+  },
+  {
+   "guid": "news-current-affairs",
+   "name": "News & Current Affairs",
+   "isChannel": false,
+   "images": {
+    "id": 985329,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "985329-stv-news-central.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/985329/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": null
+  },
+  {
+   "guid": "paranormal",
+   "name": "Screams and Streams",
+   "isChannel": false,
+   "images": {
+    "id": 733064,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "733064-most-haunted.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/733064/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": {
+    "guid": "big-media-haunted",
+    "name": "Most Haunted",
+    "shortName": "Most Haunted",
+    "shortDescription": "Paranormal investigations into haunted locations...",
+    "longDescription": "A team of paranormal experts launches investigations into haunted locations, using psychic mediums and scientific equipment.",
+    "availableEpisodes": 120,
+    "premierSportsExclusive": false,
+    "images": [
+     {
+      "id": "733064",
+      "width": 1920,
+      "height": 1080,
+      "imageType": "mainImage",
+      "filename": "733064-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732914",
+      "width": 498,
+      "height": 498,
+      "imageType": "squareImage",
+      "filename": "732914-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732915",
+      "width": 1200,
+      "height": 340,
+      "imageType": "wideImage",
+      "filename": "732915-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732916",
+      "width": 1024,
+      "height": 730,
+      "imageType": "LN",
+      "filename": "732916-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732913",
+      "width": 182,
+      "height": 78,
+      "imageType": "CATI",
+      "filename": "732913-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732919",
+      "width": 3840,
+      "height": 2160,
+      "imageType": "PPH4",
+      "filename": "732919-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732918",
+      "width": 1920,
+      "height": 1080,
+      "imageType": "PPHL",
+      "filename": "732918-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732917",
+      "width": 600,
+      "height": 800,
+      "imageType": "PPMB",
+      "filename": "732917-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732922",
+      "width": 3840,
+      "height": 2160,
+      "imageType": "titleImage",
+      "filename": "732922-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "839681",
+      "width": 398,
+      "height": 129,
+      "imageType": "titleTextImage",
+      "filename": "839681-most-haunted.png",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "891246",
+      "width": 996,
+      "height": 996,
+      "imageType": "squareImageLarge",
+      "filename": "891246-most-haunted.jpg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732921",
+      "width": 1024,
+      "height": 576,
+      "imageType": "titleImageSmall",
+      "filename": "732921-most-haunted.jpeg",
+      "masterFilepath": "/"
+     },
+     {
+      "id": "732920",
+      "width": 1920,
+      "height": 1080,
+      "imageType": "titleImageMedium",
+      "filename": "732920-most-haunted.jpeg",
+      "masterFilepath": "/"
+     }
+    ],
+    "programmeImage": {
+     "id": "1078855",
+     "width": 2830,
+     "height": 800,
+     "imageType": "category",
+     "filename": "1078855-screams-and-streams.jpeg",
+     "masterFilepath": "/"
+    },
+    "staticText": null,
+    "actionText": null
+   }
+  },
+  {
+   "guid": "radio-podcasts",
+   "name": "Radio & Podcasts",
+   "isChannel": false,
+   "images": {
+    "id": 773180,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "773180-the-braw-and-the-brave.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/773180/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   "promotedProgramme": null
+  }
+ ]
+}

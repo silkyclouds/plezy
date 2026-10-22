@@ -1,0 +1,343 @@
+{
+ "success": true,
+ "results": {
+  "guid": "taggart",
+  "name": "Taggart",
+  "shortName": "Taggart",
+  "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+  "longDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years. Watch full length episodes of Taggart for free on STV Player.",
+  "startLetter": "t",
+  "availableEpisodes": 108,
+  "drmEnabled": false,
+  "forceAds": false,
+  "promotionalLabel": null,
+  "promotionalSubtitle": null,
+  "vipExclusive": false,
+  "vipProhibited": false,
+  "svodExclusive": false,
+  "svodProhibited": false,
+  "premierSportsExclusive": false,
+  "excludeMetadata": false,
+  "programmeUrl": null,
+  "programmeUrlText": null,
+  "views": 31494,
+  "_permalink": "https://player.stv.tv/summary/taggart/",
+  "distributor": "STV",
+  "agreementType": "STV archive",
+  "featuredEpisode": {
+   "guid": "catchup-ac2-mez-archive-taggart-endsofjustice-20101107.mpg",
+   "label": "Featured",
+   "_permalink": "https://player.stv.tv/episode/2rqh/taggart/",
+   "forceAds": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "accessibility": {
+    "subtitles": true,
+    "audioDescription": false,
+    "signLanguage": false,
+    "guidance": true,
+    "timeRemaining": "Always Available"
+   }
+  },
+  "featuredShortform": {
+   "id": "410194",
+   "guid": "autoplay-taggart",
+   "label": "Latest",
+   "forceAds": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "_permalink": "https://player.stv.tv/video/8sia/taggart/"
+  },
+  "type": "archive",
+  "series": [
+   {
+    "guid": "taggart-series-1",
+    "name": "Series 1",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-2",
+    "name": "Series 2",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-3",
+    "name": "Series 3",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-4",
+    "name": "Series 4",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-5",
+    "name": "Series 5",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-6",
+    "name": "Series 6",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-7",
+    "name": "Series 7",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-8",
+    "name": "Series 8",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-9",
+    "name": "Series 9",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-10",
+    "name": "Series 10",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-11",
+    "name": "Series 11",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-12",
+    "name": "Series 12",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-13",
+    "name": "Series 13",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-14",
+    "name": "Series 14",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-15",
+    "name": "Series 15",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-16",
+    "name": "Series 16",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-17",
+    "name": "Series 17",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-18",
+    "name": "Series 18",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-19",
+    "name": "Series 19",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-20",
+    "name": "Series 20",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-21",
+    "name": "Series 21",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-22",
+    "name": "Series 22",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-23",
+    "name": "Series 23",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-24",
+    "name": "Series 24",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-25",
+    "name": "Series 25",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-26",
+    "name": "Series 26",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-series-27",
+    "name": "Series 27",
+    "visibility": null
+   }
+  ],
+  "shortform": [
+   {
+    "guid": "taggart-trailer",
+    "name": "Trailer",
+    "visibility": null
+   },
+   {
+    "guid": "taggart-autoplay",
+    "name": "Autoplay",
+    "visibility": null
+   }
+  ],
+  "visibility": null,
+  "featuredGroups": [],
+  "genre": {
+   "name": "Drama",
+   "subGenre": {
+    "name": "Crime"
+   }
+  },
+  "images": [
+   {
+    "id": 828341,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "828341-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828341/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828342,
+    "width": 498,
+    "height": 498,
+    "imageType": "squareImage",
+    "filename": "828342-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828342/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828344,
+    "width": 1200,
+    "height": 340,
+    "imageType": "wideImage",
+    "filename": "828344-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828344/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828345,
+    "width": 1024,
+    "height": 730,
+    "imageType": "LN",
+    "filename": "828345-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828345/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828343,
+    "width": 182,
+    "height": 78,
+    "imageType": "CATI",
+    "filename": "828343-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828343/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828348,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "PPH4",
+    "filename": "828348-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828348/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828347,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "PPHL",
+    "filename": "828347-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828347/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828346,
+    "width": 600,
+    "height": 800,
+    "imageType": "PPMB",
+    "filename": "828346-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828346/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828351,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "titleImage",
+    "filename": "828351-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828351/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 836097,
+    "width": 1920,
+    "height": 248,
+    "imageType": "titleTextImage",
+    "filename": "836097-taggart.png",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/836097/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 891443,
+    "width": 996,
+    "height": 996,
+    "imageType": "squareImageLarge",
+    "filename": "891443-taggart.jpg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/891443/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828350,
+    "width": 1024,
+    "height": 576,
+    "imageType": "titleImageSmall",
+    "filename": "828350-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828350/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 828349,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "titleImageMedium",
+    "filename": "828349-taggart.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/828349/rendition/?redirect=true&width=[width]&height=[height]"
+   }
+  ],
+  "_contentType": "episode",
+  "searchCategories": [
+   "Scottish",
+   "Dramas",
+   "Crime Dramas",
+   "STV Archive"
+  ],
+  "metadata": null
+ }
+}

@@ -1,0 +1,662 @@
+{
+ "success": true,
+ "totalResults": 14,
+ "results": [
+  {
+   "id": "234350",
+   "guid": "scotland-tonight-20260922-2305",
+   "audioDescribedGuid": null,
+   "standardGuid": "scotland-tonight-20260922-2305",
+   "visuallySignedGuid": null,
+   "matId": "91944",
+   "title": "Tue 22 Sep, 11.05 pm",
+   "summary": "As John Swinney pushes for another independence referendum, Reform politicians storm out of the chamber. And homelessness rates here keep rising. What's driving the crisis?",
+   "guidanceText": null,
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 82,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/91944_74949f07f8f688b244c5b9d5945b4899.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/91944_b7bcdf472bf091b57e163fbfa1cbd41a.subs.xml"
+   },
+   "video": {
+    "id": 6405447349112,
+    "guid": "catchup-scotlandtonight-20260922-2308-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260922-2308-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91944_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1407230,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6405447349112,
+    "guid": "catchup-scotlandtonight-20260922-2308-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260922-2308-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91944_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1407230,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "scotland-tonight",
+    "name": "Scotland Tonight",
+    "shortName": "Scotland Tonight",
+    "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+    "availableEpisodes": 14,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-10-22T23:59:00+0100",
+    "for": 30,
+    "_daysLeft": 1
+   },
+   "images": [
+    {
+     "id": 893441,
+     "width": 1024,
+     "height": 576,
+     "filename": "893441-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893441/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893442,
+     "width": 1920,
+     "height": 1080,
+     "filename": "893442-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893442/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893443,
+     "width": 1024,
+     "height": 730,
+     "filename": "893443-untitled.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893443/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893444,
+     "width": 182,
+     "height": 98,
+     "filename": "893444-untitled.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893444/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-09-22T23:05:00+0100",
+    "endTime": "2026-09-22T23:35:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002797137",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-scotland-tonight,scotland-tonight&t=vp-scotland-tonight,EPID_91944_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-scotland-tonight,scotland-tonight",
+   "_permalink": "https://player.stv.tv/episode/50tq/scotland-tonight/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/234350",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/234350",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "234391",
+   "guid": "scotland-tonight-20260923-2240",
+   "audioDescribedGuid": null,
+   "standardGuid": "scotland-tonight-20260923-2240",
+   "visuallySignedGuid": null,
+   "matId": "91945",
+   "title": "Wed 23 Sep, 10.40 pm",
+   "summary": "As drug deaths rise sharply, why is Scotland failing to tackle this public health emergency?",
+   "guidanceText": null,
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 83,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/91945_7c81372d4feccd33f3af623189833701.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/91945_7d7a9c6b78dbff7dbd99153bd710f007.subs.xml"
+   },
+   "video": {
+    "id": 6405508853112,
+    "guid": "catchup-scotlandtonight-20260923-2239-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260923-2239-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91945_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1407860,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6405508853112,
+    "guid": "catchup-scotlandtonight-20260923-2239-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260923-2239-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91945_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1407860,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "scotland-tonight",
+    "name": "Scotland Tonight",
+    "shortName": "Scotland Tonight",
+    "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+    "availableEpisodes": 14,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-10-23T23:59:00+0100",
+    "for": 30,
+    "_daysLeft": 2
+   },
+   "images": [
+    {
+     "id": 893441,
+     "width": 1024,
+     "height": 576,
+     "filename": "893441-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893441/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893442,
+     "width": 1920,
+     "height": 1080,
+     "filename": "893442-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893442/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893443,
+     "width": 1024,
+     "height": 730,
+     "filename": "893443-untitled.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893443/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893444,
+     "width": 182,
+     "height": 98,
+     "filename": "893444-untitled.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893444/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-09-23T22:40:00+0100",
+    "endTime": "2026-09-23T23:05:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002797147",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-scotland-tonight,scotland-tonight&t=vp-scotland-tonight,EPID_91945_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-scotland-tonight,scotland-tonight",
+   "_permalink": "https://player.stv.tv/episode/50uv/scotland-tonight/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/234391",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/234391",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "234537",
+   "guid": "scotland-tonight-20260928-2240",
+   "audioDescribedGuid": null,
+   "standardGuid": "scotland-tonight-20260928-2240",
+   "visuallySignedGuid": null,
+   "matId": "91946",
+   "title": "Mon 28 Sep, 10.40 pm",
+   "summary": "Hope again. That's the widely displayed slogan for Andy Burnham's first Labour conference as party leader and prime minister.",
+   "guidanceText": null,
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 84,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/91946_c910999b8707384d784617577296965c.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/91946_fecb0370e901814a2d64ea0b5a1c0a93.subs.xml"
+   },
+   "video": {
+    "id": 6405758720112,
+    "guid": "catchup-scotlandtonight-20260928-2243-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260928-2243-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91946_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1409850,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6405758720112,
+    "guid": "catchup-scotlandtonight-20260928-2243-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20260928-2243-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91946_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1409850,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "scotland-tonight",
+    "name": "Scotland Tonight",
+    "shortName": "Scotland Tonight",
+    "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+    "availableEpisodes": 14,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-10-28T23:59:00+0000",
+    "for": 30,
+    "_daysLeft": 7
+   },
+   "images": [
+    {
+     "id": 893441,
+     "width": 1024,
+     "height": 576,
+     "filename": "893441-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893441/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893442,
+     "width": 1920,
+     "height": 1080,
+     "filename": "893442-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893442/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893443,
+     "width": 1024,
+     "height": 730,
+     "filename": "893443-untitled.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893443/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893444,
+     "width": 182,
+     "height": 98,
+     "filename": "893444-untitled.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893444/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-09-28T22:40:00+0100",
+    "endTime": "2026-09-28T23:10:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002797157",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-scotland-tonight,scotland-tonight&t=vp-scotland-tonight,EPID_91946_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-scotland-tonight,scotland-tonight",
+   "_permalink": "https://player.stv.tv/episode/50yx/scotland-tonight/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/234537",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/234537",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "235340",
+   "guid": "scotland-tonight-20261021-2240",
+   "audioDescribedGuid": null,
+   "standardGuid": "scotland-tonight-20261021-2240",
+   "visuallySignedGuid": null,
+   "matId": "91957",
+   "title": "Wed 21 Oct, 10.40 pm",
+   "summary": "Giving the go-ahead to gas, drilling in the Jackdaw gas field gets government backing.",
+   "guidanceText": null,
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 95,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/91957_9c770a2e7e30051982d6519794702f6b.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/91957_f3b35b88d08964d303b9265b2e9bbe23.subs.xml"
+   },
+   "video": {
+    "id": 6407203218112,
+    "guid": "catchup-scotlandtonight-20261021-2238-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20261021-2238-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91957_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1408450,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6407203218112,
+    "guid": "catchup-scotlandtonight-20261021-2238-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20261021-2238-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91957_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1408450,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "scotland-tonight",
+    "name": "Scotland Tonight",
+    "shortName": "Scotland Tonight",
+    "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+    "availableEpisodes": 14,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-11-20T23:59:00+0000",
+    "for": 30,
+    "_daysLeft": 30
+   },
+   "images": [
+    {
+     "id": 893441,
+     "width": 1024,
+     "height": 576,
+     "filename": "893441-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893441/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893442,
+     "width": 1920,
+     "height": 1080,
+     "filename": "893442-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893442/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893443,
+     "width": 1024,
+     "height": 730,
+     "filename": "893443-untitled.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893443/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893444,
+     "width": 182,
+     "height": 98,
+     "filename": "893444-untitled.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893444/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-10-21T22:40:00+0100",
+    "endTime": "2026-10-21T23:05:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002818407",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-scotland-tonight,scotland-tonight&t=vp-scotland-tonight,EPID_91957_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-scotland-tonight,scotland-tonight",
+   "_permalink": "https://player.stv.tv/episode/51l8/scotland-tonight/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/235340",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/235340",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  }
+ ]
+}

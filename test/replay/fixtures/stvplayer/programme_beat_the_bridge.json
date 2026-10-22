@@ -1,0 +1,184 @@
+{
+ "success": true,
+ "results": {
+  "guid": "stv-beat-the-bridge",
+  "name": "Beat The Bridge",
+  "shortName": "Beat The Bridge",
+  "shortDescription": "Who will dare to Beat the Bridge and win up to $15,000? \n",
+  "longDescription": "Cameron Mathison hosts Beat The Bridge. All that separates the contestants from success is the interactive bridge, challenging them to step on the right answers to tough trivia questions.",
+  "startLetter": "b",
+  "availableEpisodes": 50,
+  "drmEnabled": false,
+  "forceAds": false,
+  "promotionalLabel": null,
+  "promotionalSubtitle": null,
+  "vipExclusive": false,
+  "vipProhibited": false,
+  "svodExclusive": false,
+  "svodProhibited": false,
+  "premierSportsExclusive": false,
+  "excludeMetadata": false,
+  "programmeUrl": null,
+  "programmeUrlText": null,
+  "views": 0,
+  "_permalink": "https://player.stv.tv/summary/stv-beat-the-bridge/",
+  "distributor": "STV",
+  "agreementType": "Acquired",
+  "featuredEpisode": {
+   "guid": "stv-beat-the-bridge-episode-1",
+   "label": "Featured",
+   "_permalink": "https://player.stv.tv/episode/4o6f/stv-beat-the-bridge/",
+   "forceAds": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "accessibility": {
+    "subtitles": true,
+    "audioDescription": false,
+    "signLanguage": false,
+    "guidance": true,
+    "timeRemaining": "Available for 8 years"
+   }
+  },
+  "featuredShortform": null,
+  "type": "archive",
+  "series": [
+   {
+    "guid": "stv-beat-the-bridge-series-1",
+    "name": "Episodes 1 - 25",
+    "visibility": null
+   },
+   {
+    "guid": "stv-beat-the-bridge-episodes-26-50",
+    "name": "Episodes 26 - 50",
+    "visibility": null
+   }
+  ],
+  "shortform": null,
+  "visibility": null,
+  "featuredGroups": [],
+  "genre": {
+   "name": "Entertainment",
+   "subGenre": {
+    "name": "Game Show"
+   }
+  },
+  "images": [
+   {
+    "id": 801959,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "mainImage",
+    "filename": "801959-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801959/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801961,
+    "width": 498,
+    "height": 498,
+    "imageType": "squareImage",
+    "filename": "801961-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801961/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801962,
+    "width": 1200,
+    "height": 340,
+    "imageType": "wideImage",
+    "filename": "801962-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801962/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801963,
+    "width": 1024,
+    "height": 730,
+    "imageType": "LN",
+    "filename": "801963-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801963/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801949,
+    "width": 182,
+    "height": 78,
+    "imageType": "CATI",
+    "filename": "801949-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801949/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801966,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "PPH4",
+    "filename": "801966-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801966/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801965,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "PPHL",
+    "filename": "801965-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801965/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801964,
+    "width": 600,
+    "height": 800,
+    "imageType": "PPMB",
+    "filename": "801964-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801964/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801969,
+    "width": 3840,
+    "height": 2160,
+    "imageType": "titleImage",
+    "filename": "801969-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801969/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 890841,
+    "width": 996,
+    "height": 996,
+    "imageType": "squareImageLarge",
+    "filename": "890841-beat-the-bridge.jpg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/890841/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801968,
+    "width": 1024,
+    "height": 576,
+    "imageType": "titleImageSmall",
+    "filename": "801968-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801968/rendition/?redirect=true&width=[width]&height=[height]"
+   },
+   {
+    "id": 801967,
+    "width": 1920,
+    "height": 1080,
+    "imageType": "titleImageMedium",
+    "filename": "801967-beat-the-bridge.jpeg",
+    "masterFilepath": "/",
+    "_filepath": "https://player.api.stv.tv/v1/images/801967/rendition/?redirect=true&width=[width]&height=[height]"
+   }
+  ],
+  "_contentType": "episode",
+  "searchCategories": [
+   "Entertainment"
+  ],
+  "metadata": null
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "success": true,
+ "totalResults": 9278,
+ "results": [
+  {
+   "id": "235340",
+   "guid": "scotland-tonight-20261021-2240",
+   "audioDescribedGuid": null,
+   "standardGuid": "scotland-tonight-20261021-2240",
+   "visuallySignedGuid": null,
+   "matId": "91957",
+   "title": "Wed 21 Oct, 10.40 pm",
+   "summary": "Giving the go-ahead to gas, drilling in the Jackdaw gas field gets government backing.",
+   "guidanceText": null,
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 95,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/91957_9c770a2e7e30051982d6519794702f6b.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/91957_f3b35b88d08964d303b9265b2e9bbe23.subs.xml"
+   },
+   "video": {
+    "id": 6407203218112,
+    "guid": "catchup-scotlandtonight-20261021-2238-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20261021-2238-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91957_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1408450,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6407203218112,
+    "guid": "catchup-scotlandtonight-20261021-2238-G-VX.mpg",
+    "slug": "catchup-scotlandtonight-20261021-2238-G-VX.mxf",
+    "tags": "vp-scotland-tonight,EPID_91957_stv-region,stv-region",
+    "length": 1410048,
+    "_duration": "24 mins",
+    "recommendedCuePoint": 1408450,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "scotland-tonight",
+    "name": "Scotland Tonight",
+    "shortName": "Scotland Tonight",
+    "shortDescription": "Current affairs show tackling issues behind the headlines from a Scottish perspective",
+    "availableEpisodes": 14,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-11-20T23:59:00+0000",
+    "for": 30,
+    "_daysLeft": 30
+   },
+   "images": [
+    {
+     "id": 893441,
+     "width": 1024,
+     "height": 576,
+     "filename": "893441-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893441/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 893442,
+     "width": 1920,
+     "height": 1080,
+     "filename": "893442-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/893442/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-10-21T22:40:00+0100",
+    "endTime": "2026-10-21T23:05:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002818407",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-scotland-tonight,scotland-tonight&t=vp-scotland-tonight,EPID_91957_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-scotland-tonight,scotland-tonight",
+   "_permalink": "https://player.stv.tv/episode/51l8/scotland-tonight/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/235340",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/235340",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "235339",
+   "guid": "itv-news-20261021-2200",
+   "audioDescribedGuid": null,
+   "standardGuid": "itv-news-20261021-2200",
+   "visuallySignedGuid": null,
+   "matId": "2/4409/2835#001",
+   "title": "Wed 21 Oct, 10.00 pm",
+   "summary": "Gas drilling go-ahead for Jackdaw field, North Sea fuel will start flowing within weeks.",
+   "guidanceText": "Not all news items may be suitable for children.",
+   "informationText": null,
+   "competitionText": null,
+   "genre": "News",
+   "_subGenre": "Current Affairs",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 210,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": null,
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/2-4409-2835-001_b98c8946add314dc710e045b6ead0e61.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/2-4409-2835-001_c2b2fea312a270f49a9b8cc997a6b940.subs.xml"
+   },
+   "video": {
+    "id": 6407201696112,
+    "guid": "catchup-itvnewsatten-20261021-2200",
+    "slug": "2_4409_2835001.mxf",
+    "tags": "vp-itv-news,EPID_2/4409/2835_stv-region,stv-region",
+    "length": 1798933,
+    "_duration": "30 mins",
+    "recommendedCuePoint": 1798070,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6407201696112,
+    "guid": "catchup-itvnewsatten-20261021-2200",
+    "slug": "2_4409_2835001.mxf",
+    "tags": "vp-itv-news,EPID_2/4409/2835_stv-region,stv-region",
+    "length": 1798933,
+    "_duration": "30 mins",
+    "recommendedCuePoint": 1798070,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "itv-news",
+    "name": "ITV News",
+    "shortName": "ITV News",
+    "shortDescription": "News bulletins from ITV News.",
+    "availableEpisodes": 2,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "News",
+    "subGenre": "Current Affairs",
+    "distributor": "ITV",
+    "agreementType": "Channel 3 - network [default]"
+   },
+   "playerSeries": null,
+   "availability": {
+    "from": null,
+    "until": "2026-10-22T23:59:00+0100",
+    "for": 1,
+    "_daysLeft": 1
+   },
+   "images": [
+    {
+     "id": 805104,
+     "width": 1024,
+     "height": 576,
+     "filename": "805104-untitled.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/805104/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 805105,
+     "width": 1920,
+     "height": 1080,
+     "filename": "805105-untitled.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/805105/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "news-current-affairs",
+     "name": "News & Current Affairs"
+    },
+    {
+     "slug": "audio-described",
+     "name": "Audio Described"
+    }
+   ],
+   "schedule": {
+    "startTime": "2026-10-21T22:00:00+0100",
+    "endTime": "2026-10-21T22:30:00+0100",
+    "channel": "stv",
+    "crid": "crid://www.stv.tv/1002636892",
+    "hasSubtitles": true,
+    "isAudioDescribed": false
+   },
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-itv-news,itv-news&t=vp-itv-news,EPID_2/4409/2835_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-itv-news,itv-news",
+   "_permalink": "https://player.stv.tv/episode/51l7/itv-news/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/235339",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/235339",
+   "_restrictions": {
+    "locations": [
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  }
+ ]
+}

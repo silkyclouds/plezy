@@ -1,0 +1,226 @@
+{
+ "success": true,
+ "totalResults": 117,
+ "results": [
+  {
+   "guid": "the-party",
+   "name": "The Party",
+   "shortName": "The Party",
+   "shortDescription": "Luke Evans and Tom Cullen star in this gripping tale of the dark side of privilege.",
+   "longDescription": "Never invite the past... Luke Evans and Tom Cullen star in this gripping tale of obsession, friendship and the dark side of privilege.",
+   "startLetter": "p",
+   "availableEpisodes": 5,
+   "drmEnabled": false,
+   "forceAds": false,
+   "promotionalLabel": null,
+   "promotionalSubtitle": "Luke Evans ★ Tom Cullen",
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "excludeMetadata": false,
+   "programmeUrl": null,
+   "programmeUrlText": null,
+   "views": 211901,
+   "_permalink": "https://player.stv.tv/summary/the-party/",
+   "distributor": "ITV",
+   "agreementType": "Channel 3 - exclusive",
+   "featuredEpisode": {
+    "guid": "the-party-series-1-episode-1",
+    "label": "Featured",
+    "_permalink": "https://player.stv.tv/episode/515t/the-party/",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "accessibility": {
+     "subtitles": true,
+     "audioDescription": false,
+     "signLanguage": false,
+     "guidance": true,
+     "timeRemaining": "Available for 11 months"
+    }
+   },
+   "featuredShortform": {
+    "id": "412238",
+    "guid": "trailer-theparty",
+    "label": "Latest",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "_permalink": "https://player.stv.tv/video/8u32/the-party/"
+   },
+   "type": "archive",
+   "series": [
+    {
+     "guid": "the-party-series-1",
+     "name": "Series 1",
+     "visibility": null
+    }
+   ],
+   "shortform": [
+    {
+     "guid": "the-party-trailer",
+     "name": "Trailer",
+     "visibility": null
+    }
+   ],
+   "visibility": {
+    "from": "2026-09-28T16:00:00+0100",
+    "until": "2026-10-11T07:00:00+0100"
+   },
+   "featuredGroups": null,
+   "genre": {
+    "name": "Drama",
+    "subGenre": {
+     "name": "Thriller"
+    }
+   },
+   "images": [
+    {
+     "id": 1058877,
+     "width": 1920,
+     "height": 1080,
+     "imageType": "mainImage",
+     "filename": "1058877-the-party.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1058877/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 1058876,
+     "width": 498,
+     "height": 498,
+     "imageType": "squareImage",
+     "filename": "1058876-the-party.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1058876/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_contentType": "episode",
+   "searchCategories": [
+    "thrillers",
+    "dramas",
+    "audio-described"
+   ]
+  },
+  {
+   "guid": "the-blame",
+   "name": "The Blame",
+   "shortName": "The Blame",
+   "shortDescription": "A teenager's murder draws detectives down a dark path.",
+   "longDescription": "How do you catch a killer when the killer is one of your own? Twisty thriller starring Michelle Keegan and Douglas Booth. A teenager's murder draws detectives down a dark path.",
+   "startLetter": "b",
+   "availableEpisodes": 6,
+   "drmEnabled": false,
+   "forceAds": false,
+   "promotionalLabel": null,
+   "promotionalSubtitle": "Michelle Keegan ★ Douglas Booth",
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "excludeMetadata": false,
+   "programmeUrl": null,
+   "programmeUrlText": null,
+   "views": 170803,
+   "_permalink": "https://player.stv.tv/summary/the-blame/",
+   "distributor": "ITV",
+   "agreementType": "Channel 3 - network [default]",
+   "featuredEpisode": {
+    "guid": "the-blame-series-1-episode-1",
+    "label": "Featured",
+    "_permalink": "https://player.stv.tv/episode/50nm/the-blame/",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "accessibility": {
+     "subtitles": true,
+     "audioDescription": false,
+     "signLanguage": false,
+     "guidance": true,
+     "timeRemaining": "Available for 11 months"
+    }
+   },
+   "featuredShortform": {
+    "id": "412070",
+    "guid": "trailer-theblame",
+    "label": "Latest",
+    "forceAds": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "_permalink": "https://player.stv.tv/video/8tye/the-blame/"
+   },
+   "type": "archive",
+   "series": [
+    {
+     "guid": "the-blame-series-1",
+     "name": "Series 1",
+     "visibility": null
+    }
+   ],
+   "shortform": [
+    {
+     "guid": "the-blame-autoplay",
+     "name": "Autoplay",
+     "visibility": null
+    },
+    {
+     "guid": "the-blame-trailer",
+     "name": "Trailer",
+     "visibility": null
+    }
+   ],
+   "visibility": {
+    "from": "2026-08-31T12:15:00+0100",
+    "until": "2026-09-20T07:00:00+0100"
+   },
+   "featuredGroups": null,
+   "genre": {
+    "name": "Drama",
+    "subGenre": {
+     "name": "Crime"
+    }
+   },
+   "images": [
+    {
+     "id": 1031382,
+     "width": 1920,
+     "height": 1080,
+     "imageType": "mainImage",
+     "filename": "1031382-the-blame.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1031382/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 1031391,
+     "width": 498,
+     "height": 498,
+     "imageType": "squareImage",
+     "filename": "1031391-the-blame.jpeg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1031391/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_contentType": "episode",
+   "searchCategories": [
+    "thrillers",
+    "crime-drama",
+    "audio-described",
+    "dramas"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "success": true,
+ "totalResults": 94,
+ "results": [
+  {
+   "id": "412286",
+   "guid": "stvnews-jackdaw-gas-field-approved-by-uk-government-mp4-default",
+   "audioDescribedGuid": null,
+   "standardGuid": null,
+   "visuallySignedGuid": null,
+   "title": "Jackdaw gas field approved by UK Government",
+   "summary": "The Jackdaw gas field in the North Sea has been given the go-ahead by the UK Government.\nThe controversial project, 150 miles east of Aberdeen and owned by Adura, has been approved despite campaigning by enviro",
+   "guidanceText": null,
+   "informationText": null,
+   "collectionId": null,
+   "episodeId": null,
+   "index": null,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "video": {
+    "id": 6407195108112,
+    "guid": "stvnews-jackdaw-gas-field-approved-by-uk-government-mp4-default",
+    "slug": "jackdaw-gas-field-approved-by-uk-government.mp4",
+    "tags": "vp-stv-news-clips-sf",
+    "length": 274901,
+    "_duration": "5 mins",
+    "recommendedCuePoint": null,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": null,
+   "chapter": null,
+   "availability": {
+    "from": null,
+    "until": "2026-11-20T19:06:39+0000",
+    "for": 30,
+    "_daysLeft": 30
+   },
+   "programme": {
+    "guid": "stv-news-clips",
+    "name": "STV News Clips",
+    "drmEnabled": false,
+    "premierSportsExclusive": false
+   },
+   "collection": null,
+   "images": [
+    {
+     "id": 1081100,
+     "width": 1024,
+     "height": 576,
+     "imageType": "mainImage",
+     "filename": "1081100-jackdaw-gas-field-approved-by-uk-government.jpg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1081100/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-stv-news-clips,stv-news-clips&t=vp-stv-news-clips-sf&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-sf-stv-news-clips,stv-news-clips",
+   "_permalink": "https://player.stv.tv/video/8u4e/stv-news-clips/jackdaw-gas-field-approved-by-uk-government/",
+   "drmEnabled": false,
+   "_cuePoints": null
+  },
+  {
+   "id": "412285",
+   "guid": "stvnews-council-battling-to-save-town-from-ending-up-in-north-sea-mp4-default",
+   "audioDescribedGuid": null,
+   "standardGuid": null,
+   "visuallySignedGuid": null,
+   "title": "Council battling to save town from 'ending up in North Sea'",
+   "summary": "Coastal erosion means Montrose is losing metres of the town each year.\nIt’s already impacted the golf course and there are now fears for the town itself.",
+   "guidanceText": null,
+   "informationText": null,
+   "collectionId": null,
+   "episodeId": null,
+   "index": null,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "video": {
+    "id": 6407194886112,
+    "guid": "stvnews-council-battling-to-save-town-from-ending-up-in-north-sea-mp4-default",
+    "slug": "council-battling-to-save-town-from-ending-up-in-north-sea.mp4",
+    "tags": "vp-stv-news-clips-sf",
+    "length": 169792,
+    "_duration": "3 mins",
+    "recommendedCuePoint": null,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": null,
+   "chapter": null,
+   "availability": {
+    "from": null,
+    "until": "2026-11-20T19:00:14+0000",
+    "for": 30,
+    "_daysLeft": 29
+   },
+   "programme": {
+    "guid": "stv-news-clips",
+    "name": "STV News Clips",
+    "drmEnabled": false,
+    "premierSportsExclusive": false
+   },
+   "collection": null,
+   "images": [
+    {
+     "id": 1080704,
+     "width": 1024,
+     "height": 576,
+     "imageType": "mainImage",
+     "filename": "1080704-council-battling-to-save-town-from-ending-up-in-north-sea.jpg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1080704/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-stv-news-clips,stv-news-clips&t=vp-stv-news-clips-sf&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-sf-stv-news-clips,stv-news-clips",
+   "_permalink": "https://player.stv.tv/video/8u4d/stv-news-clips/council-battling-to-save-town-from-ending-up-in-north-sea/",
+   "drmEnabled": false,
+   "_cuePoints": null
+  },
+  {
+   "id": "412284",
+   "guid": "stvnews-were-care-homes-an-afterthought-during-the-covid-pandemic-mp4-default",
+   "audioDescribedGuid": null,
+   "standardGuid": null,
+   "visuallySignedGuid": null,
+   "title": "Were care homes an 'afterthought' during the Covid pandemic?",
+   "summary": "A new report has branded the planning of care home resident safety during the Covid pandemic asa being an 'afterthought'. ",
+   "guidanceText": null,
+   "informationText": null,
+   "collectionId": null,
+   "episodeId": null,
+   "index": null,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "video": {
+    "id": 6407174238112,
+    "guid": "stvnews-were-care-homes-an-afterthought-during-the-covid-pandemic-mp4-default",
+    "slug": "were-care-homes-an-afterthought-during-the-covid-pandemic.mp4",
+    "tags": "vp-stv-news-clips-sf",
+    "length": 876587,
+    "_duration": "15 mins",
+    "recommendedCuePoint": null,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": null,
+   "chapter": null,
+   "availability": {
+    "from": null,
+    "until": "2026-11-20T10:41:47+0000",
+    "for": 30,
+    "_daysLeft": 29
+   },
+   "programme": {
+    "guid": "stv-news-clips",
+    "name": "STV News Clips",
+    "drmEnabled": false,
+    "premierSportsExclusive": false
+   },
+   "collection": null,
+   "images": [
+    {
+     "id": 1080177,
+     "width": 1024,
+     "height": 576,
+     "imageType": "mainImage",
+     "filename": "1080177-were-care-homes-an-afterthought-during-the-covid-pandemic.jpg",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1080177/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-stv-news-clips,stv-news-clips&t=vp-stv-news-clips-sf&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-sf-stv-news-clips,stv-news-clips",
+   "_permalink": "https://player.stv.tv/video/8u4c/stv-news-clips/were-care-homes-an-afterthought-during-the-covid-pandemic/",
+   "drmEnabled": false,
+   "_cuePoints": null
+  }
+ ]
+}

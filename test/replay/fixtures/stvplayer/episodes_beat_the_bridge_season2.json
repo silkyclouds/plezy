@@ -1,0 +1,328 @@
+{
+ "success": true,
+ "totalResults": 25,
+ "results": [
+  {
+   "id": "218311",
+   "guid": "stv-beat-the-bridge-episode-50",
+   "audioDescribedGuid": null,
+   "standardGuid": "stv-beat-the-bridge-episode-50",
+   "visuallySignedGuid": null,
+   "matId": "STV-BTB-1050",
+   "title": "50. You Got the Strut",
+   "summary": "Sasha, Rob, and Ian work together as they attempt to cross an interactive bridge by answering a series of general knowledge trivia questions where the game board is literally beneath their feet.",
+   "guidanceText": null,
+   "informationText": "Contains flashing images. All answers correct at the time of recording.",
+   "competitionText": null,
+   "genre": "Entertainment",
+   "_subGenre": "Game Show",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 50,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    480426
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/stv-beat-the-bridge-episode-50.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/stv-beat-the-bridge-episode-50.subs.xml"
+   },
+   "video": {
+    "id": 6366105031112,
+    "guid": "Beat-the-Bridge-1-1050-DP-50i.mpg",
+    "slug": "Beat-the-Bridge-1-1050-DP-50i.mxf",
+    "tags": "vp-stv-beat-the-bridge,EPID_STV-BTB-1050_stv-region,stv-region",
+    "length": 1202901,
+    "_duration": "21 mins",
+    "recommendedCuePoint": 1192840,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6366105031112,
+    "guid": "Beat-the-Bridge-1-1050-DP-50i.mpg",
+    "slug": "Beat-the-Bridge-1-1050-DP-50i.mxf",
+    "tags": "vp-stv-beat-the-bridge,EPID_STV-BTB-1050_stv-region,stv-region",
+    "length": 1202901,
+    "_duration": "21 mins",
+    "recommendedCuePoint": 1192840,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "stv-beat-the-bridge",
+    "name": "Beat The Bridge",
+    "shortName": "Beat The Bridge",
+    "shortDescription": "Who will dare to Beat the Bridge and win up to $15,000? \n",
+    "availableEpisodes": 50,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Entertainment",
+    "subGenre": "Game Show",
+    "distributor": "STV",
+    "agreementType": "Acquired"
+   },
+   "playerSeries": {
+    "guid": "stv-beat-the-bridge-episodes-26-50",
+    "name": "Episodes 26 - 50",
+    "episodeIndex": 50
+   },
+   "availability": {
+    "from": null,
+    "until": "2035-01-12T23:59:00+0000",
+    "for": 3651,
+    "_daysLeft": 3005
+   },
+   "images": [
+    {
+     "id": 803882,
+     "width": 1024,
+     "height": 576,
+     "filename": "803882-50-you-got-the-strut.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803882/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803883,
+     "width": 1920,
+     "height": 1080,
+     "filename": "803883-50-you-got-the-strut.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803883/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803885,
+     "width": 1024,
+     "height": 730,
+     "filename": "803885-50-you-got-the-strut.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803885/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803887,
+     "width": 182,
+     "height": 98,
+     "filename": "803887-50-you-got-the-strut.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803887/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "entertainment",
+     "name": "Entertainment"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-stv-beat-the-bridge,stv-beat-the-bridge&t=vp-stv-beat-the-bridge,EPID_STV-BTB-1050_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-stv-beat-the-bridge,stv-beat-the-bridge",
+   "_permalink": "https://player.stv.tv/episode/4og7/stv-beat-the-bridge/50-you-got-the-strut/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/218311",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/218311",
+   "_restrictions": {
+    "locations": [
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "legacy",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "218312",
+   "guid": "stv-beat-the-bridge-episode-49",
+   "audioDescribedGuid": null,
+   "standardGuid": "stv-beat-the-bridge-episode-49",
+   "visuallySignedGuid": null,
+   "matId": "STV-BTB-1049",
+   "title": "49. Party in the Warehouse",
+   "summary": "Emma, Jordan, and Rachel work together as they attempt to cross an interactive bridge by answering a series of general knowledge trivia questions where the game board is literally beneath their feet.",
+   "guidanceText": null,
+   "informationText": "Contains flashing images. All answers correct at the time of recording.",
+   "competitionText": null,
+   "genre": "Entertainment",
+   "_subGenre": "Game Show",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 49,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    444559
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/stv-beat-the-bridge-episode-49.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/stv-beat-the-bridge-episode-49.subs.xml"
+   },
+   "video": {
+    "id": 6366105028112,
+    "guid": "Beat-the-Bridge-1-1049-DP-50i.mpg",
+    "slug": "Beat-the-Bridge-1-1049-DP-50i.mxf",
+    "tags": "vp-stv-beat-the-bridge,EPID_STV-BTB-1049_stv-region,stv-region",
+    "length": 1202944,
+    "_duration": "21 mins",
+    "recommendedCuePoint": 1192880,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6366105028112,
+    "guid": "Beat-the-Bridge-1-1049-DP-50i.mpg",
+    "slug": "Beat-the-Bridge-1-1049-DP-50i.mxf",
+    "tags": "vp-stv-beat-the-bridge,EPID_STV-BTB-1049_stv-region,stv-region",
+    "length": 1202944,
+    "_duration": "21 mins",
+    "recommendedCuePoint": 1192880,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "stv-beat-the-bridge",
+    "name": "Beat The Bridge",
+    "shortName": "Beat The Bridge",
+    "shortDescription": "Who will dare to Beat the Bridge and win up to $15,000? \n",
+    "availableEpisodes": 50,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Entertainment",
+    "subGenre": "Game Show",
+    "distributor": "STV",
+    "agreementType": "Acquired"
+   },
+   "playerSeries": {
+    "guid": "stv-beat-the-bridge-episodes-26-50",
+    "name": "Episodes 26 - 50",
+    "episodeIndex": 49
+   },
+   "availability": {
+    "from": null,
+    "until": "2035-01-12T23:59:00+0000",
+    "for": 3651,
+    "_daysLeft": 3005
+   },
+   "images": [
+    {
+     "id": 803884,
+     "width": 1024,
+     "height": 576,
+     "filename": "803884-49-party-in-the-warehouse.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803884/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803886,
+     "width": 1920,
+     "height": 1080,
+     "filename": "803886-49-party-in-the-warehouse.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803886/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803888,
+     "width": 1024,
+     "height": 730,
+     "filename": "803888-49-party-in-the-warehouse.jpeg",
+     "imageType": "LN_LAND",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803888/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 803889,
+     "width": 182,
+     "height": 98,
+     "filename": "803889-49-party-in-the-warehouse.jpeg",
+     "imageType": "THUM",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/803889/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "entertainment",
+     "name": "Entertainment"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-stv-beat-the-bridge,stv-beat-the-bridge&t=vp-stv-beat-the-bridge,EPID_STV-BTB-1049_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-stv-beat-the-bridge,stv-beat-the-bridge",
+   "_permalink": "https://player.stv.tv/episode/4og8/stv-beat-the-bridge/49-party-in-the-warehouse/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/218312",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/218312",
+   "_restrictions": {
+    "locations": [
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "legacy",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  }
+ ]
+}

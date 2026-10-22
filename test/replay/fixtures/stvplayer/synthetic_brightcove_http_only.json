@@ -1,0 +1,6 @@
+{
+ "id": "6405758720112",
+ "sources": [
+  {"type": "application/x-mpegURL", "src": "http://manifest.example.test/hls/master.m3u8", "ext_x_version": "3"}
+ ]
+}

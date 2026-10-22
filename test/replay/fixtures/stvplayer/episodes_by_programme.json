@@ -1,0 +1,318 @@
+{
+ "success": true,
+ "totalResults": 108,
+ "results": [
+  {
+   "id": "129137",
+   "guid": "catchup-ac2-mez-archive-taggart-deathtrap-20020114.mpg",
+   "audioDescribedGuid": null,
+   "standardGuid": "catchup-ac2-mez-archive-taggart-deathtrap-20020114.mpg",
+   "visuallySignedGuid": null,
+   "matId": "77521",
+   "title": "Death Trap",
+   "summary": "New DCI Matt Burke, takes over the case of the murder of a politician's activist son, who threatened his father's property deal.  Is Jardine too close to the truth? First broadcast 14/01/2002 .",
+   "guidanceText": "Contains crime scene violence and some strong language.",
+   "informationText": null,
+   "competitionText": null,
+   "genre": "Drama",
+   "_subGenre": "Crime",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 1,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    1251160,
+    2320960,
+    3173040,
+    4039440,
+    4927520
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/catchup-ac2-mez-archive-taggart-deathtrap-20020114.mpg.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/catchup-ac2-mez-archive-taggart-deathtrap-20020114.mpg.subs.xml"
+   },
+   "video": {
+    "id": 6184438149001,
+    "guid": "catchup-ac2-mez-archive-taggart-deathtrap-20020114-replacement.mpg",
+    "slug": "catchup-ac2-mez-archive-taggart-deathtrap-20020114-replacement.mov",
+    "tags": "vp-taggart,EPID_77521_stv-region,stv-region",
+    "length": 6008440,
+    "_duration": "1 hr 41 mins",
+    "recommendedCuePoint": 5977420,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6184438149001,
+    "guid": "catchup-ac2-mez-archive-taggart-deathtrap-20020114-replacement.mpg",
+    "slug": "catchup-ac2-mez-archive-taggart-deathtrap-20020114-replacement.mov",
+    "tags": "vp-taggart,EPID_77521_stv-region,stv-region",
+    "length": 6008440,
+    "_duration": "1 hr 41 mins",
+    "recommendedCuePoint": 5977420,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "taggart",
+    "name": "Taggart",
+    "shortName": "Taggart",
+    "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+    "availableEpisodes": 108,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Drama",
+    "subGenre": "Crime",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": {
+    "guid": "taggart-series-18",
+    "name": "Series 18",
+    "episodeIndex": 1
+   },
+   "availability": null,
+   "images": [
+    {
+     "id": 422502,
+     "width": 1024,
+     "height": 576,
+     "filename": "422502-taggart-2002-01-14-210000.jpg",
+     "imageType": "mainImage",
+     "masterFilepath": "422/",
+     "_filepath": "https://player.api.stv.tv/v1/images/422502/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 623075,
+     "width": 1920,
+     "height": 1080,
+     "filename": "623075-death-trap.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/623075/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "scottish",
+     "name": "Scottish"
+    },
+    {
+     "slug": "dramas",
+     "name": "Dramas"
+    },
+    {
+     "slug": "crime-drama",
+     "name": "Crime Dramas"
+    },
+    {
+     "slug": "archive",
+     "name": "STV Archive"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-taggart,taggart&t=vp-taggart,EPID_77521_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-taggart,taggart",
+   "_permalink": "https://player.stv.tv/episode/2rn5/taggart/death-trap/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/129137",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/129137",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "129138",
+   "guid": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008.mpg",
+   "audioDescribedGuid": null,
+   "standardGuid": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008.mpg",
+   "visuallySignedGuid": null,
+   "matId": "72701",
+   "title": "A Few Bad Men",
+   "summary": "DI  Robbie Ross joins the team to investigate  a murder at an army camp.  It seems the killing is linked to a racehorse scam and someone is out for revenge.  First broadcast 08/10/1998",
+   "guidanceText": "Contains crime scene violence and some strong language.",
+   "informationText": null,
+   "competitionText": null,
+   "genre": "Drama",
+   "_subGenre": "Crime",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 1,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    1232000,
+    2573880,
+    3600720,
+    5183600,
+    6349480
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/catchup-ac2-mez-archive-taggart-afewbadmen-19981008.mpg.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/catchup-ac2-mez-archive-taggart-afewbadmen-19981008.mpg.subs.xml"
+   },
+   "video": {
+    "id": 6183018745001,
+    "guid": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008-replacement.mpg",
+    "slug": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008-replacement.mov",
+    "tags": "vp-taggart,EPID_72701_stv-region,stv-region",
+    "length": 7678400,
+    "_duration": "2 hrs 8 mins",
+    "recommendedCuePoint": 7633100,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6183018745001,
+    "guid": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008-replacement.mpg",
+    "slug": "catchup-ac2-mez-archive-taggart-afewbadmen-19981008-replacement.mov",
+    "tags": "vp-taggart,EPID_72701_stv-region,stv-region",
+    "length": 7678400,
+    "_duration": "2 hrs 8 mins",
+    "recommendedCuePoint": 7633100,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "taggart",
+    "name": "Taggart",
+    "shortName": "Taggart",
+    "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+    "availableEpisodes": 108,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Drama",
+    "subGenre": "Crime",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": {
+    "guid": "taggart-series-15",
+    "name": "Series 15",
+    "episodeIndex": 1
+   },
+   "availability": null,
+   "images": [
+    {
+     "id": 414897,
+     "width": 1024,
+     "height": 576,
+     "filename": "414897-taggart-1998-10-08-210000.jpg",
+     "imageType": "mainImage",
+     "masterFilepath": "414/",
+     "_filepath": "https://player.api.stv.tv/v1/images/414897/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 622444,
+     "width": 1920,
+     "height": 1080,
+     "filename": "622444-a-few-bad-men.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/622444/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "scottish",
+     "name": "Scottish"
+    },
+    {
+     "slug": "dramas",
+     "name": "Dramas"
+    },
+    {
+     "slug": "crime-drama",
+     "name": "Crime Dramas"
+    },
+    {
+     "slug": "archive",
+     "name": "STV Archive"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-taggart,taggart&t=vp-taggart,EPID_72701_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-taggart,taggart",
+   "_permalink": "https://player.stv.tv/episode/2rn6/taggart/a-few-bad-men/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/129138",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/129138",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  }
+ ]
+}

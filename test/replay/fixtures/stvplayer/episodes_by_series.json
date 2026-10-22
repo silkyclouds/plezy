@@ -1,0 +1,316 @@
+{
+ "success": true,
+ "totalResults": 108,
+ "results": [
+  {
+   "id": "230665",
+   "guid": "taggart-series-1-episode-1",
+   "audioDescribedGuid": null,
+   "standardGuid": "taggart-series-1-episode-1",
+   "visuallySignedGuid": null,
+   "matId": "8330",
+   "title": "Killer",
+   "summary": "In the first ever episode, DCI Taggart is joined by DS Peter Livingstone to investigate a series of murders.  The female victims have all had clumps of their hair removed.  First broadcast 06/09/1983",
+   "guidanceText": "Contains crime scene violence and some strong language.",
+   "informationText": null,
+   "competitionText": null,
+   "genre": "Drama",
+   "_subGenre": "Crime",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 1,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    900680,
+    2650880,
+    4347600,
+    5289680
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/8330_153860786f969588b53d3f20fcb23cef.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/8330_c6202aaf9c974e52799369fa383d9c25.subs.xml"
+   },
+   "video": {
+    "id": 6393078069112,
+    "guid": "catchup-taggart-archive-killer-S01E01-replacement.mpg",
+    "slug": "8330.mov",
+    "tags": "vp-taggart,EPID_8330_stv-region,stv-region",
+    "length": 7863640,
+    "_duration": "2 hrs 12 mins",
+    "recommendedCuePoint": 7791000,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6393078069112,
+    "guid": "catchup-taggart-archive-killer-S01E01-replacement.mpg",
+    "slug": "8330.mov",
+    "tags": "vp-taggart,EPID_8330_stv-region,stv-region",
+    "length": 7863640,
+    "_duration": "2 hrs 12 mins",
+    "recommendedCuePoint": 7791000,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "taggart",
+    "name": "Taggart",
+    "shortName": "Taggart",
+    "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+    "availableEpisodes": 108,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Drama",
+    "subGenre": "Crime",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": {
+    "guid": "taggart-series-1",
+    "name": "Series 1",
+    "episodeIndex": 1
+   },
+   "availability": null,
+   "images": [
+    {
+     "id": 1066696,
+     "width": 1024,
+     "height": 576,
+     "filename": "1066696-killer.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1066696/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 1066697,
+     "width": 1920,
+     "height": 1080,
+     "filename": "1066697-killer.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1066697/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "scottish",
+     "name": "Scottish"
+    },
+    {
+     "slug": "dramas",
+     "name": "Dramas"
+    },
+    {
+     "slug": "crime-drama",
+     "name": "Crime Dramas"
+    },
+    {
+     "slug": "archive",
+     "name": "STV Archive"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-taggart,taggart&t=vp-taggart,EPID_8330_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-taggart,taggart",
+   "_permalink": "https://player.stv.tv/episode/4xzd/taggart/killer/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/230665",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/230665",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  },
+  {
+   "id": "233851",
+   "guid": "taggart-series-1-episode-2",
+   "audioDescribedGuid": null,
+   "standardGuid": "taggart-series-1-episode-2",
+   "visuallySignedGuid": null,
+   "matId": "8460",
+   "title": "Dead Ringer",
+   "summary": "A murder case which Taggart apparently solved years before resurfaces and takes a turn for the worse when the victim's nine-month-old nephew is kidnapped.  First Broadcast 02/07/1985",
+   "guidanceText": "Contains crime scene violence and some strong language.",
+   "informationText": null,
+   "competitionText": null,
+   "genre": "Drama",
+   "_subGenre": "Crime",
+   "promotionalLabel": null,
+   "promotionalSubtitle": null,
+   "views": 0,
+   "number": 2,
+   "forceAds": false,
+   "svodExclusive": false,
+   "svodProhibited": false,
+   "premierSportsExclusive": false,
+   "vipExclusive": false,
+   "vipProhibited": false,
+   "_cuePoints": [
+    1116160,
+    2735960,
+    5278760,
+    6364920
+   ],
+   "_subtitles": {
+    "webvtt": "https://files.stv.tv/player/subtitles/8460_6a2d330481457d248d56be2a9133c67a.subs.vtt",
+    "dfxp": "https://files.stv.tv/player/subtitles/8460_4163c012ddc7b9286590d239bcadb6d9.subs.xml"
+   },
+   "video": {
+    "id": 6392755539112,
+    "guid": "catchup-taggart-archive-deadringer-S01E02-replacement.mpg",
+    "slug": "8460.mov",
+    "tags": "vp-taggart,EPID_8460_stv-region,stv-region",
+    "length": 8023880,
+    "_duration": "2 hrs 14 mins",
+    "recommendedCuePoint": 7966000,
+    "videoType": "standard"
+   },
+   "audioDescribedVideo": null,
+   "visuallySignedVideo": null,
+   "standardVideo": {
+    "id": 6392755539112,
+    "guid": "catchup-taggart-archive-deadringer-S01E02-replacement.mpg",
+    "slug": "8460.mov",
+    "tags": "vp-taggart,EPID_8460_stv-region,stv-region",
+    "length": 8023880,
+    "_duration": "2 hrs 14 mins",
+    "recommendedCuePoint": 7966000,
+    "videoType": "standard"
+   },
+   "programme": {
+    "guid": "taggart",
+    "name": "Taggart",
+    "shortName": "Taggart",
+    "shortDescription": "Gritty cop-drama set in Glasgow, Taggart ran for nearly 30 years.",
+    "availableEpisodes": 108,
+    "drmEnabled": false,
+    "forceAds": false,
+    "svodExclusive": false,
+    "svodProhibited": false,
+    "premierSportsExclusive": false,
+    "vipExclusive": false,
+    "vipProhibited": false,
+    "genre": "Drama",
+    "subGenre": "Crime",
+    "distributor": "STV",
+    "agreementType": "STV archive"
+   },
+   "playerSeries": {
+    "guid": "taggart-series-1",
+    "name": "Series 1",
+    "episodeIndex": 2
+   },
+   "availability": null,
+   "images": [
+    {
+     "id": 1066702,
+     "width": 1024,
+     "height": 576,
+     "filename": "1066702-dead-ringer.jpeg",
+     "imageType": "mainImage",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1066702/rendition/?redirect=true&width=[width]&height=[height]"
+    },
+    {
+     "id": 1066705,
+     "width": 1920,
+     "height": 1080,
+     "filename": "1066705-dead-ringer.jpeg",
+     "imageType": "PRMW",
+     "masterFilepath": "/",
+     "_filepath": "https://player.api.stv.tv/v1/images/1066705/rendition/?redirect=true&width=[width]&height=[height]"
+    }
+   ],
+   "categories": [
+    {
+     "slug": "scottish",
+     "name": "Scottish"
+    },
+    {
+     "slug": "dramas",
+     "name": "Dramas"
+    },
+    {
+     "slug": "crime-drama",
+     "name": "Crime Dramas"
+    },
+    {
+     "slug": "archive",
+     "name": "STV Archive"
+    }
+   ],
+   "schedule": null,
+   "_adBaseUrl": "http://uk-dev-stv.videoplaza.tv/proxy/distributor/v2?rt=vast_2.0&s=player-[DEVICE]-taggart,taggart&t=vp-taggart,EPID_8460_stv-region,stv-region&rnd=[TIMESTAMP]",
+   "_videoplazaId": "player-programmes-lf-taggart,taggart",
+   "_permalink": "https://player.stv.tv/episode/50fv/taggart/dead-ringer/",
+   "_youviewCrid": "crid://www.stv.tv/programmeConcept/233851",
+   "_youviewReportingCrid": "crid://www.stv.tv/programInformation/233851",
+   "_restrictions": {
+    "locations": [
+     "uk",
+     "itv",
+     "utv",
+     "aberdeen",
+     "edinburgh",
+     "dundee",
+     "glasgow"
+    ],
+    "platforms": [
+     "desktop",
+     "freeview",
+     "freesat",
+     "ios",
+     "firetv",
+     "android",
+     "youview",
+     "samsung",
+     "roku",
+     "kepler",
+     "lg",
+     "freely",
+     "virginmedia",
+     "tvos",
+     "soip",
+     "googletv",
+     "skyq"
+    ]
+   }
+  }
+ ]
+}

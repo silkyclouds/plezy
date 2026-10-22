@@ -1,0 +1,16 @@
+{
+ "id": "6184438149001",
+ "duration": 6060000,
+ "sources": [
+  {
+   "type": "application/dash+xml",
+   "src": "https://manifest.example.test/dash/manifest.mpd",
+   "key_systems": {"com.widevine.alpha": {"license_url": "https://license.example.test/widevine"}}
+  },
+  {
+   "type": "application/x-mpegURL",
+   "src": "https://manifest.example.test/hls/master.m3u8",
+   "key_systems": {"com.apple.fps.1_0": {"license_url": "https://license.example.test/fairplay"}}
+  }
+ ]
+}
