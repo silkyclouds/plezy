@@ -1,0 +1,485 @@
+{
+ "cluster": [
+  {
+   "name": "",
+   "type": "teaserSearchResults",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "sendungen-100",
+     "type": "brandsAlphabetical",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sendungen-100",
+     "headline": "",
+     "titel": "A - Z",
+     "beschreibung": "",
+     "externalId": "SCMS_ca4d6b86-9701-4165-9e49-ceb9bf2f0235",
+     "trackingTitle": "A-Z",
+     "sharingUrl": "https://www.zdf.de/sendungen-a-z/sendungen-100.html",
+     "structureNodePath": "/zdf/sendungen-a-z",
+     "channel": "ZDF",
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/kategorie-a-z-100~1140x240?cb=1766138144588",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/kategorie-a-z-100~1152x1296?cb=1766138144588",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/kategorie-a-z-100~1200x480?cb=1766138144588",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "barrierefrei-im-zdf-100",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/barrierefrei-im-zdf-100",
+     "headline": "",
+     "titel": "Barrierefreie Angebote",
+     "beschreibung": "Untertitel, Audiodeskription und Gebärdensprache - wie Barrierefreiheit im ZDF vorangetrieben wird",
+     "externalId": "SCMS_2a2408f8-c578-476b-b5fb-2c93bd9365d5",
+     "trackingTitle": "Barrierefreie_Angebote",
+     "textLong": "Alles an einem Ort: das gesamte Angebot an Videos mit Untertiteln, Gebärdensprache und Audiodeskription sowie hilfreiche Informationen zum Thema Barrierefreiheit.",
+     "sharingUrl": "https://www.zdf.de/barrierefreiheit-im-zdf",
+     "contentType": "category",
+     "structureNodePath": "/zdf/barrierefreiheit-im-zdf",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/rubrik-barrierefreie-angebote-102~1140x240?cb=1740638298123",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/rubrik-barrierefreie-angebote-102~1152x1296?cb=1740638298123",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/rubrik-barrierefreie-angebote-102~1200x480?cb=1740638298123",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "filme-104",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/filme-104",
+     "headline": "",
+     "titel": "Filme",
+     "beschreibung": "Infos zu den aktuellen Filmen inklusive Videos, Online-Specials und vieles mehr.",
+     "externalId": "SCMS_3560a562-e856-4c76-8bb2-b67f87afad7b",
+     "trackingTitle": "Filme",
+     "textLong": "Das volle Programm: Wir zeigen spannende Kino-Highlights, skurrile Komödien, herzzerreißende Liebesfilme und vieles mehr. Film ab!",
+     "sharingUrl": "https://www.zdf.de/filme",
+     "contentType": "category",
+     "structureNodePath": "/zdf/filme",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/kategorie-filme-100~1140x240?cb=1766146103117",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/kategorie-filme-100~1152x1296?cb=1766146103117",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/kategorie-filme-100~1200x480?cb=1766146103117",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/rubrik-filme-logo-mittig-100~240x270?cb=1658490716819",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/rubrik-filme-logo-mittig-100~276x311?cb=1658490716819",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/rubrik-filme-logo-mittig-100~314x314?cb=1658490716819",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "serien-100",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/serien-100",
+     "headline": "",
+     "titel": "Serien",
+     "beschreibung": "Infos zu den aktuellen Serien inklusive Videos, Online-Specials und vieles mehr",
+     "externalId": "SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc",
+     "trackingTitle": "Serien",
+     "textLong": "Gut sortiert: Wir bieten eine riesige Auswahl an Serien. Von Comedy über Drama bis Thriller – da ist für jeden Geschmack etwas dabei.",
+     "sharingUrl": "https://www.zdf.de/serien",
+     "contentType": "category",
+     "structureNodePath": "/zdf/serien",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/kategorie-serien-100~1140x240?cb=1766155718630",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/kategorie-serien-100~1152x1296?cb=1766155718630",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/kategorie-serien-100~1200x480?cb=1766155718630",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/rubrik-serien-logo-mittig-100~240x270?cb=1658490705351",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/rubrik-serien-logo-mittig-100~276x311?cb=1658490705351",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/rubrik-serien-logo-mittig-100~314x314?cb=1658490705351",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "comedy-102",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/comedy-102",
+     "headline": "",
+     "titel": "Comedy & Satire",
+     "beschreibung": "Die witzigsten ZDF-Sendungen: heute-show, ZDF Magazin Royale, Die Anstalt, Studio Schmitt und neue Formate zum Lachen",
+     "externalId": "SCMS_4c01a4db-96c9-4419-af43-a04dbf3e964e",
+     "trackingTitle": "Comedy_ampersand_Satire",
+     "textLong": "Wir zeigen die witzigsten Comedy- und Satireformate - beliebte Klassiker und neue Talente auf der großen Bühne.",
+     "sharingUrl": "https://www.zdf.de/comedy",
+     "contentType": "category",
+     "structureNodePath": "/zdf/comedy",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/rubriken-shows-100~1140x240?cb=1766398565553",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/rubriken-shows-100~1152x1296?cb=1766398565553",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/rubriken-shows-100~1200x480?cb=1766398565553",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/rubrik-comedy-satire-logo-mittig-100~240x270?cb=1658402998192",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/rubrik-comedy-satire-logo-mittig-100~276x311?cb=1658402998192",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/rubrik-comedy-satire-logo-mittig-100~314x314?cb=1658402998192",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "doku-wissen-104",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/doku-wissen-104",
+     "headline": "",
+     "titel": "Dokus & Reportagen",
+     "beschreibung": "Erleben Sie die besten Dokumentationen, Reportagen und Wissensformate der ZDFmediathek ständig verfügbar",
+     "externalId": "SCMS_925dd017-dbc2-4b07-a327-6dbaabf49905",
+     "trackingTitle": "Dokus_ampersand_Reportagen",
+     "textLong": "Die Welt verstehen und erleben: Spannende Dokus und Reportagen und faszinierende Wissensformate",
+     "sharingUrl": "https://www.zdf.de/doku-wissen",
+     "contentType": "category",
+     "structureNodePath": "/zdf/doku-wissen",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/kategorie-dokus-100~1140x240?cb=1767693973777",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/kategorie-dokus-100~1152x1296?cb=1767693973777",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/kategorie-dokus-100~1200x480?cb=1767693973777",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/rubrik-dokus-reportagen-logo-mittig-100~240x270?cb=1658402940739",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/rubrik-dokus-reportagen-logo-mittig-100~276x311?cb=1658402940739",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/rubrik-dokus-reportagen-logo-mittig-100~314x314?cb=1658402940739",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "kultur-110",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/kultur-110",
+     "headline": "",
+     "titel": "Kultur",
+     "beschreibung": "Best-of der Kultursendungen von ZDF und 3sat plus eigene Formate",
+     "externalId": "SCMS_377b6894-f5de-48ef-8643-1a495c06b446",
+     "trackingTitle": "Kultur",
+     "textLong": "Hier gibt's Kultur satt: Austausch außerhalb der Blase, Debatten, spannende Dokus und Konzerte. Außerdem zeigen wir aus der Mediathek das Spannendste zu Sprache, Literatur, Film, Kunst und Kabarett.",
+     "sharingUrl": "https://www.zdf.de/kultur",
+     "contentType": "category",
+     "structureNodePath": "/zdf/kultur",
+     "channel": "ZDF",
+     "hasVideo": false,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/rubriken-zdfkultur-100~1140x240?cb=1767090311937",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/rubriken-zdfkultur-100~1152x1296?cb=1767090311937",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/rubriken-zdfkultur-100~1200x480?cb=1767090311937",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "app-sendungen-cluster-100",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/app-sendungen-cluster-100",
+     "headline": "",
+     "titel": "Nachrichten",
+     "beschreibung": "Alle Nachrichten Sendungen im Überblick",
+     "externalId": "SCMS_800718c6-a490-4791-8aca-ab69839e1536",
+     "trackingTitle": "Nachrichten",
+     "textLong": "Alle Nachrichten Sendungen im Überblick",
+     "sharingUrl": "https://www.zdf.de/nachrichten/app-sendungen",
+     "contentType": "category",
+     "structureNodePath": "/zdf/nachrichten/app-sendungen",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/zdfheute-keyvisual-100~1140x240?cb=1695027601231",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/zdfheute-keyvisual-100~1152x1296?cb=1695027601231",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/zdfheute-keyvisual-100~1200x480?cb=1695027601231",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "politik-gesellschaft-102",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/politik-gesellschaft-102",
+     "headline": "",
+     "titel": "Politik & Gesellschaft",
+     "beschreibung": "Polit-Talks, Dokus, Reportagen. Sehen Sie hier das Neueste aus Innen- und Außenpolitik.",
+     "externalId": "SCMS_771d8f7c-18a1-40ca-a977-013d1034a7f9",
+     "trackingTitle": "Politik_ampersand_Gesellschaft",
+     "textLong": "Das Neueste aus Innen- und Außenpolitik: Wir informieren über aktuelle Wahlen, zeigen verschiedene Standpunkte in Polit-Talks und vermitteln Hintergrundwissen mit Dokus und Reportagen.",
+     "sharingUrl": "https://www.zdf.de/politik-gesellschaft",
+     "contentType": "category",
+     "structureNodePath": "/zdf/politik-gesellschaft",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/rubriken-politik-gesellschaft-100~1140x240?cb=1658233069347",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/rubriken-politik-gesellschaft-100~1152x1296?cb=1658233069347",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/rubriken-politik-gesellschaft-100~1200x480?cb=1658233069347",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/rubrik-politik-gesellschaft-logo-mittig-100~240x270?cb=1658403034161",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/rubrik-politik-gesellschaft-logo-mittig-100~276x311?cb=1658403034161",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/rubrik-politik-gesellschaft-logo-mittig-100~314x314?cb=1658403034161",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "sport-106",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sport-106",
+     "headline": "",
+     "titel": "Sport",
+     "beschreibung": "Sport online schauen: sportstudio.de präsentiert Sportdokus, Portraits, Reportagen und Live-Sport sowie Talks und Interviews.",
+     "externalId": "SCMS_3ab90236-eafd-4bd8-be22-803db2a3b81a",
+     "trackingTitle": "Sport",
+     "textLong": "Sport online schauen: sportstudio.de präsentiert Sportdokus, Portraits, Reportagen und Live-Sport sowie Talks und Interviews.",
+     "sharingUrl": "https://www.zdf.de/sport",
+     "contentType": "category",
+     "structureNodePath": "/zdf/sport",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sportstudio-neutral-rubrik-100~1140x240?cb=1789389250627",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sportstudio-neutral-rubrik-100~1152x1296?cb=1789389250627",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sportstudio-neutral-rubrik-100~1200x480?cb=1789389250627",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/sportstudio-logo-mittig-100~240x270?cb=1788771581491",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/sportstudio-logo-mittig-100~276x311?cb=1788771581491",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/sportstudio-logo-mittig-100~314x314?cb=1788771581491",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "zdftivi-fuer-kinder-100",
+     "type": "category",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/zdftivi-fuer-kinder-100",
+     "headline": "",
+     "titel": "ZDFtivi für Kinder",
+     "beschreibung": "Die Kindersendungen des ZDF auf zdftivi.de und in der ZDFtivi-App.",
+     "externalId": "SCMS_08f13918-3912-42aa-9c30-cddb26657638",
+     "trackingTitle": "ZDFtivi_fuer_Kinder",
+     "textLong": "Bei ZDFtivi gibt es das Kinder- und Jugendprogramm des ZDF. Von Serien über Filme und Märchen bis zu Wissen, Dokus und Unterhaltung für Kinder und Jugendliche – hier ist für alle was dabei.",
+     "sharingUrl": "https://www.zdf.de/kinder",
+     "contentType": "category",
+     "structureNodePath": "/zdf/kinder",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "isKidsContent": true,
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/tivibubble-102~1140x240?cb=1684758432050",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/tivibubble-102~1152x1296?cb=1684758432050",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/tivibubble-102~1200x480?cb=1684758432050",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-index-cellular-5"
+  }
+ ],
+ "meta": {
+  "id": "rubrikenuebersicht-100",
+  "editorialDate": "2023-05-22T14:28:23.571+02:00",
+  "contentType": "default",
+  "profile": "http://zdf.de/rels/content/page-index-cellular-5",
+  "self": "/content/documents/zdf/SCMS_084932e7-3551-4a37-ae6a-b4cbc3ef8645.json?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_084932e7-3551-4a37-ae6a-b4cbc3ef8645.json",
+  "structureNodePath": "/zdf",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_084932e7-3551-4a37-ae6a-b4cbc3ef8645.json?profile=cellular-5"
+ }
+}

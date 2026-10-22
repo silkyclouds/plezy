@@ -15,6 +15,9 @@ import 'replay_suggestion_settings.dart';
 /// it from their location, and a row is kept when enough of its titles can be played. Channels the viewer already
 /// watches come first, then the channels take turns so that no single one fills the screen.
 class ReplayHomeSuggestions {
+  /// Prefix of the identifier of every row built here, so screens can tell a suggestion from a channel's own row.
+  static const suggestionIdentifierPrefix = 'replay.suggestion.';
+
   /// Rows offered in total.
   static const maxRows = 12;
 
@@ -65,6 +68,27 @@ class ReplayHomeSuggestions {
     ];
     perSource.sort((a, b) => _watchedRank(watched, a.sourceId).compareTo(_watchedRank(watched, b.sourceId)));
     return _roundRobin(perSource, choices.rowsPerChannel);
+  }
+
+  /// The titles behind a row's "see all": the row's whole listing when the channel has one, else the row itself.
+  /// Returns null when [hubId] is not a row of a known channel.
+  Future<({ReplayProvider provider, List<ReplayTitle> titles, int total})?> titlesBehind(
+    String hubId,
+    int start,
+    int size,
+  ) async {
+    final colon = hubId.indexOf(':');
+    final provider = colon < 0 ? null : providers[hubId.substring(0, colon)];
+    if (provider == null) return null;
+    final rail = (await _railsOf(provider)).where((r) => r.id == hubId.substring(colon + 1)).firstOrNull;
+    if (rail == null) return null;
+    final browseId = rail.moreBrowseId;
+    if (browseId == null) {
+      final end = (start + size).clamp(0, rail.titles.length);
+      return (provider: provider, titles: rail.titles.sublist(start.clamp(0, end), end), total: rail.titles.length);
+    }
+    final page = await provider.listing(browseId, page: start ~/ provider.source.listingPageSize);
+    return (provider: provider, titles: page.titles, total: page.totalCount);
   }
 
   /// The rows [sourceId] publishes on its landing page, in its order, for the viewer to pick from.
@@ -123,7 +147,7 @@ class ReplayHomeSuggestions {
     final items = playable.length > itemLimit ? playable.sublist(0, itemLimit) : playable;
     return MediaHub(
       id: hub.id,
-      identifier: hub.identifier,
+      identifier: '$suggestionIdentifierPrefix${provider.source.id}.${rail.id}',
       title: hub.title,
       type: hub.type,
       items: items,

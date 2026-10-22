@@ -1,0 +1,612 @@
+{
+ "document": {
+  "id": "serien-100",
+  "type": "category",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/serien-100",
+  "headline": "Serien",
+  "titel": "Serien",
+  "beschreibung": "",
+  "externalId": "SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc",
+  "sharingUrl": "https://www.zdf.de/serien",
+  "videoCount": 5455,
+  "contentType": "category",
+  "date": "21.07.2022 11:56",
+  "structureNodePath": "/zdf/serien",
+  "channel": "ZDF",
+  "hasVideo": true,
+  "teaserBild": {
+   "1140": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1140x240?cb=1766155718630",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1152x1296?cb=1766155718630",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1200x480?cb=1766155718630",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "modificationDate": "2022-07-21T11:56:09.316+02:00"
+ },
+ "stageHeader": {
+  "type": "headerS",
+  "title": "Serien",
+  "image": {
+   "1140": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1140x240?cb=1766155718630",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1152x1296?cb=1766155718630",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdf.de/assets/kategorie-serien-100~1200x480?cb=1766155718630",
+    "width": 1200,
+    "height": 480
+   }
+  }
+ },
+ "cluster": [
+  {
+   "name": "Top-Serien zum Streamen",
+   "type": "teaserPoster",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "bupkis-100",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/bupkis-100",
+     "headline": "",
+     "titel": "Bupkis",
+     "beschreibung": "In der halbbiografischen Comedy-Serie spielt Comedian Pete Davidson eine überspitzte Version seiner selbst – ehrlich, chaotisch, witzig und mit einem ungeschönten Blick auf sein Leben.",
+     "externalId": "SCMS_63e929f6-640e-4fad-9fe3-64119f6a46b9",
+     "trackingTitle": "Bupkis",
+     "sharingUrl": "https://www.zdf.de/serien/bupkis-100",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/bupkis",
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Bupkis",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1140x240?cb=1773391773688",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1152x1296?cb=1773391773688",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1200x480?cb=1773391773688",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1140x240?cb=1749118566449",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1152x1296?cb=1749118566449",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1200x480?cb=1749118566449",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~240x270?cb=1752657521074",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~276x311?cb=1752657521074",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~314x314?cb=1752657521074",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-bupkis-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-bupkis-100",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "am-anschlag-die-macht-der-kraenkung-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/am-anschlag-die-macht-der-kraenkung-102",
+     "headline": "",
+     "titel": "Die Macht der Kränkung",
+     "beschreibung": "Einsamkeit, Demütigung, Wut: Wann sitzt der Schmerz so tief, dass er herausbricht und zur Katastophe führt? Ein Toter rechnet mit seinem Umfeld ab. Nach dem gleichnamigen psychologischen Sachbuch.",
+     "externalId": "SCMS_4451a539-7b2c-4fa6-b1e2-be61687aed0b",
+     "trackingTitle": "Die_Macht_der_Kraenkung",
+     "textLong": "In 2 Staffeln erzählt die Anthologie-Dramaserie von Menschen und von Kränkungen, die schließlich drastische Folgen haben.",
+     "sharingUrl": "https://www.zdf.de/serien/am-anschlag-die-macht-der-kraenkung-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/am-anschlag-die-macht-der-kraenkung",
+     "contentLabel": {
+      "title": "neoriginal",
+      "logo": {
+       "276": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~276x311?cb=1605518987787",
+        "width": 276,
+        "height": 311
+       },
+       "380": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~380x170?cb=1605518987787",
+        "width": 380,
+        "height": 170
+       },
+       "760": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~760x340?cb=1605518987787",
+        "width": 760,
+        "height": 340
+       }
+      }
+     },
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Die Macht der Kränkung",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1140x240?cb=1683623001466",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1152x1296?cb=1683623001466",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1200x480?cb=1683623001466",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1140x240?cb=1683204113312",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1152x1296?cb=1683204113312",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1200x480?cb=1683204113312",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~240x270?cb=1751637091382",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~276x311?cb=1751637091382",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~314x314?cb=1751637091382",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-am-ende-die-macht-der-kraenkung-staffel-2-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-am-ende-die-macht-der-kraenkung-staffel-2-100",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "the-veil-112",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/the-veil-112",
+     "headline": "",
+     "titel": "The Veil",
+     "beschreibung": "MI6-Agentin Imogen Salter gibt sich als NGO-Mitarbeiterin aus und hilft der verdächtigten Adilah bei der Flucht. Von Istanbul bis London geraten beide in ein Spiel aus Täuschung und Wahrheit.",
+     "externalId": "SCMS_1c5ee325-fe3e-48f6-81be-c2c9bda0158b",
+     "trackingTitle": "The_Veil",
+     "sharingUrl": "https://www.zdf.de/serien/the-veil-112",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/the-veil",
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "The Veil",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1140x240?cb=1786362389729",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1152x1296?cb=1786362389729",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1200x480?cb=1786362389729",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1140x240?cb=1786362505927",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1152x1296?cb=1786362505927",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1200x480?cb=1786362505927",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-poster-cellular-5"
+  },
+  {
+   "name": "Internationale Serien",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "mord-im-mittsommer-106",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/mord-im-mittsommer-106",
+     "headline": "",
+     "titel": "Mord im Mittsommer",
+     "beschreibung": "Die Ferien von Staatsanwältin Nora Linde auf der Schäreninsel Sandön nehmen ein jähes Ende, als sie beim Schwimmen eine Leiche findet. Fortan ermittelt sie mit ihrem Schulfreund, Kommissar Andreasson.",
+     "externalId": "SCMS_p12_sendebereich_32996718",
+     "trackingTitle": "Mord_im_Mittsommer",
+     "textLong": "Nora Linde (Alexandra Rapaport) löst gemeinsam mit der örtlichen Polizei Kriminalfälle in Sandhamn auf der Schäreninsel Sandön.",
+     "sharingUrl": "https://www.zdf.de/serien/mord-im-mittsommer-106",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/mord-im-mittsommer",
+     "contentLabel": {
+      "title": "neoriginal",
+      "logo": {
+       "276": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~276x311?cb=1605518987787",
+        "width": 276,
+        "height": 311
+       },
+       "380": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~380x170?cb=1605518987787",
+        "width": 380,
+        "height": 170
+       },
+       "760": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~760x340?cb=1605518987787",
+        "width": 760,
+        "height": 340
+       }
+      }
+     },
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Mord im Mittsommer",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-mord-im-mittsommer-100~1140x240?cb=1772702021909",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-mord-im-mittsommer-100~1152x1296?cb=1772702021909",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-mord-im-mittsommer-100~1200x480?cb=1772702021909",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-log-mord-im-mittsommer-100~1140x240?cb=1772702169527",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-log-mord-im-mittsommer-100~1152x1296?cb=1772702169527",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-log-mord-im-mittsommer-100~1200x480?cb=1772702169527",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/mord-im-mittsommer-logo-mittig-100~240x270?cb=1596714013095",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/mord-im-mittsommer-logo-mittig-100~276x311?cb=1596714013095",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/mord-im-mittsommer-logo-mittig-100~314x314?cb=1596714013095",
+       "width": 314,
+       "height": 314
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  },
+  {
+   "name": "neoriginal",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "love-sucks-100",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/love-sucks-100",
+     "headline": "",
+     "titel": "Love Sucks",
+     "beschreibung": "In einer Welt der Dunkelheit findet Vampir Ben das Undenkbare: Liebe. Doch zwischen ihm und der taffen Preisboxerin Zelda steht ein scheinbar unüberwindbarer Konflikt: Sie ist eine Sterbliche.",
+     "externalId": "SCMS_567fef6d-c96b-4825-b9d2-26194b49bcac",
+     "trackingTitle": "Love_Sucks",
+     "textLong": "Ben und Zelda haben sich unsterblich ineinander verliebt. Doch zwischen ihrer Liebe steht ein unüberwindbarer Konflikt: Ben ist ein Vampir. Zeldas Familie besteht aus Vampirjägern.",
+     "sharingUrl": "https://www.zdf.de/serien/love-sucks-100",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/love-sucks",
+     "contentLabel": {
+      "title": "neoriginal",
+      "logo": {
+       "276": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~276x311?cb=1605518987787",
+        "width": 276,
+        "height": 311
+       },
+       "380": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~380x170?cb=1605518987787",
+        "width": 380,
+        "height": 170
+       },
+       "760": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~760x340?cb=1605518987787",
+        "width": 760,
+        "height": 340
+       }
+      }
+     },
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Love Sucks",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-love-sucks-100~1140x240?cb=1770029237551",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-love-sucks-100~1152x1296?cb=1770029237551",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-love-sucks-100~1200x480?cb=1770029237551",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/love-sucks-sendungsteaser-vorschlag2-100~1140x240?cb=1729843202852",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/love-sucks-sendungsteaser-vorschlag2-100~1152x1296?cb=1729843202852",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/love-sucks-sendungsteaser-vorschlag2-100~1200x480?cb=1729843202852",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-love-sucks-100~240x270?cb=1753362948840",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-love-sucks-100~276x311?cb=1753362948840",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-love-sucks-100~314x314?cb=1753362948840",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "label": "1 Staffel",
+     "trailerTarget": {
+      "id": "trailer-570",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-570",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "loving-her-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/loving-her-102",
+     "headline": "",
+     "titel": "Loving Her",
+     "beschreibung": "Die junge, lesbische Hanna stürzt sich von einer Beziehung in die nächste. Die Berlinerin fühlt sich von ihren Freunden abgehängt und sucht nach der Liebe, dem Traumjob und vor allem sich selbst.",
+     "externalId": "SCMS_63ec94af-90e5-4a5f-871f-650120d55acb",
+     "trackingTitle": "Loving_Her",
+     "textLong": "Junge lesbische Frau erlebt die Irrungen und Wirrungen der Liebe. Drama-Serie nach dem niederländischen Original \"Anne+\" mit Banafshe Hourmazdi als Hanna.",
+     "sharingUrl": "https://www.zdf.de/serien/loving-her-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/loving-her",
+     "contentLabel": {
+      "title": "neoriginal",
+      "logo": {
+       "276": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~276x311?cb=1605518987787",
+        "width": 276,
+        "height": 311
+       },
+       "380": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~380x170?cb=1605518987787",
+        "width": 380,
+        "height": 170
+       },
+       "760": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~760x340?cb=1605518987787",
+        "width": 760,
+        "height": 340
+       }
+      }
+     },
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Loving Her",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-loving-her-100~1140x240?cb=1770907020811",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-loving-her-100~1152x1296?cb=1770907020811",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-loving-her-100~1200x480?cb=1770907020811",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/loving-her-sendungsteaser-100~1140x240?cb=1692610483960",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/loving-her-sendungsteaser-100~1152x1296?cb=1692610483960",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/loving-her-sendungsteaser-100~1200x480?cb=1692610483960",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-loving-her-100~240x270?cb=1753367812745",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-loving-her-100~276x311?cb=1753367812745",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-loving-her-100~314x314?cb=1753367812745",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "label": "2 Staffeln"
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  },
+  {
+   "name": "Beliebte Serien",
+   "type": "clusterA",
+   "reference": {
+    "urlUser": "https://zdf-prod-futura.zdf.de/mediathek/v2/user/recommendation/cluster?env=zdf_prod&pageId=SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc{&appId,abGroup}&configuration=serien-trending&teaserType=default&profile=minimal&servicePath=%2Fautomation%2Ftrending&recoType=clusterA&personalized={personalized}",
+    "url": "https://zdf-prod-futura.zdf.de/mediathek/v2/recommendation/cluster?env=zdf_prod&pageId=SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc{&appId,abGroup}&configuration=serien-trending&teaserType=default&profile=minimal&servicePath=%2Fautomation%2Ftrending&recoType=clusterA"
+   },
+   "teaser": []
+  }
+ ],
+ "meta": {
+  "id": "serien-100",
+  "editorialDate": "2022-07-21T11:56:09.296+02:00",
+  "contentType": "category",
+  "profile": "http://zdf.de/rels/content/page-index-cellular-5",
+  "self": "/content/documents/zdf/serien?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc.json",
+  "structureNodePath": "/zdf/serien",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_78c1023d-d06b-4aa4-81ac-50e7e5ea93bc.json?profile=cellular-5"
+ }
+}

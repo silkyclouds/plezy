@@ -1,0 +1,456 @@
+{
+ "nextPage": true,
+ "nextPageUrl": "https://zdf-prod-futura.zdf.de/mediathekV2/search?q=tagesschau&profile=cellular-5&videoTypes=episode_episode%2Cepisode_clip%2Cepisode_live%2Cclip_clip%2Cclip_episode%2Cmatch_match%2Cmatch_episode%2Cmatch_clip%2Cmatch_live%2Cmatch_novideo%2Cbrand_hasvideo%2Ccategory_hasvideo%2Ctopic_hasvideo&synth=true&sp=true&page=2",
+ "searchParams": "q%3Dtagesschau%26profile%3Dcellular-5%26videoTypes%3Depisode_episode%252Cepisode_clip%252Cepisode_live%252Cclip_clip%252Cclip_episode%252Cmatch_match%252Cmatch_episode%252Cmatch_clip%252Cmatch_live%252Cmatch_novideo%252Cbrand_hasvideo%252Ccategory_hasvideo%252Ctopic_hasvideo%26synth%3Dtrue%26sp%3Dtr",
+ "totalResultsCount": 3167,
+ "facets": {
+  "attrs": [
+   {
+    "docCount": 3047,
+    "key": "UT"
+   }
+  ],
+  "broadcasters": [
+   {
+    "docCount": 3063,
+    "key": "daserste"
+   },
+   {
+    "docCount": 28,
+    "key": "funk"
+   },
+   {
+    "docCount": 25,
+    "key": "NDR"
+   },
+   {
+    "docCount": 13,
+    "key": "alpha"
+   },
+   {
+    "docCount": 10,
+    "key": "SWR"
+   },
+   {
+    "docCount": 8,
+    "key": "ARD"
+   },
+   {
+    "docCount": 6,
+    "key": "WDR"
+   },
+   {
+    "docCount": 4,
+    "key": "ZDF"
+   },
+   {
+    "docCount": 3,
+    "key": "HR"
+   },
+   {
+    "docCount": 2,
+    "key": "KI.KA"
+   }
+  ],
+  "episodes": {
+   "docCount": 3160
+  },
+  "teilbereich": [
+   {
+    "docCount": 3130,
+    "key": "ard"
+   },
+   {
+    "docCount": 3,
+    "key": "tivi"
+   },
+   {
+    "docCount": 2,
+    "key": "heute.de"
+   }
+  ],
+  "videoquality": []
+ },
+ "suggestions": [],
+ "results": [
+  {
+   "id": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "type": "brand",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "headline": "",
+   "titel": "tagesschau",
+   "beschreibung": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+   "externalId": "SCMS_index-page-ard-collection_ard_dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-",
+   "trackingTitle": "tagesschau",
+   "textLong": "Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+   "sharingUrl": "https://www.zdf.de/magazine/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "contentType": "brand",
+   "structureNodePath": "/zdf/daserste/tagesschau",
+   "resultType": "synth",
+   "channel": "daserste",
+   "hasVideo": true,
+   "brandTitle": "tagesschau",
+   "infoline": {
+    "title": "ARD"
+   },
+   "footline": {
+    "title": "22.10.2026"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-tagesschau-100~1140x240?cb=1776653260876",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-tagesschau-100~1200x480?cb=1776653260876",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-tagesschau-100~1280x960?cb=1776653260876",
+     "width": 1280,
+     "height": 960
+    }
+   },
+   "image": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-ard-tagesschau-100~1140x240?cb=1776653259921",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-ard-tagesschau-100~1200x480?cb=1776653259921",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/collection-teaser-image-ard-tagesschau-100~1280x960?cb=1776653259921",
+     "width": 1280,
+     "height": 960
+    }
+   }
+  },
+  {
+   "id": "page-video-ard-tagesschau-0005-uhr-22102026-100",
+   "type": "video",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/page-video-ard-tagesschau-0005-uhr-22102026-100",
+   "headline": "tagesschau",
+   "titel": "tagesschau 00:05 Uhr, 22.10.2026",
+   "beschreibung": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Cambridge-Analytica-Skandal: Meta-Konzern zu 25 Milliarden Dollar Strafe verurteilt, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Online",
+   "externalId": "SCMS_page-video-ard_video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjphMGNiNjk2NjAyN2YxNzll",
+   "trackingTitle": "tagesschau_00_05_Uhr__22.10.2026",
+   "sharingUrl": "https://www.zdf.de/video/magazine/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044/page-video-ard-tagesschau-0005-uhr-22102026-100",
+   "contentType": "episode",
+   "currentVideoType": "episode",
+   "structureNodePath": "/zdf/daserste/tagesschau",
+   "resultType": "synth",
+   "seasonNumber": "2026",
+   "episodeNumber": "1987",
+   "channel": "daserste",
+   "hasVideo": true,
+   "visibleFrom": "22.10.2026 00:20",
+   "timetolive": "29.10.2026 00:20",
+   "offlineAvailability": "2026-10-29T00:20:40.764+01:00",
+   "length": 622,
+   "fsk": "none",
+   "geoLocation": "none",
+   "videoId": "vod-ard-tagesschau-0005-uhr-22102026-100",
+   "basename": "video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjphMGNiNjk2NjAyN2YxNzll",
+   "brandId": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "brandTitle": "tagesschau",
+   "infoline": {
+    "title": "10 min · ARD"
+   },
+   "footline": {
+    "title": "22.10.2026"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-0005-uhr-22102026-100~1140x240?cb=1792623066924",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-0005-uhr-22102026-100~1200x480?cb=1792623066924",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-0005-uhr-22102026-100~1280x960?cb=1792623066924",
+     "width": 1280,
+     "height": 960
+    }
+   },
+   "contentAttributes": {
+    "editorialDate": {
+     "screenReaderText": "Beitrag vom",
+     "title": "22.10.2026"
+    }
+   },
+   "streamingOptions": {
+    "attrs": {
+     "uhd": {
+      "screenReaderText": "Ultra HD-Qualität",
+      "enabled": false
+     },
+     "dgs": {
+      "screenReaderText": "Deutsche Gebärdensprache",
+      "enabled": false
+     },
+     "ad": {
+      "screenReaderText": "Audiodeskription",
+      "enabled": false
+     },
+     "ut": {
+      "screenReaderText": "Untertitel",
+      "enabled": true
+     }
+    }
+   }
+  },
+  {
+   "id": "page-video-ard-tagesschau-2000-uhr-21102026-100",
+   "type": "video",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/page-video-ard-tagesschau-2000-uhr-21102026-100",
+   "headline": "tagesschau",
+   "titel": "tagesschau 20:00 Uhr, 21.10.2026",
+   "beschreibung": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Onlinedienste, Vereinte Nationen",
+   "externalId": "SCMS_page-video-ard_video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjpiOTg3MmI1ODBkYWE4ZTNm",
+   "trackingTitle": "tagesschau_20_00_Uhr__21.10.2026",
+   "sharingUrl": "https://www.zdf.de/video/magazine/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044/page-video-ard-tagesschau-2000-uhr-21102026-100",
+   "contentType": "episode",
+   "currentVideoType": "episode",
+   "structureNodePath": "/zdf/daserste/tagesschau",
+   "resultType": "synth",
+   "seasonNumber": "2026",
+   "episodeNumber": "1986",
+   "channel": "daserste",
+   "hasVideo": true,
+   "visibleFrom": "21.10.2026 20:17",
+   "timetolive": "31.12.2099 01:00",
+   "offlineAvailability": "2099-12-31T01:00:00.000+01:00",
+   "length": 934,
+   "fsk": "none",
+   "geoLocation": "none",
+   "videoId": "vod-ard-tagesschau-2000-uhr-21102026-100",
+   "basename": "video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjpiOTg3MmI1ODBkYWE4ZTNm",
+   "brandId": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "brandTitle": "tagesschau",
+   "infoline": {
+    "title": "15 min · ARD"
+   },
+   "footline": {
+    "title": "21.10.2026"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-2000-uhr-21102026-100~1140x240?cb=1792609284853",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-2000-uhr-21102026-100~1200x480?cb=1792609284853",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-2000-uhr-21102026-100~1280x960?cb=1792609284853",
+     "width": 1280,
+     "height": 960
+    }
+   },
+   "contentAttributes": {
+    "editorialDate": {
+     "screenReaderText": "Beitrag vom",
+     "title": "21.10.2026"
+    }
+   },
+   "streamingOptions": {
+    "attrs": {
+     "uhd": {
+      "screenReaderText": "Ultra HD-Qualität",
+      "enabled": false
+     },
+     "dgs": {
+      "screenReaderText": "Deutsche Gebärdensprache",
+      "enabled": false
+     },
+     "ad": {
+      "screenReaderText": "Audiodeskription",
+      "enabled": false
+     },
+     "ut": {
+      "screenReaderText": "Untertitel",
+      "enabled": true
+     }
+    }
+   }
+  },
+  {
+   "id": "page-video-ard-tagesschau-1400-uhr-21102026-100",
+   "type": "video",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/page-video-ard-tagesschau-1400-uhr-21102026-100",
+   "headline": "tagesschau",
+   "titel": "tagesschau 14:00 Uhr, 21.10.2026",
+   "beschreibung": "US-Gesandter Witkoff zu Gesprächen über die Ukraine in Russland, Laut UN-Bericht steuert Erde auf Erwärmung von 2,8 Grad zu, Nach Urteil des Europäischen Gerichtshofes könnte der Nahverkehr ausgedünnt werden, Finanzministerium korrigiert Fehler im Gesetz zur Tabaksteuer, Drohende Rattenplage durch n",
+   "externalId": "SCMS_page-video-ard_video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjpkMTY2MzhjNzNkYWE0NGM1",
+   "trackingTitle": "tagesschau_14_00_Uhr__21.10.2026",
+   "sharingUrl": "https://www.zdf.de/video/magazine/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044/page-video-ard-tagesschau-1400-uhr-21102026-100",
+   "contentType": "episode",
+   "currentVideoType": "episode",
+   "structureNodePath": "/zdf/daserste/tagesschau",
+   "resultType": "synth",
+   "seasonNumber": "2026",
+   "episodeNumber": "1982",
+   "channel": "daserste",
+   "hasVideo": true,
+   "visibleFrom": "21.10.2026 14:11",
+   "timetolive": "28.10.2026 14:11",
+   "offlineAvailability": "2026-10-28T14:11:36.290+01:00",
+   "length": 549,
+   "fsk": "none",
+   "geoLocation": "none",
+   "videoId": "vod-ard-tagesschau-1400-uhr-21102026-100",
+   "basename": "video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjpkMTY2MzhjNzNkYWE0NGM1",
+   "brandId": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "brandTitle": "tagesschau",
+   "infoline": {
+    "title": "9 min · ARD"
+   },
+   "footline": {
+    "title": "21.10.2026"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1400-uhr-21102026-100~1140x240?cb=1792587108067",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1400-uhr-21102026-100~1200x480?cb=1792587108067",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1400-uhr-21102026-100~1280x960?cb=1792587108067",
+     "width": 1280,
+     "height": 960
+    }
+   },
+   "contentAttributes": {
+    "editorialDate": {
+     "screenReaderText": "Beitrag vom",
+     "title": "21.10.2026"
+    }
+   },
+   "streamingOptions": {
+    "attrs": {
+     "uhd": {
+      "screenReaderText": "Ultra HD-Qualität",
+      "enabled": false
+     },
+     "dgs": {
+      "screenReaderText": "Deutsche Gebärdensprache",
+      "enabled": false
+     },
+     "ad": {
+      "screenReaderText": "Audiodeskription",
+      "enabled": false
+     },
+     "ut": {
+      "screenReaderText": "Untertitel",
+      "enabled": true
+     }
+    }
+   }
+  },
+  {
+   "id": "page-video-ard-tagesschau-1600-uhr-21102026-100",
+   "type": "video",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/page-video-ard-tagesschau-1600-uhr-21102026-100",
+   "headline": "tagesschau",
+   "titel": "tagesschau 16:00 Uhr, 21.10.2026",
+   "beschreibung": "Treffen von US-Unterhändler Witkoff mit russischem Präsident Putin, UN-Umweltprogramm geht von Erderwärmung auf 2,8 Grad in diesem Jahrhundert aus, Verkehrsminister beraten über Deutschlandticket für Gelegenheitsfahrer, EU-Kommission ermittelt gegen Betreiber von booking.com wegen Zunahme von Betrug",
+   "externalId": "SCMS_page-video-ard_video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjo5NDdjODI3MTg2MTdmNmYw",
+   "trackingTitle": "tagesschau_16_00_Uhr__21.10.2026",
+   "sharingUrl": "https://www.zdf.de/video/magazine/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044/page-video-ard-tagesschau-1600-uhr-21102026-100",
+   "contentType": "episode",
+   "currentVideoType": "episode",
+   "structureNodePath": "/zdf/daserste/tagesschau",
+   "resultType": "synth",
+   "seasonNumber": "2026",
+   "episodeNumber": "1984",
+   "channel": "daserste",
+   "hasVideo": true,
+   "visibleFrom": "21.10.2026 16:09",
+   "timetolive": "28.10.2026 16:09",
+   "offlineAvailability": "2026-10-28T16:09:35.102+01:00",
+   "length": 457,
+   "fsk": "none",
+   "geoLocation": "none",
+   "videoId": "vod-ard-tagesschau-1600-uhr-21102026-100",
+   "basename": "video_ard_dXJuOmFyZDplcGlzb2RlLWZ1c2lvbjo5NDdjODI3MTg2MTdmNmYw",
+   "brandId": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93ojvindnjy2njm2q5oddinde-1044",
+   "brandTitle": "tagesschau",
+   "infoline": {
+    "title": "7 min · ARD"
+   },
+   "footline": {
+    "title": "21.10.2026"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1600-uhr-21102026-100~1140x240?cb=1792593234601",
+     "width": 1140,
+     "height": 240
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1600-uhr-21102026-100~1200x480?cb=1792593234601",
+     "width": 1200,
+     "height": 480
+    },
+    "1280": {
+     "url": "https://www.zdf.de/assets/image-ard-tagesschau-1600-uhr-21102026-100~1280x960?cb=1792593234601",
+     "width": 1280,
+     "height": 960
+    }
+   },
+   "contentAttributes": {
+    "editorialDate": {
+     "screenReaderText": "Beitrag vom",
+     "title": "21.10.2026"
+    }
+   },
+   "streamingOptions": {
+    "attrs": {
+     "uhd": {
+      "screenReaderText": "Ultra HD-Qualität",
+      "enabled": false
+     },
+     "dgs": {
+      "screenReaderText": "Deutsche Gebärdensprache",
+      "enabled": false
+     },
+     "ad": {
+      "screenReaderText": "Audiodeskription",
+      "enabled": false
+     },
+     "ut": {
+      "screenReaderText": "Untertitel",
+      "enabled": true
+     }
+    }
+   }
+  }
+ ],
+ "meta": {
+  "id": "",
+  "editorialDate": "",
+  "contentType": "",
+  "profile": "http://zdf.de/rels/search/result-page",
+  "self": "/search/documents?q=tagesschau&profile=cellular-5&videoTypes=episode_episode%2Cepisode_clip%2Cepisode_live%2Cclip_clip%2Cclip_episode%2Cmatch_match%2Cmatch_episode%2Cmatch_clip%2Cmatch_live%2Cmatch_novideo%2Cbrand_hasvideo%2Ccategory_hasvideo%2Ctopic_hasvideo&synth=true&sp=true",
+  "canonical": "",
+  "structureNodePath": ""
+ }
+}

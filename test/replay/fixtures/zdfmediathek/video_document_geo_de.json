@@ -1,0 +1,184 @@
+{
+ "document": {
+  "id": "jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+  "type": "video",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+  "headline": "Doku | ZDFinfo Doku",
+  "titel": "Jagd auf Virus X – Droht die nächste Pandemie? ",
+  "beschreibung": "Welche Krankheit könnte die nächste Pandemie auslösen? Forschende auf der ganzen Welt suchen nach dem Erreger mit dem größten Gefahrenpotenzial, um im Ernstfall gerüstet zu sein.",
+  "externalId": "SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874",
+  "sharingUrl": "https://www.zdf.de/video/dokus/zdf-info-100/jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+  "contentType": "episode",
+  "currentVideoType": "episode",
+  "date": "16.03.2026 05:00",
+  "structureNodePath": "/zdf/dokumentation/zdfinfo-doku",
+  "seasonNumber": "2026",
+  "episodeNumber": "08",
+  "channel": "ZDFinfo",
+  "timetolive": "28.02.2029 23:59",
+  "offlineAvailability": "2029-02-28T23:59:00.000+01:00",
+  "length": 3474,
+  "fsk": "none",
+  "geoLocation": "de",
+  "videoId": "jagd-auf-virus-x-droht-die-naechste-pandemie-104",
+  "basename": "260401_jagd_auf_virus_x_inf",
+  "streamApiUrlIOS": "https://api.zdf.de/tmd/2/ios_native_4/vod/ptmd/mediathek/260401_jagd_auf_virus_x_inf/4",
+  "streamApiUrlAndroid": "https://api.zdf.de/tmd/2/android_native_5/vod/ptmd/mediathek/260401_jagd_auf_virus_x_inf/4",
+  "streamApiUrlVoice": "https://api.zdf.de/tmd/2/voice_1/vod/ptmd/mediathek/260401_jagd_auf_virus_x_inf/4",
+  "streams": [
+   {
+    "sourceVariant": "default",
+    "label": "Normal",
+    "extId": "260401_jagd_auf_virus_x_inf",
+    "geoLocation": "de",
+    "streamApiUrlIOS": "https://api.zdf.de/tmd/2/ios_native_4/vod/ptmd/mediathek/260401_jagd_auf_virus_x_inf/4",
+    "streamApiUrlAndroid": "https://api.zdf.de/tmd/2/android_native_5/vod/ptmd/mediathek/260401_jagd_auf_virus_x_inf/4"
+   }
+  ],
+  "isDownloadAllowed": true,
+  "downloadFilesize": "526 MB",
+  "captions": [
+   {
+    "class": "hoh",
+    "format": "ebu-tt-d-basic-de",
+    "language": "deu",
+    "offset": 0,
+    "profile": "http://zdf.de/rels/streams/ptmd/caption",
+    "uri": "https://utstreaming.zdf.de/mtt/zdf/26/04/260401_jagd_auf_virus_x_inf/4/F1052356_hoh_deu_Jagd_auf_Virus-X_Droht-die-naechste-Pandemie_final.xml"
+   },
+   {
+    "class": "hoh",
+    "format": "webvtt",
+    "language": "deu",
+    "offset": 0,
+    "profile": "http://zdf.de/rels/streams/ptmd/caption",
+    "uri": "https://utstreaming.zdf.de/mtt/zdf/26/04/260401_jagd_auf_virus_x_inf/4/F1052356_hoh_deu_Jagd_auf_Virus-X_Droht-die-naechste-Pandemie_final.vtt"
+   }
+  ],
+  "formitaeten": [
+   {
+    "type": "h264_aac_ts_http_m3u8_http",
+    "url": "https://zdfvod.akamaized.net/i/mp4/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf,_508k_p9,_808k_p11,_1628k_p13,_3328k_p15,_6628k_p61,v17.mp4.csmil/master.m3u8",
+    "quality": "auto",
+    "hd": true,
+    "mimeType": "application/x-mpegURL",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_ts_http_m3u8_http",
+    "url": "https://zdfvod.akamaized.net/i/mp4/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf,_1628k_p13,_3328k_p15,_6628k_p61,v17.mp4.csmil/master.m3u8",
+    "quality": "veryhigh",
+    "hd": true,
+    "mimeType": "application/x-mpegURL",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_ts_http_m3u8_http",
+    "url": "https://zdfvod.akamaized.net/i/mp4/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf,_508k_p9,_808k_p11,_1628k_p13,_3328k_p15,_6628k_p61,v17.mp4.csmil/master.m3u8",
+    "quality": "high",
+    "hd": true,
+    "mimeType": "application/x-mpegURL",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_ts_http_m3u8_http",
+    "url": "https://zdfvod.akamaized.net/i/mp4/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf,_508k_p9,_808k_p11,_1628k_p13,v17.mp4.csmil/master.m3u8",
+    "quality": "med",
+    "hd": false,
+    "mimeType": "application/x-mpegURL",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_ts_http_m3u8_http",
+    "url": "https://zdfvod.akamaized.net/i/mp4/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf,_508k_p9,_808k_p11,v17.mp4.csmil/master.m3u8",
+    "quality": "low",
+    "hd": false,
+    "mimeType": "application/x-mpegURL",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_mp4_http_na_na",
+    "url": "https://nrodlzdf-a.akamaihd.net/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf_6628k_p61v17.mp4",
+    "quality": "fhd",
+    "hd": true,
+    "mimeType": "video/mp4",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_mp4_http_na_na",
+    "url": "https://rodlzdf-a.akamaihd.net/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf_1628k_p13v17.mp4",
+    "quality": "veryhigh",
+    "hd": false,
+    "mimeType": "video/mp4",
+    "language": "deu",
+    "class": "main"
+   },
+   {
+    "type": "h264_aac_mp4_http_na_na",
+    "url": "https://rodlzdf-a.akamaihd.net/de/zdf/26/04/260401_jagd_auf_virus_x_inf/1/260401_jagd_auf_virus_x_inf_808k_p11v17.mp4",
+    "quality": "high",
+    "hd": false,
+    "mimeType": "video/mp4",
+    "language": "deu",
+    "class": "main"
+   }
+  ],
+  "airtime": "01.04.2026 11:00",
+  "airtimeEnd": "01.04.2026 12:00",
+  "videoInfo": "57 min | 16.03.2026 | 💬 UT",
+  "availabilityInfo": "Video verfügbar bis 28.02.2029, in Deutschland",
+  "infoline": {
+   "iconType": "play",
+   "title": "57 min"
+  },
+  "teaserBild": {
+   "1140": {
+    "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1140x240?cb=1773067443288",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1152x1296?cb=1773067443288",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1200x480?cb=1773067443288",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "modificationDate": "2026-04-09T13:41:03.436+02:00"
+ },
+ "nextVideoPersonalized": {
+  "urlUser": "https://zdf-prod-futura.zdf.de/mediathek/v2/user/recommendation/cluster?configuration=next-video&appId={appId}&abGroup={abGroup}&preferences={preferences}&assetId=SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874&pageId=SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874&servicePath=%2Freco%2Fnext-video&recoType=nextVideo&maxPlays=10&maxBookmarks=10&maxInterests=10&maxViews=10&personalized={personalized}",
+  "url": "https://zdf-prod-futura.zdf.de/mediathek/v2/recommendation/cluster?configuration=next-video&plays={plays}&appId={appId}&bookmarks={bookmarks}&interests={interests}&abGroup={abGroup}&views={views}&preferences={preferences}&assetId=SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874&pageId=SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874&servicePath=%2Freco%2Fnext-video&recoType=nextVideo"
+ },
+ "broadcasts": [
+  {
+   "id": "2edf5ad2-bfec-4f76-8787-bbf20ff85075",
+   "type": "broadcast",
+   "titel": "",
+   "headline": "",
+   "airtime": "01.04.2026 11:00",
+   "airtimeEnd": "01.04.2026 12:00",
+   "channel": "ZDFinfo"
+  }
+ ],
+ "meta": {
+  "id": "jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+  "editorialDate": "2026-03-16T05:00:00.000+01:00",
+  "contentType": "episode",
+  "profile": "http://zdf.de/rels/content/page-video-cellular-5",
+  "self": "/content/documents/zdf/dokumentation/zdfinfo-doku/SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874.json?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874.json",
+  "structureNodePath": "/zdf/dokumentation/zdfinfo-doku",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874.json?profile=cellular-5"
+ }
+}

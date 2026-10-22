@@ -172,4 +172,17 @@ void main() {
     expect(chosen.map((h) => h.title), ['c']);
     expect(one.map((h) => h.title), ['a']);
   });
+
+  test('Rows are marked as suggestions and see-all pages through the row', () async {
+    final arte = _Provider('arte', rails: [_rail('arte', 'docs', 9)]);
+    final suggestions = _suggestions([arte]);
+
+    final hubs = await suggestions.hubs(itemLimit: 12);
+    final behind = await suggestions.titlesBehind(hubs.single.id, 2, 4);
+
+    expect(hubs.single.identifier, startsWith(ReplayHomeSuggestions.suggestionIdentifierPrefix));
+    expect(behind!.titles.map((t) => t.title), ['docs 2', 'docs 3', 'docs 4', 'docs 5']);
+    expect(behind.total, 9);
+    expect(await suggestions.titlesBehind('arte:missing', 0, 4), isNull);
+  });
 }

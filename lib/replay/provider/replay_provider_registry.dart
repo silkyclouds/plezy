@@ -1,9 +1,9 @@
 import '../../utils/media_server_http_client.dart';
-import '../providers/arte/arte_provider.dart';
-import '../providers/francetv/francetv_provider.dart';
 import '../providers/aljazeera/aljazeera_provider.dart';
+import '../providers/arte/arte_provider.dart';
 import '../providers/drtv/drtv_provider.dart';
 import '../providers/dw/dw_provider.dart';
+import '../providers/francetv/francetv_provider.dart';
 import '../providers/m6plus/m6plus_provider.dart';
 import '../providers/nhkworld/nhkworld_provider.dart';
 import '../providers/pbs/pbs_provider.dart';
@@ -20,6 +20,7 @@ import '../providers/tvlocales/telemb_provider.dart';
 import '../providers/tvlocales/telesambre_provider.dart';
 import '../providers/tvlocales/tvcom_provider.dart';
 import '../providers/tvlocales/tvlux_provider.dart';
+import '../providers/zdfmediathek/zdfmediathek_provider.dart';
 import 'replay_provider.dart';
 import 'replay_source_info.dart';
 
@@ -167,6 +168,13 @@ const replaySourceInfos = [
     country: 'JP',
     languages: ['en'],
   ),
+  ReplaySourceInfo(
+    id: 'zdfmediathek',
+    name: 'ZDFmediathek',
+    support: ReplayPlaybackSupport.partial,
+    country: 'DE',
+    languages: ['de'],
+  ),
 ];
 
 ReplaySourceInfo? replaySourceInfo(String id) {
@@ -218,6 +226,7 @@ Map<String, ReplayProvider> buildReplayProviders(
       'drtv' => DrtvProvider(http),
       'dw' => DwProvider(http),
       'nhkworld' => NhkWorldProvider(http),
+      'zdfmediathek' => ZdfMediathekProvider(http),
       _ => null,
     };
     if (provider != null) providers[id] = provider;

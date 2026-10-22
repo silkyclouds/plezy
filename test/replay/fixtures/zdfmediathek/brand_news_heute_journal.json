@@ -1,0 +1,1093 @@
+{
+ "document": {
+  "id": "heute-journal-104",
+  "type": "brand",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-104",
+  "headline": "Nachrichten",
+  "titel": "heute journal",
+  "beschreibung": "",
+  "externalId": "SCMS_p12_sendebereich_5989562",
+  "sharingUrl": "https://www.zdf.de/magazine/heute-journal-104",
+  "videoCount": 3673,
+  "contentType": "brand",
+  "date": "22.10.2026 00:11",
+  "structureNodePath": "/zdf/nachrichten/heute-journal",
+  "channel": "ZDF",
+  "hasVideo": true,
+  "brandId": "heute-journal-104",
+  "brandTitle": "heute journal",
+  "teaserBild": {
+   "1140": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1140x240?cb=1663255397525",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1152x1296?cb=1663255397525",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1200x480?cb=1663255397525",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "image": {
+   "1140": {
+    "url": "https://www.zdfheute.de/assets/sendungsasset-heute-journal-logo-100~1140x240?cb=1747731172575",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdfheute.de/assets/sendungsasset-heute-journal-logo-100~1152x1296?cb=1747731172575",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdfheute.de/assets/sendungsasset-heute-journal-logo-100~1200x480?cb=1747731172575",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "modificationDate": "2026-01-02T09:53:02.470+01:00"
+ },
+ "stageHeader": {
+  "type": "headerM",
+  "title": "heute journal",
+  "image": {
+   "1140": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1140x240?cb=1663255397525",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1152x1296?cb=1663255397525",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdfheute.de/assets/sb-header-heute-journal-100~1200x480?cb=1663255397525",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "logo": {
+   "240": {
+    "url": "https://www.zdfheute.de/assets/logo-links-zdf-heute-journal-100~240x270?cb=1751621083561",
+    "width": 240,
+    "height": 270
+   },
+   "276": {
+    "url": "https://www.zdfheute.de/assets/logo-links-zdf-heute-journal-100~276x311?cb=1751621083561",
+    "width": 276,
+    "height": 311
+   },
+   "314": {
+    "url": "https://www.zdfheute.de/assets/logo-links-zdf-heute-journal-100~314x314?cb=1751621083561",
+    "width": 314,
+    "height": 314
+   }
+  }
+ },
+ "shortText": {
+  "text": "Die Nachrichten des Tages aus Deutschland und der Welt. Mit spannenden Berichten, Reportagen sowie Interviews aus Politik, Gesellschaft und Kultur – fundiert und immer auf dem neuesten Stand."
+ },
+ "cluster": [
+  {
+   "name": "Aktuelle Sendung",
+   "type": "teaserContent",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "heute-journal-vom-21-oktober-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-vom-21-oktober-2026-100",
+     "headline": "heute journal",
+     "titel": "heute journal vom 21. Oktober 2026",
+     "beschreibung": "Mit den Themen: Steigerung der DB-Trassenpreise - Länder fordern mehr Geld vom Bund; Weltweite IT-Sicherheitslücke - Millionen Webseiten bedroht; Abschied von Kahla - Porzellanhersteller schließt",
+     "externalId": "SCMS_fa34927c-b19d-4fa6-b4d3-2041253f4fc2",
+     "trackingTitle": "heute_journal_vom_21._Oktober_2026",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-vom-21-oktober-2026-100.html",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 21:45",
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00.000+02:00",
+     "length": 362,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-vom-21-oktober-2026-100",
+     "basename": "261021_2145_sendung_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "6 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1152": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1152x1296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1280": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1280x720",
+       "width": 1280,
+       "height": 720
+      },
+      "1920": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1920x1080",
+       "width": 1920,
+       "height": 1080
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-content-cellular-5"
+  },
+  {
+   "name": "Neu",
+   "type": "teaserContent",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "heute-journal-podcast-folge-3-milliarden-fuer-infrastruktur-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-podcast-folge-3-milliarden-fuer-infrastruktur-100",
+     "headline": "heute journal - der Podcast",
+     "titel": "500 Milliarden für Infrastruktur: Super! Oder?",
+     "beschreibung": "500 Milliarden für die deutsche Infrastruktur – das klingt erstmal gut! Aber wohin soll das Geld überhaupt fließen? Und kommt es zusätzlich oder ist es nur ein Etikettenschwindel?",
+     "externalId": "SCMS_50d8a781-80b2-4b09-baf0-0a39786ea06a",
+     "trackingTitle": "500_Milliarden_Euro_fuer_Infrastruktur__Super__Oder_",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-podcast-folge-3-milliarden-fuer-infrastruktur-100.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "timetolive": "14.03.2027 23:59",
+     "offlineAvailability": "2027-03-14T23:59:00+01:00",
+     "length": 2070,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "16x9-podcast-hjo-ae-100",
+     "basename": "16x9_podcast_hjo_ae",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "34 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/heute-journal-der-podcast-helene-reiner-christian-sievers-100~1140x240?cb=1741343971192",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/heute-journal-der-podcast-helene-reiner-christian-sievers-100~1200x480?cb=1741343971192",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/heute-journal-der-podcast-helene-reiner-christian-sievers-100~1280x960?cb=1741343971192",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-content-cellular-5"
+  },
+  {
+   "name": "Einzelbeiträge",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "sgs-boerse-italien-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sgs-boerse-italien-100",
+     "headline": "heute journal",
+     "titel": "Wirtschaftsgespräch: Proteste in Italien",
+     "beschreibung": "In Italien sorgen Proteste von LKW-Fahrern und Bauern für leere Supermarktregale. Was dahinter steckt erklärt ZDF-Wirtschaftsexpertin Valerie Haller.",
+     "externalId": "SCMS_ef8911ca-11bf-4369-af84-899d209f3b5c",
+     "trackingTitle": "Wirtschaftsgespraech__Proteste_in_Italien_",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/sgs-boerse-italien-100.html",
+     "contentType": "clip",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00+02:00",
+     "length": 97,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "261021-2145-clip-8-hjo-100",
+     "basename": "261021_2145_clip_8_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "1 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-8-hjo-102~1140x240?cb=1792614819153",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-8-hjo-102~1200x480?cb=1792614819153",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-8-hjo-102~1280x960?cb=1792614819153",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    },
+    {
+     "id": "sgs-ruhe-madsen-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sgs-ruhe-madsen-100",
+     "headline": "heute journal",
+     "titel": "\"Bund muss zu seiner Verantwortung stehen\"",
+     "beschreibung": "Der ÖPNV droht teurer zu werden. Der Bund müsste nun mit Lösungsvorschlägen kommen. \"Wir sitzen alle in einem Boot\", so Claus Ruhe Madsen, Verkehrsminister Schleswig-Hollstein.",
+     "externalId": "SCMS_cf67de32-c3fc-4f5e-9430-1a1bc5001ab8",
+     "trackingTitle": "_Bund_muss_zu_seiner_Verantwortung_stehen_",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/sgs-ruhe-madsen-100.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 21:45",
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00.000+02:00",
+     "length": 288,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-clip-2-7816",
+     "basename": "261021_2145_clip_2_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "4 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-2-hjo-100~1140x240?cb=1792614229799",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-2-hjo-100~1200x480?cb=1792614229799",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-2-hjo-100~1280x960?cb=1792614229799",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    },
+    {
+     "id": "sgs-klauser-hassanzadeh-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sgs-klauser-hassanzadeh-100",
+     "headline": "heute journal",
+     "titel": "\"Lippenbekenntnisse und warme Worte\"",
+     "beschreibung": "Für Russland hätten Witkoffs Ideen nicht genug nützliches für einen Waffenstillstand entahlten. Die Ukraine wäre für ein sofortiges Kriegsende bereit, so die ZDF Korrespondenten.",
+     "externalId": "SCMS_2497b24e-c455-4de0-bae5-6418ba04417d",
+     "trackingTitle": "_Lippenbekenntnisse_und_warme_Worte_",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/sgs-klauser-hassanzadeh-100.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 21:45",
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00.000+02:00",
+     "length": 114,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-clip-6-7790",
+     "basename": "261021_2145_clip_6_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "1 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-6-hjo-100~1140x240?cb=1792614462137",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-6-hjo-100~1200x480?cb=1792614462137",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/261021-2145-clip-6-hjo-100~1280x960?cb=1792614462137",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  },
+  {
+   "name": "Ganze Sendungen",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "heute-journal-vom-21-oktober-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-vom-21-oktober-2026-100",
+     "headline": "heute journal",
+     "titel": "heute journal vom 21. Oktober 2026",
+     "beschreibung": "Mit den Themen: Steigerung der DB-Trassenpreise - Länder fordern mehr Geld vom Bund; Weltweite IT-Sicherheitslücke - Millionen Webseiten bedroht; Abschied von Kahla - Porzellanhersteller schließt",
+     "externalId": "SCMS_fa34927c-b19d-4fa6-b4d3-2041253f4fc2",
+     "trackingTitle": "heute_journal_vom_21._Oktober_2026",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-vom-21-oktober-2026-100.html",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 21:45",
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00.000+02:00",
+     "length": 362,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-vom-21-oktober-2026-100",
+     "basename": "261021_2145_sendung_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "6 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1152": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1152x1296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1280": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1280x720",
+       "width": 1280,
+       "height": 720
+      },
+      "1920": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1920x1080",
+       "width": 1920,
+       "height": 1080
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    },
+    {
+     "id": "heute-journal-vom-20-oktober-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-vom-20-oktober-2026-100",
+     "headline": "heute journal",
+     "titel": "heute journal vom 20. Oktober 2026",
+     "beschreibung": "Mit den Themen: Investitionsgipfel in Berlin - Werben um internationale Geldgeber; Alltag in der Ukraine - Leben mit täglichen Angriffen; Landtag in Mecklenburg-Vorpommern - Konstituierende Sitzung nach Wahl.",
+     "externalId": "SCMS_86a031dd-ab26-4db8-bbcf-6da5d3954a9c",
+     "trackingTitle": "heute_journal_vom_20._Oktober_2026",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-vom-20-oktober-2026-100.html",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "20.10.2026 21:45",
+     "timetolive": "20.10.2027 21:45",
+     "offlineAvailability": "2027-10-20T21:45:00.000+02:00",
+     "length": 1768,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-vom-20-oktober-2026-100",
+     "basename": "261020_2145_sendung_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "29 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1152": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1152x1296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1280": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1280x720",
+       "width": 1280,
+       "height": 720
+      },
+      "1920": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1920x1080",
+       "width": 1920,
+       "height": 1080
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    },
+    {
+     "id": "heute-journal-vom-19-oktober-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-vom-19-oktober-2026-100",
+     "headline": "heute journal",
+     "titel": "heute journal vom 19. Oktober 2026",
+     "beschreibung": "Investitionsgipfel in Berlin - KI-Partnerschaft mit Nvidia geplant / Ausschreitungen in Frankreich - Aufräumarbeiten und Schuldzuweisungen / Deutsch-türkische Geschichte - 65 Jahre Anwerbeabkommen",
+     "externalId": "SCMS_e1de8684-879a-4990-a370-06d22a913518",
+     "trackingTitle": "heute_journal_vom_19._Oktober_2026",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-vom-19-oktober-2026-100.html",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "19.10.2026 21:45",
+     "timetolive": "19.10.2027 21:45",
+     "offlineAvailability": "2027-10-19T21:45:00.000+02:00",
+     "length": 1802,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-vom-19-oktober-2026-100",
+     "basename": "261019_2145_sendung_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "30 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1152": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1152x1296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1280": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1280x720",
+       "width": 1280,
+       "height": 720
+      },
+      "1920": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1920x1080",
+       "width": 1920,
+       "height": 1080
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  },
+  {
+   "name": "Beiträge heute journal up:date",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "ausblick-donnerstag-211026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/ausblick-donnerstag-211026-100",
+     "headline": "heute journal update",
+     "titel": "Der Ausblick: Was am Donnerstag wichtig wird",
+     "beschreibung": "Ministerpräsidentenkonferenz in Berlin / Neue Steuerschätzung / Brettspiel-Messe in Essen startet",
+     "externalId": "SCMS_846bd9f0-b29e-4865-ad1c-ca7b0ecb21af",
+     "trackingTitle": "Der_Ausblick__Was_am_Donnerstag_wichtig_wird",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal-update/ausblick-donnerstag-211026-100.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal-update",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "22.10.2026 00:45",
+     "timetolive": "22.10.2027 00:45",
+     "offlineAvailability": "2027-10-22T00:45:00.000+02:00",
+     "length": 66,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-update-clip-4-3204",
+     "basename": "261022_0045_clip_4_hju",
+     "brandId": "heute-journal-update-104",
+     "brandTitle": "heute journal update",
+     "infoline": {
+      "title": "1 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/ausblickfoto-108~1140x240?cb=1768254884854",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/ausblickfoto-108~1200x480?cb=1768254884854",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/ausblickfoto-108~1280x960?cb=1768254884854",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    },
+    {
+     "id": "sgs-strack-zimmermann-102",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sgs-strack-zimmermann-102",
+     "headline": "heute journal update",
+     "titel": "\"Wir sollten sehr nüchtern hinschauen“",
+     "beschreibung": "Trump baue vor den Midterms eine Geschichte auf und Putin helfe ihm dabei, sagt Marie-Agnes Strack-Zimmermann zur russischen Gesprächsbereitschaft mit den USA und der Ukraine.",
+     "externalId": "SCMS_15490a9e-64c9-44c9-9101-8a52d9a88090",
+     "trackingTitle": "_Wir_sollten_sehr_nuechtern_hinschauen",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal-update/sgs-strack-zimmermann-102.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal-update",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 23:52",
+     "timetolive": "22.10.2027 00:45",
+     "offlineAvailability": "2027-10-22T00:45:00.000+02:00",
+     "length": 227,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-update-clip-1-3206",
+     "basename": "261022_0045_clip_1_hju",
+     "brandId": "heute-journal-update-104",
+     "brandTitle": "heute journal update",
+     "infoline": {
+      "title": "3 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/vazstrack-100~1140x240?cb=1792618718120",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/vazstrack-100~1200x480?cb=1792618718120",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdfheute.de/assets/vazstrack-100~1280x960?cb=1792618718120",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    },
+    {
+     "id": "safiarian-sicherheitsluecke-php-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/safiarian-sicherheitsluecke-php-100",
+     "headline": "heute journal update",
+     "titel": "Sicherheitslücke bedroht Millionen Webseiten",
+     "beschreibung": "Wegen gravierender Sicherheitslücken bei der Programmiersprache PHP haben viele Behörden und Anbieter ihre Webseiten offline genommen. Auch Nutzerdaten sind gefährdet.",
+     "externalId": "SCMS_5f804fdf-e2d8-4b16-9d67-7ebd29bb6f2b",
+     "trackingTitle": "Sicherheitsluecke_bedroht_Millionen_Webseiten",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal-update/safiarian-sicherheitsluecke-php-100.html",
+     "contentType": "clip",
+     "currentVideoType": "clip",
+     "structureNodePath": "/zdf/nachrichten/heute-journal-update",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "22.10.2026 00:45",
+     "timetolive": "22.10.2027 00:45",
+     "offlineAvailability": "2027-10-22T00:45:00.000+02:00",
+     "length": 130,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-update-clip-2-3208",
+     "basename": "261022_0045_clip_2_hju",
+     "brandId": "heute-journal-update-104",
+     "brandTitle": "heute journal update",
+     "infoline": {
+      "title": "2 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/phpsicherheit-100~1140x240?cb=1792620880110",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdfheute.de/assets/phpsicherheit-100~1152x1296?cb=1792620880110",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/phpsicherheit-100~1200x480?cb=1792620880110",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  },
+  {
+   "name": "Ganze Sendungen in Gebärdensprache",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "proteine-neu-gedacht-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/proteine-neu-gedacht-100",
+     "headline": "plan b",
+     "titel": "Proteine neu gedacht",
+     "beschreibung": "Shakes, Pulver und Riegel: Proteine sollen gesünder, stärker und schlanker machen. Eric Mayer will wissen, was hinter dem Hype steckt und welche Eiweißquellen überhaupt zukunftsfähig sind.",
+     "externalId": "SCMS_ab13f420-88f0-4f99-a25d-16986a8a0dbe",
+     "trackingTitle": "Proteine_neu_gedacht",
+     "sharingUrl": "https://www.zdf.de/video/dokus/plan-b-next-bite-100/proteine-neu-gedacht-100",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/gesellschaft/plan-b",
+     "seasonNumber": "1",
+     "episodeNumber": "2",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "08.10.2026 10:00",
+     "timetolive": "08.10.2031 09:59",
+     "offlineAvailability": "2031-10-08T09:59:00.000+02:00",
+     "length": 2611,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-plan-b-next-bite-102",
+     "basename": "261018_1530_nextbite02_pnb",
+     "brandTitle": "plan b",
+     "infoline": {
+      "title": "S2026 F17 · 43 min · Gesellschaft"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-proteine-neu-gedacht-100~1140x240?cb=1791536504266",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-proteine-neu-gedacht-100~1152x1296?cb=1791536504266",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-proteine-neu-gedacht-100~1200x480?cb=1791536504266",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "contentAttributes": {
+      "editorialDate": {
+       "screenReaderText": "Beitrag vom",
+       "title": "22.10.2026"
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    },
+    {
+     "id": "lebensmittel-gesund-guenstig-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/lebensmittel-gesund-guenstig-100",
+     "headline": "plan b",
+     "titel": "Gutes Essen geht auch günstig",
+     "beschreibung": "Wie können wir in Zukunft gut, gesund und gerecht essen? Moderator Eric Mayer trifft kreative Köpfe, die Ernährung neu denken und zeigen, was schon alles möglich ist.",
+     "externalId": "SCMS_e3c9ee62-2663-469b-9561-18ff1260cbc6",
+     "trackingTitle": "Gutes_Essen_geht_auch_guenstig",
+     "sharingUrl": "https://www.zdf.de/video/dokus/plan-b-next-bite-100/lebensmittel-gesund-guenstig-100",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/gesellschaft/plan-b",
+     "seasonNumber": "1",
+     "episodeNumber": "1",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "08.10.2026 10:00",
+     "timetolive": "07.10.2031 09:59",
+     "offlineAvailability": "2031-10-07T09:59:00.000+02:00",
+     "length": 2610,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-plan-b-next-bite-100",
+     "basename": "261011_1530_nextbite01_pnb",
+     "brandTitle": "plan b",
+     "infoline": {
+      "title": "S2026 F16 · 43 min · Gesellschaft"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-gutes-essen-geht-auch-guenstig-102~1140x240?cb=1791538064804",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-gutes-essen-geht-auch-guenstig-102~1152x1296?cb=1791538064804",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdfheute.de/assets/keyvisual-next-bite-gutes-essen-geht-auch-guenstig-102~1200x480?cb=1791538064804",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "contentAttributes": {
+      "editorialDate": {
+       "screenReaderText": "Beitrag vom",
+       "title": "22.10.2026"
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    },
+    {
+     "id": "heute-journal-vom-21-oktober-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/heute-journal-vom-21-oktober-2026-100",
+     "headline": "heute journal",
+     "titel": "heute journal vom 21. Oktober 2026",
+     "beschreibung": "Mit den Themen: Steigerung der DB-Trassenpreise - Länder fordern mehr Geld vom Bund; Weltweite IT-Sicherheitslücke - Millionen Webseiten bedroht; Abschied von Kahla - Porzellanhersteller schließt",
+     "externalId": "SCMS_fa34927c-b19d-4fa6-b4d3-2041253f4fc2",
+     "trackingTitle": "heute_journal_vom_21._Oktober_2026",
+     "sharingUrl": "https://www.zdfheute.de/video/heute-journal/heute-journal-vom-21-oktober-2026-100.html",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/nachrichten/heute-journal",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "21.10.2026 21:45",
+     "timetolive": "21.10.2027 21:45",
+     "offlineAvailability": "2027-10-21T21:45:00.000+02:00",
+     "length": 362,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-heute-journal-vom-21-oktober-2026-100",
+     "basename": "261021_2145_sendung_hjo",
+     "brandId": "heute-journal-104",
+     "brandTitle": "heute journal",
+     "infoline": {
+      "title": "6 min · Nachrichten"
+     },
+     "teaserBild": {
+      "1152": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1152x1296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1280": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1280x720",
+       "width": 1280,
+       "height": 720
+      },
+      "1920": {
+       "url": "https://epg-image.zdf.de/fotobase-webdelivery/images/273e5545-16e7-4ca3-898e-52fe9e06d964?layout=1920x1080",
+       "width": 1920,
+       "height": 1080
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": true
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": false
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-cellular-5"
+  }
+ ],
+ "broadcasts": [],
+ "meta": {
+  "id": "heute-journal-104",
+  "editorialDate": "2026-10-22T00:11:44.962+02:00",
+  "contentType": "brand",
+  "profile": "http://zdf.de/rels/content/page-index-cellular-5",
+  "self": "/content/heute/documents/zdf/nachrichten/heute-journal?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_p12_sendebereich_5989562.json",
+  "structureNodePath": "/zdf/nachrichten/heute-journal",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_p12_sendebereich_5989562.json?profile=cellular-5"
+ }
+}

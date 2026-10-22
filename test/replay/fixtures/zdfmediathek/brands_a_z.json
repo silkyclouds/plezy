@@ -1,0 +1,866 @@
+{
+ "document": {
+  "id": "sendungen-100",
+  "type": "brandsAlphabetical",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/sendungen-100",
+  "headline": "",
+  "titel": "A-Z",
+  "beschreibung": "",
+  "externalId": "SCMS_ca4d6b86-9701-4165-9e49-ceb9bf2f0235",
+  "sharingUrl": "https://www.zdf.de/sendungen-a-z/sendungen-100.html",
+  "structureNodePath": "/zdf/sendungen-a-z",
+  "channel": "ZDF",
+  "brandTitle": "",
+  "teaserBild": {
+   "1140": {
+    "url": "https://www.zdf.de/assets/kategorie-a-z-100~1140x240?cb=1766138144588",
+    "width": 1140,
+    "height": 240
+   },
+   "1152": {
+    "url": "https://www.zdf.de/assets/kategorie-a-z-100~1152x1296?cb=1766138144588",
+    "width": 1152,
+    "height": 1296
+   },
+   "1200": {
+    "url": "https://www.zdf.de/assets/kategorie-a-z-100~1200x480?cb=1766138144588",
+    "width": 1200,
+    "height": 480
+   }
+  },
+  "modificationDate": "2026-10-13T15:13:45.319+02:00"
+ },
+ "cluster": [
+  {
+   "name": "A",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "ab-18-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/ab-18-102",
+     "headline": "",
+     "titel": "Ab 18!",
+     "beschreibung": "Dokumentarfilme über junge Erwachsene",
+     "externalId": "SCMS_ce098b89-0e79-42bf-9746-8c5836e55e7a",
+     "trackingTitle": "Ab_18_",
+     "textLong": "Dokumentarfilme, die in die Erlebnis- und Gefühlswelt junger Erwachsener eintauchen und ‎Geschichten von Erwachsenwerden, Entdeckungen und Erfolgen, aber auch von ‎Enttäuschung und Konflikt erzählen.‎",
+     "sharingUrl": "https://www.zdf.de/reportagen/ab-18-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/3sat/ab-18",
+     "channel": "3sat",
+     "hasVideo": true,
+     "brandTitle": "Ab 18!",
+     "infoline": {
+      "title": "3sat"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/ab-18-108~1140x240?cb=1742980186296",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/ab-18-108~1152x1296?cb=1742980186296",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/ab-18-108~1200x480?cb=1742980186296",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/ab-18-teaser-mit-logo1920x1080-100~1140x240?cb=1743599633178",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/ab-18-teaser-mit-logo1920x1080-100~1152x1296?cb=1743599633178",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/ab-18-teaser-mit-logo1920x1080-100~1200x480?cb=1743599633178",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/ab18-102~240x270?cb=1743673417447",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/ab18-102~276x311?cb=1743673417447",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/ab18-102~314x314?cb=1743673417447",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "abenteuer-auswandern-104",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/abenteuer-auswandern-104",
+     "headline": "",
+     "titel": "Abenteuer Auswandern",
+     "beschreibung": "Costa Rica, Tansania oder Japan: Immer mehr mutige Deutsche suchen ihr persönliches Glück in der Ferne. In den Dokus zeigen Auswanderer ihr neues Leben im Ausland – mit allen Höhen und Tiefen.",
+     "externalId": "SCMS_66f09ef9-e64d-4e3f-b393-83497742b296",
+     "trackingTitle": "Abenteuer_Auswandern",
+     "textLong": "Ob Portugal oder Japan: Immer mehr Mutige suchen ihr Glück in der Ferne. In den Dokus zeigen Menschen, die den Neuanfang gewagt haben, ihr Leben im Ausland - und schildern ihr persönliches Abenteuer.",
+     "sharingUrl": "https://www.zdf.de/reportagen/abenteuer-auswandern-104",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/dokumentation/abenteuer-auswandern",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Abenteuer Auswandern",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-abenteuer-auswandern-100~1140x240?cb=1791468804663",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-abenteuer-auswandern-100~1152x1296?cb=1791468804663",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-abenteuer-auswandern-100~1200x480?cb=1791468804663",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-sendungsteaser-100~1140x240?cb=1711463574522",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-sendungsteaser-100~1152x1296?cb=1711463574522",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-sendungsteaser-100~1200x480?cb=1711463574522",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-logo-mi-100~240x270?cb=1711463598850",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-logo-mi-100~276x311?cb=1711463598850",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/-sb-auswandern-logo-mi-100~314x314?cb=1711463598850",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "achtung-essen-108",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/achtung-essen-108",
+     "headline": "",
+     "titel": "Achtung, Essen!",
+     "beschreibung": "Wie landen Eier aus Legebatterien noch im Supermarkt? Macht der viele Zucker uns krank? Die investigative Dokureihe beleuchtet gesellschaftliche Konflikte rund um Ernährung und Lebensmittel.",
+     "externalId": "SCMS_d9519574-7bbb-42ee-8abf-7e88ec7e4239",
+     "trackingTitle": "Achtung__Essen_",
+     "textLong": "Investigative Dokureihe: Warum werden in Deutschland immer noch Eier aus Legebatterien verkauft? Wieso sterben immer mehr Menschen an antibiotikaresistenten Keimen? Und ist Zucker wirklich schädlich?",
+     "sharingUrl": "https://www.zdf.de/dokus/achtung-essen-108",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/dokumentation/achtung-essen",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "timetolive": "04.07.2028 16:35",
+     "offlineAvailability": "2028-07-04T16:35:00+02:00",
+     "brandTitle": "Achtung, Essen!",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/achtung-essen-112~1140x240?cb=1784625297001",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/achtung-essen-112~1152x1296?cb=1784625297001",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/achtung-essen-112~1200x480?cb=1784625297001",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/achtung-essen-sendungsteaser-100~1140x240?cb=1784625353986",
+       "width": 1140,
+       "height": 240
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/achtung-essen-sendungsteaser-100~1200x480?cb=1784625353986",
+       "width": 1200,
+       "height": 480
+      },
+      "1280": {
+       "url": "https://www.zdf.de/assets/achtung-essen-sendungsteaser-100~1280x960?cb=1784625353986",
+       "width": 1280,
+       "height": 960
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/achtung-essen-logo-mittig-100~240x270?cb=1600333036728",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/achtung-essen-logo-mittig-100~276x311?cb=1600333036728",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/achtung-essen-logo-mittig-100~314x314?cb=1600333036728",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "addie-und-wie-sie-die-welt-fuehlt-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/addie-und-wie-sie-die-welt-fuehlt-102",
+     "headline": "",
+     "titel": "Addie und wie sie die Welt fühlt",
+     "beschreibung": "Addie ist Autistin. Als in der Schule über Hexenverfolgung gesprochen wird, wird sie neugierig.",
+     "externalId": "SCMS_5d82c086-b768-46b0-9919-7ef2cf1d61f0",
+     "trackingTitle": "Addie_und_wie_sie_die_Welt_fuehlt",
+     "textLong": "Addie ist Autistin und lebt mit ihrer Familie in Schottland. Als in der Schule über Hexenverfolgung gesprochen wird, wird sie neugierig.",
+     "sharingUrl": "https://www.zdf.de/serien/addie-und-wie-sie-die-welt-fuehlt-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/kinder/addie-und-wie-sie-die-welt-fuehlt",
+     "channel": "KI.KA",
+     "hasVideo": true,
+     "brandTitle": "Addie und wie sie die Welt fühlt",
+     "isKidsContent": true,
+     "infoline": {
+      "title": "ZDFtivi"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-addie-und-wie-sie-die-welt-fuehlt-100~1140x240?cb=1785927811709",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-addie-und-wie-sie-die-welt-fuehlt-100~1152x1296?cb=1785927811709",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-addie-und-wie-sie-die-welt-fuehlt-100~1200x480?cb=1785927811709",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-addie-und-wie-sie-die-welt-fuehlt-100~1140x240?cb=1785927913181",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-addie-und-wie-sie-die-welt-fuehlt-100~1152x1296?cb=1785927913181",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-addie-und-wie-sie-die-welt-fuehlt-100~1200x480?cb=1785927913181",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/addie-und-wie-sie-die-welt-fuehlt-logo-cluster-100~240x270?cb=1747726920081",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/addie-und-wie-sie-die-welt-fuehlt-logo-cluster-100~276x311?cb=1747726920081",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/addie-und-wie-sie-die-welt-fuehlt-logo-cluster-100~314x314?cb=1747726920081",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "after-benjamin-100",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/after-benjamin-100",
+     "headline": "",
+     "titel": "After Benjamin",
+     "beschreibung": "Im Sommer 2000 verbringen Benjamin und Elias sorglose Tage in einem multikulturellen Osloer Viertel. Neue Nachbarn bringen Veränderung, doch Rassismus und Gewalt kündigen ein tragisches Ereignis an.",
+     "externalId": "SCMS_8dbb3ca6-861b-411f-9ff9-59878c7d0bbb",
+     "trackingTitle": "After_Benjamin",
+     "sharingUrl": "https://www.zdf.de/serien/after-benjamin-100",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/after-benjamin",
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "After Benjamin",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-after-benjamin-100~1140x240?cb=1773755305413",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-after-benjamin-100~1152x1296?cb=1773755305413",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-after-benjamin-100~1200x480?cb=1773755305413",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-after-benjamin-100~1140x240?cb=1773162039308",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-after-benjamin-100~1152x1296?cb=1773162039308",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-after-benjamin-100~1200x480?cb=1773162039308",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-after-benjamin-102",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-after-benjamin-102",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "agatha-christies-hjerson-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/agatha-christies-hjerson-102",
+     "headline": "",
+     "titel": "Agatha Christies Hjerson",
+     "beschreibung": "Der einstige Star-Profiler Sven Hjerson meidet das Rampenlicht. Doch dann will die TV-Produzentin Klara eine True-Crime-Show mit ihm drehen. Zusammen begeben sie sich auf eine aufregende Mörderjagd.",
+     "externalId": "SCMS_7ecd4a2e-ddc9-42b9-9962-a457feee92ab",
+     "trackingTitle": "Agatha_Christies_Hjerson",
+     "textLong": "Moderne und humorvolle Adaption der Geschichten um den schwedischen Meisterdetektiv Sven Hjerson - nach Motiven der Bestseller-Autorin Agatha Christie.",
+     "sharingUrl": "https://www.zdf.de/serien/agatha-christies-hjerson-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/agatha-christies-hjerson",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Agatha Christies Hjerson",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-buehnem-100~1140x240?cb=1642496830834",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-buehnem-100~1152x1296?cb=1642496830834",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-buehnem-100~1200x480?cb=1642496830834",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-sendungsteaser-100~1140x240?cb=1642496615244",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-sendungsteaser-100~1152x1296?cb=1642496615244",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/agatha-christies-hjerson-sendungsteaser-100~1200x480?cb=1642496615244",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-agatha-christies-hjerson-100~240x270?cb=1751634775514",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-agatha-christies-hjerson-100~276x311?cb=1751634775514",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-agatha-christies-hjerson-100~314x314?cb=1751634775514",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-712",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-712",
+      "text": "Trailer"
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-brand-a-z-cellular-5"
+  },
+  {
+   "name": "B",
+   "type": "teaser",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-160",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-160",
+     "headline": "",
+     "titel": "Babylon Berlin",
+     "beschreibung": "BABYLON BERLIN präsentiert das ganze Panoptikum der aufregendsten Stadt der Welt zwischen Drogen und Politik, Mord und Kunst, Emanzipation und Extremismus.",
+     "externalId": "SCMS_index-page-ard-collection_ard_dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-",
+     "trackingTitle": "Babylon_Berlin",
+     "textLong": "BABYLON BERLIN präsentiert das ganze Panoptikum der aufregendsten Stadt der Welt zwischen Drogen und Politik, Mord und Kunst, Emanzipation und Extremismus.",
+     "sharingUrl": "https://www.zdf.de/serien/collection-index-page-ard-collection-ard-dxjuomfyzdpzag93omvmzje3nteymtu3oda5y2e-160",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/ard/babylon-berlin",
+     "channel": "ARD",
+     "hasVideo": true,
+     "brandTitle": "Babylon Berlin",
+     "infoline": {
+      "title": "ARD"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-babylon-berlin-100~1140x240?cb=1790587034287",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-babylon-berlin-100~1152x1296?cb=1790587034287",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-no-logo-ard-babylon-berlin-100~1200x480?cb=1790587034287",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-ard-babylon-berlin-100~1140x240?cb=1790587033710",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-ard-babylon-berlin-100~1152x1296?cb=1790587033710",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/collection-teaser-image-ard-babylon-berlin-100~1200x480?cb=1790587033710",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "die-bachmanns-104",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/die-bachmanns-104",
+     "headline": "",
+     "titel": "Die Bachmanns",
+     "beschreibung": "Verheiratet, geschieden, Nachbarn. Kann das gut gehen? Für Expartner Miriam und Markus ist Familienfriede ziemlich schwierig. Besonders, seitdem Markus mit seiner neuen Freundin im Nachbarhaus wohnt.",
+     "externalId": "SCMS_7e22f22e-7850-43a3-9112-749bad061b48",
+     "trackingTitle": "Die_Bachmanns",
+     "sharingUrl": "https://www.zdf.de/serien/die-bachmanns-104",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/die-bachmanns",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Die Bachmanns",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-die-bachmanns-100~1140x240?cb=1783349749577",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-die-bachmanns-100~1152x1296?cb=1783349749577",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-die-bachmanns-100~1200x480?cb=1783349749577",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-die-bachmanns-100~1140x240?cb=1783349849530",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-die-bachmanns-100~1152x1296?cb=1783349849530",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-die-bachmanns-100~1200x480?cb=1783349849530",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "backstage-154",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/backstage-154",
+     "headline": "",
+     "titel": "Backstage",
+     "beschreibung": "Bares für Rares, \"Bettys Diagnose\" oder \"Die Küchenschlacht\" hautnah erleben: Die Dokus gewähren spannende Einblicke hinter die Kulissen der ZDF-Erfolgssendungen und zeigen alles, was am Set passiert.",
+     "externalId": "SCMS_9719bda7-8444-4d5a-b40c-6d41967060a3",
+     "trackingTitle": "Backstage",
+     "textLong": "Das tägliche Interesse an ZDF-Sendungen ist riesig. Unsere backstage-Dokumentationen zeigen, was am Set unserer Erfolgsformate passiert - und gewähren ungewöhnliche Einblicke hinter der Kamera.",
+     "sharingUrl": "https://www.zdf.de/reportagen/backstage-154",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/dokumentation/backstage",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Backstage",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-buehne-100~1140x240?cb=1711547978332",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-buehne-100~1152x1296?cb=1711547978332",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-buehne-100~1200x480?cb=1711547978332",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-sendungsteaser-100~1140x240?cb=1765185244047",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-sendungsteaser-100~1152x1296?cb=1765185244047",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-sendungsteaser-100~1200x480?cb=1765185244047",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-logo-mi-100~240x270?cb=1765184639755",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-logo-mi-100~276x311?cb=1765184639755",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/-sb-backstage-logo-mi-100~314x314?cb=1765184639755",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "back-up-auf-streife-mit-der-ex-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/back-up-auf-streife-mit-der-ex-102",
+     "headline": "",
+     "titel": "Back Up - Auf Streife mit der Ex",
+     "beschreibung": "Wilde Mischung aus Drama, Crime und schwarzem Humor: Zwei ungleiche weibliche Cops, die mal ein Paar waren, geraten in einen Strudel aus Intrigen, Loyalität und Chaos – rau, schnell, überraschend.",
+     "externalId": "SCMS_1732c079-5381-4f5f-ab29-c67e97f34313",
+     "trackingTitle": "Back_Up_-_Auf_Streife_mit_der_Ex_",
+     "sharingUrl": "https://www.zdf.de/serien/back-up-auf-streife-mit-der-ex-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/back-up-auf-streife-mit-der-ex",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Back Up - Auf Streife mit der Ex",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-back-up-100~1140x240?cb=1785331315440",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-back-up-100~1152x1296?cb=1785331315440",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-back-up-100~1200x480?cb=1785331315440",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-back-up-100~1140x240?cb=1777976880336",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-back-up-100~1152x1296?cb=1777976880336",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-back-up-100~1200x480?cb=1777976880336",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-back-up-auf-streife-mit-der-ex-staffel-1-102",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-back-up-auf-streife-mit-der-ex-staffel-1-102",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "doktor-ballouz-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/doktor-ballouz-102",
+     "headline": "",
+     "titel": "Doktor Ballouz",
+     "beschreibung": "Knittriger Trenchcoat, kleiner Trabi und ein großes Herz: Nach dem Tod seiner Frau kehrt Doktor Ballouz in seine Klinik in der Uckermark zurück. Doch schnell holen ihn schmerzliche Erinnerungen ein.",
+     "externalId": "SCMS_f35e3f18-8537-445b-8021-5ca924a26d47",
+     "trackingTitle": "Doktor_Ballouz",
+     "textLong": "Dr. Ballouz (Merab Ninidze) ist in dieser Arztserie der ungewöhnliche Chefarzt einer kleinen Klinik in der Uckermark. Mit seinem Team kämpft er für die Patienten und gegen seine Vergangenheit.",
+     "sharingUrl": "https://www.zdf.de/serien/doktor-ballouz-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/doktor-ballouz",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Doktor Ballouz",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-100~1140x240?cb=1770823872819",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-100~1152x1296?cb=1770823872819",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-100~1200x480?cb=1770823872819",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-sendungsteaser-100~1140x240?cb=1695822146438",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-sendungsteaser-100~1152x1296?cb=1695822146438",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sb-doktor-ballouz-sendungsteaser-100~1200x480?cb=1695822146438",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-doktor-ballouz-100~240x270?cb=1752063319802",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-doktor-ballouz-100~276x311?cb=1752063319802",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-doktor-ballouz-100~314x314?cb=1752063319802",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "inspector-barnaby-104",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/inspector-barnaby-104",
+     "headline": "",
+     "titel": "Inspector Barnaby",
+     "beschreibung": "Die fiktive Grafschaft Midsomer ist Schauplatz der bizarrsten Morde. Vor der Kulisse malerischer Dörfer und Landschaften ermittelt John Barnaby stets mit einer guten Prise britischem Humor.",
+     "externalId": "SCMS_p12_sendebereich_5989710",
+     "trackingTitle": "Inspector_Barnaby",
+     "textLong": "Krimi-Kult: Die zum Glück nur fiktive Grafschaft Midsomer in England ist Schauplatz der bizarrsten Morde. Hier lebt und ermittelt Inspector Barnaby stets mit einer guten Prise britischen Humors.",
+     "sharingUrl": "https://www.zdf.de/serien/inspector-barnaby-104",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/inspector-barnaby",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Inspector Barnaby",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-barnaby-buehnem-100~1140x240?cb=1786367580397",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-barnaby-buehnem-100~1152x1296?cb=1786367580397",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-barnaby-buehnem-100~1200x480?cb=1786367580397",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-barnaby-buehnem-100~1140x240?cb=1786367666952",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-barnaby-buehnem-100~1152x1296?cb=1786367666952",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-barnaby-buehnem-100~1200x480?cb=1786367666952",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-inspector-barnaby-100~240x270?cb=1752673617051",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-inspector-barnaby-100~276x311?cb=1752673617051",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-inspector-barnaby-100~314x314?cb=1752673617051",
+       "width": 314,
+       "height": 314
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-brand-a-z-cellular-5"
+  }
+ ],
+ "meta": {
+  "id": "sendungen-100",
+  "editorialDate": "",
+  "contentType": "",
+  "profile": "http://zdf.de/rels/content/special-page-brand-a-z-cellular-5",
+  "self": "/content/documents/zdf/sendungen-a-z?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_ca4d6b86-9701-4165-9e49-ceb9bf2f0235.json",
+  "structureNodePath": "/zdf/sendungen-a-z",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_ca4d6b86-9701-4165-9e49-ceb9bf2f0235.json?profile=cellular-5"
+ }
+}

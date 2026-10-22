@@ -1,0 +1,968 @@
+{
+ "stage": [
+  {
+   "id": "uefa-champions-league-saison-2025-26-live-highlights-livestreams-100",
+   "type": "brand",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/uefa-champions-league-saison-2025-26-live-highlights-livestreams-100",
+   "headline": "",
+   "titel": "Höhepunkte der Achtelfinal-Rückspiele",
+   "beschreibung": "Alle Spiele, alle Tore - u.a. mit dem Spiel FC Bayern gegen Atalanta Bergamo.",
+   "externalId": "SCMS_5c6aa2c4-2702-4a77-adf8-5924476170ba",
+   "trackingTitle": "Hoehepunkte_der_Achtelfinal-Rueckspiele",
+   "textLong": "Vom ersten Spieltag bis zum Finale: die wichtigsten Spiele im Video und ausführliche Zusammenfassungen der Spiele mit deutscher Beteiligung - immer mittwochs ab 23 Uhr.",
+   "sharingUrl": "https://www.zdf.de/kurzfassungen/uefa-champions-league-saison-2025-26-live-highlights-livestreams-100",
+   "contentType": "brand",
+   "structureNodePath": "/zdf/sport/uefa-champions-league-saison-2025-26",
+   "channel": "ZDF",
+   "hasVideo": true,
+   "brandTitle": "UEFA Champions League - Saison 2025/26",
+   "infoline": {
+    "title": "Sport"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1140x240?cb=1755161657963",
+     "width": 1140,
+     "height": 240
+    },
+    "1152": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1152x1296?cb=1755161657963",
+     "width": 1152,
+     "height": 1296
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1200x480?cb=1755161657963",
+     "width": 1200,
+     "height": 480
+    }
+   },
+   "image": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1140x240?cb=1755161657963",
+     "width": 1140,
+     "height": 240
+    },
+    "1152": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1152x1296?cb=1755161657963",
+     "width": 1152,
+     "height": 1296
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/champions-league-teaser-logo-100~1200x480?cb=1755161657963",
+     "width": 1200,
+     "height": 480
+    }
+   },
+   "logo": {
+    "240": {
+     "url": "https://www.zdf.de/assets/logo-links-uefa-champions-league-100~240x270?cb=1755170384455",
+     "width": 240,
+     "height": 270
+    },
+    "276": {
+     "url": "https://www.zdf.de/assets/logo-links-uefa-champions-league-100~276x311?cb=1755170384455",
+     "width": 276,
+     "height": 311
+    },
+    "314": {
+     "url": "https://www.zdf.de/assets/logo-links-uefa-champions-league-100~314x314?cb=1755170384455",
+     "width": 314,
+     "height": 314
+    }
+   }
+  },
+  {
+   "id": "einfach-elli-100",
+   "type": "brand",
+   "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/einfach-elli-100",
+   "headline": "",
+   "titel": "Einfach Elli",
+   "beschreibung": "Zwischen Bergidylle und Notfällen ist Sanitäterin Elli (Klara Deutschmann) im Einsatz. Mit ihrer eigenen Art wirbelt sie ihr neues Team auf, während ihre Familie ihr den Rücken stärkt.",
+   "externalId": "SCMS_7f9a036f-ea7e-4617-b609-68888b923220",
+   "trackingTitle": "Einfach_Elli",
+   "sharingUrl": "https://www.zdf.de/serien/einfach-elli-100",
+   "contentType": "brand",
+   "structureNodePath": "/zdf/serien/einfach-elli",
+   "channel": "ZDF",
+   "hasVideo": true,
+   "brandTitle": "Einfach Elli",
+   "infoline": {
+    "title": "Serien"
+   },
+   "teaserBild": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1140x240?cb=1788442785274",
+     "width": 1140,
+     "height": 240
+    },
+    "1152": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1152x1296?cb=1788442785274",
+     "width": 1152,
+     "height": 1296
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1200x480?cb=1788442785274",
+     "width": 1200,
+     "height": 480
+    }
+   },
+   "image": {
+    "1140": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1140x240?cb=1788442785274",
+     "width": 1140,
+     "height": 240
+    },
+    "1152": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1152x1296?cb=1788442785274",
+     "width": 1152,
+     "height": 1296
+    },
+    "1200": {
+     "url": "https://www.zdf.de/assets/hero-einfach-elli-100~1200x480?cb=1788442785274",
+     "width": 1200,
+     "height": 480
+    }
+   },
+   "logo": {
+    "240": {
+     "url": "https://www.zdf.de/assets/logo-links-einfach-elli-100~240x270?cb=1771343736378",
+     "width": 240,
+     "height": 270
+    },
+    "276": {
+     "url": "https://www.zdf.de/assets/logo-links-einfach-elli-100~276x311?cb=1771343736378",
+     "width": 276,
+     "height": 311
+    },
+    "314": {
+     "url": "https://www.zdf.de/assets/logo-links-einfach-elli-100~314x314?cb=1771343736378",
+     "width": 314,
+     "height": 314
+    }
+   },
+   "trailerTarget": {
+    "id": "trailer-788",
+    "type": "video",
+    "contentType": "clip",
+    "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-788",
+    "text": "Trailer"
+   }
+  }
+ ],
+ "cluster": [
+  {
+   "name": "Top-Serien zum Streamen",
+   "type": "teaserPoster",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "bupkis-100",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/bupkis-100",
+     "headline": "",
+     "titel": "Bupkis",
+     "beschreibung": "In der halbbiografischen Comedy-Serie spielt Comedian Pete Davidson eine überspitzte Version seiner selbst – ehrlich, chaotisch, witzig und mit einem ungeschönten Blick auf sein Leben.",
+     "externalId": "SCMS_63e929f6-640e-4fad-9fe3-64119f6a46b9",
+     "trackingTitle": "Bupkis",
+     "sharingUrl": "https://www.zdf.de/serien/bupkis-100",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/bupkis",
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Bupkis",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1140x240?cb=1773391773688",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1152x1296?cb=1773391773688",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-bupkis-100~1200x480?cb=1773391773688",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1140x240?cb=1749118566449",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1152x1296?cb=1749118566449",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-bupkis-100~1200x480?cb=1749118566449",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~240x270?cb=1752657521074",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~276x311?cb=1752657521074",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-bupkis-100~314x314?cb=1752657521074",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-bupkis-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-bupkis-100",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "am-anschlag-die-macht-der-kraenkung-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/am-anschlag-die-macht-der-kraenkung-102",
+     "headline": "",
+     "titel": "Die Macht der Kränkung",
+     "beschreibung": "Einsamkeit, Demütigung, Wut: Wann sitzt der Schmerz so tief, dass er herausbricht und zur Katastophe führt? Ein Toter rechnet mit seinem Umfeld ab. Nach dem gleichnamigen psychologischen Sachbuch.",
+     "externalId": "SCMS_4451a539-7b2c-4fa6-b1e2-be61687aed0b",
+     "trackingTitle": "Die_Macht_der_Kraenkung",
+     "textLong": "In 2 Staffeln erzählt die Anthologie-Dramaserie von Menschen und von Kränkungen, die schließlich drastische Folgen haben.",
+     "sharingUrl": "https://www.zdf.de/serien/am-anschlag-die-macht-der-kraenkung-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/am-anschlag-die-macht-der-kraenkung",
+     "contentLabel": {
+      "title": "neoriginal",
+      "logo": {
+       "276": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~276x311?cb=1605518987787",
+        "width": 276,
+        "height": 311
+       },
+       "380": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~380x170?cb=1605518987787",
+        "width": 380,
+        "height": 170
+       },
+       "760": {
+        "url": "https://www.zdf.de/assets/logo-contentlabel-neoriginal-100~760x340?cb=1605518987787",
+        "width": 760,
+        "height": 340
+       }
+      }
+     },
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "Die Macht der Kränkung",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1140x240?cb=1683623001466",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1152x1296?cb=1683623001466",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/am-ende-buehnen-100~1200x480?cb=1683623001466",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1140x240?cb=1683204113312",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1152x1296?cb=1683204113312",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/am-ende-sendungsteaser-100~1200x480?cb=1683204113312",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~240x270?cb=1751637091382",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~276x311?cb=1751637091382",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/logo-mittig-am-ende-100~314x314?cb=1751637091382",
+       "width": 314,
+       "height": 314
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-am-ende-die-macht-der-kraenkung-staffel-2-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-am-ende-die-macht-der-kraenkung-staffel-2-100",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "the-veil-112",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/the-veil-112",
+     "headline": "",
+     "titel": "The Veil",
+     "beschreibung": "MI6-Agentin Imogen Salter gibt sich als NGO-Mitarbeiterin aus und hilft der verdächtigten Adilah bei der Flucht. Von Istanbul bis London geraten beide in ein Spiel aus Täuschung und Wahrheit.",
+     "externalId": "SCMS_1c5ee325-fe3e-48f6-81be-c2c9bda0158b",
+     "trackingTitle": "The_Veil",
+     "sharingUrl": "https://www.zdf.de/serien/the-veil-112",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/serien/the-veil",
+     "channel": "ZDFneo",
+     "hasVideo": true,
+     "brandTitle": "The Veil",
+     "infoline": {
+      "title": "Serien"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1140x240?cb=1786362389729",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1152x1296?cb=1786362389729",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-the-veil-104~1200x480?cb=1786362389729",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1140x240?cb=1786362505927",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1152x1296?cb=1786362505927",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-the-veil-100~1200x480?cb=1786362505927",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-poster-cellular-5"
+  },
+  {
+   "name": "Doku-Reihen",
+   "type": "teaserPoster",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "entscheidung-auf-dem-schlachtfeld-100",
+     "type": "topic",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/entscheidung-auf-dem-schlachtfeld-100",
+     "headline": "ZDFinfo Doku",
+     "titel": "Entscheidung auf dem Schlachtfeld",
+     "beschreibung": "Legendäre Schlachten können Zivilisationen auf den Gipfel des Ruhms bringen – oder ihren Untergang bedeuten. Die Doku-Reihe enthüllt ihre Geheimnisse.",
+     "externalId": "SCMS_e8e54ad1-7d69-4c58-afdb-285d579b5543",
+     "trackingTitle": "Entscheidung_auf_dem_Schlachtfeld",
+     "textLong": "Legendäre Schlachten können Zivilisationen auf den Gipfel des Ruhms bringen – oder ihren Untergang bedeuten. Die Doku-Reihe enthüllt mithilfe moderner Wissenschaft die Geheimnisse berühmter Kriege.",
+     "sharingUrl": "https://www.zdf.de/dokus/entscheidung-auf-dem-schlachtfeld-100",
+     "contentType": "topic",
+     "structureNodePath": "/zdf/dokumentation/zdfinfo-doku",
+     "channel": "ZDFinfo",
+     "hasVideo": true,
+     "timetolive": "30.11.2032 23:59",
+     "offlineAvailability": "2032-11-30T23:59:00+01:00",
+     "brandTitle": "ZDFinfo Doku",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/entscheidung-auf-dem-schlachtfeld--arminius-gegen-die-roemer-100~1140x240?cb=1784797474647",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/entscheidung-auf-dem-schlachtfeld--arminius-gegen-die-roemer-100~1152x1296?cb=1784797474647",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/entscheidung-auf-dem-schlachtfeld--arminius-gegen-die-roemer-100~1200x480?cb=1784797474647",
+       "width": 1200,
+       "height": 480
+      }
+     }
+    },
+    {
+     "id": "terra-x-kunz-und-die-welt-100",
+     "type": "topic",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/terra-x-kunz-und-die-welt-100",
+     "headline": "Terra X",
+     "titel": "Kunz und die Welt",
+     "beschreibung": "Ein Abenteuer voller Wissenschaft, Humor und Emotionen. Die ungewöhnliche \"Terra X\"-Reihe begleitet Uli Kunz auf seiner Mission, die Erde von der Menschheit zu überzeugen - mehr als eine Klima-Doku.",
+     "externalId": "SCMS_3b58aa5f-1465-495f-a5ae-cd84560084a0",
+     "trackingTitle": "Kunz_und_die_Welt",
+     "sharingUrl": "https://www.zdf.de/reportagen/terra-x-kunz-und-die-welt-100",
+     "contentType": "topic",
+     "structureNodePath": "/zdf/dokumentation/terra-x",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Terra X",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/terra-x-kunz-und-die-welt-hero-100~1140x240?cb=1772184552683",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/terra-x-kunz-und-die-welt-hero-100~1152x1296?cb=1772184552683",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/terra-x-kunz-und-die-welt-hero-100~1200x480?cb=1772184552683",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "trailerTarget": {
+      "id": "terra-x-kunz-und-die-welt-trailer-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/terra-x-kunz-und-die-welt-trailer-100",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "terra-x-faszination-erde-mit-hannah-emde-dokureihe-100",
+     "type": "topic",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/terra-x-faszination-erde-mit-hannah-emde-dokureihe-100",
+     "headline": "Terra X",
+     "titel": "Faszination Erde",
+     "beschreibung": "Wie prägen Tiere unsere Welt? Wildtierärztin und Artenschützerin Hannah Emde zeigt in den Naturdokus die faszinierenden Verbindungen zwischen Artenvielfalt, Artenschutz und den Ökosystemen der Erde.",
+     "externalId": "SCMS_7b12c2b3-5a93-4dd8-9558-ce30dea80eda",
+     "trackingTitle": "Faszination_Erde",
+     "textLong": "Die Wildtierärztin und Artenschützerin Hannah Emde präsentiert \"Terra X: Faszination Erde\". Sie geht auf Erkenntnisreise und erfährt hautnah, wie in der Natur alles mit allem zusammenhängt.",
+     "sharingUrl": "https://www.zdf.de/dokus/terra-x-faszination-erde-mit-hannah-emde-dokureihe-100",
+     "contentType": "topic",
+     "structureNodePath": "/zdf/dokumentation/terra-x",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Terra X",
+     "infoline": {
+      "title": "Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/faszination-erde-hero-staffel-fruehjahr-2026-100~1140x240?cb=1773152697201",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/faszination-erde-hero-staffel-fruehjahr-2026-100~1152x1296?cb=1773152697201",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/faszination-erde-hero-staffel-fruehjahr-2026-100~1200x480?cb=1773152697201",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "trailerTarget": {
+      "id": "trailer-faszination-erde-februar-2026-100",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trailer-faszination-erde-februar-2026-100",
+      "text": "Trailer"
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-poster-cellular-5"
+  },
+  {
+   "name": "Deine nächste Doku",
+   "type": "teaserPoster",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "trennung-und-jetzt-mit-collien-fernandes-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/trennung-und-jetzt-mit-collien-fernandes-100",
+     "headline": "Terra Xplore",
+     "titel": "Neustart nach Trennung: mit Collien Fernandes",
+     "beschreibung": "Nach ihrer Trennung - aber noch vor den aktuellen Entwicklungen - sprach Leon Windscheid mit Collien Fernandes über Identität, Loslassen und Neubeginn.",
+     "externalId": "SCMS_06698c59-7db0-42da-a3bf-d253634ddb48",
+     "trackingTitle": "Neustart_nach_Trennung__mit_Collien_Fernandes_",
+     "sharingUrl": "https://www.zdf.de/video/reportagen/collien-fernandes-neustart-nach-trennung-movie-terra-xplore-100/trennung-und-jetzt-mit-collien-fernandes-100",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/dokumentation/terra-xplore",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "16.03.2026 10:00",
+     "timetolive": "16.03.2036 10:00",
+     "offlineAvailability": "2036-03-16T10:00:00.000+01:00",
+     "length": 2600,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "collien-fernandes-so-geht-gutes-schlussmachen-100",
+     "basename": "260316_collien_fernandes_schlussmachen_xpo",
+     "brandTitle": "Terra Xplore",
+     "infoline": {
+      "title": "43 min · Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/terra-xplore-trennung-und-jetzt-collien-fernandes-100~1140x240?cb=1776419317259",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/terra-xplore-trennung-und-jetzt-collien-fernandes-100~1152x1296?cb=1776419317259",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/terra-xplore-trennung-und-jetzt-collien-fernandes-100~1200x480?cb=1776419317259",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "contentAttributes": {
+      "editorialDate": {
+       "screenReaderText": "Beitrag vom",
+       "title": "16.03.2026"
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    },
+    {
+     "id": "auslandsjournal---couchsurfen-in-argentinien-vom-19-maerz-2026-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/auslandsjournal---couchsurfen-in-argentinien-vom-19-maerz-2026-100",
+     "headline": "auslandsjournal",
+     "titel": "die doku: Couchsurfen in Argentinien",
+     "beschreibung": "Ein Land lernt man erst dann richtig kennen, wenn man Zeit mit den Menschen dort verbringt. Mit dieser simplen Idee reist Couchsurfer Stephan Orth nach Argentinien.",
+     "externalId": "SCMS_ce322822-28a2-4c97-adc1-52582c634e28",
+     "trackingTitle": "die_doku__Couchsurfen_in_Argentinien",
+     "sharingUrl": "https://www.zdf.de/video/dokus/auslandsjournal-die-doku-130/auslandsjournal---couchsurfen-in-argentinien-vom-19-maerz-2026-100",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/politik/auslandsjournal",
+     "seasonNumber": "2026",
+     "episodeNumber": "4",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "visibleFrom": "15.03.2026 10:00",
+     "timetolive": "15.03.2031 10:00",
+     "offlineAvailability": "2031-03-15T10:00:00.000+01:00",
+     "length": 1747,
+     "fsk": "none",
+     "geoLocation": "none",
+     "videoId": "vod-auslandsjournal---die-doku-couchsurfen-in-argentinien-vom-19-maerz-2026-100",
+     "basename": "260319_0100_sendung_ajo",
+     "brandTitle": "auslandsjournal",
+     "infoline": {
+      "title": "S2026 F04 · 29 min · Politik"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/auslandsjournal-couchsurfen-in-argentinien-102~1140x240?cb=1773841596672",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/auslandsjournal-couchsurfen-in-argentinien-102~1152x1296?cb=1773841596672",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/auslandsjournal-couchsurfen-in-argentinien-102~1200x480?cb=1773841596672",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "contentAttributes": {
+      "editorialDate": {
+       "screenReaderText": "Beitrag vom",
+       "title": "19.03.2026"
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    },
+    {
+     "id": "jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+     "type": "video",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+     "headline": "ZDFinfo Doku",
+     "titel": "Jagd auf Virus X – Droht die nächste Pandemie? ",
+     "beschreibung": "Welche Krankheit könnte die nächste Pandemie auslösen? Forschende auf der ganzen Welt suchen nach dem Erreger mit dem größten Gefahrenpotenzial, um im Ernstfall gerüstet zu sein.",
+     "externalId": "SCMS_e9977c7a-a0a4-4989-b66f-c233b89c6874",
+     "trackingTitle": "Jagd_auf_Virus_X__Droht_die_naechste_Pandemie_",
+     "sharingUrl": "https://www.zdf.de/video/dokus/zdf-info-100/jagd-auf-virus-x-droht-die-naechste-pandemie-100",
+     "contentType": "episode",
+     "currentVideoType": "episode",
+     "structureNodePath": "/zdf/dokumentation/zdfinfo-doku",
+     "seasonNumber": "2026",
+     "episodeNumber": "8",
+     "channel": "ZDFinfo",
+     "hasVideo": true,
+     "timetolive": "28.02.2029 23:59",
+     "offlineAvailability": "2029-02-28T23:59:00+01:00",
+     "length": 3474,
+     "fsk": "none",
+     "geoLocation": "de",
+     "videoId": "jagd-auf-virus-x-droht-die-naechste-pandemie-104",
+     "basename": "260401_jagd_auf_virus_x_inf",
+     "brandTitle": "ZDFinfo Doku",
+     "infoline": {
+      "title": "S2026 F08 · 57 min · Doku"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1140x240?cb=1773067443288",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1152x1296?cb=1773067443288",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/jagd-auf-virus-x-droht-die-naechste-pandemie-106~1200x480?cb=1773067443288",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "contentAttributes": {
+      "editorialDate": {
+       "screenReaderText": "Beitrag vom",
+       "title": "16.03.2026"
+      }
+     },
+     "streamingOptions": {
+      "attrs": {
+       "uhd": {
+        "screenReaderText": "Ultra HD-Qualität",
+        "enabled": false
+       },
+       "dgs": {
+        "screenReaderText": "Deutsche Gebärdensprache",
+        "enabled": false
+       },
+       "ad": {
+        "screenReaderText": "Audiodeskription",
+        "enabled": false
+       },
+       "ut": {
+        "screenReaderText": "Untertitel",
+        "enabled": true
+       }
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-poster-cellular-5"
+  },
+  {
+   "name": "Comedy und Satire",
+   "type": "teaserPoster",
+   "moreLabel": "Alle",
+   "teaser": [
+    {
+     "id": "neo-social-club-100",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/neo-social-club-100",
+     "headline": "",
+     "titel": "Neo Social Club",
+     "beschreibung": "Laura Larsson holt das Internet ins Fernsehen: Ihre prominenten Gäste müssen spielerisch auf digitalen Content reagieren. Ein wilder Ritt durch das Netz – zwischen Memekultur, Nonsens und Nostalgie.",
+     "externalId": "SCMS_fec22090-e99b-4a29-a3a3-ece8ebb462db",
+     "trackingTitle": "Neo_Social_Club",
+     "sharingUrl": "https://www.zdf.de/shows/neo-social-club-100",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/comedy/neo-social-club",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Neo Social Club",
+     "infoline": {
+      "title": "Comedy"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-neo-social-club-100~1140x240?cb=1770288566212",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-neo-social-club-100~1152x1296?cb=1770288566212",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-neo-social-club-100~1200x480?cb=1770288566212",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-neo-social-club-100~1140x240?cb=1770288779837",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-neo-social-club-100~1152x1296?cb=1770288779837",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/teaser-mit-logo-neo-social-club-100~1200x480?cb=1770288779837",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "trailerTarget": {
+      "id": "neo-social-club-trailer-teaser-102",
+      "type": "video",
+      "contentType": "clip",
+      "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/neo-social-club-trailer-teaser-102",
+      "text": "Trailer"
+     }
+    },
+    {
+     "id": "die-anstalt-104",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/die-anstalt-104",
+     "headline": "",
+     "titel": "Die Anstalt",
+     "beschreibung": "Claus von Wagner und Max Uthoff nehmen gesellschaftliche und politische Missstände satirisch aufs Korn. In immer neuen Spielarten und Rollen präsentieren sie mit ihren Gästen aktuelles Kabarett.",
+     "externalId": "SCMS_p12_sendebereich_31443710",
+     "trackingTitle": "Die_Anstalt_",
+     "textLong": "Max Uthoff, Maike Kühl und Claus von Wagner nehmen gesellschaftliche und politische Missstände satirisch aufs Korn. In immer neuen Spielarten und Rollen präsentieren sie aktuelles Kabarett.",
+     "sharingUrl": "https://www.zdf.de/shows/die-anstalt-104",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/comedy/die-anstalt",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "Die Anstalt",
+     "infoline": {
+      "title": "Comedy"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1140x240?cb=1753086757363",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1152x1296?cb=1753086757363",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1200x480?cb=1753086757363",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1140x240?cb=1753086757363",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1152x1296?cb=1753086757363",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1200x480?cb=1753086757363",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/die-anstalt-logo-mittig-100~240x270?cb=1616067636324",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/die-anstalt-logo-mittig-100~276x311?cb=1616067636324",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/die-anstalt-logo-mittig-100~314x314?cb=1616067636324",
+       "width": 314,
+       "height": 314
+      }
+     }
+    },
+    {
+     "id": "zdf-magazin-royale-102",
+     "type": "brand",
+     "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/zdf-magazin-royale-102",
+     "headline": "",
+     "titel": "ZDF Magazin Royale",
+     "beschreibung": "Von KI-Wahnsinn bis hin zu Rechtspopulismus auf Social Media: Jan Böhmermann kombiniert gesellschaftlich relevante Themen mit Witz und Ironie – journalistisch fundiert und gewohnt provokant.",
+     "externalId": "SCMS_8fe17b32-302c-4220-b848-5a6394485d23",
+     "trackingTitle": "ZDF_Magazin_Royale_-_Late-Night_mit_Jan_Boehmermann",
+     "textLong": "Unterhaltung und Relevanz in einer neuen Dimension. Die Wurzeln der Late-Night-Show kombiniert mit journalistischer Recherche – willkommen zur neuen Ära der Gesellschaftssatire mit Jan Böhmermann.",
+     "sharingUrl": "https://www.zdf.de/shows/zdf-magazin-royale-102",
+     "contentType": "brand",
+     "structureNodePath": "/zdf/comedy/zdf-magazin-royale",
+     "channel": "ZDF",
+     "hasVideo": true,
+     "brandTitle": "ZDF Magazin Royale",
+     "infoline": {
+      "title": "Comedy"
+     },
+     "teaserBild": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/hero-zdf-magazin-royale-100~1140x240?cb=1777540228678",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/hero-zdf-magazin-royale-100~1152x1296?cb=1777540228678",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/hero-zdf-magazin-royale-100~1200x480?cb=1777540228678",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "image": {
+      "1140": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1140x240?cb=1753086757363",
+       "width": 1140,
+       "height": 240
+      },
+      "1152": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1152x1296?cb=1753086757363",
+       "width": 1152,
+       "height": 1296
+      },
+      "1200": {
+       "url": "https://www.zdf.de/assets/sb-die-anstalt-buehnem-2019-100~1200x480?cb=1753086757363",
+       "width": 1200,
+       "height": 480
+      }
+     },
+     "logo": {
+      "240": {
+       "url": "https://www.zdf.de/assets/zdf-magazin-royale-logo-mittig-100~240x270?cb=1643100569661",
+       "width": 240,
+       "height": 270
+      },
+      "276": {
+       "url": "https://www.zdf.de/assets/zdf-magazin-royale-logo-mittig-100~276x311?cb=1643100569661",
+       "width": 276,
+       "height": 311
+      },
+      "314": {
+       "url": "https://www.zdf.de/assets/zdf-magazin-royale-logo-mittig-100~314x314?cb=1643100569661",
+       "width": 314,
+       "height": 314
+      }
+     }
+    }
+   ],
+   "profile": "http://zdf.de/rels/content/group-cluster-poster-cellular-5"
+  }
+ ],
+ "meta": {
+  "id": "zdfmediathek-home-apps-100",
+  "editorialDate": "",
+  "contentType": "",
+  "profile": "http://zdf.de/rels/content/page-home-cellular-5",
+  "self": "/content/documents/zdf/SCMS_48d6d4c8-a500-41b6-be4e-165843eaef12.json?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_48d6d4c8-a500-41b6-be4e-165843eaef12.json",
+  "structureNodePath": "/zdf",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_48d6d4c8-a500-41b6-be4e-165843eaef12.json?profile=cellular-5"
+ }
+}

@@ -358,15 +358,28 @@ class ReplayClient extends MediaServerClient with ReplayUnsupportedOperations {
   );
 
   @override
-  Future<List<MediaItem>> fetchMoreHubItems(String hubId, {int? limit}) async => const [];
+  Future<List<MediaItem>> fetchMoreHubItems(String hubId, {int? limit}) async =>
+      (await fetchMoreHubItemsPage(hubId, start: 0, size: limit ?? defaultHubPreviewLimit)).items;
 
+  /// "See all" of a home suggestion: the playable titles of the channel's own listing for that row.
   @override
   Future<LibraryPage<MediaItem>> fetchMoreHubItemsPage(
     String hubId, {
     int? start,
     int? size,
     AbortController? abort,
-  }) async => const LibraryPage(items: [], totalCount: 0);
+  }) async {
+    final offset = start ?? 0;
+    final behind = await _suggestions.titlesBehind(hubId, offset, size ?? defaultHubPreviewLimit);
+    if (behind == null) return const LibraryPage(items: [], totalCount: 0);
+    final mapper = await _mapperFor(behind.provider, behind.titles);
+    final items = await _watch.apply(mapper.items(behind.titles));
+    final playable = [
+      for (final item in items)
+        if (replayAvailabilityOf(item) == ReplayAvailability.playable) item,
+    ];
+    return LibraryPage(items: playable, totalCount: behind.total, offset: offset);
+  }
 
   @override
   String thumbnailUrl(String? path, {int? width, int? height, bool cover = true}) {

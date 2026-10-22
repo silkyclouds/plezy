@@ -1,0 +1,110 @@
+{
+ "document": {
+  "id": "freies-land-116",
+  "type": "video",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/freies-land-116",
+  "headline": "3sat | Spielfilm in 3sat",
+  "titel": "Freies Land",
+  "beschreibung": "1992 verschwinden zwei Schwestern in einem mecklenburgischen Städtchen spurlos. Zwei Kommissare suchen nach den Vermissten und machen eine schreckliche Entdeckung.",
+  "externalId": "SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550",
+  "sharingUrl": "https://www.zdf.de/video/filme/freies-land-movie-102/freies-land-116",
+  "contentType": "episode",
+  "currentVideoType": "episode",
+  "date": "25.09.2026 22:29",
+  "structureNodePath": "/zdf/3sat/spielfilm",
+  "channel": "3sat",
+  "visibleFrom": "23.09.2026 06:00",
+  "timetolive": "24.12.2026 23:59",
+  "offlineAvailability": "2026-12-24T23:59:00.000+01:00",
+  "length": 7446,
+  "fsk": "fsk16",
+  "geoLocation": "dach",
+  "videoId": "freies-land-110",
+  "basename": "240112_freies_land_spielfilm",
+  "streamApiUrlIOS": "https://api.zdf.de/tmd/2/ios_native_4/vod/ptmd/3sat/240112_freies_land_spielfilm",
+  "streamApiUrlAndroid": "https://api.zdf.de/tmd/2/android_native_5/vod/ptmd/3sat/240112_freies_land_spielfilm",
+  "streamApiUrlVoice": "https://api.zdf.de/tmd/2/voice_1/vod/ptmd/3sat/240112_freies_land_spielfilm",
+  "fskCheck": true,
+  "streams": [
+   {
+    "sourceVariant": "default",
+    "label": "Normal",
+    "extId": "240112_freies_land_spielfilm",
+    "geoLocation": "dach",
+    "streamApiUrlIOS": "https://api.zdf.de/tmd/2/ios_native_4/vod/ptmd/3sat/240112_freies_land_spielfilm",
+    "streamApiUrlAndroid": "https://api.zdf.de/tmd/2/android_native_5/vod/ptmd/3sat/240112_freies_land_spielfilm"
+   }
+  ],
+  "streamApiUrlFsk": "https://api.zdf.de/tmd/2/ios_native_4/vod/ptmd/3sat/240112_freies_land_spielfilm",
+  "isDownloadAllowed": false,
+  "captions": [
+   {
+    "class": "hoh",
+    "format": "ebu-tt-d-basic-de",
+    "language": "deu",
+    "offset": 0,
+    "profile": "http://zdf.de/rels/streams/ptmd/caption",
+    "uri": "https://utstreaming.zdf.de/mtt/3sat/24/01/240112_freies_land_spielfilm/4/F1026068_hoh_deu_Montagskino_Freies_Land_neu_031021.xml"
+   },
+   {
+    "class": "hoh",
+    "format": "webvtt",
+    "language": "deu",
+    "offset": 0,
+    "profile": "http://zdf.de/rels/streams/ptmd/caption",
+    "uri": "https://utstreaming.zdf.de/mtt/3sat/24/01/240112_freies_land_spielfilm/4/F1026068_hoh_deu_Montagskino_Freies_Land_neu_031021.vtt"
+   }
+  ],
+  "videoInfo": "124 min | 25.09.2026 | 💬 UT - AD",
+  "availabilityInfo": "Video verfügbar bis 24.12.2026, in Deutschland, Österreich, Schweiz, von 22 bis 6 Uhr",
+  "infoline": {
+   "iconType": "play",
+   "title": "124 min"
+  },
+  "teaserBild": {
+   "1": {
+    "url": "https://zdf-prod-futura.zdf.de/static/mediathek/fskImages/fsk_16_1280x720.jpg",
+    "width": 1,
+    "height": 1
+   }
+  },
+  "modificationDate": "2026-09-28T00:12:13.441+02:00"
+ },
+ "contentOwner": {
+  "id": "3sat-kanalseite-100",
+  "type": "externalUrl",
+  "prefix": "Ein Angebot von",
+  "titel": "3sat",
+  "url": "https://zdf-prod-futura.zdf.de/mediathekV2/document/3sat-kanalseite-100",
+  "structureNodePath": "/zdf/3sat",
+  "isKidsContent": false,
+  "externalUrl": "https://www.zdf.de/dokus/3sat-kanalseite-100",
+  "teaserBild": {
+   "240": {
+    "url": "https://www.zdf.de/assets/logo-3sat-weiss760x340-100~240x270?cb=1744113569885",
+    "width": 240,
+    "height": 270
+   },
+   "276": {
+    "url": "https://www.zdf.de/assets/logo-3sat-weiss760x340-100~276x311?cb=1744113569885",
+    "width": 276,
+    "height": 311
+   }
+  }
+ },
+ "nextVideoPersonalized": {
+  "urlUser": "https://zdf-prod-futura.zdf.de/mediathek/v2/user/recommendation/cluster?configuration=next-video&appId={appId}&abGroup={abGroup}&preferences={preferences}&assetId=SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550&pageId=SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550&servicePath=%2Freco%2Fnext-video&recoType=nextVideo&maxPlays=10&maxBookmarks=10&maxInterests=10&maxViews=10&personalized={personalized}",
+  "url": "https://zdf-prod-futura.zdf.de/mediathek/v2/recommendation/cluster?configuration=next-video&plays={plays}&appId={appId}&bookmarks={bookmarks}&interests={interests}&abGroup={abGroup}&views={views}&preferences={preferences}&assetId=SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550&pageId=SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550&servicePath=%2Freco%2Fnext-video&recoType=nextVideo"
+ },
+ "broadcasts": [],
+ "meta": {
+  "id": "freies-land-116",
+  "editorialDate": "2026-09-25T22:29:00.000+02:00",
+  "contentType": "episode",
+  "profile": "http://zdf.de/rels/content/page-video-cellular-5",
+  "self": "/content/documents/zdf/3sat/spielfilm/SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550.json?profile=cellular-5",
+  "canonical": "/content/documents/SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550.json",
+  "structureNodePath": "/zdf/3sat/spielfilm",
+  "url": "http://ssi-proxy-cache.default.svc.futura-prod/content/documents/SCMS_transfer_SCMS_a2cd7075-1055-4c10-ba56-95766b1f6550.json?profile=cellular-5"
+ }
+}
